@@ -551,10 +551,18 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o",
-      "status": "pending",
-      "attemptedAt": 0,
-      "title": "England embrace the chaos - but control also needed to win big prizesEngland embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.14 hrs agoEngland Men",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "status": "published",
+      "attemptedAt": 1790522054.5456553,
+      "title": "England Suffer 3-2 Defeat to Spain in Nations League Thriller at Wembley",
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T22:39:52.974Z",
+      "postId": "527438991760404639",
+      "requiresApproval": false,
+      "image": null,
+      "wordCount": 143,
+      "reviewedContentHash": "bec4dfc844b9e04941a24258506e2017218f019d2f88e6ea1adaa2023cd58d3d",
+      "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/england-suffer-3-2-defeat-to-spain-in.html"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cq4gmmdl52rgo",
@@ -652,10 +660,21 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cmwyz4l5nq85o",
-      "status": "pending",
-      "attemptedAt": 0,
-      "title": "4BBC reports from RAF base after major incident declared",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "status": "needs_review",
+      "attemptedAt": 1790522041.7582028,
+      "title": "Major Incident Declared Near RAF Fairford Following Infrastructure Developments",
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.gov.uk/government/news/25m-final-stage-of-raf-fairford-airfield-surfaces-refurbishment-complete",
+        "https://www.gov.uk/government/organisations/defence-infrastructure-organisation"
+      ],
+      "sourcePublishedAt": "2026-09-27T10:06:48.168Z",
+      "postId": "6522769959551200121",
+      "requiresApproval": true,
+      "image": null,
+      "wordCount": 182,
+      "reviewedContentHash": "443d91e81608824bd913890f0adeed8d2c385477d8651441ceca396ebb17813f",
+      "publicUrl": "https://daylinedispatch.blogspot.com/"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cm5ywr3wdl28o",
@@ -3265,10 +3284,18 @@
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
       "provider": "The Guardian",
-      "title": "",
-      "status": "pending",
+      "title": "Top South African Police Officer Charged with Rape and Grooming",
+      "status": "needs_review",
       "firstSeenAt": 1790520201.0993545,
-      "attemptedAt": 0
+      "attemptedAt": 1790522064.9454918,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-23T09:38:06.000Z",
+      "postId": "6853777789727733294",
+      "requiresApproval": true,
+      "image": null,
+      "wordCount": 130,
+      "reviewedContentHash": "bf2a2af6871bcf3ef32c692984e1869b966468fecba2042cd836b24cc324c1a9",
+      "publicUrl": "https://daylinedispatch.blogspot.com/"
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
@@ -4250,9 +4277,41 @@
       "status": "pending",
       "firstSeenAt": 1790520985.3384185,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/one-nation-kelvin-morton-david-farley-asshole-farrer-byelection-text-messages-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790522036.5015094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790522036.5015364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790522036.5015597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790522036.5016506,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
-  "provider_index": 3
+  "provider_index": 2
 }
