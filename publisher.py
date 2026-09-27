@@ -540,6 +540,22 @@ def render_article(article, source_url):
     return "\n".join(parts)
 
 
+def reviewed_digest(post):
+    content = {key: post.get(key) for key in ("title", "content", "labels")}
+    return hashlib.sha256(json.dumps(content, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+
+
+def publish_reviewed_draft(story, post, token):
+    if story.get("requiresApproval") is not False or not story.get("reviewedContentHash"):
+        raise Blocked("Draft requires explicit editorial approval")
+    confirmed = api_json("GET", f"https://www.googleapis.com/blogger/v3/blogs/{BLOG_ID}/posts/{post['id']}",
+                         token, params={"view": "ADMIN"})
+    if (fingerprint(story["sourceUrl"]) not in confirmed.get("content", "")
+            or reviewed_digest(confirmed) != story["reviewedContentHash"]):
+        raise Blocked("Draft changed after review; publication withheld")
+    return api_json("POST", f"https://www.googleapis.com/blogger/v3/blogs/{BLOG_ID}/posts/{post['id']}/publish", token)
+
+
 def publish_article(story, article, token, posts, auto_publish):
     existing = find_existing(posts, story["sourceUrl"])
     if existing:
@@ -549,14 +565,12 @@ def publish_article(story, article, token, posts, auto_publish):
                     params={"isDraft": "true"}, json={"kind": "blogger#post", "title": article["title"], "content": body, "labels": article["labels"]})
     posts.append(post)
     story.update(postId=post["id"], status="draft", requiresApproval=article["requires_approval"],
-                 title=article["title"], image=article["image"], wordCount=article.get("word_count"))
+                 title=article["title"], image=article["image"], wordCount=article.get("word_count"),
+                 reviewedContentHash=reviewed_digest(post))
     # Creation is always a draft. Save before the separate publication operation.
     save_state(CURRENT_STATE)
     if auto_publish and not article["requires_approval"]:
-        confirmed = api_json("GET", f"https://www.googleapis.com/blogger/v3/blogs/{BLOG_ID}/posts/{post['id']}", token)
-        if fingerprint(story["sourceUrl"]) not in confirmed.get("content", ""):
-            raise Blocked("Draft content verification failed")
-        post = api_json("POST", f"https://www.googleapis.com/blogger/v3/blogs/{BLOG_ID}/posts/{post['id']}/publish", token)
+        post = publish_reviewed_draft(story, post, token)
     return post
 
 
@@ -621,6 +635,13 @@ def run():
     for story in state["stories"]:
         existing = find_existing(posts, story["sourceUrl"])
         if existing:
+            if (existing.get("status") == "DRAFT" and os.environ.get("AUTO_PUBLISH") == "true"
+                    and story.get("requiresApproval") is False and story.get("reviewedContentHash")):
+                try:
+                    existing = publish_reviewed_draft(story, existing, token)
+                    print(f"Recovered reviewed draft publication: {existing.get('url', '')}")
+                except (Blocked, requests.RequestException) as exc:
+                    story["lastError"] = str(exc)[:200] if isinstance(exc, Blocked) else type(exc).__name__
             status = "draft"
             if existing.get("status") == "LIVE":
                 status = "published"

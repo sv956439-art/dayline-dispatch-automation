@@ -102,6 +102,25 @@ class PublishingTests(unittest.TestCase):
         self.assertEqual([s["status"] for s in p.CURRENT_STATE["stories"]], ["pending", "pending"])
         self.assertGreater(p.CURRENT_STATE["aiRetryAfter"], p.time.time())
 
+    def test_reviewed_draft_uses_admin_view_and_no_duplicate_insert(self):
+        url = "https://www.bbc.com/news/articles/abc"
+        post = {"id": "123", "title": "News", "content": f"<!-- dayline-source:{p.fingerprint(url)} -->", "labels": ["News"]}
+        story = {"sourceUrl": url, "requiresApproval": False, "reviewedContentHash": p.reviewed_digest(post)}
+        with patch.object(p, "api_json", side_effect=[post, {**post, "status": "LIVE"}]) as api:
+            result = p.publish_reviewed_draft(story, post, "fake")
+            self.assertEqual(result["status"], "LIVE")
+            self.assertEqual(api.call_args_list[0].kwargs["params"], {"view": "ADMIN"})
+            self.assertTrue(api.call_args_list[1].args[1].endswith("/123/publish"))
+        with patch.object(p, "api_json", return_value={**post, "content": "Changed"}) as api:
+            with self.assertRaises(p.Blocked):
+                p.publish_reviewed_draft(story, post, "fake")
+            self.assertEqual(api.call_count, 1)
+        story["requiresApproval"] = True
+        with patch.object(p, "api_json") as api:
+            with self.assertRaises(p.Blocked):
+                p.publish_reviewed_draft(story, post, "fake")
+            api.assert_not_called()
+
     def test_overlong_draft_gets_one_bounded_revision(self):
         source = "https://www.bbc.com/news/articles/abc"
         draft = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * 220, "sources": [source]}]}
