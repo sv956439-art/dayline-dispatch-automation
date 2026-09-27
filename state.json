@@ -840,17 +840,32 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vgyy4v938no",
-      "status": "pending",
-      "attemptedAt": 0,
-      "title": "USA's new breakout star? Sullivan living up to Premier League promiseCavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.2 hrs agoPremier League",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "status": "published",
+      "attemptedAt": 1790531883.5375407,
+      "title": "Cavan Sullivan Makes Historic Senior Debut for United States Amid Rising Expectations",
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.inquirer.com/soccer/cavan-sullivan-soccer-usmnt-union-20260923.html"
+      ],
+      "sourcePublishedAt": "2026-09-27T11:14:29.154Z",
+      "postId": "2335499723597939693",
+      "requiresApproval": false,
+      "approvalReasons": [],
+      "image": null,
+      "wordCount": 346,
+      "reviewedContentHash": "a19c7c423716e3aab617e6cff135b0208f0c0111917d8b1bca4a14fff0913915",
+      "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/cavan-sullivan-makes-historic-senior.html"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/ckm2qqpjv7nro",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790531908.148324,
       "title": "Pickford or Trafford? The battle to be England's number one is now on",
-      "firstSeenAt": "2026-09-27T12:51:36.611Z"
+      "firstSeenAt": "2026-09-27T12:51:36.611Z",
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T23:06:07.121Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790535512.7643855
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/athletics/articles/c6rr4y59n0r0o",
@@ -1721,17 +1736,21 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0nyl4zp/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790531882.3791316,
       "title": "How fruit flies led to a discovery about our body clock",
-      "firstSeenAt": "2026-09-27T13:08:08.662Z"
+      "firstSeenAt": "2026-09-27T13:08:08.662Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790535483.533152
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0p61r70/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790531907.1438766,
       "title": "Aboard one of Poland's iconic search-and-rescue ships",
-      "firstSeenAt": "2026-09-27T13:08:08.662Z"
+      "firstSeenAt": "2026-09-27T13:08:08.662Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790535508.1441185
     },
     {
       "sourceUrl": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
@@ -3649,7 +3668,13 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0996737,
-      "attemptedAt": 0
+      "attemptedAt": 1790531895.4670892,
+      "researchUrls": [
+        "https://www.elysee.fr/en/jules-grevy"
+      ],
+      "sourcePublishedAt": "2026-09-27T15:22:50.000Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 320 words",
+      "retryAfter": 1790535506.698899
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
@@ -3657,7 +3682,8 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.099688,
-      "attemptedAt": 0
+      "attemptedAt": 1790531912.7684293,
+      "lastError": "Gemini free quota reached; queue retained for a later run"
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
@@ -4206,7 +4232,9 @@
       "title": "Disappointed, but proud: fans greet Dockers back in Perth",
       "status": "pending",
       "firstSeenAt": 1790520201.9621537,
-      "attemptedAt": 0
+      "attemptedAt": 1790531881.623397,
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790535482.375323
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/sam-draper-premiership-in-first-year-after-darkest-days-/107199004",
@@ -4214,7 +4242,9 @@
       "title": "Emotions flowed as Lions went from a 'very unlikely' win to a threepeat",
       "status": "pending",
       "firstSeenAt": 1790520201.9621785,
-      "attemptedAt": 0
+      "attemptedAt": 1790531906.7031276,
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790535507.1396754
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-26/afl-grand-final-dockers-lions-shai-bolton-norm-smith-medal/107199694",
@@ -4796,20 +4826,20 @@
       "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
-  "provider_index": 2,
+  "provider_index": 3,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
   "lastRunStats": {
-    "attempted": 9,
-    "published": 0,
+    "attempted": 8,
+    "published": 1,
     "drafted": 0,
-    "deferred": 9,
-    "pending": 523,
-    "neverAttempted": 452,
+    "deferred": 7,
+    "pending": 520,
+    "neverAttempted": 444,
     "searchStatus": "local_free_search_budget_reached",
-    "completedAt": 1790531650.7282717
+    "completedAt": 1790531913.0670884
   },
   "searchBudget": {
     "month": "2026-09",
@@ -4817,5 +4847,5 @@
     "day": "2026-09-27",
     "dailyRequests": 30
   },
-  "aiRetryAfter": 1790530994.7642946
+  "aiRetryAfter": 1790535513.0628262
 }
