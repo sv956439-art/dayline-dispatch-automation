@@ -2,7 +2,7 @@
 
 For https://daylinedispatch.blogspot.com/ (Blogger ID `8702417009340647398`).
 
-**Setup is incomplete and cloud publishing is disabled.** The owner selected free-tier only: no paid APIs, billing upgrades or paid fallback. Excess stories remain queued.
+**Blogger and Gemini connections are verified; automatic public posting is awaiting a successful staged article test.** Discovery and draft research are enabled. The owner selected free-tier only: no paid APIs, billing upgrades or paid fallback. Excess stories remain queued.
 
 ## Operation
 
@@ -10,7 +10,11 @@ GitHub-hosted Linux checks accessible BBC homepage and rotating sections every f
 
 The fixed model is `gemini-3.5-flash-lite`, using standard text generation without paid search, Maps, image-generation or other tools. Google lists a free text tier for this model. Older 2.5 models have free search but access is restricted for new projects, so this workflow does not depend on them. Source discovery is link-based; insufficient evidence stays pending. No AI-generated URL is trusted without reading it. Extra verified source URLs may be added to a story's `researchUrls` list. All paragraphs need citations and each source contributes at most 200 words. Automated editorial checks are fallible; review the first draft and sample later posts.
 
-A quota response stops generation for that run and sets a one-hour cooldown. Discovery continues during cooldown; there is no paid fallback and no discarded backlog. One story per run limits runtime, not total daily posts. Free quotas may be much lower than BBC output, so a growing queue is possible. Full coverage and realtime publication are not guaranteed.
+A quota response stops generation for that run and sets a one-hour cooldown. Discovery continues during cooldown; there is no paid fallback and no discarded backlog. The configured batch size limits runtime, not total daily posts. Free quotas may be much lower than BBC output, so a growing queue is possible. Full coverage and realtime publication are not guaranteed.
+
+When BBC links are insufficient, the workflow searches up to two related topics using Wikipedia's public API and reads external reference URLs. Wikipedia text is never article evidence. The model selects candidate primary sources from observed links; each selected page must be fetched and reviewed. BBC, Wikipedia and archive mirrors are excluded as supplemental sources. A link appearing in a reference list does not itself establish that it is authoritative.
+
+Use the manual workflow's `check_connections` checkbox to verify Blogger access and one tiny Gemini response without creating posts. Service connectivity passing does not establish article quality or publication success.
 
 ## One-time setup
 

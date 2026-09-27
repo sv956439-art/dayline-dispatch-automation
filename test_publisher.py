@@ -10,6 +10,31 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_research_never_reads_invented_or_secondary_urls(self):
+        primary = "https://www.nasa.gov/research/"
+        invented = "https://www.nasa.gov/invented/"
+        bbc = "https://www.bbc.com/news/articles/secondary"
+        wiki = "https://en.wikipedia.org/wiki/Research"
+        evidence = [{"url": "https://www.bbc.com/news/articles/source"}]
+        with patch.object(p, "article_text", return_value={"url": primary}) as read:
+            p.read_selected_sources([primary, invented, bbc, wiki], {primary, bbc, wiki}, evidence)
+        read.assert_called_once_with(primary)
+        self.assertEqual(len(evidence), 2)
+
+    def test_reference_search_is_bounded_anonymous_and_only_returns_observed_links(self):
+        responses = [
+            {"query": {"search": [{"pageid": 1}, {"pageid": 2}]}},
+            {"parse": {"externallinks": ["https://www.nasa.gov/science/", "http://bad.example/", "https://en.wikipedia.org/wiki/X"]}},
+            {"parse": {"externallinks": ["https://www.nasa.gov/science/", "https://www.bbc.com/news/article/x"]}},
+            {"query": {"search": [{"pageid": 1}]}}]
+        with patch.object(p, "api_json", side_effect=responses) as api:
+            links = p.reference_candidates(["space", "research", "ignored"])
+        self.assertEqual(links, ["https://www.nasa.gov/science/"])
+        self.assertEqual(api.call_count, 4)
+        for call in api.call_args_list:
+            self.assertEqual(call.args, ("GET", "https://en.wikipedia.org/w/api.php"))
+            self.assertNotIn("token", call.kwargs)
+
     def test_timeout_does_not_expose_request_or_credential(self):
         with patch.dict(p.os.environ, {"FREE_TIER_CONFIRMED": "true", "GEMINI_API_KEY": "fake"}), patch.object(p.SESSION, "post", side_effect=p.requests.ReadTimeout("secret-request-details")):
             with self.assertRaisesRegex(p.Blocked, "Gemini request timed out") as error:
