@@ -14,3 +14,23 @@ For a local benchmark, install Ollama, disable cloud features (`OLLAMA_NO_CLOUD=
 GitHub: Actions → Local model development test → Run workflow. This is an occasional software evaluation, not a scheduled inference host. Standard public Linux runners have four CPUs and 16 GB RAM, so generation must be measured rather than assumed fast. GitHub's product terms restrict general serverless/application hosting and unrelated workloads. A production model needs a suitable always-on computer or hosting plan; free inference weights do not provide free, unlimited hosting. No billing service has been enabled.
 
 Sources: [Qwen model and license](https://ollama.com/library/qwen3:4b), [Ollama local-only mode](https://docs.ollama.com/faq), [runner specifications](https://docs.github.com/en/actions/reference/runners/github-hosted-runners), [Actions terms](https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features).
+# Editorial reliability development
+
+The local prototype now audits the title, headings and each body sentence against
+its cited evidence. The review rejects incomplete claim coverage, invented source
+excerpts, unknown citations and unsupported numerical values. It also flags near
+duplicate sentences. One factual repair is allowed, followed by a fresh review and
+the existing 300–800 body-word/source-contribution checks. The audit records hashes
+of the article and evidence. An unresolved finding fails the development benchmark.
+
+`editorial_eval.py` contains ten hand-labelled fictional cases spanning a museum
+and a transport trial: five supported statements and five seeded errors covering
+certainty, price scope, jobs, privacy and claimed outcomes. Expected answers are
+not included in model prompts. The benchmark reports false accepts and false
+rejects, then generates and reviews a separate fictional seed-library article.
+These few examples do not establish real-world accuracy. Same-model review shares
+the writer's possible blind spots; exact quote matching establishes provenance,
+not logical entailment. Source trust, freshness, contradictions, attribution,
+image suitability and editorial judgment still require broader evaluation.
+
+No test article is published. This development gate is not connected to Blogger.
