@@ -1,0 +1,7 @@
+.env*
+!*example*
+*credentials*.json
+*token*.json
+__pycache__/
+.venv/
+drafts/
