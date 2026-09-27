@@ -21,20 +21,50 @@ class PublishingTests(unittest.TestCase):
             p.verify_public(post)
         self.assertEqual(get.call_count, 1)
 
-    def test_supported_single_source_summary_is_accepted(self):
+    def test_short_single_source_summary_is_withheld(self):
         url = "https://www.bbc.com/news/articles/source"
         draft = {"title": "An original summary", "labels": ["Culture"], "blocks": [
             {"text": "word " * 170, "sources": [url]}]}
-        self.assertEqual(p.validate_article(draft, {url}), 170)
-        draft["blocks"][0]["text"] = "word " * 201
+        with self.assertRaisesRegex(p.Blocked, "400–800"):
+            p.validate_article(draft, {url})
+        draft["blocks"][0]["text"] = "word " * 400
         with self.assertRaisesRegex(p.Blocked, "200-word limit"):
             p.validate_article(draft, {url})
 
     def test_two_source_context_does_not_require_five_sources(self):
         draft = article()
         draft["blocks"] = draft["blocks"][:2]
+        for block in draft["blocks"]:
+            block["text"] = "word " * 200
         urls = {u for block in draft["blocks"] for u in block["sources"]}
-        self.assertEqual(p.validate_article(draft, urls), 320)
+        self.assertEqual(p.validate_article(draft, urls), 400)
+
+    def test_length_boundaries_exclude_headings(self):
+        for total, accepted in [(399, False), (400, True), (800, True), (801, False)]:
+            draft = article()
+            draft["blocks"] = [{"heading": "Heading " * 50, "text": "word " * min(200, total - start),
+                                "sources": [f"https://example.org/{start}"]}
+                               for start in range(0, total, 200)]
+            urls = {u for block in draft["blocks"] for u in block["sources"]}
+            if accepted:
+                self.assertEqual(p.validate_article(draft, urls), total)
+            else:
+                with self.assertRaisesRegex(p.Blocked, "400–800"):
+                    p.validate_article(draft, urls)
+
+    def test_commons_thumbnail_host_is_accepted_but_lookalike_is_rejected(self):
+        info = {"thumburl": "https://thumb.wikimedia.org/photo.jpg",
+                "descriptionurl": "https://commons.wikimedia.org/wiki/File:Real.jpg",
+                "extmetadata": {"LicenseShortName": {"value": "CC BY 2.0"}}}
+        response = {"query": {"pages": {"1": {"imageinfo": [info]}}}}
+        with patch.object(p, "api_json", return_value=response), patch.object(p, "public_get", return_value=Mock(headers={"Content-Type": "image/jpeg"})) as get:
+            self.assertEqual(p.commons_image("File:Real.jpg")["url"], info["thumburl"])
+            get.assert_called_once()
+            get.reset_mock()
+            info["thumburl"] = "https://thumb.wikimedia.org.attacker.example/photo.jpg"
+            with self.assertRaisesRegex(p.Blocked, "Unexpected image host"):
+                p.commons_image("File:Real.jpg")
+            get.assert_not_called()
 
     def test_photo_selection_cannot_use_invented_file(self):
         with patch.object(p, "api_json", return_value={"query": {"search": [{"title": "File:Real.jpg"}]}}), patch.object(p, "response_json", return_value={"photo_title": "File:Invented.jpg"}), patch.object(p, "commons_image") as photo:
@@ -105,7 +135,7 @@ class PublishingTests(unittest.TestCase):
     def test_reviewed_draft_uses_admin_view_and_no_duplicate_insert(self):
         url = "https://www.bbc.com/news/articles/abc"
         post = {"id": "123", "title": "News", "content": f"<!-- dayline-source:{p.fingerprint(url)} -->", "labels": ["News"]}
-        story = {"sourceUrl": url, "requiresApproval": False, "reviewedContentHash": p.reviewed_digest(post)}
+        story = {"sourceUrl": url, "requiresApproval": False, "wordCount": 480, "reviewedContentHash": p.reviewed_digest(post)}
         with patch.object(p, "api_json", side_effect=[post, {**post, "status": "LIVE"}]) as api:
             result = p.publish_reviewed_draft(story, post, "fake")
             self.assertEqual(result["status"], "LIVE")
@@ -115,6 +145,11 @@ class PublishingTests(unittest.TestCase):
             with self.assertRaises(p.Blocked):
                 p.publish_reviewed_draft(story, post, "fake")
             self.assertEqual(api.call_count, 1)
+        story["wordCount"] = 170
+        with patch.object(p, "api_json") as api:
+            with self.assertRaisesRegex(p.Blocked, "400–800"):
+                p.publish_reviewed_draft(story, post, "fake")
+            api.assert_not_called()
         story["requiresApproval"] = True
         with patch.object(p, "api_json") as api:
             with self.assertRaises(p.Blocked):
@@ -123,15 +158,17 @@ class PublishingTests(unittest.TestCase):
 
     def test_overlong_draft_gets_one_bounded_revision(self):
         source = "https://www.bbc.com/news/articles/abc"
-        draft = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * 220, "sources": [source]}]}
-        revised = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * 160, "sources": [source]}]}
+        urls = [source, "https://example.org/a", "https://example.org/b"]
+        evidence = [{"url": url} for url in urls]
+        draft = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * (220 if i == 0 else 160), "sources": [url]} for i, url in enumerate(urls)]}
+        revised = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * 160, "sources": [url]} for url in urls]}
         with patch.object(p, "response_json", return_value=revised) as model:
-            result = p.validate_or_revise(draft, [{"url": source}], None)
-            self.assertEqual(result["word_count"], 160)
+            result = p.validate_or_revise(draft, evidence, None)
+            self.assertEqual(result["word_count"], 480)
             self.assertEqual(model.call_count, 1)
         with patch.object(p, "response_json", return_value=draft) as model:
             with self.assertRaises(p.Blocked):
-                p.validate_or_revise(draft, [{"url": source}], None)
+                p.validate_or_revise(draft, evidence, None)
             self.assertEqual(model.call_count, 1)
 
     def test_supported_outlet_urls_reject_navigation_and_lookalikes(self):
