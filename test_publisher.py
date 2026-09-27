@@ -10,6 +10,12 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_photo_selection_cannot_use_invented_file(self):
+        with patch.object(p, "api_json", return_value={"query": {"search": [{"title": "File:Real.jpg"}]}}), patch.object(p, "response_json", return_value={"photo_title": "File:Invented.jpg"}), patch.object(p, "commons_image") as photo:
+            with self.assertRaises(p.Blocked):
+                p.find_photo("mountain photograph", {"text": "source"})
+            photo.assert_not_called()
+
     def test_research_never_reads_invented_or_secondary_urls(self):
         primary = "https://www.nasa.gov/research/"
         invented = "https://www.nasa.gov/invented/"
