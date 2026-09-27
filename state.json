@@ -5045,9 +5045,25 @@
       "status": "pending",
       "firstSeenAt": 1790538029.9062448,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/ck1wxy1nwq4zo",
+      "provider": "BBC",
+      "title": "Heroic York rearguard stuns Wigan in Grand Final",
+      "status": "pending",
+      "firstSeenAt": 1790538469.3834999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/showers-school-holidays-queensland-weather/107201106",
+      "provider": "ABC News Australia",
+      "title": "Gloomy forecast for south-east Queensland before skies clear again",
+      "status": "pending",
+      "firstSeenAt": 1790538470.5467923,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 0,
   "researchPolicyVersion": 2,
