@@ -5226,9 +5226,41 @@
       "status": "pending",
       "firstSeenAt": 1790543010.005406,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gd1r8dk1ko",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790543864.1445367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cqe8xr05dj1no",
+      "provider": "BBC",
+      "title": "McNulty first US world road race winner in 33 years Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal. 43 mins ago Cycling",
+      "status": "pending",
+      "firstSeenAt": 1790543864.1449633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/federal-politics-live-blog-chalmers-budget/107202364",
+      "provider": "ABC News Australia",
+      "title": "Treasurer to unveil $6 billion improvement to federal budget",
+      "status": "pending",
+      "firstSeenAt": 1790543865.3770444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/arrernte-boxer-12-impresses-ais-after-age-exemption/107187132",
+      "provider": "ABC News Australia",
+      "title": "Young Arrernte boxer sets sights on Olympics after AIS opportunity",
+      "status": "pending",
+      "firstSeenAt": 1790543865.377823,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
