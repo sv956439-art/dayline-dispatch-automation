@@ -249,6 +249,12 @@ def find_existing(posts, source_url):
 
 
 def response_json(instructions, payload, max_output_tokens=12000):
+    if os.environ.get("AI_BACKEND") == "local":
+        from local_model import LocalModel, LocalModelError
+        try:
+            return LocalModel().generate_json(instructions, payload)
+        except LocalModelError as exc:
+            raise Blocked(str(exc)) from None
     if os.environ.get("FREE_TIER_CONFIRMED") != "true":
         raise Blocked("Verify Gemini project is Free tier with billing disabled first")
     key = os.environ.get("GEMINI_API_KEY")
@@ -358,6 +364,9 @@ def web_candidates(queries, state):
     Use a dedicated free Tavily account with billing disabled. Reserve each basic
     search before sending it so errors also count against the durable budget.
     """
+    if os.environ.get("AI_BACKEND") == "local":
+        state["searchStatus"] = "local_only: observed source links and queued news"
+        return []
     key = os.environ.get("TAVILY_API_KEY")
     if not key:
         state["searchStatus"] = "not_configured: add TAVILY_API_KEY for general web search"
@@ -512,6 +521,9 @@ def validate_or_revise(article, evidence, image):
 
 
 def generate(story, state):
+    if os.environ.get("AI_BACKEND") == "local":
+        from local_publisher import generate_local
+        return generate_local(story, state)
     print("Reading news source and planning research.", flush=True)
     source = article_text(story["sourceUrl"])
     plan = response_json(
@@ -742,9 +754,17 @@ def run():
         if failures:
             raise Blocked("News discovery could not complete; see state.json discovery_errors")
         return
-    if time.time() < state.get("aiRetryAfter", 0):
+    if os.environ.get("AI_BACKEND") != "local" and time.time() < state.get("aiRetryAfter", 0):
         print("Free-tier quota cooldown; discovery continues and all stories remain queued.")
         return
+    if os.environ.get("AI_BACKEND") == "local":
+        from local_model import LocalModel, LocalModelError
+        try:
+            LocalModel().verify_model()
+        except LocalModelError as exc:
+            raise Blocked(str(exc)) from None
+        state.pop("aiRetryAfter", None)
+        state["searchStatus"] = "local_only: observed source links and queued news"
     token = blogger_token()
     posts = existing_posts(token)
     # Reconcile interrupted writes and import posts created by the desktop monitor.

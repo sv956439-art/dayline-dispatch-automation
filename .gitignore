@@ -7,3 +7,5 @@ __pycache__/
 drafts/
 local-corpus.sqlite*
 local-model-results/
+*.lock
+private-state/

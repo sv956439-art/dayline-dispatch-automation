@@ -1,4 +1,13 @@
-# Dayline Dispatch cloud publishing
+# Dayline Dispatch publishing
+
+## Current mode: local-only migration
+
+The owner requested local-only writing on 28 September 2026. Scheduled Actions now
+only discover and preserve the queue; they receive no Gemini, Tavily or Blogger
+credentials. Local automatic publication is implemented in `local_worker.py`, but
+has not been deployed to a production host. This PC is not authorized to run it.
+See [LOCAL_PUBLISHING.md](LOCAL_PUBLISHING.md) for setup, checks and known model
+limitations. The historical Gemini setup below is retained as reference only.
 
 For https://daylinedispatch.blogspot.com/ (Blogger ID `8702417009340647398`).
 
