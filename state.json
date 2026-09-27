@@ -182,9 +182,12 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c20zgjzz0e4o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518346.075801,
       "title": "UK gas and diesel prices hit highest since 2022",
-      "firstSeenAt": "2026-09-27T12:42:04.125Z"
+      "firstSeenAt": "2026-09-27T12:42:04.125Z",
+      "researchUrls": [],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790604747.197838
     },
     {
       "sourceUrl": "https://www.bbc.com/travel/article/20250829-the-himalayan-village-where-you-can-see-the-cosmos",
@@ -245,9 +248,15 @@
     {
       "sourceUrl": "https://www.bbc.com/travel/article/20260921-why-are-there-so-few-rubbish-bins-in-japan",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518347.2005963,
       "title": "6 days agoJapan's streets are spotless. So where are all the rubbish bins?From a deadly 1995 attack to deeply ingrained social norms, the story of Japan's scarce rubbish bins is more complicated than it first appears.6 days ago",
-      "firstSeenAt": "2026-09-27T12:42:04.125Z"
+      "firstSeenAt": "2026-09-27T12:42:04.125Z",
+      "researchUrls": [
+        "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
+        "https://www.bbc.com/travel/article/20260312-10-things-all-visitors-to-japan-should-know"
+      ],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790604782.3841941
     },
     {
       "sourceUrl": "https://www.bbc.com/travel/article/20260917-sleep-in-a-different-century-along-the-co-canal",
@@ -357,9 +366,12 @@
     {
       "sourceUrl": "https://www.bbc.com/news/live/c65y7nl29k0et",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518382.3869836,
       "title": "LIVECounter-terror police lead investigation into major incident near RAF base used by US Air ForceMen arrested on suspicion of explosive offences and major incident declared. The US Air Force, which uses the RAF base in England for long-range bombing missions, says it will \"remain vigilant\".",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790604783.1085086
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cq70dgdndr46o",
@@ -2636,8 +2648,288 @@
       "status": "pending",
       "firstSeenAt": 1790518025.793158,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8xkvzlz0x4o",
+      "title": "India is producing more green energy - but wasting a lot of it",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9525428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325421",
+      "title": "Deep Down and Dirty: The Science of Soil",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9526048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325419",
+      "title": "Natural World: Volume X",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9526227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10300321",
+      "title": "Walking with Dinosaurs",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9526505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10299215",
+      "title": "Stonehenge: The Lost Circle Revealed",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9526658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10299209",
+      "title": "How to Build A Dinosaur",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9526806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10299219",
+      "title": "Mountains: Life Above the Clouds",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9526958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10300315",
+      "title": "Dolly: The Sheep that Changed the World",
+      "status": "pending",
+      "firstSeenAt": 1790518343.95271,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10296967",
+      "title": "Wild Mexico",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9527247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10296957",
+      "title": "Changing Planet I",
+      "status": "pending",
+      "firstSeenAt": 1790518343.952739,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10296960",
+      "title": "Changing Planet: River Restoration",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9527533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10249290",
+      "title": "History of Mother Earth: Gaia Uncovered",
+      "status": "pending",
+      "firstSeenAt": 1790518343.952769,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10239302",
+      "title": "Life at 50 Degrees Celsius",
+      "status": "pending",
+      "firstSeenAt": 1790518343.952784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10296950",
+      "title": "Expedition Killer Whale",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9527974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlylxxp3xg9o",
+      "title": "Why families are being urged to look closer on autumn walks",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9528246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68xknvr42kjo",
+      "title": "Heat and drought put record demand on fire service",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9528384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckge4w39z2zeo",
+      "title": "Solar farm construction to begin in November",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9528522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20240613-how-to-cool-down-urban-heat-islands-in-americas-heatwaves",
+      "title": "Life in a heat dome: How do you cool a 100F city? From planting trees to painting streets white, US cities are fighting extreme heat.",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9528692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260422-bees-and-breadfruit-how-fijians-predict-cyclones",
+      "title": "Bees behaving strangely? It must be hurricane season In Fiji in the South Pacific, farmers are reading nature's warning signs to predict hurricanes – from creeping Yam vines to hornets nesting.",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9528875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0nb7pnb/watch",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9529033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/ckly58lmy2gvo",
+      "title": "Which emergency foods should you stock up on? The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+      "status": "pending",
+      "firstSeenAt": 1790518343.952929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/cred7xze25ndo",
+      "title": "Will El Niño bring winter snow to the UK? Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9529452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/ckgw3ngep09o",
+      "title": "August joint hottest month on record globally BBC Weather Presenter Simon King explains the figures.",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9529617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/cx2z642lq6wo",
+      "title": "Will El Nino bring chaos to UK weather? Will El Nino bring chaos to UK weather?",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9529774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/cn74vl31r48o",
+      "title": "Met Office: Summer 2026 was UK's hottest ever The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9529924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/c0qxd90e99eo",
+      "title": "Reform council leader: 'Climate emergency was gesture politics'",
+      "status": "pending",
+      "firstSeenAt": 1790518343.953006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8d322y7y15o",
+      "title": "1 day ago Butterfly populations 'could crash' due to weather More than 77,000 butterflies were recorded in Devon while 47,000 were spotted in Cornwall this July. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9530232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy9zvw47v90o",
+      "title": "3 days ago Just how hot and dry was your summer? Use our postcode lookup to find out Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9530401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxddvjzy4yd9o",
+      "title": "3 days ago Apple Day called off after poor harvest It is the first time the event has been cancelled in 24 years. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9530566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckge4wn195nwo",
+      "title": "3 days ago Climate emergency declaration scrapped by council Two members of the public are removed from the gallery during the Calderdale Council debate. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9530735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3v4y0d100qo",
+      "title": "3 days ago Reform could scrap climate emergency declaration The declaration was made by the Conservative council five years ago. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9530911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2z336jwgwo",
+      "title": "3 days ago Wasp spider spotted in region for first time Wasp spiders pose no threat to humans, despite their warning colours and size, Chester Zoo says. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9531083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g7v71p1wxo",
+      "title": "3 days ago Why are data centres with gas plants being branded 'insane'? A group says the annual emissions of two proposed data centres will be greater than Luton Airport. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9531248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrerllplw8vo",
+      "title": "4 days ago How unpredictable climate is changing parks Shrewsbury Town Council says a warming climate is changing how it cares for green spaces 4 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.953142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c607ly09y7rlo",
+      "title": "4 days ago UK warned over ballooning debt costs and slower growth ahead of Budget Higher energy prices due to the conflict in the Middle East and climate change could hit growth. 4 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9531581,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxe87mp60lg2o",
+      "title": "4 days ago Thames tunnel plan to heat 650,000 homes gets £41m A new pipeline along the Thames will use heat from industry and redistribute it to homes across London. 4 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.953174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3pwlejxrd7do",
+      "title": "4 days ago Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets' Farmers fear they may not be able to carry out environmental work because they lost out on funding. 4 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9531896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8zxzq56gne3o",
+      "title": "4 days ago Reform leader 'getting to grips' with council finances Dan Sutherland of Calderdale Council pledges not to raise council tax by the maximum amount. 4 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9532056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62j13gnyrko",
+      "title": "4 days ago More than 170,000 respiratory cases recorded in haze-choked Indonesia More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers. 4 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.953222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj750xnxpleeo",
+      "title": "6 days ago How climate change is reshaping Britain's trees Hotter summers are forcing growers to rethink which trees thrive in the UK. 6 days ago",
+      "status": "pending",
+      "firstSeenAt": 1790518343.9532492,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": []
 }
