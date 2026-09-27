@@ -5394,9 +5394,17 @@
       "status": "pending",
       "firstSeenAt": 1790550566.5630932,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/college-football-coach-pj-fleck-goes-viral-with-blood-smear/107202676",
+      "provider": "ABC News Australia",
+      "title": "Coach goes viral after smearing player's blood on own face",
+      "status": "pending",
+      "firstSeenAt": 1790551277.500383,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
