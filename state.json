@@ -5442,9 +5442,25 @@
       "status": "pending",
       "firstSeenAt": 1790551910.5973313,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/south-korea-demands-apology-from-ukraine-over-pow-announcement/107202624",
+      "provider": "ABC News Australia",
+      "title": "South Korea demands Ukraine apologise for announcing POW transfer",
+      "status": "pending",
+      "firstSeenAt": 1790552523.7626016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526",
+      "provider": "ABC News Australia",
+      "title": "Morning kayakers treated to rare dolphin sighting in Sydney Harbour",
+      "status": "pending",
+      "firstSeenAt": 1790552523.762693,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
