@@ -102,6 +102,37 @@ class PublishingTests(unittest.TestCase):
         self.assertEqual([s["status"] for s in p.CURRENT_STATE["stories"]], ["pending", "pending"])
         self.assertGreater(p.CURRENT_STATE["aiRetryAfter"], p.time.time())
 
+    def test_supported_outlet_urls_reject_navigation_and_lookalikes(self):
+        self.assertEqual(p.news_provider("https://www.theguardian.com/science/2026/sep/27/new-discovery"), "The Guardian")
+        self.assertEqual(p.news_provider("https://www.abc.net.au/news/2026-09-27/story/12345"), "ABC News Australia")
+        self.assertEqual(p.news_provider("https://www.bbc.com/news/articles/abc123"), "BBC")
+        for url in ["https://www.theguardian.com/world", "https://www.theguardian.com/world/live/2026/sep/27/report", "https://www.abc.net.au/news", "https://www.bbc.com.attacker.example/news/articles/abc", "http://www.bbc.com/news/articles/abc"]:
+            self.assertIsNone(p.news_provider(url))
+
+    def test_multi_outlet_discovery_is_deduplicated(self):
+        guardian = "https://www.theguardian.com/science/2026/sep/27/discovery"
+        abc = "https://www.abc.net.au/news/2026-09-27/science/12345"
+        bbc = "https://www.bbc.com/news/articles/abc123"
+        page = Mock(text=''.join(f'<a href="{u}">Title</a>' for u in [bbc, guardian, abc, guardian+'?tracking=1']))
+        state = {"stories": []}
+        with patch.object(p, "public_get", return_value=page), patch.object(p, "save_state"):
+            self.assertEqual(p.discover(state), [])
+            p.discover(state)
+        self.assertEqual({s["sourceUrl"] for s in state["stories"]}, {bbc, guardian, abc})
+        self.assertEqual(len(state["stories"]), 3)
+
+    def test_large_bbc_backlog_does_not_starve_other_outlets(self):
+        stories = [{"sourceUrl": f"https://www.bbc.com/news/articles/a{i}", "status": "pending"} for i in range(100)]
+        stories += [{"sourceUrl": "https://www.theguardian.com/science/2026/sep/27/story", "status": "pending"},
+                    {"sourceUrl": "https://www.abc.net.au/news/2026-09-27/story/12345", "status": "pending"}]
+        state = {"stories": stories}
+        self.assertEqual([p.news_provider(s["sourceUrl"]) for s in p.select_pending(state, 3)], ["BBC", "The Guardian", "ABC News Australia"])
+        state["provider_index"] = 0
+        self.assertEqual(p.news_provider(p.select_pending(state, 1)[0]["sourceUrl"]), "BBC")
+        self.assertEqual(p.news_provider(p.select_pending(state, 1)[0]["sourceUrl"]), "The Guardian")
+        stories[-1]["retryAfter"] = p.time.time() + 1000
+        self.assertNotIn(stories[-1], p.select_pending(state, 10))
+
     def test_tracking_parameters_do_not_create_duplicates(self):
         self.assertEqual(p.fingerprint("https://www.bbc.com/news/articles/abc?tracking=1#top"), p.fingerprint("https://www.bbc.com/news/articles/abc"))
 
