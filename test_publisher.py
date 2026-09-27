@@ -102,6 +102,19 @@ class PublishingTests(unittest.TestCase):
         self.assertEqual([s["status"] for s in p.CURRENT_STATE["stories"]], ["pending", "pending"])
         self.assertGreater(p.CURRENT_STATE["aiRetryAfter"], p.time.time())
 
+    def test_overlong_draft_gets_one_bounded_revision(self):
+        source = "https://www.bbc.com/news/articles/abc"
+        draft = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * 220, "sources": [source]}]}
+        revised = {"title": "News", "labels": ["News"], "blocks": [{"text": "word " * 160, "sources": [source]}]}
+        with patch.object(p, "response_json", return_value=revised) as model:
+            result = p.validate_or_revise(draft, [{"url": source}], None)
+            self.assertEqual(result["word_count"], 160)
+            self.assertEqual(model.call_count, 1)
+        with patch.object(p, "response_json", return_value=draft) as model:
+            with self.assertRaises(p.Blocked):
+                p.validate_or_revise(draft, [{"url": source}], None)
+            self.assertEqual(model.call_count, 1)
+
     def test_supported_outlet_urls_reject_navigation_and_lookalikes(self):
         self.assertEqual(p.news_provider("https://www.theguardian.com/science/2026/sep/27/new-discovery"), "The Guardian")
         self.assertEqual(p.news_provider("https://www.abc.net.au/news/2026-09-27/story/12345"), "ABC News Australia")
