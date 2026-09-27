@@ -5194,9 +5194,41 @@
       "status": "pending",
       "firstSeenAt": 1790542511.4294934,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrm99mm9l84o",
+      "provider": "BBC",
+      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+      "status": "pending",
+      "firstSeenAt": 1790543009.108981,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqlyk0141lelo",
+      "provider": "BBC",
+      "title": "Republic of Ireland defeat Israel in Debrecen Republic of Ireland claim the first win of their Nations League B3 campaign with an impressive showing in a 3-0 victory against Israel in Debrecen.",
+      "status": "pending",
+      "firstSeenAt": 1790543009.1099234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/asx-markets-business-live-news-september-28/107201818",
+      "provider": "ABC News Australia",
+      "title": "Wall Street closes higher, ASX lacks direction ahead of rates decision",
+      "status": "pending",
+      "firstSeenAt": 1790543010.0053914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/murder-investigation-after-fernvale-death/107202398",
+      "provider": "ABC News Australia",
+      "title": "Police launch murder probe after death west of Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1790543010.005406,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
