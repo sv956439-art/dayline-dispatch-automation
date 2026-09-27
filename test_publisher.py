@@ -221,6 +221,10 @@ class PublishingTests(unittest.TestCase):
             result = p.validate_or_revise(draft, evidence, None)
             self.assertEqual(result["word_count"], 480)
             self.assertEqual(model.call_count, 1)
+            feedback = model.call_args.args[1]
+            self.assertEqual(feedback["measured_body_words"], 540)
+            self.assertEqual(feedback["measured_words_per_source"][source], 220)
+            self.assertIn("220", feedback["validation_error"])
         with patch.object(p, "response_json", return_value=draft) as model:
             with self.assertRaises(p.Blocked):
                 p.validate_or_revise(draft, evidence, None)
