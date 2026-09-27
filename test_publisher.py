@@ -10,6 +10,61 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_web_search_reserves_budget_and_uses_basic_url_discovery_only(self):
+        state = {}
+        response = Mock(status_code=200, ok=True, is_redirect=False)
+        response.json.return_value = {"results": [
+            {"url": "https://www.bbc.com/news/articles/real", "title": "Real", "content": "Never use snippet as evidence"},
+            {"url": "http://unsafe.example", "title": "Ignored"}]}
+        with patch.dict(p.os.environ, {"TAVILY_API_KEY": "fake-search-key", "TAVILY_FREE_TIER_CONFIRMED": "true"}), patch.object(p, "save_state") as save, patch.object(p.SESSION, "post", return_value=response) as post:
+            rows = p.web_candidates(["public news", "public news"], state)
+        self.assertEqual(rows, [{"url": "https://www.bbc.com/news/articles/real", "title": "Real"}])
+        self.assertEqual(state["searchBudget"]["monthlyRequests"], 1)
+        self.assertGreaterEqual(save.call_count, 2)
+        self.assertEqual(post.call_count, 1)
+        self.assertEqual(post.call_args.args[0], "https://api.tavily.com/search")
+        payload = post.call_args.kwargs["json"]
+        self.assertEqual(payload["search_depth"], "basic")
+        self.assertFalse(payload["auto_parameters"])
+        self.assertFalse(payload["include_raw_content"])
+        self.assertFalse(post.call_args.kwargs["allow_redirects"])
+
+    def test_search_requires_free_confirmation_and_stops_at_budget(self):
+        state = {"searchBudget": {"month": p.time.strftime("%Y-%m", p.time.gmtime()),
+                 "day": p.time.strftime("%Y-%m-%d", p.time.gmtime()), "monthlyRequests": 900, "dailyRequests": 0}}
+        with patch.dict(p.os.environ, {"TAVILY_API_KEY": "fake", "TAVILY_FREE_TIER_CONFIRMED": "false"}), patch.object(p.SESSION, "post") as post:
+            self.assertEqual(p.web_candidates(["news"], state), [])
+            post.assert_not_called()
+        with patch.dict(p.os.environ, {"TAVILY_API_KEY": "fake", "TAVILY_FREE_TIER_CONFIRMED": "true"}), patch.object(p, "save_state"), patch.object(p.SESSION, "post") as post:
+            self.assertEqual(p.web_candidates(["news"], state), [])
+            post.assert_not_called()
+
+    def test_search_quota_keeps_sources_and_never_tries_paid_fallback(self):
+        state = {}
+        with patch.dict(p.os.environ, {"TAVILY_API_KEY": "fake", "TAVILY_FREE_TIER_CONFIRMED": "true"}), patch.object(p, "save_state"), patch.object(p.SESSION, "post", return_value=Mock(status_code=432)) as post:
+            self.assertEqual(p.web_candidates(["one", "two"], state), [])
+        self.assertEqual(post.call_count, 1)
+        self.assertGreater(state["searchBudget"]["retryAfter"], p.time.time())
+
+    def test_blocked_candidates_are_replaced_until_publication_target(self):
+        state = {"stories": [{"sourceUrl": f"https://www.bbc.com/news/articles/{i}", "status": "pending"} for i in range(4)]}
+        draft = article()
+        draft.update(word_count=800, requires_approval=False, image=None)
+        post = {"id": "new", "status": "LIVE", "url": "https://daylinedispatch.blogspot.com/news.html"}
+        with patch.dict(p.os.environ, {"AI_ENABLED": "true", "MAX_STORIES_PER_RUN": "1", "GITHUB_STEP_SUMMARY": ""}), patch.object(p.Path, "read_text", return_value=p.json.dumps(state)), patch.object(p, "discover", return_value=[]), patch.object(p, "blogger_token", return_value="fake"), patch.object(p, "existing_posts", return_value=[]), patch.object(p, "save_state"), patch.object(p, "generate", side_effect=[p.Blocked("source unavailable"), p.Blocked("more research"), draft]) as generate, patch.object(p, "publish_article", return_value=post), patch.object(p, "verify_public"):
+            p.run()
+        self.assertEqual(generate.call_count, 3)
+        self.assertEqual(p.CURRENT_STATE["lastRunStats"]["published"], 1)
+        self.assertEqual(p.CURRENT_STATE["lastRunStats"]["neverAttempted"], 1)
+        self.assertEqual(p.CURRENT_STATE["stories"][0]["status"], "pending")
+
+    def test_article_candidates_precede_legacy_videos_without_deleting_them(self):
+        video = {"sourceUrl": "https://www.bbc.com/news/videos/old", "status": "pending"}
+        text = {"sourceUrl": "https://www.bbc.com/news/articles/new", "status": "pending"}
+        state = {"stories": [video, text]}
+        self.assertEqual(p.select_pending(state, 1), [text])
+        self.assertIn(video, state["stories"])
+
     def test_text_only_article_renders_and_verifies_without_thumbnail(self):
         draft = article()
         draft["image"] = None
@@ -25,7 +80,7 @@ class PublishingTests(unittest.TestCase):
         url = "https://www.bbc.com/news/articles/source"
         draft = {"title": "An original summary", "labels": ["Culture"], "blocks": [
             {"text": "word " * 170, "sources": [url]}]}
-        with self.assertRaisesRegex(p.Blocked, "400–800"):
+        with self.assertRaisesRegex(p.Blocked, "300–800"):
             p.validate_article(draft, {url})
         draft["blocks"][0]["text"] = "word " * 400
         with self.assertRaisesRegex(p.Blocked, "200-word limit"):
@@ -40,7 +95,7 @@ class PublishingTests(unittest.TestCase):
         self.assertEqual(p.validate_article(draft, urls), 400)
 
     def test_length_boundaries_exclude_headings(self):
-        for total, accepted in [(399, False), (400, True), (800, True), (801, False)]:
+        for total, accepted in [(299, False), (300, True), (800, True), (801, False)]:
             draft = article()
             draft["blocks"] = [{"heading": "Heading " * 50, "text": "word " * min(200, total - start),
                                 "sources": [f"https://example.org/{start}"]}
@@ -49,7 +104,7 @@ class PublishingTests(unittest.TestCase):
             if accepted:
                 self.assertEqual(p.validate_article(draft, urls), total)
             else:
-                with self.assertRaisesRegex(p.Blocked, "400–800"):
+                with self.assertRaisesRegex(p.Blocked, "300–800"):
                     p.validate_article(draft, urls)
 
     def test_commons_thumbnail_host_is_accepted_but_lookalike_is_rejected(self):
@@ -72,7 +127,7 @@ class PublishingTests(unittest.TestCase):
                 p.find_photo("mountain photograph", {"text": "source"})
             photo.assert_not_called()
 
-    def test_research_never_reads_invented_or_secondary_urls(self):
+    def test_research_reads_observed_news_but_rejects_invented_and_wiki_urls(self):
         primary = "https://www.nasa.gov/research/"
         invented = "https://www.nasa.gov/invented/"
         bbc = "https://www.bbc.com/news/articles/secondary"
@@ -80,7 +135,7 @@ class PublishingTests(unittest.TestCase):
         evidence = [{"url": "https://www.bbc.com/news/articles/source"}]
         with patch.object(p, "article_text", return_value={"url": primary}) as read:
             p.read_selected_sources([primary, invented, bbc, wiki], {primary, bbc, wiki}, evidence)
-        read.assert_called_once_with(primary)
+        self.assertEqual([c.args[0] for c in read.call_args_list], [primary, bbc])
         self.assertEqual(len(evidence), 2)
 
     def test_reference_search_is_bounded_anonymous_and_only_returns_observed_links(self):
@@ -91,7 +146,7 @@ class PublishingTests(unittest.TestCase):
             {"query": {"search": [{"pageid": 1}]}}]
         with patch.object(p, "api_json", side_effect=responses) as api:
             links = p.reference_candidates(["space", "research", "ignored"])
-        self.assertEqual(links, ["https://www.nasa.gov/science/"])
+        self.assertEqual(links, ["https://www.nasa.gov/science/", "https://www.bbc.com/news/article/x"])
         self.assertEqual(api.call_count, 4)
         for call in api.call_args_list:
             self.assertEqual(call.args, ("GET", "https://en.wikipedia.org/w/api.php"))
@@ -147,7 +202,7 @@ class PublishingTests(unittest.TestCase):
             self.assertEqual(api.call_count, 1)
         story["wordCount"] = 170
         with patch.object(p, "api_json") as api:
-            with self.assertRaisesRegex(p.Blocked, "400–800"):
+            with self.assertRaisesRegex(p.Blocked, "300–800"):
                 p.publish_reviewed_draft(story, post, "fake")
             api.assert_not_called()
         story["requiresApproval"] = True
