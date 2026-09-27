@@ -5258,9 +5258,33 @@
       "status": "pending",
       "firstSeenAt": 1790543865.377823,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98005ndz7no",
+      "provider": "BBC",
+      "title": "Inside Yemen's front-line city as Houthis battle for control In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers. 12 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1790544567.2823193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqvgyjp3lgv9o",
+      "provider": "BBC",
+      "title": "Bellamy 'hurting' as Denmark outclass Wales",
+      "status": "pending",
+      "firstSeenAt": 1790544567.382066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm74kp52d3xko",
+      "provider": "BBC",
+      "title": "Barcelona monitor Chelsea's Estevao - Monday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1790544567.3824043,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
