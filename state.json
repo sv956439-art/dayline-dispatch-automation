@@ -5154,9 +5154,41 @@
       "status": "pending",
       "firstSeenAt": 1790540869.5128796,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/nrl-panthers-star-nathan-cleary-requires-surgery-on-both-feet/107202342",
+      "provider": "ABC News Australia",
+      "title": "'That was broken as well': Dad explains horror reality of Cleary injury",
+      "status": "pending",
+      "firstSeenAt": 1790541533.8487508,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/sydney-westmead-hospital-emergency-wait-times/107164844",
+      "provider": "ABC News Australia",
+      "title": "'Like a zombie apocalypse': Adnaan waited 23 hours at Westmead Hospital",
+      "status": "pending",
+      "firstSeenAt": 1790541533.8496082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/husband-hopeful-wife-still-missing-in-nepal-alive/107195918",
+      "provider": "ABC News Australia",
+      "title": "A month after Nepal's floods, husband still hopes his wife can be found",
+      "status": "pending",
+      "firstSeenAt": 1790541533.8496852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/sa-statewide-electricity-blackout-10-year-anniversary/107191400",
+      "provider": "ABC News Australia",
+      "title": "SA's statewide blackout was 10 years ago — but electricity debate is still live",
+      "status": "pending",
+      "firstSeenAt": 1790541533.8497698,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
