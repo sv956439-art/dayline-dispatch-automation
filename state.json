@@ -870,16 +870,26 @@
     {
       "sourceUrl": "https://www.bbc.com/sport/athletics/articles/c6rr4y59n0r0o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790535576.2649553,
       "title": "Injured Assefa narrowly misses world record in Berlin",
-      "firstSeenAt": "2026-09-27T12:51:36.611Z"
+      "firstSeenAt": "2026-09-27T12:51:36.611Z",
+      "researchUrls": [
+        "https://www.aljazeera.com/sports/2025/4/27/assefa-sets-womens-record-in-london-marathon-sawe-wins-mens-race"
+      ],
+      "sourcePublishedAt": "2026-09-27T11:14:39.907Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 202 words",
+      "retryAfter": 1790539191.614673
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cm5yddy3wv90o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790535597.4583144,
       "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
-      "firstSeenAt": "2026-09-27T12:51:36.611Z"
+      "firstSeenAt": "2026-09-27T12:51:36.611Z",
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-27T06:15:26.655Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790539206.5977259
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/golf/articles/c64gvvjze807o",
@@ -1902,9 +1912,11 @@
     {
       "sourceUrl": "https://www.bbc.com/video/docs",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790535574.430983,
       "title": "Watch Documentaries\n\nWatch critically acclaimed and award-winning documentaries from the BBC, including History, Nature, True Crime and more.",
-      "firstSeenAt": "2026-09-27T13:39:19.080Z"
+      "firstSeenAt": "2026-09-27T13:39:19.080Z",
+      "lastError": "Source publication date unverified",
+      "retryAfter": 1790539176.2601497
     },
     {
       "sourceUrl": "https://www.bbc.com/future/article/20260122-how-defying-ageism-can-help-you-live-longer",
@@ -1943,17 +1955,20 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p093919p/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790535596.2847102,
       "title": "Can science reverse the ageing process?\n\nJust how far can we intervene in the way our bodies age?",
-      "firstSeenAt": "2026-09-27T13:39:29.819Z"
+      "firstSeenAt": "2026-09-27T13:39:29.819Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790539197.4533656
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0mljnfs/watch",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790535614.6408272,
       "title": "How a tiny chip can hold information from your gut\n\nA new organ-on-a-chip technology helps doctors design personalised treatments for gut health.\n\nTech Now",
-      "firstSeenAt": "2026-09-27T13:39:29.819Z"
+      "firstSeenAt": "2026-09-27T13:39:29.819Z",
+      "lastError": "Gemini free quota reached; queue retained for a later run"
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0lv8l11/watch",
@@ -3691,7 +3706,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0997024,
-      "attemptedAt": 0
+      "attemptedAt": 1790535591.6198094,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T16:54:55.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790539195.5337615
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
@@ -3699,7 +3718,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.099715,
-      "attemptedAt": 0
+      "attemptedAt": 1790535606.6031117,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T15:50:27.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790539210.4817615
     },
     {
       "sourceUrl": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
@@ -4252,7 +4275,9 @@
       "title": "Surprised Docker wins Norm Smith Medal in losing grand final team",
       "status": "pending",
       "firstSeenAt": 1790520201.962201,
-      "attemptedAt": 0
+      "attemptedAt": 1790535595.539229,
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790539196.2797067
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-26/julia-morris-im-a-celebrity-jungle-class-clowns-school-adhd/107184692",
@@ -4260,7 +4285,11 @@
       "title": "Julia Morris on returning to 'school' with fresh ADHD diagnosis",
       "status": "pending",
       "firstSeenAt": 1790520201.9622228,
-      "attemptedAt": 0
+      "attemptedAt": 1790535610.4870224,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-25T18:30:00+00:00",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790539214.6356585
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-26/families-fear-nepal-floods-forgotten/107182226",
@@ -4912,22 +4941,46 @@
       "status": "pending",
       "firstSeenAt": 1790535068.1283202,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790535565.8369622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/interest-preview-ahead-of-sept-29-meeting/107196596",
+      "provider": "ABC News Australia",
+      "title": "A rate rise tomorrow is all but locked in. How many more might there be?",
+      "status": "pending",
+      "firstSeenAt": 1790535566.4396272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/surcharge-ban-interchange-fees-impacts-businesses-and-customers/106660248",
+      "provider": "ABC News Australia",
+      "title": "Banks cut rewards programs, free travel insurance amid surcharge ban",
+      "status": "pending",
+      "firstSeenAt": 1790535566.4413483,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
-  "provider_index": 3,
+  "provider_index": 0,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
   "lastRunStats": {
-    "attempted": 8,
-    "published": 1,
+    "attempted": 9,
+    "published": 0,
     "drafted": 0,
-    "deferred": 7,
-    "pending": 520,
-    "neverAttempted": 444,
+    "deferred": 9,
+    "pending": 533,
+    "neverAttempted": 449,
     "searchStatus": "local_free_search_budget_reached",
-    "completedAt": 1790531913.0670884
+    "completedAt": 1790535614.8306963
   },
   "searchBudget": {
     "month": "2026-09",
@@ -4935,5 +4988,5 @@
     "day": "2026-09-27",
     "dailyRequests": 30
   },
-  "aiRetryAfter": 1790535513.0628262
+  "aiRetryAfter": 1790539214.8252108
 }
