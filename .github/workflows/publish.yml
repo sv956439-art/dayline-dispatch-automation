@@ -2,11 +2,6 @@ name: Dayline Dispatch
 
 on:
   workflow_dispatch:
-    inputs:
-      check_connections:
-        description: 'Only test Blogger access and a tiny Gemini response; create no posts'
-        type: boolean
-        default: false
   push:
     paths:
       - '*.py'
@@ -52,24 +47,14 @@ jobs:
         run: pip install -r requirements.txt
       - name: Test publishing controls
         run: python -m unittest discover -p 'test_*.py' -v
-      - name: Discover, research and publish
+      - name: Discover and preserve queue while local host is pending
         env:
-          AI_ENABLED: ${{ vars.AI_ENABLED }}
-          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
-          FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
-          MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '1' }}
-          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          TAVILY_FREE_TIER_CONFIRMED: ${{ vars.TAVILY_FREE_TIER_CONFIRMED }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
-          BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
-          BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+          AI_BACKEND: local
+          AI_ENABLED: 'false'
+          AUTO_PUBLISH: 'false'
         run: |
-          if [ "${{ inputs.check_connections }}" = "true" ]; then
-            python -u publisher.py --check-connections
-          else
-            python -u publisher.py
-          fi
+          python -u publisher.py
+          echo 'Local-only mode: discovery completed; publication awaits a configured model host. No AI/search/Blogger API credentials were supplied.' >> "$GITHUB_STEP_SUMMARY"
       - name: Preserve queue even when a source fails
         if: always()
         run: |
