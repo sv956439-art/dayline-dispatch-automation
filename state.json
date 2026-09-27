@@ -4965,9 +4965,49 @@
       "status": "pending",
       "firstSeenAt": 1790535566.4413483,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6r7dy2yyx2xo",
+      "provider": "BBC",
+      "title": "No handshakes between Republic of Ireland and Israel",
+      "status": "pending",
+      "firstSeenAt": 1790536196.7272828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790536197.0158966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son",
+      "provider": "The Guardian",
+      "title": "The kindness of strangers: Two helicopter pilots flew down low to wave to my three-year-old son – he was beside himself with joy",
+      "status": "pending",
+      "firstSeenAt": 1790536197.0166523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/interest-rate-hike-could-be-short-lived/107200848",
+      "provider": "ABC News Australia",
+      "title": "Interest rates set to rise but likely to be a short-term trend",
+      "status": "pending",
+      "firstSeenAt": 1790536197.5849936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/divinyls-chrissy-amphlett-new-songs-release/107034328",
+      "provider": "ABC News Australia",
+      "title": "Lost songs of Australian rock legend found buried in a garage",
+      "status": "pending",
+      "firstSeenAt": 1790536197.5850265,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 0,
   "researchPolicyVersion": 2,
