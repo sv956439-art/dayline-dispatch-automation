@@ -5402,9 +5402,49 @@
       "status": "pending",
       "firstSeenAt": 1790551277.500383,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn0jey2dde7o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790551908.9281926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyz9q3l6pno",
+      "provider": "BBC",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss World News Day aims to highlight the role of news providers in investigating and explaining important events. Just now Culture",
+      "status": "pending",
+      "firstSeenAt": 1790551908.928253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvgy09kep21o",
+      "provider": "BBC",
+      "title": "You need £17,000 for a first home - here's how to do it Here are four ways you can put money aside to save enough for a deposit on your first home.",
+      "status": "pending",
+      "firstSeenAt": 1790551908.9288354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790551910.0806508,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/morwell-violence-march-kaiden-morgan-johnston/107200748",
+      "provider": "ABC News Australia",
+      "title": "Marchers condemn violence, remember lost community members",
+      "status": "pending",
+      "firstSeenAt": 1790551910.5973313,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
