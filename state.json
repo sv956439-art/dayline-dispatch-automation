@@ -4864,9 +4864,41 @@
       "status": "pending",
       "firstSeenAt": 1790533558.4683695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cky9z3d0978ro",
+      "provider": "BBC",
+      "title": "Fitzpatrick wins in France for fourth title of season",
+      "status": "pending",
+      "firstSeenAt": 1790534389.379627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/sand-roads-italian-film-festival/107189592",
+      "provider": "ABC News Australia",
+      "title": "When a world record attempt went horribly wrong, these friends held tight",
+      "status": "pending",
+      "firstSeenAt": 1790534390.536378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/this-week-in-history-quiz-september-28/107189618",
+      "provider": "ABC News Australia",
+      "title": "Travel back in time with this week's history quiz",
+      "status": "pending",
+      "firstSeenAt": 1790534390.5364273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/how-to-maximise-ev-range-and-minimise-cost-of-charging/107175852",
+      "provider": "ABC News Australia",
+      "title": "How to maximise your EV's range while spending as little as possible",
+      "status": "pending",
+      "firstSeenAt": 1790534390.5364718,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 3,
   "researchPolicyVersion": 2,
