@@ -4896,9 +4896,25 @@
       "status": "pending",
       "firstSeenAt": 1790534390.5364718,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/russian-attacks-could-force-germany-to-rethink-wwii-safeguards/107188800",
+      "provider": "ABC News Australia",
+      "title": "Russia's hybrid attacks have Germans rethinking Nazi-era protections",
+      "status": "pending",
+      "firstSeenAt": 1790535068.1282876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/gina-rinehart-allegedly-tried-recruit-liberal-mp-to-one-nation/107193248",
+      "provider": "ABC News Australia",
+      "title": "Rinehart allegedly tried to help recruit Liberal MP to join One Nation",
+      "status": "pending",
+      "firstSeenAt": 1790535068.1283202,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 3,
   "researchPolicyVersion": 2,
