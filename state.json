@@ -613,14 +613,36 @@
       },
       "wordCount": 180,
       "lastError": "API request failed with HTTP 404",
-      "retryAfter": 1790607183.3082597
+      "retryAfter": 1790607183.3082597,
+      "publicUrl": "https://daylinedispatch.blogspot.com/"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cwp933mr9v1xo",
-      "status": "pending",
-      "attemptedAt": 0,
-      "title": "3Watch: Bangkok declared flood disaster zone",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "status": "needs_review",
+      "attemptedAt": 1790521129.571604,
+      "title": "Bangkok Declared Flood Disaster Zone Following Heavy Rains",
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding",
+        "https://www.scmp.com/news/asia/southeast-asia/article/3334534/thailand-flood-death-toll-doubles-government-faces-mounting-criticism"
+      ],
+      "sourcePublishedAt": "2026-09-26T15:34:18.425Z",
+      "postId": "7884705287410958455",
+      "requiresApproval": true,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Thailand_Bangkok_North_Street_as_Large_Swimming_Pool_%286305953305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Thailand_Bangkok_North_Street_as_Large_Swimming_Pool_(6305953305).jpg",
+        "creator": "DANIEL JULIE from Paris, France",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Thailand/Bangkok North/ Street as Large Swimming Pool",
+        "date": "2011-11-02 17:26",
+        "verifiedAt": 1790521188.557058,
+        "title": "File:Thailand Bangkok North Street as Large Swimming Pool (6305953305).jpg"
+      },
+      "wordCount": 180,
+      "reviewedContentHash": "1ef730fa5722870441f170283c0310042419a93ef1cfcb98f62e14164ef037dc",
+      "publicUrl": "https://daylinedispatch.blogspot.com/"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cmwyz4l5nq85o",
@@ -3213,7 +3235,14 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0993242,
-      "attemptedAt": 0
+      "attemptedAt": 1790520990.856009,
+      "researchUrls": [
+        "https://au.int/en/pressreleases/20260923/chairperson-calls-restraint-and-immediate-de-escalation-northern-ethiopia",
+        "https://www.eeas.europa.eu/eeas/ethiopia-statement-spokesperson-situation-northern-ethiopia_en"
+      ],
+      "sourcePublishedAt": "2026-09-24T15:29:42.000Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790607528.0716608
     },
     {
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
@@ -3693,9 +3722,12 @@
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/south-africa-mass-shooting-in-tavern-manhunt-launched/107201488",
       "provider": "ABC News Australia",
       "title": "Manhunt for gunmen who killed 27 in two shootings in South Africa",
-      "status": "pending",
+      "status": "duplicate_review",
       "firstSeenAt": 1790520201.96146,
-      "attemptedAt": 0
+      "attemptedAt": 1790521128.0763535,
+      "duplicateOf": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "lastError": "Possible duplicate retained for review",
+      "retryAfter": 1790607529.566916
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/wallabies-vs-springboks-rugby-test-perth-live-blog-updates/107201492",
@@ -4192,9 +4224,17 @@
       "status": "pending",
       "firstSeenAt": 1790520201.9642794,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw3d77ne44k5o",
+      "provider": "BBC",
+      "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+      "status": "pending",
+      "firstSeenAt": 1790520985.3384185,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
-  "provider_index": 1
+  "provider_index": 0
 }
