@@ -5314,9 +5314,17 @@
       "status": "pending",
       "firstSeenAt": 1790546593.0813112,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer",
+      "provider": "BBC",
+      "title": "She was a folk-music genius. Then she vanished Connie Converse made stunning, forward-thinking songs in the 1950s, but was barely known – and aged 50, she disappeared. Now, with a new re-release of her music, she's recognised as a trailblazer.",
+      "status": "pending",
+      "firstSeenAt": 1790547494.2529106,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
