@@ -173,9 +173,11 @@
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cjqlwxl5yydno",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518028.7860672,
       "title": "UK's first air taxi centre opens as we 'move closer to flying cars'",
-      "firstSeenAt": "2026-09-27T12:42:04.125Z"
+      "firstSeenAt": "2026-09-27T12:42:04.125Z",
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790604428.8449817
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c20zgjzz0e4o",
@@ -2494,8 +2496,148 @@
       "status": "pending",
       "firstSeenAt": 1790517812.0275087,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325427",
+      "title": "Tom Read Wilson's Magnificent Tour of Europe",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7922573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325423",
+      "title": "The Story of China",
+      "status": "pending",
+      "firstSeenAt": 1790518025.792305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10248733",
+      "title": "Amanda and Alan's Italian Job",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7923508,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325527",
+      "title": "Wild Horses the Rockies and Me",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7923896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10293716",
+      "title": "Hotels Through Time",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7924151,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10300314",
+      "title": "America: 1000 Years of History",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7924447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10300313",
+      "title": "Rob and Rylan's Passage to India",
+      "status": "pending",
+      "firstSeenAt": 1790518025.792469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325417",
+      "title": "The Travel Show: Volume VIII",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7924917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0nnsmrq/watch",
+      "title": "Extreme traveller recounts brush with death in Africa Danish adventurer Thor Pedersen set himself a challenge to visit 1,001 regions around the world in his lifetime. The Travel Show",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7928722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0k4vx2c/watch",
+      "title": "Turkey's island of 400 ancient shipwrecks A dive into 3,500 years of underwater archeology, sunken cities and Lycian tombs with Prof Hakan Öniz. The SpeciaList",
+      "status": "pending",
+      "firstSeenAt": 1790518025.792898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0knt99b/watch",
+      "title": "Nomads of the sea: The tribe that rarely sets foot on land The Bajau Laut tribe's lifestyle has given them the ability to stay underwater for long periods of time. Travel",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7929246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0lmjjmb/watch",
+      "title": "The Nazi bunkers hidden underneath Berlin From Hitler's last shelter to an underground tunnel connecting eleven small houses in the German countryside. The SpeciaList",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7929509,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0m21nrw/watch",
+      "title": "Can Cornwall’s coast survive the tourist boom? Cornwall’s coast is under strain as tourism surges - can a local ‘mermaid’ help save this seaside paradise? The Travel Show",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7929769,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p08ljdqv/watch",
+      "title": "Why the secret to Icelandic happiness lies in their pools How did bathing become such an intrinsic part of Icelandic cultural identity? The SpeciaList",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7930036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0m4wmzt/watch",
+      "title": "Rome builds for the future without disturbing ancient past The Travel Show explores how Rome is planning for ambitious modernisation whilst preserving its ancient roots. The Travel Show",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7930303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0mllzwd/watch",
+      "title": "The UK's original seaside resort The Travel Show visit Margate, one of the UK's first seaside towns and the first to introduce deckchairs. The Travel Show",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7930562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0lsvfg5/watch",
+      "title": "A journey through an ancient underground Mayan cave Beneath the Yucatán Peninsula lies a sacred Mayan cave, once believed to be 'a gateway to the underworld'. The Travel Show",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7930815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0m1w8v5/watch",
+      "title": "A visit to Niigata, Japan's kingdom of sake Niigata on the west coast of Japan's Honshu Island has more sake breweries than any other prefecture. Travel",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7931073,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0n2ty51/watch",
+      "title": "The largest seed in the plant kingdom The peculiar shape of the coco de mer has inspired legends involving walking trees and aphrodisiac properties. Discover the World",
+      "status": "pending",
+      "firstSeenAt": 1790518025.7931325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0m30kwv/watch",
+      "title": "The Greek island holding the secret to a long life On Ikaria, people on average lead longer, happier lives. A resident of the Greek 'island of immortals' shares her tips for longevity. The SpeciaList",
+      "status": "pending",
+      "firstSeenAt": 1790518025.793158,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": []
 }
