@@ -5458,9 +5458,17 @@
       "status": "pending",
       "firstSeenAt": 1790552523.762693,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/paramedics-concerned-by-mental-health-call-out-change/107202608",
+      "provider": "ABC News Australia",
+      "title": "Union not told Victorian paramedics to take lead on mental health call-outs",
+      "status": "pending",
+      "firstSeenAt": 1790553415.7854612,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
