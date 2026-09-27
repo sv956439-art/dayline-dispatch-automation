@@ -476,9 +476,20 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/crwyzd3gv519o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790520204.52823,
       "title": "Burnham proposes NHS-style social care system for England",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.gov.uk/government/speeches/andy-burnhams-first-speech-as-prime-minister-20-july-2026",
+        "https://www.gov.uk/government/news/machinery-of-government-changes-fact-sheet",
+        "https://www.gov.uk/government/news/no10-north-open-for-business-as-the-governments-new-situation-room-for-making-britain-better",
+        "https://www.gov.uk/government/news/pm-call-with-president-trump-of-the-united-states-20-july-2026",
+        "https://www.gov.uk/government/news/pm-call-with-president-volodymyr-zelenskyy-of-ukraine-20-july-2026",
+        "https://www.gov.uk/government/news/pm-call-with-the-president-of-the-european-commission-20-july-2026"
+      ],
+      "sourcePublishedAt": "2026-09-27T13:48:05.759Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790606616.2324438
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cme8xx55eryno",
@@ -3119,8 +3130,1012 @@
       "status": "pending",
       "firstSeenAt": 1790519812.582715,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "provider": "The Guardian",
+      "title": "At Least 27 Killed in Separate Mass Shootings Across South Africa",
+      "status": "needs_review",
+      "firstSeenAt": 1790520201.0992863,
+      "attemptedAt": 1790520216.2358131,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-27T13:46:49.000Z",
+      "postId": "7779958152702994404",
+      "requiresApproval": true,
+      "image": null,
+      "wordCount": 192,
+      "publicUrl": "https://daylinedispatch.blogspot.com/"
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0993242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.09934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0993545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0993867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0994165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0994294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0994432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0994942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0995116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0995264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0995555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0996017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0996149,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0996292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0996432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0996737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0997024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0997293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.09976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0997744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099789,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.099802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0998151,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/pakistan-lockdown-islamabad-imran-khan-party-march",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0998478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0998616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/sri-lanka-easter-bombings-15-sentenced-prison-terror-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0998747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0998876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/21/pakistan-jails-sisters-of-imran-khan-before-protest-seeking-his-release",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0999017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/lime-bike-profits-double-rider-numbers-surge-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0999496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0999634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0999768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/britain-knew-about-holocaust-as-it-happened-exhibition",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.0999892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1000268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.10004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1000526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1000657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790520201.100079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/ukraine-war-briefing-german-foreign-minister-urges-russia-to-abandon-dangerous-escalation-in-rare-meeting",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: German foreign minister urges Russia to abandon dangerous escalation in rare meeting",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1001592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight",
+      "provider": "The Guardian",
+      "title": "Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1001797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
+      "provider": "The Guardian",
+      "title": "61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies",
+      "status": "pending",
+      "firstSeenAt": 1790520201.100197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/our-house-was-under-water-bangkok-floods-force-thousands-into-shelters-as-disaster-declared",
+      "provider": "The Guardian",
+      "title": "‘Our house was under water’: Bangkok floods force thousands into shelters as disaster declared",
+      "status": "pending",
+      "firstSeenAt": 1790520201.100214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/sep/25/im-100-natural-japan-90-year-old-bodybuilder-toshisuke-kanazawa",
+      "provider": "The Guardian",
+      "title": "‘I’m 100% natural’: how Japan’s 90-year-old bodybuilder is still winning titles",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1002398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/sep/26/paws-for-applause-the-feline-oscars-in-pictures",
+      "provider": "The Guardian",
+      "title": "Paws for applause: the Feline Oscars – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1002562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/weather/gallery/2026/sep/27/bangkoks-flood-disaster-in-pictures",
+      "provider": "The Guardian",
+      "title": "Bangkok’s flood disaster – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1002722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students",
+      "provider": "The Guardian",
+      "title": "‘It’s like the Scottish Upper East Side’: shame and snobbery as American students blamed for St Andrews classism",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1002998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football",
+      "provider": "The Guardian",
+      "title": "Lanning decries ‘disgusting’ late hit that sends Oregon QB Dante Moore to hospital",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1003146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/27/trump-tv-cable-news",
+      "provider": "The Guardian",
+      "title": "double quotation mark I spent a full hour watching Trump TV. It’s a digital pathway to hell",
+      "status": "pending",
+      "firstSeenAt": 1790520201.100331,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/trump-midterms-counting-window",
+      "provider": "The Guardian",
+      "title": "Trump allies could use midterms ‘counting window’ to disrupt results, experts warn",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1003463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/27/this-is-how-we-do-it-sexual-abuse-survivor-healthy-sex",
+      "provider": "The Guardian",
+      "title": "This is how we do it: ‘As a sexual abuse survivor, I’ve had to relearn how to have healthy sex’",
+      "status": "pending",
+      "firstSeenAt": 1790520201.100361,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/maurene-comey-trump-administration-james-comey",
+      "provider": "The Guardian",
+      "title": "How the Trump administration is trying to defend its firing of Maurene Comey",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1003757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/26/trump-female-ms-now-reporter",
+      "provider": "The Guardian",
+      "title": "Trump tells female MS Now reporter to ‘be quiet’ amid questions on press pool ban",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1003904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged",
+      "provider": "The Guardian",
+      "title": "Third person arrested in death of Tasia Fortune, as police say hanging was staged",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1004157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed",
+      "provider": "The Guardian",
+      "title": "Sign up for our email",
+      "status": "pending",
+      "firstSeenAt": 1790520201.1006665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/residents-protest-15m-power-poles-for-data-centre-expansion/107192574",
+      "provider": "ABC News Australia",
+      "title": "A tradie tipped this suburb off on a new data centre build. Residents are furious",
+      "status": "pending",
+      "firstSeenAt": 1790520201.961365,
+      "attemptedAt": 1790520261.5449922,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-27T05:05:06+00:00",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790606669.0032878
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/uk-police-declare-major-incident-at-fairford-air-base/107201508",
+      "provider": "ABC News Australia",
+      "title": "UK police arrest five over alleged attack attempt on air base used by US",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9614208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/south-africa-mass-shooting-in-tavern-manhunt-launched/107201488",
+      "provider": "ABC News Australia",
+      "title": "Manhunt for gunmen who killed 27 in two shootings in South Africa",
+      "status": "pending",
+      "firstSeenAt": 1790520201.96146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/wallabies-vs-springboks-rugby-test-perth-live-blog-updates/107201492",
+      "provider": "ABC News Australia",
+      "title": "Wallabies reduced to 11 men in chaotic upset win over world champion Springboks",
+      "status": "pending",
+      "firstSeenAt": 1790520201.961515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/why-is-sexual-strangulation-prevalent-among-young-australians/107194944",
+      "provider": "ABC News Australia",
+      "title": "Why strangulation has become part of the sexual 'playbook'",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9615836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/china-sixth-base-antarctica-expansion-australia-concerns/107178622",
+      "provider": "ABC News Australia",
+      "title": "'Open your eyes': Why China's sixth Antarctic base is raising concerns",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9616208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/one-nation-aspiring-candidates-slam-party-processes/107079258",
+      "provider": "ABC News Australia",
+      "title": "'Insidious money grab': Aspiring candidates slam One Nation processes",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9616578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530",
+      "provider": "ABC News Australia",
+      "title": "Scaffolding at Sydney building site falls onto cars month after wall collapse",
+      "status": "pending",
+      "firstSeenAt": 1790520201.961694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/panthers-knights-cleary-nrl-grand-final/107201360",
+      "provider": "ABC News Australia",
+      "title": "Dynasties and destinies swing on Cleary's horror ankle injury",
+      "status": "pending",
+      "firstSeenAt": 1790520201.961728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/matty-johns-newcastle-knights-reach-nrl-grand-final/107201578",
+      "provider": "ABC News Australia",
+      "title": "Matty Johns breaks down in tears after Knights end NRL grand final drought",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9617891,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/nrl-nrlw-preliminary-finals-live-panthers-knights-titans-broncos/107201092",
+      "provider": "ABC News Australia",
+      "title": "Twelve-man Newcastle through to grand final after Cleary's horrific leg break",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9618123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/spain-housing-protest/107200740",
+      "provider": "ABC News Australia",
+      "title": "Thousands rally against Spain's housing crisis after 87yo's eviction",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9618342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/earthquake-recorded-in-east-gippsland/107200738",
+      "provider": "ABC News Australia",
+      "title": "Earthquake rumbles up East Gippsland valley shaking homes",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9618673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/pope-leo-urges-church-to-heal-wounds-of-abuse-survivors/107201770",
+      "provider": "ABC News Australia",
+      "title": "Pope urges church to admit failings and heal 'deep wounds'",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9619002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/our-2016-wedding-was-a-political-statement/107058460",
+      "provider": "ABC News Australia",
+      "title": "Our wedding was a political statement — and that was the whole point",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9619598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/australian-crawl-james-reyne-interview-red-hot-summer/107177488",
+      "provider": "ABC News Australia",
+      "title": "James Reyne still cringes at some Australian Crawl songs",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/spicks-and-specks-music-quiz/107185194",
+      "provider": "ABC News Australia",
+      "title": "Do you go Gaga for music trivia? Right this way...",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/brisbane-festival-2026-reviews/107118406",
+      "provider": "ABC News Australia",
+      "title": "Brisbane Festival 2026: Our favourite shows",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9620683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/fremantle-fans-react-after-grand-final-loss-to-brisbane/107199570",
+      "provider": "ABC News Australia",
+      "title": "Disappointed, but proud: fans greet Dockers back in Perth",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9621537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/sam-draper-premiership-in-first-year-after-darkest-days-/107199004",
+      "provider": "ABC News Australia",
+      "title": "Emotions flowed as Lions went from a 'very unlikely' win to a threepeat",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9621785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/afl-grand-final-dockers-lions-shai-bolton-norm-smith-medal/107199694",
+      "provider": "ABC News Australia",
+      "title": "Surprised Docker wins Norm Smith Medal in losing grand final team",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962201,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/julia-morris-im-a-celebrity-jungle-class-clowns-school-adhd/107184692",
+      "provider": "ABC News Australia",
+      "title": "Julia Morris on returning to 'school' with fresh ADHD diagnosis",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9622228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/families-fear-nepal-floods-forgotten/107182226",
+      "provider": "ABC News Australia",
+      "title": "Surviving the Nepal flood disaster was just the beginning of their struggles",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/earl-charles-spencer-on-princess-dianas-eulogy-in-swan-song/107184764",
+      "provider": "ABC News Australia",
+      "title": "Only Princess Diana's brother knew the double meaning in her eulogy, until now",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9622679,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+      "provider": "ABC News Australia",
+      "title": "Australia not alone as OpenAI agents hacked other websites",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9622896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/nik-cubrilovic-legal-action-over-openai-medicare-hack/107195416",
+      "provider": "ABC News Australia",
+      "title": "'Ethical' hacker doubts Open AI will face charges over Medicare hack",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9623127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-24/what-we-know-about-the-openai-medicare-hack/107189452",
+      "provider": "ABC News Australia",
+      "title": "What we know about the data accessed in the Medicare AI hack",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9623342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/fremantle-finds-joy-in-aflw-win-pies-finally-off-the-mark/107201496",
+      "provider": "ABC News Australia",
+      "title": "Freo finds joy in AFLW win, Pies finally off the mark",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9624152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/nsw-coercive-control-laws-domestic-violence-success-story/107153840",
+      "provider": "ABC News Australia",
+      "title": "What the first coercive control cases reveal about a 'life-saving' law",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2025-07-19/abc-long-read-story-collection-page/105517410",
+      "provider": "ABC News Australia",
+      "title": "Long Read",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9625247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/act-inside-police-fight-against-rising-bikie-threat/107197350",
+      "provider": "ABC News Australia",
+      "title": "ACT's top cop backs controversial laws in battle against bikies",
+      "status": "pending",
+      "firstSeenAt": 1790520201.96255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/openai-medicare-breach-need-investment-data-centres-ai/107200652",
+      "provider": "ABC News Australia",
+      "title": "OpenAI breach proves need for more data centres, major parties say",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9625866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/multi-generation-bond-market-correction/107191114",
+      "provider": "ABC News Australia",
+      "title": "'Multiple rate hikes', recession risk: bond market signals trouble ahead",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9626212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/mt-bundy-bodies-cold-case-trevor-wheeler-kathy-family-mystery/107017946",
+      "provider": "ABC News Australia",
+      "title": "Body found in NT bush in 1976 finally identified after DNA breakthrough",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/bangkok-thailand-declared-disaster-zone-floods-heavy-rain/107200576",
+      "provider": "ABC News Australia",
+      "title": "Bangkok declared disaster zone after nearly 300mm of rain in two days",
+      "status": "pending",
+      "firstSeenAt": 1790520201.962692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/wallaroos-defeat-scotland-rugby-union-wx-global-series/107201466",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos 'got some work to do' despite snapping losing streak",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9627526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/bird-flu-campaign/107201366",
+      "provider": "ABC News Australia",
+      "title": "Pressure grows to import experimental sea lion vaccine as bird flu campaign launches",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9627821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/ev-owners-warned-plan-ahead-for-bushfire-season/107176578",
+      "provider": "ABC News Australia",
+      "title": "Warning from EV owner caught with low charge in bushfire",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9628172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/man-aims-to-travel-australia-on-electric-motorcycle/107190208",
+      "provider": "ABC News Australia",
+      "title": "Retiree travelling 18,000km around Australia on electric motorcycle",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9628532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/broncos-into-fifth-nrlw-grand-final-beating-titans/107201364",
+      "provider": "ABC News Australia",
+      "title": "Broncos into fifth NRLW grand final after toppling Titans",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9629,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/jay-z-accuser-recants-rape-allegation-/107201150",
+      "provider": "ABC News Australia",
+      "title": "Woman who accused Jay-Z of rape recants allegation",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9629352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/ndis-housing-provider-fairy-meadow-house-goes-bust/107190992",
+      "provider": "ABC News Australia",
+      "title": "$5m cash withdrawn from NDIS housing company before it went bust",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9629688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/sa-one-year-on-from-gus-lamont-disappearance/107190052",
+      "provider": "ABC News Australia",
+      "title": "'Living in limbo': One year on from Gus Lamont's disappearance",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9630032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/transplant-games-cameron-butcher/107184388",
+      "provider": "ABC News Australia",
+      "title": "Cyclist 'died eight times' before getting a new heart",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9630392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/nsw-rfs-temporarily-lose-control-of-hazard-reduction-burn/107200568",
+      "provider": "ABC News Australia",
+      "title": "Firefighters 'shook up' after planned burn destroys fire tanker",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9630864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/president-donald-trump-xi-jinping-washington-summit-tariffs-ai/107200436",
+      "provider": "ABC News Australia",
+      "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9631193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/ebola-outbreak-drc-largest/107174086",
+      "provider": "ABC News Australia",
+      "title": "What a day looks like for workers fighting the DRC's Ebola outbreak",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9631526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/children-return-to-in-person-schooling-in-gaza/107186748",
+      "provider": "ABC News Australia",
+      "title": "Schools reopen in Gaza but class is very different",
+      "status": "pending",
+      "firstSeenAt": 1790520201.963213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/afl-grand-final-2026-cody-and-sean-lions-analysis/107200914",
+      "provider": "ABC News Australia",
+      "title": "How the Lions claimed their moments to overcome a dominant Freo",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9632463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/gracetown-cliff-collapse-30-year-memorial/107195444",
+      "provider": "ABC News Australia",
+      "title": "Surfing town marks 30 years since fatal Gracetown cliff collapse",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9632804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/open-ai-medicare-hack-australia-cant-ignore-potential/107197378",
+      "provider": "ABC News Australia",
+      "title": "A gloomy outlook is why Australia can't afford to write off AI",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9634516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/european-leaders-warn-of-russian-threat/107192690",
+      "provider": "ABC News Australia",
+      "title": "A dangerous new reality is taking hold in Europe",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9635189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-24/open-ai-medicare-breach-government-walking-delicate-tightrope/107180648",
+      "provider": "ABC News Australia",
+      "title": "Albanese couldn't have timed his Medicare hack bombshell better",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9635742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-24/ai-industry-un-bleak-warnings/107186256",
+      "provider": "ABC News Australia",
+      "title": "AI industry left to police itself as bleak warnings mount",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9636114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/card-surcharge-fees-change-october-1-small-businesses-impact-sa/107180202",
+      "provider": "ABC News Australia",
+      "title": "A cash comeback? Shops navigate looming death of card surcharges",
+      "status": "pending",
+      "firstSeenAt": 1790520201.963725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-25/rate-rise-home-ownership-impact-study/107191644",
+      "provider": "ABC News Australia",
+      "title": "Has the RBA already wiped out the home ownership gains from tax changes?",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9637606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/ozfuel-satellite-eucalypt-flammability-anu/107181430",
+      "provider": "ABC News Australia",
+      "title": "Scientists develop tech to measure eucalypt flammability from space",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9638417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/defence-force-ai-transformation/107139794",
+      "provider": "ABC News Australia",
+      "title": "Ghost Bats and Maven Smart: How AI is transforming Defence",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9638772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/brisbane-astrophotography-star-gazing-light-pollution/107183376",
+      "provider": "ABC News Australia",
+      "title": "Astronomers snap beautiful photos despite light pollution",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9639115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-27/afl-grand-final-2026-what-is-wharfie-time/107200612",
+      "provider": "ABC News Australia",
+      "title": "What is Wharfie Time and how did it backfire for heartbroken Dockers?",
+      "status": "pending",
+      "firstSeenAt": 1790520201.964007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/barbecue-spiced-lamb-chops-weekend-grand-final/107185604",
+      "provider": "ABC News Australia",
+      "title": "Just a few spices take lamb chops to the next level for your weekend barbecue",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9640932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-25/how-to-remove-stubborn-stains-in-your-toilet/107101438",
+      "provider": "ABC News Australia",
+      "title": "The best way to clean your toilet and how often",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9641182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-22/parents-grief-and-loss-after-death-of-child/107100784",
+      "provider": "ABC News Australia",
+      "title": "'How do you get through this?': Parents on the grief of losing a child",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9641519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-26/perth-writers-festival-absence-amid-surge-in-smaller-fests/107170358",
+      "provider": "ABC News Australia",
+      "title": "Perth now only capital without major writers' festival",
+      "status": "pending",
+      "firstSeenAt": 1790520201.964246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-25/mariana-enriquez-argentine-gothic-horror-writer-moves-australia/107101900",
+      "provider": "ABC News Australia",
+      "title": "What scares 'Argentina's Mary Shelley'? Australian suburbia at night",
+      "status": "pending",
+      "firstSeenAt": 1790520201.9642794,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
-  "discovery_errors": []
+  "section_index": 4,
+  "discovery_errors": [],
+  "provider_index": 3
 }
