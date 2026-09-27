@@ -5061,9 +5061,25 @@
       "status": "pending",
       "firstSeenAt": 1790538470.5467923,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckwyz477nl57o",
+      "provider": "BBC",
+      "title": "Chelsea restore resilience - are they title contenders again? Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge. 7 mins ago Women's Football",
+      "status": "pending",
+      "firstSeenAt": 1790538901.4014087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/homeowners-who-want-to-rent-spare-bedrooms-worry-tax/107174184",
+      "provider": "ABC News Australia",
+      "title": "Soon-to-be empty nester wants to rent out rooms but put off by tax",
+      "status": "pending",
+      "firstSeenAt": 1790538901.9612682,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 0,
   "researchPolicyVersion": 2,
