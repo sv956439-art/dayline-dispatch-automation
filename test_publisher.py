@@ -1,5 +1,5 @@
 import unittest
-from unittest.mock import patch
+from unittest.mock import patch, Mock
 import publisher as p
 
 
@@ -10,6 +10,35 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_free_tier_must_be_confirmed_before_any_request(self):
+        with patch.dict(p.os.environ, {}, clear=True), patch.object(p.SESSION, "post") as api:
+            with self.assertRaises(p.Blocked):
+                p.response_json("test", {})
+            api.assert_not_called()
+
+    def test_free_quota_is_retryable_and_never_falls_back(self):
+        with patch.dict(p.os.environ, {"FREE_TIER_CONFIRMED": "true", "GEMINI_API_KEY": "fake"}), patch.object(p.SESSION, "post", return_value=Mock(status_code=429)) as api:
+            with self.assertRaises(p.QuotaReached):
+                p.response_json("test", {})
+            self.assertEqual(api.call_count, 1)
+            self.assertNotIn("tools", api.call_args.kwargs["json"])
+            self.assertNotIn("fake", api.call_args.args[0])
+
+    def test_gemini_truncated_output_cannot_publish(self):
+        response = Mock(status_code=200, ok=True, is_redirect=False)
+        response.json.return_value = {"candidates": [{"finishReason": "MAX_TOKENS", "content": {"parts": [{"text": "{}"}]}}]}
+        with patch.dict(p.os.environ, {"FREE_TIER_CONFIRMED": "true", "GEMINI_API_KEY": "fake"}), patch.object(p.SESSION, "post", return_value=response):
+            with self.assertRaises(p.Blocked):
+                p.response_json("test", {})
+
+    def test_quota_stops_batch_without_discarding_pending_stories(self):
+        state = {"stories": [{"sourceUrl": "https://www.bbc.com/news/articles/a", "status": "pending"}, {"sourceUrl": "https://www.bbc.com/news/articles/b", "status": "pending"}]}
+        with patch.dict(p.os.environ, {"AI_ENABLED": "true", "MAX_STORIES_PER_RUN": "2"}), patch.object(p.Path, "read_text", return_value=p.json.dumps(state)), patch.object(p, "discover", return_value=[]), patch.object(p, "blogger_token", return_value="fake"), patch.object(p, "existing_posts", return_value=[]), patch.object(p, "save_state"), patch.object(p, "generate", side_effect=p.QuotaReached("quota")) as generate:
+            p.run()
+        self.assertEqual(generate.call_count, 1)
+        self.assertEqual([s["status"] for s in p.CURRENT_STATE["stories"]], ["pending", "pending"])
+        self.assertGreater(p.CURRENT_STATE["aiRetryAfter"], p.time.time())
+
     def test_tracking_parameters_do_not_create_duplicates(self):
         self.assertEqual(p.fingerprint("https://www.bbc.com/news/articles/abc?tracking=1#top"), p.fingerprint("https://www.bbc.com/news/articles/abc"))
 
