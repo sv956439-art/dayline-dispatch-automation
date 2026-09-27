@@ -408,23 +408,37 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/ck5ywnp075d1o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790519263.0028546,
       "title": "Two mass shootings in South Africa leave 27 deadThe two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.3 hrs agoAfrica",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.gov.za/documents/firearms-control-act"
+      ],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790605669.906156
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cm5ydvww0erdo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790519269.9097297,
       "title": "The treasured 'eternal snow' on this tropical island is about to disappear foreverClimate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.2 days agoAsia",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://tc.copernicus.org/articles/19/6629/2025/",
+        "https://iccinet.org/indonesias-last-glacier-ice-remained-in-2024-but-faces-extinction-by-2030/"
+      ],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790605730.1622267
     },
     {
       "sourceUrl": "https://www.bbc.com/news/live/ckz6z4z57y5nt",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790519330.165596,
       "title": "LIVEContentious Northern Ireland march at standstill as demonstrators block roadThe march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead after a series of courtroom challenges.",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790605735.407794
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cm5y5nj8ejj8o",
@@ -2960,8 +2974,29 @@
       "status": "pending",
       "firstSeenAt": 1790518833.7501268,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqdj4vgxn1g1o",
+      "title": "Czechs beat Ukraine for 12th Billie Jean King Cup title",
+      "status": "pending",
+      "firstSeenAt": 1790519259.782095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/live/ck1wxyl4v91zt",
+      "title": "Leaders Rangers hit five past Celtic for SWPL win",
+      "status": "pending",
+      "firstSeenAt": 1790519259.7827394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cn33yxd1rz0o",
+      "title": "Help & FAQs",
+      "status": "pending",
+      "firstSeenAt": 1790519259.7839193,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": []
 }
