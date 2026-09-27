@@ -5186,9 +5186,17 @@
       "status": "pending",
       "firstSeenAt": 1790541533.8497698,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/ledcourt-fatal-crash-between-truck-cars/107202328",
+      "provider": "ABC News Australia",
+      "title": "Two dead, one critical following crash in Victoria's north-west",
+      "status": "pending",
+      "firstSeenAt": 1790542511.4294934,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
