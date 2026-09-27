@@ -58,6 +58,8 @@ jobs:
           AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
           FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
           MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '1' }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_FREE_TIER_CONFIRMED: ${{ vars.TAVILY_FREE_TIER_CONFIRMED }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
           BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
