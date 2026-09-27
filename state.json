@@ -4840,9 +4840,33 @@
       "status": "pending",
       "firstSeenAt": 1790532638.1518276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2zzle99lro",
+      "provider": "BBC",
+      "title": "10 Teen plans hospital abseil after successful surgery",
+      "status": "pending",
+      "firstSeenAt": 1790533558.104785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c3dx0w2rqqzpo",
+      "provider": "BBC",
+      "title": "Zverev comeback leads Europe to Laver Cup victory Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day. 1 hr ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1790533558.1049085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790533558.4683695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 3,
   "researchPolicyVersion": 2,
