@@ -10,6 +10,17 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_text_only_article_renders_and_verifies_without_thumbnail(self):
+        draft = article()
+        draft["image"] = None
+        output = p.render_article(draft, "https://www.bbc.com/news/articles/source")
+        self.assertNotIn("<img", output)
+        self.assertIn("https://example.org/0", output)
+        post = {"title": draft["title"], "content": output, "url": "https://daylinedispatch.blogspot.com/post.html"}
+        with patch.object(p, "public_get", return_value=Mock(text="<h1>" + draft["title"] + "</h1>" + output)) as get:
+            p.verify_public(post)
+        self.assertEqual(get.call_count, 1)
+
     def test_supported_single_source_summary_is_accepted(self):
         url = "https://www.bbc.com/news/articles/source"
         draft = {"title": "An original summary", "labels": ["Culture"], "blocks": [

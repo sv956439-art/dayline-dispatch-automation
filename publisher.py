@@ -420,7 +420,13 @@ def generate(story, state):
         read_selected_sources(context.get("primary_urls", []), observed, evidence)
     story["researchUrls"] = [s["url"] for s in evidence[1:]]
     story["sourcePublishedAt"] = source.get("published")
-    image = find_photo(plan.get("photo_query"), source)
+    image = None
+    try:
+        image = find_photo(plan.get("photo_query"), source)
+    except QuotaReached:
+        raise
+    except (Blocked, requests.RequestException):
+        print("No suitable licensed photo available; continuing with a text-only article.", flush=True)
     print("Writing article from verified source pages.", flush=True)
     article = response_json(
         "Write an original, useful English news summary with relevant context for Dayline Dispatch using ONLY supplied evidence. "
@@ -433,7 +439,8 @@ def generate(story, state):
         "Return {title: string, labels: [string], blocks: [{heading: string, text: string, sources: [exact source URL]}], "
         "image_alt: string, image_caption: string, high_impact: boolean}. Each block is one plain-text paragraph; no HTML. "
         "Allowed labels: News, World, Sport, Business, Technology, Science, Health, Culture, Travel, Earth. "
-        "Caption the image accurately from its metadata and label it archive/illustrative when appropriate. "
+        "If a photo is supplied, caption it accurately from its metadata and label it archive/illustrative when appropriate. "
+        "If photo is null, use empty image_alt and image_caption; never invent or add an image. "
         "Sensitive allegations, personal information, crime accusations or high-impact advice must set high_impact=true.",
         {"evidence": evidence, "photo": image, "maximum_body_words": min(1200, len(evidence) * 180)})
     source_urls = {s["url"] for s in evidence}
@@ -459,11 +466,12 @@ def generate(story, state):
 def render_article(article, source_url):
     e = html.escape
     image = article["image"]
-    parts = [f'<!-- dayline-source:{fingerprint(source_url)} -->',
-             f'<figure><img src="{e(image["url"], quote=True)}" alt="{e(article["image_alt"], quote=True)}" style="width:100%;height:auto"/>',
+    parts = [f'<!-- dayline-source:{fingerprint(source_url)} -->']
+    if image:
+        parts.extend([f'<figure><img src="{e(image["url"], quote=True)}" alt="{e(article["image_alt"], quote=True)}" style="width:100%;height:auto"/>',
              f'<figcaption>{e(article["image_caption"])} Photo: {e(image["creator"])}. '
              f'<a href="{e(image["page"], quote=True)}">Wikimedia Commons</a>, '
-             f'<a href="{e(image["license_url"] or image["page"], quote=True)}">{e(image["license"])}</a>.</figcaption></figure>']
+             f'<a href="{e(image["license_url"] or image["page"], quote=True)}">{e(image["license"])}</a>.</figcaption></figure>'])
     for block in article["blocks"]:
         if block.get("heading"):
             parts.append(f'<h2>{e(block["heading"])}</h2>')
@@ -503,11 +511,13 @@ def verify_public(post):
     if not expected_links.issubset(actual_links):
         raise Blocked("Public citation links missing")
     expected_images = {i["src"] for i in body.select("img[src]")}
-    if not expected_images or not expected_images.issubset({i["src"] for i in public.select("img[src]")}):
+    if not expected_images.issubset({i["src"] for i in public.select("img[src]")}):
         raise Blocked("Public article photo missing")
     for url in expected_images:
         if not public_get(url, check_robots=False).headers.get("Content-Type", "").startswith("image/"):
             raise Blocked("Public photo does not load")
+    if not expected_images:
+        return
     home = BeautifulSoup(public_get(BLOG_URL, check_robots=False).text, "html.parser")
     link = home.find("a", href=post["url"])
     card = link.find_parent("article") if link else None
