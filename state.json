@@ -1869,7 +1869,449 @@
       "attemptedAt": 0,
       "title": "2 Aug 2026\nSix easy swaps to avoid ultra-processed foods\n\nUltra-processed foods are in more foods than you might realise. These tasty recipes will help you avoid them.",
       "firstSeenAt": "2026-09-27T13:39:29.819Z"
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/category/technology",
+      "title": "Watch Documentaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.777424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/category/health",
+      "title": "Watch Documentaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.777537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/category/culture",
+      "title": "Watch Documentaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7775726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/category/arts",
+      "title": "Watch Documentaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.777738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/category/travel",
+      "title": "Watch Documentaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.777791,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/category/earth",
+      "title": "Watch Documentaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7781284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/bbc-maestro",
+      "title": "BBC Maestro",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7783513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/discover-the-world",
+      "title": "Discover the World",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7783747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/live/news",
+      "title": "Live News",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7784142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/live/sport",
+      "title": "Live Sport",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7784364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331970",
+      "title": "Bill Bailey's Vietnam Adventure",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7789977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10334549",
+      "title": "The Art of Turkish Tiles",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7790232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331965",
+      "title": "The Mystery of Dark Energy",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7790463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10368865",
+      "title": "In Our Time",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7790701,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331962",
+      "title": "The Secret Life of Rockpools",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7790937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331966",
+      "title": "Seven Wonders of the Ancient World",
+      "status": "pending",
+      "firstSeenAt": 1790517695.779117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331964",
+      "title": "The Travel Show Vol. IX",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7791395,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331961",
+      "title": "Agatha Christie's England",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7791626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329368",
+      "title": "Antiques Roadshow",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7791858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10300318",
+      "title": "Will Robots Take My Job?",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7792091,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329369",
+      "title": "Expedition Volcano",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7792318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329373",
+      "title": "Where the Wild Men Are with Ben Fogle",
+      "status": "pending",
+      "firstSeenAt": 1790517695.779254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329367",
+      "title": "Queen Victoria's Men",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7792761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329366",
+      "title": "Battle of the Atlantic: The U-Boat War",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7792978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5yjjwepp03o",
+      "title": "Businesses blames music festival for revenue losses up to £1m Some Portsmouth traders have criticised the impact of Victorious Festival, held on Southsea Common.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.7806458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260924-how-controversial-2000s-paedophile-hunting-show-to-catch-a-predator-rocked-us-tv",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8590071,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9w4042yklko",
+      "title": "U2 celebrate 50th anniversary at the school where they formed The rock band go back to their roots, playing a gig in the Dublin playground where they first met. 2 days ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8590894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yww993n10o",
+      "title": "Prince Harry says it is 'great' to be back in Britain after six years in US He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\". 1 day ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790517695.859118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10331960",
+      "title": "Inside the Mind of Agatha Christie",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8592708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329362",
+      "title": "Ancient Treasures with Bettany Hughes",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8593493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10329364",
+      "title": "A Tale of Two Britains",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8593721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10300325",
+      "title": "Britain's Hidden Heritage",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8593946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325424",
+      "title": "Murder 24/7",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8594172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325429",
+      "title": "Renaissance: The Blood and the Beauty",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8594394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325420",
+      "title": "7/7: The London Bombings",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8594625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325425",
+      "title": "Versailles: The Dream of a King",
+      "status": "pending",
+      "firstSeenAt": 1790517695.859485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/video/docs/series/10325426",
+      "title": "Canal Boat Diaries",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8595119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7900wl7nxyo",
+      "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8597045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6grv78d59jpo",
+      "title": "Some BBC channels and radio stations may well have to close, director general says",
+      "status": "pending",
+      "firstSeenAt": 1790517695.859729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g53547wygo",
+      "title": "Jay-Z rape accuser says her allegation was false",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8597515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260824-nine-of-the-best-tv-shows-to-watch-this-september",
+      "title": "Nine of the best TV shows to watch this September From the return of hit Netflix crime drama The Gentlemen to a miniseries about the infamous Lizzie Borden murder case – these are the best series to watch and stream.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8598175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260922-four-things-jane-austen-adaptations-get-wrong",
+      "title": "Four things Jane Austen adaptations get wrong - according to experts A new film adaptation of the English novelist's Sense and Sensibility adds to a long line of Austen's timeless stories for the screen. But these are their common mistakes.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8598428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260918-eight-ingenious-homes-for-wildlife-around-the-world",
+      "title": "Eight ingenious homes for wildlife around the world From a bat home in the UK countryside to a multi-species refuge in the Catskills, here are eight cleverly designed wildlife havens.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.859867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260918-the-most-tragic-moment-in-the-lord-of-the-rings",
+      "title": "JRR Tolkien on 'the most tragic moment' in The Lord of the Rings In 1968, the BBC broadcast extracts from JRR Tolkien's last ever recorded interview, 31 years after The Hobbit was published. In 2019, the full video was unearthed from the archive.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8598921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260916-the-secret-life-of-outrageous-us-showman-liberace",
+      "title": "The secret life and incredible talents of outrageous US showman Liberace The glitzy pianist, who famously hid his sexuality, was dismissed as a \"vulgar joke\" in his lifetime. But a new play gets to the truth of who he was, in private as well as in public.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.859916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0p9z80d/watch",
+      "title": "People are talking less, but no one's quite sure why Between 2005 and 2019, there was a 28% drop in the number of words an average person spoke in a given day.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8599665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0p7twhm/watch",
+      "title": "Author Ann Patchett doesn’t think kind people are boring The author talks with Katty Kay about life, loss, and her new book Whistler.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8599916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0p6l3lb/watch",
+      "title": "Why more US planes are getting stuck on the tarmac A look at why three-hour airline delays are skyrocketing in the US and what this means for people's travel plans.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8600178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260911-the-tomb-raiders-who-plundered-million-dollar-pots",
+      "title": "The tomb raiders who plundered million-dollar pots It was one of the finest pieces of art ever bought by the Met. But it had come from an Italian grave robber. In 1975, the BBC investigated the global trade in stolen antiquities.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8600624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20240322-gloria-steinem-trailblazing-magazine-for-women",
+      "title": "Gloria Steinem on her trailblazing 1972 feminist magazine In 1972, pioneering journalist and activist Gloria Steinem – who has died at the age of 92 – co-founded the groundbreaking publication Ms Magazine.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8601089,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+      "title": "The startling 1960s theory that Stonehenge was a prehistoric computer In August 1966, a US astronomy professor shared his astonishing findings with the BBC. He believed that the Neolithic stone circle was built to predict eclipses.",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8601344,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr6244jnzegyo",
+      "title": "3 hrs ago Favourite trees sought for Guernsey art project People have been invited to share pictures of their favourite trees as part of a new art project. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.86018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkgw484e0keo",
+      "title": "3 hrs ago Museum's new art pays 'homage' to French founder About 60 impressionist paintings from the UK and France are being shown together in Barnard Castle. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8602054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxddvlln52vro",
+      "title": "7 hrs ago Church marks 200 years of historic angel statues St Andrew's Church is marking 200 years since the angels with a royal past came to Somerset. 7 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8602495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyzj7jvyp1o",
+      "title": "8 hrs ago Artist explores 'beautiful mess' of motherhood A woman who had a baby through IVF is looking at the challenges of motherhood in a new exhibition. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.860275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5yj67gpk2ro",
+      "title": "8 hrs ago Boy showcases his 'tiny gallery' of artworks Max has curated his own miniature exhibition outside his Melton Mowbray home. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574egnnvgkko",
+      "title": "8 hrs ago Music sessions for children with additional needs Organisers hope the inclusive sessions will help to increase confidence and improve social skills. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.860325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgyy0x27pzo",
+      "title": "19 hrs ago Volunteer-run museum gets national recognition The heritage museum was set up in the 1940s to document the history of an ancient Cotswold town. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.86035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwdr7727vx4ko",
+      "title": "19 hrs ago Grassroots arts venue reopens after closure fears The family behind a music arts centre says its revival has been boosted by local support. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.860375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjvgyy5r07gko",
+      "title": "22 hrs ago Blue plaque in honour of Mott the Hoople singer Ian Hunter says the plaque at his birth place is an honour and he is a \"Shropshire lad at heart\". 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8603992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9kgv36718z6o",
+      "title": "1 day ago Touring rural performance group marks 25 years The rural touring arts scheme has brought performances to communities for more than two decades. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8604305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8d3n72z109o",
+      "title": "1 day ago Picture books to help children understand dementia Dementia Jersey and Every Child Our Future join forces to help children access the books. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.8604782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/cm750g2w999no",
+      "title": "1 day ago Two Doors Down moves from small screen to big stage Behind-the-scenes as Two Doors Down moves from TV screens to huge arena at Glasgow's OVO Hydro. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1790517695.860505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5
+  "section_index": 6,
+  "discovery_errors": []
 }
