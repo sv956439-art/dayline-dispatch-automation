@@ -49,9 +49,9 @@ jobs:
         env:
           AI_ENABLED: ${{ vars.AI_ENABLED }}
           AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
-          AI_MODEL: ${{ vars.AI_MODEL }}
+          FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
           MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '1' }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
           BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
           BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
