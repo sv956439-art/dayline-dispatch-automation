@@ -894,9 +894,13 @@
     {
       "sourceUrl": "https://www.bbc.com/sport/golf/articles/c64gvvjze807o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790539299.9314978,
       "title": "Internationals hold three-point Presidents Cup lead over US",
-      "firstSeenAt": "2026-09-27T12:51:36.611Z"
+      "firstSeenAt": "2026-09-27T12:51:36.611Z",
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T23:22:47.545Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790542903.4779654
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/videos/cj62ee3zydxlo",
@@ -937,9 +941,14 @@
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/c67833k8dn0eo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790539328.3701196,
       "title": "From turgid to thrusting - mixed start for new Scotland",
-      "firstSeenAt": "2026-09-27T12:51:36.612Z"
+      "firstSeenAt": "2026-09-27T12:51:36.612Z",
+      "researchUrls": [
+        "https://www.scottishfa.co.uk/en/news/sebastien-pocognoli-appointed-scotland-mens-national-team-head-coach"
+      ],
+      "sourcePublishedAt": "2026-09-27T07:14:55.276Z",
+      "lastError": "Gemini free quota reached; queue retained for a later run"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/formula1/articles/ckly558q6jeqo",
@@ -1972,10 +1981,12 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0lv8l11/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790539327.428072,
       "title": "Do you need to drink electrolytes to stay hydrated?\n\nElectrolyte-packed drinks are said to optimise health and hydration. But do we really need them?\n\nHealth Decoded",
-      "firstSeenAt": "2026-09-27T13:39:29.819Z"
+      "firstSeenAt": "2026-09-27T13:39:29.819Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790542928.3647244
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0m5nhc2/watch",
@@ -3730,7 +3741,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0997293,
-      "attemptedAt": 0
+      "attemptedAt": 1790539303.4835782,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T05:00:28.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790542908.6139562
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
@@ -4297,7 +4312,13 @@
       "title": "Surviving the Nepal flood disaster was just the beginning of their struggles",
       "status": "pending",
       "firstSeenAt": 1790520201.962246,
-      "attemptedAt": 0
+      "attemptedAt": 1790539308.619843,
+      "researchUrls": [
+        "https://mofa.gov.np/content/1878/daily-update-6-september-2026/"
+      ],
+      "sourcePublishedAt": "2026-09-25T19:30:19+00:00",
+      "lastError": "Article body must contain 300–800 supported words; measured 299 words",
+      "retryAfter": 1790542927.4225605
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-26/earl-charles-spencer-on-princess-dianas-eulogy-in-swan-song/107184764",
@@ -5077,22 +5098,46 @@
       "status": "pending",
       "firstSeenAt": 1790538901.9612682,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm0qxknzpn8jo",
+      "provider": "BBC",
+      "title": "Fernandes, Gakpo & Dorgu join international break's injury list",
+      "status": "pending",
+      "firstSeenAt": 1790539290.1635668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/sexual-assault-service-nsw-victim-survivor-opening-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790539290.8542087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790539290.854866,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
-  "provider_index": 0,
+  "provider_index": 1,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
   "lastRunStats": {
-    "attempted": 9,
+    "attempted": 5,
     "published": 0,
     "drafted": 0,
-    "deferred": 9,
-    "pending": 533,
-    "neverAttempted": 449,
+    "deferred": 5,
+    "pending": 549,
+    "neverAttempted": 461,
     "searchStatus": "local_free_search_budget_reached",
-    "completedAt": 1790535614.8306963
+    "completedAt": 1790539337.1504836
   },
   "searchBudget": {
     "month": "2026-09",
@@ -5100,5 +5145,5 @@
     "day": "2026-09-27",
     "dailyRequests": 30
   },
-  "aiRetryAfter": 1790539214.8252108
+  "aiRetryAfter": 1790542937.1452098
 }
