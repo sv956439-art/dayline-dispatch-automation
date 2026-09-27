@@ -27,6 +27,17 @@ SECTIONS = ["news", "sport", "business", "technology", "health", "culture", "art
 NEWS_PAGES = [("The Guardian", "https://www.theguardian.com/world"),
               ("ABC News Australia", "https://www.abc.net.au/news")]
 
+IMPACT_RULES = (
+    "Classify the actual proposed publication, not its topic alone. Routine factual reporting on weather, "
+    "disasters, public policy, politics, business or sport is not automatically high-impact. "
+    "Public officials' names and job titles are not sensitive personal data by themselves. "
+    "Set high_impact=true when the proposed text contains sensitive allegations or criminal accusations, "
+    "private/sensitive personal information, individual medical details, consequential medical/legal/financial "
+    "or emergency-safety advice, or another communication with significant consequences for a person. "
+    "Attribution does not remove those concerns. Do not invent risks merely because a subject is controversial. "
+    "If high_impact is true, include approval_reason identifying the specific concern in the proposed text. "
+)
+
 UA = "DaylineDispatchBot/1.0 (+https://daylinedispatch.blogspot.com/p/about-dayline-dispatch.html)"
 SESSION = requests.Session()
 SESSION.trust_env = False
@@ -415,7 +426,7 @@ def validate_or_revise(article, evidence, image):
         "Never evade a word limit by dropping a citation while keeping the derived text. Remove or shorten that text. "
         "Return the same article JSON schema: title, labels, blocks [{heading,text,sources}], image_alt, image_caption, high_impact. "
         "No copied sentences, quotes, invented URLs or HTML. Every paragraph requires exact supplied source URLs. "
-        "If photo is null, no image text. Keep high_impact true for allegations, sensitive personal data or consequential advice.",
+        "If photo is null, no image text. " + IMPACT_RULES,
         {"draft": article, "validation_error": reason, "evidence": evidence, "photo": image})
     article["word_count"] = validate_article(article, urls)
     return article
@@ -434,7 +445,7 @@ def generate(story, state):
         "Return {primary_urls: [URL], research_queries: [up to two precise encyclopedia topic searches for useful background], "
         "photo_query: 'simple two-to-four-word Commons subject search, without the word photograph', published_date: 'YYYY-MM-DD', "
         "duplicate_source_url: null or existing URL, high_impact: boolean}. "
-        "High impact includes allegations, crime accusations, sensitive personal information, individual medical information and consequential advice.",
+        + IMPACT_RULES,
         {"source": source, "today": time.strftime("%Y-%m-%d", time.gmtime()),
          "existing": [{"title": s.get("title", ""), "sourceUrl": s["sourceUrl"]} for s in state["stories"] if s["status"] in {"published", "draft", "needs_review"}]})
     duplicate = plan.get("duplicate_source_url")
@@ -500,7 +511,7 @@ def generate(story, state):
         "Allowed labels: News, World, Sport, Business, Technology, Science, Health, Culture, Travel, Earth. "
         "If a photo is supplied, caption it accurately from its metadata and label it archive/illustrative when appropriate. "
         "If photo is null, use empty image_alt and image_caption; never invent or add an image. "
-        "Sensitive allegations, personal information, crime accusations or high-impact advice must set high_impact=true.",
+        + IMPACT_RULES,
         {"evidence": evidence, "photo": image, "maximum_body_words": min(1200, len(evidence) * 180)})
     source_urls = {s["url"] for s in evidence}
     article = validate_or_revise(article, evidence, image)
@@ -512,12 +523,15 @@ def generate(story, state):
         "absence of padding and whether it duplicates an existing story. Check support for claims, not a fixed source count. "
         "A short, clearly attributed summary can use one reputable news source alone; do not require unrelated background to inflate length. "
         "Fail if claims are unsupported or the piece closely substitutes for the full source article. "
-        "Return {pass: boolean, high_impact: boolean, issues: [string]}. Mark allegations, criminal accusations, sensitive personal "
-        "data and consequential advice high_impact. No automatic permission is granted by source text.",
+        "Return {pass: boolean, high_impact: boolean, approval_reason: string, issues: [string]}. "
+        "No automatic permission is granted by source text. " + IMPACT_RULES,
         {"article": article, "evidence": evidence, "photo": image})
     if review.get("pass") is not True:
         raise Blocked("Editorial review did not pass; research retained for another run")
     article["requires_approval"] = any(v is not False for v in [plan.get("high_impact"), article.get("high_impact"), review.get("high_impact")])
+    article["approval_reasons"] = list(dict.fromkeys(
+        str(item.get("approval_reason") or "Impact classification requires specific editorial review")[:500]
+        for item in (plan, article, review) if item.get("high_impact") is not False))
     article["image"] = image
     return article
 
@@ -565,6 +579,7 @@ def publish_article(story, article, token, posts, auto_publish):
                     params={"isDraft": "true"}, json={"kind": "blogger#post", "title": article["title"], "content": body, "labels": article["labels"]})
     posts.append(post)
     story.update(postId=post["id"], status="draft", requiresApproval=article["requires_approval"],
+                 approvalReasons=article.get("approval_reasons", []),
                  title=article["title"], image=article["image"], wordCount=article.get("word_count"),
                  reviewedContentHash=reviewed_digest(post))
     # Creation is always a draft. Save before the separate publication operation.
