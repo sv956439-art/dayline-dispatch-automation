@@ -5298,9 +5298,25 @@
       "status": "pending",
       "firstSeenAt": 1790545713.5545726,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260611-the-aristocrat-who-vanished-after-killing-a-nanny",
+      "provider": "BBC",
+      "title": "The British aristocrat who vanished after murdering his children's nanny Lord Lucan was found guilty of killing Sandra Rivett on 19 June 1975 – but by then he had already disappeared. His wife was interviewed by the BBC in 1980.",
+      "status": "pending",
+      "firstSeenAt": 1790546592.3279684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/tennis-kim-birrell-claims-first-wta-title-but-loses-top-spot/107202476",
+      "provider": "ABC News Australia",
+      "title": "Birrell claims long awaited WTA title, but loses top Aussie ranking",
+      "status": "pending",
+      "firstSeenAt": 1790546593.0813112,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
