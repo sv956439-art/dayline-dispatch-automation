@@ -1,0 +1,68 @@
+name: Dayline Dispatch
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '*.py'
+      - 'requirements.txt'
+      - '.github/workflows/publish.yml'
+  schedule:
+    - cron: '2-57/5 * * * *'
+
+concurrency:
+  group: dayline-dispatch-publisher
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -p 'test_*.py' -v
+  publish:
+    needs: test
+    if: vars.CLOUD_ENABLED == 'true' && github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Test publishing controls
+        run: python -m unittest discover -p 'test_*.py' -v
+      - name: Discover, research and publish
+        env:
+          AI_ENABLED: ${{ vars.AI_ENABLED }}
+          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '1' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: python publisher.py
+      - name: Preserve queue even when a source fails
+        if: always()
+        run: |
+          git config user.name 'dayline-dispatch-bot'
+          git config user.email 'dayline-dispatch-bot@users.noreply.github.com'
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update publishing queue [skip ci]'
+            git push
+          fi
