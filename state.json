@@ -5346,9 +5346,25 @@
       "status": "pending",
       "firstSeenAt": 1790548203.7477367,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cr5yeng66de5o",
+      "provider": "BBC",
+      "title": "US complete thrilling comeback to retain Presidents Cup",
+      "status": "pending",
+      "firstSeenAt": 1790549903.946697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c39elvrye40o",
+      "provider": "BBC",
+      "title": "Seventeen titles in five years - why Spain are a dominant force",
+      "status": "pending",
+      "firstSeenAt": 1790549903.9469924,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
