@@ -2,6 +2,11 @@ name: Dayline Dispatch
 
 on:
   workflow_dispatch:
+    inputs:
+      check_connections:
+        description: 'Only test Blogger access and a tiny Gemini response; create no posts'
+        type: boolean
+        default: false
   push:
     paths:
       - '*.py'
@@ -55,7 +60,12 @@ jobs:
           BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
           BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
           BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
-        run: python publisher.py
+        run: |
+          if [ "${{ inputs.check_connections }}" = "true" ]; then
+            python -u publisher.py --check-connections
+          else
+            python -u publisher.py
+          fi
       - name: Preserve queue even when a source fails
         if: always()
         run: |
