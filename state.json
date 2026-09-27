@@ -5282,9 +5282,25 @@
       "status": "pending",
       "firstSeenAt": 1790544567.3824043,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/trade-shortage-river-murray-flood-2022-homes-unfinished-sa/107164072",
+      "provider": "ABC News Australia",
+      "title": "Flood victims wait four years for repairs to homes",
+      "status": "pending",
+      "firstSeenAt": 1790545713.5545437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/uk-counterterror-investigation-after-men-arrested-near-airbase/107202334",
+      "provider": "ABC News Australia",
+      "title": "Men accused of planning terrorist attack near RAF base used to strike Iran",
+      "status": "pending",
+      "firstSeenAt": 1790545713.5545726,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
