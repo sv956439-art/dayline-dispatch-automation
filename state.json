@@ -5322,9 +5322,33 @@
       "status": "pending",
       "firstSeenAt": 1790547494.2529106,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4glxn32zypo",
+      "provider": "BBC",
+      "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+      "status": "pending",
+      "firstSeenAt": 1790548203.0280557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/australia-loses-second-odi-against-south-africa-after-collapse/107202556",
+      "provider": "ABC News Australia",
+      "title": "Australian middle order collapses again as South Africa claims ODI",
+      "status": "pending",
+      "firstSeenAt": 1790548203.747453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/homicide-investigation-after-fernvale-death/107202398",
+      "provider": "ABC News Australia",
+      "title": "Police launch homicide probe after death west of Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1790548203.7477367,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
