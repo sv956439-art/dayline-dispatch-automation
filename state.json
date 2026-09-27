@@ -781,17 +781,29 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cklyjjjge16vo",
-      "status": "pending",
-      "attemptedAt": 0,
-      "title": "White casts doubt on Fury-Joshua after 24 hours of chaosThere is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.7 hrs agoBoxing",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "status": "published",
+      "attemptedAt": 1790527349.7101016,
+      "title": "Fresh Uncertainty Surrounds Tyson Fury and Anthony Joshua Blockbuster Bout",
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.telegraph.co.uk/boxing/2026/09/24/tyson-fury-v-anthony-joshua-cardiff-december-11/"
+      ],
+      "sourcePublishedAt": "2026-09-27T05:39:28.511Z",
+      "postId": "2876426983577593182",
+      "requiresApproval": false,
+      "approvalReasons": [],
+      "image": null,
+      "wordCount": 310,
+      "reviewedContentHash": "e7f72e92c2d62069c04f9ae942686db074c996caed25caa01522963e2b616d6b",
+      "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/fresh-uncertainty-surrounds-tyson-fury.html"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/c60m33473zxpo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790527394.6254458,
       "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.6 hrs agoMan City",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "lastError": "Gemini free quota reached; queue retained for a later run"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/live/crq5xz75wdw3t",
@@ -1643,10 +1655,12 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0m39j03/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790527393.5161994,
       "title": "Kokiriko: Japan's oldest folk song and dance",
-      "firstSeenAt": "2026-09-27T13:08:08.662Z"
+      "firstSeenAt": "2026-09-27T13:08:08.662Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790530994.6212916
     },
     {
       "sourceUrl": "https://www.bbc.com/future/article/20260917-the-moment-the-world-discovered-whales-sing",
@@ -3492,7 +3506,7 @@
       "wordCount": 305,
       "reviewedContentHash": "be923a81156ddd1993274145e04ccf3dd433d37149d2340f59ec6ad3e80f3758",
       "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/giant-pandas-depart-chengdu-for-zoo.html",
-      "lastError": "Source returned HTTP 429",
+      "lastError": "Homepage thumbnail requires review",
       "retryAfter": 1790529762.8789628
     },
     {
@@ -3570,7 +3584,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0996017,
-      "attemptedAt": 0
+      "attemptedAt": 1790527368.6021132,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-27T00:46:02.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790530972.3342235
     },
     {
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
@@ -4116,7 +4134,13 @@
       "title": "James Reyne still cringes at some Australian Crawl songs",
       "status": "pending",
       "firstSeenAt": 1790520201.962002,
-      "attemptedAt": 0
+      "attemptedAt": 1790527372.338097,
+      "researchUrls": [
+        "https://www.abc.net.au/news/2026-06-16/australian-crawl-reform-tour-2026-men-at-work-tickets/106800332"
+      ],
+      "sourcePublishedAt": "2026-09-26T18:30:00+00:00",
+      "lastError": "Article body must contain 300–800 supported words; measured 284 words",
+      "retryAfter": 1790530993.5123
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/spicks-and-specks-music-quiz/107185194",
@@ -4672,27 +4696,44 @@
       "status": "pending",
       "firstSeenAt": 1790526618.4181356,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ew9e5lg01vo",
+      "provider": "BBC",
+      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
+      "status": "pending",
+      "firstSeenAt": 1790527343.115717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/27/pat-mcfadden-uk-benefits-young-people-moral-crusade",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790527343.575716,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
-  "provider_index": 0,
+  "provider_index": 1,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
   "lastRunStats": {
-    "attempted": 9,
-    "published": 0,
+    "attempted": 5,
+    "published": 1,
     "drafted": 0,
-    "deferred": 9,
+    "deferred": 4,
     "pending": 520,
-    "neverAttempted": 459,
+    "neverAttempted": 456,
     "searchStatus": "local_free_search_budget_reached",
-    "completedAt": 1790526897.5707674
+    "completedAt": 1790527394.7682183
   },
   "searchBudget": {
     "month": "2026-09",
     "monthlyRequests": 30,
     "day": "2026-09-27",
     "dailyRequests": 30
-  }
+  },
+  "aiRetryAfter": 1790530994.7642946
 }
