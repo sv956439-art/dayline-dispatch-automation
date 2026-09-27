@@ -816,16 +816,27 @@
     {
       "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cvwyz791096jo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790531505.1303563,
       "title": "Horner a distraction for Ferrari says VasseurChristian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.1 hr agoFormula 1",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://edition.cnn.com/2025/07/09/sport/christian-horner-sacked-red-bull-spt",
+        "https://www.formula1.com/en/latest/article/horner-to-exit-red-bull-with-immediate-effect-as-mekies-takes-over-as-ceo.4Rd4H69v5sIkhPF0XCbf7N"
+      ],
+      "sourcePublishedAt": "2026-09-27T11:44:25.445Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 306 words",
+      "retryAfter": 1790535128.758756
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cx05r4gg209ro",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790531635.1923869,
       "title": "Four men down - but Australia still beat South AfricaAustralia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.27 mins agoRugby Union",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-27T12:19:34.362Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790535238.261555
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vgyy4v938no",
@@ -1692,17 +1703,21 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0p1xjjs/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790531503.6423125,
       "title": "The life-changing potential of next-generation prosthetics\n\nA prosthetics expert's life changed after a cycling accident. Now he is testing new technology himself.",
-      "firstSeenAt": "2026-09-27T13:08:08.662Z"
+      "firstSeenAt": "2026-09-27T13:08:08.662Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790535105.1253252
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0p515ww/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790531634.1540318,
       "title": "Stunning bird photography in the 'owl capital' of Europe",
-      "firstSeenAt": "2026-09-27T13:08:08.662Z"
+      "firstSeenAt": "2026-09-27T13:08:08.662Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790535235.187374
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0nyl4zp/watch",
@@ -3480,7 +3495,7 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
       "provider": "The Guardian",
       "title": "Giant Pandas Depart Chengdu for Zoo Atlanta Following US-China Summit",
-      "status": "published_unverified",
+      "status": "published",
       "firstSeenAt": 1790520201.0994942,
       "attemptedAt": 1790526116.8099067,
       "researchUrls": [
@@ -3596,7 +3611,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0996149,
-      "attemptedAt": 0
+      "attemptedAt": 1790531487.2821076,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T22:00:47.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790535091.0193121
     },
     {
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
@@ -3604,7 +3623,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0996292,
-      "attemptedAt": 0
+      "attemptedAt": 1790531528.7637894,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T20:00:45.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790535215.7909844
     },
     {
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
@@ -3612,7 +3635,13 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0996432,
-      "attemptedAt": 0
+      "attemptedAt": 1790531638.2663517,
+      "researchUrls": [
+        "https://www.legislation.gov.au/Latest/C2004A00274"
+      ],
+      "sourcePublishedAt": "2026-09-26T20:00:45.000Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 320 words",
+      "retryAfter": 1790535250.7230191
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
@@ -4148,7 +4177,14 @@
       "title": "Do you go Gaga for music trivia? Right this way...",
       "status": "pending",
       "firstSeenAt": 1790520201.962035,
-      "attemptedAt": 0
+      "attemptedAt": 1790531491.0244114,
+      "researchUrls": [
+        "https://www.abc.net.au/news/2026-09-27/uk-police-declare-major-incident-at-fairford-air-base/107201508",
+        "https://www.abc.net.au/news/2024-10-18/australian-airbase-used-in-us-strike-on-houthi-stores-yemen/104490578"
+      ],
+      "sourcePublishedAt": "2026-09-26T18:30:00+00:00",
+      "lastError": "Original news source citation missing",
+      "retryAfter": 1790535103.637425
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/brisbane-festival-2026-reviews/107118406",
@@ -4156,7 +4192,13 @@
       "title": "Brisbane Festival 2026: Our favourite shows",
       "status": "pending",
       "firstSeenAt": 1790520201.9620683,
-      "attemptedAt": 0
+      "attemptedAt": 1790531615.7960856,
+      "researchUrls": [
+        "https://www.abc.net.au/news/2026-09-19/qld-brisbane-festival-director-interview-bott-olympics/107162690"
+      ],
+      "sourcePublishedAt": "2026-09-27T02:05:01+00:00",
+      "lastError": "AI response was not valid JSON",
+      "retryAfter": 1790535234.1485019
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/fremantle-fans-react-after-grand-final-loss-to-brisbane/107199570",
@@ -4754,20 +4796,20 @@
       "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
-  "provider_index": 1,
+  "provider_index": 2,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
   "lastRunStats": {
-    "attempted": 5,
-    "published": 1,
+    "attempted": 9,
+    "published": 0,
     "drafted": 0,
-    "deferred": 4,
-    "pending": 520,
-    "neverAttempted": 456,
+    "deferred": 9,
+    "pending": 523,
+    "neverAttempted": 452,
     "searchStatus": "local_free_search_budget_reached",
-    "completedAt": 1790527394.7682183
+    "completedAt": 1790531650.7282717
   },
   "searchBudget": {
     "month": "2026-09",
