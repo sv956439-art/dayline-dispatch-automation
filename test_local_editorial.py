@@ -1,7 +1,7 @@
 import copy
 import unittest
 from unittest.mock import Mock
-from local_editorial import article_claims, deterministic_issues, review_claims, validate_review
+from local_editorial import article_claims, deterministic_issues, review_claims, validate_review, numbered_evidence, resolve_review
 from local_model import LocalModelError
 
 PAGE = {"url": "https://example.org/test", "text": "The museum plans to reopen on 12 October. Admission is free."}
@@ -48,7 +48,7 @@ class EditorialTests(unittest.TestCase):
     def test_unsupported_or_uncertain_verdict_blocks_and_audit_is_bound(self):
         for verdict in ["unsupported", "uncertain", "contradicted", "supported"]:
             model = Mock(metrics={})
-            model.generate_json.return_value = {"checks": [{**CHECK, "verdict": verdict}]}
+            model.generate_json.return_value = {"checks": [{**CHECK, "verdict": verdict, "evidenceIds": ["e0s1"]}]}
             report = review_claims(model, [CLAIM], [PAGE])
             self.assertEqual(report["passed"], verdict == "supported")
             self.assertEqual(len(report["claimsHash"]), 64)
@@ -59,3 +59,16 @@ class EditorialTests(unittest.TestCase):
         with self.assertRaises(LocalModelError):
             review_claims(model, [{**CLAIM, "id": str(i)} for i in range(49)], [PAGE])
         model.generate_json.assert_not_called()
+
+    def test_passage_selection_cannot_invent_or_rewrite_evidence(self):
+        passages = numbered_evidence([PAGE])
+        result = resolve_review({"checks": [{**CHECK, "evidenceIds": ["e0s1"]}]}, passages)
+        self.assertEqual(result["checks"][0]["excerpts"][0]["quote"], "Admission is free.")
+        with self.assertRaises(LocalModelError):
+            resolve_review({"checks": [{**CHECK, "evidenceIds": ["e9s9"]}]}, passages)
+
+    def test_real_passage_from_wrong_source_cannot_approve_claim(self):
+        other = {"url": "https://example.org/other", "text": "Admission is free."}
+        result = resolve_review({"checks": [{**CHECK, "evidenceIds": ["e1s0"]}]}, numbered_evidence([PAGE, other]))
+        with self.assertRaises(LocalModelError):
+            validate_review(result, [CLAIM], [PAGE, other])

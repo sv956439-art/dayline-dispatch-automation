@@ -2,7 +2,7 @@
 
 This is custom Dayline software using **Qwen3 4B Q4_K_M**, an existing Apache-2.0 open-weight model. It is not a newly trained foundation model and no training or fine-tuning is claimed.
 
-`local_model.py` runs inference through Ollama on 127.0.0.1 only. It verifies the exact model digest, disables environment proxies, rejects redirects/truncated responses, limits context/output, and has no paid fallback. The manual GitHub development test disables Ollama Cloud and receives no Blogger, Gemini or Tavily credentials. It tests one fictional article with at most one revision and saves timing, word count and generated text for review. Structural validation alone does not prove factual reliability.
+`local_model.py` runs inference through Ollama on 127.0.0.1 only. It verifies the exact model digest, disables environment proxies, rejects redirects/truncated responses, limits context/output, and has no paid fallback. The manual GitHub development test disables Ollama Cloud and receives no Blogger, Gemini or Tavily credentials. It tests labelled factual challenges and one fictional article, with at most one structural revision and one factual repair, and saves timing, word count and generated text for review. Structural validation alone does not prove factual reliability.
 
 `NewsIndex` offers SQLite full-text search over public pages already read by the application, with URL deduplication and seven-day expiry. This can replace Tavily for searching a collected corpus; it cannot search the whole internet or retrieve missing facts from model weights. A production collector still needs permitted RSS feeds, publisher pages and primary-source links, with rate limits and access restrictions respected. Existing cloud production is unchanged by this prototype.
 
@@ -32,5 +32,11 @@ These few examples do not establish real-world accuracy. Same-model review share
 the writer's possible blind spots; exact quote matching establishes provenance,
 not logical entailment. Source trust, freshness, contradictions, attribution,
 image suitability and editorial judgment still require broader evaluation.
+
+The reviewer selects constrained IDs for numbered source passages. The program
+resolves those IDs to exact source text and verifies that the source is cited by
+the claim. This avoids model-generated evidence quotations. Unknown IDs and passages
+from an uncited source fail closed. Audit artifacts preserve the first draft and
+first review even when later evaluation fails.
 
 No test article is published. This development gate is not connected to Blogger.

@@ -2,6 +2,7 @@
 
 No publication or network fetching here. All evidence must already have been read.
 """
+import copy
 import hashlib
 import json
 import re
@@ -16,19 +17,18 @@ A plan/intention is not a promise or completed event. No names required does not
 anonymity. Association is not causation. An allegation is not an established fact.
 Use contradicted for conflict, unsupported for added facts or stronger certainty, uncertain
 when evidence is ambiguous. Do not use outside knowledge or reward plausible wording.
-For supported claims give short EXACT source excerpts establishing the entire claim;
-never invent or rewrite an excerpt. For other verdicts give a short reason and no excerpts.
-Return checks [{id, verdict, reason, excerpts:[{url,quote}]}]."""
+For supported claims select evidenceIds of the supplied numbered passages establishing
+the ENTIRE claim. Never invent a passage id or use a passage outside the claim's cited
+URLs. For other verdicts give a short reason and an empty evidenceIds array.
+Return checks [{id, verdict, reason, evidenceIds:[passage_id]}]."""
 
 REVIEW_SCHEMA = {"type": "object", "required": ["checks"], "properties": {
     "checks": {"type": "array", "items": {"type": "object",
-        "required": ["id", "verdict", "reason", "excerpts"], "properties": {
+        "required": ["id", "verdict", "reason", "evidenceIds"], "properties": {
             "id": {"type": "string"},
             "verdict": {"type": "string", "enum": ["supported", "unsupported", "contradicted", "uncertain"]},
             "reason": {"type": "string"},
-            "excerpts": {"type": "array", "maxItems": 3, "items": {"type": "object",
-                "required": ["url", "quote"], "properties": {
-                    "url": {"type": "string"}, "quote": {"type": "string"}}}}}}}}}
+            "evidenceIds": {"type": "array", "maxItems": 6, "items": {"type": "string"}}}}}}}
 
 
 def normalized(text):
@@ -37,6 +37,29 @@ def normalized(text):
 
 def digest(value):
     return hashlib.sha256(json.dumps(value, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+
+
+def numbered_evidence(evidence):
+    passages = {}
+    for i, page in enumerate(evidence):
+        for j, sentence in enumerate(re.split(r"(?<=[.!?])\s+", normalized(page["text"]))):
+            passages[f"e{i}s{j}"] = {"url": page["url"], "quote": sentence}
+    return passages
+
+
+def resolve_review(result, passages):
+    """Source text is copied by code, never reconstructed by the reviewer model."""
+    if not isinstance(result.get("checks"), list):
+        raise LocalModelError("Reviewer returned no checks")
+    resolved = []
+    for check in result["checks"]:
+        if not isinstance(check, dict) or not isinstance(check.get("evidenceIds"), list):
+            raise LocalModelError("Reviewer omitted evidence selections")
+        ids = check["evidenceIds"]
+        if any(not isinstance(ident, str) or ident not in passages for ident in ids):
+            raise LocalModelError("Reviewer selected unknown evidence")
+        resolved.append({**check, "excerpts": [passages[ident] for ident in ids]})
+    return {"checks": resolved}
 
 
 def article_claims(article):
@@ -112,9 +135,12 @@ def review_claims(model, claims, evidence):
         batch = claims[start:start + 6]
         urls = {u for c in batch for u in c["sources"]}
         pages = [p for p in evidence if p["url"] in urls]
-        result = model.generate_json(REVIEW_INSTRUCTIONS, {"claims": batch, "evidence": pages}, REVIEW_SCHEMA)
+        passages = numbered_evidence(pages)
+        schema = copy.deepcopy(REVIEW_SCHEMA)
+        schema["properties"]["checks"]["items"]["properties"]["evidenceIds"]["items"]["enum"] = list(passages)
+        result = model.generate_json(REVIEW_INSTRUCTIONS, {"claims": batch, "passages": passages}, schema)
         attempts.append(model.metrics.copy())
-        checks.extend(validate_review(result, batch, pages))
+        checks.extend(validate_review(resolve_review(result, passages), batch, pages))
     issues.extend({"id": c["id"], "reason": c["reason"] or c["verdict"]}
                   for c in checks if c["verdict"] != "supported")
     return {"passed": not issues, "issues": issues, "checks": checks, "attempts": attempts,
