@@ -164,9 +164,11 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/crx2zz401935o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790517814.3846521,
       "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "firstSeenAt": "2026-09-27T12:42:04.125Z"
+      "firstSeenAt": "2026-09-27T12:42:04.125Z",
+      "lastError": "ReadTimeout",
+      "retryAfter": 1790604394.520679
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cjqlwxl5yydno",
@@ -2310,8 +2312,190 @@
       "status": "pending",
       "firstSeenAt": 1790517695.860505,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260915-why-mary-magdalene-is-a-divisive-biblical-figure",
+      "title": "Penitent sinner or fiery saint? 10 paintings of Mary Magdalene",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0264697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260820-the-medieval-manosphere-of-the-bayeux-tapestry",
+      "title": "Power, posturing, penis size: What the Bayeux Tapestry reveals about the Middle Ages",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0265048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260706-the-1920s-paintings-that-changed-how-the-world-saw-canada",
+      "title": "The 1920s paintings that changed how the world saw Canada",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0265346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20180524-one-hundred-years-of-solitude-redefining-latin-america",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0267437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260910-the-extraordinary-story-of-barbara-cartland-the-forgotten-billions-selling-romance-author",
+      "title": "She sold millions of romance novels. Why has Barbara Cartland been forgotten? Barbara Cartland was outsold only by Shakespeare and Agatha Christie. So why has the UK's master of romantic fiction disappeared from memory?",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0267868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0gr04n9/watch",
+      "title": "Istanbul's ancient subterranean Basilica Cistern Join Istanbul-based poet and writer Pelin Batu as she explores a museum bursting with history, myth and legend.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0268157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260909-how-the-obscenity-trial-against-1950s-poem-howl-reshaped-us-free-speech",
+      "title": "How the 'obscene' Allen Ginsberg poem Howl outraged Cold War US Allan Ginsberg's graphic verse had a seismic effect on American society. When two people were put on trial for selling it, the judgement was a landmark moment in loosening censorship.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0268443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0gy1ww6/watch",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0268695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20251121-does-music-make-animals-calmer",
+      "title": "The music that keeps animals calm You can find many different playlists for dogs and cats online. However, not all styles of music are effective.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0269113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250723-how-psychos-terrifying-music-changed-film-forever",
+      "title": "How the Psycho music score changed film forever Alfred Hitchcock's grisly horror might not have become a classic without composer Bernard Herrmann's disturbing score.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0269394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0lm6vf6/watch",
+      "title": "Yannick Nézet-Séguin: Mozart reveals everything The music director of the Met Opera shares how a commitment to authenticity shape his approach to conducting.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0269675,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0l9pjsl/watch",
+      "title": "Sinfonía por el Perú: Changing lives through music What if a single note could change a life? That's exactly what's happening at Sinfonía por el Perú.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0269957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0l88cwj/watch",
+      "title": "Steven Isserlis: 'I want to be a voice in their heads' In an intimate portrait, acclaimed cellist Steven Isserlis opens up about why he loves teaching young musicians.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0270233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p0l5k5w8/watch",
+      "title": "Yannick Nézet-Séguin: From child prodigy to modern maestro The renowned conductor and music director of the Met Opera reveals how a calling became his lifelong journey.",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0270507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260907-10-stunning-buildings-blended-with-nature",
+      "title": "8 Sept 2026 Stunning buildings 'blended' with nature Here are some of the world's best new buildings that are immersed in their wild surroundings. 8 Sept 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0271027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260903-the-hidden-history-of-the-controversial-six-million-dollar-banana",
+      "title": "4 Sept 2026 Why this banana was sold for $6m at an auction By sticking a banana to a wall with duct tape and calling it art, Maurizio Cattelan created one of the greatest cultural debates of recent times. 4 Sept 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.027133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260901-the-literary-novel-causing-a-hollywood-scandal",
+      "title": "2 Sept 2026 'A literary assassination': How novel Life of M sparked a Hollywood scandal Controversy is swirling around Rachel Cusk's new novel and its movie-star protagonist named \"M\". Why the fuss – and could the character be based on Natalie Portman? 2 Sept 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0271642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260522-the-best-books-of-2026",
+      "title": "26 Aug 2026 14 of the best books of 2026 so far From a dizzyingly brilliant heist to a devastating tale of generational loss, here are the year's most acclaimed works of fiction so far. 26 Aug 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0271947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260819-moby-dick-the-19th-century-novel-that-challenged-our-fear-of-the-monstrous-whale",
+      "title": "20 Aug 2026 Whales were once seen as monsters - then came Moby Dick Now 175 years old, US author Herman Melville's classic is the ultimate tale of man v whale – but in fact, it questions why humans have been so terrified of these great sea creatures. 20 Aug 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0272267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260811-the-uk-stately-home-where-nazis-were-bugged",
+      "title": "12 Aug 2026 The English stately home where Nazis were tricked into spilling their secrets At north London's Trent Park during World War Two, high-ranking Nazi POWs relaxed and chatted in the elegant upstairs rooms – while downstairs, \"secret listeners\" were eavesdropping. 12 Aug 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0272791,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/reel/video/p08m4bc3/watch",
+      "title": "5 Aug 2026 Japan's ancient philosophy that helps us accept our flaws Can embracing imperfection bring greater peace? Japan's ancient tradition of kintsugi suggests it can. 5 Aug 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0273259,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260730-nine-stunning-nordic-cabins-and-summerhouses",
+      "title": "31 Jul 2026 'What can you live without?': How the Nordics have perfected the summer cabin In this region, summer is all about retreating to a countryside timber dwelling. Here are some of the best, from a mid-Century home to a modern cabin overlooking the ocean. 31 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.027358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260722-why-yesteryear-is-dividing-readers",
+      "title": "23 Jul 2026 Why smash-hit tradwife satire Yesteryear is 2026's most divisive book Caro Claire Burke's Yesteryear is the book of the season – and quite likely the year, too. Here's why the satirical novel about tradwives and womanhood has everybody talking. 23 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0274107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260721-10-of-japans-most-cleverly-designed-homes",
+      "title": "22 Jul 2026 10 of Japan's most cleverly designed homes From an ingenious home with guest annexe attached, to a micro house in Tokyo that opens like a shell, and a home for both cats and humans – here are 10 innovative Japanese dwellings. 22 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0274472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260717-the-surprising-benefits-of-a-five-minute-dance-break",
+      "title": "20 Jul 2026 I danced every day for a week to improve my brainpower From improved concentration to higher creativity, dancing offers a range of brain-boosting benefits. And you don't need to spend hours on the dance floor to feel the effects. 20 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0274785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260716-10-of-the-world-cups-most-striking-images",
+      "title": "17 Jul 2026 10 of the World Cup's most striking images - as historic artworks As the 2026 World Cup draws to a close, the BBC rounds up some of the most stunning photos captured from the tournament – and reveals their similarities to classic works of art. 17 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790517812.0275087,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": []
 }
