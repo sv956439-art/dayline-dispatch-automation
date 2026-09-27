@@ -4736,9 +4736,25 @@
       "status": "pending",
       "firstSeenAt": 1790528331.9090586,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckp84gly996do",
+      "provider": "BBC",
+      "title": "New lithium mine 'to create more than 100 jobs' Officials say demand for lithium is expected to increase by 1,100% by 2035. 3 hrs ago Cornwall",
+      "status": "pending",
+      "firstSeenAt": 1790528991.7904675,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790528992.012191,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
