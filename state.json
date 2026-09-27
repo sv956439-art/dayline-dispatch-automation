@@ -4720,9 +4720,25 @@
       "status": "pending",
       "firstSeenAt": 1790527926.28017,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqy8zlxe04l9o",
+      "provider": "BBC",
+      "title": "Superb South Africa seal series win over Australia",
+      "status": "pending",
+      "firstSeenAt": 1790528331.9088871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmjrxg7xgn9wo",
+      "provider": "BBC",
+      "title": "Saracens edge out Leicester despite Isiekwe red",
+      "status": "pending",
+      "firstSeenAt": 1790528331.9090586,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
