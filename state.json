@@ -744,16 +744,32 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cmqjkk55qg25o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526707.2695029,
       "title": "8Ten NHS staff removed over Noah Woods data breach",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.esneft.nhs.uk/media-statement-unauthorised-access-to-patient-records/",
+        "https://www.express.co.uk/news/uk/2252126/nhs-trust-apologises-noah-woods-data-breach",
+        "https://www.theguardian.com/society/2026/sep/25/nhs-england-staff-patient-records-suspended",
+        "https://www.bbc.com/news/articles/cjr4v9g14vygo"
+      ],
+      "sourcePublishedAt": "2026-09-27T13:25:27.568Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 319 words",
+      "retryAfter": 1790530322.3021932
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cwe8eje6zny7o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526812.9767797,
       "title": "9'Gaming pays me double what I earned as a teacher'",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.gameanglia.co.uk/direct/",
+        "https://www.uos.ac.uk/"
+      ],
+      "sourcePublishedAt": "2026-09-27T05:38:27.499Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 233 words",
+      "retryAfter": 1790530422.5497904
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/cricket/live/c15dwnqeenlt",
@@ -1410,16 +1426,32 @@
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0nyl94s/watch",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526625.2266343,
       "title": "Watch a pride of lions team up for a deadly hunt at night\n\nWildlife photographer Gordon Buchanon gets a front-row seat to African lions' stealthy nighttime ambush.\n\nBBC Select",
-      "firstSeenAt": "2026-09-27T13:08:08.661Z"
+      "firstSeenAt": "2026-09-27T13:08:08.661Z",
+      "researchUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11343300",
+        "https://www.nature.com/articles/s41746-024-01038-3",
+        "https://www.discoverwildlife.com/tv/when-is-big-cats-24-7-on-tv"
+      ],
+      "sourcePublishedAt": "2026-09-23T09:10:57.753Z",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 293 words",
+      "retryAfter": 1790530307.265714
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0pbvhcc/watch",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526796.1261437,
       "title": "The growing climate challenge facing Spain\n\nFrom agriculture to tourism, Spain's economy is adapting to a hotter and less predictable future.\n\nWorld of Business",
-      "firstSeenAt": "2026-09-27T13:08:08.661Z"
+      "firstSeenAt": "2026-09-27T13:08:08.661Z",
+      "researchUrls": [
+        "https://www.bbc.com/news/articles/cwg59g3vz564o",
+        "https://www.france24.com/en/europe/20210806-un-report-says-mediterranean-climate-change-hotspot-will-see-temps-20-higher-than-global-average",
+        "https://www.unep.org/unepmap/resources/factsheets/climate-change"
+      ],
+      "sourcePublishedAt": "2026-09-22T09:01:24.605Z",
+      "lastError": "Article body must contain 300–800 supported words; measured 270 words",
+      "retryAfter": 1790530412.9727507
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cmj6440w47zko",
@@ -1578,9 +1610,15 @@
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0p1y4wq/watch",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526878.9193826,
       "title": "",
-      "firstSeenAt": "2026-09-27T13:08:08.662Z"
+      "firstSeenAt": "2026-09-27T13:08:08.662Z",
+      "researchUrls": [
+        "https://www.sentisight.ai/treating-neurological-conditions-with-ai"
+      ],
+      "sourcePublishedAt": "2026-09-25T09:46:36.664Z",
+      "lastError": "Article body must contain 300–800 supported words; measured 293 words",
+      "retryAfter": 1790530497.5664098
     },
     {
       "sourceUrl": "https://www.bbc.com/culture/article/20260414-10-of-the-most-iconic-images-of-pariss-secret-night-time-world",
@@ -3497,7 +3535,18 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.099542,
-      "attemptedAt": 0
+      "attemptedAt": 1790526722.3082325,
+      "researchUrls": [
+        "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+        "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai",
+        "https://www.bbc.com/news/live/cwy8zglv08ymt",
+        "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting",
+        "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit",
+        "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit"
+      ],
+      "sourcePublishedAt": "2026-09-24T18:30:54.000Z",
+      "lastError": "Article body must contain 300–800 supported words; measured 266 words",
+      "retryAfter": 1790530349.0327668
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
@@ -3505,7 +3554,15 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0995555,
-      "attemptedAt": 0
+      "attemptedAt": 1790526822.5537715,
+      "researchUrls": [
+        "https://www.thedodo.com/daily-dodo/rockstar-rick-wakeman-performs-a-private-concert-for-150-moon-bears-rescued-from-bile",
+        "https://www.animalsasia.org/our-work/bear-sanctuaries/tam-dao-bear-sanctuary",
+        "https://www.animalsasia.org"
+      ],
+      "sourcePublishedAt": "2026-09-24T15:40:28.000Z",
+      "lastError": "Every paragraph needs verified source references",
+      "retryAfter": 1790530433.7553828
     },
     {
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb",
@@ -4028,7 +4085,15 @@
       "title": "Pope urges church to admit failings and heal 'deep wounds'",
       "status": "pending",
       "firstSeenAt": 1790520201.9619002,
-      "attemptedAt": 0
+      "attemptedAt": 1790526749.0368922,
+      "researchUrls": [
+        "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims",
+        "https://www.ewtnnews.com/vatican/pope-s-lourdes-visit-to-highlight-church-s-response-to-abuse",
+        "https://www.ncronline.org/vatican/pope-leo-xiv-will-meet-french-abuse-survivors-critics-demand-action"
+      ],
+      "sourcePublishedAt": "2026-09-27T13:43:22+00:00",
+      "lastError": "Source contribution exceeds 200-word limit; largest contribution is 306 words",
+      "retryAfter": 1790530396.1219838
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/our-2016-wedding-was-a-political-statement/107058460",
@@ -4036,7 +4101,14 @@
       "title": "Our wedding was a political statement — and that was the whole point",
       "status": "pending",
       "firstSeenAt": 1790520201.9619598,
-      "attemptedAt": 0
+      "attemptedAt": 1790526833.7593646,
+      "researchUrls": [
+        "https://www.theguardian.com/australia-news/2017/nov/15/australia-says-yes-to-same-sex-marriage-in-historic-postal-survey",
+        "https://www.legislation.gov.au/Details/C2017A00129"
+      ],
+      "sourcePublishedAt": "2026-09-26T23:00:00+00:00",
+      "lastError": "Article body must contain 300–800 supported words; measured 295 words",
+      "retryAfter": 1790530478.9151676
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/australian-crawl-james-reyne-interview-red-hot-summer/107177488",
@@ -4576,27 +4648,51 @@
       "status": "pending",
       "firstSeenAt": 1790525862.1648414,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c85ydnwqpzyzo",
+      "provider": "BBC",
+      "title": "What we know about RAF Fairford counter-terror probe Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase. 10 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790526618.0258458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790526618.4179554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790526618.4181356,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
-  "provider_index": 3,
+  "provider_index": 0,
   "researchPolicyVersion": 2,
-  "searchStatus": "working",
+  "searchStatus": "local_free_search_budget_reached",
   "lastRunStats": {
     "attempted": 9,
     "published": 0,
     "drafted": 0,
     "deferred": 9,
-    "pending": 517,
-    "neverAttempted": 465,
-    "searchStatus": "working",
-    "completedAt": 1790526525.5466757
+    "pending": 520,
+    "neverAttempted": 459,
+    "searchStatus": "local_free_search_budget_reached",
+    "completedAt": 1790526897.5707674
   },
   "searchBudget": {
     "month": "2026-09",
-    "monthlyRequests": 16,
+    "monthlyRequests": 30,
     "day": "2026-09-27",
-    "dailyRequests": 16
+    "dailyRequests": 30
   }
 }
