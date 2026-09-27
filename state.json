@@ -5005,9 +5005,25 @@
       "status": "pending",
       "firstSeenAt": 1790536197.5850265,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c98r6zk5nge7o",
+      "provider": "BBC",
+      "title": "40 mins ago Cardboard tower sculpture toppled after wind hits The six-storey-high art installation was inspired by the Birnbeck pier. 40 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790536848.4406743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790536848.9645214,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 0,
   "researchPolicyVersion": 2,
