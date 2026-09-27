@@ -10,6 +10,21 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_supported_single_source_summary_is_accepted(self):
+        url = "https://www.bbc.com/news/articles/source"
+        draft = {"title": "An original summary", "labels": ["Culture"], "blocks": [
+            {"text": "word " * 170, "sources": [url]}]}
+        self.assertEqual(p.validate_article(draft, {url}), 170)
+        draft["blocks"][0]["text"] = "word " * 201
+        with self.assertRaisesRegex(p.Blocked, "200-word limit"):
+            p.validate_article(draft, {url})
+
+    def test_two_source_context_does_not_require_five_sources(self):
+        draft = article()
+        draft["blocks"] = draft["blocks"][:2]
+        urls = {u for block in draft["blocks"] for u in block["sources"]}
+        self.assertEqual(p.validate_article(draft, urls), 320)
+
     def test_photo_selection_cannot_use_invented_file(self):
         with patch.object(p, "api_json", return_value={"query": {"search": [{"title": "File:Real.jpg"}]}}), patch.object(p, "response_json", return_value={"photo_title": "File:Invented.jpg"}), patch.object(p, "commons_image") as photo:
             with self.assertRaises(p.Blocked):
