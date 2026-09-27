@@ -1,0 +1,58 @@
+name: Local model development test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: local-model-development-test
+  cancel-in-progress: false
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    env:
+      OLLAMA_HOST: 127.0.0.1:11434
+      OLLAMA_NO_CLOUD: '1'
+      OLLAMA_NUM_PARALLEL: '1'
+      OLLAMA_MAX_LOADED_MODELS: '1'
+      OLLAMA_MODELS: ${{ runner.temp }}/ollama-models
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Install dependencies and test controls
+        run: |
+          pip install -r requirements.txt
+          python -m unittest discover -p 'test_*.py' -v
+      - name: Install pinned official Ollama release
+        run: |
+          curl --fail --location --retry 2 -o "$RUNNER_TEMP/ollama.tar.zst" https://github.com/ollama/ollama/releases/download/v0.34.4/ollama-linux-amd64.tar.zst
+          echo "c238986e61d40c0cc5f4a9b9e40b9eea104350b77efa34741fc134e105cb9533  $RUNNER_TEMP/ollama.tar.zst" | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/ollama-runtime"
+          tar --zstd -xf "$RUNNER_TEMP/ollama.tar.zst" -C "$RUNNER_TEMP/ollama-runtime"
+          rm "$RUNNER_TEMP/ollama.tar.zst"
+          echo "$RUNNER_TEMP/ollama-runtime/bin" >> "$GITHUB_PATH"
+      - name: Start local-only CPU inference
+        run: |
+          ollama serve > "$RUNNER_TEMP/ollama.log" 2>&1 &
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:11434/api/tags; then break; fi
+            sleep 2
+          done
+          curl --fail --silent http://127.0.0.1:11434/api/tags
+          ollama pull qwen3:4b
+      - name: Benchmark fictional 300-word article without API credentials
+        run: python -u local_model_benchmark.py
+      - name: Save evaluation output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: local-model-evaluation
+          path: local-model-results/
+          retention-days: 3
+          if-no-files-found: ignore
