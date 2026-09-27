@@ -5122,9 +5122,33 @@
       "status": "pending",
       "firstSeenAt": 1790539290.854866,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpq0g7z5pjjo",
+      "provider": "BBC",
+      "title": "Embattled Serbian president resigns, paving way for early elections Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption. 8 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1790540015.0877914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/nullarbor-plain-caves-mars-space-research-sa/107185524",
+      "provider": "ABC News Australia",
+      "title": "Nullarbor caves might hold secrets about life on Mars, research suggests",
+      "status": "pending",
+      "firstSeenAt": 1790540016.7349486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/questions-over-benefits-of-data-centres-after-construct-ends/107201000",
+      "provider": "ABC News Australia",
+      "title": "Get rules in place to hold data centres to account, experts tell Tasmania",
+      "status": "pending",
+      "firstSeenAt": 1790540016.734996,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
