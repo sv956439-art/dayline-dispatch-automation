@@ -167,8 +167,7 @@
       "attemptedAt": 1790517814.3846521,
       "title": "Heathrow Airport warns third runway could be delayed by four years",
       "firstSeenAt": "2026-09-27T12:42:04.125Z",
-      "lastError": "ReadTimeout",
-      "retryAfter": 1790604394.520679
+      "lastError": "ReadTimeout"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cjqlwxl5yydno",
@@ -176,8 +175,7 @@
       "attemptedAt": 1790518028.7860672,
       "title": "UK's first air taxi centre opens as we 'move closer to flying cars'",
       "firstSeenAt": "2026-09-27T12:42:04.125Z",
-      "lastError": "Too little accessible source text",
-      "retryAfter": 1790604428.8449817
+      "lastError": "Too little accessible source text"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c20zgjzz0e4o",
@@ -186,8 +184,7 @@
       "title": "UK gas and diesel prices hit highest since 2022",
       "firstSeenAt": "2026-09-27T12:42:04.125Z",
       "researchUrls": [],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790604747.197838
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/travel/article/20250829-the-himalayan-village-where-you-can-see-the-cosmos",
@@ -255,8 +252,7 @@
         "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
         "https://www.bbc.com/travel/article/20260312-10-things-all-visitors-to-japan-should-know"
       ],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790604782.3841941
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/travel/article/20260917-sleep-in-a-different-century-along-the-co-canal",
@@ -370,8 +366,7 @@
       "title": "LIVECounter-terror police lead investigation into major incident near RAF base used by US Air ForceMen arrested on suspicion of explosive offences and major incident declared. The US Air Force, which uses the RAF base in England for long-range bombing missions, says it will \"remain vigilant\".",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790604783.1085086
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cq70dgdndr46o",
@@ -382,8 +377,7 @@
       "researchUrls": [
         "https://www.sixthtone.com/news/1009312/anthropologist-xiang-biao-on-chinas-involuted-generation"
       ],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790605394.1081033
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cmvgyyw2jeego",
@@ -392,8 +386,7 @@
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz dealThe foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.5 hrs agoWorld",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790605397.935392
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cwjdvml9e897o",
@@ -402,8 +395,7 @@
       "title": "Ten climbers missing after avalanche hits Himalayan base campThe Nepali team was preparing to take overseas climbers up the Himlung Himal peak.9 mins agoAsia",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790605399.9631312
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/ck5ywnp075d1o",
@@ -414,8 +406,7 @@
       "researchUrls": [
         "https://www.gov.za/documents/firearms-control-act"
       ],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790605669.906156
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cm5ydvww0erdo",
@@ -427,8 +418,7 @@
         "https://tc.copernicus.org/articles/19/6629/2025/",
         "https://iccinet.org/indonesias-last-glacier-ice-remained-in-2024-but-faces-extinction-by-2030/"
       ],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790605730.1622267
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/live/ckz6z4z57y5nt",
@@ -437,8 +427,7 @@
       "title": "LIVEContentious Northern Ireland march at standstill as demonstrators block roadThe march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead after a series of courtroom challenges.",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
-      "lastError": "Insufficient accessible primary sources for long article",
-      "retryAfter": 1790605735.407794
+      "lastError": "Insufficient accessible primary sources for long article"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cm5y5nj8ejj8o",
@@ -448,8 +437,7 @@
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T11:38:03.741Z",
-      "lastError": "Unexpected image host",
-      "retryAfter": 1790606221.178237
+      "lastError": "Unexpected image host"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cq39me84zrkdo",
@@ -459,8 +447,7 @@
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T08:51:23.440Z",
-      "lastError": "No suitable observed photograph selected",
-      "retryAfter": 1790606228.9041972
+      "lastError": "No suitable observed photograph selected"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/ck1wxxzn5jndo",
@@ -470,8 +457,7 @@
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T12:34:26.605Z",
-      "lastError": "No suitable observed photograph selected",
-      "retryAfter": 1790606307.222998
+      "lastError": "No suitable observed photograph selected"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/crwyzd3gv519o",
@@ -488,8 +474,7 @@
         "https://www.gov.uk/government/news/pm-call-with-the-president-of-the-european-commission-20-july-2026"
       ],
       "sourcePublishedAt": "2026-09-27T13:48:05.759Z",
-      "lastError": "Source contribution exceeds 200-word limit",
-      "retryAfter": 1790606616.2324438
+      "lastError": "Source contribution exceeds 200-word limit"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cme8xx55eryno",
@@ -518,8 +503,7 @@
         "https://www.marieclaire.co.uk/beauty/nails/after-quitting-gels-im-convinced-bare-nails-are-the-new-status-symbol"
       ],
       "sourcePublishedAt": "2026-09-25T23:31:20.333Z",
-      "lastError": "Invalid article labels",
-      "retryAfter": 1790606871.6578903
+      "lastError": "Invalid article labels"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cv5yjzz803edo",
@@ -533,8 +517,7 @@
         "https://www.telegraph.co.uk/news/2026/05/02/jerry-hall-and-amol-rajan-among-new-celebrity-traitors/"
       ],
       "sourcePublishedAt": "2026-09-26T23:01:47.817Z",
-      "lastError": "Source contribution exceeds 200-word limit",
-      "retryAfter": 1790607332.3033872
+      "lastError": "Source contribution exceeds 200-word limit"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cv2dwk3z7x5eo",
@@ -546,8 +529,7 @@
         "https://variety.com/2025/film/news/shetland-douglas-henshall-nagaland-1236361775/"
       ],
       "sourcePublishedAt": "2026-09-24T23:41:10.632Z",
-      "lastError": "Source contribution exceeds 200-word limit",
-      "retryAfter": 1790607693.656067
+      "lastError": "Source contribution exceeds 200-word limit"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o",
@@ -591,8 +573,7 @@
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-26T18:30:04.205Z",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790610395.0043154
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c6p3kk78l4l1o",
@@ -602,8 +583,7 @@
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-26T12:47:25.120Z",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790610888.3621132
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/ckddvv5dn4eyo",
@@ -613,15 +593,20 @@
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-26T13:38:29.407Z",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790611342.6679988
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cvrl6y8rx08wo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790525918.831306,
       "title": "UK PM Burnham refuses to back third runway at HeathrowAndy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn1 hr agoBusiness",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.theguardian.com/environment/2020/dec/16/top-uk-court-overturns-block-on-heathrows-third-runway"
+      ],
+      "sourcePublishedAt": "2026-09-27T11:22:32.042Z",
+      "lastError": "Article body must contain 300–800 supported words; more research is needed if too short",
+      "retryAfter": 1790529541.3258476
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/c6ge4lyy9x0no",
@@ -707,15 +692,24 @@
       "attemptedAt": 1790522819.930519,
       "title": "5Pornhub investigated over its age checks",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
-      "lastError": "Too little accessible source text",
-      "retryAfter": 1790609219.9796193
+      "lastError": "Too little accessible source text"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c6pwl9g9ne1lo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526018.949486,
       "title": "2Killer Christa Pike is to be executed within days but her defence say she's a victim too",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://deathpenaltyinfo.org/death-sentenced-prisoner-christa-pike-files-religious-challenge-to-tennessees-execution-protocol",
+        "https://dpw.lawschool.cornell.edu/advocacy/christa-pike/",
+        "https://wpln.org/post/special-master-declines-intervention-in-christa-pike-execution/",
+        "https://www.amnestyusa.org/press-releases/amnesty-international-members-worldwide-urge-tennessee-governor-bill-lee-to-stop-the-execution-of-christa-pike/",
+        "https://nashvillebanner.com/2025/03/03/tennessee-executions-resumed/"
+      ],
+      "sourcePublishedAt": "2026-09-26T23:04:08.504Z",
+      "lastError": "Article body must contain 300–800 supported words; more research is needed if too short",
+      "retryAfter": 1790529716.8047924
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cqm2mm4y5dkko",
@@ -751,8 +745,7 @@
       "attemptedAt": 1790523427.389156,
       "title": "LIVEBanton holes out for 126 but England on course for big total in series-deciding ODIFollow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the series-deciding third one-day international at The Oval.",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
-      "lastError": "Too little accessible source text",
-      "retryAfter": 1790609827.589945
+      "lastError": "Too little accessible source text"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cklyjjjge16vo",
@@ -774,8 +767,7 @@
       "attemptedAt": 1790524484.7224243,
       "title": "LIVEWSL: Terland scores for Man Utd against West Ham  Follow and listen to action from five games in the Women's Super League including Chelsea against Arsenal at 16:30 BST.",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
-      "lastError": "Too little accessible source text",
-      "retryAfter": 1790610884.8391323
+      "lastError": "Too little accessible source text"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cvwyz791096jo",
@@ -832,8 +824,7 @@
       "attemptedAt": 1790524939.3799777,
       "title": "What could the potential sanctions for Man City be? Video, 00:00:59What could the potential sanctions for Man City be?",
       "firstSeenAt": "2026-09-27T12:51:36.611Z",
-      "lastError": "Too little accessible source text",
-      "retryAfter": 1790611339.4972794
+      "lastError": "Too little accessible source text"
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/videos/cmj644284k18o",
@@ -880,9 +871,11 @@
     {
       "sourceUrl": "https://www.bbc.com/sport/rugby-union/live/c862ee0vyqept",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790525918.5871317,
       "title": "Live. WXV Global Series: Ireland lead Japan in second half",
-      "firstSeenAt": "2026-09-27T12:51:36.612Z"
+      "firstSeenAt": "2026-09-27T12:51:36.612Z",
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790529518.8261082
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/cv5yjx90r4yeo",
@@ -1349,10 +1342,12 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0mbhsd8/watch",
-      "status": "pending",
-      "attemptedAt": 0,
+      "status": "archive_review",
+      "attemptedAt": 1790526017.8912554,
       "title": "When a woman checked in and never checked out\n\nA mysterious 1892 death at a California hotel sparked ghost stories that still intrigue visitors today.",
-      "firstSeenAt": "2026-09-27T13:08:08.661Z"
+      "firstSeenAt": "2026-09-27T13:08:08.661Z",
+      "lastError": "Source is outside the current-news discovery window",
+      "retryAfter": 1790529618.9446952
     },
     {
       "sourceUrl": "https://www.bbc.com/culture/article/20260904-the-poison-tipped-umbrella-that-pointed-to-a-kgb-murder",
@@ -3284,8 +3279,7 @@
         "https://www.dailymaverick.co.za/article/2026-07-01-baboon-proof-logic-why-a-simons-town-fence-is-better-than-removing-the-waterfall-seaforth-troops/"
       ],
       "sourcePublishedAt": "2026-09-27T11:00:03.000Z",
-      "lastError": "Source contribution exceeds 200-word limit",
-      "retryAfter": 1790606883.607961
+      "lastError": "Source contribution exceeds 200-word limit"
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
@@ -3299,8 +3293,7 @@
         "https://www.eeas.europa.eu/eeas/ethiopia-statement-spokesperson-situation-northern-ethiopia_en"
       ],
       "sourcePublishedAt": "2026-09-24T15:29:42.000Z",
-      "lastError": "Source contribution exceeds 200-word limit",
-      "retryAfter": 1790607528.0716608
+      "lastError": "Source contribution exceeds 200-word limit"
     },
     {
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
@@ -3311,8 +3304,7 @@
       "attemptedAt": 1790521293.659748,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-23T11:08:01.000Z",
-      "lastError": "Editorial review did not pass; research retained for another run",
-      "retryAfter": 1790607714.586964
+      "lastError": "Editorial review did not pass; research retained for another run"
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
@@ -3339,8 +3331,7 @@
       "attemptedAt": 1790523418.7738862,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-26T16:00:39.000Z",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790609823.8853915
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
@@ -3353,8 +3344,7 @@
         "https://www.mayerbrown.com/en/insights/publications/2024/02/the-corporate-tax-and-regulatory-aspects-of-brazils-esports-betting-law"
       ],
       "sourcePublishedAt": "2026-09-26T07:58:05.000Z",
-      "lastError": "Article body must contain 400–800 supported words; more research is needed if too short",
-      "retryAfter": 1790610450.0483744
+      "lastError": "Article body must contain 400–800 supported words; more research is needed if too short"
     },
     {
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
@@ -3368,8 +3358,7 @@
         "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/"
       ],
       "sourcePublishedAt": "2026-09-25T22:21:15.000Z",
-      "lastError": "Article body must contain 400–800 supported words; more research is needed if too short",
-      "retryAfter": 1790610976.1415875
+      "lastError": "Article body must contain 400–800 supported words; more research is needed if too short"
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
@@ -3377,7 +3366,14 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0994294,
-      "attemptedAt": 0
+      "attemptedAt": 1790525868.3664994,
+      "researchUrls": [
+        "https://www.alberta.ca/history-of-rat-control-in-alberta",
+        "https://niche-canada.org/2016/09/01/rats-and-communism-protecting-alberta-from-invasion-in-the-early-cold-war/"
+      ],
+      "sourcePublishedAt": "2026-09-25T16:34:05.000Z",
+      "lastError": "Article body must contain 300–800 supported words; more research is needed if too short",
+      "retryAfter": 1790529518.0479596
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
@@ -3385,15 +3381,44 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0994432,
-      "attemptedAt": 0
+      "attemptedAt": 1790525941.3309562,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-25T10:28:45.000Z",
+      "lastError": "Additional verified sources needed for a 300–800-word article; research retained",
+      "retryAfter": 1790529617.365635
     },
     {
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
       "provider": "The Guardian",
-      "title": "",
-      "status": "pending",
+      "title": "Giant Pandas Depart Chengdu for Zoo Atlanta Following US-China Summit",
+      "status": "published_unverified",
       "firstSeenAt": 1790520201.0994942,
-      "attemptedAt": 0
+      "attemptedAt": 1790526116.8099067,
+      "researchUrls": [
+        "https://zooatlanta.org/two-new-giant-pandas-are-expected-to-arrive-at-zoo-atlanta/",
+        "https://sandiegozoowildlifealliance.org/PR/pandas-public-debut",
+        "https://nationalzoo.si.edu/news/giant-pandas-arrive-smithsonians-national-zoo-and-conservation-biology-institute-china"
+      ],
+      "sourcePublishedAt": "2026-09-27T13:14:42.000Z",
+      "postId": "5691383026124610811",
+      "requiresApproval": false,
+      "approvalReasons": [],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Panda_in_Chengdu_Research_Base_of_Giant_Panda_Breeding_-_7708872342.jpg/1280px-Panda_in_Chengdu_Research_Base_of_Giant_Panda_Breeding_-_7708872342.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Panda_in_Chengdu_Research_Base_of_Giant_Panda_Breeding_-_7708872342.jpg",
+        "creator": "George Lu",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Panda in Chengdu Research Base of Giant Panda Breeding, China.",
+        "date": "2011-06-04 11:54:03",
+        "verifiedAt": 1790526149.5385613,
+        "title": "File:Panda in Chengdu Research Base of Giant Panda Breeding - 7708872342.jpg"
+      },
+      "wordCount": 305,
+      "reviewedContentHash": "be923a81156ddd1993274145e04ccf3dd433d37149d2340f59ec6ad3e80f3758",
+      "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/giant-pandas-depart-chengdu-for-zoo.html",
+      "lastError": "Source returned HTTP 429",
+      "retryAfter": 1790529762.8789628
     },
     {
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
@@ -3788,8 +3813,7 @@
       "attemptedAt": 1790520261.5449922,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T05:05:06+00:00",
-      "lastError": "Source contribution exceeds 200-word limit",
-      "retryAfter": 1790606669.0032878
+      "lastError": "Source contribution exceeds 200-word limit"
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/uk-police-declare-major-incident-at-fairford-air-base/107201508",
@@ -3845,8 +3869,7 @@
       "attemptedAt": 1790522770.24793,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T04:17:03+00:00",
-      "lastError": "Editorial review did not pass; research retained for another run",
-      "retryAfter": 1790609219.9259322
+      "lastError": "Editorial review did not pass; research retained for another run"
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/china-sixth-base-antarctica-expansion-australia-concerns/107178622",
@@ -3857,8 +3880,7 @@
       "attemptedAt": 1790523423.8901558,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T04:20:20+00:00",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790609827.3847084
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/one-nation-aspiring-candidates-slam-party-processes/107079258",
@@ -3869,8 +3891,7 @@
       "attemptedAt": 1790524050.052268,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-26T19:07:16+00:00",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790610456.0656762
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530",
@@ -3881,8 +3902,7 @@
       "attemptedAt": 1790524936.0722148,
       "researchUrls": [],
       "sourcePublishedAt": "2026-09-27T09:42:43+00:00",
-      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
-      "retryAfter": 1790611339.3751247
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained"
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/panthers-knights-cleary-nrl-grand-final/107201360",
@@ -3890,7 +3910,9 @@
       "title": "Dynasties and destinies swing on Cleary's horror ankle injury",
       "status": "pending",
       "firstSeenAt": 1790520201.961728,
-      "attemptedAt": 0
+      "attemptedAt": 1790525918.0529842,
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790529518.5822546
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/matty-johns-newcastle-knights-reach-nrl-grand-final/107201578",
@@ -3898,7 +3920,9 @@
       "title": "Matty Johns breaks down in tears after Knights end NRL grand final drought",
       "status": "pending",
       "firstSeenAt": 1790520201.9617891,
-      "attemptedAt": 0
+      "attemptedAt": 1790526017.370395,
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790529617.8863742
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/nrl-nrlw-preliminary-finals-live-panthers-knights-titans-broncos/107201092",
@@ -4438,9 +4462,61 @@
       "status": "pending",
       "firstSeenAt": 1790524477.3861008,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm750plvwy9vo",
+      "provider": "BBC",
+      "title": "Switzerland rejects stricter interpretation of its neutrality The initiative would have prevented the nation from imposing sanctions unless approved by the UN. 15 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1790525861.5886254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c620lrw2xr12o",
+      "provider": "BBC",
+      "title": "Venezuela releases dozens of political prisoners as election calls grow A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president. 21 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1790525861.5886967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd6892j09pxo",
+      "provider": "BBC",
+      "title": "Traitors star burgled after sharing holiday photos Paul Gorton urges people to think twice before sharing holiday pictures before they are back home. 10 hrs ago Manchester",
+      "status": "pending",
+      "firstSeenAt": 1790525861.6882014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790525862.164374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/27/my-holiday-was-full-of-tantrums-and-hangry-meltdowns-and-it-wasnt-the-kids-who-were-to-blame",
+      "provider": "The Guardian",
+      "title": "double quotation mark My holiday was full of tantrums and hangry meltdowns. And it wasn’t the kids who were to blame",
+      "status": "pending",
+      "firstSeenAt": 1790525862.1648414,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
-  "provider_index": 1
+  "provider_index": 2,
+  "researchPolicyVersion": 2,
+  "searchStatus": "not_configured: add TAVILY_API_KEY for general web search",
+  "lastRunStats": {
+    "attempted": 9,
+    "published": 0,
+    "drafted": 0,
+    "deferred": 9,
+    "pending": 517,
+    "neverAttempted": 474,
+    "searchStatus": "not_configured: add TAVILY_API_KEY for general web search",
+    "completedAt": 1790526162.884174
+  }
 }
