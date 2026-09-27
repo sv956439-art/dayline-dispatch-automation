@@ -566,7 +566,7 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cq4gmmdl52rgo",
-      "status": "needs_review",
+      "status": "published",
       "attemptedAt": 1790522819.983867,
       "title": "Police Say Hanging of Mississippi Woman Was Staged",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
@@ -581,7 +581,7 @@
       "image": null,
       "wordCount": 183,
       "reviewedContentHash": "b0096a997b04a397b6c31b6a78d7d86badbee9615c6b4fc9c17c34a2ad4c0784",
-      "publicUrl": "https://daylinedispatch.blogspot.com/"
+      "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/police-say-mississippi-womans-death.html"
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c3vgyyj8q807o",
@@ -597,9 +597,13 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/c6p3kk78l4l1o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790524484.843633,
       "title": "British national among six dead in building explosion close to Acropolis in AthensFour Americans and a Greek national are among those killed in a suspected gas explosion, officials said.24 hrs agoEurope",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-26T12:47:25.120Z",
+      "lastError": "Additional verified sources needed for a 400–800-word article; research retained",
+      "retryAfter": 1790610888.3621132
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/ckddvv5dn4eyo",
@@ -648,7 +652,7 @@
     },
     {
       "sourceUrl": "https://www.bbc.com/news/videos/cwp933mr9v1xo",
-      "status": "published_unverified",
+      "status": "published",
       "attemptedAt": 1790521129.571604,
       "title": "Bangkok Declared Flood Disaster Zone Following Heavy Rains",
       "firstSeenAt": "2026-09-27T12:46:32.869Z",
@@ -763,9 +767,11 @@
     {
       "sourceUrl": "https://www.bbc.com/sport/football/live/crq5xz75wdw3t",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790524484.7224243,
       "title": "LIVEWSL: Terland scores for Man Utd against West Ham  Follow and listen to action from five games in the Women's Super League including Chelsea against Arsenal at 16:30 BST.",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790610884.8391323
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cvwyz791096jo",
@@ -3350,7 +3356,14 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0994165,
-      "attemptedAt": 0
+      "attemptedAt": 1790524488.366861,
+      "researchUrls": [
+        "https://www.abc12.com/news/business/saginaw-ceo-in-viral-lake-america-post-voices-ai-concerns/article_b8cfeaa1-4122-4bcf-a5e9-14121e0dbe52.html",
+        "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/"
+      ],
+      "sourcePublishedAt": "2026-09-25T22:21:15.000Z",
+      "lastError": "Article body must contain 400–800 supported words; more research is needed if too short",
+      "retryAfter": 1790610976.1415875
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
@@ -4069,7 +4082,7 @@
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/bangkok-thailand-declared-disaster-zone-floods-heavy-rain/107200576",
       "provider": "ABC News Australia",
       "title": "Bangkok declared disaster zone after nearly 300mm of rain in two days",
-      "status": "published_unverified",
+      "status": "published",
       "firstSeenAt": 1790520201.962692,
       "attemptedAt": 0,
       "lastError": "Source returned HTTP 429",
@@ -4403,9 +4416,17 @@
       "status": "pending",
       "firstSeenAt": 1790523981.8171163,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790524477.3861008,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
-  "provider_index": 3
+  "provider_index": 2
 }
