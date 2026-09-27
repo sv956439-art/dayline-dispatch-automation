@@ -4712,9 +4712,17 @@
       "status": "pending",
       "firstSeenAt": 1790527343.575716,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqrl6y38wez3o",
+      "provider": "BBC",
+      "title": "England win series as Banton delivers on potential",
+      "status": "pending",
+      "firstSeenAt": 1790527926.28017,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
