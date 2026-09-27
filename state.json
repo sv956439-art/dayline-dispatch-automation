@@ -5021,9 +5021,25 @@
       "status": "pending",
       "firstSeenAt": 1790536848.9645214,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/international-whaling-commission-hobart-meeting/107197532",
+      "provider": "ABC News Australia",
+      "title": "Forty years after whaling was banned, threats remain",
+      "status": "pending",
+      "firstSeenAt": 1790537441.8460104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/ambulance-tasmania-meets-17-per-cent-safety-quality-standards/107160288",
+      "provider": "ABC News Australia",
+      "title": "Ambulance service only fully meets 17 per cent of safety and quality standards",
+      "status": "pending",
+      "firstSeenAt": 1790537441.846086,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 0,
   "researchPolicyVersion": 2,
