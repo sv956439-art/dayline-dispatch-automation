@@ -5037,9 +5037,17 @@
       "status": "pending",
       "firstSeenAt": 1790537441.846086,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/ndis-quality-and-safeguards-commission-complaint-response-times/107187578",
+      "provider": "ABC News Australia",
+      "title": "Serious NDIS complaints languishing as regulator grapples with backlog",
+      "status": "pending",
+      "firstSeenAt": 1790538029.9062448,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 0,
   "researchPolicyVersion": 2,
