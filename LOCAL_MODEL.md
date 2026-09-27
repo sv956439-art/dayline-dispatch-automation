@@ -6,6 +6,8 @@ This is custom Dayline software using **Qwen3 4B Q4_K_M**, an existing Apache-2.
 
 `NewsIndex` offers SQLite full-text search over public pages already read by the application, with URL deduplication and seven-day expiry. This can replace Tavily for searching a collected corpus; it cannot search the whole internet or retrieve missing facts from model weights. A production collector still needs permitted RSS feeds, publisher pages and primary-source links, with rate limits and access restrictions respected. Existing cloud production is unchanged by this prototype.
 
+The bounded collector is included: `python local_research.py collect --state state.json --limit 6` reads up to six known source/context URLs through the existing access checks and stores them in the ignored `local-corpus.sqlite`. Search with `python local_research.py search "your topic"`. Failed fetches are reported; unavailable pages are not bypassed. The corpus is private local data and must not be uploaded as public training data. This is collection/indexing, not model training. The collector can still fetch stale stories from a backlog; verify event dates before writing.
+
 Run tests: `python -m unittest discover -p 'test_*.py' -v`.
 For a local benchmark, install Ollama, disable cloud features (`OLLAMA_NO_CLOUD=1`), run `ollama serve`, pull `qwen3:4b`, then run `python local_model_benchmark.py`. Do not publish the fictional fixture.
 

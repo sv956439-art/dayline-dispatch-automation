@@ -1,11 +1,30 @@
 import json
 import time
 import unittest
-from unittest.mock import Mock
+from unittest.mock import Mock, patch
+from local_research import collect, candidates
 from local_model import LocalModel, LocalModelError, NewsIndex, MODEL, MODEL_DIGEST, ENDPOINT
 
 
 class LocalModelTests(unittest.TestCase):
+    def test_collector_uses_checked_fetch_and_keeps_failures(self):
+        state = {"stories": [{"sourceUrl": "https://example.org/a", "researchUrls": ["https://example.org/b"]}]}
+        index = NewsIndex()
+        with patch("local_research.article_text", side_effect=[{"url": "https://example.org/a", "text": "Library news"}, ValueError("bad")]) as read:
+            report = collect(state, index, 2)
+        self.assertEqual(report["indexed"], 1)
+        self.assertEqual(len(report["deferred"]), 1)
+        self.assertEqual(read.call_count, 2)
+        self.assertEqual(index.search("Library")[0]["url"], "https://example.org/a")
+        index.close()
+
+    def test_collector_deduplicates_and_caps_requests(self):
+        state = {"stories": [{"sourceUrl": "https://example.org/a", "researchUrls": ["https://example.org/a", "https://example.org/b"]}]}
+        self.assertEqual(candidates(state, 1), ["https://example.org/a"])
+        mixed = {"stories": [{"sourceUrl": "https://example.org/old", "firstSeenAt": "2025-01-01T00:00:00Z"},
+                             {"sourceUrl": "https://example.org/new", "firstSeenAt": 1767225600}]}
+        self.assertEqual(candidates(mixed, 1), ["https://example.org/new"])
+
     def client(self, result=None):
         client = LocalModel()
         client.session = Mock()
