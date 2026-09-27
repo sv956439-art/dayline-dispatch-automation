@@ -539,9 +539,15 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cv2dwk3z7x5eo",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790521225.8291218,
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinemaAfter a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.3 days agoAsia",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://variety.com/2025/film/news/shetland-douglas-henshall-nagaland-1236361775/"
+      ],
+      "sourcePublishedAt": "2026-09-24T23:41:10.632Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790607693.656067
     },
     {
       "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o",
@@ -3250,7 +3256,11 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.09934,
-      "attemptedAt": 0
+      "attemptedAt": 1790521293.659748,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-23T11:08:01.000Z",
+      "lastError": "Editorial review did not pass; research retained for another run",
+      "retryAfter": 1790607714.586964
     },
     {
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
@@ -3732,10 +3742,18 @@
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/wallabies-vs-springboks-rugby-test-perth-live-blog-updates/107201492",
       "provider": "ABC News Australia",
-      "title": "Wallabies reduced to 11 men in chaotic upset win over world champion Springboks",
-      "status": "pending",
+      "title": "Wallabies Hold Off Springboks in Chaotic Finish",
+      "status": "published",
       "firstSeenAt": 1790520201.961515,
-      "attemptedAt": 0
+      "attemptedAt": 1790521314.5906188,
+      "researchUrls": [],
+      "sourcePublishedAt": "2026-09-27T09:04:02+00:00",
+      "postId": "6569266626041097082",
+      "requiresApproval": false,
+      "image": null,
+      "wordCount": 154,
+      "reviewedContentHash": "fde49cc314a4138d53db8ac8070e0a4ae0e02615a035625cfba683a3887bd497",
+      "publicUrl": "https://daylinedispatch.blogspot.com/2026/09/wallabies-hold-off-springboks-in.html"
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/why-is-sexual-strangulation-prevalent-among-young-australians/107194944",
@@ -4234,7 +4252,7 @@
       "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
-  "provider_index": 0
+  "provider_index": 3
 }
