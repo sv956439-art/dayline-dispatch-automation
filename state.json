@@ -714,16 +714,32 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cqm2mm4y5dkko",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526231.994112,
       "title": "6German town bans 'stumbling stone' memorials to Nazi victims",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919",
+        "https://ground.news/article/first-afd-writing-samples-end-to-memorial-plaques-for-nazi-victims-in-saxony",
+        "https://www.stolpersteine.eu/en"
+      ],
+      "sourcePublishedAt": "2026-09-26T15:48:51.578Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790529845.7143464
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cqn4knlj9v81o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526455.787945,
       "title": "7Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.bmj.com/content/384/bmj-2023-077310",
+        "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-food-and-health-report/government-response-to-the-house-of-lords-food-diet-and-obesity-committees-report-recipe-for-health-a-plan-to-fix-our-broken-food-system",
+        "https://theconversation.com/ultra-processed-food-why-the-debate-needs-less-fear-and-more-clarity-278060"
+      ],
+      "sourcePublishedAt": "2026-09-27T11:52:47.884Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790530087.7313402
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cmqjkk55qg25o",
@@ -1359,16 +1375,37 @@
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0p44qgh/watch",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526197.9966762,
       "title": "Stunning photographs of India's unique wildlife\n\nFollow wildlife photographer Kalyan Varma as he photographs the unique wildlife of India.\n\nEarth",
-      "firstSeenAt": "2026-09-27T13:08:08.661Z"
+      "firstSeenAt": "2026-09-27T13:08:08.661Z",
+      "researchUrls": [
+        "https://www.bbc.com/reel/topic/environment",
+        "https://www.epa.gov/sciencematters/epa-scientists-study-carbon-storing-power-seagrass-fight-climate-change",
+        "https://www.thebluecarboninitiative.org/about-blue-carbon",
+        "https://www.wwf.org.uk/what-we-do/planting-hope-how-seagrass-can-tackle-climate-change",
+        "https://www.nature.com/articles/s44183-025-00111-y",
+        "https://www.seasidesustainability.org/post/how-seagrass-meadows-help-fight-climate-change"
+      ],
+      "sourcePublishedAt": "2026-09-24T09:00:52.013Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790529831.9892921
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0p624cz/watch",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790526413.2524495,
       "title": "The unexpected ingredient hidden on Poland's shoreline\n\nOn Poland's coast, a local chef explains how a famous Baltic treasure is part of a centuries-old food tradition.\n\nThe Travel Show",
-      "firstSeenAt": "2026-09-27T13:08:08.661Z"
+      "firstSeenAt": "2026-09-27T13:08:08.661Z",
+      "researchUrls": [
+        "https://ambermap.com/en/beaches/amber-on-the-hel-peninsula",
+        "https://polandwander.com/hel-peninsula-guide",
+        "https://pomorskie.travel/en/articles/amber-soup",
+        "https://jaroslawiec.com/blog-post.php",
+        "https://ambermap.com/en"
+      ],
+      "sourcePublishedAt": "2026-09-21T09:07:56.487Z",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790530055.7829263
     },
     {
       "sourceUrl": "https://www.bbc.com/reel/video/p0nyl94s/watch",
@@ -3426,7 +3463,17 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0995116,
-      "attemptedAt": 0
+      "attemptedAt": 1790526245.7191782,
+      "researchUrls": [
+        "https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade",
+        "https://nbcmontana.com/news/nation-world/president-donald-trump-chinese-president-xi-jinping-to-face-off-over-trade-taiwan-arms-sale-and-ai-artificial-intelligence-guardrails-technology-race-at-white-house-summit-iran-war-oval-office-meeting-state-dinner",
+        "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+        "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit",
+        "https://finance.yahoo.com/markets/article/trump-meets-xi-this-week-expect-small-steps-on-trade-and-ai-not-breakthroughs-100000269.html"
+      ],
+      "sourcePublishedAt": "2026-09-25T12:41:14.000Z",
+      "lastError": "Article body must contain 300–800 supported words; more research is needed if too short",
+      "retryAfter": 1790529953.305355
     },
     {
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
@@ -3434,7 +3481,15 @@
       "title": "",
       "status": "pending",
       "firstSeenAt": 1790520201.0995264,
-      "attemptedAt": 0
+      "attemptedAt": 1790526487.736358,
+      "researchUrls": [
+        "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting",
+        "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit",
+        "https://www.businesstimes.com.sg/international/global/thucydides-trap-taiwan-extended-trade-truce-4-takeaways-trumps-summit-xi-washington"
+      ],
+      "sourcePublishedAt": "2026-09-24T23:58:11.000Z",
+      "lastError": "Article body must contain 300–800 supported words; more research is needed if too short",
+      "retryAfter": 1790530103.81418
     },
     {
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
@@ -3930,7 +3985,9 @@
       "title": "Twelve-man Newcastle through to grand final after Cleary's horrific leg break",
       "status": "pending",
       "firstSeenAt": 1790520201.9618123,
-      "attemptedAt": 0
+      "attemptedAt": 1790526196.2752047,
+      "lastError": "Too little accessible source text",
+      "retryAfter": 1790529797.9920042
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/spain-housing-protest/107200740",
@@ -3938,7 +3995,18 @@
       "title": "Thousands rally against Spain's housing crisis after 87yo's eviction",
       "status": "pending",
       "firstSeenAt": 1790520201.9618342,
-      "attemptedAt": 0
+      "attemptedAt": 1790526353.3099825,
+      "researchUrls": [
+        "https://www.abc.net.au/news/2023-04-19/spain-housing-crisis-foreclosed-homes/102239090",
+        "https://www.thedailystar.net/news/world/news/spain-thousands-protest-madrid-against-housing-crisis-4283966",
+        "https://www.newsday.com/news/nation/spain-madrid-housing-crisis-protest-w46695",
+        "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662",
+        "https://www.theguardian.com/world/2025/jan/20/a-vicious-circle-how-the-roof-blew-off-spains-housing-crisis",
+        "https://www.bbc.com/news/articles/cp8je0xewlgo"
+      ],
+      "sourcePublishedAt": "2026-09-27T01:36:23+00:00",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790530013.247671
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/earthquake-recorded-in-east-gippsland/107200738",
@@ -3946,7 +4014,13 @@
       "title": "Earthquake rumbles up East Gippsland valley shaking homes",
       "status": "pending",
       "firstSeenAt": 1790520201.9618673,
-      "attemptedAt": 0
+      "attemptedAt": 1790526503.8190901,
+      "researchUrls": [
+        "https://theconversation.com/melbourne-earthquake-what-exactly-happened-and-whats-the-best-way-to-stay-safe-from-aftershocks-168467"
+      ],
+      "sourcePublishedAt": "2026-09-27T04:11:50+00:00",
+      "lastError": "Source contribution exceeds 200-word limit",
+      "retryAfter": 1790530125.541769
     },
     {
       "sourceUrl": "https://www.abc.net.au/news/2026-09-27/pope-leo-urges-church-to-heal-wounds-of-abuse-survivors/107201770",
@@ -4504,19 +4578,25 @@
       "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
-  "provider_index": 2,
+  "provider_index": 3,
   "researchPolicyVersion": 2,
-  "searchStatus": "not_configured: add TAVILY_API_KEY for general web search",
+  "searchStatus": "working",
   "lastRunStats": {
     "attempted": 9,
     "published": 0,
     "drafted": 0,
     "deferred": 9,
     "pending": 517,
-    "neverAttempted": 474,
-    "searchStatus": "not_configured: add TAVILY_API_KEY for general web search",
-    "completedAt": 1790526162.884174
+    "neverAttempted": 465,
+    "searchStatus": "working",
+    "completedAt": 1790526525.5466757
+  },
+  "searchBudget": {
+    "month": "2026-09",
+    "monthlyRequests": 16,
+    "day": "2026-09-27",
+    "dailyRequests": 16
   }
 }
