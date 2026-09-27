@@ -10,6 +10,12 @@ def article():
 
 
 class PublishingTests(unittest.TestCase):
+    def test_timeout_does_not_expose_request_or_credential(self):
+        with patch.dict(p.os.environ, {"FREE_TIER_CONFIRMED": "true", "GEMINI_API_KEY": "fake"}), patch.object(p.SESSION, "post", side_effect=p.requests.ReadTimeout("secret-request-details")):
+            with self.assertRaisesRegex(p.Blocked, "Gemini request timed out") as error:
+                p.response_json("test", {})
+            self.assertNotIn("secret-request-details", str(error.exception))
+
     def test_free_tier_must_be_confirmed_before_any_request(self):
         with patch.dict(p.os.environ, {}, clear=True), patch.object(p.SESSION, "post") as api:
             with self.assertRaises(p.Blocked):
