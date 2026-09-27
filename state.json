@@ -376,23 +376,34 @@
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cq70dgdndr46o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518836.6059237,
       "title": "Young people in China are fangirling over a professor who gets their anxietyChina's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.15 hrs agoAsia",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [
+        "https://www.sixthtone.com/news/1009312/anthropologist-xiang-biao-on-chinas-involuted-generation"
+      ],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790605394.1081033
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cmvgyyw2jeego",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518994.1132991,
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz dealThe foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.5 hrs agoWorld",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790605397.935392
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/cwjdvml9e897o",
       "status": "pending",
-      "attemptedAt": 0,
+      "attemptedAt": 1790518997.939437,
       "title": "Ten climbers missing after avalanche hits Himalayan base campThe Nepali team was preparing to take overseas climbers up the Himlung Himal peak.9 mins agoAsia",
-      "firstSeenAt": "2026-09-27T12:46:32.869Z"
+      "firstSeenAt": "2026-09-27T12:46:32.869Z",
+      "researchUrls": [],
+      "lastError": "Insufficient accessible primary sources for long article",
+      "retryAfter": 1790605399.9631312
     },
     {
       "sourceUrl": "https://www.bbc.com/news/articles/ck5ywnp075d1o",
@@ -2928,8 +2939,29 @@
       "status": "pending",
       "firstSeenAt": 1790518343.9532492,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/ckq633lm11jeo",
+      "title": "3 Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "status": "pending",
+      "firstSeenAt": 1790518833.7500079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/videos/cjdx5747g7evo",
+      "title": "5 A military threat from US? Canadians react to Carney's concerns",
+      "status": "pending",
+      "firstSeenAt": 1790518833.7500567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/ice-hockey/articles/cx62mem6v3e6o",
+      "title": "NHL's Kuzmenko returns to Russia after father killed by bear Pittsburgh Penguins forward Andrei Kuzmenko returns to Russia before the start of the NHL season after his father was killed by a bear. 2 days ago Ice Hockey",
+      "status": "pending",
+      "firstSeenAt": 1790518833.7501268,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": []
 }
