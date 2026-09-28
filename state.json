@@ -5770,9 +5770,17 @@
       "status": "pending",
       "firstSeenAt": 1790572763.6265478,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vgy8pkykgxo",
+      "provider": "BBC",
+      "title": "37 mins ago 'All options' considered for Banksy's flag statue Westminster City Council says it is the statue's custodian and is responsible for its safety. 37 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790573634.0903552,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
