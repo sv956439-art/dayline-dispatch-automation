@@ -5506,9 +5506,25 @@
       "status": "pending",
       "firstSeenAt": 1790554230.9386983,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw980vje6l3eo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790555633.535779,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/mike-baird-quits-as-cricket-australia-chair/107202874",
+      "provider": "ABC News Australia",
+      "title": "Baird quits as CA chair as Big Bash sell-off fallout continues",
+      "status": "pending",
+      "firstSeenAt": 1790555634.2613232,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
