@@ -7434,9 +7434,33 @@
       "status": "pending",
       "firstSeenAt": 1790631917.501504,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqxvnn49rg2o",
+      "provider": "BBC",
+      "title": "French PM warns against escalation of school protests after 164 arrested Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+      "status": "pending",
+      "firstSeenAt": 1790632484.2195961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790632484.5496771,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/wellness/2026/sep/23/eye-irritation-care-expert",
+      "provider": "The Guardian",
+      "title": "Something in your eye? Here’s how to get it out – without making it worse",
+      "status": "pending",
+      "firstSeenAt": 1790632484.5501568,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
