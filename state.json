@@ -7362,9 +7362,41 @@
       "status": "pending",
       "firstSeenAt": 1790629068.2932782,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e9elmpvglno",
+      "provider": "BBC",
+      "title": "Five men arrested in RAF Fairford incident released on police bail Police are exploring whether proxies or individuals working on behalf of a foreign state are involved. 2 hrs ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1790630606.2271426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkg0l4rm73no",
+      "provider": "BBC",
+      "title": "Pair face extradition to US over cancer drug fraud Sukhi Ghuman and his ex-wife Kiranjit Ghuman are being sought to stand trial in the US. 3 hrs ago Nottinghamshire",
+      "status": "pending",
+      "firstSeenAt": 1790630606.2976348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/federal-politics-live-blog-interest-rates/107205104",
+      "provider": "ABC News Australia",
+      "title": "Canavan says rate hike could be 'straw that breaks the camel's back'",
+      "status": "pending",
+      "firstSeenAt": 1790630606.805341,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/cornell-university-gang-rape-allegations-new-investigation/107206120",
+      "provider": "ABC News Australia",
+      "title": "Cornell University gang-rape allegations to be reinvestigated",
+      "status": "pending",
+      "firstSeenAt": 1790630606.8055732,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
