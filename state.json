@@ -7338,9 +7338,25 @@
       "status": "pending",
       "firstSeenAt": 1790627512.9513874,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/nathan-cleary-defends-phoenix-crossland-over-broken-leg/107206124",
+      "provider": "ABC News Australia",
+      "title": "Nathan Cleary goes in to bat for Phoenix Crossland over 'complete accident'",
+      "status": "pending",
+      "firstSeenAt": 1790628367.6164436,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/regional-women-perinatal-care-health-birth-sa/107188094",
+      "provider": "ABC News Australia",
+      "title": "Regional women share postpartum journeys to create change",
+      "status": "pending",
+      "firstSeenAt": 1790628367.6169403,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
