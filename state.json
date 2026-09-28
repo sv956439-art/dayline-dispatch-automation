@@ -6274,9 +6274,17 @@
       "status": "pending",
       "firstSeenAt": 1790590486.2996109,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/plan-for-controversial-12bn-datacentre-in-sydney-scrapped-due-to-emerging-regulations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790591485.168723,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
