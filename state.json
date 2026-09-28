@@ -5682,9 +5682,25 @@
       "status": "pending",
       "firstSeenAt": 1790568648.4121704,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/police-appeal-hit-and-run-bega/107202896",
+      "provider": "ABC News Australia",
+      "title": "Police hunt driver who fatally reversed into 73yo man after argument",
+      "status": "pending",
+      "firstSeenAt": 1790569597.8817568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/kylie-truswell-mobbs-handed-suspended-sentence/107202772",
+      "provider": "ABC News Australia",
+      "title": "Suspended sentence for woman who gave husband a lethal dose of painkillers",
+      "status": "pending",
+      "firstSeenAt": 1790569597.8818078,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
