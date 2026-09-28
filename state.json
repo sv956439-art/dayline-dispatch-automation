@@ -7226,9 +7226,65 @@
       "status": "pending",
       "firstSeenAt": 1790623903.3472195,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c617jky597k7o",
+      "provider": "BBC",
+      "title": "Hart trusts Man City chair Khaldoon over ruling",
+      "status": "pending",
+      "firstSeenAt": 1790624732.1679413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c68xkzw9r7rko",
+      "provider": "BBC",
+      "title": "Forest Green allow Savage to talk to another club",
+      "status": "pending",
+      "firstSeenAt": 1790624732.1680944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw62jy1e40mlo",
+      "provider": "BBC",
+      "title": "Ferguson retains Rangers dream but Bologna exit never close",
+      "status": "pending",
+      "firstSeenAt": 1790624732.1687336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/trump-steel-plant-iowa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790624732.4088492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/one-nation-family-dynamics-aus-politics/107204260",
+      "provider": "ABC News Australia",
+      "title": "The political divide moving into the family home",
+      "status": "pending",
+      "firstSeenAt": 1790624732.863531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/queensland-research-lifeblood-lab-gown-blood-rare-types/107190284",
+      "provider": "ABC News Australia",
+      "title": "Lab-grown blood offering hope for family with ultra-rare grouping",
+      "status": "pending",
+      "firstSeenAt": 1790624732.863579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/glen-eira-council-endorses-antisemitism-strategy/107201526",
+      "provider": "ABC News Australia",
+      "title": "Melbourne council endorses antisemitism action plan in Victorian first",
+      "status": "pending",
+      "firstSeenAt": 1790624732.8636224,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
