@@ -7458,9 +7458,17 @@
       "status": "pending",
       "firstSeenAt": 1790632484.5501568,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/rye-bread-viral-new-york-city",
+      "provider": "The Guardian",
+      "title": "How a $60 loaf of rye bread went viral in New York City: ‘It’s a conversation piece’",
+      "status": "pending",
+      "firstSeenAt": 1790633897.304683,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
