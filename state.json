@@ -5778,9 +5778,25 @@
       "status": "pending",
       "firstSeenAt": 1790573634.0903552,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/sep/28/i-sleep-with-all-my-clothes-on-to-protect-my-privacy-a-glimpse-into-life-inside-a-child-prison-in-france",
+      "provider": "The Guardian",
+      "title": "‘I sleep with all my clothes on to protect my privacy’: a glimpse into life inside a child prison in France",
+      "status": "pending",
+      "firstSeenAt": 1790574430.9002473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/woman-allegedly-stabbed-by-partner-dies-in-hospital-palmerston/107204466",
+      "provider": "ABC News Australia",
+      "title": "Woman dies days after partner allegedly stabs her in the chest",
+      "status": "pending",
+      "firstSeenAt": 1790574431.5608876,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
