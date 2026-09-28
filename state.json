@@ -7042,9 +7042,17 @@
       "status": "pending",
       "firstSeenAt": 1790617288.5343595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6dj4vkwg8j0o",
+      "provider": "BBC",
+      "title": "Aldi boss says some loyalty discounts 'dupe' customers Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+      "status": "pending",
+      "firstSeenAt": 1790618009.2337978,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
