@@ -6570,9 +6570,49 @@
       "status": "pending",
       "firstSeenAt": 1790600666.2180953,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq3d7jlgjmm5o",
+      "provider": "BBC",
+      "title": "Families welcome guilty verdict over Mali crash that killed 116 Relatives of the victims tell the BBC they are relieved to finally have a ruling 12 years after the crash.",
+      "status": "pending",
+      "firstSeenAt": 1790601735.779095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crm4rygl4m3o",
+      "provider": "BBC",
+      "title": "Four ways to keep your energy bills down Household energy bills are due to rise again in October but there are ways to keep a lid on your expenditure.",
+      "status": "pending",
+      "firstSeenAt": 1790601735.7791965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm70lpkjplyyo",
+      "provider": "BBC",
+      "title": "Two players sent off for pulling rival's dreadlocks",
+      "status": "pending",
+      "firstSeenAt": 1790601735.885636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/ck20lrzqej75o",
+      "provider": "BBC",
+      "title": "Yesterday sucked... I'll be back, says Cleary",
+      "status": "pending",
+      "firstSeenAt": 1790601735.8860667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vgy934nvq4o",
+      "provider": "BBC",
+      "title": "Bellamy sure Wales belong as Haaland threat looms",
+      "status": "pending",
+      "firstSeenAt": 1790601735.886107,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
