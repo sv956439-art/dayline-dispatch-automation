@@ -6034,9 +6034,17 @@
       "status": "pending",
       "firstSeenAt": 1790580118.8176312,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790580976.1599388,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
