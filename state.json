@@ -5730,9 +5730,49 @@
       "status": "pending",
       "firstSeenAt": 1790571748.25122,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790572763.298366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/four-recipes-using-supermarket-shortcuts-flavour/107163216",
+      "provider": "ABC News Australia",
+      "title": "Four dinners for busy weeknights that make use of store-bought shortcuts",
+      "status": "pending",
+      "firstSeenAt": 1790572763.625863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/michael-matthews-uci-world-road-race-championships-silver/107204016",
+      "provider": "ABC News Australia",
+      "title": "Matthews claims world championship silver after life-threatening crash",
+      "status": "pending",
+      "firstSeenAt": 1790572763.6263967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/newcastle-transport-woes-ahead-of-knights-final/107203110",
+      "provider": "ABC News Australia",
+      "title": "Track work postponed to give Knights fans a smooth ride to grand final",
+      "status": "pending",
+      "firstSeenAt": 1790572763.6264708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/dean-milley-jailed-for-trading-vapes-for-abuse-material/107203010",
+      "provider": "ABC News Australia",
+      "title": "Paedophile sentenced after trading vapes for child abuse material",
+      "status": "pending",
+      "firstSeenAt": 1790572763.6265478,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
