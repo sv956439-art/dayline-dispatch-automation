@@ -7282,9 +7282,25 @@
       "status": "pending",
       "firstSeenAt": 1790624732.8636224,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky9z3r00l9eo",
+      "provider": "BBC",
+      "title": "What a US diesel export ban could mean for you The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+      "status": "pending",
+      "firstSeenAt": 1790625323.7029605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/foster-care-reunification-model-broken-experts-say/107182854",
+      "provider": "ABC News Australia",
+      "title": "Foster care reunification model broken, experts say",
+      "status": "pending",
+      "firstSeenAt": 1790625324.3556187,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
