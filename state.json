@@ -7426,9 +7426,17 @@
       "status": "pending",
       "firstSeenAt": 1790631240.3935819,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/australian-man-hiep-tran-allegedly-abducted-in-cambodia/107204586",
+      "provider": "ABC News Australia",
+      "title": "Vietnamese authorities abducted activists in Cambodia, coworkers say",
+      "status": "pending",
+      "firstSeenAt": 1790631917.501504,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
