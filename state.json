@@ -6466,9 +6466,33 @@
       "status": "pending",
       "firstSeenAt": 1790597791.2444563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8d3z5y7958o",
+      "provider": "BBC",
+      "title": "Mexico's Pacific coast braces for Hurricane Polo The category-four storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast. 2 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1790599118.5345833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjg49701wevpo",
+      "provider": "BBC",
+      "title": "Olympics chief joins Marlow Studios leadership team Sir John Armitt is appointed chairman and Wembley Park leader Max James becomes chief executive.",
+      "status": "pending",
+      "firstSeenAt": 1790599118.5358417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790599118.7888231,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
