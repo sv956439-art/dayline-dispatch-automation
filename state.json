@@ -6002,9 +6002,17 @@
       "status": "pending",
       "firstSeenAt": 1790578341.2009742,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cxj06lm00356o",
+      "provider": "BBC",
+      "title": "Broncos deny Rams and Seahawks lose - five things from NFL week three",
+      "status": "pending",
+      "firstSeenAt": 1790579039.697698,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
