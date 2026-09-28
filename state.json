@@ -6402,9 +6402,17 @@
       "status": "pending",
       "firstSeenAt": 1790596261.387503,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crd943vqnek1o",
+      "provider": "BBC",
+      "title": "9 mins ago Maritime museum wins award for £20m renovation Judges say the new-look Hull Maritime Museum is \"part of a wider programme of civic regeneration\". 9 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790596778.5230637,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
