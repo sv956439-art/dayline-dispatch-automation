@@ -6610,9 +6610,33 @@
       "status": "pending",
       "firstSeenAt": 1790601735.886107,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cj62eyx9grzxo",
+      "provider": "BBC",
+      "title": "Konsa and O'Reilly doubts to face Czech Republic",
+      "status": "pending",
+      "firstSeenAt": 1790602655.269618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/base-jumper-dies-utah",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790602655.5363822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/sep/28/stevie-wonder-releases-four-unheard-songs-from-songs-in-the-key-of-life-sessions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790602655.536408,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
