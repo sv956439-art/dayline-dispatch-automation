@@ -7122,9 +7122,33 @@
       "status": "pending",
       "firstSeenAt": 1790620660.9467711,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61wxyzr4rwyo",
+      "provider": "BBC",
+      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+      "status": "pending",
+      "firstSeenAt": 1790621591.6779153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/absence-of-violence-in-drumcree-does-not-make-standoff-any-less-significant",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790621592.23399,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/inside-mission-to-save-ukraine-teens-from-russian-territory/107194986",
+      "provider": "ABC News Australia",
+      "title": "The race against time to save Ukrainian kids from Putin's war machine",
+      "status": "pending",
+      "firstSeenAt": 1790621592.707791,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
