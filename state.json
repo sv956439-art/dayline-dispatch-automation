@@ -7594,9 +7594,17 @@
       "status": "pending",
       "firstSeenAt": 1790639176.422025,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7v4glz50elo",
+      "provider": "BBC",
+      "title": "Journalist to be crowned king in Uganda after bitter succession dispute Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "status": "pending",
+      "firstSeenAt": 1790639725.5151665,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
