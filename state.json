@@ -7394,9 +7394,41 @@
       "status": "pending",
       "firstSeenAt": 1790630606.8055732,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cked73ppgql3o",
+      "provider": "BBC",
+      "title": "Man Utd & Arsenal eye Porto's Costa - Tuesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1790631239.8044333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmlyqk54lj07o",
+      "provider": "BBC",
+      "title": "Newcastle agree Fineanganofo delay as he eyes All Blacks World Cup spot",
+      "status": "pending",
+      "firstSeenAt": 1790631239.8049479,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/asx-markets-business-news-live-updates-tuesday-29-september/107206212",
+      "provider": "ABC News Australia",
+      "title": "ASX to edge higher as US bonds surge",
+      "status": "pending",
+      "firstSeenAt": 1790631240.3935547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/heathcote-pink-cliffs-attracts-tik-tok-tourists/107189304",
+      "provider": "ABC News Australia",
+      "title": "TikTok tourists blamed for visitor damage at Victoria's Pink Cliffs",
+      "status": "pending",
+      "firstSeenAt": 1790631240.3935819,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
