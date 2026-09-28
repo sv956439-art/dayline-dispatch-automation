@@ -6042,9 +6042,25 @@
       "status": "pending",
       "firstSeenAt": 1790580976.1599388,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ly403p1rwpo",
+      "provider": "BBC",
+      "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins Swift took home the big award for video of the year on a night when the original Queen of Pop performed.",
+      "status": "pending",
+      "firstSeenAt": 1790581794.015479,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/john-longmire-leaves-sydney-swans-takes-up-role-with-essendon/107205000",
+      "provider": "ABC News Australia",
+      "title": "Bombers poach former Swans premiership coach John Longmire",
+      "status": "pending",
+      "firstSeenAt": 1790581795.0926285,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
