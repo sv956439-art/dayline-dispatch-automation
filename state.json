@@ -5858,9 +5858,65 @@
       "status": "pending",
       "firstSeenAt": 1790575017.1723354,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1j43rwye77o",
+      "provider": "BBC",
+      "title": "Nature spaces 'need to be next to where people live'",
+      "status": "pending",
+      "firstSeenAt": 1790575793.156994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw14dyxzm0njo",
+      "provider": "BBC",
+      "title": "Heat raises costs and cuts crop yields for farmers",
+      "status": "pending",
+      "firstSeenAt": 1790575793.15703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c95y4ejvl655o",
+      "provider": "BBC",
+      "title": "Getting river pollution investigated like 'pulling teeth'",
+      "status": "pending",
+      "firstSeenAt": 1790575793.1570582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckyvz0r797zyo",
+      "provider": "BBC",
+      "title": "Pumpkin patches feel the heat after summer drought",
+      "status": "pending",
+      "firstSeenAt": 1790575793.157088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2z0pp7r8wo",
+      "provider": "BBC",
+      "title": "2 hrs ago Reports of melted roads rise by 67% in three years Experts warn England's roads are built for cold weather rather than heatwaves. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790575793.157293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/28/endangered-wild-ponies-eriskay-outer-hebrides-scotland-photo-essay",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790575793.344056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/socceroos-expect-brazil-backlash-in-brisbane/107204678",
+      "provider": "ABC News Australia",
+      "title": "Socceroos expect Brazil backlash in Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1790575793.790314,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
