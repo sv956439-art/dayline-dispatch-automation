@@ -5914,9 +5914,49 @@
       "status": "pending",
       "firstSeenAt": 1790575793.790314,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqlwn60yyq9o",
+      "provider": "BBC",
+      "title": "Police block Orange Order from controversial parade route They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road. Just now Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1790577133.3388984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn0749g5gryo",
+      "provider": "BBC",
+      "title": "Wrestler Benjamin Satterley, known as Pac, dies aged 40",
+      "status": "pending",
+      "firstSeenAt": 1790577133.4047139,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9860162dj2o",
+      "provider": "BBC",
+      "title": "4 Thousands of illegal ghost plates on cars revealed by new cameras",
+      "status": "pending",
+      "firstSeenAt": 1790577133.4051824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgyxrlve46o",
+      "provider": "BBC",
+      "title": "7 Felled Sycamore Gap stump has 'encouraging' growth",
+      "status": "pending",
+      "firstSeenAt": 1790577133.4052565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/dozens-of-weapons-seized-in-sa-declared-shopping-precincts/107202918",
+      "provider": "ABC News Australia",
+      "title": "Weapons seized in SA shopping centres since new police powers a year ago",
+      "status": "pending",
+      "firstSeenAt": 1790577134.1516168,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
