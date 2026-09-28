@@ -5794,9 +5794,73 @@
       "status": "pending",
       "firstSeenAt": 1790574431.5608876,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c862ey99gr9wo",
+      "provider": "BBC",
+      "title": "England are learning - these are the World Cup issues they need to solve Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+      "status": "pending",
+      "firstSeenAt": 1790575015.7452085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c639me9jj3r3o",
+      "provider": "BBC",
+      "title": "Redeveloped airport lounge to open in November",
+      "status": "pending",
+      "firstSeenAt": 1790575015.8281257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9v9xm24wmeo",
+      "provider": "BBC",
+      "title": "Calls for more to be made of subsidised Paris air link",
+      "status": "pending",
+      "firstSeenAt": 1790575015.8281493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/sep/28/thrilled-huge-swarms-of-bogong-moths-surprise-nsw-residents-and-may-point-to-species-recovery",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790575016.2930305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/extra-1000-prison-beds-announced-in-nsw-as-union-warns-against-arresting-our-way-out-of-domestic-violence-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790575016.2930696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/kylie-ellina-truswell-mobbs-murder-charge-dismissed-mnd-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790575016.2930875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/opposition-demands-answers-childrens-commission-deaths/107199554",
+      "provider": "ABC News Australia",
+      "title": "Qld opposition says premier needs to 'front up' after child deaths report",
+      "status": "pending",
+      "firstSeenAt": 1790575017.1722968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/man-accused-assaulting-two-young-boys-belconnen-bail/107204050",
+      "provider": "ABC News Australia",
+      "title": "Canberra man accused of attack on young boys given 'very strict' bail",
+      "status": "pending",
+      "firstSeenAt": 1790575017.1723354,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
