@@ -6834,9 +6834,49 @@
       "status": "pending",
       "firstSeenAt": 1790609895.565276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8r6z2gjzd1o",
+      "provider": "BBC",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Wednesday morning.",
+      "status": "pending",
+      "firstSeenAt": 1790610757.9554667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2zw18ge59o",
+      "provider": "BBC",
+      "title": "Best thing we can offer young people is a job, not benefits, says UK chancellor John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs. 13 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1790610758.0537739,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
+      "provider": "BBC",
+      "title": "What is the Budget and what could be in it? Chancellor John Healey will set out his plans for UK taxes in October.",
+      "status": "pending",
+      "firstSeenAt": 1790610758.0542002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cdd29v8mp9jo",
+      "provider": "BBC",
+      "title": "What will the energy cap changes mean for my bills? The regulator Ofgem says the price cap increases by 4% in October for millions of households.",
+      "status": "pending",
+      "firstSeenAt": 1790610758.0542188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790610758.5067546,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
