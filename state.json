@@ -7066,9 +7066,25 @@
       "status": "pending",
       "firstSeenAt": 1790618470.234882,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5wyzrm0n74ro",
+      "provider": "BBC",
+      "title": "Case of alleged rape at US university reopened after lawsuit filed It comes after the woman filed a civil lawsuit alleging she was drugged and raped by multiple men at a fraternity house.",
+      "status": "pending",
+      "firstSeenAt": 1790619574.5975156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8zxzlqwzw0eo",
+      "provider": "BBC",
+      "title": "Stand-up comic set for release after being convicted of insulting Erdoğan Turkish comedian Deniz Göktaş has been sentenced to almost 19 months, but is set to be released due to time served.",
+      "status": "pending",
+      "firstSeenAt": 1790619574.5976217,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
