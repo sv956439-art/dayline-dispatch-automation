@@ -5466,9 +5466,49 @@
       "status": "pending",
       "firstSeenAt": 1790553415.7854612,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/formerly-enslaved-people-in-guyana-embraced-collective-action",
+      "provider": "The Guardian",
+      "title": "double quotation mark Formerly enslaved people in Guyana embraced collective action",
+      "status": "pending",
+      "firstSeenAt": 1790554230.7053714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/phoenix-crossland-to-nrl-judiciary-for-nathan-cleary-hip-drop/107202860",
+      "provider": "ABC News Australia",
+      "title": "Knights star sent to NRL judiciary for tackle that broke Cleary's leg",
+      "status": "pending",
+      "firstSeenAt": 1790554230.937705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/darwin-hip-hop-artist-yung-milla-wins-the-voice-australia/107197086",
+      "provider": "ABC News Australia",
+      "title": "Darwin hip hop artist Yung Milla wins The Voice Australia",
+      "status": "pending",
+      "firstSeenAt": 1790554230.9381032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/50th-anniversary-of-the-eyre-highway-being-fully-sealed/107192448",
+      "provider": "ABC News Australia",
+      "title": "Eyre Highway marks 50 years since final section was sealed",
+      "status": "pending",
+      "firstSeenAt": 1790554230.9386408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/ireland-black-armbands-no-handshakes-with-israel-football-team/107202736",
+      "provider": "ABC News Australia",
+      "title": "Ireland refuses handshake with Israel, wears black armbands for game",
+      "status": "pending",
+      "firstSeenAt": 1790554230.9386983,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
