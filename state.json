@@ -6946,9 +6946,17 @@
       "status": "pending",
       "firstSeenAt": 1790614245.4921181,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m27dprvzv7o",
+      "provider": "BBC",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "status": "pending",
+      "firstSeenAt": 1790614813.0518715,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
