@@ -7490,9 +7490,33 @@
       "status": "pending",
       "firstSeenAt": 1790635289.0766826,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6n4k9exz4v3o",
+      "provider": "BBC",
+      "title": "Infantino makes bigger cash pledge to Fifa members Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+      "status": "pending",
+      "firstSeenAt": 1790636341.1333892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9xk474wxgo",
+      "provider": "BBC",
+      "title": "7 Russian foreign minister questions 'what will become of UK' and future of 'the Celts'",
+      "status": "pending",
+      "firstSeenAt": 1790636341.2010584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/tennessee-woman-execution-christa-pike",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790636341.4799652,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
