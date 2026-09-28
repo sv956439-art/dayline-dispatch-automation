@@ -6338,9 +6338,25 @@
       "status": "pending",
       "firstSeenAt": 1790593637.8597763,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6je85n2vyleo",
+      "provider": "BBC",
+      "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+      "status": "pending",
+      "firstSeenAt": 1790594571.6713638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/first-thing-counting-window-risk-trump-midterm-results",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790594571.9948006,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
