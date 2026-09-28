@@ -7306,9 +7306,25 @@
       "status": "pending",
       "firstSeenAt": 1790625807.7914882,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/29/new-tool-directly-links-carbon-emissions-to-amount-of-environmental-and-economic-damage-caused",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790626703.869369,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/reporting-sa-statewide-blackout-2016/107204392",
+      "provider": "ABC News Australia",
+      "title": "Recalling the news no-one saw as South Australia plunged into darkness",
+      "status": "pending",
+      "firstSeenAt": 1790626704.2006645,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
