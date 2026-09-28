@@ -6082,9 +6082,49 @@
       "status": "pending",
       "firstSeenAt": 1790582441.6747727,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c0m3lpj4gm4o",
+      "provider": "BBC",
+      "title": "A 31-year wait for success - but can Everton fans still celebrate?",
+      "status": "pending",
+      "firstSeenAt": 1790583480.6804066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqxvnyg0xz7o",
+      "provider": "BBC",
+      "title": "Angela Scanlon takes over Sara Cox's drivetime slot on Radio 2 The station also announces a new presenter for its country show after Bob Harris's departure.",
+      "status": "pending",
+      "firstSeenAt": 1790583480.6805441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/28/donald-trump-nobel-peace-prize-volodymyr-zelenskyy",
+      "provider": "The Guardian",
+      "title": "double quotation mark Donald Trump? Please no. Here’s who actually deserves this year’s Nobel peace prize",
+      "status": "pending",
+      "firstSeenAt": 1790583481.1011658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/sep/28/donald-trump-is-becoming-increasingly-unpopular-surely-it-must-all-be-over-soon",
+      "provider": "The Guardian",
+      "title": "Oh no Donald Trump is becoming increasingly unpopular! Surely it must all be over soon",
+      "status": "pending",
+      "firstSeenAt": 1790583481.1012304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120",
+      "provider": "ABC News Australia",
+      "title": "Controversial Sydney data centre project pulled amid community anger",
+      "status": "pending",
+      "firstSeenAt": 1790583481.784836,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
