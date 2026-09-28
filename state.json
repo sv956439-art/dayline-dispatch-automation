@@ -7466,9 +7466,17 @@
       "status": "pending",
       "firstSeenAt": 1790633897.304683,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr50yyddljlo",
+      "provider": "BBC",
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
+      "status": "pending",
+      "firstSeenAt": 1790634624.5368354,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
