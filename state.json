@@ -6986,9 +6986,33 @@
       "status": "pending",
       "firstSeenAt": 1790615644.5541005,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2z3vgy5xwo",
+      "provider": "BBC",
+      "title": "UK tries to stop Trump's diesel export ban John Healey said the government is in talks with the US over Donald Trump's threat to stop exports. 27 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1790616525.1618283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwyzrg7xm2zo",
+      "provider": "BBC",
+      "title": "British chess prodigy, 11, becomes youngest woman grandmaster The 11-year-old has broken another chess record after a remarkable performance representing England. 8 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790616525.161852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crn45ed1kqqgo",
+      "provider": "BBC",
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "status": "pending",
+      "firstSeenAt": 1790616525.162541,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
