@@ -6242,9 +6242,41 @@
       "status": "pending",
       "firstSeenAt": 1790588959.896836,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgy71rle35o",
+      "provider": "BBC",
+      "title": "Three dead, including child, in Channel crossing attempt A 10-year-old child and two 30-year-old women were on board the boat - which was carrying 105 people.",
+      "status": "pending",
+      "firstSeenAt": 1790590485.784124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790590486.0408652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/28/one-change-that-worked-anxiety-two-magic-questions",
+      "provider": "The Guardian",
+      "title": "The one change that worked: Anxiety had me hiding from the world – then two magic questions set me free",
+      "status": "pending",
+      "firstSeenAt": 1790590486.0413094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/larissa-waters-stepping-down-as-greens-leader/107205476",
+      "provider": "ABC News Australia",
+      "title": "Greens leader Larissa Waters steps down due to illness",
+      "status": "pending",
+      "firstSeenAt": 1790590486.2996109,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
