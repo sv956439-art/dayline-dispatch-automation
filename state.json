@@ -6394,9 +6394,17 @@
       "status": "pending",
       "firstSeenAt": 1790595461.772571,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/deer-park-machete-murder-trial-victorian-supreme-court/107205524",
+      "provider": "ABC News Australia",
+      "title": "Trial begins for man accused of hacking friend to death with machete",
+      "status": "pending",
+      "firstSeenAt": 1790596261.387503,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
