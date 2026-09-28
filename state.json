@@ -7170,9 +7170,57 @@
       "status": "pending",
       "firstSeenAt": 1790622157.5361419,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/raf-fairford-representatives-sceptical-suspected-bomb-plot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790623080.148555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/michael-wynn-jones-dies-aged-85-delia-smith-husband",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790623080.1485794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/china-america-xi-jinping-donald-trump/107205376",
+      "provider": "ABC News Australia",
+      "title": "For Xi, America is no longer the centre of China's strategy",
+      "status": "pending",
+      "firstSeenAt": 1790623080.7182355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/whats-behind-north-korea-bridges-with-china-and-russia/107158160",
+      "provider": "ABC News Australia",
+      "title": "What North Korea is really building with new bridges to Russia and China",
+      "status": "pending",
+      "firstSeenAt": 1790623080.7182934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/launceston-mayor-matthew-garwood-credit-card-spending/107203030",
+      "provider": "ABC News Australia",
+      "title": "Mayor defends cocktails, AirPods, steaks, KFC credit card spend",
+      "status": "pending",
+      "firstSeenAt": 1790623080.718635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/tasmanian-cherry-blossoms-link-to-japan-cultural-connection/107176340",
+      "provider": "ABC News Australia",
+      "title": "The surprising origin of Tasmania's cherry blossom festival",
+      "status": "pending",
+      "firstSeenAt": 1790623080.7192204,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
