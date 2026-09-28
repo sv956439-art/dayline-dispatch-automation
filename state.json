@@ -5602,9 +5602,17 @@
       "status": "pending",
       "firstSeenAt": 1790562419.5725834,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/kerry-blackman-jailed-for-sexual-assault/107203480",
+      "provider": "ABC News Australia",
+      "title": "Ex-Gidarjil CEO Kerry Blackman jailed over 'persistent' sexual assaults",
+      "status": "pending",
+      "firstSeenAt": 1790563236.659442,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
