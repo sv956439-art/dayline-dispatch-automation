@@ -7146,9 +7146,33 @@
       "status": "pending",
       "firstSeenAt": 1790621592.707791,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckz7zxzdwl7lo",
+      "provider": "BBC",
+      "title": "Man City CEO 'defiant' over Premier League charges Manchester City chief executive Ferran Soriano issues a \"defiant\" message to other club executives about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
+      "status": "pending",
+      "firstSeenAt": 1790622156.4790592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/openai-medicare-breach-fuels-tougher-approach-to-rogue-ai/107204948",
+      "provider": "ABC News Australia",
+      "title": "OpenAI's delayed warning drives tougher approach to rogue AI",
+      "status": "pending",
+      "firstSeenAt": 1790622157.5360963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/us-dollar-trust-weakening-due-to-donald-trump-iran-war/107204644",
+      "provider": "ABC News Australia",
+      "title": "Waning trust in Trump's economy is about to hit your mortgage",
+      "status": "pending",
+      "firstSeenAt": 1790622157.5361419,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
