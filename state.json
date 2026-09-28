@@ -5586,9 +5586,25 @@
       "status": "pending",
       "firstSeenAt": 1790561545.5910156,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/sandon-smith-nrl-grand-final-newcastle-knights-andrew-johns/107201820",
+      "provider": "ABC News Australia",
+      "title": "Sandon Smith leads Newcastle out of an Immortal shadow",
+      "status": "pending",
+      "firstSeenAt": 1790562419.5721407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/victoria-upfield-line-rail-duplication/107203090",
+      "provider": "ABC News Australia",
+      "title": "Government delays Upfield line upgrades until 2033 with duplication promise",
+      "status": "pending",
+      "firstSeenAt": 1790562419.5725834,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
