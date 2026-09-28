@@ -7354,9 +7354,17 @@
       "status": "pending",
       "firstSeenAt": 1790628367.6169403,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cred737qdv2no",
+      "provider": "BBC",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "status": "pending",
+      "firstSeenAt": 1790629068.2932782,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
