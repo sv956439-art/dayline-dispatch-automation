@@ -6522,9 +6522,57 @@
       "status": "pending",
       "firstSeenAt": 1790600089.7272344,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck24j08v1zd0o",
+      "provider": "BBC",
+      "title": "Judge imposes £100,000 bail condition on Rwanda genocide accused",
+      "status": "pending",
+      "firstSeenAt": 1790600665.6007924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c9rk3y17lnkko",
+      "provider": "BBC",
+      "title": "Comebacks, fly-hacks and cornrows - Prem talking points Old names, new looks and some stunning scores marked the return of the Prem for another season. 1 hr ago Rugby Union",
+      "status": "pending",
+      "firstSeenAt": 1790600665.6014042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/28/schools-forced-to-shut-amid-burst-thames-water-pipe-leaking-750-litres-a-second",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790600666.217088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/sep/28/us-response-un-pandemic-talks-global-planning",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790600666.2172298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
+      "provider": "The Guardian",
+      "title": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
+      "status": "pending",
+      "firstSeenAt": 1790600666.2176156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global/2022/sep/20/sign-up-for-the-first-edition-newsletter-our-free-news-email",
+      "provider": "The Guardian",
+      "title": "Sign up for our email",
+      "status": "pending",
+      "firstSeenAt": 1790600666.2180953,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
