@@ -6202,9 +6202,41 @@
       "status": "pending",
       "firstSeenAt": 1790586970.8522155,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l84gll8wdo",
+      "provider": "BBC",
+      "title": "16 mins ago Bin lorry fire prompts vape disposal warning Crews spotted the fire in the back of their bin lorry after collecting rubbish in Wokingham. 16 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790588040.293732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/after-a-dead-whale-washed-up-at-a-perth-beach-some-took-selfies-others-held-their-nose-from-the-stench",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790588040.5865626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790588040.5869377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/bangkok-thailand-flooding-disaster/107204782",
+      "provider": "ABC News Australia",
+      "title": "Bangkok locals rally to help each other as flood wreaks havoc",
+      "status": "pending",
+      "firstSeenAt": 1790588040.7997682,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
