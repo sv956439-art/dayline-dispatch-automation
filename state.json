@@ -6162,9 +6162,33 @@
       "status": "pending",
       "firstSeenAt": 1790585386.631288,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvgy802y2n9o",
+      "provider": "BBC",
+      "title": "Award-winner to fourth choice - what has gone wrong for Ramsdale?",
+      "status": "pending",
+      "firstSeenAt": 1790586008.8373072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/c98r6z3y00n2o",
+      "provider": "BBC",
+      "title": "Olympic champion Marchant retires from cycling",
+      "status": "pending",
+      "firstSeenAt": 1790586008.8373423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/uk-security-forces-raf-fairford-suspected-bomb-plot-wes-streeting-defence-secretary",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790586009.1521888,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
