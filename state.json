@@ -6810,9 +6810,33 @@
       "status": "pending",
       "firstSeenAt": 1790609022.4574041,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cry8z31pl534o",
+      "provider": "BBC",
+      "title": "Could Potter be England's next breakthrough star?",
+      "status": "pending",
+      "firstSeenAt": 1790609895.5639477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c60m33n3nxgko",
+      "provider": "BBC",
+      "title": "Preston appoint Bradford boss Alexander",
+      "status": "pending",
+      "firstSeenAt": 1790609895.5646482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c64g714l7pn9o",
+      "provider": "BBC",
+      "title": "Australia-born Strange in England World Cup squad",
+      "status": "pending",
+      "firstSeenAt": 1790609895.565276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
