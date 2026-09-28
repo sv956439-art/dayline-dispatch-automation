@@ -5610,9 +5610,33 @@
       "status": "pending",
       "firstSeenAt": 1790563236.659442,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qxk7d2539o",
+      "provider": "BBC",
+      "title": "Avanti West Coast main line to be nationalised The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+      "status": "pending",
+      "firstSeenAt": 1790565405.0861962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/beau-lamarre-condon-double-murder-trial-friend-surreal-comments/107203772",
+      "provider": "ABC News Australia",
+      "title": "Court hears of Lamarre-Condon body in bushland conversation with friend",
+      "status": "pending",
+      "firstSeenAt": 1790565406.3314633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/48-hours-of-rain-falls-across-south-west/107203044",
+      "provider": "ABC News Australia",
+      "title": "48-hour deluge flattens crops as farmers prepare for harvest",
+      "status": "pending",
+      "firstSeenAt": 1790565406.332723,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
