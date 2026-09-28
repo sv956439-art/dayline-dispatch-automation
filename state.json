@@ -6154,9 +6154,17 @@
       "status": "pending",
       "firstSeenAt": 1790584544.8232555,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2l8qv7zppko",
+      "provider": "BBC",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide. 2 days ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1790585386.631288,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
