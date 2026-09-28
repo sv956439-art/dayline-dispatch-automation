@@ -6354,9 +6354,49 @@
       "status": "pending",
       "firstSeenAt": 1790594571.9948006,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmn45e2e1qplo",
+      "provider": "BBC",
+      "title": "Man City rule breaches not my concern - Mancini Roberto Mancini says an alleged \"double contract\" during his time as Manchester City manager is \"not my concern\".",
+      "status": "pending",
+      "firstSeenAt": 1790595461.3988657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cm87vz5w4jwro",
+      "provider": "BBC",
+      "title": "Norris apologises to Colapinto for ban comments",
+      "status": "pending",
+      "firstSeenAt": 1790595461.3988938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx2z9p30rlxo",
+      "provider": "BBC",
+      "title": "FAI unclear over possible sanctions if game not played",
+      "status": "pending",
+      "firstSeenAt": 1790595461.3989162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c623xdzvzmdgo",
+      "provider": "BBC",
+      "title": "Buttler out of tri-series while England prepare central contracts",
+      "status": "pending",
+      "firstSeenAt": 1790595461.398938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/28/israel-no-right-close-jerusalem-uk-consulate-foreign-office-advised",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790595461.772571,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
