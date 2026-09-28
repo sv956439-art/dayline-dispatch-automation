@@ -6234,9 +6234,17 @@
       "status": "pending",
       "firstSeenAt": 1790588040.7997682,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260925-the-us-lawyer-who-put-nazis-on-trial-at-nuremberg",
+      "provider": "BBC",
+      "title": "The US lawyer who put Nazis on trial at Nuremberg",
+      "status": "pending",
+      "firstSeenAt": 1790588959.896836,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
