@@ -6650,9 +6650,41 @@
       "status": "pending",
       "firstSeenAt": 1790604188.4115105,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy4z32wp3v1o",
+      "provider": "BBC",
+      "title": "Scottish crime writer Peter May dies aged 74 May was one of Scotland's most prolific television and crime writers and sold 15 million books around the world.",
+      "status": "pending",
+      "firstSeenAt": 1790605366.9997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/farmer-raf-fairford-no-follow-up",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790605367.4187696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790605367.4188359,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/uk-police-provide-update-on-raf-fairford-investigation/107205528",
+      "provider": "ABC News Australia",
+      "title": "Men arrested near air base suspected of preparing terror act, say UK police",
+      "status": "pending",
+      "firstSeenAt": 1790605368.0915277,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
