@@ -6282,9 +6282,41 @@
       "status": "pending",
       "firstSeenAt": 1790591485.168723,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c51kxdgygjm2o",
+      "provider": "BBC",
+      "title": "Passports needed for ferry passengers travelling between UK and Ireland Previously, passengers were able to use other forms of ID, such as driving licences and national identity cards.",
+      "status": "pending",
+      "firstSeenAt": 1790592385.991932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790592386.4704738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/people-dead-english-channel-crossing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790592386.4706073,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/28/new-england-patriots-drake-maye-quarterback",
+      "provider": "The Guardian",
+      "title": "OK, now it’s time for the Patriots to panic about Drake Maye",
+      "status": "pending",
+      "firstSeenAt": 1790592386.4717486,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
