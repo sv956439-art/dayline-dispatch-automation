@@ -7538,9 +7538,33 @@
       "status": "pending",
       "firstSeenAt": 1790637060.2832642,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61mvy1emr2zo",
+      "provider": "BBC",
+      "title": "UK colleges are offering degrees in content creation for £30,000. But are they worth it? Content creation degrees aim to help people make money from their social media posts.",
+      "status": "pending",
+      "firstSeenAt": 1790637828.2992017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qxk288e57o",
+      "provider": "BBC",
+      "title": "Warning more homes will be uninsurable due to flood risk Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "status": "pending",
+      "firstSeenAt": 1790637828.4286835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/new-york-times-engineer-california-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790637828.7331576,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
