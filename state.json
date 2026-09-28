@@ -6914,9 +6914,25 @@
       "status": "pending",
       "firstSeenAt": 1790612528.4529622,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e30x757nx4o",
+      "provider": "BBC",
+      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
+      "status": "pending",
+      "firstSeenAt": 1790613400.0173566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/dozens-arrested-pro-palestine-protest-labour-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790613400.3751018,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
