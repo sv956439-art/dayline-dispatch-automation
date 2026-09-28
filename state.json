@@ -7050,9 +7050,25 @@
       "status": "pending",
       "firstSeenAt": 1790618009.2337978,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj64jg5prpgo",
+      "provider": "BBC",
+      "title": "1 hr ago UK needs plan in case of 'unprecedented' AI job losses, says minister Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1790618469.8344257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790618470.234882,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
