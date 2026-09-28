@@ -6930,9 +6930,25 @@
       "status": "pending",
       "firstSeenAt": 1790613400.3751018,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/us-deportations-donald-trump-violate-human-rights-un",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790614245.2890089,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/ukraine-russia-poland-strikes-scientific-centre/107205900",
+      "provider": "ABC News Australia",
+      "title": "Russian drone hits Kyiv scientific centre near embassies",
+      "status": "pending",
+      "firstSeenAt": 1790614245.4921181,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
