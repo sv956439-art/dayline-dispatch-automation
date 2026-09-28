@@ -6490,9 +6490,41 @@
       "status": "pending",
       "firstSeenAt": 1790599118.7888231,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p3kgz1w410o",
+      "provider": "BBC",
+      "title": "My 999 call foiled RAF Fairford plot, farmer tells BBC The member of the public says the authorities \"dropped the ball\" in their handling of the incident. 4 hrs ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1790600089.6562974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n9wrqpj4yqo",
+      "provider": "BBC",
+      "title": "Plan for controversial Sydney data centre scrapped after push-back Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+      "status": "pending",
+      "firstSeenAt": 1790600089.6573381,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx4gq167288lo",
+      "provider": "BBC",
+      "title": "FAI investigates alleged racist abuse of Idah",
+      "status": "pending",
+      "firstSeenAt": 1790600089.6579134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62jyk4ekp7o",
+      "provider": "BBC",
+      "title": "Offshore wind plant to bring jobs boost to Montrose",
+      "status": "pending",
+      "firstSeenAt": 1790600089.7272344,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
