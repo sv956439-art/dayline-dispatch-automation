@@ -7298,9 +7298,17 @@
       "status": "pending",
       "firstSeenAt": 1790625324.3556187,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/constable-mia-lay-added-nsw-police-force-wall-of-remembrance/107205494",
+      "provider": "ABC News Australia",
+      "title": "Young officer killed in Sydney car crash honoured at wall of remembrance",
+      "status": "pending",
+      "firstSeenAt": 1790625807.7914882,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
