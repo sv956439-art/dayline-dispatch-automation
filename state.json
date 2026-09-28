@@ -7514,9 +7514,33 @@
       "status": "pending",
       "firstSeenAt": 1790636341.4799652,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cmzxzjv5gwzqo",
+      "provider": "BBC",
+      "title": "Littler stunned by Waterhouse at World Grand Prix",
+      "status": "pending",
+      "firstSeenAt": 1790637058.9021802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790637059.6808329,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/geraldton-first-midwest-four-wheel-drive-ambulance/107182004",
+      "provider": "ABC News Australia",
+      "title": "Midwest gets first four-wheel-drive ambulance van following emergencies",
+      "status": "pending",
+      "firstSeenAt": 1790637060.2832642,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
