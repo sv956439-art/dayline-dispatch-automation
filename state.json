@@ -6634,9 +6634,17 @@
       "status": "pending",
       "firstSeenAt": 1790602655.536408,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790603570.733841,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
