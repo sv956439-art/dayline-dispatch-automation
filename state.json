@@ -5954,9 +5954,57 @@
       "status": "pending",
       "firstSeenAt": 1790577134.1516168,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmn45n5d8wq7o",
+      "provider": "BBC",
+      "title": "Is Premier League possession football on way out?",
+      "status": "pending",
+      "firstSeenAt": 1790578340.6595087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckrerpx4wz7xo",
+      "provider": "BBC",
+      "title": "Indie and punk music made me feel I was betraying my race",
+      "status": "pending",
+      "firstSeenAt": 1790578340.659729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm36ly6e94x8o",
+      "provider": "BBC",
+      "title": "Flex your football brain with our daily quizzes",
+      "status": "pending",
+      "firstSeenAt": 1790578340.7752116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/28/victoria-police-apologise-over-makai-death-in-custody-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790578340.9484124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/inquest-into-alby-spreadborough-death-begins/107202822",
+      "provider": "ABC News Australia",
+      "title": "Inquest hears Qld mum felt 'dismissed' by doctors after asking for C-section",
+      "status": "pending",
+      "firstSeenAt": 1790578341.2001824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/bogong-moths-increase/107202604",
+      "provider": "ABC News Australia",
+      "title": "Homes invaded by 'millions' of migrating bogong moths",
+      "status": "pending",
+      "firstSeenAt": 1790578341.2009742,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
