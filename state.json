@@ -6954,9 +6954,41 @@
       "status": "pending",
       "firstSeenAt": 1790614813.0518715,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjw5egyexz8o",
+      "provider": "BBC",
+      "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show The heavy metal band will be joined by the US rock musician during their London show.",
+      "status": "pending",
+      "firstSeenAt": 1790615644.0390313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/28/gisele-pelicot-daughter-awareness-campaign-potential-victims-drugging-sexual-assault",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790615644.5538416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/28/merseyside-blaze-killed-mother-three-children-caused-lithium-ion-battery",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790615644.5540247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/28/fbi-co-deputy-director-steps-down",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790615644.5541005,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
