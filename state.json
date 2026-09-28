@@ -6186,9 +6186,25 @@
       "status": "pending",
       "firstSeenAt": 1790586009.1521888,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260925-its-bad-for-our-health-to-have-too-little-fat",
+      "provider": "BBC",
+      "title": "‘Powerful and beautiful’: Why we all need body fat From releasing hormones to regulating our temperature, fat has myriad roles in the body. Here’s how much you need and why chasing extreme fat-loss goals is unhealthy.",
+      "status": "pending",
+      "firstSeenAt": 1790586970.7749908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n4k987k981o",
+      "provider": "BBC",
+      "title": "Diesel price hits its all-time high The US-Israel war with Iran has caused fuel prices to soar.",
+      "status": "pending",
+      "firstSeenAt": 1790586970.8522155,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
