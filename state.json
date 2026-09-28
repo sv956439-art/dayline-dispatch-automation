@@ -6682,9 +6682,25 @@
       "status": "pending",
       "firstSeenAt": 1790605368.0915277,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw804zmgll57o",
+      "provider": "BBC",
+      "title": "Theatre to close over 'serious financial constraints' The theatre says all shows after 31 October are cancelled, and those with tickets will be contacted.",
+      "status": "pending",
+      "firstSeenAt": 1790606288.1563234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/spacex-rocket-engine-fails-during-test-flight/107205586",
+      "provider": "ABC News Australia",
+      "title": "SpaceX's Starship rocket reaches orbit for first time after engine failure",
+      "status": "pending",
+      "firstSeenAt": 1790606288.9220982,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
