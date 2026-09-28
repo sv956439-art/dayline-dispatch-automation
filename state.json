@@ -7562,9 +7562,41 @@
       "status": "pending",
       "firstSeenAt": 1790637828.7331576,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/28/israel-captain-manor-solomon-feud-republic-ireland-gaza-nations-league",
+      "provider": "The Guardian",
+      "title": "Israel captain stokes feud by saying ‘our country is 10 times better than Ireland’",
+      "status": "pending",
+      "firstSeenAt": 1790639175.67284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+      "provider": "The Guardian",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’",
+      "status": "pending",
+      "firstSeenAt": 1790639175.67288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/three-people-escape-suspicious-woodridge-house-fire/107206482",
+      "provider": "ABC News Australia",
+      "title": "Three people escape suspicious house fire south of Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1790639176.4219925,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/naufahu-whyte-sydney-roosters-grand-final/107204894",
+      "provider": "ABC News Australia",
+      "title": "This iron Rooster has been the NRL's best forward in 2026",
+      "status": "pending",
+      "firstSeenAt": 1790639176.422025,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
