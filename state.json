@@ -6058,9 +6058,33 @@
       "status": "pending",
       "firstSeenAt": 1790581795.0926285,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxp84g2ly1mjo",
+      "provider": "BBC",
+      "title": "Trump-Xi summit: What wasn't said might matter the most The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "status": "pending",
+      "firstSeenAt": 1790582441.0861218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa",
+      "provider": "The Guardian",
+      "title": "MTV VMAs 2026: Taylor Swift and Madonna win at awards dominated by female artists",
+      "status": "pending",
+      "firstSeenAt": 1790582441.3467574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-28/victoria-police-admits-care-of-dying-man-fell-short-of-standards/107204914",
+      "provider": "ABC News Australia",
+      "title": "Inquest told man died after being left unconscious in police cell for hours",
+      "status": "pending",
+      "firstSeenAt": 1790582441.6747727,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
