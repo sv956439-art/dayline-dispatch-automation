@@ -7834,9 +7834,41 @@
       "status": "pending",
       "firstSeenAt": 1790653822.2318077,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5yj1835y1wo",
+      "provider": "BBC",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped. 21 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1790655177.0821881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1j43y146d2o",
+      "provider": "BBC",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "status": "pending",
+      "firstSeenAt": 1790655177.082487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/29/intimidatory-far-right-marches-should-not-be-allowed-says-angela-rayner",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790655177.7230523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/john-farnham-whispering-jack-40th-anniversary-the-voice/107196142",
+      "provider": "ABC News Australia",
+      "title": "How John Farnham pulled off one of music's greatest comebacks",
+      "status": "pending",
+      "firstSeenAt": 1790655178.0566902,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
