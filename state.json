@@ -9858,9 +9858,25 @@
       "status": "pending",
       "firstSeenAt": 1790722495.5030801,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/trump-e-jean-carroll-verdict",
+      "provider": "The Guardian",
+      "title": "Trump agrees to end court fight against $5m verdict in E Jean Carroll case",
+      "status": "pending",
+      "firstSeenAt": 1790722954.4522166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146",
+      "provider": "ABC News Australia",
+      "title": "Riverina could soon be home to one of Australia's biggest data centres",
+      "status": "pending",
+      "firstSeenAt": 1790722954.8214407,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
