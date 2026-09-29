@@ -8698,9 +8698,33 @@
       "status": "pending",
       "firstSeenAt": 1790683130.2278955,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm7502650gy6o",
+      "provider": "BBC",
+      "title": "RAF Fairford incident involves 'foreign actor', says Rubio",
+      "status": "pending",
+      "firstSeenAt": 1790684091.6413038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/two-former-hungarian-ministers-detained-over-suspected-bribery-misuse-public-funds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790684092.0566003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/sep/29/scotch-distilleries-pause-production-whisky-loch-scotland",
+      "provider": "The Guardian",
+      "title": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows",
+      "status": "pending",
+      "firstSeenAt": 1790684092.0576973,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
