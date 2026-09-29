@@ -7666,9 +7666,33 @@
       "status": "pending",
       "firstSeenAt": 1790645227.8041613,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrl6ylzy4zxo",
+      "provider": "BBC",
+      "title": "Lost songs from iconic Australian rockstar found in garage Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998.",
+      "status": "pending",
+      "firstSeenAt": 1790645953.1242797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkg8qgy9d9lo",
+      "provider": "BBC",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "status": "pending",
+      "firstSeenAt": 1790645953.1243098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/29/beau-lamarre-condon-murder-trial-greenkeeper-evidence-luke-davies-jesse-baird-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790645953.4436657,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
