@@ -7890,9 +7890,41 @@
       "status": "pending",
       "firstSeenAt": 1790656097.2355247,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790656944.6630147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/spain-madrid-tent-camp-housing-crisis",
+      "provider": "The Guardian",
+      "title": "‘It keeps growing’: the tent camp that stands against Spain’s housing crisis",
+      "status": "pending",
+      "firstSeenAt": 1790656944.6639712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/rba-lifts-rates-highest-level-in-15-years-september-2026/107206640",
+      "provider": "ABC News Australia",
+      "title": "RBA lifts rates to highest level in 15 years",
+      "status": "pending",
+      "firstSeenAt": 1790656944.8892179,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/what-the-rba-cash-rate-hike-means-for-mortgages-rents-savings/107203364",
+      "provider": "ABC News Australia",
+      "title": "The RBA just raised rates. It affects more than just your home loan",
+      "status": "pending",
+      "firstSeenAt": 1790656944.8923264,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
