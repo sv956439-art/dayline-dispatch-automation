@@ -8370,9 +8370,41 @@
       "status": "pending",
       "firstSeenAt": 1790672369.2885227,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "provider": "BBC",
+      "title": "The 'power plant' hidden in thousands of homes Hidden in thousands of homes, this \"power plant\" has become the largest source of electricity in Vermont. It's protecting owners from outages and providing cheaper, cleaner energy.",
+      "status": "pending",
+      "firstSeenAt": 1790673269.651558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6zxzv84dn5xo",
+      "provider": "BBC",
+      "title": "Aston Villa sack boss Arroyo after winless WSL start",
+      "status": "pending",
+      "firstSeenAt": 1790673269.748988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/tenessee-sheriff-canine-death-criminal-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790673270.1005707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/rba-decision-on-interest-rates-janda-analysis/107206522",
+      "provider": "ABC News Australia",
+      "title": "Borrowers again 'hit over the head' to bring inflation down",
+      "status": "pending",
+      "firstSeenAt": 1790673270.3081276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
