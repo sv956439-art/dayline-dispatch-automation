@@ -9770,9 +9770,33 @@
       "status": "pending",
       "firstSeenAt": 1790719563.063848,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/venezuelan-man-charged-texas-ice-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790720498.4925325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/nsw-icac-operation-rosny-wraps-marathon-public-inquiries/107207378",
+      "provider": "ABC News Australia",
+      "title": "Five bombshell moments from NSW corruption watchdog's marathon inquiry",
+      "status": "pending",
+      "firstSeenAt": 1790720498.8016453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/asx-markets-business-live-news/107210136",
+      "provider": "ABC News Australia",
+      "title": "ASX to fall slightly as Australian dollar weakens after RBA rate hike",
+      "status": "pending",
+      "firstSeenAt": 1790720498.8016949,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
