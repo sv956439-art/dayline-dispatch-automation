@@ -9578,9 +9578,57 @@
       "status": "pending",
       "firstSeenAt": 1790712113.528744,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/utah-death-row-prisoner-released-dna",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790713161.6545563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790713161.6546037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/american-idol-ohio-pastor-guilty-wife-murder",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790713161.6546268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/manchester-city-guilty-premier-league-financial-charges/107209870",
+      "provider": "ABC News Australia",
+      "title": "Manchester City found guilty in Premier League's biggest sacndal",
+      "status": "pending",
+      "firstSeenAt": 1790713162.0959551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/fossil-fuel-companies-education-programs-target-children/107112152",
+      "provider": "ABC News Australia",
+      "title": "Inside the fossil fuel industry's push into Australian classrooms",
+      "status": "pending",
+      "firstSeenAt": 1790713162.0960069,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/coober-pedy-council-remains-in-administration-indefinitely/107209034",
+      "provider": "ABC News Australia",
+      "title": "Coober Pedy's transition out of administration delayed indefinitely",
+      "status": "pending",
+      "firstSeenAt": 1790713162.0960863,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
