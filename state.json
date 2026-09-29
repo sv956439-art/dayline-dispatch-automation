@@ -7762,9 +7762,25 @@
       "status": "pending",
       "firstSeenAt": 1790651121.687858,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/icac-rosny-sharangan-maheswaran-continues-evidence/107207056",
+      "provider": "ABC News Australia",
+      "title": "$134,000 spy bill under spotlight on ICAC inquiry's final day",
+      "status": "pending",
+      "firstSeenAt": 1790652121.6782966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/ali-brigginshaw-last-nrlw-game-broncos-roosters-grand-final/107207284",
+      "provider": "ABC News Australia",
+      "title": "One last 'last' for Broncos legend Ali Brigginshaw in NRLW grand final",
+      "status": "pending",
+      "firstSeenAt": 1790652121.6785893,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
