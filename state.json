@@ -9474,9 +9474,49 @@
       "status": "pending",
       "firstSeenAt": 1790709139.089768,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw7v42rp083eo",
+      "provider": "BBC",
+      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers. 9 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1790710103.4800868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjly4dn9r21qo",
+      "provider": "BBC",
+      "title": "Soho House venue under investigation for food safety A former chef contacted Hackney Council after complaining to managers at the members' club. 16 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1790710103.480671,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/jack-smith-senate-hearing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790710104.1324813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/federal-politics-greens-leader-contenders/106976100",
+      "provider": "ABC News Australia",
+      "title": "The Greens are about to pick a new leader. Who are the contenders?",
+      "status": "pending",
+      "firstSeenAt": 1790710104.4484296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/birth-control-contraception-misinformation-tiktok/107205480",
+      "provider": "ABC News Australia",
+      "title": "TikTok 'experts' spreading misinformation about birth control",
+      "status": "pending",
+      "firstSeenAt": 1790710104.4484777,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
