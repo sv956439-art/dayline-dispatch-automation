@@ -8546,9 +8546,129 @@
       "status": "pending",
       "firstSeenAt": 1790678651.8548112,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry4z98ew89wo",
+      "provider": "BBC",
+      "title": "The race to crown the 'fattest dog of Delhi' The contest to crown the Indian capital's \"chonkiest\" dog has attracted thousands of votes.",
+      "status": "pending",
+      "firstSeenAt": 1790680902.8183286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cde0gz51g36o",
+      "provider": "BBC",
+      "title": "'I still feel as fast as anybody' - Alonso on why he's staying in F1",
+      "status": "pending",
+      "firstSeenAt": 1790680902.8189085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm046wnwkvnvo",
+      "provider": "BBC",
+      "title": "Life bright for Gilmour after baseball and World Cup heartache",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9177458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmrerg8eevvdo",
+      "provider": "BBC",
+      "title": "Top 14 award winner Willis reiterates desire to play Test rugby",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9178302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c9x2zmz6480vo",
+      "provider": "BBC",
+      "title": "Rank the biggest scandals in Test cricket history",
+      "status": "pending",
+      "firstSeenAt": 1790680902.91787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck1e5wn123xxo",
+      "provider": "BBC",
+      "title": "Red Roses to return to Sunderland for Women's Six Nations",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9182153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqn0jdx9j01no",
+      "provider": "BBC",
+      "title": "Fifa accuses Uefa of 'misinformation campaign'",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9182537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/crx2zv3pg0wdo",
+      "provider": "BBC",
+      "title": "Barney's Bears - the Warwickshire captain who commands respect",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9185023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cjx2zryz0qdyo",
+      "provider": "BBC",
+      "title": "Taylor to come out of retirement and reunite with Lewis",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9185479,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck1l63y88e3vo",
+      "provider": "BBC",
+      "title": "Wales without seven players for World Cup play-off",
+      "status": "pending",
+      "firstSeenAt": 1790680902.9185925,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/29/imam-council-melbourne-islamic-preacher-abu-ahmad-video-take-up-arms-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790680903.2814145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790680903.2821357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/29/senate-democrats-trump-midterms",
+      "provider": "The Guardian",
+      "title": "double quotation mark How Senate Democrats can stop Trump from stealing the midterms",
+      "status": "pending",
+      "firstSeenAt": 1790680903.282538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/29/patricia-nilsson-exposing-worlds-biggest-porn-bosses",
+      "provider": "The Guardian",
+      "title": "‘Online sex workers literally have to bare it all’: why Patricia Nilsson is exposing the world’s biggest porn bosses",
+      "status": "pending",
+      "firstSeenAt": 1790680903.2826192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/israeli-air-strike-kills-hamas-leader-in-gaza/107209362",
+      "provider": "ABC News Australia",
+      "title": "Israeli air strike kills Hamas leader in Gaza",
+      "status": "pending",
+      "firstSeenAt": 1790680903.7996275,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
