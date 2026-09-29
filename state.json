@@ -8210,9 +8210,41 @@
       "status": "pending",
       "firstSeenAt": 1790666378.443393,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck62m1dv8gjqo",
+      "provider": "BBC",
+      "title": "How Manzambi became one of Europe's best young talents",
+      "status": "pending",
+      "firstSeenAt": 1790667282.742531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/sep/29/margaret-throsby-ebike-former-abc-broadcaster-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790667283.0907023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/dockers-captain-alex-pearce-injury-update/107208582",
+      "provider": "ABC News Australia",
+      "title": "Dockers captain to avoid surgery after grand final injury",
+      "status": "pending",
+      "firstSeenAt": 1790667284.6629076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/drunk-ai-testing-unsw-research/107208104",
+      "provider": "ABC News Australia",
+      "title": "Getting AI 'drunk' makes it more likely to break rules, research finds",
+      "status": "pending",
+      "firstSeenAt": 1790667284.6633484,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
