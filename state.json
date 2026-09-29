@@ -8722,9 +8722,65 @@
       "status": "pending",
       "firstSeenAt": 1790684092.0576973,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9w495vlndzo",
+      "provider": "BBC",
+      "title": "'Generous' Zuckerberg gifts GAA clubs €150k after castle purchase The Facebook founder will clubs €50,000 (£42,000) with donations to be paid over a two-year period.",
+      "status": "pending",
+      "firstSeenAt": 1790685411.021216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn45k85gj34o",
+      "provider": "BBC",
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "status": "pending",
+      "firstSeenAt": 1790685411.0212376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm2qmjgy93do",
+      "provider": "BBC",
+      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
+      "status": "pending",
+      "firstSeenAt": 1790685411.0212536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6r7dg88xe1zo",
+      "provider": "BBC",
+      "title": "Major dance festival Terminal V to be held on banks of River Clyde The event is moving to Glasgow for the first time in 2027, having previously been held in Edinburgh.",
+      "status": "pending",
+      "firstSeenAt": 1790685411.0216618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/m-and-s-sephora-beauty-marks-spencer-stores-online",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790685411.422813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/nancy-guthrie-possible-new-ransom-note",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790685411.422895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/two-navy-aviators-eject-aircraft-carrier",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790685411.4229112,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
