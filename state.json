@@ -8122,9 +8122,57 @@
       "status": "pending",
       "firstSeenAt": 1790663410.1691155,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/ckp84426lmggo",
+      "provider": "BBC",
+      "title": "Does Horner have a chance of Ferrari job? F1 Q&A BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Azerbaijan Grand Prix. 37 mins ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1790664534.0417984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/28/this-is-india-violence-against-women",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790664534.2242796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/geelong-jake-kolodjashnij-medical-retirement-concussion-waiver/107208642",
+      "provider": "ABC News Australia",
+      "title": "Cat at centre of concussion waiver saga forced into medical retirement",
+      "status": "pending",
+      "firstSeenAt": 1790664534.6754646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/wa-government-funding-austral-bricks-factory/107207756",
+      "provider": "ABC News Australia",
+      "title": "Second brick plant no quick fix for WA housing shortage",
+      "status": "pending",
+      "firstSeenAt": 1790664534.675504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/qld-brisbane-cyclist-wins-675k-from-council/107207330",
+      "provider": "ABC News Australia",
+      "title": "Brisbane cyclist who lost eye wins $675k negligence pay out",
+      "status": "pending",
+      "firstSeenAt": 1790664534.6755474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/working-holiday-visa-changes-backpackers-far-north-qld/107206690",
+      "provider": "ABC News Australia",
+      "title": "Working holiday visa changes driving backpackers away, employers say",
+      "status": "pending",
+      "firstSeenAt": 1790664534.6755981,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
