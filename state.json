@@ -9394,9 +9394,41 @@
       "status": "pending",
       "firstSeenAt": 1790706552.4158094,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790707568.499964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/best-new-books-september-emily-st-john-mandel-rf-kuang/107167400",
+      "provider": "ABC News Australia",
+      "title": "The 10 books our critics couldn't put down in September",
+      "status": "pending",
+      "firstSeenAt": 1790707568.7422714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/travel-quiz-september-30/107203376",
+      "provider": "ABC News Australia",
+      "title": "Quiz: Pack your bags, we're going on a trip around the world",
+      "status": "pending",
+      "firstSeenAt": 1790707568.7423213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/country-queensland-drag-queens/107191120",
+      "provider": "ABC News Australia",
+      "title": "Meet the drag queens conquering country Queensland",
+      "status": "pending",
+      "firstSeenAt": 1790707568.7423663,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
