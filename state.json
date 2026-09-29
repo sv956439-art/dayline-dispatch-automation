@@ -9834,9 +9834,33 @@
       "status": "pending",
       "firstSeenAt": 1790721953.332411,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmrl6g9nw5lyo",
+      "provider": "BBC",
+      "title": "New coach, new players, but same old failings hamper Scotland",
+      "status": "pending",
+      "firstSeenAt": 1790722494.0947125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/curtis-wilkie-beasley-executed-florida",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790722494.616454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/dennis-haskins-hapless-principal-saved-by-the-bell-dies/107210076",
+      "provider": "ABC News Australia",
+      "title": "Dennis Haskins, from Saved by the Bell, dies at 75",
+      "status": "pending",
+      "firstSeenAt": 1790722495.5030801,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
