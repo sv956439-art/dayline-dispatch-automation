@@ -8450,9 +8450,49 @@
       "status": "pending",
       "firstSeenAt": 1790674282.0295525,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/29/sydney-teen-taken-to-hospital-after-falling-from-moving-bus-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790675261.0284436,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/29/former-snooker-world-champion-graeme-dott-jailed-child-sexual-abuse",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790675261.0288267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/phoenix-crossland-nrl-judiciary-grand-final-nathan-cleary/107208384",
+      "provider": "ABC News Australia",
+      "title": "Crossland to miss NRL GF with four-game ban for Cleary tackle",
+      "status": "pending",
+      "firstSeenAt": 1790675261.8084939,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/coward-punch-victim-parents-describe-sentence-as-load-of-rubbish/107207656",
+      "provider": "ABC News Australia",
+      "title": "Coward punch sentence an 'absolute load of rubbish', victim's parents say",
+      "status": "pending",
+      "firstSeenAt": 1790675261.8085158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/cocaine-replaced-with-flour-in-fiji-drug-trial/107209016",
+      "provider": "ABC News Australia",
+      "title": "Cocaine replaced with flour in Fiji drug trial",
+      "status": "pending",
+      "firstSeenAt": 1790675261.808543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
