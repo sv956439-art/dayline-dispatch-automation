@@ -8322,9 +8322,25 @@
       "status": "pending",
       "firstSeenAt": 1790669725.1205292,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-labour-conference-pension-triple-lock-social-care",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790670770.085425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/ndis-supported-living-services-group-home-alternatives/107182054",
+      "provider": "ABC News Australia",
+      "title": "NDIS advocates are pushing for alternatives to group homes",
+      "status": "pending",
+      "firstSeenAt": 1790670770.7339222,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
