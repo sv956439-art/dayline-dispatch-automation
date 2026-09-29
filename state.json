@@ -8290,9 +8290,41 @@
       "status": "pending",
       "firstSeenAt": 1790668773.5254498,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c62jnyn2n2do",
+      "provider": "BBC",
+      "title": "'Like a hangover': Why your partner's snoring could be impacting your health Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
+      "status": "pending",
+      "firstSeenAt": 1790669724.5394902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61mvdlk0327o",
+      "provider": "BBC",
+      "title": "Burkina Faso's junta leader opens big gold refinery in bid to keep mining profits at home Junta leader Ibrahim Traoré wants the country to profit more from its mineral wealth.",
+      "status": "pending",
+      "firstSeenAt": 1790669724.53991,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6e3077kkde3o",
+      "provider": "BBC",
+      "title": "Inside Liverpool's increasing global investment in youth",
+      "status": "pending",
+      "firstSeenAt": 1790669724.5404775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/29/mackintosh-tearooms-vape-shops-fire-risk-glasgow-heritage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790669725.1205292,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
