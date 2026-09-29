@@ -8690,9 +8690,17 @@
       "status": "pending",
       "firstSeenAt": 1790682486.1106527,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv4g514pldgwo",
+      "provider": "BBC",
+      "title": "Snooker champion Graeme Dott jailed for seven years for child sex abuse The 49-year-old was found guilty of two charges of lewd and libidinous behaviour towards a girl and a boy between 1993 and 2010. 35 mins ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1790683130.2278955,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
