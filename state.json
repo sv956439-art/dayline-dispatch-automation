@@ -9658,9 +9658,25 @@
       "status": "pending",
       "firstSeenAt": 1790714889.0366173,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6g7kldr9378o",
+      "provider": "BBC",
+      "title": "Who continues to show how important they are? - England player ratings",
+      "status": "pending",
+      "firstSeenAt": 1790716058.6260633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/ndis-changes-unscrupulous-providers-remote-communities-nt/107207208",
+      "provider": "ABC News Australia",
+      "title": "Government moves on NDIS providers offering gifts in remote NT communities",
+      "status": "pending",
+      "firstSeenAt": 1790716059.2297673,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
