@@ -7690,9 +7690,33 @@
       "status": "pending",
       "firstSeenAt": 1790645953.4436657,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/children-fiji-hiv-emergency-testing-drug-raid",
+      "provider": "The Guardian",
+      "title": "‘Children are dying’: Fiji hopes declaring an HIV emergency will help it tackle crisis",
+      "status": "pending",
+      "firstSeenAt": 1790647854.766698,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/phoenix-crossland-pleads-guilty-set-to-miss-nrl-grand-final/107206814",
+      "provider": "ABC News Australia",
+      "title": "Crossland expected to miss grand final with guilty plea over Cleary tackle",
+      "status": "pending",
+      "firstSeenAt": 1790647854.9975593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/surrogate-gave-us-a-gift-but-not-a-child-sashi-perera/107108066",
+      "provider": "ABC News Australia",
+      "title": "A would-be surrogate gave us a gift. It wasn't the one we were expecting",
+      "status": "pending",
+      "firstSeenAt": 1790647854.9987073,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
