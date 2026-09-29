@@ -8050,9 +8050,25 @@
       "status": "pending",
       "firstSeenAt": 1790660800.035696,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/tuesday-briefing-first-edition-raf-fairford-cotswolds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790661420.5214841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue",
+      "provider": "The Guardian",
+      "title": "Large shark stuck in city canal draws 600,000 visitors as rescue efforts begin in South Korea",
+      "status": "pending",
+      "firstSeenAt": 1790661420.5219002,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
