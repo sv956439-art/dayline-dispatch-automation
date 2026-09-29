@@ -9514,9 +9514,33 @@
       "status": "pending",
       "firstSeenAt": 1790710104.4484777,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/police-charge-teenager-men-over-marco-tapia-shooting/107209874",
+      "provider": "ABC News Australia",
+      "title": "16yo, men charged with murder after Sydney mistaken-identity shooting",
+      "status": "pending",
+      "firstSeenAt": 1790710888.4283967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/macarthur-solar-collapse/107150190",
+      "provider": "ABC News Australia",
+      "title": "Battery customers feeling 'ripped off' after solar company collapses",
+      "status": "pending",
+      "firstSeenAt": 1790710888.4290485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/ford-factory-closures-geelong-broadmeadows-ten-years-on/107191622",
+      "provider": "ABC News Australia",
+      "title": "10 years on, Geelong and Broadmeadows count the cost of Ford's departure",
+      "status": "pending",
+      "firstSeenAt": 1790710888.429108,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
