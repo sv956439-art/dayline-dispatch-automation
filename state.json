@@ -9674,9 +9674,41 @@
       "status": "pending",
       "firstSeenAt": 1790716059.2297673,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/swimming-australia-rowan-crothers-world-record-short-course/107209970",
+      "provider": "ABC News Australia",
+      "title": "Aussie breaks 24-year-old world record at national short course swimming titles",
+      "status": "pending",
+      "firstSeenAt": 1790716976.758831,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/future-fund-publishes-six-month-report/107204844",
+      "provider": "ABC News Australia",
+      "title": "Weapons makers and SpaceX in government's key investment fund portfolio",
+      "status": "pending",
+      "firstSeenAt": 1790716976.7588603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/federal-politics-live-blog-interest-rates/107208684",
+      "provider": "ABC News Australia",
+      "title": "Taylor blames 'home-grown inflation' for 15-year-high rate hike",
+      "status": "pending",
+      "firstSeenAt": 1790716976.7588856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/man-charged-with-murder-over-gurranang-deaths/107209938",
+      "provider": "ABC News Australia",
+      "title": "Double murder charge after bodies found at property two weeks apart",
+      "status": "pending",
+      "firstSeenAt": 1790716976.7588983,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
