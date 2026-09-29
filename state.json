@@ -8530,9 +8530,25 @@
       "status": "pending",
       "firstSeenAt": 1790677748.880408,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6y9z7dlq199o",
+      "provider": "BBC",
+      "title": "Toone and Kelly miss out on Lionesses squad",
+      "status": "pending",
+      "firstSeenAt": 1790678651.8547812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cm1dlv4710g9o",
+      "provider": "BBC",
+      "title": "Ferrari back Vasseur amid speculation over future",
+      "status": "pending",
+      "firstSeenAt": 1790678651.8548112,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
