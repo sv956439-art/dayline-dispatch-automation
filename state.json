@@ -9706,9 +9706,41 @@
       "status": "pending",
       "firstSeenAt": 1790716976.7588983,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c862epne7glyo",
+      "provider": "BBC",
+      "title": "More than 400 detained as France student protests escalate Students have been protesting conditions and resources in high schools since last week.",
+      "status": "pending",
+      "firstSeenAt": 1790717707.63843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c65y51l3gzq4o",
+      "provider": "BBC",
+      "title": "The intricate web Man City spun to con the Premier League The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
+      "status": "pending",
+      "firstSeenAt": 1790717707.6388872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/removing-whale-carcass-from-city-beach-proves-costly-and-hard/107207908",
+      "provider": "ABC News Australia",
+      "title": "How to get rid of a costly whale of a problem",
+      "status": "pending",
+      "firstSeenAt": 1790717708.84103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/glen-waverley-electorate-victorian-state-election/107196480",
+      "provider": "ABC News Australia",
+      "title": "Car parking a key concern in battleground Victorian seat",
+      "status": "pending",
+      "firstSeenAt": 1790717708.841057,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
