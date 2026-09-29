@@ -9922,9 +9922,33 @@
       "status": "pending",
       "firstSeenAt": 1790724498.4846208,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63eqgz41n0xo",
+      "provider": "BBC",
+      "title": "Venezuelan man shot by ICE in Texas is charged with assault Wilber Rafael Garces-Perez is accused of striking another agent with his car's side-view mirror while driving away.",
+      "status": "pending",
+      "firstSeenAt": 1790725122.1734567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjkg7k6z9296o",
+      "provider": "BBC",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "status": "pending",
+      "firstSeenAt": 1790725122.1735961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c6z0zkd019x8o",
+      "provider": "BBC",
+      "title": "Wigan's O'Neill wins Man of Steel award",
+      "status": "pending",
+      "firstSeenAt": 1790725122.282051,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
