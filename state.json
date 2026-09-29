@@ -9898,9 +9898,33 @@
       "status": "pending",
       "firstSeenAt": 1790723817.416379,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+      "provider": "BBC",
+      "title": "Chinese AI tool told researchers how to make bioweapons Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "status": "pending",
+      "firstSeenAt": 1790724498.4335222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdx575lq49xo",
+      "provider": "BBC",
+      "title": "How India's election chief became embroiled in a crisis of trust Praised as a tough administrator, Gyanesh Kumar now finds himself at the centre of election-related controversy. 1 hr ago India",
+      "status": "pending",
+      "firstSeenAt": 1790724498.4845724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p3kelx4epwo",
+      "provider": "BBC",
+      "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail? Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes. 4 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790724498.4846208,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
