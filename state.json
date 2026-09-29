@@ -9378,9 +9378,25 @@
       "status": "pending",
       "firstSeenAt": 1790705393.4845767,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn8m342rgk9o",
+      "provider": "BBC",
+      "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford Police say the decision to release five men on bail is one \"grounded in experience and strategy\". 26 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790706552.1248164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790706552.4158094,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
