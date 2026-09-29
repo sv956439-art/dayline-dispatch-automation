@@ -8490,9 +8490,33 @@
       "status": "pending",
       "firstSeenAt": 1790675261.808543,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790675940.0181417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/dale-vince-london-newspapers-rightwing-press-bias",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790675940.0181632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/act-national-police-remembrance-day-officers-killed-porepunkah/107208514",
+      "provider": "ABC News Australia",
+      "title": "Officers killed in line of duty honoured on National Police Remembrance Day",
+      "status": "pending",
+      "firstSeenAt": 1790675940.3759282,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
