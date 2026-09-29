@@ -7738,9 +7738,25 @@
       "status": "pending",
       "firstSeenAt": 1790649246.3098824,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgy9ew7815o",
+      "provider": "BBC",
+      "title": "From Amazon retreats to clinical research: The rise of psychedelic therapy Could hallucinogenic drugs become part of mainstream NHS care to treat depression? 2 hrs ago Tyne",
+      "status": "pending",
+      "firstSeenAt": 1790649968.4781804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/developer-walks-away-from-eyre-housing-project-near-penfield/107206516",
+      "provider": "ABC News Australia",
+      "title": "Housing developer walks away from 1,900-home SA project",
+      "status": "pending",
+      "firstSeenAt": 1790649969.1775002,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
