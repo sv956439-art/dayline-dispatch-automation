@@ -9186,9 +9186,33 @@
       "status": "pending",
       "firstSeenAt": 1790699879.818373,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq7702rr830lo",
+      "provider": "BBC",
+      "title": "2 hrs ago Booker Prize nominee praises his school teachers Luke Kennard, who grew up in Chard, is shortlisted for the award for his novel Black Bag. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790700767.566301,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/skydivers-paramedics-plane-crash-victims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790700767.8031738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/key-takeaways-from-uk-pm-andy-burnham-labour-conference-speech/107205962",
+      "provider": "ABC News Australia",
+      "title": "UK's new PM says 'Brexit has done more harm than good', flags changes",
+      "status": "pending",
+      "firstSeenAt": 1790700768.302522,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
