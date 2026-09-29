@@ -8986,9 +8986,73 @@
       "status": "pending",
       "firstSeenAt": 1790693694.618559,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5ym18znr0ro",
+      "provider": "BBC",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "status": "pending",
+      "firstSeenAt": 1790694395.5654275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cmx2z78p654yo",
+      "provider": "BBC",
+      "title": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
+      "status": "pending",
+      "firstSeenAt": 1790694395.5657759,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68048k1d3ppo",
+      "provider": "BBC",
+      "title": "National museums to stay free for all visitors",
+      "status": "pending",
+      "firstSeenAt": 1790694395.6685247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/social-media-ban-australia-high-court-mental-health-risks-teens",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790694395.9278529,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/29/guardian-essential-poll-coalitions-primary-vote-sinks-to-lowest-ever-as-majority-support-hardline-immigration-ideas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790694395.9278755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/icac-nsw-liberals-what-did-inquiry-really-achieve-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790694395.927895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/senior-greens-figures-say-new-leadership-must-stop-labor-approving-fossil-fuel-projects-by-whatever-means",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790694395.9279144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/soho-house-launches-investigation-out-of-date-food-shoreditch",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790694395.9283566,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
