@@ -9538,9 +9538,25 @@
       "status": "pending",
       "firstSeenAt": 1790710888.429108,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/trump-immigration-deport-migrants-third-country",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790711594.4727092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/qld-syphilis-outbreak-six-babies-die-three-years/107203228",
+      "provider": "ABC News Australia",
+      "title": "Six babies die in Qld in three years after contracting syphilis in the womb",
+      "status": "pending",
+      "firstSeenAt": 1790711595.0640194,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
