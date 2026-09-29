@@ -9338,9 +9338,49 @@
       "status": "pending",
       "firstSeenAt": 1790704622.0812585,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjwyz5v190qwo",
+      "provider": "BBC",
+      "title": "Oura pulls $15bn stock market listing days after announcement The wearable technology company had been expected to list its shares in the US. 52 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1790705393.2004077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp93d078j8no",
+      "provider": "BBC",
+      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
+      "status": "pending",
+      "firstSeenAt": 1790705393.2008128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-police-uk-counter-terrorism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790705393.4841254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/child-labor-law-date-gaps-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790705393.4842365,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/29/katherine-hubbard-mother-dementia-studio-voltaire-the-great-room",
+      "provider": "The Guardian",
+      "title": "‘We got naked and covered ourselves in Vaseline’: Katherine Hubbard on photographing her ailing mother",
+      "status": "pending",
+      "firstSeenAt": 1790705393.4845767,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
