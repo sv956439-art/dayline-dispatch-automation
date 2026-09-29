@@ -9754,9 +9754,25 @@
       "status": "pending",
       "firstSeenAt": 1790718987.2818682,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/simone-biles-2028-la-olympics-gymnastics/107210080",
+      "provider": "ABC News Australia",
+      "title": "Biles undecided about competing at 2028 LA Olympics",
+      "status": "pending",
+      "firstSeenAt": 1790719563.063795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/remote-runway-platforms-young-designers-fitzroy-crossing/107203088",
+      "provider": "ABC News Australia",
+      "title": "Mother and daughter's artistic connections celebrated on outback catwalk",
+      "status": "pending",
+      "firstSeenAt": 1790719563.063848,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
