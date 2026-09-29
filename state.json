@@ -8186,9 +8186,33 @@
       "status": "pending",
       "firstSeenAt": 1790665318.2348988,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/jaw-dropping-play-based-on-pelicot-trial-comes-to-london-for-one-night",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790666377.5749688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/coach-pays-tribute-to-teenager-killed-in-crash-vic-ledcourt/107207480",
+      "provider": "ABC News Australia",
+      "title": "Teen killed in western Vic crash remembered as 'bubbly' and 'bright'",
+      "status": "pending",
+      "firstSeenAt": 1790666378.4433515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/uk-man-charged-with-drowning-bashing-pet-kelpie-kalgoorlie/107207826",
+      "provider": "ABC News Australia",
+      "title": "UK tourist charged after allegedly drowning, bashing pet dog",
+      "status": "pending",
+      "firstSeenAt": 1790666378.443393,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
