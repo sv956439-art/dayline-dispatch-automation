@@ -8242,9 +8242,41 @@
       "status": "pending",
       "firstSeenAt": 1790667284.6633484,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/grace-tame-nicolaas-bester-social-media-posts-court/107206432",
+      "provider": "ABC News Australia",
+      "title": "Grace Tame feared for her life after abuser's posts, court hears",
+      "status": "pending",
+      "firstSeenAt": 1790668137.380013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/sa-september-high-temperatures-records-broken/107208004",
+      "provider": "ABC News Australia",
+      "title": "'More like January than September' as SA temperature records broken",
+      "status": "pending",
+      "firstSeenAt": 1790668137.38056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/act-adam-britt-sentence-hearing-partner-murder-tiffany-spence/107206668",
+      "provider": "ABC News Australia",
+      "title": "Court urged to jail Canberra man for life over partner's 'torturous' death",
+      "status": "pending",
+      "firstSeenAt": 1790668137.3812604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/alex-pearce-injury-update-fremantle-grand-final/107208908",
+      "provider": "ABC News Australia",
+      "title": "Silver lining for Freo captain after grand final injury nightmare",
+      "status": "pending",
+      "firstSeenAt": 1790668137.3812988,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
