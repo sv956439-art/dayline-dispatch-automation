@@ -9442,9 +9442,41 @@
       "status": "pending",
       "firstSeenAt": 1790708362.6151583,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/cornell-texts-rape-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790709138.392709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/rba-rate-hike-mortgage-repayments-borrowers-nervous/107208550",
+      "provider": "ABC News Australia",
+      "title": "Doing the sums as fourth rate hike adds hundreds to repayments",
+      "status": "pending",
+      "firstSeenAt": 1790709139.0885906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/keilor-east-station-melbourne-airport-rail-2031-completion/107208916",
+      "provider": "ABC News Australia",
+      "title": "Key station in Melbourne Airport rail plan to be built by 2031",
+      "status": "pending",
+      "firstSeenAt": 1790709139.089729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/benjamin-netanyahu-october-7-hamas-attack-warning/107206790",
+      "provider": "ABC News Australia",
+      "title": "Ahead of Israel's election, reports grow Netanyahu warned of Hamas attack",
+      "status": "pending",
+      "firstSeenAt": 1790709139.089768,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
