@@ -7922,9 +7922,33 @@
       "status": "pending",
       "firstSeenAt": 1790656944.8923264,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/29/larissa-waters-resignation-greens-leadership-contenders",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790657662.0486007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/north-korean-waterplum-steal-millions-ai-crypto-hack/107203942",
+      "provider": "ABC News Australia",
+      "title": "North Korean hackers steal millions in crypto heist",
+      "status": "pending",
+      "firstSeenAt": 1790657663.1110737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/utah-man-released-on-bail-after-40-years-on-death-row/107206618",
+      "provider": "ABC News Australia",
+      "title": "Utah man released on bail after decades on death row",
+      "status": "pending",
+      "firstSeenAt": 1790657663.111098,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
