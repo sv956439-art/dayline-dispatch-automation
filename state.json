@@ -8874,9 +8874,17 @@
       "status": "pending",
       "firstSeenAt": 1790688442.538758,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwdr71xpj4gpo",
+      "provider": "BBC",
+      "title": "Man released on bail after 41 years on death row New DNA analysis did not match Douglas Stewart Carter, now 71, who was convicted of killing a woman but always maintained his innocence.",
+      "status": "pending",
+      "firstSeenAt": 1790689369.3335402,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
