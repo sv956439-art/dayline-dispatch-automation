@@ -8674,9 +8674,25 @@
       "status": "pending",
       "firstSeenAt": 1790681658.3053617,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm750pyz5r0eo",
+      "provider": "BBC",
+      "title": "Taylor Swift dominated the VMAs, but do music videos still matter? Cinematographer Melissa Cofie says their purpose has evolved with the growth of platforms like TikTok.",
+      "status": "pending",
+      "firstSeenAt": 1790682485.588252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/29/senate-passes-bipartisan-protect-college-sports-act-amid-chaos-in-industry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790682486.1106527,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
