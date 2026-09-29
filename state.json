@@ -9794,9 +9794,17 @@
       "status": "pending",
       "firstSeenAt": 1790720498.8016949,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c8dx51r59xndo",
+      "provider": "BBC",
+      "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
+      "status": "pending",
+      "firstSeenAt": 1790721248.4504268,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
