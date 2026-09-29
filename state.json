@@ -9978,9 +9978,17 @@
       "status": "pending",
       "firstSeenAt": 1790725672.10893,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c674evx4p1x1o",
+      "provider": "BBC",
+      "title": "44 mins ago 'Mum sent them £140,000': How to spot the signs a loved one is being scammed Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free. 44 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790726160.1221995,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
