@@ -7714,9 +7714,25 @@
       "status": "pending",
       "firstSeenAt": 1790647854.9987073,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790648643.702501,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/soccer-player-with-broken-leg-no-ambulance-to-hospital-sa/107187328",
+      "provider": "ABC News Australia",
+      "title": "Soccer player with broken leg endures 70km car trip between hospitals",
+      "status": "pending",
+      "firstSeenAt": 1790648644.1371636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
