@@ -9266,9 +9266,33 @@
       "status": "pending",
       "firstSeenAt": 1790702156.145688,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck7902q3g5vgo",
+      "provider": "BBC",
+      "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
+      "status": "pending",
+      "firstSeenAt": 1790703032.6255438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/eiffel-tower-chief-to-quit-female-staff-hindu-visit",
+      "provider": "The Guardian",
+      "title": "Eiffel Tower chief to quit after female staff told to stay hidden during Hindu group visit",
+      "status": "pending",
+      "firstSeenAt": 1790703033.099927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/artificial-intelligence-execs-meet-donald-trump-at-white-house/107209762",
+      "provider": "ABC News Australia",
+      "title": "Trump rejects push to work with China on AI safety after Xi summit",
+      "status": "pending",
+      "firstSeenAt": 1790703033.514125,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
