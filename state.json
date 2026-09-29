@@ -7730,9 +7730,17 @@
       "status": "pending",
       "firstSeenAt": 1790648644.1371636,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/whale-carcass-at-city-beach-sparks-shark-tagging-mission/107206356",
+      "provider": "ABC News Australia",
+      "title": "Council facing hefty bill to remove whale carcass from popular beach",
+      "status": "pending",
+      "firstSeenAt": 1790649246.3098824,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
