@@ -8402,9 +8402,57 @@
       "status": "pending",
       "firstSeenAt": 1790673270.3081276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmed7q89vp5no",
+      "provider": "BBC",
+      "title": "'Period of deception' - Pochettino on Man City verdict",
+      "status": "pending",
+      "firstSeenAt": 1790674281.409821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq6m03ld7nvo",
+      "provider": "BBC",
+      "title": "What is the triple lock and why are people talking about it? The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+      "status": "pending",
+      "firstSeenAt": 1790674281.4779112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/29/michele-bullock-rba-interest-rate-rise-middle-east-war-fuel-prices-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790674282.0292325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/new-uk-homes-flood-risk-areas-insurance-aviva-amanda-blanc-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790674282.0294964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/fayed-survivors-say-gmc-let-abuse-continue-by-refusing-to-investigate-doctors",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790674282.0295076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-push-ahead-electoral-reform-plans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790674282.0295525,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
