@@ -9426,9 +9426,25 @@
       "status": "pending",
       "firstSeenAt": 1790707568.7423663,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/no-explosives-found-raf-fairford/107209846",
+      "provider": "ABC News Australia",
+      "title": "Petrol but no explosives found in suspect vehicles near UK air base",
+      "status": "pending",
+      "firstSeenAt": 1790708362.6140423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/labor-defends-spending-amid-high-inflation-rate-rise/107208962",
+      "provider": "ABC News Australia",
+      "title": "Rate hike puts pressure on Labor over inflation",
+      "status": "pending",
+      "firstSeenAt": 1790708362.6151583,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
