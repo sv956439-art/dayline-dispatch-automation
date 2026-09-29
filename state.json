@@ -8882,9 +8882,41 @@
       "status": "pending",
       "firstSeenAt": 1790689369.3335402,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68xk08xd5zeo",
+      "provider": "BBC",
+      "title": "Questions hang over crumbling theatre reopening The leader of Reigate council says there could be an \"indicative\" date in the next couple of months.",
+      "status": "pending",
+      "firstSeenAt": 1790690193.1428225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/29/jmw-turner-love-letter-rome-from-mount-aventine-auction",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790690193.5206153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/dennis-haskins-saved-by-the-bell-actor-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790690193.5211687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/estonia-russia-drone-fire-factory-intimidation/107209530",
+      "provider": "ABC News Australia",
+      "title": "Estonia slams Russian 'sabotage' after arson attack on defence company",
+      "status": "pending",
+      "firstSeenAt": 1790690193.8275995,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
