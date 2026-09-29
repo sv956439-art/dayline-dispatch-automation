@@ -9626,9 +9626,33 @@
       "status": "pending",
       "firstSeenAt": 1790713162.0960863,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rm9gv7n07xo",
+      "provider": "BBC",
+      "title": "Former American Idol contestant and pastor found guilty of murdering wife Caleb Flynn shot his wife, Ashley, dead in their Ohio home in February before saying in a 9/11 call she was killed by burglars.",
+      "status": "pending",
+      "firstSeenAt": 1790714106.4386399,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/six-flags-permanently-shuts-down-x2-rollercoaster",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790714106.709192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/tasmanian-retail-small-business-law-not-yet-enacted/107163098",
+      "provider": "ABC News Australia",
+      "title": "Four years since retail laws passed, but no help for cafe owner",
+      "status": "pending",
+      "firstSeenAt": 1790714107.4077575,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
