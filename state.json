@@ -8066,9 +8066,25 @@
       "status": "pending",
       "firstSeenAt": 1790661420.5219002,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckj06542e5neo",
+      "provider": "BBC",
+      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
+      "status": "pending",
+      "firstSeenAt": 1790662186.422569,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/29/hospitals-shortages-medicine-paracetamol-nhs-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790662186.9027894,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
