@@ -7778,9 +7778,41 @@
       "status": "pending",
       "firstSeenAt": 1790652121.6785893,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6grvpppvw5eo",
+      "provider": "BBC",
+      "title": "Blue Lights: The police drama hitting home in Northern Ireland As the award winning series returns, it highlights tensions between police and communities in Northern Ireland.",
+      "status": "pending",
+      "firstSeenAt": 1790652991.5675962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790652991.9191096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/us-china-agree-to-tariff-cuts-on-60-billion-of-goods/107206860",
+      "provider": "ABC News Australia",
+      "title": "Emus, robots, whales and balls to have lower tariffs under US-China deal",
+      "status": "pending",
+      "firstSeenAt": 1790652992.40174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/beau-lamarre-condon-double-murder-trial-sydney-scene-photos/107202666",
+      "provider": "ABC News Australia",
+      "title": "Double murder jury shown photos of bloodstains found in home",
+      "status": "pending",
+      "firstSeenAt": 1790652992.4029615,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
