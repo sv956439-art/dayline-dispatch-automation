@@ -7962,9 +7962,73 @@
       "status": "pending",
       "firstSeenAt": 1790658156.8546772,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c617jk20yy8xo",
+      "provider": "BBC",
+      "title": "Town seeks backing for culture bid Residents asked to help shape Grimsby's bid to become the UK's first Town of Culture.",
+      "status": "pending",
+      "firstSeenAt": 1790659125.3638124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5ydnk9ekyyo",
+      "provider": "BBC",
+      "title": "'I love African culture': Sir Mark Rylance stars in Tartuffe Remixed",
+      "status": "pending",
+      "firstSeenAt": 1790659125.3638291,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c59v9zxd479wo",
+      "provider": "BBC",
+      "title": "Just now Council uses AI to tackle flood of AI complaints Councils say residents are increasingly using AI tools to quickly and easily lodge  complaints. Just now",
+      "status": "pending",
+      "firstSeenAt": 1790659125.4210162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cve8xkj6re5wo",
+      "provider": "BBC",
+      "title": "14 mins ago Villager shames speeding cars with homemade AI bot Motorists speeding on the A113 in Stanford Rivers, near Ongar, are added to a 'Wall of Shame'. 14 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790659125.421033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/29/labour-insiders-confident-burnham-can-sell-social-care-reforms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790659125.8648682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/south-korea-ukraine-north-korea-prisoners-of-war-dispute-explainer",
+      "provider": "The Guardian",
+      "title": "Why is South Korea so angry with Ukraine over two North Korean prisoners of war?",
+      "status": "pending",
+      "firstSeenAt": 1790659125.8650815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/nsw-peter-manning-four-corners-producer-dies-aged-81/107207626",
+      "provider": "ABC News Australia",
+      "title": "Former head of ABC news Peter Manning dies aged 81",
+      "status": "pending",
+      "firstSeenAt": 1790659126.3490672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/act-catholic-schools-increase-primary-secondary-fees-for-2027/107207574",
+      "provider": "ABC News Australia",
+      "title": "Canberra Catholic schools to increase fees for 2027",
+      "status": "pending",
+      "firstSeenAt": 1790659126.3494697,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
