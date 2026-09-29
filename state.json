@@ -9050,9 +9050,57 @@
       "status": "pending",
       "firstSeenAt": 1790694395.9283566,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qr843g7dqo",
+      "provider": "BBC",
+      "title": "Pine martens 'here to stay' as baby spotted",
+      "status": "pending",
+      "firstSeenAt": 1790695487.723101,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly4d55p91vo",
+      "provider": "BBC",
+      "title": "Is the South ready for a future of wildfires?",
+      "status": "pending",
+      "firstSeenAt": 1790695487.723132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790695487.9978418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790695487.9978812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790695487.9982414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/29/body-newborn-baby-found-bangor-menai-strait-wales-search-for-mother",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790695487.9983094,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
