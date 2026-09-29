@@ -7610,9 +7610,33 @@
       "status": "pending",
       "firstSeenAt": 1790641691.4977338,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmj4jg2vxvpdo",
+      "provider": "BBC",
+      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
+      "status": "pending",
+      "firstSeenAt": 1790643619.5801432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y8zzdjmrgvo",
+      "provider": "BBC",
+      "title": "Migrants using longer, more dangerous routes across English Channel",
+      "status": "pending",
+      "firstSeenAt": 1790643619.6501544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm624y1v1qxgo",
+      "provider": "BBC",
+      "title": "8 Scabies outbreak at hospital closes wards",
+      "status": "pending",
+      "firstSeenAt": 1790643619.650547,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
