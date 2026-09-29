@@ -7810,9 +7810,33 @@
       "status": "pending",
       "firstSeenAt": 1790652992.4029615,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/openai-apologises-medicare-shelves-chatgpt-astra-launch/107207156",
+      "provider": "ABC News Australia",
+      "title": "OpenAI apologises for Medicare breach, shelves next gen ChatGPT",
+      "status": "pending",
+      "firstSeenAt": 1790653822.2310886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/victorian-doctors-to-walk-off-the-job-over-conditions/107206698",
+      "provider": "ABC News Australia",
+      "title": "Victorian doctors to walk off the job amid ongoing pay dispute",
+      "status": "pending",
+      "firstSeenAt": 1790653822.2315118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/qld-brisbane-lions-chris-fagan-keys-to-city/107207238",
+      "provider": "ABC News Australia",
+      "title": "Brisbane Lions coach Chris Fagan presented with keys to the city",
+      "status": "pending",
+      "firstSeenAt": 1790653822.2318077,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
