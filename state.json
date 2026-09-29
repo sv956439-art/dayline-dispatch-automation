@@ -8922,9 +8922,41 @@
       "status": "pending",
       "firstSeenAt": 1790690938.7531762,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rr4gzz728qo",
+      "provider": "BBC",
+      "title": "Award nominated actor credits beautiful Guernsey James Howard says Guernsey is punching above its weight in the film industry.",
+      "status": "pending",
+      "firstSeenAt": 1790691973.7991707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790691974.0034118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/nor-easter-shipwreck-nantucket",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790691974.0036893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/government-cyber-systems-review-openai-medicare-breach/107209170",
+      "provider": "ABC News Australia",
+      "title": "OpenAI hack sparks crackdown on weak government websites",
+      "status": "pending",
+      "firstSeenAt": 1790691974.3376381,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
