@@ -9114,9 +9114,17 @@
       "status": "pending",
       "firstSeenAt": 1790697276.549016,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c68048pynj94o",
+      "provider": "BBC",
+      "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
+      "status": "pending",
+      "firstSeenAt": 1790697783.3016958,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
