@@ -8274,9 +8274,25 @@
       "status": "pending",
       "firstSeenAt": 1790668137.3812988,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/missing-human-rights-activist-cambodia-charged-vietnam/107208750",
+      "provider": "ABC News Australia",
+      "title": "Missing Australian human rights activist charged in Vietnam",
+      "status": "pending",
+      "firstSeenAt": 1790668773.5253992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/homes-businesses-painted-red-and-blue-knights-grand-final/107207600",
+      "provider": "ABC News Australia",
+      "title": "Newcastle paints the town red and blue ahead of Knights' grand final",
+      "status": "pending",
+      "firstSeenAt": 1790668773.5254498,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
