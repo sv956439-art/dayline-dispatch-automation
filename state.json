@@ -9802,9 +9802,41 @@
       "status": "pending",
       "firstSeenAt": 1790721248.4504268,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw14d37446d8o",
+      "provider": "BBC",
+      "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+      "status": "pending",
+      "firstSeenAt": 1790721952.7517505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c51kx9ze1mdzo",
+      "provider": "BBC",
+      "title": "South Africa to clean up high-risk areas after 12 women killed The deaths sparked a national outcry about the scale of violence against women in the country.",
+      "status": "pending",
+      "firstSeenAt": 1790721952.751857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/qld-government-customer-services-department-cyber-attack/107207128",
+      "provider": "ABC News Australia",
+      "title": "Queensland government department loses $800k in cyber attack",
+      "status": "pending",
+      "firstSeenAt": 1790721953.3323567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/city-of-melbourne-to-halt-australia-day-change-the-date-campaign/107209916",
+      "provider": "ABC News Australia",
+      "title": "City of Melbourne to stop campaigning to change the date of Australia Day",
+      "status": "pending",
+      "firstSeenAt": 1790721953.332411,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
