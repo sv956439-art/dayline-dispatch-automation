@@ -9554,9 +9554,33 @@
       "status": "pending",
       "firstSeenAt": 1790711595.0640194,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/california-bans-electric-shock-gloves-ice",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790712112.9018574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/zohran-mamdani-new-york-antisemitism-plan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790712112.9018843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/dally-m-awards-night-nrl-when-is-it-who-is-favourite/107204386",
+      "provider": "ABC News Australia",
+      "title": "When are the Dally M Awards? Who is the favourite?",
+      "status": "pending",
+      "firstSeenAt": 1790712113.528744,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
