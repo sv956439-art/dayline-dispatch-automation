@@ -8810,9 +8810,73 @@
       "status": "pending",
       "firstSeenAt": 1790686499.1630251,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m27l4er4jxo",
+      "provider": "BBC",
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "status": "pending",
+      "firstSeenAt": 1790688442.257962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6grveg7d9zro",
+      "provider": "BBC",
+      "title": "Man charged over AI image of crocodile in Singapore reservoir",
+      "status": "pending",
+      "firstSeenAt": 1790688442.2579935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.co.uk/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "provider": "BBC",
+      "title": "The US state replacing power plants with home batteries",
+      "status": "pending",
+      "firstSeenAt": 1790688442.3377934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kg8dxrv54do",
+      "provider": "BBC",
+      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels Police are trying to verify whether a female student was raped at Lovely Professional University (LPU). 5 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1790688442.3378716,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmzxzvny8xwdo",
+      "provider": "BBC",
+      "title": "Turkish referees' chief arrested in corruption investigation The head of Turkey's referees' committee is detained along with six others as part of an investigation into corruption. \n\nhead of Turkey’s referees committee, is among seven people detained in an investigation into alleged mobbing and document forgery 1 hr ago Football",
+      "status": "pending",
+      "firstSeenAt": 1790688442.338311,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/29/uk-mortgage-demand-borrowing-costs-interest-rate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790688442.5382872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/29/electricity-disconnected-record-heat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790688442.5384357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/how-gold-surpassed-cocaine-as-perus-most-profitable-criminal-industry",
+      "provider": "The Guardian",
+      "title": "How gold surpassed cocaine as Peru’s most profitable criminal industry",
+      "status": "pending",
+      "firstSeenAt": 1790688442.538758,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
