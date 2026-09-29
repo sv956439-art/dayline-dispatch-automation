@@ -7946,9 +7946,25 @@
       "status": "pending",
       "firstSeenAt": 1790657663.111098,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvgy7dergg3o",
+      "provider": "BBC",
+      "title": "Arts director leaving Corby role after eight years Joe Flavin will take up a similar post at The Cresset in Peterborough.",
+      "status": "pending",
+      "firstSeenAt": 1790658156.1201696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/genocide-case-against-king-charles-iii-loses-bid-to-appeal/107205560",
+      "provider": "ABC News Australia",
+      "title": "Elder loses bid to appeal ruling on genocide against King Charles",
+      "status": "pending",
+      "firstSeenAt": 1790658156.8546772,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
