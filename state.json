@@ -8338,9 +8338,25 @@
       "status": "pending",
       "firstSeenAt": 1790670770.7339222,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6r7dyx2x7pdo",
+      "provider": "BBC",
+      "title": "Lives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says",
+      "status": "pending",
+      "firstSeenAt": 1790671721.1585212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/socceroos-live-updates-australia-vs-brazil-brisbane/107204744",
+      "provider": "ABC News Australia",
+      "title": "Socceroos brace for Brazilian backlash in Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1790671721.8492334,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
