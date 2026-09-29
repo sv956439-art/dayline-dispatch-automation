@@ -9242,9 +9242,33 @@
       "status": "pending",
       "firstSeenAt": 1790701297.9679935,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c674kkjllw17o",
+      "provider": "BBC",
+      "title": "First female prime minister named in Morocco after winning elections Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
+      "status": "pending",
+      "firstSeenAt": 1790702155.8045537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790702156.1456378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/29/barclays-softens-return-to-office-plans-for-uk-staff-after-backlash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790702156.145688,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
