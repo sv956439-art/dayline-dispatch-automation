@@ -9290,9 +9290,41 @@
       "status": "pending",
       "firstSeenAt": 1790703033.514125,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8046wd93l44o",
+      "provider": "BBC",
+      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
+      "status": "pending",
+      "firstSeenAt": 1790703893.2365081,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm158en2qxg9o",
+      "provider": "BBC",
+      "title": "UK PM to fight next election on pledge to change voting system",
+      "status": "pending",
+      "firstSeenAt": 1790703893.2944057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly40r3pkqxo",
+      "provider": "BBC",
+      "title": "'Ship buster' missiles sink old US warship in live fire training off Scotland The 43-year-old decommissioned frigate was used for target practice off the Outer Hebrides last Monday. 8 hrs ago Highlands & Islands",
+      "status": "pending",
+      "firstSeenAt": 1790703893.294596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8e30we0jwno",
+      "provider": "BBC",
+      "title": "9 Families separated by 2,000 miles help track down tiny science boat",
+      "status": "pending",
+      "firstSeenAt": 1790703893.2946815,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
