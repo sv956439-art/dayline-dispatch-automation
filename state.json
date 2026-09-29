@@ -9122,9 +9122,41 @@
       "status": "pending",
       "firstSeenAt": 1790697783.3016958,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c63reg93xwzro",
+      "provider": "BBC",
+      "title": "Man City guilty of 'sham' contracts and misleading accounts",
+      "status": "pending",
+      "firstSeenAt": 1790698948.79205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260929-digger-review",
+      "provider": "BBC",
+      "title": "Tom Cruise takes the 'biggest risk of his career' in Digger ★★★★☆ Tom Cruise's performance as a bizarre oil tycoon makes Digger the \"biggest risk of his career\". But there's much more to this divisive, satirical comedy than viewers might expect.",
+      "status": "pending",
+      "firstSeenAt": 1790698948.792132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly5lmvy38qo",
+      "provider": "BBC",
+      "title": "Trump rules out joint US-China venture to develop AI The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "status": "pending",
+      "firstSeenAt": 1790698948.7926261,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/lindsay-clancy-back-in-court-over-retrial-debate/107209686",
+      "provider": "ABC News Australia",
+      "title": "Lindsay Clancy back in court as lawyers seek to have murder case dismissed",
+      "status": "pending",
+      "firstSeenAt": 1790698949.7265382,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
