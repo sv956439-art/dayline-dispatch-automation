@@ -8354,9 +8354,25 @@
       "status": "pending",
       "firstSeenAt": 1790671721.8492334,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqkgvm8mpxm2o",
+      "provider": "BBC",
+      "title": "Ex-England captain Dallaglio to sell World Cup winner's medal Former England captain Lawrence Dallaglio is set to sell his 2003 Rugby World Cup winner's medal after being declared bankrupt. 29 mins ago England",
+      "status": "pending",
+      "firstSeenAt": 1790672368.7010996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/man-arrested-two-bodies-northern-rivers-house/107207118",
+      "provider": "ABC News Australia",
+      "title": "Foul play suspected after two bodies found on same property two weeks apart",
+      "status": "pending",
+      "firstSeenAt": 1790672369.2885227,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
