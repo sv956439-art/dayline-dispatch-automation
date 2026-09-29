@@ -8082,9 +8082,49 @@
       "status": "pending",
       "firstSeenAt": 1790662186.9027894,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyvzr1z2e1po",
+      "provider": "BBC",
+      "title": "'Gargantuan' turbines could be built on farmland",
+      "status": "pending",
+      "firstSeenAt": 1790663409.296011,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyzqx66dnxo",
+      "provider": "BBC",
+      "title": "Drought talks 'unite people to protect nature'",
+      "status": "pending",
+      "firstSeenAt": 1790663409.2960415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly7j3p3jv3o",
+      "provider": "BBC",
+      "title": "Former farmland to be restored to boost wildlife",
+      "status": "pending",
+      "firstSeenAt": 1790663409.2960694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/uow-poster-child-university-governance-reform/107206756",
+      "provider": "ABC News Australia",
+      "title": "UOW labelled 'poster child' for what is wrong with university sector",
+      "status": "pending",
+      "firstSeenAt": 1790663410.1690674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/gold-coast-developer-jailed-for-fraud/107208288",
+      "provider": "ABC News Australia",
+      "title": "Gold Coast developer jailed for misusing $2.3m in investor funds",
+      "status": "pending",
+      "firstSeenAt": 1790663410.1691155,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
