@@ -8522,9 +8522,17 @@
       "status": "pending",
       "firstSeenAt": 1790676736.9785337,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj207qk472zpo",
+      "provider": "BBC",
+      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
+      "status": "pending",
+      "firstSeenAt": 1790677748.880408,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
