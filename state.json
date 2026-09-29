@@ -9650,9 +9650,17 @@
       "status": "pending",
       "firstSeenAt": 1790714107.4077575,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/nsw-tangara-trains-vandalism-security-measures/107207828",
+      "provider": "ABC News Australia",
+      "title": "Tangara carriages locked down over 'train surfing' and break-in fears",
+      "status": "pending",
+      "firstSeenAt": 1790714889.0366173,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
