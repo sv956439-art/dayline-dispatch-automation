@@ -9210,9 +9210,41 @@
       "status": "pending",
       "firstSeenAt": 1790700768.302522,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crn8e069v7p7o",
+      "provider": "BBC",
+      "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
+      "status": "pending",
+      "firstSeenAt": 1790701297.6330001,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky9z31yj8ggo",
+      "provider": "BBC",
+      "title": "Michael Sheen says being an actor will be a disadvantage on Celebrity Traitors The Hollywood actor says he is a big fan of the BBC reality show, which he will now try and win.",
+      "status": "pending",
+      "firstSeenAt": 1790701297.6333847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/29/saudi-arabia-urged-to-reconcile-with-uae-to-drive-back-houthi-separatists-in-yemen",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790701297.9677696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/cdc-reports-second-measles-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790701297.9679935,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
