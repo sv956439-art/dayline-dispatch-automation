@@ -9738,9 +9738,25 @@
       "status": "pending",
       "firstSeenAt": 1790717708.841057,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe879654mj7o",
+      "provider": "BBC",
+      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution Tennessee inmate Christa Pike has been awaiting execution since her 1996 murder conviction. Just now US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1790718987.1984177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6g7kl592vlmo",
+      "provider": "BBC",
+      "title": "Real Madrid considering Van Dijk - Wednesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1790718987.2818682,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
