@@ -7650,9 +7650,25 @@
       "status": "pending",
       "firstSeenAt": 1790644470.9849563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5y5nynl75ko",
+      "provider": "BBC",
+      "title": "OpenAI scraps rollout of new model over safety concerns The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+      "status": "pending",
+      "firstSeenAt": 1790645226.6417644,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/luke-gosling-assault-charges-case-prosecutor-sophie-callan/107206644",
+      "provider": "ABC News Australia",
+      "title": "Sydney-based Senior Counsel to prosecute case against federal MP Luke Gosling",
+      "status": "pending",
+      "firstSeenAt": 1790645227.8041613,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
