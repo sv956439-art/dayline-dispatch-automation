@@ -9154,9 +9154,41 @@
       "status": "pending",
       "firstSeenAt": 1790698949.7265382,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
+      "provider": "BBC",
+      "title": "29 Jul 2026 The iPhone's hidden fix for motion sickness A buried iPhone setting is turning heads and saving stomachs. But does relief just mean more time staring at your screen? 29 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790699879.142354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/brooklyn-new-york-subway-death-bag-train-doors",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790699879.3435984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/29/donald-trump-maga-cult-finally-crumbling",
+      "provider": "The Guardian",
+      "title": "double quotation mark The Maga cult is finally crumbling",
+      "status": "pending",
+      "firstSeenAt": 1790699879.3441002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/spain-housing-crisis-development/107209730",
+      "provider": "ABC News Australia",
+      "title": "Spain proposes ban on evictions after outrage over pensioner's plight",
+      "status": "pending",
+      "firstSeenAt": 1790699879.818373,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
