@@ -7866,9 +7866,33 @@
       "status": "pending",
       "firstSeenAt": 1790655178.0566902,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/tas-gun-owner-summoned-after-thieves-find-keys-to-safe/107207276",
+      "provider": "ABC News Australia",
+      "title": "Firearms owner to be summoned after thieves find keys to guns on top of safe",
+      "status": "pending",
+      "firstSeenAt": 1790656097.2354517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/fernvale-murder-accused-lacey-jay-bullock/107206276",
+      "provider": "ABC News Australia",
+      "title": "Woman accused of running down husband with car was allegedly unlicensed",
+      "status": "pending",
+      "firstSeenAt": 1790656097.2354913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-29/awer-dau-pleads-guilty-after-comic-con-death/107207568",
+      "provider": "ABC News Australia",
+      "title": "Man pleads guilty to culpable driving after fatal Comic Con crash",
+      "status": "pending",
+      "firstSeenAt": 1790656097.2355247,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
