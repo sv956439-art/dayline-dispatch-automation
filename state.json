@@ -8170,9 +8170,25 @@
       "status": "pending",
       "firstSeenAt": 1790664534.6755981,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cm0qxj0wnjq2o",
+      "provider": "BBC",
+      "title": "Keenum stars for Bears on first start since 2023",
+      "status": "pending",
+      "firstSeenAt": 1790665318.234802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjwyz0yevp40o",
+      "provider": "BBC",
+      "title": "Flex your football brain with our daily quizzes",
+      "status": "pending",
+      "firstSeenAt": 1790665318.2348988,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
