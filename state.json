@@ -12538,9 +12538,73 @@
       "status": "pending",
       "firstSeenAt": 1790809528.1246488,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8r6rjdvlx6o",
+      "provider": "BBC",
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead The death by lethal injection was scheduled to happen earlier on Wednesday before judges from an appeals court  halted the execution. Just now",
+      "status": "pending",
+      "firstSeenAt": 1790810395.097724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2ze420kpyo",
+      "provider": "BBC",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "status": "pending",
+      "firstSeenAt": 1790810395.0987937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4gjn1yzprno",
+      "provider": "BBC",
+      "title": "Tiny image sparks big backlash in Nikon photo contest Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+      "status": "pending",
+      "firstSeenAt": 1790810395.0990102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j4jrjgv2j7o",
+      "provider": "BBC",
+      "title": "UK vape prices to rise as new tax takes effect Vaping is about to becoming more expensive due to a new tax on products.",
+      "status": "pending",
+      "firstSeenAt": 1790810395.1896563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790810395.8762288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790810395.8762558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/passengers-recount-flydubai-flight/107214804",
+      "provider": "ABC News Australia",
+      "title": "Inside the mid-air stabbing, cockpit scrum and 'miracle' flydubai landing",
+      "status": "pending",
+      "firstSeenAt": 1790810396.1045222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/coffee-lovers-turn-to-home-brews-as-cost-of-living-bites/107204414",
+      "provider": "ABC News Australia",
+      "title": "Nation's love affair with coffee on shaky ground as cost-of-living bites",
+      "status": "pending",
+      "firstSeenAt": 1790810396.1058676,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
