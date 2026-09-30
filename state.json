@@ -10538,9 +10538,49 @@
       "status": "pending",
       "firstSeenAt": 1790748387.8451972,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790749701.46841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/30/energy-bills-great-britain-forecast-to-rise-iran-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790749701.4690557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790749701.4690785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2019/may/16/one-day-disappear-tuvalu-sinking-islands-rising-seas-climate-change",
+      "provider": "The Guardian",
+      "title": "'One day we'll disappear': Tuvalu's sinking islands",
+      "status": "pending",
+      "firstSeenAt": 1790749701.4697008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/bathurst-childcare-centre-forced-to-shut/107212612",
+      "provider": "ABC News Australia",
+      "title": "Childcare centre forced to close after recording 126 breaches",
+      "status": "pending",
+      "firstSeenAt": 1790749701.7096746,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
