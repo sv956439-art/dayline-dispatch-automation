@@ -10762,9 +10762,57 @@
       "status": "pending",
       "firstSeenAt": 1790755255.3060918,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260903-the-300-year-old-instrument-that-could-save-stranded-astronauts",
+      "provider": "BBC",
+      "title": "The 300-year-old tool helping stranded astronauts get home An old seafaring instrument could help astronauts on ever more far-flung and perilous missions.",
+      "status": "pending",
+      "firstSeenAt": 1790756300.589024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260820-india-is-turning-to-ancient-water-systems-as-modern-ones-run-dry",
+      "provider": "BBC",
+      "title": "India is turning to ancient water systems as modern ones run dry Water scarcity and climate change is driving communities to restore traditional water structures built centuries ago, bringing them back into use in the 21st Century.",
+      "status": "pending",
+      "firstSeenAt": 1790756300.5890563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkg8dpwy25po",
+      "provider": "BBC",
+      "title": "Africa's richest man to launch Kenya oil refinery despite land protests The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+      "status": "pending",
+      "firstSeenAt": 1790756300.5893955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790756300.9543319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/30/a-moment-that-changed-me-mother-fell-off-mountain-my-life-began-again",
+      "provider": "The Guardian",
+      "title": "A moment that changed me: My mother fell off a mountain – and my life began again",
+      "status": "pending",
+      "firstSeenAt": 1790756300.9549413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/nsw-former-police-officer-jonathan-beard-avoids-conviction/107212360",
+      "provider": "ABC News Australia",
+      "title": "Ex-police officer avoids conviction over 'knock and run' assault",
+      "status": "pending",
+      "firstSeenAt": 1790756301.4284968,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
