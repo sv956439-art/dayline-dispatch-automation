@@ -10850,9 +10850,57 @@
       "status": "pending",
       "firstSeenAt": 1790758302.3538249,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260929-why-astronomers-make-fake-stars-with-huge-lasers",
+      "provider": "BBC",
+      "title": "Why astronomers make fake stars with huge lasers For the first time in 2026, the Very Large Telescope in Chile is operating with up to seven lasers that fire up into the atmosphere. But why do astronomers need them?",
+      "status": "pending",
+      "firstSeenAt": 1790759694.0324595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpq0r1ljpqwo",
+      "provider": "BBC",
+      "title": "What we know about the Cornell University frat house rape investigation The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
+      "status": "pending",
+      "firstSeenAt": 1790759694.033186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2z9k1zdn4o",
+      "provider": "BBC",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13 Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
+      "status": "pending",
+      "firstSeenAt": 1790759694.0338533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/new-orleans-judge-criminal-case-cbs-affiliate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790759694.473165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/man-charged-over-garbage-truck-death-in-queens-park/107214024",
+      "provider": "ABC News Australia",
+      "title": "Garbage truck driver charged over elderly pedestrian's death",
+      "status": "pending",
+      "firstSeenAt": 1790759695.638688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/lyell-mcewin-hospital-emergency-department-demand-flashpoint/107210300",
+      "provider": "ABC News Australia",
+      "title": "SA hospital pressure leading to demand 'flashpoint', union warns",
+      "status": "pending",
+      "firstSeenAt": 1790759695.6387312,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
