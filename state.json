@@ -10306,9 +10306,33 @@
       "status": "pending",
       "firstSeenAt": 1790742117.027372,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9kgvm275ev8o",
+      "provider": "BBC",
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea. 14 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1790743003.4169247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/nsw-beau-lamarre-condon-trial-jury-crime-scene-photos/107212118",
+      "provider": "ABC News Australia",
+      "title": "Police photos taken at key locations shown at Lamarre-Condon trial",
+      "status": "pending",
+      "firstSeenAt": 1790743004.1110616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/thriving-kids-program-to-be-rolled-out-canberra-october/107210308",
+      "provider": "ABC News Australia",
+      "title": "Thriving Kids set to begin in Canberra amid waiting-list fears",
+      "status": "pending",
+      "firstSeenAt": 1790743004.112022,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
