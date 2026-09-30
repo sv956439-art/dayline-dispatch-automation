@@ -12610,9 +12610,57 @@
       "status": "pending",
       "firstSeenAt": 1790811113.2038085,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260608-sagrada-famlia-the-ancient-engineering-marvels-of-the-worlds-tallest-church",
+      "provider": "BBC",
+      "title": "Ancient engineering marvels of the world's tallest church Antoni Gaudí was known as \"God's architect\", and the centuries-old arch design he drew on for Barcelona's Sagrada Família helps it soar higher than any other church in the world.",
+      "status": "pending",
+      "firstSeenAt": 1790811872.1183228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260611-fenya-how-cyber-criminals-adopted-russias-secret-language-of-thieves",
+      "provider": "BBC",
+      "title": "How Soviet prisons spread a secret 'language of thieves' now spoken by millions The tricks of the jail jargon Fenya were once used to bewilder guards in Stalin's Gulags. Now they are being used by Russian cyber-criminals.",
+      "status": "pending",
+      "firstSeenAt": 1790811872.1183457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
+      "provider": "The Guardian",
+      "title": "Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
+      "status": "pending",
+      "firstSeenAt": 1790811873.3868332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
+      "provider": "The Guardian",
+      "title": "Rival clubs feel relegating Manchester City to Championship would not be enough",
+      "status": "pending",
+      "firstSeenAt": 1790811873.3868637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/30/pep-guardiola-manchester-city-premier-league",
+      "provider": "The Guardian",
+      "title": "Building of the Pep supremacy is an era that will be defined by sham-ball",
+      "status": "pending",
+      "firstSeenAt": 1790811873.3868809,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "provider": "The Guardian",
+      "title": "Cristiano Ronaldo walks out on Portugal after being dropped from starting lineup",
+      "status": "pending",
+      "firstSeenAt": 1790811873.3869114,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
