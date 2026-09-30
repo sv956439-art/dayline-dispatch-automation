@@ -12034,9 +12034,41 @@
       "status": "pending",
       "firstSeenAt": 1790794515.5090241,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm9dw7ddwgzwo",
+      "provider": "BBC",
+      "title": "No rift with Ronaldo, says Portugal coach Jesus Portugal head coach Jorge Jesus says there is no rift with captain Cristiano Ronaldo following claims the five-time Ballon d'Or winner had refused to train.",
+      "status": "pending",
+      "firstSeenAt": 1790795171.1977148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/michigan-nurse-charged-helping-man-escape-ice",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790795171.559874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/unions-want-big-tech-to-pay-levy-to-build-australian-owned-ai/107207158",
+      "provider": "ABC News Australia",
+      "title": "Unions want big tech to pay levy to build Australian-owned AI",
+      "status": "pending",
+      "firstSeenAt": 1790795171.8865204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/backlash-over-eli-lilly-mounjaro-delivery/107211964",
+      "provider": "ABC News Australia",
+      "title": "'US-style medicine model' as big pharma dispensing of GLP-1s condemned",
+      "status": "pending",
+      "firstSeenAt": 1790795171.8865628,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
