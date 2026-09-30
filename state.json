@@ -11202,9 +11202,33 @@
       "status": "pending",
       "firstSeenAt": 1790768994.6911216,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjw5jx2l393o",
+      "provider": "BBC",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.",
+      "status": "pending",
+      "firstSeenAt": 1790769619.6369464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/athletics/articles/cm36lgdk9g33o",
+      "provider": "BBC",
+      "title": "'Rock, paper, scissors' decides order of London Marathon races A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon. 54 mins ago Athletics",
+      "status": "pending",
+      "firstSeenAt": 1790769619.6916926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c9e8e5k21ge5o",
+      "provider": "BBC",
+      "title": "Ocon to leave Haas putting F1 future in doubt Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year. 2 hrs ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1790769619.6917715,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
