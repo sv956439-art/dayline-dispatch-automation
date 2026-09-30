@@ -11106,9 +11106,25 @@
       "status": "pending",
       "firstSeenAt": 1790764284.61119,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw0kl62zn0p7o",
+      "provider": "BBC",
+      "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school One of the men seen outside the UK school attended by the children is understood to be an international press photographer. 24 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790765238.5518281,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790765239.1047187,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
