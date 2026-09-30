@@ -11130,9 +11130,25 @@
       "status": "pending",
       "firstSeenAt": 1790765920.3834295,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790766642.6468627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/jai-arrow-told-nothing-about-nrl-grand-final-tribute/107214322",
+      "provider": "ABC News Australia",
+      "title": "Jai Arrow told 'nothing' about pre-grand final tribute",
+      "status": "pending",
+      "firstSeenAt": 1790766642.9928987,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
