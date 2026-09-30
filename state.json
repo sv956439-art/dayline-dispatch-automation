@@ -10274,9 +10274,41 @@
       "status": "pending",
       "firstSeenAt": 1790741042.787657,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/crime-scene-photos-released-in-beau-lamarre-condon-double-murder-trial-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790742116.6565828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/ev-sales-double-australia-one-in-four-new-cars-electric/107210480",
+      "provider": "ABC News Australia",
+      "title": "One EV sold every 100 seconds as Australia catches up to the world",
+      "status": "pending",
+      "firstSeenAt": 1790742117.0265605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/man-sentenced-after-car-crash-that-killed-ex-girlfriend/107206518",
+      "provider": "ABC News Australia",
+      "title": "DV offender jailed for five years over crash that killed ex-partner",
+      "status": "pending",
+      "firstSeenAt": 1790742117.027338,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/how-the-rba-rate-rise-is-affecting-tasmanians/107210528",
+      "provider": "ABC News Australia",
+      "title": "Mortgage pain hits Tasmanians especially hard",
+      "status": "pending",
+      "firstSeenAt": 1790742117.027372,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
