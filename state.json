@@ -11898,9 +11898,17 @@
       "status": "pending",
       "firstSeenAt": 1790789318.6404812,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c617j41x7jvpo",
+      "provider": "BBC",
+      "title": "1 hr ago Singer Lola Young says vaping has made breathing feel like a 'chore' The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1790790088.161917,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
