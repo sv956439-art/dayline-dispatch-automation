@@ -10922,9 +10922,49 @@
       "status": "pending",
       "firstSeenAt": 1790760691.7339725,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjzr893yv4o",
+      "provider": "BBC",
+      "title": "Singapore launches matchmaking service for government workers The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
+      "status": "pending",
+      "firstSeenAt": 1790761714.9996982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv62kpj70585o",
+      "provider": "BBC",
+      "title": "Young minds develop ideas to tackle climate change",
+      "status": "pending",
+      "firstSeenAt": 1790761715.0606308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/brazil-newspaper-threats-tapajos-de-fato",
+      "provider": "The Guardian",
+      "title": "‘We’re afraid of dying’: Brazilian news site will not cover upcoming elections after threats",
+      "status": "pending",
+      "firstSeenAt": 1790761715.3228955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/dally-m-awards-red-carpet-2026-photos/107206968",
+      "provider": "ABC News Australia",
+      "title": "Dally M 2026 red carpet: Fashion from the stars of NRL and NRLW",
+      "status": "pending",
+      "firstSeenAt": 1790761715.6304166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/gender-reveal-explosive-blast-kalgoorlie-super-pit/107211366",
+      "provider": "ABC News Australia",
+      "title": "Mining couple have explosive gender reveal at Kalgoorlie's Super Pit",
+      "status": "pending",
+      "firstSeenAt": 1790761715.6308587,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
