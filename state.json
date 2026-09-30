@@ -10810,9 +10810,17 @@
       "status": "pending",
       "firstSeenAt": 1790756301.4284968,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlyewr0lnj3o",
+      "provider": "BBC",
+      "title": "Move to rejoin EU among options for UK, says Burnham The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\". 22 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1790757384.1282375,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
