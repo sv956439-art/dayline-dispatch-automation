@@ -11066,9 +11066,49 @@
       "status": "pending",
       "firstSeenAt": 1790763283.216056,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqevwrmevv21o",
+      "provider": "BBC",
+      "title": "Widespread industrial action begins across Republic of Ireland Two days of fuller strike action have been planned for 14 and 21 October, when it is expected schools will be closed and picket lines formed across the country.",
+      "status": "pending",
+      "firstSeenAt": 1790764284.2885642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckrerg4n2v82o",
+      "provider": "BBC",
+      "title": "Richards 'devastated' by Man City guilty verdicts Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\" verdict on the club's financial charges.",
+      "status": "pending",
+      "firstSeenAt": 1790764284.2890697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvzez7k0pn40o",
+      "provider": "BBC",
+      "title": "Regulating AI 'not the right place to start' says Bailey AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "status": "pending",
+      "firstSeenAt": 1790764284.3774846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c0j7p38jg15o",
+      "provider": "BBC",
+      "title": "What's happening to the UK economy and how does it affect you? The rate of UK economic growth affects things like pay increases and the amount of tax raised.",
+      "status": "pending",
+      "firstSeenAt": 1790764284.3775125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
+      "provider": "The Guardian",
+      "title": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are liberating people from their phones",
+      "status": "pending",
+      "firstSeenAt": 1790764284.61119,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
