@@ -10986,9 +10986,89 @@
       "status": "pending",
       "firstSeenAt": 1790762391.9326313,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260318-the-best-podcasts-of-2026",
+      "provider": "BBC",
+      "title": "18 of the best podcasts of 2026 so far From the former US president discussing books to a provocative drama written by and starring Game of Thrones' Lena Headey – here's the best new podcasts for you to listen to and watch.",
+      "status": "pending",
+      "firstSeenAt": 1790763282.6475167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwg7kl4kzj5mo",
+      "provider": "BBC",
+      "title": "Overdue fines to be scrapped at libraries in Devon",
+      "status": "pending",
+      "firstSeenAt": 1790763282.6475484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c58jd4wvrz4jo",
+      "provider": "BBC",
+      "title": "Will Pocognoli change keeper after loss to Switzerland?",
+      "status": "pending",
+      "firstSeenAt": 1790763282.755181,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c5y4zjy8rexmo",
+      "provider": "BBC",
+      "title": "Sheedy surprised as header goes viral",
+      "status": "pending",
+      "firstSeenAt": 1790763282.755288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790763282.9556448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/drumcree-parade-mediation-dead-in-the-water-say-nationalists",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790763282.9556682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/30/insects-ecosystems-conservation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790763282.9557824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/trump-campaign-ads-violate-federal-law",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790763282.9558053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790763282.9558256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/busselton-stabbing-murder-trial-supreme-court/107212960",
+      "provider": "ABC News Australia",
+      "title": "Couple stabbed woman in frenzied attack over love triangle, court told",
+      "status": "pending",
+      "firstSeenAt": 1790763283.216056,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
