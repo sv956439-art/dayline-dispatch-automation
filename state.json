@@ -11890,9 +11890,17 @@
       "status": "pending",
       "firstSeenAt": 1790788363.6179173,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n8m33pn9djo",
+      "provider": "BBC",
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+      "status": "pending",
+      "firstSeenAt": 1790789318.6404812,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
