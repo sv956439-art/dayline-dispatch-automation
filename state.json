@@ -11978,9 +11978,49 @@
       "status": "pending",
       "firstSeenAt": 1790792490.9859195,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g4z255y30o",
+      "provider": "BBC",
+      "title": "Broadcaster and campaigner Dame Esther Rantzen dies at 86 Dame Esther presented the BBC show That's Life! for 21 years and launched the charity Childline.",
+      "status": "pending",
+      "firstSeenAt": 1790793562.4169943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790793562.8408797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790793562.841163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/credit-card-perks-points-cut-by-banks/107136372",
+      "provider": "ABC News Australia",
+      "title": "Credit card surcharges end today but customers will pay in other ways",
+      "status": "pending",
+      "firstSeenAt": 1790793563.5804892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/quiz-fictional-locations-film-tv-books/107196604",
+      "provider": "ABC News Australia",
+      "title": "Quiz: How well do you know these fictional places in pop culture?",
+      "status": "pending",
+      "firstSeenAt": 1790793563.5805044,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
