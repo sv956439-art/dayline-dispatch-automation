@@ -10482,9 +10482,25 @@
       "status": "pending",
       "firstSeenAt": 1790747057.5650427,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/newcastle-knights-2016-wooden-spoon-grand-final/107212560",
+      "provider": "ABC News Australia",
+      "title": "Ten years after their lowest ebb, Newcastle are one win from salvation",
+      "status": "pending",
+      "firstSeenAt": 1790747755.009137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/janetzki-press-club-qld-national-gst-distribution/107210804",
+      "provider": "ABC News Australia",
+      "title": "Qld treasurer criticises national GST carve-up at National Press Club",
+      "status": "pending",
+      "firstSeenAt": 1790747755.0095582,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
