@@ -11226,9 +11226,57 @@
       "status": "pending",
       "firstSeenAt": 1790769619.6917715,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxm2qmpy57ggo",
+      "provider": "BBC",
+      "title": "Botswana condemned for slaughtering elephants for independence celebrations The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts.",
+      "status": "pending",
+      "firstSeenAt": 1790770942.2430964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqd081x1mlvdo",
+      "provider": "BBC",
+      "title": "Republic of Ireland will play second Israel game - Hallgrimsson",
+      "status": "pending",
+      "firstSeenAt": 1790770942.3370426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck3reg044xzwo",
+      "provider": "BBC",
+      "title": "Drawing of lots sends Oman through to Gulf Cup semis",
+      "status": "pending",
+      "firstSeenAt": 1790770942.3371012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6vgy2y49vzqo",
+      "provider": "BBC",
+      "title": "Ireland to host England at Aviva Stadium in Six Nations",
+      "status": "pending",
+      "firstSeenAt": 1790770942.3374255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790770942.7217813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/30/uk-banks-are-europe-biggest-providers-coal-financing-report-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790770942.7224212,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
