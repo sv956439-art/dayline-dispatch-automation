@@ -10202,9 +10202,33 @@
       "status": "pending",
       "firstSeenAt": 1790738880.714664,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj3dkvpm4e7o",
+      "provider": "BBC",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+      "status": "pending",
+      "firstSeenAt": 1790739768.4468036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/sydney-airport-safety-investigation-plane-incidents-near-collisions-staffing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790739768.9775295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/sep/30/abc-finance-journalist-alan-kohler-to-retire-after-three-decades-as-jim-chalmers-says-he-will-be-really-missed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790739768.9775617,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
