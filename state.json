@@ -12314,9 +12314,33 @@
       "status": "pending",
       "firstSeenAt": 1790801322.3777819,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm0rekrpxnl1o",
+      "provider": "BBC",
+      "title": "Infantino should have no place in future of football - Pinto The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\". 1 hr ago Football",
+      "status": "pending",
+      "firstSeenAt": 1790801868.7415373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/toddler-pistol-detroit-daycare",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790801869.105546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/housing-waitlist-cancellations-a-systems-level-problem/107211874",
+      "provider": "ABC News Australia",
+      "title": "Housing waitlist cancellations a 'systems level problem', advocates say",
+      "status": "pending",
+      "firstSeenAt": 1790801869.511534,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
