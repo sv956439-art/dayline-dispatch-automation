@@ -10634,9 +10634,41 @@
       "status": "pending",
       "firstSeenAt": 1790751661.9482365,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/30/councils-core-spending-social-care-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790752678.0422227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/james-ted-rutledge-rescue-australian-navy-indian-ocean-boat-sink/107182902",
+      "provider": "ABC News Australia",
+      "title": "Ted was pants-less and shipwrecked but the Navy rescued him 1,000km from anywhere",
+      "status": "pending",
+      "firstSeenAt": 1790752678.9364471,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/dally-m-medal-awards-ceremony-red-carpet-live-blog/107204384",
+      "provider": "ABC News Australia",
+      "title": "NRL and NRLW stars arriving for Dally M Awards",
+      "status": "pending",
+      "firstSeenAt": 1790752678.937674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/judge-recuses-himself-in-rohan-dennis-driving-case/107212278",
+      "provider": "ABC News Australia",
+      "title": "Judge recuses himself in Rohan Dennis case of driving while disqualified",
+      "status": "pending",
+      "firstSeenAt": 1790752678.9377007,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
