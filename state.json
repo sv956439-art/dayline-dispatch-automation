@@ -11194,9 +11194,17 @@
       "status": "pending",
       "firstSeenAt": 1790768180.647791,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65ym1dyn92mo",
+      "provider": "BBC",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "status": "pending",
+      "firstSeenAt": 1790768994.6911216,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
