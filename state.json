@@ -12410,9 +12410,41 @@
       "status": "pending",
       "firstSeenAt": 1790803486.5209613,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790804329.874848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/trump-america-gov-ai-chatbot",
+      "provider": "The Guardian",
+      "title": "Trump’s AI chatbot turns on its master",
+      "status": "pending",
+      "firstSeenAt": 1790804329.8753026,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/white-cliffs-solar-power-station-heritage-listing/107201432",
+      "provider": "ABC News Australia",
+      "title": "Heritage listing for 'first of its kind' outback solar experiment",
+      "status": "pending",
+      "firstSeenAt": 1790804330.321577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/ex-detainee-concerns-for-hiep-tran-vietnam-arrest/107213648",
+      "provider": "ABC News Australia",
+      "title": "'The living conditions are so bad': Ex-detainee's warning for Hiep Tran",
+      "status": "pending",
+      "firstSeenAt": 1790804330.3216188,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
