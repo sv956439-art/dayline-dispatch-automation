@@ -11818,9 +11818,57 @@
       "status": "pending",
       "firstSeenAt": 1790786921.944872,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz6zq5pew89o",
+      "provider": "BBC",
+      "title": "We fear for our lives after being told our abusive exes will be freed from jail early Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme. 47 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790787575.0138094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkgwvv8xvw0o",
+      "provider": "BBC",
+      "title": "7 Burnham 'really concerned' if Man City owners sell up after rule breaches",
+      "status": "pending",
+      "firstSeenAt": 1790787575.014188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj207q73k09ro",
+      "provider": "BBC",
+      "title": "9 Princess of Wales picks up passenger, 94, on bus",
+      "status": "pending",
+      "firstSeenAt": 1790787575.0142345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cq74eppd8rjpo",
+      "provider": "BBC",
+      "title": "English players urged to reconsider Afghan T20 tournament English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\". 1 hr ago Afghanistan",
+      "status": "pending",
+      "firstSeenAt": 1790787575.0143647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cq20vxxdxk54o",
+      "provider": "BBC",
+      "title": "Djokovic wins first match since Wimbledon in China Novak Djokovic beats Nuno Borges at the China Open to secure his first win since reaching the Wimbledon semi-finals in July. 2 hrs ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1790787575.0144567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/crews-filming-in-scotland-told-to-hire-local-as-industry-booms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790787575.4948065,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
