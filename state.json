@@ -11794,9 +11794,33 @@
       "status": "pending",
       "firstSeenAt": 1790786066.854636,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp803g30y2zo",
+      "provider": "BBC",
+      "title": "Solar panels cut school bills by £70,000 a year",
+      "status": "pending",
+      "firstSeenAt": 1790786921.3555374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790786921.944173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/sep/30/mother-of-passenger-on-israel-bound-flight-describes-incident-video",
+      "provider": "The Guardian",
+      "title": "Mother of passenger on Israel-bound flight describes incident – video",
+      "status": "pending",
+      "firstSeenAt": 1790786921.944872,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
