@@ -11362,9 +11362,33 @@
       "status": "pending",
       "firstSeenAt": 1790774537.2624688,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9y7zr4l6de1o",
+      "provider": "BBC",
+      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+      "status": "pending",
+      "firstSeenAt": 1790775403.9209733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy8z3lw1eydo",
+      "provider": "BBC",
+      "title": "2 hrs ago David Bowie's venue ban lifted for new exhibition An immersive exhibition exploring the life and work of David Bowie is set to open at Brighton Dome. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790775404.0043688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqde01j1p3gxo",
+      "provider": "BBC",
+      "title": "2 hrs ago Danni becomes first contestant to leave Bake Off Danni from Dorset was the first of 12 contestants to leave 17th series of the Great British Bake Off. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790775404.0043986,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
