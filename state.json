@@ -12338,9 +12338,33 @@
       "status": "pending",
       "firstSeenAt": 1790801869.511534,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3ew9vv7444xo",
+      "provider": "BBC",
+      "title": "Liverpool contenders for Schade - Thursday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1790802530.398555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/nt-wadeye-ongoing-violence-elders-call-for-solutions/107207914",
+      "provider": "ABC News Australia",
+      "title": "'They can't stop': Wadeye elders desperately try to end violent feud",
+      "status": "pending",
+      "firstSeenAt": 1790802531.1543293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/australia-defeats-south-africa-in-third-odi-by-45-runs-dls/107214814",
+      "provider": "ABC News Australia",
+      "title": "Australia strikes back to avoid ODI whitewash ahead of Test series",
+      "status": "pending",
+      "firstSeenAt": 1790802531.1543622,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
