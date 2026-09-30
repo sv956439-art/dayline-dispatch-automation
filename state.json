@@ -10066,9 +10066,33 @@
       "status": "pending",
       "firstSeenAt": 1790732025.1427534,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/inflation-august-2026-australia-bureau-of-statistics/107210688",
+      "provider": "ABC News Australia",
+      "title": "Headline inflation jumped to 4 per cent in August, up from 3.5 per cent in July",
+      "status": "pending",
+      "firstSeenAt": 1790732835.854614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/afl-lachie-neale-collingwood-magpies-brisbane-lions/107211164",
+      "provider": "ABC News Australia",
+      "title": "Neale set to join Magpies as Lions confirm exit",
+      "status": "pending",
+      "firstSeenAt": 1790732835.854646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/police-search-for-burglars-who-rammed-cafe-with-stolen-tractor/107210594",
+      "provider": "ABC News Australia",
+      "title": "CCTV shows tractor ram raid at Melbourne cafe and animal farm",
+      "status": "pending",
+      "firstSeenAt": 1790732835.854693,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
