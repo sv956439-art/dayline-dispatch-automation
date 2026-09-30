@@ -12066,9 +12066,65 @@
       "status": "pending",
       "firstSeenAt": 1790795171.8865628,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vgyg3zv3kwo",
+      "provider": "BBC",
+      "title": "Punish Man City this season, say other club chiefs Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+      "status": "pending",
+      "firstSeenAt": 1790796188.9589412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cmdx0xlk7jnno",
+      "provider": "BBC",
+      "title": "Navarro opens up on health struggles that caused 'deep anger' on court",
+      "status": "pending",
+      "firstSeenAt": 1790796189.0220702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckge43e8nqdwo",
+      "provider": "BBC",
+      "title": "Haaland 'no different' following Man City verdict",
+      "status": "pending",
+      "firstSeenAt": 1790796189.0220978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmwyz9ypw3x2o",
+      "provider": "BBC",
+      "title": "Saracens boss Venter skips more media duties",
+      "status": "pending",
+      "firstSeenAt": 1790796189.0222678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/digger-review-no-spoilers-tom-cruise/107210216",
+      "provider": "ABC News Australia",
+      "title": "Tom Cruise goes full clown in Digger. It might be his best work yet",
+      "status": "pending",
+      "firstSeenAt": 1790796189.6945438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/stopping-pasifika-youth-from-joining-coconut-cartel-network/107208030",
+      "provider": "ABC News Australia",
+      "title": "'Friends won't be there': Fighting to save Pasifika youth from lives of crime",
+      "status": "pending",
+      "firstSeenAt": 1790796189.694792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/mortgage-stress-interest-rates-victoria/107212756",
+      "provider": "ABC News Australia",
+      "title": "Calls from mortgage-stressed home owners double as pressures pile up",
+      "status": "pending",
+      "firstSeenAt": 1790796189.6948211,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
