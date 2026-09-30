@@ -12658,9 +12658,17 @@
       "status": "pending",
       "firstSeenAt": 1790811873.3869114,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/richmond-qld-creataceous-bird-fossil/107212466",
+      "provider": "ABC News Australia",
+      "title": "100-million-year-old fossil reveals ancient outback bird",
+      "status": "pending",
+      "firstSeenAt": 1790812445.3419073,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
