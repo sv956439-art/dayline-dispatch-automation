@@ -12146,9 +12146,25 @@
       "status": "pending",
       "firstSeenAt": 1790796917.6730125,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/30/exposed-bras-and-unitards-why-are-people-wearing-underwear-on-the-outside",
+      "provider": "The Guardian",
+      "title": "Exposed bras and unitards: why are people wearing underwear on the outside?",
+      "status": "pending",
+      "firstSeenAt": 1790797627.8403795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/runner-self-defence-workshop-after-harassment-experience/107177674",
+      "provider": "ABC News Australia",
+      "title": "Sexual harassment prompts Queensland runner to tackle safety concerns herself",
+      "status": "pending",
+      "firstSeenAt": 1790797628.3354251,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
