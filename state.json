@@ -10578,9 +10578,57 @@
       "status": "pending",
       "firstSeenAt": 1790749701.7096746,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crjw5jp2de7go",
+      "provider": "BBC",
+      "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
+      "status": "pending",
+      "firstSeenAt": 1790750821.2676454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9lyk46gekkeo",
+      "provider": "BBC",
+      "title": "£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'",
+      "status": "pending",
+      "firstSeenAt": 1790750821.2682016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8y5zxwqv4lvo",
+      "provider": "BBC",
+      "title": "2 hrs ago Bangladeshi art spotlighted in 'world-first' project The Ashmolean Museum, in Oxford, say a new partnership will highlight artwork from Bangladesh. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790750821.3461947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj1dlv4q6vxdo",
+      "provider": "BBC",
+      "title": "2 hrs ago Piano society holds last recital at closed museum A last recital is given on a Steinway piano before moving from Sunderland Museum and Winter Gardens. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790750821.346228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/whale-carcass-removed-from-perth-city-beach/107211224",
+      "provider": "ABC News Australia",
+      "title": "Mammoth effort underway to remove whale carcass from Perth beach",
+      "status": "pending",
+      "firstSeenAt": 1790750822.0075612,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/caleb-flynn-american-idol-found-guilty-wife-murder/107210462",
+      "provider": "ABC News Australia",
+      "title": "Former American Idol contestant guilty of fatally shooting wife",
+      "status": "pending",
+      "firstSeenAt": 1790750822.0080833,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
