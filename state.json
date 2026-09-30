@@ -12186,9 +12186,17 @@
       "status": "pending",
       "firstSeenAt": 1790798226.81456,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/nathan-cleary-dally-m-win-analysis/107214524",
+      "provider": "ABC News Australia",
+      "title": "Nathan Cleary has no worlds left to conquer after Dally M win",
+      "status": "pending",
+      "firstSeenAt": 1790798900.81686,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
