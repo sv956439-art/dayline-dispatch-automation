@@ -11410,9 +11410,57 @@
       "status": "pending",
       "firstSeenAt": 1790776996.424989,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5zjzr4rrl8lo",
+      "provider": "BBC",
+      "title": "Only 28% of nurdles 'recovered', researchers say",
+      "status": "pending",
+      "firstSeenAt": 1790778199.761872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790778199.9867392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790778199.9873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790778199.9875011,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/california-governor-steve-hilton-race",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790778199.987618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/australian-house-prices-fall-for-sixth-straight-month/107206782",
+      "provider": "ABC News Australia",
+      "title": "House prices plummet for sixth consecutive month as experts warn of greater falls",
+      "status": "pending",
+      "firstSeenAt": 1790778200.4642131,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
