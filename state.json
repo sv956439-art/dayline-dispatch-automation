@@ -11738,9 +11738,65 @@
       "status": "pending",
       "firstSeenAt": 1790784998.9039042,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjwyz59k5y75o",
+      "provider": "BBC",
+      "title": "UK believes Iran involved in RAF Fairford incident, Burnham says The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'. 34 mins ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1790786066.149394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpq0rr97z41o",
+      "provider": "BBC",
+      "title": "Loganair to axe Isle of Man-London City route",
+      "status": "pending",
+      "firstSeenAt": 1790786066.232373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cklyje1v0g0lo",
+      "provider": "BBC",
+      "title": "Para-snooker player missed flight over hoist issue",
+      "status": "pending",
+      "firstSeenAt": 1790786066.232399,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/rapes-triggers-mass-protests-indian-universities",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790786066.4846416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/30/uk-gas-and-oil-climate-crisis-energy-edf-boss",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790786066.4847624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/30/bronx-street-gang-new-york-jean-pierre-laffont-best-photograph",
+      "provider": "The Guardian",
+      "title": "‘The Savage Skulls were the most dangerous gang in the Bronx’: Jean-Pierre Laffont’s best photograph",
+      "status": "pending",
+      "firstSeenAt": 1790786066.4852886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/tennessee-execution-christa-pike-halted-appeals/107214642",
+      "provider": "ABC News Australia",
+      "title": "US appeals court pauses execution of Tennessee killer Christa Pike",
+      "status": "pending",
+      "firstSeenAt": 1790786066.854636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
