@@ -12162,9 +12162,33 @@
       "status": "pending",
       "firstSeenAt": 1790797628.3354251,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3kg8gwzqnvko",
+      "provider": "BBC",
+      "title": "Two dead after pedestrians struck at Canada truth and reconciliation event Police said a driver experienced \"a medical emergency\" before hitting four pedestrians in British Columbia.",
+      "status": "pending",
+      "firstSeenAt": 1790798226.590205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cme8x7rey9dlo",
+      "provider": "BBC",
+      "title": "Respect and laughs as Fury and Joshua face off",
+      "status": "pending",
+      "firstSeenAt": 1790798226.590511,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/catholic-clergy-massachusetts-sexual-abuse-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790798226.81456,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
