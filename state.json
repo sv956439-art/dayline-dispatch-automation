@@ -10354,9 +10354,65 @@
       "status": "pending",
       "firstSeenAt": 1790743829.8909612,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8d3vl9mj13o",
+      "provider": "BBC",
+      "title": "'Backpack' declared Alaska's Fat Bear Week winner \"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
+      "status": "pending",
+      "firstSeenAt": 1790745274.533283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq783py14ry3o",
+      "provider": "BBC",
+      "title": "Dead animals found in canal where children row",
+      "status": "pending",
+      "firstSeenAt": 1790745274.6015713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgqdx3j4qkxo",
+      "provider": "BBC",
+      "title": "Wind farm near bases could invite sabotage, says MP",
+      "status": "pending",
+      "firstSeenAt": 1790745274.6015985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxly547el58qo",
+      "provider": "BBC",
+      "title": "Water firm to consult on desalination plans by 2027",
+      "status": "pending",
+      "firstSeenAt": 1790745274.6016233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790745274.885845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790745274.8867774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/30/healthy-babies-programme-to-be-expanded-across-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790745274.8868282,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
