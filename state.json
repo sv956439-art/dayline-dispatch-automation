@@ -10058,9 +10058,17 @@
       "status": "pending",
       "firstSeenAt": 1790731226.8835938,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gl1yllg6po",
+      "provider": "BBC",
+      "title": "Hidden habits that make your social anxiety worse - and how to break them Social anxiety is more common than many think. Here's what you need to know about the condition. 48 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1790732025.1427534,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
