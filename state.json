@@ -10114,9 +10114,33 @@
       "status": "pending",
       "firstSeenAt": 1790734177.1253762,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/why-these-tracks-were-chosen-in-songs-that-changed-the-world/107196870",
+      "provider": "ABC News Australia",
+      "title": "Why Nirvana and Midnight Oil made the cut in Songs that Changed the World",
+      "status": "pending",
+      "firstSeenAt": 1790735757.701317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/charges-against-alleged-chinese-spy-dropped/107211166",
+      "provider": "ABC News Australia",
+      "title": "Charge dropped against man accused of being Chinese spy",
+      "status": "pending",
+      "firstSeenAt": 1790735757.7018335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/clermont-water-water-restrictions-pump-failure/107210014",
+      "provider": "ABC News Australia",
+      "title": "Emergency water restrictions for Queensland town following pump failure",
+      "status": "pending",
+      "firstSeenAt": 1790735757.7019074,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
