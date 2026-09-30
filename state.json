@@ -10090,9 +10090,33 @@
       "status": "pending",
       "firstSeenAt": 1790732835.854693,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/30/australia-electric-cars-vehichles-ev-sales-double",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790734177.124407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/29/oakland-police-federal-oversight-ends",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790734177.1250777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/new-zealand-election-voters-abroad-influence-result",
+      "provider": "The Guardian",
+      "title": "A tight election looms in New Zealand. This time, overseas voters could be bad news for the big parties",
+      "status": "pending",
+      "firstSeenAt": 1790734177.1253762,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
