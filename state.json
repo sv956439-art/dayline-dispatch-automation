@@ -9986,9 +9986,33 @@
       "status": "pending",
       "firstSeenAt": 1790726160.1221995,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "provider": "The Guardian",
+      "title": "The night sky is getting 10% brighter every year. We’re forgetting what darkness feels like",
+      "status": "pending",
+      "firstSeenAt": 1790726845.8601294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/alan-kohler-retires/107208178",
+      "provider": "ABC News Australia",
+      "title": "Finance presenter Alan Kohler retiring after three decades at ABC",
+      "status": "pending",
+      "firstSeenAt": 1790726846.8762307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/daniel-tupou-sydney-roosters-nrl-grand-final-highlights/107209366",
+      "provider": "ABC News Australia",
+      "title": "Why Daniel Tupou is a Sydney Roosters grand final specialist",
+      "status": "pending",
+      "firstSeenAt": 1790726846.876561,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
