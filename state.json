@@ -12362,9 +12362,57 @@
       "status": "pending",
       "firstSeenAt": 1790802531.1543622,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2z92xx57no",
+      "provider": "BBC",
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "status": "pending",
+      "firstSeenAt": 1790803485.64234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyzy47wd77o",
+      "provider": "BBC",
+      "title": "Black Sabbath film difficult to watch, says Iommi The legendary band's Back To The Beginning concert at Villa Park will be released next month.",
+      "status": "pending",
+      "firstSeenAt": 1790803485.6430192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/30/pete-hegseth-elon-musk-taskforce-warfare",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790803486.0109577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/federal-politics-live-blog-labor-greens-leader/107213814",
+      "provider": "ABC News Australia",
+      "title": "Environment minister urges new Greens leader to be constructive with Labor",
+      "status": "pending",
+      "firstSeenAt": 1790803486.520887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/teens-charged-after-women-robbed-in-melbourne-bag-snatches/107214754",
+      "provider": "ABC News Australia",
+      "title": "Teenagers charged over bag snatches after allegedly targeting lone women",
+      "status": "pending",
+      "firstSeenAt": 1790803486.5209162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/tasmania-devils-confirm-first-afl-signings/107210390",
+      "provider": "ABC News Australia",
+      "title": "For love, not money — Tasmania's elite eight ready to represent the map",
+      "status": "pending",
+      "firstSeenAt": 1790803486.5209613,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
