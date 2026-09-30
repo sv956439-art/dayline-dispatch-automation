@@ -12194,9 +12194,73 @@
       "status": "pending",
       "firstSeenAt": 1790798900.81686,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgmrm7xd8wyo",
+      "provider": "BBC",
+      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says Passengers and crew overpowered the attacker and safely landed the plane after it was diverted to Saudi Arabia.",
+      "status": "pending",
+      "firstSeenAt": 1790799874.0496674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/trump-voter-fraud-charges-minnesota",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790799874.6448631,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790799874.6448965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/aflw-speeding-up-rapidly-and-numbers-prove-it/107213180",
+      "provider": "ABC News Australia",
+      "title": "The AFLW is speeding up and these numbers prove it",
+      "status": "pending",
+      "firstSeenAt": 1790799875.2515223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/child-advocate-calls-on-premier-to-release-child-death-review/107212478",
+      "provider": "ABC News Australia",
+      "title": "'What are they hiding?': Advocate calls on SA premier to release child death review",
+      "status": "pending",
+      "firstSeenAt": 1790799875.251551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/tamania-stephen-fane-noga-appeal-hearing-starts/107213900",
+      "provider": "ABC News Australia",
+      "title": "Relevance of judge's social media posts disputed in appeal hearing",
+      "status": "pending",
+      "firstSeenAt": 1790799875.2515976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/fight-for-climate-justice-after-another-wave-of-floods-in-nepal/107213838",
+      "provider": "ABC News Australia",
+      "title": "Nepal's dire warning to the rest of the world",
+      "status": "pending",
+      "firstSeenAt": 1790799875.2516437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/wa-coroner-to-probe-outback-disappearances-of-four-men/107188372",
+      "provider": "ABC News Australia",
+      "title": "Mysterious outback disappearances of four men to be probed by WA coroner",
+      "status": "pending",
+      "firstSeenAt": 1790799875.251689,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
