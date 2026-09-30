@@ -10626,9 +10626,17 @@
       "status": "pending",
       "firstSeenAt": 1790750822.0080833,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/alexander-robert-macdonald-sentence-hostage-bank-robberies/107003702",
+      "provider": "ABC News Australia",
+      "title": "Hostage watches as notorious bank robber is sentenced 29 years later",
+      "status": "pending",
+      "firstSeenAt": 1790751661.9482365,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
