@@ -12458,9 +12458,41 @@
       "status": "pending",
       "firstSeenAt": 1790805665.670971,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c607l4l3vn0eo",
+      "provider": "BBC",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "status": "pending",
+      "firstSeenAt": 1790806600.8265357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/carnarvon-without-birthing-services-parents-struggling/107199602",
+      "provider": "ABC News Australia",
+      "title": "Parents struggling without birthing services at key hospital",
+      "status": "pending",
+      "firstSeenAt": 1790806601.8753679,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/what-to-know-about-the-terrifying-flydubai-flight-forced-to-land/107214766",
+      "provider": "ABC News Australia",
+      "title": "What to know about the terrifying flydubai flight bound for Israel",
+      "status": "pending",
+      "firstSeenAt": 1790806601.8754022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/ipswich-resi-care-death-family-demands-answers/107206940",
+      "provider": "ABC News Australia",
+      "title": "Family of girl who died of overdose in state care demands answers",
+      "status": "pending",
+      "firstSeenAt": 1790806601.8754184,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
