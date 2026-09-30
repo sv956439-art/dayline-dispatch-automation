@@ -11610,9 +11610,33 @@
       "status": "pending",
       "firstSeenAt": 1790781006.7916667,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5xvnq8yzqo",
+      "provider": "BBC",
+      "title": "Hegseth expected to fire more top ranking US military Roughly 20 admirals and generals have already either been fired or resigned since Hegseth took over the defence department.",
+      "status": "pending",
+      "firstSeenAt": 1790782164.353108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2ze8y6yx7o",
+      "provider": "BBC",
+      "title": "1 hr ago Vehicles damaged after accidental battery blaze Firefighters spent about 25 hours at the site after the blaze involving about 150 tonnes of batteries. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1790782164.4390914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/carnegie-mellon-historic-donation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790782164.6891868,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
