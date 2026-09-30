@@ -10410,9 +10410,41 @@
       "status": "pending",
       "firstSeenAt": 1790745274.8868282,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpd0we052lno",
+      "provider": "BBC",
+      "title": "Family's love of books helped author break stereotypes Nadia Shireen says people from South Asian backgrounds were not expected to become authors.",
+      "status": "pending",
+      "firstSeenAt": 1790746198.8116617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/nsw-man-accused-murdering-neighbour-and-relative-gurranang-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790746199.2412784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/tokyo-japan-record-rain-35-consecutive-days-el-nino-weather",
+      "provider": "The Guardian",
+      "title": "Tokyo succumbs to ‘rain fatigue’ after a record 35 consecutive days of showers",
+      "status": "pending",
+      "firstSeenAt": 1790746199.242046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/nsw-atsb-sydney-airport-runway-conflict-preliminary-reports/107210322",
+      "provider": "ABC News Australia",
+      "title": "Sydney Airport near-collision one of worst in 20 years, investigators say",
+      "status": "pending",
+      "firstSeenAt": 1790746199.8677118,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
