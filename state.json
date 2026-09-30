@@ -10442,9 +10442,49 @@
       "status": "pending",
       "firstSeenAt": 1790746199.8677118,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/indonesia-prison-officials-suspended-luxury-apartments-prisoners",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790747057.0586972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/inside-the-ukrainian-military-unit-training-fighters-from-china",
+      "provider": "The Guardian",
+      "title": "Inside the Ukrainian military unit training fighters from China",
+      "status": "pending",
+      "firstSeenAt": 1790747057.0594032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/billions-slashed-from-ndis-packages-on-reassessment/107206546",
+      "provider": "ABC News Australia",
+      "title": "Billions slashed from NDIS packages as reassessments lead to more cuts",
+      "status": "pending",
+      "firstSeenAt": 1790747057.5642707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/luxury-compound-indonesian-prison-corruption-probe/107210416",
+      "provider": "ABC News Australia",
+      "title": "Golf simulator, TVs and fridges found in Indonesian prison compound",
+      "status": "pending",
+      "firstSeenAt": 1790747057.565013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/bryce-driden-found-not-guilty-for-fatal-crash-in-stawell/107212690",
+      "provider": "ABC News Australia",
+      "title": "Victorian man found not guilty after fatal crash at 2023 burnout event",
+      "status": "pending",
+      "firstSeenAt": 1790747057.5650427,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
