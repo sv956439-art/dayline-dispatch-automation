@@ -12530,9 +12530,17 @@
       "status": "pending",
       "firstSeenAt": 1790808985.4741364,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cgk53dkmyxko",
+      "provider": "BBC",
+      "title": "The AI telling farmers when to harvest Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+      "status": "pending",
+      "firstSeenAt": 1790809528.1246488,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
