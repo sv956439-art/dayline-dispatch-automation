@@ -11146,9 +11146,49 @@
       "status": "pending",
       "firstSeenAt": 1790766642.9928987,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790767470.9994333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/sep/30/iranian-singer-74-lashes-parastoo-ahmadi-performing-without-hijab-torture",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790767470.9997113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/first-thing-third-country-deportation-can-resume-us-supreme-court-rules",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790767470.9999633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+      "provider": "The Guardian",
+      "title": "A ‘freaked out’ US food industry is hitting back at Maga – with social media influencers",
+      "status": "pending",
+      "firstSeenAt": 1790767471.0003152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/grenfell-tower-police-recommend-dozens-of-charges/107198342",
+      "provider": "ABC News Australia",
+      "title": "Met recommends charging 54 people, 20 organisations over Grenfell blaze",
+      "status": "pending",
+      "firstSeenAt": 1790767471.310665,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
