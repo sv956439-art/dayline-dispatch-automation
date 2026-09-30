@@ -11314,9 +11314,57 @@
       "status": "pending",
       "firstSeenAt": 1790773366.1851137,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm986x65we88o",
+      "provider": "BBC",
+      "title": "WhatsApp introduces optional parental controls for teenagers The social messaging app will let parents decide on privacy settings for their child's account.",
+      "status": "pending",
+      "firstSeenAt": 1790774536.4945624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790774536.8956192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790774536.895641,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/grenfell-fire-police-investigators-files-prosecutors",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790774536.896191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/sep/30/robbed-of-a-childhood-how-one-girl-in-gaza-found-freedom-in-swimming-video",
+      "provider": "The Guardian",
+      "title": "Robbed of a childhood: how one girl in Gaza found freedom in swimming – video",
+      "status": "pending",
+      "firstSeenAt": 1790774536.8966022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/prince-harry-children-targeted-by-paparazzi/107214506",
+      "provider": "ABC News Australia",
+      "title": "'Extraordinarly reckless': Prince Harry says children targeted by paparazzi",
+      "status": "pending",
+      "firstSeenAt": 1790774537.2624688,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
