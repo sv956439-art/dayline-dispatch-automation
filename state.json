@@ -10034,9 +10034,33 @@
       "status": "pending",
       "firstSeenAt": 1790730244.5949614,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv5yjgrj4ello",
+      "provider": "BBC",
+      "title": "How AI is creating a UK super-museum and revealing our planet's history People will eventually be able to see around 70 million animals, plants, fossils and rocks from their phones and computers.",
+      "status": "pending",
+      "firstSeenAt": 1790731226.1345437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/antarctic-winter-sea-ice-falls-to-third-lowest-level-on-record-as-scientists-warn-of-now-problem",
+      "provider": "The Guardian",
+      "title": "Antarctic winter sea ice falls to third-lowest level on record as scientists warn of ‘now problem’",
+      "status": "pending",
+      "firstSeenAt": 1790731226.4577472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/qld-giica-selects-games-stadium-build-finalist/107210456",
+      "provider": "ABC News Australia",
+      "title": "Lone finalist for Brisbane Games stadium build announced",
+      "status": "pending",
+      "firstSeenAt": 1790731226.8835938,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
