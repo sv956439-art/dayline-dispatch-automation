@@ -10138,9 +10138,41 @@
       "status": "pending",
       "firstSeenAt": 1790735757.7019074,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme30dz5vkzko",
+      "provider": "BBC",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+      "status": "pending",
+      "firstSeenAt": 1790736512.4320207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20230316-the-six-ancient-norse-myths-that-still-resonate-today",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790736512.4843795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260715-the-1939-presidents-picnic-that-led-to-the-us-uk-special-relationship",
+      "provider": "BBC",
+      "title": "16 Jul 2026 As WW2 loomed, a royal picnic helped forge the US-UK 'special relationship' A new play relives the first time a British monarch visited the US – as the Nazis were advancing in Europe, the president invited the king for hot dogs on the lawn of his country home. 16 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790736512.4847279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/federal-politics-greens-announce-new-leader-david-shoebridge/107211108",
+      "provider": "ABC News Australia",
+      "title": "David Shoebridge named new Greens leader after three-way contest",
+      "status": "pending",
+      "firstSeenAt": 1790736513.1228423,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
