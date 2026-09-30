@@ -11186,9 +11186,17 @@
       "status": "pending",
       "firstSeenAt": 1790767471.310665,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3v4g0696zpo",
+      "provider": "BBC",
+      "title": "Plans to demolish Sandbanks hotel rejected",
+      "status": "pending",
+      "firstSeenAt": 1790768180.647791,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
