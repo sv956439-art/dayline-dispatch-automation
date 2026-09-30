@@ -11650,9 +11650,41 @@
       "status": "pending",
       "firstSeenAt": 1790783179.4164605,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgmr33vdkdyo",
+      "provider": "BBC",
+      "title": "'Our queer feature film puts region on the map' A Teacher's Gift is to be shown in selected UK cinemas, after being picked up for distribution.",
+      "status": "pending",
+      "firstSeenAt": 1790784005.0211656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv62kp9enz08o",
+      "provider": "BBC",
+      "title": "First Glastonbury 2027 tickets to go on sale Glastonbury Festival will take place from 23-27 June 2027 at Worthy Farm in Somerset. 4 hrs ago Somerset",
+      "status": "pending",
+      "firstSeenAt": 1790784005.0828063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9e8e5geme7eo",
+      "provider": "BBC",
+      "title": "2 hrs ago Ringo Starr's granddaughter launches exhibition Tatia Starkey tells the BBC she is trying to communicate the feelings inside her. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790784005.083553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/sep/30/seth-meyers-trump-federal-funds-ai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790784005.3927155,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
