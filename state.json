@@ -12490,9 +12490,25 @@
       "status": "pending",
       "firstSeenAt": 1790806601.8754184,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4gqnnm4ymdo",
+      "provider": "BBC",
+      "title": "'Special surprise' as rare moth found in nature reserve for first time",
+      "status": "pending",
+      "firstSeenAt": 1790808350.5674784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/wallaby-nathan-charles-diagnosed-with-mnd-aged-37/107215030",
+      "provider": "ABC News Australia",
+      "title": "Wallaby who overcame cystic fibrosis to play rugby diagnosed with MND",
+      "status": "pending",
+      "firstSeenAt": 1790808351.1091106,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
