@@ -11930,9 +11930,41 @@
       "status": "pending",
       "firstSeenAt": 1790790825.2034369,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp93d9r034xo",
+      "provider": "BBC",
+      "title": "2 hrs ago Tapestry tour added for blind after legal threat The British Museum will offer an audio-described Bayeux Tapestry tour after a blind man's legal threat. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790791339.5209293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790791339.789721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/salah-sarsour-mosque-president-deportation-wisconsin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790791339.7898438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/russia-hits-ukrainian-energy-grid/107214710",
+      "provider": "ABC News Australia",
+      "title": "Russia launches major attack on Ukraine's energy grid as winter looms",
+      "status": "pending",
+      "firstSeenAt": 1790791340.100197,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
