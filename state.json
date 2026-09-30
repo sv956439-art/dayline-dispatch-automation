@@ -10722,9 +10722,49 @@
       "status": "pending",
       "firstSeenAt": 1790754603.8219626,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqjdv7pmj9dno",
+      "provider": "BBC",
+      "title": "Israel-bound flight diverted after fight between pilots Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+      "status": "pending",
+      "firstSeenAt": 1790755254.350302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckq5xp9p1v31o",
+      "provider": "BBC",
+      "title": "The Premier League footballers studying to become sporting directors",
+      "status": "pending",
+      "firstSeenAt": 1790755254.4501548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckrerle810geo",
+      "provider": "BBC",
+      "title": "Flex your football brain with our daily quizzes",
+      "status": "pending",
+      "firstSeenAt": 1790755254.4502814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790755254.989452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/major-banks-raise-interest-rates-after-rba-cash-rate/107206946",
+      "provider": "ABC News Australia",
+      "title": "Banks raise interest rates after RBA lifts cash rate to highest since 2011",
+      "status": "pending",
+      "firstSeenAt": 1790755255.3060918,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
