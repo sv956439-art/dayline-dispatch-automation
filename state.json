@@ -12442,9 +12442,25 @@
       "status": "pending",
       "firstSeenAt": 1790804330.3216188,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/india-defeats-west-indies-second-odi-shubman-gill-double-century/107214848",
+      "provider": "ABC News Australia",
+      "title": "Indian smashes fastest-ever ODI double century in huge run chase",
+      "status": "pending",
+      "firstSeenAt": 1790805665.6709268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/asx-markets-business-news-live-updates-thursday-1-october/107204216",
+      "provider": "ABC News Australia",
+      "title": "ASX to fall, price of oil surges",
+      "status": "pending",
+      "firstSeenAt": 1790805665.670971,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
