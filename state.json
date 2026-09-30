@@ -11298,9 +11298,25 @@
       "status": "pending",
       "firstSeenAt": 1790772352.6253917,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7v424j7l0no",
+      "provider": "BBC",
+      "title": "Lady A singer Charles Kelley reveals blood cancer diagnosis The Grammy-winning US country music star, 45, says he currently feels \"great\" and is \"hopeful\".",
+      "status": "pending",
+      "firstSeenAt": 1790773365.7752185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790773366.1851137,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
