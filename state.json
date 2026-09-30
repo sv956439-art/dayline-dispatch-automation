@@ -11122,9 +11122,17 @@
       "status": "pending",
       "firstSeenAt": 1790765239.1047187,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/greens-leader-david-shoebridge-remembers-kaye-lambasts-labor/107214232",
+      "provider": "ABC News Australia",
+      "title": "New Greens leader gets emotional as he pays tribute to mentor",
+      "status": "pending",
+      "firstSeenAt": 1790765920.3834295,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
