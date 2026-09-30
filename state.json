@@ -12290,9 +12290,33 @@
       "status": "pending",
       "firstSeenAt": 1790800612.5124412,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790801322.0565207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/act-queanbeyan-hospital-maternity-service-care-failings/107205212",
+      "provider": "ABC News Australia",
+      "title": "Mother felt 'completely abandoned' during traumatic birth at NSW hospital",
+      "status": "pending",
+      "firstSeenAt": 1790801322.3777478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/sydney-emperors-garden-famous-for-cream-puff-to-repay-ato-debt/107204372",
+      "provider": "ABC News Australia",
+      "title": "Talks to reopen popular Sydney cream puff venue amid $1m tax debt",
+      "status": "pending",
+      "firstSeenAt": 1790801322.3777819,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
