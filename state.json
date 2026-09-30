@@ -10194,9 +10194,17 @@
       "status": "pending",
       "firstSeenAt": 1790737916.6574574,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/body-found-in-rivulet-in-glenorchy-hobart-by-passerby/107211722",
+      "provider": "ABC News Australia",
+      "title": "Body found in rivulet in Hobart's north by passerby",
+      "status": "pending",
+      "firstSeenAt": 1790738880.714664,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
