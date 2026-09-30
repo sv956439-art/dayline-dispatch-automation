@@ -12122,9 +12122,33 @@
       "status": "pending",
       "firstSeenAt": 1790796189.6948211,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/ndis-thriving-kids-changes/107151392",
+      "provider": "ABC News Australia",
+      "title": "What is and isn't changing today as Thriving Kids begins",
+      "status": "pending",
+      "firstSeenAt": 1790796917.67297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/bell-bay-smelter-200m-funding-package/107213902",
+      "provider": "ABC News Australia",
+      "title": "$200 million package announced for Bell Bay Aluminium smelter",
+      "status": "pending",
+      "firstSeenAt": 1790796917.6729877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/slower-backpacker-visa-processing-affects-families/107178802",
+      "provider": "ABC News Australia",
+      "title": "Slower au pair visa approvals hit Australian families",
+      "status": "pending",
+      "firstSeenAt": 1790796917.6730125,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
