@@ -11962,9 +11962,25 @@
       "status": "pending",
       "firstSeenAt": 1790791340.100197,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3gr5ynd5p1o",
+      "provider": "BBC",
+      "title": "How That's Life gave Esther Rantzen a career-defining moment Sir Nicholas Winton's story became national news when he appeared on That's Life in February 1988.",
+      "status": "pending",
+      "firstSeenAt": 1790792490.9858902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c88z4967yj5o",
+      "provider": "BBC",
+      "title": "Dame Esther Rantzen: That's Life! presenter, Childline founder and campaigner for assisted dying",
+      "status": "pending",
+      "firstSeenAt": 1790792490.9859195,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
