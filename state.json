@@ -10170,9 +10170,17 @@
       "status": "pending",
       "firstSeenAt": 1790736513.1228423,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/mexico-national-guard-debuts-tiny-chihuahua-recruit/107210882",
+      "provider": "ABC News Australia",
+      "title": "Chihuahua becomes National Guard sensation",
+      "status": "pending",
+      "firstSeenAt": 1790737146.1818535,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
