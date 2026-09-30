@@ -11682,9 +11682,65 @@
       "status": "pending",
       "firstSeenAt": 1790784005.3927155,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/french-court-jails-six-manslaughter-mass-drowning-channel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790784998.3558109,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/sweden-sami-harm-apology-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790784998.3558338,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/strong-indications-that-iran-played-role-in-raf-fairford-incident-says-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790784998.3561707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790784998.3562927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/sep/30/how-trump-is-meddling-in-brazils-upcoming-election-explainer",
+      "provider": "The Guardian",
+      "title": "How Trump is meddling in Brazil's election – explainer",
+      "status": "pending",
+      "firstSeenAt": 1790784998.356566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/flydubai-ez1073-diverts-after-accusations-of-pilot-stabbing/107214522",
+      "provider": "ABC News Australia",
+      "title": "Israel to 'ramp up' aviation security after pilot 'tries to crash plane'",
+      "status": "pending",
+      "firstSeenAt": 1790784998.9027133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/raf-fairford-likely-by-iran-burnham-says/107214676",
+      "provider": "ABC News Australia",
+      "title": "'Strong indications' Iran behind RAF airbase incident, UK prime minister says",
+      "status": "pending",
+      "firstSeenAt": 1790784998.9039042,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
