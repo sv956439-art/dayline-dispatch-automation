@@ -11514,9 +11514,65 @@
       "status": "pending",
       "firstSeenAt": 1790779203.635196,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cq23xjx0r5kdo",
+      "provider": "BBC",
+      "title": "Olympic champion Muirhead makes curling return with Lammie",
+      "status": "pending",
+      "firstSeenAt": 1790780172.4000173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6vgy2xljv27o",
+      "provider": "BBC",
+      "title": "Briton Staines' 61-second win earns UFC contract",
+      "status": "pending",
+      "firstSeenAt": 1790780172.400328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmqxvqyy125lo",
+      "provider": "BBC",
+      "title": "Consortium involving ex-Brazil forward Pato seals Northampton takeover",
+      "status": "pending",
+      "firstSeenAt": 1790780172.4003663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/how-europes-housing-crisis-is-fuelling-a-new-movement",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790780172.5931745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790780172.5935302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/republican-trump-immigration-agenda",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790780172.5936801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/sep/30/bbc-removes-article-linking-bare-nails-trend-white-supremacist-standards-beauty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790780172.593702,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
