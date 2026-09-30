@@ -12506,9 +12506,33 @@
       "status": "pending",
       "firstSeenAt": 1790808351.1091106,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq7702p0pkv5o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790808984.5278168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/fake-doctor-scam-targets-mandarin-speaking-community/107214906",
+      "provider": "ABC News Australia",
+      "title": "Fake doctor AI scam targets Mandarin-speaking community",
+      "status": "pending",
+      "firstSeenAt": 1790808985.4740856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/hong-kong-arrests-journalist-and-activist-national-security-law/107214732",
+      "provider": "ABC News Australia",
+      "title": "Hong Kong police arrest journalist over alleged 'seditious' acts",
+      "status": "pending",
+      "firstSeenAt": 1790808985.4741364,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
