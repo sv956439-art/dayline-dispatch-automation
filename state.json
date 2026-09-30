@@ -10682,9 +10682,49 @@
       "status": "pending",
       "firstSeenAt": 1790753729.0972116,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6y4z21xelk4o",
+      "provider": "BBC",
+      "title": "The part-timers who won three Wembley finals in a row",
+      "status": "pending",
+      "firstSeenAt": 1790754602.467173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cw1l60d82zdno",
+      "provider": "BBC",
+      "title": "Tumultuous summer ends in success - what next for Stokes? After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes? 36 mins ago Durham",
+      "status": "pending",
+      "firstSeenAt": 1790754602.5463216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790754603.0031152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/dubai-to-tel-aviv-flight-signals-emergency/107213638",
+      "provider": "ABC News Australia",
+      "title": "Dubai to Tel Aviv flight lands in Saudi Arabia after signalling emergency",
+      "status": "pending",
+      "firstSeenAt": 1790754603.8214228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/luke-gosling-lawyers-call-on-prosecutors-to-drop-assault-charges/107208604",
+      "provider": "ABC News Australia",
+      "title": "MP Luke Gosling's lawyer calls on prosecutors to drop assault charges",
+      "status": "pending",
+      "firstSeenAt": 1790754603.8219626,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
