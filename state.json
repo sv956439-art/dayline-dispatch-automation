@@ -12258,9 +12258,41 @@
       "status": "pending",
       "firstSeenAt": 1790799875.251689,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr4vg4xerqvo",
+      "provider": "BBC",
+      "title": "Airport plan could see an extra 10 flights a night",
+      "status": "pending",
+      "firstSeenAt": 1790800611.0628555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/california-new-york-times-games-engineer",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790800611.810938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790800611.8109617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/temporary-disaster-roaming-for-mobile-coverage-starts-today/107206260",
+      "provider": "ABC News Australia",
+      "title": "Telcos seek to 'rebuild trust' with mobile roaming during disasters",
+      "status": "pending",
+      "firstSeenAt": 1790800612.5124412,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
