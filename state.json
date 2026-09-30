@@ -10898,9 +10898,33 @@
       "status": "pending",
       "firstSeenAt": 1790759695.6387312,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lye50yyn3no",
+      "provider": "BBC",
+      "title": "Manchester Airport reviews parking after complaints",
+      "status": "pending",
+      "firstSeenAt": 1790760691.195527,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790760691.5036557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/qld-youth-detention-workers-in-principle-pay-deal/107214000",
+      "provider": "ABC News Australia",
+      "title": "Youth detention workers reach in-principle pay deal with Qld government",
+      "status": "pending",
+      "firstSeenAt": 1790760691.7339725,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
