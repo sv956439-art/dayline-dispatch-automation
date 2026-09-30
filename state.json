@@ -10330,9 +10330,33 @@
       "status": "pending",
       "firstSeenAt": 1790743004.112022,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790743829.269609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/in-search-of-samba-the-fearless-fugitive-capybara",
+      "provider": "The Guardian",
+      "title": "‘I just saw this furry brown bottom disappear!’ In search of Samba – the fearless fugitive capybara",
+      "status": "pending",
+      "firstSeenAt": 1790743829.270597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/social-media-videos-show-teenagers-watching-beach-fights/107211012",
+      "provider": "ABC News Australia",
+      "title": "Police investigate whether beach brawls were 'organised' on social media",
+      "status": "pending",
+      "firstSeenAt": 1790743829.8909612,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
