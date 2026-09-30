@@ -10818,9 +10818,41 @@
       "status": "pending",
       "firstSeenAt": 1790757384.1282375,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq7832kn4252o",
+      "provider": "BBC",
+      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
+      "status": "pending",
+      "firstSeenAt": 1790758301.5329554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790758301.888956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/olufemi-komolafe-stawell-gift-winner-suspended-drug-test/107213386",
+      "provider": "ABC News Australia",
+      "title": "Stawell Gift winner suspended for 12 months after positive drug test",
+      "status": "pending",
+      "firstSeenAt": 1790758302.352791,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/50-years-since-blue-hills-abc-radio-drama-serial-rural-sa/107211290",
+      "provider": "ABC News Australia",
+      "title": "How a 'piece of rural propaganda' became 'compulsory listening' for Aussies",
+      "status": "pending",
+      "firstSeenAt": 1790758302.3538249,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
