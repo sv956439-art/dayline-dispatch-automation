@@ -10226,9 +10226,25 @@
       "status": "pending",
       "firstSeenAt": 1790739768.9775617,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/hunter-valley-operations-coal-mine-ipc-decision/107022996",
+      "provider": "ABC News Australia",
+      "title": "Planning decision to extend life of mega coal mine saves 1,500 jobs",
+      "status": "pending",
+      "firstSeenAt": 1790740507.6107318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-30/perth-barracks-sell-off-marles-heritage/107211748",
+      "provider": "ABC News Australia",
+      "title": "Minister says Perth barracks sale will not mean bulldozers for heritage sites",
+      "status": "pending",
+      "firstSeenAt": 1790740507.6107643,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
