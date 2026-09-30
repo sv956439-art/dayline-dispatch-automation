@@ -11458,9 +11458,65 @@
       "status": "pending",
       "firstSeenAt": 1790778200.4642131,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw20vxxn876no",
+      "provider": "BBC",
+      "title": "Christa Pike granted stay of execution Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer. 6 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1790779202.3941932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy7zrljp527o",
+      "provider": "BBC",
+      "title": "UK research funded by China front company being sent to Beijing's spies, MI5 warns British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS). 50 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790779202.3942344,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqwyz07g0e5yo",
+      "provider": "BBC",
+      "title": "Windies break their ODI batting record in India run-fest West Indies dominate India's bowlers to pile up their highest ever total in one-day internationals. 52 mins ago Cricket",
+      "status": "pending",
+      "firstSeenAt": 1790779202.455893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790779202.7874782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/30/grooming-gangs-inquiry-wales-birmingham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790779202.7876246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790779202.7877002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/ato-reveals-companies-that-paid-no-tax-as-fights-profit-shifting/107204032",
+      "provider": "ABC News Australia",
+      "title": "More than 1,000 large companies paid no tax in Australia, ATO reveals",
+      "status": "pending",
+      "firstSeenAt": 1790779203.635196,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
