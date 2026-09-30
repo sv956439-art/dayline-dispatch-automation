@@ -11866,9 +11866,33 @@
       "status": "pending",
       "firstSeenAt": 1790787575.4948065,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckj065l6g7eeo",
+      "provider": "BBC",
+      "title": "Theatre closing down due to 'challenging time' The theatre was founded 40 years ago on the edge of Bodmin Moor.",
+      "status": "pending",
+      "firstSeenAt": 1790788363.5374498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqevwr3m4xk1o",
+      "provider": "BBC",
+      "title": "Sooryavanshi, 15, among young stars shaping future",
+      "status": "pending",
+      "firstSeenAt": 1790788363.6178665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqp93d33y144o",
+      "provider": "BBC",
+      "title": "What will new call-ups bring to Northern Ireland?",
+      "status": "pending",
+      "firstSeenAt": 1790788363.6179173,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
