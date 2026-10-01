@@ -15138,9 +15138,33 @@
       "status": "pending",
       "firstSeenAt": 1790898317.7823915,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly7v7kk17mo",
+      "provider": "BBC",
+      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+      "status": "pending",
+      "firstSeenAt": 1790898876.4996943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq84eygz0qo",
+      "provider": "BBC",
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+      "status": "pending",
+      "firstSeenAt": 1790898876.4998667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/taswater-agrees-to-rethink-price-increases-sewerage/107219744",
+      "provider": "ABC News Australia",
+      "title": "TasWater to fix issue that saw some customers given 500pc sewerage bill increase",
+      "status": "pending",
+      "firstSeenAt": 1790898877.604841,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
