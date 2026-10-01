@@ -12730,9 +12730,41 @@
       "status": "pending",
       "firstSeenAt": 1790814273.349658,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n9w0ypjwl9o",
+      "provider": "BBC",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "status": "pending",
+      "firstSeenAt": 1790815612.3970094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/nt-teenager-nazi-white-nationalist-instagram-terror-video-hitler/107204124",
+      "provider": "ABC News Australia",
+      "title": "Teenager faces youth justice court over 'pro-Nazi' Instagram posts",
+      "status": "pending",
+      "firstSeenAt": 1790815613.3737812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/jake-and-callum-robinson-murder-trial-mothers-plea/107211178",
+      "provider": "ABC News Australia",
+      "title": "Mother of men killed on Mexico surf trip asks for timely verdict at murder trial",
+      "status": "pending",
+      "firstSeenAt": 1790815613.3743944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/st-philips-school-blackburn-north-closure/107212370",
+      "provider": "ABC News Australia",
+      "title": "Shock closure of school leaves parents of additional needs kids in a bind",
+      "status": "pending",
+      "firstSeenAt": 1790815613.37444,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
