@@ -13274,9 +13274,33 @@
       "status": "pending",
       "firstSeenAt": 1790834251.7909846,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cje3r3z7g0zzo",
+      "provider": "BBC",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight? Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+      "status": "pending",
+      "firstSeenAt": 1790835160.661407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/01/adhd-uk-two-year-wait-nhs-autism-west-yorkshire-icb-legal-action",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790835161.28872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/nt-cuts-to-essential-bus-service-in-alice-springs/107211124",
+      "provider": "ABC News Australia",
+      "title": "NT remote Indigenous bus service reduces routes after funding cut",
+      "status": "pending",
+      "firstSeenAt": 1790835161.6296172,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
