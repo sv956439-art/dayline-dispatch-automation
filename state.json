@@ -14962,9 +14962,25 @@
       "status": "pending",
       "firstSeenAt": 1790892751.8922896,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790893532.3733985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/school-trees-vegetation-cleared-bushfire-season/107210666",
+      "provider": "ABC News Australia",
+      "title": "Parents outraged as trees chopped down at central Victorian schools",
+      "status": "pending",
+      "firstSeenAt": 1790893532.7833538,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
