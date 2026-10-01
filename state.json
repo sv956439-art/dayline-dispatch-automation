@@ -14714,9 +14714,57 @@
       "status": "pending",
       "firstSeenAt": 1790884349.1097164,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790885764.5226402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/floods-storms-forecast-south-east-australia-after-dry-spetember/107217872",
+      "provider": "ABC News Australia",
+      "title": "South-east faces flooding, storms after second-driest September on record",
+      "status": "pending",
+      "firstSeenAt": 1790885765.4780462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/when-does-daylight-saving-time-start-australia-october-2026/107179624",
+      "provider": "ABC News Australia",
+      "title": "How to prepare for daylight saving time",
+      "status": "pending",
+      "firstSeenAt": 1790885765.4781935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/sarah-sutter-daughter-jazmin-mckay-signs-thunderbirds/107183284",
+      "provider": "ABC News Australia",
+      "title": "Sarah Sutter was an inaugural Thunderbird, now her daughter is making history",
+      "status": "pending",
+      "firstSeenAt": 1790885765.4787703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/australian-citrus-growers-push-for-widened-export-access-to-us/107089330",
+      "provider": "ABC News Australia",
+      "title": "Australian citrus growers miss out on millions without US export markets",
+      "status": "pending",
+      "firstSeenAt": 1790885765.4788096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/ip-australia-says-png-chiefs-name-risks-brand-confusion/107213026",
+      "provider": "ABC News Australia",
+      "title": "PNG's NRL franchise faces trademark fight over Chiefs name",
+      "status": "pending",
+      "firstSeenAt": 1790885765.478862,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
