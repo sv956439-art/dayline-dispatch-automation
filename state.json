@@ -12954,9 +12954,25 @@
       "status": "pending",
       "firstSeenAt": 1790823658.3930464,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/australian-short-course-record-jenna-forrester/107216014",
+      "provider": "ABC News Australia",
+      "title": "Forrester breaks 17yo record at short course titles",
+      "status": "pending",
+      "firstSeenAt": 1790824644.3993077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/humpback-whale-carcass-at-city-beach-heading-to-landfill/107215324",
+      "provider": "ABC News Australia",
+      "title": "Dead whale finally being removed from Perth beach, four days after washing up",
+      "status": "pending",
+      "firstSeenAt": 1790824644.3993554,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
