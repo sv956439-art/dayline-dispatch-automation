@@ -14418,9 +14418,57 @@
       "status": "pending",
       "firstSeenAt": 1790876565.9242513,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm7505q2v2pqo",
+      "provider": "BBC",
+      "title": "Carney hopes an oil pipeline can help Canada fight a trade war A west coast pipeline project is the first to be fast-tracked and will be a major test of Carney's promise to global investors.",
+      "status": "pending",
+      "firstSeenAt": 1790877336.2714713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3v4vn3ydw1o",
+      "provider": "BBC",
+      "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+      "status": "pending",
+      "firstSeenAt": 1790877336.2720916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790877336.5579307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790877336.5580556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/01/conrad-cronos-lant-heavy-metal-venom-dies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790877336.5583885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/01/marie-france-van-heel-very-different-type-prime-minister-wife",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790877336.5584126,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
