@@ -14818,9 +14818,65 @@
       "status": "pending",
       "firstSeenAt": 1790888918.997406,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw8r6r0pdkyzo",
+      "provider": "BBC",
+      "title": "Real Madrid keen on Quansah - Friday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1790889831.0207279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c82070lr6xrro",
+      "provider": "BBC",
+      "title": "Messi completes purchase of second Spanish club",
+      "status": "pending",
+      "firstSeenAt": 1790889831.0210295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/federal-politics-live-blog-october-2/107219460",
+      "provider": "ABC News Australia",
+      "title": "Gaming giants told to 'lift their game' on child safety",
+      "status": "pending",
+      "firstSeenAt": 1790889831.5342205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/nannup-four-volunteers-search-for-answers/107216808",
+      "provider": "ABC News Australia",
+      "title": "Volunteers unite to help strangers and find Nannup Four",
+      "status": "pending",
+      "firstSeenAt": 1790889831.5351799,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/icc-men-2027-cricket-world-cup-draw/107219432",
+      "provider": "ABC News Australia",
+      "title": "Australia and India to kick off next year's Cricket World Cup",
+      "status": "pending",
+      "firstSeenAt": 1790889831.5352268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/st-marys-pass-upgrade-could-cost-three-billion/107210426",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's notorious St Marys Pass upgrade could cost almost $3b",
+      "status": "pending",
+      "firstSeenAt": 1790889831.5352721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/nsw-western-sydney-homebuyers-hit-by-interest-rate-increase-/107217008",
+      "provider": "ABC News Australia",
+      "title": "Western Sydney home owners 'battening down the hatches'",
+      "status": "pending",
+      "firstSeenAt": 1790889831.535358,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
