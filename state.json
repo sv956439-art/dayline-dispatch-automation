@@ -13986,9 +13986,25 @@
       "status": "pending",
       "firstSeenAt": 1790861683.9269273,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d949ydnw3po",
+      "provider": "BBC",
+      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m).",
+      "status": "pending",
+      "firstSeenAt": 1790862678.5908797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/ice-watch-maine-tactics",
+      "provider": "The Guardian",
+      "title": "ICE got ‘quieter’ – then killed a father in Maine. Now watch groups are shifting their tactics too",
+      "status": "pending",
+      "firstSeenAt": 1790862678.951384,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
