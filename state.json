@@ -14874,9 +14874,33 @@
       "status": "pending",
       "firstSeenAt": 1790889831.535358,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvrl6l0klw1go",
+      "provider": "BBC",
+      "title": "Bill Nighy wins best host at British Podcast Awards The actor has become an agony uncle in what award organisers called an \"irresistibly endearing series\".",
+      "status": "pending",
+      "firstSeenAt": 1790890648.5689378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/asx-markets-business-news-live-updates/107136842",
+      "provider": "ABC News Australia",
+      "title": "ASX to rise as US bond yields recede",
+      "status": "pending",
+      "firstSeenAt": 1790890649.67313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/big-banana-coffs-bypass-business-preparation/107184180",
+      "provider": "ABC News Australia",
+      "title": "Brisbane to Melbourne with no traffic lights, and no Big Banana",
+      "status": "pending",
+      "firstSeenAt": 1790890649.6744647,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
