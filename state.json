@@ -13778,9 +13778,33 @@
       "status": "pending",
       "firstSeenAt": 1790853405.4043334,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vgygpqky9zo",
+      "provider": "BBC",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "status": "pending",
+      "firstSeenAt": 1790854336.8908155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cv1j4jn5nxxlo",
+      "provider": "BBC",
+      "title": "Russell says his 'confidence is back and growing'",
+      "status": "pending",
+      "firstSeenAt": 1790854336.8911881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60m3m8k31ylo",
+      "provider": "BBC",
+      "title": "Modest boost for hotels during All Ireland Fleadh in Belfast",
+      "status": "pending",
+      "firstSeenAt": 1790854336.9435542,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
