@@ -12682,9 +12682,57 @@
       "status": "pending",
       "firstSeenAt": 1790812868.4844081,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790814272.7001543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr89j4g7v05wo",
+      "provider": "BBC",
+      "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say The issue is one of several raised by an influential committee as debate about the BBC's future continues.",
+      "status": "pending",
+      "firstSeenAt": 1790814272.7014103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckqxvnpy7e49o",
+      "provider": "BBC",
+      "title": "Celebrity Traitors is back - here's what you need to know ahead of the first show",
+      "status": "pending",
+      "firstSeenAt": 1790814272.7014368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790814273.0973878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/endangered-northern-quoll-phd-research-native-species-litchfield/107211342",
+      "provider": "ABC News Australia",
+      "title": "30 wildlife cameras fail to spot 'quite cute' native after year of filming",
+      "status": "pending",
+      "firstSeenAt": 1790814273.3496113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/moonyoonooka-geraldton-shooting-charges-laid/107211356",
+      "provider": "ABC News Australia",
+      "title": "Charges laid over shooting near Geraldton",
+      "status": "pending",
+      "firstSeenAt": 1790814273.349658,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
