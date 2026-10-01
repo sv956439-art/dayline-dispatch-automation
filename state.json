@@ -13098,9 +13098,25 @@
       "status": "pending",
       "firstSeenAt": 1790828114.869563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/victoria-doctors-allied-health-professionals-strike/107216718",
+      "provider": "ABC News Australia",
+      "title": "Victorian doctors and allied health professionals strike amid ongoing pay disputes",
+      "status": "pending",
+      "firstSeenAt": 1790829140.178124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/tasmanian-teacher-support-team-cuts-despite-jo-palmer-denial/107216392",
+      "provider": "ABC News Australia",
+      "title": "Teacher support team faces job cuts a week after minister's denial",
+      "status": "pending",
+      "firstSeenAt": 1790829140.1781735,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
