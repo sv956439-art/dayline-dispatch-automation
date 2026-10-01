@@ -14562,9 +14562,65 @@
       "status": "pending",
       "firstSeenAt": 1790881159.1819596,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cp3rxlyz6w3o",
+      "provider": "BBC",
+      "title": "Why are hundreds of UK prisoners being released early? More people going to prison, and for longer, is why governments including the current one have had to release prisoners early. 9 hrs ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1790881981.808389,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790881982.0934107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/israelis-recognised-with-heroism-for-averting-flydubai-crash/107218792",
+      "provider": "ABC News Australia",
+      "title": "Israelis recognised for landing plane with 'close to zero' survival chance",
+      "status": "pending",
+      "firstSeenAt": 1790881982.4277337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/anthony-albanese-climate-change-ai-interest-rates/107217568",
+      "provider": "ABC News Australia",
+      "title": "Albanese jets off to talk climate, but interest rate pain is never far away",
+      "status": "pending",
+      "firstSeenAt": 1790881982.4279659,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/former-minister-de-anne-kelly-co-founded-offshore-casino/107197106",
+      "provider": "ABC News Australia",
+      "title": "Howard-era minister voted to outlaw offshore casinos, then co-founded one",
+      "status": "pending",
+      "firstSeenAt": 1790881982.4290829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/france-protests-school-fires/107219364",
+      "provider": "ABC News Australia",
+      "title": "School protests spread in France as fires break out and teachers injured",
+      "status": "pending",
+      "firstSeenAt": 1790881982.4291277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/tasmania-family-violence-numbers-remain-prevalent/107218122",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's alarming family violence numbers keep going up",
+      "status": "pending",
+      "firstSeenAt": 1790881982.4291751,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
