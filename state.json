@@ -15114,9 +15114,17 @@
       "status": "pending",
       "firstSeenAt": 1790896864.7051141,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/pinjarra-heavy-haulage-bypass/107197274",
+      "provider": "ABC News Australia",
+      "title": "Calls growing to fix country town's 800-truck-a-day problem",
+      "status": "pending",
+      "firstSeenAt": 1790897574.954269,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
