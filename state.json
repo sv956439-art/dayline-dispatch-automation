@@ -15050,9 +15050,73 @@
       "status": "pending",
       "firstSeenAt": 1790895499.7385142,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68xk0ndqz8jo",
+      "provider": "BBC",
+      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+      "status": "pending",
+      "firstSeenAt": 1790896864.394835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckrerylrlg9vo",
+      "provider": "BBC",
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "status": "pending",
+      "firstSeenAt": 1790896864.394862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwddvdq3pzego",
+      "provider": "BBC",
+      "title": "Real submit 'substantial' dossier in Barca payments case",
+      "status": "pending",
+      "firstSeenAt": 1790896864.4816837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cm4glg56v9e7o",
+      "provider": "BBC",
+      "title": "Humphries races into World Grand Prix last eight",
+      "status": "pending",
+      "firstSeenAt": 1790896864.4820416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/c5y4z42nwjn4o",
+      "provider": "BBC",
+      "title": "Trump beats Si to set up Selby tie at Shenzhen Open",
+      "status": "pending",
+      "firstSeenAt": 1790896864.482307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/02/enter-shikari-announce-indefinite-hiatus-from-2027",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790896864.704562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/02/falling-glass-and-decapitated-plants-the-race-to-protect-edinburgh-botanic-gardens-plants",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790896864.7045836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/01/cornell-rape-case",
+      "provider": "The Guardian",
+      "title": "double quotation mark The horror of the Cornell rape case is how ordinary it is",
+      "status": "pending",
+      "firstSeenAt": 1790896864.7051141,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
