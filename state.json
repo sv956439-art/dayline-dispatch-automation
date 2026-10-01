@@ -14666,9 +14666,57 @@
       "status": "pending",
       "firstSeenAt": 1790883697.6530704,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvwyzykel653o",
+      "provider": "BBC",
+      "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
+      "status": "pending",
+      "firstSeenAt": 1790884348.1763225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
+      "provider": "The Guardian",
+      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
+      "status": "pending",
+      "firstSeenAt": 1790884348.6811213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/police-investigate-mark-dennis-charity-links/107000434",
+      "provider": "ABC News Australia",
+      "title": "Police investigating accused paedophile's links to celebrated charity",
+      "status": "pending",
+      "firstSeenAt": 1790884349.1091084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/businesses-finding-ways-to-recoup-now-banned-surcharge-fees/107197884",
+      "provider": "ABC News Australia",
+      "title": "Retailers predict price rises under RBA's surcharge reforms kicking off today",
+      "status": "pending",
+      "firstSeenAt": 1790884349.1091392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/royal-childrens-hospital-chemical-glove-exposure-investigation/107217202",
+      "provider": "ABC News Australia",
+      "title": "Major hospital investigating chemical exposure risk after glove bungle",
+      "status": "pending",
+      "firstSeenAt": 1790884349.1092386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/putin-kaliningrad-threat-nuclear-weapons/107219366",
+      "provider": "ABC News Australia",
+      "title": "Putin warns West Russia will use 'all weapons' if Kaliningrad threatened",
+      "status": "pending",
+      "firstSeenAt": 1790884349.1097164,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
