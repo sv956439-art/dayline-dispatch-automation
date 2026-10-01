@@ -14002,9 +14002,17 @@
       "status": "pending",
       "firstSeenAt": 1790862678.951384,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq33k36yp01no",
+      "provider": "BBC",
+      "title": "'He's taught us courage': Friend on Indian pilot hailed as a hero",
+      "status": "pending",
+      "firstSeenAt": 1790863341.0545118,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
