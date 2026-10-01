@@ -13826,9 +13826,33 @@
       "status": "pending",
       "firstSeenAt": 1790855278.1777318,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c90klkz8j06vo",
+      "provider": "BBC",
+      "title": "Naomi Campbell wins appeal over charity ban A tribunal rules that the model was unaware of misconduct at her charity Fashion for Relief.",
+      "status": "pending",
+      "firstSeenAt": 1790855966.8354852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw07l7pk2gp4o",
+      "provider": "BBC",
+      "title": "Why penalty for Williamson handball was correct call Arsenal defender Leah Williamson was at the heart of a bizarre incident in their Women's Champions League draw with Paris FC. 28 mins ago Arsenal",
+      "status": "pending",
+      "firstSeenAt": 1790855966.947656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/01/ivan-toney-pleads-not-guilty-to-soho-nightclub-assault",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790855967.7737207,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
