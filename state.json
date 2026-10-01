@@ -13746,9 +13746,25 @@
       "status": "pending",
       "firstSeenAt": 1790851852.0285406,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/louisiana-preschooler-abuse-hospital-chart",
+      "provider": "The Guardian",
+      "title": "A Louisiana preschooler was allegedly abused at school. Then a hospital counselor discussed her chart with her principal",
+      "status": "pending",
+      "firstSeenAt": 1790852476.4653618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
+      "provider": "The Guardian",
+      "title": "double quotation mark Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month",
+      "status": "pending",
+      "firstSeenAt": 1790852476.4654703,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
