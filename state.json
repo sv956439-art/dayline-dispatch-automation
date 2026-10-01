@@ -13938,9 +13938,25 @@
       "status": "pending",
       "firstSeenAt": 1790858461.2023826,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgvmgx54r6o",
+      "provider": "BBC",
+      "title": "2 hrs ago 'We were without internet for weeks' Frensham residents say they found it \"very scary\" after their broadband suddenly stopped working. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790859540.6218238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/netanyahu-claims-flydubai-co-pilot-indoctrinated/107218136",
+      "provider": "ABC News Australia",
+      "title": "Netanyahu claims flydubai pilot underwent 'radical indoctrination'",
+      "status": "pending",
+      "firstSeenAt": 1790859541.785737,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
