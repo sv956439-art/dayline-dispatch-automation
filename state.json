@@ -13354,9 +13354,41 @@
       "status": "pending",
       "firstSeenAt": 1790837696.9205055,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3dx010wg4lko",
+      "provider": "BBC",
+      "title": "Poll scopes interest in inter-island car ferry",
+      "status": "pending",
+      "firstSeenAt": 1790838373.2575104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69w4zegk98lo",
+      "provider": "BBC",
+      "title": "Care leaver finds dream job after jungle trek",
+      "status": "pending",
+      "firstSeenAt": 1790838373.2575414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790838373.4262776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/nsw-illegal-ebikes-seized-and-destroyed-northern-beaches/107216370",
+      "provider": "ABC News Australia",
+      "title": "'Where illegal e-bikes go to die': Compliance crackdown ramps up",
+      "status": "pending",
+      "firstSeenAt": 1790838373.895277,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
