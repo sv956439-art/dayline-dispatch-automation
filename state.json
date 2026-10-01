@@ -14650,9 +14650,25 @@
       "status": "pending",
       "firstSeenAt": 1790882930.6248446,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5zjzjgdeneeo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790883697.6524632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck24j46424veo",
+      "provider": "BBC",
+      "title": "Thames Water apologises after £145,000 customer billing mistake The firm has apologised to the family.",
+      "status": "pending",
+      "firstSeenAt": 1790883697.6530704,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
