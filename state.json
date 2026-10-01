@@ -12866,9 +12866,41 @@
       "status": "pending",
       "firstSeenAt": 1790820577.2347229,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260708-how-women-shape-the-plot-of-homers-odyssey",
+      "provider": "BBC",
+      "title": "9 Jul 2026 'Sex, strategy and power': How women shape the plot of Homer's Odyssey The protagonist of the epic poem is a heroic male – but the story is shaped by the stratagems and seductions of the women, nymphs and goddesses he meets along the way. 9 Jul 2026",
+      "status": "pending",
+      "firstSeenAt": 1790821477.6526327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/manchester-city-face-possible-fines-epl-expulsion/107215854",
+      "provider": "ABC News Australia",
+      "title": "Man City could face fines, EPL expulsion, over financial rules scandal",
+      "status": "pending",
+      "firstSeenAt": 1790821478.3041105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/when-are-tax-returns-due-why-is-my-refund-so-low-/106845470",
+      "provider": "ABC News Australia",
+      "title": "Putting off your tax return? You have a month to file",
+      "status": "pending",
+      "firstSeenAt": 1790821478.304231,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/kimberley-businesses-working-holiday-visas-backpackers/107210764",
+      "provider": "ABC News Australia",
+      "title": "Businesses fear visa changes to backpacker visas will make staffing harder",
+      "status": "pending",
+      "firstSeenAt": 1790821478.3042593,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
