@@ -12762,9 +12762,33 @@
       "status": "pending",
       "firstSeenAt": 1790815613.37444,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64gvnv4eqylo",
+      "provider": "BBC",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped Some 1,500 people have been removed to France since the scheme began just over a year ago. 8 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1790816521.0544045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790816521.3570006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/ohio-woman-sues-hospital-amputating-wrong-leg",
+      "provider": "The Guardian",
+      "title": "Ohio woman sues hospital for allegedly amputating wrong leg during surgery",
+      "status": "pending",
+      "firstSeenAt": 1790816521.358045,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
