@@ -14618,9 +14618,41 @@
       "status": "pending",
       "firstSeenAt": 1790881982.4291751,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c65y7y21n051o",
+      "provider": "BBC",
+      "title": "Unheralded Stewart stars at Alfred Dunhill Links",
+      "status": "pending",
+      "firstSeenAt": 1790882929.9045308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c6n4kenn7mjvo",
+      "provider": "BBC",
+      "title": "Will 2026 finally be Warrington Wolves' year?",
+      "status": "pending",
+      "firstSeenAt": 1790882929.9048805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/02/margot-robbie-changing-her-name-to-her-husbands-hurts-my-beautiful-lesbian-brain",
+      "provider": "The Guardian",
+      "title": "double quotation mark Margot Robbie changing her name to her husband’s hurts my beautiful lesbian brain. Here’s why",
+      "status": "pending",
+      "firstSeenAt": 1790882930.269115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/christa-pike-colleen-slemmer-survives-execution-attempt/107211372",
+      "provider": "ABC News Australia",
+      "title": "Teenage killer survives execution attempt after 30 years on death row",
+      "status": "pending",
+      "firstSeenAt": 1790882930.6248446,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
