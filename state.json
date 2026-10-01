@@ -12826,9 +12826,25 @@
       "status": "pending",
       "firstSeenAt": 1790817562.726909,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/tissue-mill-millicent-job-cuts-toilet-paper-manufacturing/107215418",
+      "provider": "ABC News Australia",
+      "title": "Job cut fears at one of Australia's largest toilet roll manufacturers",
+      "status": "pending",
+      "firstSeenAt": 1790818411.2108543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/three-experts-appointed-to-lead-sa-s-royal-commission-into-ai/107215456",
+      "provider": "ABC News Australia",
+      "title": "Three experts appointed to lead SA's Royal Commission into AI",
+      "status": "pending",
+      "firstSeenAt": 1790818411.210888,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
