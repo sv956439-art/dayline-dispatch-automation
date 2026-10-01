@@ -13674,9 +13674,41 @@
       "status": "pending",
       "firstSeenAt": 1790848959.7966182,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqj9x9vgv3rro",
+      "provider": "BBC",
+      "title": "England call up Crane and rest Archer for Pakistan series",
+      "status": "pending",
+      "firstSeenAt": 1790850067.9273884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260924-ethan-hawke-interview-close-up",
+      "provider": "BBC",
+      "title": "'It changed my life': Ethan Hawke on his role in tense 2001 drama Tape The Hollywood star played a drug dealer in this dark, claustrophobic thriller. For the BBC's Close Up Film series, he reflects on the part that means the most to him in his career.",
+      "status": "pending",
+      "firstSeenAt": 1790850067.9275622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/01/jurgen-klopp-germany-team-not-white-enough-disgusted-claims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790850068.2719238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/trump-us-election-threats",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790850068.2724817,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
