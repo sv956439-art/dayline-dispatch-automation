@@ -13970,9 +13970,25 @@
       "status": "pending",
       "firstSeenAt": 1790860523.1213384,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65ymy2xyd5ko",
+      "provider": "BBC",
+      "title": "2 hrs ago Former Traitors star calls it 'the hardest game' Joe Scott, from Southampton, reflects on his time in the castle during series three. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790861683.4752636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790861683.9269273,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
