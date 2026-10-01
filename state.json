@@ -13298,9 +13298,57 @@
       "status": "pending",
       "firstSeenAt": 1790835161.6296172,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4gvg0yenl4o",
+      "provider": "BBC",
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "status": "pending",
+      "firstSeenAt": 1790836534.7982657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4grg92lmr5o",
+      "provider": "BBC",
+      "title": "Pakistan launches deadly air strikes on Afghanistan",
+      "status": "pending",
+      "firstSeenAt": 1790836534.7982912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq7702n27ynxo",
+      "provider": "BBC",
+      "title": "Jaissle learned a lot about life after tumour aged five",
+      "status": "pending",
+      "firstSeenAt": 1790836534.7987406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/hitler-lazy-criminal-slept-until-noon-rise-nazis-wrong",
+      "provider": "The Guardian",
+      "title": "‘Hitler was a lazy criminal who slept in until noon’: why most of what we think we know about the rise of the Nazis is wrong",
+      "status": "pending",
+      "firstSeenAt": 1790836535.333193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/stabbed-pilot-smit-machcha-explainer/107215986",
+      "provider": "ABC News Australia",
+      "title": "Pilot's prophetic words one year before stabbing",
+      "status": "pending",
+      "firstSeenAt": 1790836535.8040822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/root-rot-fungus-detected-australia/107216090",
+      "provider": "ABC News Australia",
+      "title": "Australia records first detections of 'devastating' plant disease",
+      "status": "pending",
+      "firstSeenAt": 1790836535.8051896,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
