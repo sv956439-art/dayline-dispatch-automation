@@ -13954,9 +13954,25 @@
       "status": "pending",
       "firstSeenAt": 1790859541.785737,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/01/travelodge-report-guests-still-at-risk-room-intrusions-sexual-assault",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790860522.8846135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/isaac-heeney-wins-sydney-swans-best-and-fairest/107218662",
+      "provider": "ABC News Australia",
+      "title": "Heeney wins Sydney Swans best and fairest award amid club suspension",
+      "status": "pending",
+      "firstSeenAt": 1790860523.1213384,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
