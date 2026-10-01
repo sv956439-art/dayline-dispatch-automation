@@ -14306,9 +14306,57 @@
       "status": "pending",
       "firstSeenAt": 1790872364.8100173,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68jdjw7mydeo",
+      "provider": "BBC",
+      "title": "Judge permanently ends case against Olympian accused of Reflecting Pool vandalism Judge said Trump might target champion canoeist because he was politically active and donated to Democrats.",
+      "status": "pending",
+      "firstSeenAt": 1790873214.7632625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly7y5gvxlmo",
+      "provider": "BBC",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "status": "pending",
+      "firstSeenAt": 1790873214.7632923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+      "provider": "BBC",
+      "title": "Fires break out at French schools as students protest nationwide The French government holds a crisis meeting as demonstrations grow and become violent in places.",
+      "status": "pending",
+      "firstSeenAt": 1790873214.7633796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmge4exg44v5o",
+      "provider": "BBC",
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "status": "pending",
+      "firstSeenAt": 1790873214.7634027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqlylygyl3pro",
+      "provider": "BBC",
+      "title": "England avoid Australia & India in World Cup draw",
+      "status": "pending",
+      "firstSeenAt": 1790873214.763923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1j4j9lxp49o",
+      "provider": "BBC",
+      "title": "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
+      "status": "pending",
+      "firstSeenAt": 1790873214.843498,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
