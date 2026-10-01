@@ -13386,9 +13386,49 @@
       "status": "pending",
       "firstSeenAt": 1790838373.895277,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wjwxg3e74o",
+      "provider": "BBC",
+      "title": "Tributes paid to 'inspirational' presenter and charity founder Esther Rantzen Dame Esther Rantzen was \"an inspirational individual\", the director of her Childline helpline says.",
+      "status": "pending",
+      "firstSeenAt": 1790839517.8866038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790839518.1264317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/interest-rate-rise-inflation-albanese-free-advice-minns/107207464",
+      "provider": "ABC News Australia",
+      "title": "The last thing Albanese needed was free advice from his own side",
+      "status": "pending",
+      "firstSeenAt": 1790839518.5280468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/hobart-cbd-safety-liaison-officers-youth-crime/107215528",
+      "provider": "ABC News Australia",
+      "title": "Safety team hits Hobart CBD amid reports of youths 'causing havoc'",
+      "status": "pending",
+      "firstSeenAt": 1790839518.5291786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/wild-horses-kosciuszko-national-park-carmen-jackson/107210684",
+      "provider": "ABC News Australia",
+      "title": "Brumby advocate challenges legality of wild horse removal in NSW alps",
+      "status": "pending",
+      "firstSeenAt": 1790839518.5292456,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
