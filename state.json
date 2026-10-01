@@ -13426,9 +13426,41 @@
       "status": "pending",
       "firstSeenAt": 1790839518.5292456,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/cx5yly6p2nyvo",
+      "provider": "BBC",
+      "title": "Jordan 'Last Dance' jersey sells for £9m A Michael Jordan jersey from his 'Last Dance' season sells for $12.3m, a record for a piece of Jordan memorabilia. 31 mins ago Basketball",
+      "status": "pending",
+      "firstSeenAt": 1790840398.6006267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr1e5ep101wdo",
+      "provider": "BBC",
+      "title": "Impossible for England to find another Kane - Tuchel England boss Thomas Tuchel says it will be impossible to find \"another Harry Kane\" as his free-scoring captain continues to break new ground. 12 hrs ago England Men",
+      "status": "pending",
+      "firstSeenAt": 1790840398.600974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/01/this-is-where-ebikes-go-to-die-first-ebikes-seized-under-new-laws-crushed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790840399.0710928,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/documentary-follows-kenyans-fight-for-restitution-over-stolen-land",
+      "provider": "The Guardian",
+      "title": "‘They raped our country’: documentary follows Kenyans’ fight for restitution over stolen land",
+      "status": "pending",
+      "firstSeenAt": 1790840399.0720668,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
