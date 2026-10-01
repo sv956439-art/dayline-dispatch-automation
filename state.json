@@ -15034,9 +15034,25 @@
       "status": "pending",
       "firstSeenAt": 1790894974.6012993,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62kp9nn487o",
+      "provider": "BBC",
+      "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week The annual event is marking its 17th year and draws visitors from all over the world. 18 hrs ago NE, Orkney & Shetland",
+      "status": "pending",
+      "firstSeenAt": 1790895498.0162663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/australian-short-course-championships-pallister/107219650",
+      "provider": "ABC News Australia",
+      "title": "Pallister and Short continue winning form at short course title",
+      "status": "pending",
+      "firstSeenAt": 1790895499.7385142,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
