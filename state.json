@@ -14466,9 +14466,25 @@
       "status": "pending",
       "firstSeenAt": 1790877336.5584126,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/uk-iranian-man-arrested-over-raf-fairford/107219280",
+      "provider": "ABC News Australia",
+      "title": "UK-Iranian national arrested over alleged terror incident at British air base",
+      "status": "pending",
+      "firstSeenAt": 1790878054.2891548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/becca-renee-good-ice-lawsuit/107219312",
+      "provider": "ABC News Australia",
+      "title": "Renee Good's family sues Trump administration over fatal Minneapolis shooting",
+      "status": "pending",
+      "firstSeenAt": 1790878054.2892737,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
