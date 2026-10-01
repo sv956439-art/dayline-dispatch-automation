@@ -14354,9 +14354,25 @@
       "status": "pending",
       "firstSeenAt": 1790873214.843498,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+      "provider": "BBC",
+      "title": "Scottish Sikh activist freed on bail after nine years in Indian prison The Sikh activist from Dumbarton was arrested in 2017 in connection with alleged terror offences. 31 mins ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1790873911.9099462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790873912.3265498,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
