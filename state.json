@@ -12994,9 +12994,33 @@
       "status": "pending",
       "firstSeenAt": 1790825639.1696405,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790826565.3136015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/ptsd-death-highlights-appreciable-gap-in-support-for-police/107216110",
+      "provider": "ABC News Australia",
+      "title": "PTSD death highlights 'appreciable gap' in support for police",
+      "status": "pending",
+      "firstSeenAt": 1790826565.760552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/daniel-andrew-grey-foster-carer-charges/107192122",
+      "provider": "ABC News Australia",
+      "title": "Once-celebrated foster carers charged with child sexual abuse offences",
+      "status": "pending",
+      "firstSeenAt": 1790826565.7606037,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
