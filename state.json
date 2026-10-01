@@ -13178,9 +13178,41 @@
       "status": "pending",
       "firstSeenAt": 1790831669.9531417,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn5d52d3lk5o",
+      "provider": "BBC",
+      "title": "K-pop star convicted of violating military service law The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
+      "status": "pending",
+      "firstSeenAt": 1790832585.0575962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw07l44l1dg8o",
+      "provider": "BBC",
+      "title": "Brit Awards boosted Manchester economy by £5m, study finds Greater Manchester mayor Bev Craig said the awards' move north for the first time was a \"massive moment\".",
+      "status": "pending",
+      "firstSeenAt": 1790832585.0582101,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790832585.4099417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/federal-court-rules-on-challenge-to-government-golf-course-plan/107216840",
+      "provider": "ABC News Australia",
+      "title": "Federal Court rules against challenge to SA government's golf course plans",
+      "status": "pending",
+      "firstSeenAt": 1790832585.8233514,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
