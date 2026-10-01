@@ -13658,9 +13658,25 @@
       "status": "pending",
       "firstSeenAt": 1790848317.27848,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cwe8e81n3egeo",
+      "provider": "BBC",
+      "title": "'I kept fighting right to the end' - emotional Nishikori retires",
+      "status": "pending",
+      "firstSeenAt": 1790848959.796534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3kg80vp00z4o",
+      "provider": "BBC",
+      "title": "Why one Irish team is set to face Salah's Trabzonspor",
+      "status": "pending",
+      "firstSeenAt": 1790848959.7966182,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
