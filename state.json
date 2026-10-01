@@ -13346,9 +13346,17 @@
       "status": "pending",
       "firstSeenAt": 1790836535.8051896,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/humpty-doo-childcare-centre-guilty-pleas-inadequate-supervision/107215720",
+      "provider": "ABC News Australia",
+      "title": "Darwin childcare centre guilty of supervision breach before child's death",
+      "status": "pending",
+      "firstSeenAt": 1790837696.9205055,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
