@@ -13042,9 +13042,65 @@
       "status": "pending",
       "firstSeenAt": 1790827212.0615263,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790828114.2867122,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790828114.2867377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790828114.286846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790828114.2868674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2022/dec/28/lethal-injection-surviving-execution-attempt-alabama",
+      "provider": "The Guardian",
+      "title": "What is it like to survive an execution by lethal injection?",
+      "status": "pending",
+      "firstSeenAt": 1790828114.287573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/chris-fagan-leaves-brisbane-lions/107216896",
+      "provider": "ABC News Australia",
+      "title": "Chris Fagan steps down from Brisbane Lions",
+      "status": "pending",
+      "firstSeenAt": 1790828114.8695314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/jana-armstrong-court-dharminder-singh-murder-domestic-violence/107211832",
+      "provider": "ABC News Australia",
+      "title": "Defence lawyer 'puzzled' by DV charge in Jana Armstrong case",
+      "status": "pending",
+      "firstSeenAt": 1790828114.869563,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
