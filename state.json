@@ -14266,9 +14266,49 @@
       "status": "pending",
       "firstSeenAt": 1790870508.6785812,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+      "provider": "BBC",
+      "title": "Trump says 'some' munitions are low as Iran war grinds on He also said in an interview with Time magazine that it was possible the US could ramp up strikes on Iran after November's elections.",
+      "status": "pending",
+      "firstSeenAt": 1790872364.4818952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/oct/01/fashion-john-galliano-zara-collection-launches-after-met-controversy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790872364.8093953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790872364.8095307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/renee-good-family-lawsuit-ice",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790872364.8095539,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-what-we-know-so-far",
+      "provider": "The Guardian",
+      "title": "Christa Pike: what we know so far about Tennessee woman’s failed execution",
+      "status": "pending",
+      "firstSeenAt": 1790872364.8100173,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
