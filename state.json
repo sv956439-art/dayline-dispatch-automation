@@ -14906,9 +14906,65 @@
       "status": "pending",
       "firstSeenAt": 1790891460.8451664,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/newcastle-knights-grand-final-sydney-roosters/107218670",
+      "provider": "ABC News Australia",
+      "title": "A town, a team and a dream come together as Newcastle rises as one",
+      "status": "pending",
+      "firstSeenAt": 1790892751.8901734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/lindsay-clancy-defence-not-guilty-evidence-denied-by-judge/107219536",
+      "provider": "ABC News Australia",
+      "title": "Judge denies Lindsay Clancy defence motion to find her not guilty",
+      "status": "pending",
+      "firstSeenAt": 1790892751.8902273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/tasmania-bushfire-preparedness-and-risk-geoneon-map/107212190",
+      "provider": "ABC News Australia",
+      "title": "Statewide map shows where Tasmania's buildings face bushfire exposure",
+      "status": "pending",
+      "firstSeenAt": 1790892751.890276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/teenage-boy-dead-four-injured-car-crash-tasmania-north-west/107219564",
+      "provider": "ABC News Australia",
+      "title": "Alleged 15yo driver killed, four others injured in Tasmanian crash",
+      "status": "pending",
+      "firstSeenAt": 1790892751.890327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/preston-market-redevelopment-plan-open-for-consultation/107219420",
+      "provider": "ABC News Australia",
+      "title": "Preston Market redevelopment plan would retain 81pc of market footprint",
+      "status": "pending",
+      "firstSeenAt": 1790892751.8903775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/2026-australian-insect-of-the-year-vote/107098520",
+      "provider": "ABC News Australia",
+      "title": "Who wins your vote for the 2026 ABC Australian Insect of the Year?",
+      "status": "pending",
+      "firstSeenAt": 1790892751.8904223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/carlton-defeats-hawthorn-by-12-points-in-aflw/107219504",
+      "provider": "ABC News Australia",
+      "title": "Carlton continues push for AFLW top four in win over Hawks",
+      "status": "pending",
+      "firstSeenAt": 1790892751.8922896,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
