@@ -14978,9 +14978,49 @@
       "status": "pending",
       "firstSeenAt": 1790893532.7833538,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp303x109x4o",
+      "provider": "BBC",
+      "title": "Travelodge working hard on room security, says CEO",
+      "status": "pending",
+      "firstSeenAt": 1790894270.3615565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/washington-dc-landlords-dog-breed-restrictions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790894270.925554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790894270.925576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/don-farrell-pitches-lamb-investment-to-avoid-tariffs/107219472",
+      "provider": "ABC News Australia",
+      "title": "Trade minister proposes super investment in US lamb to dodge tariffs",
+      "status": "pending",
+      "firstSeenAt": 1790894271.5497665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/young-politicians-visit-queensland-parliament/107215898",
+      "provider": "ABC News Australia",
+      "title": "'Information-rich' generation talks politics on parliament benches and online",
+      "status": "pending",
+      "firstSeenAt": 1790894271.550435,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
