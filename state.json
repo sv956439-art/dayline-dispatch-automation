@@ -13546,9 +13546,33 @@
       "status": "pending",
       "firstSeenAt": 1790842914.7647667,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/01/politics-can-be-brutal-sarah-hanson-young-speaks-out-about-divisions-within-greens",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790843941.3880725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790843941.3885655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/30/vincent-van-gogh-paul-cezanne-claude-monet-blaquier-arrieta-collection-display-sothebys-sale",
+      "provider": "The Guardian",
+      "title": "Van Gogh goes on display before sale of ‘almost mythical’ private collection",
+      "status": "pending",
+      "firstSeenAt": 1790843941.3890297,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
