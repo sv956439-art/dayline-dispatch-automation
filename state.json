@@ -12906,9 +12906,41 @@
       "status": "pending",
       "firstSeenAt": 1790822302.3379831,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/01/microsoft-optus-singtel-netflix-corporations-paying-no-tax-australia-ato",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790823087.0143785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/ukraine-war-briefing-russia-pounds-power-grid-with-seven-killed-in-biggest-energy-attack-in-months",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russia pounds power grid with seven killed in biggest energy attack in months",
+      "status": "pending",
+      "firstSeenAt": 1790823087.0154376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/christa-pike-lethal-injection/107216194",
+      "provider": "ABC News Australia",
+      "title": "US woman still alive after lethal injection dose, says legal team",
+      "status": "pending",
+      "firstSeenAt": 1790823087.3473158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/sydney-communities-shaken-by-underworld-gang-violence/107186728",
+      "provider": "ABC News Australia",
+      "title": "Sydney communities in fear after mistaken-identity shootings",
+      "status": "pending",
+      "firstSeenAt": 1790823087.3482485,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
