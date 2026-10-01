@@ -14482,9 +14482,25 @@
       "status": "pending",
       "firstSeenAt": 1790878054.2892737,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c699d93j22r5o",
+      "provider": "BBC",
+      "title": "Cornell accuser was 'failed' by university health care system, lawyer says Jane Doe told the school's doctor that she had contracted an infection \"in a traumatic way\", but they \"didn't really follow up\", according to the New York Times.",
+      "status": "pending",
+      "firstSeenAt": 1790879330.0498235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqg7k7v499jjo",
+      "provider": "BBC",
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "status": "pending",
+      "firstSeenAt": 1790879330.04993,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
