@@ -12898,9 +12898,17 @@
       "status": "pending",
       "firstSeenAt": 1790821478.3042593,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/verify-flight-misinformation-fz1073-tel-aviv-dubai/107215774",
+      "provider": "ABC News Australia",
+      "title": "Fake news and deepfakes about flydubai flight spreading online",
+      "status": "pending",
+      "firstSeenAt": 1790822302.3379831,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
