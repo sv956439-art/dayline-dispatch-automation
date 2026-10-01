@@ -14786,9 +14786,25 @@
       "status": "pending",
       "firstSeenAt": 1790886814.4801939,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6je85jzk9y7o",
+      "provider": "BBC",
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+      "status": "pending",
+      "firstSeenAt": 1790888269.4066446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/nt-darwin-laksa-festival-inspires-quirky-desserts-drinks/107218072",
+      "provider": "ABC News Australia",
+      "title": "The quirky laksa-inspired creations competing at Darwin foodie festival",
+      "status": "pending",
+      "firstSeenAt": 1790888270.1218896,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
