@@ -14498,9 +14498,65 @@
       "status": "pending",
       "firstSeenAt": 1790879330.04993,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrl6lz454lgo",
+      "provider": "BBC",
+      "title": "PM warned Rosebank oil field could breach West Bank sanctions Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
+      "status": "pending",
+      "firstSeenAt": 1790880400.1484833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790880400.4289827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790880400.4296765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790880400.4296951,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/brisbane-street-artists-2032-olympic-and-paralympic-games/107168196",
+      "provider": "ABC News Australia",
+      "title": "Brisbane's bid to celebrate home-grown artists ahead of Olympics",
+      "status": "pending",
+      "firstSeenAt": 1790880400.9359043,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/sept-11-news-quiz/107216002",
+      "provider": "ABC News Australia",
+      "title": "Friday news quiz: A drunken AI, an angry Prince Harry and a furry new recruit",
+      "status": "pending",
+      "firstSeenAt": 1790880400.9359744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/new-albums-beabadoobee-beck-tinashe-orville-peck-julia-jacklin/107187296",
+      "provider": "ABC News Australia",
+      "title": "The 10 albums we couldn't stop playing last month",
+      "status": "pending",
+      "firstSeenAt": 1790880400.9360063,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
