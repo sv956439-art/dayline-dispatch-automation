@@ -14762,9 +14762,33 @@
       "status": "pending",
       "firstSeenAt": 1790885765.478862,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89j9024k7po",
+      "provider": "BBC",
+      "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
+      "status": "pending",
+      "firstSeenAt": 1790886813.7761528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/lindsay-clancy-not-guilty-motion-denied",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790886814.480171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/supreme-court-case-trump-immigration-detention",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790886814.4801939,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
