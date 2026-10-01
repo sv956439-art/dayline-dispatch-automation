@@ -15122,9 +15122,25 @@
       "status": "pending",
       "firstSeenAt": 1790897574.954269,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6zxzx1d484zo",
+      "provider": "BBC",
+      "title": "Bellamy speaks out over criticism after Norway win",
+      "status": "pending",
+      "firstSeenAt": 1790898317.6624994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9e8e5l7gvkgo",
+      "provider": "BBC",
+      "title": "2 hrs ago Rescuers say TikTok and Instagram posts don't prepare hikers for dangers Rescues of 18 to 24-year-olds more than double in Wales and England since 2019, rescuers say. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1790898317.7823915,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
