@@ -12786,9 +12786,49 @@
       "status": "pending",
       "firstSeenAt": 1790816521.358045,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rm9mnn0w3eo",
+      "provider": "BBC",
+      "title": "California bans child marriage, a practice still legal in 32 US states Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+      "status": "pending",
+      "firstSeenAt": 1790817561.61706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/01/oasis-legal-action-sale-of-unheard-recordings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790817562.0274358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/california-police-bodies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790817562.0275598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/nrl-nrlw-grand-final-2026-time-how-to-watch/107215116",
+      "provider": "ABC News Australia",
+      "title": "Five things to know ahead of the NRL and NRLW grand finals",
+      "status": "pending",
+      "firstSeenAt": 1790817562.7268808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/vic-election-2026-your-say-abc-audience-callout/107182316",
+      "provider": "ABC News Australia",
+      "title": "Victoria's election is nearly here — it's time to have Your Say",
+      "status": "pending",
+      "firstSeenAt": 1790817562.726909,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
