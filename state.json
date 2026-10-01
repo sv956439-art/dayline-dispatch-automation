@@ -13610,9 +13610,41 @@
       "status": "pending",
       "firstSeenAt": 1790846469.8856049,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx2zejdk5x0o",
+      "provider": "BBC",
+      "title": "Ranking the best British football exports this century From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?",
+      "status": "pending",
+      "firstSeenAt": 1790847434.9124541,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgl7r0dgkd2o",
+      "provider": "BBC",
+      "title": "Luke Evans 'selfishly' found himself a leading role in new TV drama Actor Luke Evans came up with the idea to adapt the acclaimed novel by Elizabeth Day into a TV drama.",
+      "status": "pending",
+      "firstSeenAt": 1790847434.9126482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790847435.1819706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/eddie-perfect-the-tartuffe-malthouse-theatre-2027-season/107188726",
+      "provider": "ABC News Australia",
+      "title": "'It's coming for everything': Eddie Perfect on AI and his new satire",
+      "status": "pending",
+      "firstSeenAt": 1790847435.801846,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
