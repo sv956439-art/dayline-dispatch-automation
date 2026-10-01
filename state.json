@@ -14138,9 +14138,73 @@
       "status": "pending",
       "firstSeenAt": 1790866434.3930907,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/ckge4e5443w7o",
+      "provider": "BBC",
+      "title": "Australia call up Maddinson after cancer recovery",
+      "status": "pending",
+      "firstSeenAt": 1790868072.454131,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyqyj1j15lo",
+      "provider": "BBC",
+      "title": "Community laments 'terribly sad' theatre closure Supporters say the venue showcased the best of local Cornish talent over 40 years.",
+      "status": "pending",
+      "firstSeenAt": 1790868072.4542842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyzy9qp5e5o",
+      "provider": "BBC",
+      "title": "Band to get into oompah spirit at Oktoberfest",
+      "status": "pending",
+      "firstSeenAt": 1790868072.4543066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790868072.7638547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/public-servants-australia-future-fund-paid-more-than-pm-albanese",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790868072.7638772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790868072.7638965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790868072.7639148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/renee-good-family-sues-trump-administration/107218998",
+      "provider": "ABC News Australia",
+      "title": "Renee Good's family sues Trump administration over fatal Minneapolis shooting",
+      "status": "pending",
+      "firstSeenAt": 1790868073.2428403,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
