@@ -13570,9 +13570,49 @@
       "status": "pending",
       "firstSeenAt": 1790843941.3890297,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet",
+      "provider": "BBC",
+      "title": "Meta's new AI is about to break the internet Someday we'll redesign the internet for tools like this. Until then, you're in for a wild ride.",
+      "status": "pending",
+      "firstSeenAt": 1790846469.2284064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790846469.8847504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/01/boots-owner-sale-canada-weston-family",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790846469.8855612,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/01/uk-bookmakers-offshore-casinos",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790846469.8855834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/01/group-encouraging-people-join-green-party-back-zionism-is-racism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790846469.8856049,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
