@@ -12938,9 +12938,25 @@
       "status": "pending",
       "firstSeenAt": 1790823087.3482485,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+      "provider": "BBC",
+      "title": "Japan raises residency fee for foreign nationals by twenty-fold The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population. Just now Asia",
+      "status": "pending",
+      "firstSeenAt": 1790823658.308413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0zewj483wo",
+      "provider": "BBC",
+      "title": "Son who used AI to help save mum's life hopes case offers Parkinson's clues Doctors say clinical trials are needed to understand more after Ed Patrick identified a potential side effect of a Parkinson's drug. 2 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1790823658.3930464,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
