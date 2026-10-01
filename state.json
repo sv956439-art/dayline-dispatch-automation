@@ -12842,9 +12842,33 @@
       "status": "pending",
       "firstSeenAt": 1790818411.210888,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/genesis-owusu-take-5-jet-set-radio-videogame-family-brother-aria/107180816",
+      "provider": "ABC News Australia",
+      "title": "This 00s video game is Genesis Owusu's biggest influence",
+      "status": "pending",
+      "firstSeenAt": 1790820577.2342753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/rba-financial-stability-review-october-2026/107215072",
+      "provider": "ABC News Australia",
+      "title": "RBA relaxed about housing downturn, deeply worried by AI and bonds",
+      "status": "pending",
+      "firstSeenAt": 1790820577.2346876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/buzzard-iron-ore-mine-dispute-leaves-workers-in-limbo/107215102",
+      "provider": "ABC News Australia",
+      "title": "Buzzard iron ore mine dispute leaves workers in limbo",
+      "status": "pending",
+      "firstSeenAt": 1790820577.2347229,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
