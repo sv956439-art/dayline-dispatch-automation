@@ -13458,9 +13458,49 @@
       "status": "pending",
       "firstSeenAt": 1790840399.0720668,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwz0z2en8xxno",
+      "provider": "BBC",
+      "title": "Money, family and sexism - why the number of women coaches is dropping",
+      "status": "pending",
+      "firstSeenAt": 1790841163.8010015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ck4glg4x66p5o",
+      "provider": "BBC",
+      "title": "GB's Kartal wins on WTA return after six months out",
+      "status": "pending",
+      "firstSeenAt": 1790841163.801076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/ckly5ll0mzv5o",
+      "provider": "BBC",
+      "title": "Weekly sports quiz: Which Czech player was sent off against England?",
+      "status": "pending",
+      "firstSeenAt": 1790841163.801126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6j9xmkdxx88o",
+      "provider": "BBC",
+      "title": "Flex your football brain with our daily quizzes",
+      "status": "pending",
+      "firstSeenAt": 1790841163.8012607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vgy205kmmro",
+      "provider": "BBC",
+      "title": "Former Man Utd defender Smalling signs for Porto",
+      "status": "pending",
+      "firstSeenAt": 1790841163.801285,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
