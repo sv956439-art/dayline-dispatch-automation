@@ -14370,9 +14370,33 @@
       "status": "pending",
       "firstSeenAt": 1790873912.3265498,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+      "provider": "BBC",
+      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+      "status": "pending",
+      "firstSeenAt": 1790874740.9109669,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ckq6360827rpo",
+      "provider": "BBC",
+      "title": "More elite-level events to award equal prize money",
+      "status": "pending",
+      "firstSeenAt": 1790874741.0277345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790874741.4602587,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
