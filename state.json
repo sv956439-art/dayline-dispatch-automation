@@ -13130,9 +13130,17 @@
       "status": "pending",
       "firstSeenAt": 1790830181.4850128,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/beau-lamarre-condon-jesse-baird-housemate-red-liquid/107215466",
+      "provider": "ABC News Australia",
+      "title": "Housemate saw surfboard bags under tarp, murder trial told",
+      "status": "pending",
+      "firstSeenAt": 1790830811.3380685,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
