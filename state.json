@@ -14202,9 +14202,49 @@
       "status": "pending",
       "firstSeenAt": 1790868073.2428403,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn4540d4z87o",
+      "provider": "BBC",
+      "title": "Tennessee halts executions after death row inmate Christa Pike survives hers",
+      "status": "pending",
+      "firstSeenAt": 1790869924.3286757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crje8edqyej9o",
+      "provider": "BBC",
+      "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination' Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "status": "pending",
+      "firstSeenAt": 1790869924.3293731,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjkg7g93y5yno",
+      "provider": "BBC",
+      "title": "Man City to argue sponsorship deals came from Abu Dhabi government Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its sponsorship deals came from the Abu Dhabi government.",
+      "status": "pending",
+      "firstSeenAt": 1790869924.3297188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yey04www7o",
+      "provider": "BBC",
+      "title": "Celebrity Traitors mural appears for new series A mural dedicated to the upcoming Celebrity Traitors series is now up in the Northern Quarter.",
+      "status": "pending",
+      "firstSeenAt": 1790869924.329842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790869924.6600904,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
