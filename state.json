@@ -13642,9 +13642,25 @@
       "status": "pending",
       "firstSeenAt": 1790847435.801846,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkgwglz4dd5o",
+      "provider": "BBC",
+      "title": "England striker Ivan Toney denies London nightclub assault England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub last year. 6 mins ago London",
+      "status": "pending",
+      "firstSeenAt": 1790848316.8255296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/people-banned-protesting-land-forces-police-additional-powers/107215944",
+      "provider": "ABC News Australia",
+      "title": "WA police ban 'excluded persons' from protesting at defence expo",
+      "status": "pending",
+      "firstSeenAt": 1790848317.27848,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
