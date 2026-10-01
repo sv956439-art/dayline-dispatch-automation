@@ -14122,9 +14122,25 @@
       "status": "pending",
       "firstSeenAt": 1790865580.7707155,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6kg0gkjngzmo",
+      "provider": "BBC",
+      "title": "Injured O'Reilly withdraws from England squad",
+      "status": "pending",
+      "firstSeenAt": 1790866434.2861989,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw804037yy9eo",
+      "provider": "BBC",
+      "title": "How author Stephen King is helping keep Highland League side going",
+      "status": "pending",
+      "firstSeenAt": 1790866434.3930907,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
