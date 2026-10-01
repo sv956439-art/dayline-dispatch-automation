@@ -13514,9 +13514,41 @@
       "status": "pending",
       "firstSeenAt": 1790841734.5584493,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20240308-how-the-hunt-for-alien-life-is-hotting-up",
+      "provider": "BBC",
+      "title": "Where we might find aliens in the next decade Forget UFOs and alien abductions, here's how scientists are really looking for life on other worlds.",
+      "status": "pending",
+      "firstSeenAt": 1790842913.9614317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260827-the-biggest-telescope-of-all-time-is-nearly-ready-could-it-reveal-alien-life",
+      "provider": "BBC",
+      "title": "In the otherworldly Chilean desert, this huge telescope could reveal alien life The largest telescope ever built is taking shape on a mountaintop in Chile – and it could radically change our view of the Universe.",
+      "status": "pending",
+      "firstSeenAt": 1790842913.961459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260130-how-deep-caves-are-transforming-our-search-for-extraterrestrial-life",
+      "provider": "BBC",
+      "title": "'They've probably been untouched for 49 million years': The New Mexico cave expanding our search for alien life In one of the most baffling discoveries of the last decade, scientists have found a clue in a cave to how life might survive in deep space without light.",
+      "status": "pending",
+      "firstSeenAt": 1790842913.96148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/ex-cfmeu-delegate-joel-leavitt-blackmail-charge-dropped/107217902",
+      "provider": "ABC News Australia",
+      "title": "Former union delegate and bikie fined $2,000 over illegal debt collection",
+      "status": "pending",
+      "firstSeenAt": 1790842914.7647667,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
