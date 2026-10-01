@@ -14010,9 +14010,81 @@
       "status": "pending",
       "firstSeenAt": 1790863341.0545118,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y8z8kr5mk8o",
+      "provider": "BBC",
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life \"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "status": "pending",
+      "firstSeenAt": 1790864546.1417682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790864546.738175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790864546.7382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/01/nn-white-house-second-removal-media-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790864546.7383208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790864546.7383473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/trump-deportations-crime-experts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790864546.7383687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/labor-to-target-migration-agents-gaming-visa-system/107218224",
+      "provider": "ABC News Australia",
+      "title": "Labor will go after lawyers trying to 'game' the visa system",
+      "status": "pending",
+      "firstSeenAt": 1790864546.9350674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/school-and-nuclear-facility-hit-in-latest-russian-air-strikes/107218686",
+      "provider": "ABC News Australia",
+      "title": "School and nuclear facility hit in latest wave of Russian strikes",
+      "status": "pending",
+      "firstSeenAt": 1790864546.9355674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/war-criminal-biljana-plavsic-dies-aged-96/107218776",
+      "provider": "ABC News Australia",
+      "title": "War criminal Biljana Plavsic, dubbed Serbia's 'Iron Lady', dies aged 96",
+      "status": "pending",
+      "firstSeenAt": 1790864546.93621,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
