@@ -13730,9 +13730,25 @@
       "status": "pending",
       "firstSeenAt": 1790850992.9096751,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/first-thing-details-remain-unclear-after-terror-attack-on-dubai-israel-flight",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790851852.0282404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/the-german-town-where-the-right-has-banned-new-stumbling-stones-for-nazi-victims",
+      "provider": "The Guardian",
+      "title": "The German town where the right has banned new ‘stumbling stones’ for Nazi victims",
+      "status": "pending",
+      "firstSeenAt": 1790851852.0285406,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
