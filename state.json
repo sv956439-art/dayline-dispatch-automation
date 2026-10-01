@@ -14394,9 +14394,33 @@
       "status": "pending",
       "firstSeenAt": 1790874741.4602587,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx24j46vg34qo",
+      "provider": "BBC",
+      "title": "39 mins ago Police force launches AI tool to reduce 101 calls South Yorkshire Police says the software will provide advice and answers to non-emergency queries. 39 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790876565.461722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6grvr9xvpqyo",
+      "provider": "BBC",
+      "title": "57 mins ago Residents' fears over 'monster' data centre More than 100 residents attended the first consultation event. 57 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790876565.461757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790876565.9242513,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
