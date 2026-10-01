@@ -14082,9 +14082,49 @@
       "status": "pending",
       "firstSeenAt": 1790864546.93621,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+      "provider": "BBC",
+      "title": "Russia targets busy bridge in central Kyiv in broad daylight The Pivdennyi bridge came under fire as a metro train was travelling across - the first such attack on Kyiv's bridges.",
+      "status": "pending",
+      "firstSeenAt": 1790865580.4867094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6x2ze5zm93go",
+      "provider": "BBC",
+      "title": "Space for Gannon-Doak? Does McGinn keep place? Key questions for Pocognoli Scotland head coach Sebastien Pocognoli has decisions to make as he searches for his first win in North Macedonia on Saturday. 60 mins ago Scotland Men",
+      "status": "pending",
+      "firstSeenAt": 1790865580.5579543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/finland-suspected-break-ins-mp-homes-foreign-power",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790865580.7702663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/01/naomi-campbell-wins-legal-challenge-charity-trustee-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790865580.7706084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/01/rick-ross-arrest-miami-battery-strangulation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790865580.7707155,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
