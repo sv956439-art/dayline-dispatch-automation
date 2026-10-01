@@ -13498,9 +13498,25 @@
       "status": "pending",
       "firstSeenAt": 1790841163.801285,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/claremont-council-votes-to-explore-merger/107216236",
+      "provider": "ABC News Australia",
+      "title": "Perth's western suburbs councils take steps toward merger",
+      "status": "pending",
+      "firstSeenAt": 1790841734.558398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/malaysia-deporting-thousands-myanmar-asylum-seekers/107216076",
+      "provider": "ABC News Australia",
+      "title": "Why Malaysia is deporting thousands of Myanmar asylum seekers",
+      "status": "pending",
+      "firstSeenAt": 1790841734.5584493,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
