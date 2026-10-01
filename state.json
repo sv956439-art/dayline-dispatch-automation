@@ -14802,9 +14802,25 @@
       "status": "pending",
       "firstSeenAt": 1790888270.1218896,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790888918.9970782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/oct/01/how-stabbing-incident-unfolded-israel-bound-flydubai-plane-deconstructed",
+      "provider": "The Guardian",
+      "title": "How the stabbing incident unfolded on Israel-bound flydubai plane | Deconstructed",
+      "status": "pending",
+      "firstSeenAt": 1790888918.997406,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
