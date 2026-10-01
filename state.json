@@ -12970,9 +12970,33 @@
       "status": "pending",
       "firstSeenAt": 1790824644.3993554,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/01/melbourne-sydney-canberra-rain-forecast-australia-weather-this-week",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790825638.5786982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+      "provider": "The Guardian",
+      "title": "A ‘hero’ pilot, plumber and dentist among those who saved flydubai flight to Israel",
+      "status": "pending",
+      "firstSeenAt": 1790825638.5791388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/victoria-labor-upper-house-ticket-mp/107215764",
+      "provider": "ABC News Australia",
+      "title": "Labor MPs jockey for position on election tickets as party braces for losses",
+      "status": "pending",
+      "firstSeenAt": 1790825639.1696405,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
