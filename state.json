@@ -13210,9 +13210,41 @@
       "status": "pending",
       "firstSeenAt": 1790832585.8233514,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3eqg78pw34o",
+      "provider": "BBC",
+      "title": "Finding Iris Murdoch artwork in attic 'a thrill' An expert on the author describes discovering 80 unknown works by the writer in Oxford.",
+      "status": "pending",
+      "firstSeenAt": 1790833456.152599,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/keogh-to-work-with-veterans-after-health-cap-backdown/107216684",
+      "provider": "ABC News Australia",
+      "title": "Keogh says he can still work with veterans after health cap backdown",
+      "status": "pending",
+      "firstSeenAt": 1790833456.7188342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/voluntary-assisted-dying-report-reveals-partner-used-medication/107215474",
+      "provider": "ABC News Australia",
+      "title": "Victorian uses voluntary assisted dying medication supplied to partner",
+      "status": "pending",
+      "firstSeenAt": 1790833456.7188768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/council-watch-court-dean-hurlston-intervention-order-appeal/107216216",
+      "provider": "ABC News Australia",
+      "title": "Judge sets aside civil intervention order against Council Watch head",
+      "status": "pending",
+      "firstSeenAt": 1790833456.7189136,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
