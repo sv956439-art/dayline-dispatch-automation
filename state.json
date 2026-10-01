@@ -13138,9 +13138,49 @@
       "status": "pending",
       "firstSeenAt": 1790830811.3380685,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8e30enrkxyo",
+      "provider": "BBC",
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "status": "pending",
+      "firstSeenAt": 1790831669.2562187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790831669.5224595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790831669.5226924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790831669.5227115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/chris-fagan-career-with-brisbane-lions/107204968",
+      "provider": "ABC News Australia",
+      "title": "Chris Fagan headed the ultimate Lions reawakening",
+      "status": "pending",
+      "firstSeenAt": 1790831669.9531417,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
