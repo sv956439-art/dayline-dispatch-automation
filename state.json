@@ -13706,9 +13706,33 @@
       "status": "pending",
       "firstSeenAt": 1790850068.2724817,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+      "provider": "BBC",
+      "title": "What happened in the failed execution of Christa Pike - and what next? The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "status": "pending",
+      "firstSeenAt": 1790850992.4632084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790850992.9089928,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/01/20-fascinating-facts-about-hair-why-baldness-is-super-masculine-and-a-pubic-bush-could-be-a-cheating-detector",
+      "provider": "The Guardian",
+      "title": "20 fascinating facts about hair: why baldness is super-masculine – and a pubic bush could be a ‘cheating detector’",
+      "status": "pending",
+      "firstSeenAt": 1790850992.9096751,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
