@@ -13114,9 +13114,25 @@
       "status": "pending",
       "firstSeenAt": 1790829140.1781735,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/greens-shoebridge-burns-jewish-community-gaza/107215738",
+      "provider": "ABC News Australia",
+      "title": "Labor MP accuses Greens leader of 'prejudice' over Jewish community comments",
+      "status": "pending",
+      "firstSeenAt": 1790830181.4839628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-01/blue-sausages-to-knights-tattoos-newcastle-nrl-grand-final/107211500",
+      "provider": "ABC News Australia",
+      "title": "From tattoos to blue sausages, Newcastle has gone 'Knights crazy'",
+      "status": "pending",
+      "firstSeenAt": 1790830181.4850128,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
