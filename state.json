@@ -12666,9 +12666,25 @@
       "status": "pending",
       "firstSeenAt": 1790812445.3419073,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crpd0wdnlgxno",
+      "provider": "BBC",
+      "title": "Cornell case spotlights 'confusing' web of systems for reporting campus assaults Victims often have to navigate both university and local law enforcement processes to find justice. 6 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1790812867.9076784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790812868.4844081,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
