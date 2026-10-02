@@ -15274,9 +15274,25 @@
       "status": "pending",
       "firstSeenAt": 1790903666.6078885,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/tulip-time-flourishes-bowral-corbett-gardens/107143994",
+      "provider": "ABC News Australia",
+      "title": "How a determined English woman planted the seeds for beloved flower festival",
+      "status": "pending",
+      "firstSeenAt": 1790904578.9270718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/architects-to-look-at-converting-wa-quarantine-centre-to-prison/107217448",
+      "provider": "ABC News Australia",
+      "title": "Transformation of COVID quarantine centre into prison a step closer",
+      "status": "pending",
+      "firstSeenAt": 1790904578.9271238,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
