@@ -17138,9 +17138,25 @@
       "status": "pending",
       "firstSeenAt": 1790975817.0674043,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/proposed-snapper-yellowtail-kingfish-changes-prices-availability/107161156",
+      "provider": "ABC News Australia",
+      "title": "Fishers warn snapper, kingfish prices could soar under proposed catch limits",
+      "status": "pending",
+      "firstSeenAt": 1790976680.8724608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/victorian-election-logging-promises-one-nation-alp-coalition/107156520",
+      "provider": "ABC News Australia",
+      "title": "One Nation makes election promise to revive Victoria's timber sector",
+      "status": "pending",
+      "firstSeenAt": 1790976680.8725102,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
