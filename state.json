@@ -16226,9 +16226,49 @@
       "status": "pending",
       "firstSeenAt": 1790942370.7609744,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4grggz2en4o",
+      "provider": "BBC",
+      "title": "Oasis acoustic guitar sells for 'record' price Noel Gallagher played the instrument at Oasis's 1996 MTV Unplugged gig.",
+      "status": "pending",
+      "firstSeenAt": 1790943369.350825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261001-the-american-coast-that-refused-to-let-african-culture-die",
+      "provider": "BBC",
+      "title": "The US coast that wouldn't let African culture die Along the US's South-eastern coast, Gullah Geechee communities preserve a distinct culture and language rooted in West Africa that is spoken nowhere else on Earth.",
+      "status": "pending",
+      "firstSeenAt": 1790943369.3509512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/philadelphia-missing-women-raymond-horsch",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790943369.902998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/ohio-16-children-statewide-issue",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790943369.9030218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/manchester-city-appeal-guilty-findings-after-epl-finance-probe/107223868",
+      "provider": "ABC News Australia",
+      "title": "Man City appeals guilty findings of breaking EPL's financial rules",
+      "status": "pending",
+      "firstSeenAt": 1790943370.4371595,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
