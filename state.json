@@ -16650,9 +16650,65 @@
       "status": "pending",
       "firstSeenAt": 1790956919.1457763,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg04718lr9o",
+      "provider": "BBC",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "status": "pending",
+      "firstSeenAt": 1790957961.822464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crvg6xd6p9n5o",
+      "provider": "BBC",
+      "title": "Why Aston Villa are playing Sevilla for a trophy you haven't heard of",
+      "status": "pending",
+      "firstSeenAt": 1790957961.8919206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cwe8e5klvx1jo",
+      "provider": "BBC",
+      "title": "Will Warrington or Wakefield be Super League's sixth winner?",
+      "status": "pending",
+      "firstSeenAt": 1790957961.891954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1j427zze5xo",
+      "provider": "BBC",
+      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
+      "status": "pending",
+      "firstSeenAt": 1790957961.8919783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cw80zel9nvg1o",
+      "provider": "BBC",
+      "title": "Carse charged but remains available for England",
+      "status": "pending",
+      "firstSeenAt": 1790957961.8922038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/athletics/articles/cvx2z249r33yo",
+      "provider": "BBC",
+      "title": "'I reduced my running because of urine leaks' â Commonwealth finalist Korir",
+      "status": "pending",
+      "firstSeenAt": 1790957961.8924124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/02/school-inspections-england-ofsted-overhaul-complaints",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790957962.465519,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
