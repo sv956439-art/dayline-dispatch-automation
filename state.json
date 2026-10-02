@@ -15890,9 +15890,17 @@
       "status": "pending",
       "firstSeenAt": 1790927204.8517694,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/woman-who-intervened-in-adelaide-beach-fight-speaks-out/107220794",
+      "provider": "ABC News Australia",
+      "title": "Woman who stopped Adelaide beach brawl speaks out",
+      "status": "pending",
+      "firstSeenAt": 1790929810.7965617,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
