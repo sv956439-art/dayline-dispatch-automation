@@ -15770,9 +15770,49 @@
       "status": "pending",
       "firstSeenAt": 1790924368.5657246,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck62mped4rz9o",
+      "provider": "BBC",
+      "title": "India's 'cockroach' protesters are back - this time asking poll chief to resign The Cockroach Janta Party has asked supporters to turn out for a protest in Mumbai to demand electoral reforms. 3 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1790925246.9015183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cmzxzxj1w5dyo",
+      "provider": "BBC",
+      "title": "Browns survive late comeback to defeat Steelers",
+      "status": "pending",
+      "firstSeenAt": 1790925246.902058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj3d3zmrn5zo",
+      "provider": "BBC",
+      "title": "Funding frenzy adds to pressure on worried farmers",
+      "status": "pending",
+      "firstSeenAt": 1790925246.967101,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/alby-spreadborough-newborn-inquest-hears-from-expert-doctors/107202826",
+      "provider": "ABC News Australia",
+      "title": "'Lifeless' baby took two gasps after delivery, inquest hears",
+      "status": "pending",
+      "firstSeenAt": 1790925247.669017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/act-government-examining-free-emergency-ambulance-callout/107222216",
+      "provider": "ABC News Australia",
+      "title": "ACT government examining making ambulances free",
+      "status": "pending",
+      "firstSeenAt": 1790925247.6694782,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
