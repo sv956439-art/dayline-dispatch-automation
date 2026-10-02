@@ -17082,9 +17082,17 @@
       "status": "pending",
       "firstSeenAt": 1790974374.9965367,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/brisbane-2032-olympic-emblem-leaked-by-official-youtube-channel/107223880",
+      "provider": "ABC News Australia",
+      "title": "Brisbane 2032 emblems leaked by official YouTube channel",
+      "status": "pending",
+      "firstSeenAt": 1790974899.6137455,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
