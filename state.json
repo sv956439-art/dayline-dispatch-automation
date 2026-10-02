@@ -17090,9 +17090,57 @@
       "status": "pending",
       "firstSeenAt": 1790974899.6137455,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crd6dy4xepgyo",
+      "provider": "BBC",
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend. 15 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1790975816.1710062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz98wnx4n1wo",
+      "provider": "BBC",
+      "title": "Ex-US congressman sentenced to 10 years in prison for $50m Venezuela lobbying scheme River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
+      "status": "pending",
+      "firstSeenAt": 1790975816.1720524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790975816.5828931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790975816.583813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/nsw-youth-hubs-pushed-as-solution-to-youth-crime-and-loneliness/107210986",
+      "provider": "ABC News Australia",
+      "title": "Street sports an 'entry point' to help combat youth crime and loneliness",
+      "status": "pending",
+      "firstSeenAt": 1790975817.0673554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/qld-stop-sign-change-petition-rejected/107218162",
+      "provider": "ABC News Australia",
+      "title": "Qld government rejects petition to change stop signs to give way",
+      "status": "pending",
+      "firstSeenAt": 1790975817.0674043,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
