@@ -15938,9 +15938,65 @@
       "status": "pending",
       "firstSeenAt": 1790931371.1984148,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqn7470513n0o",
+      "provider": "BBC",
+      "title": "Man City verdict has 'implications on game's integrity' - FA The independent commission's verdict against Manchester City has \"significant implications for the integrity of the game\", according to the Football Association. 15 mins ago Man City",
+      "status": "pending",
+      "firstSeenAt": 1790932045.3220482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250408-choline-the-underappreciated-nutrient-thats-vital-for-our-brains",
+      "provider": "BBC",
+      "title": "Choline: The nutrient that's vital for our brains The compound has been linked to improved cognitive performance and reduced anxiety – but are you getting enough of it?",
+      "status": "pending",
+      "firstSeenAt": 1790932045.3225887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260122-the-protective-effect-that-fibre-has-on-cognition",
+      "provider": "BBC",
+      "title": "Why eating fibre is good for your brain Eating fibre can improve health, lengthen lifespans, and even protect our brains. Yet many of us are still coming up short on this \"essential nutrient\".",
+      "status": "pending",
+      "firstSeenAt": 1790932045.3226173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790932045.654971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790932045.655509,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/us-death-penalty-christa-pike-tennessee",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790932045.6560254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/indian-prime-talks-with-flydubai-pilot/107223576",
+      "provider": "ABC News Australia",
+      "title": "Flydubai 'hero' pilot says praying gave him courage",
+      "status": "pending",
+      "firstSeenAt": 1790932046.8172953,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
