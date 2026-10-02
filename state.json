@@ -16130,9 +16130,25 @@
       "status": "pending",
       "firstSeenAt": 1790937902.5228293,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/bruce-baird-former-federal-liberal-mp-and-nsw-minister-dies-aged-84",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790939169.8566425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/first-thing-christa-pike-critical-condition-tennessee-halts-executions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790939169.8570864,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
