@@ -17170,9 +17170,33 @@
       "status": "pending",
       "firstSeenAt": 1790978152.9840739,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgygr0zxzjo",
+      "provider": "BBC",
+      "title": "I scaled up my garage home cinema to a 470-seat movie theatre Tristan Campbell has been working for two years on his dream to reopen the cinema in Dumfries.",
+      "status": "pending",
+      "firstSeenAt": 1790978669.3472857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn73lr17g5eo",
+      "provider": "BBC",
+      "title": "King's Caribbean tour will not shy away from 'darkest days of our past'",
+      "status": "pending",
+      "firstSeenAt": 1790978669.4219804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/roosters-met-with-rabbi-eli-schlanger-days-before-bondi-attack/107223728",
+      "provider": "ABC News Australia",
+      "title": "Roosters met with Rabbi Eli Schlanger days before Bondi attack",
+      "status": "pending",
+      "firstSeenAt": 1790978670.45332,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
