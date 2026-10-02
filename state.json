@@ -15314,9 +15314,25 @@
       "status": "pending",
       "firstSeenAt": 1790906114.476623,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/a-room-with-a-view-play-grace-chapple-never-closer-the-landlord/107188724",
+      "provider": "ABC News Australia",
+      "title": "A classic coming-of-age novel spurred this writer to 'blow up' her life",
+      "status": "pending",
+      "firstSeenAt": 1790906699.5166283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/dead-ibis-sparks-testing-bendigo-lake-weeroona/107219736",
+      "provider": "ABC News Australia",
+      "title": "Bird flu tests underway after 60 ibises found dead in Bendigo",
+      "status": "pending",
+      "firstSeenAt": 1790906699.5166638,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
