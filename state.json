@@ -15194,9 +15194,17 @@
       "status": "pending",
       "firstSeenAt": 1790900837.6083589,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/new-climbing-plan-approved-mount-arapiles-tooan-state-park/107219756",
+      "provider": "ABC News Australia",
+      "title": "New Arapiles plan means 98 per cent of climbs will stay open",
+      "status": "pending",
+      "firstSeenAt": 1790901964.3801773,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
