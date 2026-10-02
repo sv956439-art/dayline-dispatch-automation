@@ -15858,9 +15858,41 @@
       "status": "pending",
       "firstSeenAt": 1790926271.190567,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmkgwgd08yl1o",
+      "provider": "BBC",
+      "title": "Flex your football brain with our daily quizzes",
+      "status": "pending",
+      "firstSeenAt": 1790927203.5932844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwvgygnmj3vpo",
+      "provider": "BBC",
+      "title": "Groves puts heart and soul into Scarlets move",
+      "status": "pending",
+      "firstSeenAt": 1790927203.593575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq0m3mpnlmevo",
+      "provider": "BBC",
+      "title": "Euro 2016 memories aplenty - but O'Neill focused on future",
+      "status": "pending",
+      "firstSeenAt": 1790927203.5937092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/toy-poodle-allegedly-attacked-by-stranger-owner-traumatised/107221468",
+      "provider": "ABC News Australia",
+      "title": "Man charged after toy poodle suffers broken jaw in alleged attack",
+      "status": "pending",
+      "firstSeenAt": 1790927204.8517694,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
