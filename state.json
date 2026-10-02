@@ -17426,9 +17426,25 @@
       "status": "pending",
       "firstSeenAt": 1790985051.8147063,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly0ljypzrdo",
+      "provider": "BBC",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "status": "pending",
+      "firstSeenAt": 1790985501.8556128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmq8n2ynqex0o",
+      "provider": "BBC",
+      "title": "Pretorius breaks Gayle's T20 record score",
+      "status": "pending",
+      "firstSeenAt": 1790985501.9382746,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
