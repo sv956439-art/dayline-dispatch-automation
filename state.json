@@ -16970,9 +16970,25 @@
       "status": "pending",
       "firstSeenAt": 1790969782.0077446,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxyvrp78ddvqo",
+      "provider": "BBC",
+      "title": "Man City whistleblower to lose witness protection Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+      "status": "pending",
+      "firstSeenAt": 1790970585.384882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g1l3790xdo",
+      "provider": "BBC",
+      "title": "National park votes for tougher campsite rules",
+      "status": "pending",
+      "firstSeenAt": 1790970585.4455392,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
