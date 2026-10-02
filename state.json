@@ -15306,9 +15306,17 @@
       "status": "pending",
       "firstSeenAt": 1790905415.5056067,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/western-cancer-centre-first-public-provider-to-offer-rad/107211634",
+      "provider": "ABC News Australia",
+      "title": "This public hospital has a 'dazzling' cancer technology and it's not where you think",
+      "status": "pending",
+      "firstSeenAt": 1790906114.476623,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
