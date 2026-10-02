@@ -15162,9 +15162,17 @@
       "status": "pending",
       "firstSeenAt": 1790898877.604841,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cp8jwj90ejno",
+      "provider": "BBC",
+      "title": "The truth about life on other planets - and what it means for humans Could discoveries of alien life ever change the human psyche in how we view ourselves and each other?",
+      "status": "pending",
+      "firstSeenAt": 1790899349.50149,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
