@@ -17058,9 +17058,33 @@
       "status": "pending",
       "firstSeenAt": 1790972769.5137587,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/victorian-state-election-unpredictable-casey-briggs-analysis/107216078",
+      "provider": "ABC News Australia",
+      "title": "Victoria is about to have the most unpredictable election in living memory",
+      "status": "pending",
+      "firstSeenAt": 1790974374.9963446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/nigel-farage-ann-widdecombe-murder-joshua-kerry-terrorism-charge/107224414",
+      "provider": "ABC News Australia",
+      "title": "Man charged with preparing terrorist acts against Nigel Farage",
+      "status": "pending",
+      "firstSeenAt": 1790974374.9964952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/scheer-brilliance-helps-in-form-cats-overcome-tigers-aflw/107224008",
+      "provider": "ABC News Australia",
+      "title": "Geelong notch seventh-straight AFLW win as Scheer fires against Richmond",
+      "status": "pending",
+      "firstSeenAt": 1790974374.9965367,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
