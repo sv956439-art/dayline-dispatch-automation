@@ -16618,9 +16618,41 @@
       "status": "pending",
       "firstSeenAt": 1790956419.0840409,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rlwgx9n9go",
+      "provider": "BBC",
+      "title": "Alison Hammond has heart check-up in hospital after leaving TV's This Morning The host says she is \"fine\" but getting checked after leaving This Morning midway through Friday's show.",
+      "status": "pending",
+      "firstSeenAt": 1790956918.269033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvde8yned22ro",
+      "provider": "BBC",
+      "title": "Council received no profit share from theatre",
+      "status": "pending",
+      "firstSeenAt": 1790956918.2690613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c52e9dkmm7ylo",
+      "provider": "BBC",
+      "title": "Sabalenka 'trying hard to be easier on myself' Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata Zarazua. 1 hr ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1790956918.3716333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790956919.1457763,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
