@@ -15458,9 +15458,25 @@
       "status": "pending",
       "firstSeenAt": 1790911566.777365,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/alleged-drug-kingpin-arash-ebrahimi-far-arrested-in-colombia/107221142",
+      "provider": "ABC News Australia",
+      "title": "Notorious alleged WA drug kingpin who fled to Colombia arrested by Interpol",
+      "status": "pending",
+      "firstSeenAt": 1790912461.063444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/regional-business-face-financial-turmoil-interest-rate-hike-qld/107221342",
+      "provider": "ABC News Australia",
+      "title": "'Snowball effect' hitting as companies react to rates rise, growing costs",
+      "status": "pending",
+      "firstSeenAt": 1790912461.0634835,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
