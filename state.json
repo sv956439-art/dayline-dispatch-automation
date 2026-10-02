@@ -15650,9 +15650,65 @@
       "status": "pending",
       "firstSeenAt": 1790919713.026385,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crpd0d0jl0y0o",
+      "provider": "BBC",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates The diplomatic fallout comes as Ethiopian forces battle rebel fighters across northern region.",
+      "status": "pending",
+      "firstSeenAt": 1790920486.2435322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/ckm2q2346zz9o",
+      "provider": "BBC",
+      "title": "Verstappen tops Bahrain GP in Malaysia first practice",
+      "status": "pending",
+      "firstSeenAt": 1790920486.2440245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5y4132d8dmo",
+      "provider": "BBC",
+      "title": "32 mins ago Amazon data centre near M25 gets approval Buckinghamshire Council says the economic benefits outweigh other concerns. 32 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790920486.3289905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790920486.6195924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/bluebottles-the-size-of-a-fist-jellyfish-on-beach-gold-coast/107221792",
+      "provider": "ABC News Australia",
+      "title": "Bluebottles the size of a fist wash up on Gold Coast beaches",
+      "status": "pending",
+      "firstSeenAt": 1790920486.895246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/qld-e-mobility-devices-seized-and-2-300-fines-issued-in-3-months/107222062",
+      "provider": "ABC News Australia",
+      "title": "Queensland police seize 558 e-mobility devices in three months",
+      "status": "pending",
+      "firstSeenAt": 1790920486.8952935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/tasmania-police-rules-out-further-action-hobart-snack-saga/107222164",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's top prosecutor rules out 'further action' on town hall snack saga",
+      "status": "pending",
+      "firstSeenAt": 1790920486.895337,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
