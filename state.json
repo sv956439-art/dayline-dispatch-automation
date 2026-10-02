@@ -16810,9 +16810,17 @@
       "status": "pending",
       "firstSeenAt": 1790963691.602278,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/oct/02/celebrities-grey-hair-olivia-colman-lisa-bonet-women-ageism-workplace-dye",
+      "provider": "The Guardian",
+      "title": "More celebrities are embracing grey hair. For other women, it can come at a cost",
+      "status": "pending",
+      "firstSeenAt": 1790964272.1611917,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
