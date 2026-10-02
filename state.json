@@ -15482,9 +15482,17 @@
       "status": "pending",
       "firstSeenAt": 1790913242.6605594,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/toby-greene-joins-geelong-cats-from-gws-giants/107220978",
+      "provider": "ABC News Australia",
+      "title": "Greene joins Cats as AFL teams make off-season moves",
+      "status": "pending",
+      "firstSeenAt": 1790913740.3395321,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
