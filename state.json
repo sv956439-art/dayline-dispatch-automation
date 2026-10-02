@@ -16162,9 +16162,33 @@
       "status": "pending",
       "firstSeenAt": 1790940133.253477,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d94wywx0ypo",
+      "provider": "BBC",
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "status": "pending",
+      "firstSeenAt": 1790940975.8352559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwd0800xmk34o",
+      "provider": "BBC",
+      "title": "First look at town's regeneration plans Plans for Barrow, Cumbria, are being consulted on, including a replacement theatre and market.",
+      "status": "pending",
+      "firstSeenAt": 1790940975.8359864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/picture/2026/oct/02/unlikely-revolutionary-mr-rogers-will-lead-the-uprising-the-stephen-collins-cartoon",
+      "provider": "The Guardian",
+      "title": "Unlikely revolutionary Mr Rogers will lead the uprising: the Stephen Collins cartoon",
+      "status": "pending",
+      "firstSeenAt": 1790940976.1986065,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
