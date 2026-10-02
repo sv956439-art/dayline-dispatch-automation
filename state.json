@@ -15714,9 +15714,41 @@
       "status": "pending",
       "firstSeenAt": 1790920947.2993357,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c58jd2e44mnzo",
+      "provider": "BBC",
+      "title": "58 mins ago A-level student starts her own fashion line Gracie, 16, says she got the idea to start her own brand while modelling at London Fashion Week. 58 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790922256.1386347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/02/royal-college-of-nursing-cuts-ties-with-israeli-drug-company",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790922256.4633834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/mohamed-al-fayed-abuse-claims-potential-trafficking-victims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790922256.4634097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/qld-extremist-omar-saghir-appeal/107222640",
+      "provider": "ABC News Australia",
+      "title": "'Attack them': Extremist figure loses terror charges appeal",
+      "status": "pending",
+      "firstSeenAt": 1790922256.9263113,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
