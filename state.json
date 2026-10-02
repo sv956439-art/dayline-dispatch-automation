@@ -15898,9 +15898,33 @@
       "status": "pending",
       "firstSeenAt": 1790929810.7965617,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/activists-plan-legal-action-against-police-ban-on-entering-security-zone-near-perth-weapons-expo",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790930676.008394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790930676.0086462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/bookkeeper-michelle-lawson-tully-farming-fraud/107220480",
+      "provider": "ABC News Australia",
+      "title": "Bookkeeper admits defrauding $2.8m from farming family",
+      "status": "pending",
+      "firstSeenAt": 1790930676.3804007,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
