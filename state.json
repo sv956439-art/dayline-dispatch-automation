@@ -15706,9 +15706,17 @@
       "status": "pending",
       "firstSeenAt": 1790920486.895337,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj3d3d37nxgo",
+      "provider": "BBC",
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+      "status": "pending",
+      "firstSeenAt": 1790920947.2993357,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
