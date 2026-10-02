@@ -17018,9 +17018,49 @@
       "status": "pending",
       "firstSeenAt": 1790971930.3743966,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/crwyd3p5dxzxo",
+      "provider": "BBC",
+      "title": "MacIntyre makes strong move at Alfred Dunhill Links",
+      "status": "pending",
+      "firstSeenAt": 1790972768.592086,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/mississippi-republican-redistricting-protest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790972769.000082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790972769.0000951,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/queensland-weather-long-weekend-kings-birthday-holiday-storms/107220742",
+      "provider": "ABC News Australia",
+      "title": "Qld's mostly sunny long weekend could descend into severe storms",
+      "status": "pending",
+      "firstSeenAt": 1790972769.5137346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/ny-governor-slams-handling-of-cornell-gang-rape-allegation/107224330",
+      "provider": "ABC News Australia",
+      "title": "NY governor slams handling of Cornell 'gang-rape' case",
+      "status": "pending",
+      "firstSeenAt": 1790972769.5137587,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
