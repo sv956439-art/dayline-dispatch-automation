@@ -15754,9 +15754,25 @@
       "status": "pending",
       "firstSeenAt": 1790923446.281797,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c62e0en7drzpo",
+      "provider": "BBC",
+      "title": "Jamie Oliver saves flight school that trained him",
+      "status": "pending",
+      "firstSeenAt": 1790924368.5656931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5vgyg8x4rrzo",
+      "provider": "BBC",
+      "title": "Travelodge review 'emotional read' for security victim",
+      "status": "pending",
+      "firstSeenAt": 1790924368.5657246,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
