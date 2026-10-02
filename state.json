@@ -16570,9 +16570,49 @@
       "status": "pending",
       "firstSeenAt": 1790954597.7291253,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyv44y4ywjo",
+      "provider": "BBC",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "status": "pending",
+      "firstSeenAt": 1790955533.8589854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp8gn13lmygo",
+      "provider": "BBC",
+      "title": "Three reasons Middle East oil is nearly back to pre-Iran war levels Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
+      "status": "pending",
+      "firstSeenAt": 1790955533.859072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq2e9dd4n9xlo",
+      "provider": "BBC",
+      "title": "Waverley paddle steamer marks 80th anniversary since launch",
+      "status": "pending",
+      "firstSeenAt": 1790955533.9368937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/02/trump-refugees-equatorial-guinea-torture",
+      "provider": "The Guardian",
+      "title": "double quotation mark Trump is disappearing refugees into the hands of torturers – and rewarding them handsomely",
+      "status": "pending",
+      "firstSeenAt": 1790955534.1507318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/san-ygnacio-texas-mexico-border-wall",
+      "provider": "The Guardian",
+      "title": "A small Texas town stopped Trump’s border wall construction – for now",
+      "status": "pending",
+      "firstSeenAt": 1790955534.1507816,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
