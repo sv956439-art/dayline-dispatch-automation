@@ -16450,9 +16450,33 @@
       "status": "pending",
       "firstSeenAt": 1790949787.6677866,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d949gq47x9o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790950938.747387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8d3ddpz8dlo",
+      "provider": "BBC",
+      "title": "Dolly Parton sings Jolene in Welsh in recording released after her death Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh.",
+      "status": "pending",
+      "firstSeenAt": 1790950938.748643,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/trial-over-death-of-abby-choi/107223886",
+      "provider": "ABC News Australia",
+      "title": "Detailed plan led to murder of Hong Kong model Abby Choi, court hears",
+      "status": "pending",
+      "firstSeenAt": 1790950939.407147,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
