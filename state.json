@@ -16146,9 +16146,25 @@
       "status": "pending",
       "firstSeenAt": 1790939169.8570864,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjx2zk09rg36o",
+      "provider": "BBC",
+      "title": "Backshall makes nature 'cool' to inspire children",
+      "status": "pending",
+      "firstSeenAt": 1790940132.7255585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/02/polanski-green-leader-authority-byelection-holborn-pancras",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790940133.253477,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
