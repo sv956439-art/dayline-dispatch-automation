@@ -16266,9 +16266,49 @@
       "status": "pending",
       "firstSeenAt": 1790943370.4371595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr5ynnvpj2go",
+      "provider": "BBC",
+      "title": "Black metal mourns pioneering Venom frontman Newcastle rock giants Venom describe Conrad Cronos Lant as \"fearless and unmistakable\".",
+      "status": "pending",
+      "firstSeenAt": 1790944680.3177898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5398kkx27ewo",
+      "provider": "BBC",
+      "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
+      "status": "pending",
+      "firstSeenAt": 1790944680.3178194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/man-shot-ice-texas-surgery",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790944680.6537933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/greens-anger-populist-left/107220586",
+      "provider": "ABC News Australia",
+      "title": "Greens see red-hot anger as an opportunity to take on Hanson, Labor",
+      "status": "pending",
+      "firstSeenAt": 1790944680.9667947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/cockroach-party-protest-chief-commissioner-allegations-bias/107222170",
+      "provider": "ABC News Australia",
+      "title": "'Cockroach Party' protestors demand Indian elections chief resign",
+      "status": "pending",
+      "firstSeenAt": 1790944680.9668424,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
