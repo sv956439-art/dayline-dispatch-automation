@@ -16754,9 +16754,17 @@
       "status": "pending",
       "firstSeenAt": 1790960435.341543,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20230224-should-you-avoid-eating-burnt-food",
+      "provider": "BBC",
+      "title": "Is burnt food a health risk? Do you scrape the burnt bits off a piece of toast? Recent research suggests that might not be a bad idea…",
+      "status": "pending",
+      "firstSeenAt": 1790961312.3273633,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
