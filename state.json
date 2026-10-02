@@ -15330,9 +15330,81 @@
       "status": "pending",
       "firstSeenAt": 1790906699.5166638,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1585y0y90go",
+      "provider": "BBC",
+      "title": "NY's governor appoints special counsel in Cornell frat rape investigation",
+      "status": "pending",
+      "firstSeenAt": 1790907620.0330453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjvgygzzy6lro",
+      "provider": "BBC",
+      "title": "Australia says gaming platforms like Steam have 'significant' child safety gaps Fortnite, Roblox and Minecraft also told to 'lift their game' by online safety regulator.",
+      "status": "pending",
+      "firstSeenAt": 1790907620.0331538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790907620.3799975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790907620.3803139,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/02/may-heatwaves-deaths-ruined-harvests-study-of-europes-summer-paints-grim-picture-for-the-future",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790907620.3804286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+      "provider": "The Guardian",
+      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+      "status": "pending",
+      "firstSeenAt": 1790907620.381271,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/denys-kostev-how-russia-turned-a-stolen-teen-into-poster-child/107192742",
+      "provider": "ABC News Australia",
+      "title": "Ukrainian teen recounts brainwashing to become Moscow's 'poster child'",
+      "status": "pending",
+      "firstSeenAt": 1790907620.6191819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/f1-returns-to-malaysia-oscar-piastri/107220710",
+      "provider": "ABC News Australia",
+      "title": "Piastri likens track to 'sandpaper' as F1 returns to Malaysia",
+      "status": "pending",
+      "firstSeenAt": 1790907620.6203935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/public-holiday-on-monday-kings-birthday-labour-day/107180182",
+      "provider": "ABC News Australia",
+      "title": "Which states get a public holiday on Monday?",
+      "status": "pending",
+      "firstSeenAt": 1790907620.62044,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
