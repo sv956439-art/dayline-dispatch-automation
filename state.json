@@ -16306,9 +16306,33 @@
       "status": "pending",
       "firstSeenAt": 1790944680.9668424,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69wzjjxex8po",
+      "provider": "BBC",
+      "title": "School protests send shivers down French government's spine A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+      "status": "pending",
+      "firstSeenAt": 1790945709.828057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c62l8lxl188go",
+      "provider": "BBC",
+      "title": "Paul Merton show halted by theatre roof leak Paul Merton and his wife Suki Webster's show was abandoned when water began falling on the audience.",
+      "status": "pending",
+      "firstSeenAt": 1790945709.8283887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/police-divers-medical-helicopter-crash-los-angeles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790945710.0481572,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
