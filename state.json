@@ -17354,9 +17354,41 @@
       "status": "pending",
       "firstSeenAt": 1790982370.823464,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7v4v8pmzdeo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790983124.1865625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "provider": "BBC",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "status": "pending",
+      "firstSeenAt": 1790983124.1866283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjwyzyqvx1zxo",
+      "provider": "BBC",
+      "title": "Women given shorts at Oktoberfest to prevent upskirting The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "status": "pending",
+      "firstSeenAt": 1790983124.1867328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/labor-risks-seats-with-working-holiday-visa-policy/107222324",
+      "provider": "ABC News Australia",
+      "title": "Labor's working holiday visa policy risks regional seats, experts say",
+      "status": "pending",
+      "firstSeenAt": 1790983124.9943516,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
