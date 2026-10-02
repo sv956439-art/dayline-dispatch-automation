@@ -15426,9 +15426,41 @@
       "status": "pending",
       "firstSeenAt": 1790910625.5572197,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1dld14weero",
+      "provider": "BBC",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\". 16 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1790911565.9182098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/nsw-three-charged-after-women-assaulted-home-invasions-sydney/107220274",
+      "provider": "ABC News Australia",
+      "title": "'Very violent' home invasions targeted woman home alone, police say",
+      "status": "pending",
+      "firstSeenAt": 1790911566.7764192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/nrlw-grand-final-doubles-as-end-of-an-era/107218874",
+      "provider": "ABC News Australia",
+      "title": "NRLW grand final marks end of era",
+      "status": "pending",
+      "firstSeenAt": 1790911566.77732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/two-stolen-miniature-goats-baranduda-primary-school/107219670",
+      "provider": "ABC News Australia",
+      "title": "Primary school 'devastated' by suspected theft of kid goats",
+      "status": "pending",
+      "firstSeenAt": 1790911566.777365,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
