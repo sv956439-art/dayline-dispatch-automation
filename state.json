@@ -17194,9 +17194,57 @@
       "status": "pending",
       "firstSeenAt": 1790978670.45332,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq70p3w936w9o",
+      "provider": "BBC",
+      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1790979618.460063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmpdgllgeng7o",
+      "provider": "BBC",
+      "title": "McHaffie the hero as Edinburgh sink Stormers",
+      "status": "pending",
+      "firstSeenAt": 1790979618.4605176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cxm23n4py5z6o",
+      "provider": "BBC",
+      "title": "Cardiff seal bonus-point victory against Zebre",
+      "status": "pending",
+      "firstSeenAt": 1790979618.4605968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cxvgd5el640no",
+      "provider": "BBC",
+      "title": "Trump whitewashes Selby to set up Wu semi-final",
+      "status": "pending",
+      "firstSeenAt": 1790979618.460859,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws",
+      "provider": "The Guardian",
+      "title": "Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’",
+      "status": "pending",
+      "firstSeenAt": 1790979618.901362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/canberra-grassland-earless-dragon-clay-burrow-summer-heat/107221714",
+      "provider": "ABC News Australia",
+      "title": "Man-made clay burrows hoping to save endangered dragon from summer heat",
+      "status": "pending",
+      "firstSeenAt": 1790979619.1782057,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
