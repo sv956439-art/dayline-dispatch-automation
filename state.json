@@ -16498,9 +16498,25 @@
       "status": "pending",
       "firstSeenAt": 1790951949.5312638,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250523-the-surprising-health-benefits-of-taking-creatine-powder",
+      "provider": "BBC",
+      "title": "The bodybuilding supplement that could boost brainpower Creatine is often taken by people looking to build muscle. Now scientists are investigating the effects this chemical has on our cognition and mood.",
+      "status": "pending",
+      "firstSeenAt": 1790952866.1278381,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790952866.4122322,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
