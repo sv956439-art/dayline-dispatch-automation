@@ -16066,9 +16066,49 @@
       "status": "pending",
       "firstSeenAt": 1790935240.5810983,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0e3ed1er1yo",
+      "provider": "BBC",
+      "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now Students told the BBC the tension on campus had become palpable after allegations from 2024 resurfaced.",
+      "status": "pending",
+      "firstSeenAt": 1790936092.330502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261001-why-a-new-tv-version-of-horror-classic-carrie-is-already-annoying-people",
+      "provider": "BBC",
+      "title": "Why a new TV version of horror classic Carrie is already annoying people Releasing next week, the latest take on Stephen King's novel has been criticised for its casting. The heroine is a softer, more conventional-looking character than in the book.",
+      "status": "pending",
+      "firstSeenAt": 1790936092.3313034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790936092.710453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790936092.711011,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/chinese-couple-killed-ledcourt-victoria-crash-remembered/106017256",
+      "provider": "ABC News Australia",
+      "title": "Healthcare workers killed in Ledcourt triple-fatal had a 'bright' future in Australia",
+      "status": "pending",
+      "firstSeenAt": 1790936093.0545564,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
