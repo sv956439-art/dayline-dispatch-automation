@@ -17330,9 +17330,17 @@
       "status": "pending",
       "firstSeenAt": 1790981211.8736732,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/public-servant-sole-director-private-ndis-provider-alice-springs/107151490",
+      "provider": "ABC News Australia",
+      "title": "Complaint over senior NT public servant who ran private NDIS provider",
+      "status": "pending",
+      "firstSeenAt": 1790981830.159774,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
