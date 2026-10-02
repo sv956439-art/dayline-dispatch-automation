@@ -17306,9 +17306,33 @@
       "status": "pending",
       "firstSeenAt": 1790980435.7195563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmew9w451vx8o",
+      "provider": "BBC",
+      "title": "Which clubs did Man City's 'inflated' money flow to in transfer market? BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
+      "status": "pending",
+      "firstSeenAt": 1790981211.0993435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790981211.4415145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/exposure-to-sharks-reduce-fear-and-boost-conservation-sa/107180928",
+      "provider": "ABC News Australia",
+      "title": "Could exposure to sharks reduce fear and boost conservation efforts?",
+      "status": "pending",
+      "firstSeenAt": 1790981211.8736732,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
