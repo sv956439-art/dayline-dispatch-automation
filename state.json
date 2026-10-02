@@ -16826,9 +16826,41 @@
       "status": "pending",
       "firstSeenAt": 1790965510.4604802,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790966513.4137113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
+      "provider": "ABC News Australia",
+      "title": "Trump's 'excursion into hell' commentary may come back to bite",
+      "status": "pending",
+      "firstSeenAt": 1790966513.75538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/digger-tom-cruise-sophie-wilde-interview/107216844",
+      "provider": "ABC News Australia",
+      "title": "Why keeping Tom Cruise's secret made Sophie Wilde 'so stressed'",
+      "status": "pending",
+      "firstSeenAt": 1790966513.7554944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/abc-5050-quiz/107219862",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Testing your knowledge of Kermit the Frog, Princess Diana and 90s TV principals",
+      "status": "pending",
+      "firstSeenAt": 1790966513.7555351,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
