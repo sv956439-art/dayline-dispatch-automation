@@ -15810,9 +15810,57 @@
       "status": "pending",
       "firstSeenAt": 1790925247.6694782,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c639m98gde00o",
+      "provider": "BBC",
+      "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi Capt Smit Machchhar, who was stabbed on the Israel-bound flight, has been hailed as a hero. 10 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1790926270.523524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmj4jr2vgx0ko",
+      "provider": "BBC",
+      "title": "The Unpromotables: Germany's league champions who can't go up",
+      "status": "pending",
+      "firstSeenAt": 1790926270.52481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/02/the-end-times-fascists-are-plotting-their-escape-from-our-world-our-mission-is-clear-podcast",
+      "provider": "The Guardian",
+      "title": "The end times fascists are plotting their escape from our world. Our mission is clear – podcast",
+      "status": "pending",
+      "firstSeenAt": 1790926270.9659896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/jake-douglas-smith-allegedly-let-toddler-steer-car-in-perth/107220950",
+      "provider": "ABC News Australia",
+      "title": "Perth man accused of letting toddler steer car appears in court",
+      "status": "pending",
+      "firstSeenAt": 1790926271.1904843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108",
+      "provider": "ABC News Australia",
+      "title": "Rogue OpenAI agent accessed second NSW government website",
+      "status": "pending",
+      "firstSeenAt": 1790926271.1905277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/ali-brigginshaw-calls-for-nrlw-chief/107223188",
+      "provider": "ABC News Australia",
+      "title": "NRLW needs its own CEO, says legend Ali Brigginshaw",
+      "status": "pending",
+      "firstSeenAt": 1790926271.190567,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
