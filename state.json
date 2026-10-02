@@ -15554,9 +15554,57 @@
       "status": "pending",
       "firstSeenAt": 1790917178.3051944,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60e3ex0egeqo",
+      "provider": "BBC",
+      "title": "Windrush compensation funds prize for playwrights The winning dramatist will receive £10,000, publication and a professional theatre production.",
+      "status": "pending",
+      "firstSeenAt": 1790917982.2584527,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790917982.4679332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/amy-shark-screaming-jets-nrl-grand-final-jai-arrow-tribute-music/107222214",
+      "provider": "ABC News Australia",
+      "title": "Amy Shark to lead NRL grand final musical tribute to Jai Arrow",
+      "status": "pending",
+      "firstSeenAt": 1790917982.7920077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/how-to-protect-your-garden-and-live-in-harmony-with-possums/106722004",
+      "provider": "ABC News Australia",
+      "title": "How to protect your garden and live in harmony with possums",
+      "status": "pending",
+      "firstSeenAt": 1790917982.7922215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/rare-breed-gym-owner-ray-dimachki-phone-records/107220670",
+      "provider": "ABC News Australia",
+      "title": "Extensive phone data to be analysed in boxer's drug trafficking case",
+      "status": "pending",
+      "firstSeenAt": 1790917982.7925255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/4500-new-homes-in-newly-approved-warrnambool-residential-boost/107220508",
+      "provider": "ABC News Australia",
+      "title": "Big housing development set to grow Warrnambool's population by 50 per cent",
+      "status": "pending",
+      "firstSeenAt": 1790917982.7925758,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
