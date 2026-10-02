@@ -17242,9 +17242,73 @@
       "status": "pending",
       "firstSeenAt": 1790979619.1782057,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwjdmk3j5xleo",
+      "provider": "BBC",
+      "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
+      "status": "pending",
+      "firstSeenAt": 1790980435.0124485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/us-sanctions-hamas-financing-network",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790980435.3736959,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790980435.3737242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/luigi-mangione-police-bodycam-video",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790980435.3737462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/france-protests-education-tear-gas-fires-violence-police/107224434",
+      "provider": "ABC News Australia",
+      "title": "Violent protests in France over conditions in high schools",
+      "status": "pending",
+      "firstSeenAt": 1790980435.7194407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/international-whaling-commission-resolutions-in-hobart-meeting/107223122",
+      "provider": "ABC News Australia",
+      "title": "Massive whale sanctuary rejected again, but Brazil vows to never stop trying",
+      "status": "pending",
+      "firstSeenAt": 1790980435.7194877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/measles-and-other-diseases-are-making-a-comeback/107218766",
+      "provider": "ABC News Australia",
+      "title": "Diseases of the past like measles and diphtheria are making a comeback",
+      "status": "pending",
+      "firstSeenAt": 1790980435.7195325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/golf-club-water-changes-void-after-taswater-change/107222444",
+      "provider": "ABC News Australia",
+      "title": "Golf club spends $30k on water changes, only for policy to change",
+      "status": "pending",
+      "firstSeenAt": 1790980435.7195563,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
