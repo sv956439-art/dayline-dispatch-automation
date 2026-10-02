@@ -15290,9 +15290,25 @@
       "status": "pending",
       "firstSeenAt": 1790904578.9271238,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/labor-migration-crackdown-international-students",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790905414.826958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/cba-boss-talks-interest-rates-and-november-hike-possibility/107220010",
+      "provider": "ABC News Australia",
+      "title": "November interest rate rise a 'live' possibility, CBA chief says",
+      "status": "pending",
+      "firstSeenAt": 1790905415.5056067,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
