@@ -16034,9 +16034,25 @@
       "status": "pending",
       "firstSeenAt": 1790933987.928503,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/ckpq0r02lz81o",
+      "provider": "BBC",
+      "title": "'You could be legends' - inside unfancied Wakefield's rapid ascent",
+      "status": "pending",
+      "firstSeenAt": 1790934785.1366382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6m2r21pp7vno",
+      "provider": "BBC",
+      "title": "Wade closes in on record as tries dominate Prem",
+      "status": "pending",
+      "firstSeenAt": 1790934785.1367471,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
