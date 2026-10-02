@@ -16914,9 +16914,65 @@
       "status": "pending",
       "firstSeenAt": 1790968938.129423,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3kgqw7zvz47o",
+      "provider": "BBC",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "status": "pending",
+      "firstSeenAt": 1790969781.3726814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv1j3lgrl6gko",
+      "provider": "BBC",
+      "title": "Widdecombe suspect charged with planning terror act against Farage Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\". 49 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790969781.3727717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790969781.8452592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/kennedy-center-honors-awards-venue-moved",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790969781.8452754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/christa-pike-botched-execution-timeline/107221564",
+      "provider": "ABC News Australia",
+      "title": "A 'bent' needle and multiple doses: How a botched execution unfolded",
+      "status": "pending",
+      "firstSeenAt": 1790969782.0069878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/james-tedesco-kalyn-ponga-nrl-grand-final-2026/107223224",
+      "provider": "ABC News Australia",
+      "title": "Tedesco and Ponga went through different worlds to meet in NRL grand final",
+      "status": "pending",
+      "firstSeenAt": 1790969782.007178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/warmun-kimberley-artists-finalists-lester-art-prize/107222198",
+      "provider": "ABC News Australia",
+      "title": "Two artists from same remote community finalists in prestigious portrait prize",
+      "status": "pending",
+      "firstSeenAt": 1790969782.0077446,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
