@@ -16106,9 +16106,17 @@
       "status": "pending",
       "firstSeenAt": 1790936093.0545564,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0z00wr14xo",
+      "provider": "BBC",
+      "title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says The United Nations said violent gangs continue to \"adapt and expand\" across the country, further threatening its stability.",
+      "status": "pending",
+      "firstSeenAt": 1790937015.528556,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
