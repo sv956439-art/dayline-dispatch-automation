@@ -16474,9 +16474,33 @@
       "status": "pending",
       "firstSeenAt": 1790950939.407147,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/new-york-cornell-alleged-gang-rape-kathy-hochul",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790951948.7289495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+      "provider": "The Guardian",
+      "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+      "status": "pending",
+      "firstSeenAt": 1790951948.7292905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/nepal-plans-drain-glacial-lakes-after-flooding-disaster/107223866",
+      "provider": "ABC News Australia",
+      "title": "Nepal plans to drain four glacial lakes after flooding disaster",
+      "status": "pending",
+      "firstSeenAt": 1790951949.5312638,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
