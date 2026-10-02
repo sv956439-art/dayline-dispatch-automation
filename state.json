@@ -16538,9 +16538,41 @@
       "status": "pending",
       "firstSeenAt": 1790953460.525555,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623dlk4y75mo",
+      "provider": "BBC",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87 The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "status": "pending",
+      "firstSeenAt": 1790954597.3869805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqd095z49gjvo",
+      "provider": "BBC",
+      "title": "Tuchel would never rule out players not in top flight",
+      "status": "pending",
+      "firstSeenAt": 1790954597.3872478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790954597.7287447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/02/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales-plaid-cymru",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790954597.7291253,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
