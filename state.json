@@ -16762,9 +16762,33 @@
       "status": "pending",
       "firstSeenAt": 1790961312.3273633,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrk3kkrvl1jo",
+      "provider": "BBC",
+      "title": "Former theatre staff reported to police for theft The theatre says the investigation also found staff had created \"inappropriate\" graffiti.",
+      "status": "pending",
+      "firstSeenAt": 1790962245.4597478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/02/palestine-action-activists-whips-hammers-guards-elbit-bristol",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790962245.8565516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/02/olivia-dean-ive-seen-it-plagiarism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790962245.8566623,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
