@@ -15490,9 +15490,33 @@
       "status": "pending",
       "firstSeenAt": 1790913740.3395321,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790914789.1297684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/roosters-connor-watson-out-of-nrl-grand-final/107221782",
+      "provider": "ABC News Australia",
+      "title": "Roosters blow as Watson ruled out",
+      "status": "pending",
+      "firstSeenAt": 1790914789.671846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/yarra-mayor-stephen-jolly-not-guilty/107220952",
+      "provider": "ABC News Australia",
+      "title": "Assault charge against Yarra mayor Stephen Jolly dismissed",
+      "status": "pending",
+      "firstSeenAt": 1790914789.6723876,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
