@@ -16882,9 +16882,41 @@
       "status": "pending",
       "firstSeenAt": 1790967952.7880204,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790968937.4551096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/ucla-law-school-doj-findings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790968937.4552953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790968937.4553463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/swiss-glaciers-shed-five-per-cent-of-ice-volume-in-2026/107219004",
+      "provider": "ABC News Australia",
+      "title": "Switzerland's 'wake-up call' as glaciers melt in record-breaking summer",
+      "status": "pending",
+      "firstSeenAt": 1790968938.129423,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
