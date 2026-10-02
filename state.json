@@ -15634,9 +15634,25 @@
       "status": "pending",
       "firstSeenAt": 1790918879.4510176,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvwyz0jx3znyo",
+      "provider": "BBC",
+      "title": "Ferguson on brain haemorrhage and games that shaped his life Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
+      "status": "pending",
+      "firstSeenAt": 1790919711.7257786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/tas-blue-code-of-silence-stops-dv-victims-reporting-police/107221656",
+      "provider": "ABC News Australia",
+      "title": "Inquiry hears 'blue code of silence' stops DV victims reporting police",
+      "status": "pending",
+      "firstSeenAt": 1790919713.026385,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
