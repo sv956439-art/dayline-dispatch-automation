@@ -15226,9 +15226,57 @@
       "status": "pending",
       "firstSeenAt": 1790902806.3240454,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
+      "provider": "BBC",
+      "title": "OpenAI fires three workers over mishandling 'sensitive information' The former employees were investigated for sharing data with an outside AI evaluation group. 9 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1790903666.115302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l6zvr9gdgo",
+      "provider": "BBC",
+      "title": "What's really going on in lymphatic drainage beauty videos? Fans of these massages claim they \"depuff\" and \"define\" their stomach - but what's actually happening to their bodies? 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1790903666.2304683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8e3e5k2010o",
+      "provider": "BBC",
+      "title": "Weekly quiz: How did two champions fight over marathon dates for next year's London races? How much attention did you pay to what happened in the world over the past seven days? 7 hrs ago London",
+      "status": "pending",
+      "firstSeenAt": 1790903666.2306707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790903666.6067562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/letitia-james-cornell-gang-rape",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790903666.6073952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/01/former-dallas-police-officer-murdered-black-neighbor-early-parole",
+      "provider": "The Guardian",
+      "title": "Former Dallas police officer convicted of murdering Black neighbor given early parole",
+      "status": "pending",
+      "firstSeenAt": 1790903666.6078885,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
