@@ -15602,9 +15602,41 @@
       "status": "pending",
       "firstSeenAt": 1790917982.7925758,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9dr7r34j6xgo",
+      "provider": "BBC",
+      "title": "Major art show starts UK tour in Coventry The British Art Show 10 opens in Coventry, before heading around the UK on tour.",
+      "status": "pending",
+      "firstSeenAt": 1790918879.4509654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly4y9r5nz0o",
+      "provider": "BBC",
+      "title": "Brass band bids to become national champions",
+      "status": "pending",
+      "firstSeenAt": 1790918879.4509857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crwyzyxgg257o",
+      "provider": "BBC",
+      "title": "'I'm proud to be named Birmingham's new poet laureate'",
+      "status": "pending",
+      "firstSeenAt": 1790918879.4510021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7v4vm79pd0o",
+      "provider": "BBC",
+      "title": "'Everyone in the Big Brother house was just crying'",
+      "status": "pending",
+      "firstSeenAt": 1790918879.4510176,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
