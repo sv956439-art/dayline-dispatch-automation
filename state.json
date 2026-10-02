@@ -16802,9 +16802,17 @@
       "status": "pending",
       "firstSeenAt": 1790963058.0336523,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/earthquake-strikes-near-leongatha-gippsland-victoria/107224300",
+      "provider": "ABC News Australia",
+      "title": "Magnitude-4.8 earthquake strikes in rural Victoria",
+      "status": "pending",
+      "firstSeenAt": 1790963691.602278,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
