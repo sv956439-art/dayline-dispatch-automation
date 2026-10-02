@@ -15410,9 +15410,25 @@
       "status": "pending",
       "firstSeenAt": 1790909245.2128694,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/nsw-beau-lamarre-condon-jesse-baird-triple-zero-call/107219596",
+      "provider": "ABC News Australia",
+      "title": "Beau Lamarre-Condon jury played Triple Zero call from day of alleged murders",
+      "status": "pending",
+      "firstSeenAt": 1790910625.5559607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/ny-cornell-gang-rape-attorney-general-to-oversee-case/107220888",
+      "provider": "ABC News Australia",
+      "title": "New York Attorney General to oversee Cornell rape investigation",
+      "status": "pending",
+      "firstSeenAt": 1790910625.5572197,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
