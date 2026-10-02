@@ -16210,9 +16210,25 @@
       "status": "pending",
       "firstSeenAt": 1790941768.2695642,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crn8e86y5n0zo",
+      "provider": "BBC",
+      "title": "UK diesel price hits £2 a litre as US calls for Europe to release more stocks The RAC says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+      "status": "pending",
+      "firstSeenAt": 1790942370.562023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/oct/02/gordon-ramsay-uk-restaurants-sales-savoy-petrus-lucky-cat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790942370.7609744,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
