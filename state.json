@@ -16986,9 +16986,33 @@
       "status": "pending",
       "firstSeenAt": 1790970585.4455392,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790971184.3515115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/aemo-under-fire-over-rose-tinted-power-reliability-forecasts/107189716",
+      "provider": "ABC News Australia",
+      "title": "Is a 'fantasy' now driving Australia's power reliability outlook?",
+      "status": "pending",
+      "firstSeenAt": 1790971184.9959345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/g7-to-release-100m-barrels-oil-in-bid-to-curb-soaring-prices/107224282",
+      "provider": "ABC News Australia",
+      "title": "G7 to release 100 million barrels of oil in bid to curb soaring prices",
+      "status": "pending",
+      "firstSeenAt": 1790971184.995986,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
