@@ -16186,9 +16186,33 @@
       "status": "pending",
       "firstSeenAt": 1790940976.1986065,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqe8x87y3lg2o",
+      "provider": "BBC",
+      "title": "Was long-awaited win a turning point for Bellamy?",
+      "status": "pending",
+      "firstSeenAt": 1790941768.26946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/judo/articles/cm93v3353vryo",
+      "provider": "BBC",
+      "title": "China's Tang disqualified after alleged bite",
+      "status": "pending",
+      "firstSeenAt": 1790941768.2695115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c9vgygg5elnlo",
+      "provider": "BBC",
+      "title": "Kim leads Asian Games seeking military exemption",
+      "status": "pending",
+      "firstSeenAt": 1790941768.2695642,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
