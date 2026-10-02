@@ -16114,9 +16114,25 @@
       "status": "pending",
       "firstSeenAt": 1790937015.528556,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c617j74r781qo",
+      "provider": "BBC",
+      "title": "Adventurer completes oceans row after 327 days at sea Dave \"Dinger\" Bell arrives in Kenya after setting off from Peru nearly 11 months ago. 19 mins ago Dorset",
+      "status": "pending",
+      "firstSeenAt": 1790937901.9598885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790937902.5228293,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
