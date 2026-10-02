@@ -15474,9 +15474,17 @@
       "status": "pending",
       "firstSeenAt": 1790912461.0634835,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/qld-state-to-take-data-centre-approvals-from-local-councils/107221348",
+      "provider": "ABC News Australia",
+      "title": "Qld government takes data centre approvals from councils to avoid 'inconsistency'",
+      "status": "pending",
+      "firstSeenAt": 1790913242.6605594,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
