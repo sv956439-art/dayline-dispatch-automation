@@ -16362,9 +16362,25 @@
       "status": "pending",
       "firstSeenAt": 1790948384.999774,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d6gg0642yo",
+      "provider": "BBC",
+      "title": "US jobs market sees sharp slowdown in September Unemployment rose slightly as American employers paused hiring with midterm elections just a month away. 25 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1790949240.0791242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm9qrqelnd49o",
+      "provider": "BBC",
+      "title": "How Gordon became one of England's main men",
+      "status": "pending",
+      "firstSeenAt": 1790949240.0805206,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
