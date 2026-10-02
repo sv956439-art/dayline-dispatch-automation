@@ -16050,9 +16050,25 @@
       "status": "pending",
       "firstSeenAt": 1790934785.1367471,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5ydy1yk3yqo",
+      "provider": "BBC",
+      "title": "British paratrooper killed by explosion in Ukraine, coroner rules L/Cpl George Hooley is the first UK service member to die in Ukraine since Russia's full-scale invasion in February 2022. 12 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790935240.5798845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c933k3gk72x6o",
+      "provider": "BBC",
+      "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us The star's record label is sued over similarities between her song I've Seen It and  Withers' classic.",
+      "status": "pending",
+      "firstSeenAt": 1790935240.5810983,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
