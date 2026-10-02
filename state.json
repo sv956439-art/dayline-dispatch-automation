@@ -16746,9 +16746,17 @@
       "status": "pending",
       "firstSeenAt": 1790959867.2985983,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/barking-beautiful-the-2026-dog-photography-awards-in-pictures",
+      "provider": "The Guardian",
+      "title": "Barking beautiful: the 2026 Dog Photography awards – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1790960435.341543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
