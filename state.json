@@ -17154,9 +17154,17 @@
       "status": "pending",
       "firstSeenAt": 1790976680.8725102,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/soldiers-legacy-surprise-backyard-makeover-/107185542",
+      "provider": "ABC News Australia",
+      "title": "Soldiers' surprise backyard makeover leaves 90yo 'stunned'",
+      "status": "pending",
+      "firstSeenAt": 1790977581.260075,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
