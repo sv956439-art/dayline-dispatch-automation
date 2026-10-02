@@ -16866,9 +16866,25 @@
       "status": "pending",
       "firstSeenAt": 1790967333.9064841,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/02/king-charles-darkest-days-britain-colonial-rule-caribbean-tour",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790967952.5151818,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/the-incredible-story-of-oliver-curtis/107222356",
+      "provider": "ABC News Australia",
+      "title": "From prison to billionaire data centre operator, the incredible story of Oliver Curtis",
+      "status": "pending",
+      "firstSeenAt": 1790967952.7880204,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
