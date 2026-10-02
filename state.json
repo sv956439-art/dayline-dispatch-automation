@@ -17410,9 +17410,25 @@
       "status": "pending",
       "firstSeenAt": 1790984481.124381,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/cwgkvyyg8115o",
+      "provider": "BBC",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year? For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month. 12 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1790985050.9084947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/graziers-to-help-fix-damaged-roads-in-remote-nsw-sa/107211670",
+      "provider": "ABC News Australia",
+      "title": "Graziers step in to fix damaged roads after incomes 'decimated'",
+      "status": "pending",
+      "firstSeenAt": 1790985051.8147063,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
