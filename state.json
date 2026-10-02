@@ -15514,9 +15514,33 @@
       "status": "pending",
       "firstSeenAt": 1790914789.6723876,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3n070vxkjl9o",
+      "provider": "BBC",
+      "title": "Move to stop charges for parents to sit by children on flights",
+      "status": "pending",
+      "firstSeenAt": 1790916591.7754471,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/comedy-wildlife-photography-awards-finalists-announced/107221426",
+      "provider": "ABC News Australia",
+      "title": "Perfectly timed snaps of silly creatures in comedy wildlife finals",
+      "status": "pending",
+      "firstSeenAt": 1790916592.760113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/wet-weather-flash-flooding-victoria-spring-rain/107219510",
+      "provider": "ABC News Australia",
+      "title": "Dairy farm flooded, but grain growers rejoice as Victoria settles in for wet weekend",
+      "status": "pending",
+      "firstSeenAt": 1790916592.7606027,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
