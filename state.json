@@ -18290,9 +18290,177 @@
       "status": "pending",
       "firstSeenAt": 1791034822.044657,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8zxl62yzxzxo",
+      "provider": "BBC",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "status": "pending",
+      "firstSeenAt": 1791052070.6562111,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2z2j8yjvgo",
+      "provider": "BBC",
+      "title": "I interviewed Christa Pike 20 years ago - I can't stop thinking about her Journalist Helen Roberts says Christa Pike the person and the criminal were \"two different people\". 7 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791052070.6567533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme3x85013llo",
+      "provider": "BBC",
+      "title": "Medical plane with 6 on board missing off Massachusetts coast The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "status": "pending",
+      "firstSeenAt": 1791052070.65714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq4g1x8znyd0o",
+      "provider": "BBC",
+      "title": "Who was the best player on the pitch? - England player ratings",
+      "status": "pending",
+      "firstSeenAt": 1791052070.6576672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly3n09ejeko",
+      "provider": "BBC",
+      "title": "Ramsey mural aims to 'elevate' famous Manx poet Situated in Parliament Street, the mural celebrates Josephine Kermode, known by her name the Cushag.",
+      "status": "pending",
+      "firstSeenAt": 1791052070.6577706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyeg1r9xe9o",
+      "provider": "BBC",
+      "title": "Noel Gallagher guitar sells for £12,000 at auction",
+      "status": "pending",
+      "firstSeenAt": 1791052070.6577914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn8e887716vo",
+      "provider": "BBC",
+      "title": "UK opposition leader Kemi Badenoch has cemented her image. Now she wants to put Tories back on the big stage The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference. 8 hrs ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1791052070.7288764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr62y3enq62zo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052070.7289972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rm9y8d4wg8o",
+      "provider": "BBC",
+      "title": "10 Thalidomide survivor given minutes to live as a baby takes to the skies",
+      "status": "pending",
+      "firstSeenAt": 1791052070.7291808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.304522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/women-given-free-cycling-shorts-prevent-upskirting-oktoberfest-amusement-ride-teufelsrad-germany",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3048565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3048923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3051887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3053033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/florida-ex-sheriff-deputy-not-guilty-shooting-death-black-air-force-airman",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3053212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/shop-clerk-and-son-charged-selling-kratom-mississippi",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3053393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/tsa-rule-change",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3053567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/03/gypsy-rose-blanchard-former-husband",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3053744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare",
+      "provider": "The Guardian",
+      "title": "Trump says US to send one-time $90 payment to 20m seniors enrolled in Medicare",
+      "status": "pending",
+      "firstSeenAt": 1791052071.305597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/florida-felony-murder-charge-hot-car-death",
+      "provider": "The Guardian",
+      "title": "Florida court reverses felony murder charge for death of baby left in hot car",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3056202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/03/robert-p-jones-backslide-interview",
+      "provider": "The Guardian",
+      "title": "When is the right time to compare US politics to the Nazi era? This expert on Christian nationalism says: now",
+      "status": "pending",
+      "firstSeenAt": 1791052071.3057199,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
