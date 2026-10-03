@@ -17482,9 +17482,25 @@
       "status": "pending",
       "firstSeenAt": 1790987704.6446543,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790989359.465121,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/ancient-craft-of-bellringing-thriving-in-central-west-nsw/107216292",
+      "provider": "ABC News Australia",
+      "title": "Inside the 'secret society' keeping the art of bellringing alive",
+      "status": "pending",
+      "firstSeenAt": 1790989359.7733746,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
