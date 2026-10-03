@@ -17682,9 +17682,41 @@
       "status": "pending",
       "firstSeenAt": 1791005613.7564194,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791006627.1389678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791006627.139074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/everything-we-know-newcastle-knights-crash-wallsend/107224830",
+      "provider": "ABC News Australia",
+      "title": "Newcastle Knights fans have been hit by a car — here's what we know",
+      "status": "pending",
+      "firstSeenAt": 1791006627.606834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/potholes-victoria-drivers-blow-tyres-forced-off-road-in-rain/107224986",
+      "provider": "ABC News Australia",
+      "title": "Highway potholes puncture tyres after Victoria's latest bout of rain",
+      "status": "pending",
+      "firstSeenAt": 1791006627.6078312,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
