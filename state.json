@@ -17802,9 +17802,57 @@
       "status": "pending",
       "firstSeenAt": 1791008902.271936,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8e361yqp0x2o",
+      "provider": "BBC",
+      "title": "Island hosts inter-island environment summit",
+      "status": "pending",
+      "firstSeenAt": 1791010588.6448545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj2070wgle33o",
+      "provider": "BBC",
+      "title": "Ancient bridge hidden under reservoir is revealed",
+      "status": "pending",
+      "firstSeenAt": 1791010588.6449273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/audio/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791010589.0773873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/what-is-zionism-green-party-debate",
+      "provider": "The Guardian",
+      "title": "What is Zionism and why do some critics describe it as racist?",
+      "status": "pending",
+      "firstSeenAt": 1791010589.0781,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures",
+      "provider": "The Guardian",
+      "title": "Comedy wildlife photography award finalists 2026 – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1791010589.0782328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/glenorchy-war-memorial-pool-reopens-in-hobart/107221584",
+      "provider": "ABC News Australia",
+      "title": "Olympic star takes on challengers at pool's grand reopening",
+      "status": "pending",
+      "firstSeenAt": 1791010589.6656876,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
