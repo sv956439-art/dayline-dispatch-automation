@@ -17562,9 +17562,17 @@
       "status": "pending",
       "firstSeenAt": 1790996637.8534381,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/ukraine-war-briefing-russian-attacks-on-kyiv-bridges-cause-traffic-chaos",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russian attacks on Kyiv bridges cause traffic chaos",
+      "status": "pending",
+      "firstSeenAt": 1790997942.1764746,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
