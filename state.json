@@ -17506,9 +17506,17 @@
       "status": "pending",
       "firstSeenAt": 1790991131.49973,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr7d778ez2go",
+      "provider": "BBC",
+      "title": "9 Ted Lasso honours Anthony Head with fresh tribute",
+      "status": "pending",
+      "firstSeenAt": 1790992515.172988,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
