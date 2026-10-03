@@ -17714,9 +17714,41 @@
       "status": "pending",
       "firstSeenAt": 1791006627.6078312,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3j4jrrj2v4po",
+      "provider": "BBC",
+      "title": "How staying true to his roots is helping rapper go global Hull musician Chiedu Oraka is the only UK artist performing at Music Matters Live in Singapore.",
+      "status": "pending",
+      "firstSeenAt": 1791007553.2312133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791007553.635229,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791007553.6352537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/lani-pallister-backs-up-short-course-titles-with-ocean-swim-win/107225056",
+      "provider": "ABC News Australia",
+      "title": "FOMO and 4am wake-up call get Pallister in the ocean",
+      "status": "pending",
+      "firstSeenAt": 1791007553.951894,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
