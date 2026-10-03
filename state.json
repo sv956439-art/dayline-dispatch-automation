@@ -18058,9 +18058,41 @@
       "status": "pending",
       "firstSeenAt": 1791018239.0850983,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cmy0rn425k4xo",
+      "provider": "BBC",
+      "title": "Kim wins Asian Games gold to secure military exemption Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military. 29 mins ago Golf",
+      "status": "pending",
+      "firstSeenAt": 1791019261.0125544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791019261.19252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/sources-say-omani-co-pilot-had-extreme-views/107225300",
+      "provider": "ABC News Australia",
+      "title": "Crash axe used in flydubai attack on pilot",
+      "status": "pending",
+      "firstSeenAt": 1791019261.8668697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/alex-de-minaur-reaches-china-open-quarterfinal/107225360",
+      "provider": "ABC News Australia",
+      "title": "De Minaur fights into quarterfinals in China",
+      "status": "pending",
+      "firstSeenAt": 1791019261.868115,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
