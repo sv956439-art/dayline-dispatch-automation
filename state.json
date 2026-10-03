@@ -17650,9 +17650,41 @@
       "status": "pending",
       "firstSeenAt": 1791004239.8817995,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c65y51nvn24wo",
+      "provider": "BBC",
+      "title": "Learning from Arteta and inspiring youngsters - Wilshere on management",
+      "status": "pending",
+      "firstSeenAt": 1791005613.7562115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlylj26zw5go",
+      "provider": "BBC",
+      "title": "Repair funding of £249k secured for former library Repairs are needed to the 121-year-old building as it transitions into a theatre and dance studio.",
+      "status": "pending",
+      "firstSeenAt": 1791005613.7563596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gkgg9en0xo",
+      "provider": "BBC",
+      "title": "Pinewood at 90: James Bond, Oscar winners and AI",
+      "status": "pending",
+      "firstSeenAt": 1791005613.7563949,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxm2qgmyy3zvo",
+      "provider": "BBC",
+      "title": "'I set up a performing arts school to future-proof my career'",
+      "status": "pending",
+      "firstSeenAt": 1791005613.7564194,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
