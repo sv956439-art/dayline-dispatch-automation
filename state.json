@@ -17978,9 +17978,25 @@
       "status": "pending",
       "firstSeenAt": 1791014230.879551,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wv7nlg7rwo",
+      "provider": "BBC",
+      "title": "The rapist priest who abused his 'cult-like' congregation Chris Brain, who led nightclub-style services in the 1980s and 90s, is convicted of rape. 2 hrs ago South Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791014893.1074975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791014893.527355,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
