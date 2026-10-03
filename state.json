@@ -18146,9 +18146,17 @@
       "status": "pending",
       "firstSeenAt": 1791021958.3046207,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/elon-is-my-prophet-how-musks-doge-team-took-a-wrecking-ball-to-washington",
+      "provider": "The Guardian",
+      "title": "‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to Washington",
+      "status": "pending",
+      "firstSeenAt": 1791022840.1919222,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
