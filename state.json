@@ -18090,9 +18090,17 @@
       "status": "pending",
       "firstSeenAt": 1791019261.868115,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c64g1dpgg247o",
+      "provider": "BBC",
+      "title": "India beat Pakistan to take Asian Games gold",
+      "status": "pending",
+      "firstSeenAt": 1791020094.4981003,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
