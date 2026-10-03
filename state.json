@@ -17850,9 +17850,65 @@
       "status": "pending",
       "firstSeenAt": 1791010589.6656876,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck5ywwpxe1gno",
+      "provider": "BBC",
+      "title": "The student playing in La Liga: Introvert Rodri's unique rise to top",
+      "status": "pending",
+      "firstSeenAt": 1791011511.4519272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx29nke55kno",
+      "provider": "BBC",
+      "title": "Iranian nationals charged over alleged plot to target UK Jewish community The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur. 10 hrs ago Manchester",
+      "status": "pending",
+      "firstSeenAt": 1791011511.5024893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq073egz324zo",
+      "provider": "BBC",
+      "title": "Woman in UK deceived ex-partner that she had given birth to his babies, judge rules",
+      "status": "pending",
+      "firstSeenAt": 1791011511.502573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93e3k11vpjo",
+      "provider": "BBC",
+      "title": "London migration museum given less space at new site The museum was originally to be given three floors of a 21-storey tower block in the City of London. 22 mins ago London",
+      "status": "pending",
+      "firstSeenAt": 1791011511.502822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791011511.9720466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791011511.9724085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791011511.9725862,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
