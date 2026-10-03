@@ -18154,9 +18154,25 @@
       "status": "pending",
       "firstSeenAt": 1791022840.1919222,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d095ygggv1o",
+      "provider": "BBC",
+      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail The 25-year-old man was arrested in the London borough of Westminster on Thursday. 7 mins ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1791025598.946694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791025599.448922,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
