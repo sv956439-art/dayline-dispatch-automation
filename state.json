@@ -17514,9 +17514,17 @@
       "status": "pending",
       "firstSeenAt": 1790992515.172988,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/newcastle-crash-wallsend-knights/107224796",
+      "provider": "ABC News Australia",
+      "title": "Chaos at grand final event as car hits crowd, driver arrested",
+      "status": "pending",
+      "firstSeenAt": 1790992975.78103,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
