@@ -17538,9 +17538,25 @@
       "status": "pending",
       "firstSeenAt": 1790994041.690586,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62j2l2lx4lo",
+      "provider": "BBC",
+      "title": "Spoiler alert! Is social media ruining big gig surprises? Big moments from headline acts are shared online long before many fans see their favourite artists.",
+      "status": "pending",
+      "firstSeenAt": 1790995418.4438262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/afp-charges-man-for-alleged-online-threats-to-police/107224750",
+      "provider": "ABC News Australia",
+      "title": "Police arrest man over alleged online threats after AFP searches home",
+      "status": "pending",
+      "firstSeenAt": 1790995419.3437834,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
