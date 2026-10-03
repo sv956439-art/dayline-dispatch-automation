@@ -18170,9 +18170,129 @@
       "status": "pending",
       "firstSeenAt": 1791025599.448922,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2kej47095no",
+      "provider": "BBC",
+      "title": "Protesters across Spain demand action over housing crisis More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament. 5 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1791034821.3075287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c5vgj31224kmo",
+      "provider": "BBC",
+      "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
+      "status": "pending",
+      "firstSeenAt": 1791034821.309203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm78p5x6xqq7o",
+      "provider": "BBC",
+      "title": "Republic of Ireland news conference ends abruptly amid accusations",
+      "status": "pending",
+      "firstSeenAt": 1791034821.309267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr20w7j8jd21o",
+      "provider": "BBC",
+      "title": "Alison Hammond returns home from hospital after rushing off This Morning The This Morning presenter said she believes she experienced a panic attack on Friday's show.",
+      "status": "pending",
+      "firstSeenAt": 1791034821.309392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx1l6len3gj3o",
+      "provider": "BBC",
+      "title": "Woodlands project records more trees than expected",
+      "status": "pending",
+      "firstSeenAt": 1791034821.3720994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/03/uk-iran-national-arrested-alleged-bomb-plot-raf-fairford-released-bail",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8329482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8329945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/03/iranian-men-manchester-synagogue-alleged-bomb-plot-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8330169,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/03/andy-burnham-conference-speech-wins-praise-from-drifting-labour-voters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8330383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/southern-california-late-season-heatwave",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8330991,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8331203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/jb-pritzker-profile-democrats-2028",
+      "provider": "The Guardian",
+      "title": "A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House?",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8334515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/trump-ohio-voters-midterms",
+      "provider": "The Guardian",
+      "title": "‘Trump? I think he’s a disaster’: Ohio voters aggrieved as president prepares to visit",
+      "status": "pending",
+      "firstSeenAt": 1791034821.8334935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/03/pete-hegseth-office-of-religious-affairs",
+      "provider": "The Guardian",
+      "title": "double quotation mark Pete Hegseth just took his personal crusade to a new level",
+      "status": "pending",
+      "firstSeenAt": 1791034821.833539,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/teen-charged-for-alleged-crashing-into-crowd/107225432",
+      "provider": "ABC News Australia",
+      "title": "Teen charged for alleged crashing into crowd of Newcastle Knights supporters",
+      "status": "pending",
+      "firstSeenAt": 1791034822.044657,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
