@@ -17554,9 +17554,17 @@
       "status": "pending",
       "firstSeenAt": 1790995419.3437834,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3y0zx822wlzo",
+      "provider": "BBC",
+      "title": "EV drivers love their cars, but some passengers feel sick - this could be why “I’ve heard about it many, many, many times” says one doctor who treats motion sickness. 27 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1790996637.8534381,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
