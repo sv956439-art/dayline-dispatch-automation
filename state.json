@@ -17466,9 +17466,25 @@
       "status": "pending",
       "firstSeenAt": 1790986434.4616203,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790987703.7838988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/newcastle-knights-car-crash-wallsend-injuries/107224666",
+      "provider": "ABC News Australia",
+      "title": "Multiple injuries after car hits crowd of Knights supporters in Newcastle",
+      "status": "pending",
+      "firstSeenAt": 1790987704.6446543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
