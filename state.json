@@ -17522,9 +17522,25 @@
       "status": "pending",
       "firstSeenAt": 1790992975.78103,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1790994041.2390077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/one-pan-fish-lemon-marjoram-potatoes-julia-busuttil-nishimura/107059508",
+      "provider": "ABC News Australia",
+      "title": "Find cooking fish daunting? This fragrant, easy dish may change your mind",
+      "status": "pending",
+      "firstSeenAt": 1790994041.690586,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
