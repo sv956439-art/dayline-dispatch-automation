@@ -17970,9 +17970,17 @@
       "status": "pending",
       "firstSeenAt": 1791013546.164321,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/tornado-tears-through-ulladulla-in-nsw-south-coast/107225262",
+      "provider": "ABC News Australia",
+      "title": "Tornado rips through NSW south coast, causing damage around Ulladulla",
+      "status": "pending",
+      "firstSeenAt": 1791014230.879551,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
