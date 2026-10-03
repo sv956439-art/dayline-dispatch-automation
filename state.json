@@ -18098,9 +18098,57 @@
       "status": "pending",
       "firstSeenAt": 1791020094.4981003,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cm1j3l9867jwo",
+      "provider": "BBC",
+      "title": "Verstappen takes first 2026 pole ahead of Hamilton Max Verstappen takes his and Red Bull's first pole position of 2026 with an imperious performance in qualifying at the Bahrain Grand Prix in Malaysia ahead of Ferrari's Lewis Hamilton.",
+      "status": "pending",
+      "firstSeenAt": 1791021957.4660997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261001-the-faux-historic-mansions-dividing-opinion",
+      "provider": "BBC",
+      "title": "The faux-historic mansions dividing opinion",
+      "status": "pending",
+      "firstSeenAt": 1791021957.4662006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791021957.9009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791021957.9011617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791021957.9011729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/max-verstappen-claims-pole-bahrain-grand-prix-malaysia-formula-1/107225410",
+      "provider": "ABC News Australia",
+      "title": "Verstappen claims pole at Grand Prix in Malaysia",
+      "status": "pending",
+      "firstSeenAt": 1791021958.3046207,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
