@@ -17442,9 +17442,33 @@
       "status": "pending",
       "firstSeenAt": 1790985501.9382746,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3y0zdj8jlxeo",
+      "provider": "BBC",
+      "title": "Why thousands of couples are choosing Scotland to say 'I do' A quarter of all marriages in Scotland involve couples who don't live here but see it as the ultimate wedding destination. 2 hrs ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1790986433.0035977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3eqegwpzl4o",
+      "provider": "BBC",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part' The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "status": "pending",
+      "firstSeenAt": 1790986433.0041273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/heavy-rain-summer-like-heat-varied-climate-in-september-wa/107218120",
+      "provider": "ABC News Australia",
+      "title": "WA's varied climate — rainfall to heat — captured in the first month of Spring",
+      "status": "pending",
+      "firstSeenAt": 1790986434.4616203,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
