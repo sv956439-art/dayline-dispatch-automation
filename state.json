@@ -17586,9 +17586,25 @@
       "status": "pending",
       "firstSeenAt": 1791000257.4181905,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791001286.3422163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/australian-arrested-in-hong-kong-for-holding-pistol-like-object/107220366",
+      "provider": "ABC News Australia",
+      "title": "Australian arrested for holding 'pistol-like object' in Hong Kong",
+      "status": "pending",
+      "firstSeenAt": 1791001286.9862463,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
