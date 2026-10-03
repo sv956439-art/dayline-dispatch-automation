@@ -17994,9 +17994,49 @@
       "status": "pending",
       "firstSeenAt": 1791014893.527355,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260608-how-two-low-budget-horror-films-caused-a-hollywood-earthquake",
+      "provider": "BBC",
+      "title": "How horror films Backrooms and Obsession caused a Hollywood earthquake The last few weeks have been an extraordinary time for cinema – with both these low-budget indie horrors making massive profits, while traditional blockbusters have flopped.",
+      "status": "pending",
+      "firstSeenAt": 1791015883.1447592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260804-how-hollywood-films-are-getting-horny-again",
+      "provider": "BBC",
+      "title": "'Movies are getting horny again': Why Hollywood is no longer a sex-free zone For a while, mainstream cinema was seen to be shunning sex and sexuality. But a wave of films, from I Want Your Sex to The Invite, are now exploring it in bold and provocative ways.",
+      "status": "pending",
+      "firstSeenAt": 1791015883.144796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgkjjyek10o",
+      "provider": "BBC",
+      "title": "2 hrs ago Will Sebastian Croft surprise us in Celebrity Traitors? Sutton Courtenay's Sebastian Croft has been described as an \"under-the-radar contender\". 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791015883.2078803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/sharks-set-to-linger-off-perth-beaches-after-whale-removed/107223760",
+      "provider": "ABC News Australia",
+      "title": "Sharks could linger off Perth coast despite whale carcass removal",
+      "status": "pending",
+      "firstSeenAt": 1791015883.9963777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/prime-ministers-xiii-whip-png/107225284",
+      "provider": "ABC News Australia",
+      "title": "David Fifita leads Australia in wild mismatch against PNG",
+      "status": "pending",
+      "firstSeenAt": 1791015883.9964554,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
