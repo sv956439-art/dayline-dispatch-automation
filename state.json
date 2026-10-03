@@ -17954,9 +17954,25 @@
       "status": "pending",
       "firstSeenAt": 1791012633.6512785,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61wv7lgex13o",
+      "provider": "BBC",
+      "title": "Flydubai co-pilot attacked captain with crash axe, UAE official says The flydubai flight from Dubai to Tel Aviv was carrying more than 170 people when the attack took place.",
+      "status": "pending",
+      "firstSeenAt": 1791013545.1908581,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/essendon-claim-breakthrough-aflw-victory/107225198",
+      "provider": "ABC News Australia",
+      "title": "Saints hit rock bottom, Essendon claim breakthrough AFLW victory",
+      "status": "pending",
+      "firstSeenAt": 1791013546.164321,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
