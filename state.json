@@ -18034,9 +18034,17 @@
       "status": "pending",
       "firstSeenAt": 1791015883.9964554,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/03/london-mansions-sell-house-prices-prime-property",
+      "provider": "The Guardian",
+      "title": "‘People are deserting it’: why are London mansions struggling to sell?",
+      "status": "pending",
+      "firstSeenAt": 1791017624.5929477,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
