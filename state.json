@@ -17906,9 +17906,57 @@
       "status": "pending",
       "firstSeenAt": 1791011511.9725862,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly7mgm0rd9o",
+      "provider": "BBC",
+      "title": "Film festival aims to celebrate British-Latino identity The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
+      "status": "pending",
+      "firstSeenAt": 1791012632.3808033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c8r4vg227kvzo",
+      "provider": "BBC",
+      "title": "Bath gain revenge on Exeter to win 11-try thriller",
+      "status": "pending",
+      "firstSeenAt": 1791012632.473099,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5398kvl77xno",
+      "provider": "BBC",
+      "title": "Too quiet for too long, can McGinn recapture best for Scotland?",
+      "status": "pending",
+      "firstSeenAt": 1791012632.473136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckq5x5de46ppo",
+      "provider": "BBC",
+      "title": "Joker persona helps Cong 'feel the fear' in opponents",
+      "status": "pending",
+      "firstSeenAt": 1791012632.473175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c64gdgp8w4ddo",
+      "provider": "BBC",
+      "title": "Flex your football brain with our daily quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791012632.4732068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/one-nation-launches-victorian-election-campaign/107223676",
+      "provider": "ABC News Australia",
+      "title": "One Nation promises law-and-order boost in Victorian campaign launch",
+      "status": "pending",
+      "firstSeenAt": 1791012633.6512785,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
