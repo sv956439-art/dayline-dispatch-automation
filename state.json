@@ -17746,9 +17746,65 @@
       "status": "pending",
       "firstSeenAt": 1791007553.951894,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c83vqxzdg1yko",
+      "provider": "BBC",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "status": "pending",
+      "firstSeenAt": 1791008901.4453025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2z2ekjr7go",
+      "provider": "BBC",
+      "title": "'They didn't see it coming' - what does it take to be a traitor? With the return of the new series of the BBC's Traitors, Minah Shannon opens up about her experience.",
+      "status": "pending",
+      "firstSeenAt": 1791008901.4471912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70d00lwe58o",
+      "provider": "BBC",
+      "title": "Festival puts 'underestimated town on the map'",
+      "status": "pending",
+      "firstSeenAt": 1791008901.4472167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj3dkg6d0l5o",
+      "provider": "BBC",
+      "title": "'We thought we'd faint', musicians reflect on heatwave",
+      "status": "pending",
+      "firstSeenAt": 1791008901.447241,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0rer7qv4nno",
+      "provider": "BBC",
+      "title": "From Molly-Mae to Gemma Collins - filming the real lives behind the headlines",
+      "status": "pending",
+      "firstSeenAt": 1791008901.4472637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5vgyj1vpgmro",
+      "provider": "BBC",
+      "title": "Can big events change how a city is seen?",
+      "status": "pending",
+      "firstSeenAt": 1791008901.5384197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-03/essendon-claims-breakthrough-aflw-victory/107225198",
+      "provider": "ABC News Australia",
+      "title": "Essendon claims breakthrough AFLW victory against GWS",
+      "status": "pending",
+      "firstSeenAt": 1791008902.271936,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
