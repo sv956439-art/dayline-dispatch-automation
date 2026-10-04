@@ -19082,9 +19082,241 @@
       "status": "pending",
       "firstSeenAt": 1791091817.2229424,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckreyjzzzywqo",
+      "provider": "BBC",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "status": "pending",
+      "firstSeenAt": 1791112045.281233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxly4nym57q9o",
+      "provider": "BBC",
+      "title": "Australia investigating Flydubai co-pilot's links to country State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel. 5 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1791112045.2812855,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261002-10-of-the-funniest-animal-photos-of-2026",
+      "provider": "BBC",
+      "title": "Yoga bears to resting owl face: 10 of the funniest animal photos of 2026 From a fitness-obsessed bear to a rather rude orangutan, here are 10 of the most amusing photos of the animal kingdom this year.",
+      "status": "pending",
+      "firstSeenAt": 1791112045.2813869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20230825-do-antibiotics-really-wipe-out-your-gut-bacteria",
+      "provider": "BBC",
+      "title": "Do antibiotics ruin your gut health? Antibiotics are a staple of modern medicine and save millions of lives every year. But they are also harming the normal bacterial system our health relies on.",
+      "status": "pending",
+      "firstSeenAt": 1791112045.2820783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20220811-is-dark-chocolate-really-good-for-us",
+      "provider": "BBC",
+      "title": "Is dark chocolate actually healthy? We've long been told that chocolate isn't good for us. But the darker the bar, the more surprisingly good it could be for health.",
+      "status": "pending",
+      "firstSeenAt": 1791112045.2821045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwzrdm3lyk21o",
+      "provider": "BBC",
+      "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+      "status": "pending",
+      "firstSeenAt": 1791112045.2829957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpd0wev8v38o",
+      "provider": "BBC",
+      "title": "Glastonbury 2027 tickets sell out in 42 minutes Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+      "status": "pending",
+      "firstSeenAt": 1791112045.283158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwddvddgqv9ro",
+      "provider": "BBC",
+      "title": "The hidden daytime dance revolution - and the man who captured it on camera",
+      "status": "pending",
+      "firstSeenAt": 1791112045.2831807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.571345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5717409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5721285,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/mandatory-inspections-fish-slaughterhouses-england-wales",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5721507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/04/greyhounds-welfare-welsh-racing-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5721712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5721917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5722497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5722709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5722914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5723124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/04/viral-amsterdam-chip-shop-court-fabel-friet",
+      "provider": "The Guardian",
+      "title": "‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court",
+      "status": "pending",
+      "firstSeenAt": 1791112045.572441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/glottophobia-brazilians-in-portugal-battle-for-linguistic-recognition",
+      "provider": "The Guardian",
+      "title": "‘It’s glottophobia’: Brazilians in Portugal battle for linguistic recognition",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5725455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/04/elvis-costello-honest-playlist-sinatra-clash-kelis-pink-floyd-bob-dylan",
+      "provider": "The Guardian",
+      "title": "‘I can’t listen to Pink Floyd - I find their music dreary’: Elvis Costello’s honest playlist",
+      "status": "pending",
+      "firstSeenAt": 1791112045.5727577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-jai-arrow-tribute-amy-shark/107227440",
+      "provider": "ABC News Australia",
+      "title": "Amy Shark leads grand final tribute for Jai Arrow",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8355393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrlw-grand-final-quick-hits-sydney-roosters-brisbane-broncos/107227144",
+      "provider": "ABC News Australia",
+      "title": "NRLW quick hits: Roosters complete 101-year first as Aiken stars",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8355784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrlw-ali-brigginshaw-roosters-broncos-grand-final-retirement/107227358",
+      "provider": "ABC News Australia",
+      "title": "Brigginshaw's NRLW legend remains eternal",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8356152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/cornell-president-vows-serious-look-at-fraternities-sororities/107227132",
+      "provider": "ABC News Australia",
+      "title": "Cornell president vows 'serious look' at fraternities in wake of gang rape allegations",
+      "status": "pending",
+      "firstSeenAt": 1791112045.83584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/thousands-join-motorcycle-pothole-rally-victorian-parliament/107227332",
+      "provider": "ABC News Australia",
+      "title": "Thousands of motorcyclists join pothole rally outside Victorian parliament",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8361132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/wwii-shell-detonated-on-sunshine-coast-beach/107226936",
+      "provider": "ABC News Australia",
+      "title": "Shock wake-up for residents as WWII shell detonated on beach",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8362083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/wa-premier-visits-new-laverton-hospital-in-northern-goldfields/107225430",
+      "provider": "ABC News Australia",
+      "title": "Eight-bed outback hospital costs $67m, three times original budget",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8362617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/aflw-kangaroos-swans-demons-magpies-eagles-dockers/107227274",
+      "provider": "ABC News Australia",
+      "title": "Kangaroos thrash Swans as Demons, Eagles claim crucial wins",
+      "status": "pending",
+      "firstSeenAt": 1791112045.8370595,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
