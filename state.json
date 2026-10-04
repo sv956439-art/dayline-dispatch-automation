@@ -20146,9 +20146,97 @@
       "status": "pending",
       "firstSeenAt": 1791151286.4293628,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy4z93n9n1zo",
+      "provider": "BBC",
+      "title": "The sexual abuse of disabled residents that shocked South Korea The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
+      "status": "pending",
+      "firstSeenAt": 1791152171.4329278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9p8gmvlvp57o",
+      "provider": "BBC",
+      "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+      "status": "pending",
+      "firstSeenAt": 1791152171.516351,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cq4g1l0gxl44o",
+      "provider": "BBC",
+      "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+      "status": "pending",
+      "firstSeenAt": 1791152171.516454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c6pwg5z9982zo",
+      "provider": "BBC",
+      "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5164845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqkgjnrjr3l5o",
+      "provider": "BBC",
+      "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5167065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/motorsport/articles/cmd6dq5gyw7xo",
+      "provider": "BBC",
+      "title": "Evans ends Britain's 25-year wait for WRC champion",
+      "status": "pending",
+      "firstSeenAt": 1791152171.516736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cke8r1v3jndlo",
+      "provider": "BBC",
+      "title": "Real Madrid join race for Scott - Monday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5167918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cwdd849rr9j4o",
+      "provider": "BBC",
+      "title": "Dual-code winger Nawaqanitawase stars as Roosters win NRL Final",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5169191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq0kl0yy3r0po",
+      "provider": "BBC",
+      "title": "I clawed my way to the top but need a break - Azpilicueta",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5169494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c64g155j534vo",
+      "provider": "BBC",
+      "title": "Sabalenka stunned by Bartunkova at China Open",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5169845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5djvw4n8vp8o",
+      "provider": "BBC",
+      "title": "Bowie seizing Scotland shot after World Cup disappointment",
+      "status": "pending",
+      "firstSeenAt": 1791152171.5170727,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
