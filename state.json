@@ -18986,9 +18986,105 @@
       "status": "pending",
       "firstSeenAt": 1791084823.781517,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+      "provider": "BBC",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival. 36 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1791091815.8300343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgw8yq4kyzo",
+      "provider": "BBC",
+      "title": "Are AI models the next big danger for body image? Could the rise of AI models in advertising and on social media harm young people's body confidence? 9 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791091815.8306458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq20v0e7vjkgo",
+      "provider": "BBC",
+      "title": "9 mins ago Queen's University students blast off to US for Nasa robotics competition The students will head to Florida to compete against university teams from Australia, India and the US. 9 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791091815.9264445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791091816.4150138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791091816.4152534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/tragedy-will-drive-newcastle-knights-to-win-nrl-grand-final-2026/107226932",
+      "provider": "ABC News Australia",
+      "title": "Tragedy will drive Knights to bring home NRL trophy, fans say",
+      "status": "pending",
+      "firstSeenAt": 1791091817.221062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/ukraine-to-hit-russian-refineries-in-response-to-moscow-strikes/107226904",
+      "provider": "ABC News Australia",
+      "title": "Ukraine to target Russian refineries as Zelenskyy responds to air strikes",
+      "status": "pending",
+      "firstSeenAt": 1791091817.221101,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/debris-found-missing-bermuda-boston-medical-flight-search/107227046",
+      "provider": "ABC News Australia",
+      "title": "'Debris field' found in search for missing medical flight from Bermuda",
+      "status": "pending",
+      "firstSeenAt": 1791091817.2214482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/humpback-whale-clarence-river-nsw-shark-warning/107226856",
+      "provider": "ABC News Australia",
+      "title": "Shark warning for NSW river after whale carcass removed",
+      "status": "pending",
+      "firstSeenAt": 1791091817.221607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/rowena-wise-bad-things-feel-good-album-tour-non-monogamy/107176152",
+      "provider": "ABC News Australia",
+      "title": "How non-monogamy and mental health shaped Rowena Wise's songwriting",
+      "status": "pending",
+      "firstSeenAt": 1791091817.2217402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/ulladulla-tornado-severe-damage-homes-businesses/107226952",
+      "provider": "ABC News Australia",
+      "title": "Tornado leaves 'devastating' trail of damage in Ulladulla",
+      "status": "pending",
+      "firstSeenAt": 1791091817.2223728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/sa-government-major-works-motogp-plans/107226950",
+      "provider": "ABC News Australia",
+      "title": "SA government says prior parklands works set precedent for MotoGP circuit",
+      "status": "pending",
+      "firstSeenAt": 1791091817.2229424,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
