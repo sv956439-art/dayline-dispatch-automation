@@ -20114,9 +20114,41 @@
       "status": "pending",
       "firstSeenAt": 1791150714.5985274,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdm5n1vy7go",
+      "provider": "BBC",
+      "title": "Members of UK's Green Party back 'Zionism is racism' motion The vote has caused divisions among figures at the top of the party at its conference in Brighton. 1 hr ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791151286.429152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c8kge0d95dzno",
+      "provider": "BBC",
+      "title": "Djokovic beats Zverev to reach China Open semis Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open. 7 hrs ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1791151286.4292011,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly0994dgpno",
+      "provider": "BBC",
+      "title": "7 'Perimenopause cost me my job and family life'",
+      "status": "pending",
+      "firstSeenAt": 1791151286.4292734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cqwyrlk27e7ro",
+      "provider": "BBC",
+      "title": "'Money-grab' or celebration? NFL kicks off London series The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices. 1 hr ago American Football",
+      "status": "pending",
+      "firstSeenAt": 1791151286.4293628,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
