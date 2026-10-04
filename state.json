@@ -18458,9 +18458,425 @@
       "status": "pending",
       "firstSeenAt": 1791052071.3057199,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjnlk4r2jjo",
+      "provider": "BBC",
+      "title": "Father and son smoke shop workers arrested in Mississippi students' suspected kratom deaths They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US. 1 hr ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4729557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly0leelnz4o",
+      "provider": "BBC",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4740262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9m2mjj3yvg4o",
+      "provider": "BBC",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4740543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwnvln99v2ygo",
+      "provider": "BBC",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4741576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cv5yn8znyx2ro",
+      "provider": "BBC",
+      "title": "Bellingham unlocks new level and potential to be 'one of the greatest' Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4746833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx7vp540g75mo",
+      "provider": "BBC",
+      "title": "Two going on four, five or six on good night for new Scotland era",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4747095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c35ynl9w41njo",
+      "provider": "BBC",
+      "title": "'I want to discover Manchester' - Olid hunts recommendations",
+      "status": "pending",
+      "firstSeenAt": 1791072623.4747543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmy9z7dxdvv0o",
+      "provider": "BBC",
+      "title": "Leicester hold off Newcastle for first Prem win",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5880785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cmqxnj18d337o",
+      "provider": "BBC",
+      "title": "Whittaker survives late scare to hold on for points win",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5881214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cvde8y5w9dkxo",
+      "provider": "BBC",
+      "title": "Humphries to face Price in World Grand Prix final",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5881927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckq5nd1g14v4o",
+      "provider": "BBC",
+      "title": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5882344,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c39w4w7pzqv4o",
+      "provider": "BBC",
+      "title": "Wakefield beat Warrington to win Super League",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5882823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cvlyd856kdr8o",
+      "provider": "BBC",
+      "title": "Kartal wins again as Zverev sets up Djokovic tie",
+      "status": "pending",
+      "firstSeenAt": 1791072623.588321,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmkgewx77521o",
+      "provider": "BBC",
+      "title": "Group has 'exploded' after Wales win - Bellamy",
+      "status": "pending",
+      "firstSeenAt": 1791072623.588554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw62y457008lo",
+      "provider": "BBC",
+      "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5886009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cm1exp2nj1y9o",
+      "provider": "BBC",
+      "title": "Wu thrashes Trump to set up Yuan final in Shenzhen",
+      "status": "pending",
+      "firstSeenAt": 1791072623.588714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/ck0j0pyn63j8o",
+      "provider": "BBC",
+      "title": "England's Jordan in contention at Alfred Dunhill Links",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5887833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cw305gm8j591o",
+      "provider": "BBC",
+      "title": "Gloucester thrash sorry Quins to go top of the Prem",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5888608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqwy752wpz9yo",
+      "provider": "BBC",
+      "title": "Glasgow and Ulster play out thrilling draw in URC",
+      "status": "pending",
+      "firstSeenAt": 1791072623.5889707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6vgxejkxz1jo",
+      "provider": "BBC",
+      "title": "Seven-try Ireland seal consecutive wins over Japan",
+      "status": "pending",
+      "firstSeenAt": 1791072623.589012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791072623.8769472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791072623.8769746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791072623.8771024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/mexico-dog-comando-national-guard",
+      "provider": "The Guardian",
+      "title": "Paw patrol: Mexico debuts tiniest national guard recruit",
+      "status": "pending",
+      "firstSeenAt": 1791072623.8773189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/03/mariann-budde-episcopal-bishop-trump",
+      "provider": "The Guardian",
+      "title": "Episcopal bishop who urged Trump to ‘have mercy’ to resign post in Washington DC",
+      "status": "pending",
+      "firstSeenAt": 1791072623.877602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/mixed-emotions-on-nrl-grand-final-day-after-newcastle-crash/107225230",
+      "provider": "ABC News Australia",
+      "title": "Newcastle's joy tempered by heartache on NRL grand final day after car crash",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2671824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/bushfire-telecommunications-fail-black-summer-phone-reception/107210562",
+      "provider": "ABC News Australia",
+      "title": "One community's bushfire plan could be a 'gamechanger' in emergencies",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2672288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/olena-zelenska-interview-foreign-correspondent/107197022",
+      "provider": "ABC News Australia",
+      "title": "The painful topic Ukraine's First Lady says doesn't get covered enough",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2672913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/alice-springs-paramedics-face-assaults-on-duty-st-john-ambulance/107215600",
+      "provider": "ABC News Australia",
+      "title": "Paramedics punched, spat at during ABC ride-along in Alice Springs",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2673519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/iran-war-electrification-climate-goals/107213828",
+      "provider": "ABC News Australia",
+      "title": "Unintended consequences of war in Iran are helping the climate",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2674568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/cancer-council-qld-research-boss-alleges-bullying-ceo/107213572",
+      "provider": "ABC News Australia",
+      "title": "Workplace dismissal lawsuit rocks top levels of cancer charity",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2675142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/tennessee-prisons-head-resigns-christa-pike-failed-execution/107226460",
+      "provider": "ABC News Australia",
+      "title": "Tennessee prisons chief resigns after failed Christa Pike execution",
+      "status": "pending",
+      "firstSeenAt": 1791072624.267576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
+      "provider": "ABC News Australia",
+      "title": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2676868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrl-and-nrlw-grand-final-day-what-you-need-to-know/107226462",
+      "provider": "ABC News Australia",
+      "title": "NRL and NRLW grand final day has arrived. Here's what you need to know",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2677515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/mike-brady-fall-afl-grand-final-fall-recovery/107223052",
+      "provider": "ABC News Australia",
+      "title": "Up There Cazaly singer vowed to make AFL grand final after horrific fall",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2678075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/victim-survivor-waits-23-months-for-records-right-to-information/107215664",
+      "provider": "ABC News Australia",
+      "title": "'Really unfair': Victim-survivor's almost two-year wait for her own records",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2678638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/safe-charging-mobile-phone-overnight/107219700",
+      "provider": "ABC News Australia",
+      "title": "Is it safe to charge your phone overnight?",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2679195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/future-home-life-australia-ev-electric-vehicles-solar-power-wfh/107220092",
+      "provider": "ABC News Australia",
+      "title": "The key features Australian homes may have in the future",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2679763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292",
+      "provider": "ABC News Australia",
+      "title": "A doctor said Tim was incapable of love. His mum knew otherwise",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2680533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/what-is-minimalism-in-music/107210720",
+      "provider": "ABC News Australia",
+      "title": "How Steve Reich and Philip Glass changed music forever",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2681453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/abc-wordage-quiz/107211586",
+      "provider": "ABC News Australia",
+      "title": "Wordage quiz: Rank 'cool', 'bogus' and 'meh' by how old they are",
+      "status": "pending",
+      "firstSeenAt": 1791072624.268194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/call-witnesses-two-government-buildings-damaged-canberra/107226604",
+      "provider": "ABC News Australia",
+      "title": "Call for witnesses after ball bearings used to smash windows at government buildings",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2686045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/two-helicopter-rescues-in-tasmania-after-bushwalker-mishaps/107226544",
+      "provider": "ABC News Australia",
+      "title": "Two helicopter rescues in Tasmania after separate bushwalker mishaps",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2687166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/outback-town-walgett-loses-swimming-pool-ahead-of-hot-summer/107211758",
+      "provider": "ABC News Australia",
+      "title": "'Forgotten' outback town faces scorching summer without a pool",
+      "status": "pending",
+      "firstSeenAt": 1791072624.268762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/reptiles-smuggled-out-syndicates-target-international-students/107211754",
+      "provider": "ABC News Australia",
+      "title": "The lucrative illegal trade smuggling Australia's reptiles overseas",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2689073,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/victoria-liberals-elective-surgery-labor-land-tax/107224800",
+      "provider": "ABC News Australia",
+      "title": "Victorian Liberals promise to slash surgery waitlist while Labor backs land tax cuts",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2689831,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/illegal-tobacco-advertisements-avoid-detection-on-social-media/107026980",
+      "provider": "ABC News Australia",
+      "title": "Social media giants allowing illegal tobacco ads, Quit says",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2692177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/moura-rural-health-doctor-shortage/107221188",
+      "provider": "ABC News Australia",
+      "title": "This rural town has 2,000 people and, soon, not a single GP",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2692761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/sa-musical-theatre-company-debuts-show-with-adelaide-talents/107187004",
+      "provider": "ABC News Australia",
+      "title": "SA's first musical theatre company brings talent home in debut stage",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2693918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/history-behind-first-sydney-international-airport-rose-bay/106926804",
+      "provider": "ABC News Australia",
+      "title": "'Half boat, half airplane': History behind Sydney's golden age of aviation",
+      "status": "pending",
+      "firstSeenAt": 1791072624.26945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/south-australian-harvest-starts/107225294",
+      "provider": "ABC News Australia",
+      "title": "Harvest starts on SA crops that 'have not had a setback all season'",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2695143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/aussie-duo-and-new-world-number-one-fall-at-china-open/107226486",
+      "provider": "ABC News Australia",
+      "title": "Aussie duo and new world number one fall at China Open",
+      "status": "pending",
+      "firstSeenAt": 1791072624.2696223,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
