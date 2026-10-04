@@ -19698,9 +19698,329 @@
       "status": "pending",
       "firstSeenAt": 1791136602.2534618,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr5y48p89vvo",
+      "provider": "BBC",
+      "title": "Girl, 12, fatally shot in US during 'dispute over parking space' Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
+      "status": "pending",
+      "firstSeenAt": 1791148079.8598971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkg5n7lm3y5o",
+      "provider": "BBC",
+      "title": "France to close up to 500 schools on Monday over student protests Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+      "status": "pending",
+      "firstSeenAt": 1791148079.8599832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791148080.1699364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791148080.1702833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791148080.170584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791148080.170602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/oct/04/aerial-footage-shows-bouquet-wildfire-burning-in-california-national-forest-video",
+      "provider": "The Guardian",
+      "title": "Aerial footage shows Bouquet wildfire burning in California national forest – video",
+      "status": "pending",
+      "firstSeenAt": 1791148080.170909,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations",
+      "provider": "The Guardian",
+      "title": "Woman in Cornell rape allegations case targeted with threats, her lawyer says",
+      "status": "pending",
+      "firstSeenAt": 1791148080.1710262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+      "provider": "The Guardian",
+      "title": "‘Godzilla’ of weight-loss drugs could provide other important health benefits",
+      "status": "pending",
+      "firstSeenAt": 1791148080.171065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/cannabis-ketamine-prescriptions-veteran-health-care-dva/107207132",
+      "provider": "ABC News Australia",
+      "title": "Army veteran prescribed 'unacceptably high doses of THC' by for-profit company",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6501687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
+      "provider": "ABC News Australia",
+      "title": "AI is a new form of life we probably can't control",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6502438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/legal-cigarettes-queensland-black-market-crack-down/107221722",
+      "provider": "ABC News Australia",
+      "title": "Legal cigarette sales, Quitline calls surge after state crackdown",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6502907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/greens-and-liberals-move-away-from-sensible-centre/107226860",
+      "provider": "ABC News Australia",
+      "title": "The Liberals and Greens appear to be heading in the same direction",
+      "status": "pending",
+      "firstSeenAt": 1791148080.650336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/pre-cop31-australia-challenged-over-fossil-fuel-expansion/107220650",
+      "provider": "ABC News Australia",
+      "title": "Coal mine approval lands days before Pacific climate talks begin",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6503797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nrl-grand-final-sydney-roosters-daly-cherry-evans/107227472",
+      "provider": "ABC News Australia",
+      "title": "Roosters were always more than just the villain in Newcastle's fairytale",
+      "status": "pending",
+      "firstSeenAt": 1791148080.650423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/sam-wood-bachelor-fitness-influencer-domestic-violence-offences/107228270",
+      "provider": "ABC News Australia",
+      "title": "Former Bachelor star Sam Wood facing domestic violence charges",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6506157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/australias-oldest-man-ken-weeks-celebrates-113th-birthday/107221240",
+      "provider": "ABC News Australia",
+      "title": "Australia's oldest man celebrates 113th birthday with ride in vintage car",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6506593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/federal-politics-live-blog-albanese-pre-cop/107228246",
+      "provider": "ABC News Australia",
+      "title": "Albanese heads to pre-COP in Fiji, Tuvalu",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6507277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/foster-child-ndis-struggles-child-safety-services-tasmania/107223716",
+      "provider": "ABC News Australia",
+      "title": "How services failed a foster child's transition to adulthood",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6507545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/coles-woolworths-supply-chain-simplify-effect-on-producers/107224736",
+      "provider": "ABC News Australia",
+      "title": "Are Coles and Woolworths centralising their supply chains? Some experts think so",
+      "status": "pending",
+      "firstSeenAt": 1791148080.650835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/how-fluorescent-lights-open-plan-design-can-impact-work/107216898",
+      "provider": "ABC News Australia",
+      "title": "Is your office pushing you into 'survival mode'?",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6509845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/this-week-in-history-quiz-october-5/107211632",
+      "provider": "ABC News Australia",
+      "title": "Time for a history quiz. Can you get 10/10?",
+      "status": "pending",
+      "firstSeenAt": 1791148080.651027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/canberra-conservationists-cloning-rare-gum-trees/107217244",
+      "provider": "ABC News Australia",
+      "title": "There are only six of these trees left in the wild. Conservationists are cloning them",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6510684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/queensland-outback-suppliers-olympic-dreams/107223152",
+      "provider": "ABC News Australia",
+      "title": "Opal miners, whip crackers, and teddy makers eye Olympic stage",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6514635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/seafarers-workers-rights-australian-ports/107208444",
+      "provider": "ABC News Australia",
+      "title": "Dwindling volunteer numbers put seafarers' rights at risk, charity says",
+      "status": "pending",
+      "firstSeenAt": 1791148080.651516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/jessica-stephens-kakadu-death-karon-evans-inquest-rdh-lawsuit/107222652",
+      "provider": "ABC News Australia",
+      "title": "Queensland mother seeks to force inquest into daughter's 2023 Kakadu death",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6515508,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/western-downs-data-centre-fast-tracking-approvals-concerns/107223638",
+      "provider": "ABC News Australia",
+      "title": "Residents fear there is no stopping $32b hyperscale data centre",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6515877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/woman-at-center-of-cornell-rape-allegations-targeted-threats/107228278",
+      "provider": "ABC News Australia",
+      "title": "Jane Doe threatened in Cornell University rape case, lawyer says",
+      "status": "pending",
+      "firstSeenAt": 1791148080.651622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/asx-markets-business-live-news/107227606",
+      "provider": "ABC News Australia",
+      "title": "Wall Street closes higher after disappointing jobs report, ASX set to gain",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6517138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/qld-police-annual-report-reveals-failed-to-meet-integrity-goals/107217142",
+      "provider": "ABC News Australia",
+      "title": "Almost half of Queenslanders don't believe police are honest, report finds",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6517808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/queensland-dpp-emdr-victim-survivor-review/107218468",
+      "provider": "ABC News Australia",
+      "title": "Push for review for victim-survivors after prosecution change to EMDR",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6518512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/victorias-three-opposition-election-premier-ben-carroll/107226558",
+      "provider": "ABC News Australia",
+      "title": "Three oppositions are contesting Victoria's election. The premier leads one",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6519063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/fire-destroys-prestige-car-workshop-in-airport-west/107228184",
+      "provider": "ABC News Australia",
+      "title": "Fire destroys prestige car workshop in Melbourne's north-west",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6520278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/registry-for-short-stay-accommodation-south-australia/107215694",
+      "provider": "ABC News Australia",
+      "title": "Short-stay operators have mixed reactions to SA's register proposal",
+      "status": "pending",
+      "firstSeenAt": 1791148080.65207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
+      "provider": "ABC News Australia",
+      "title": "India's 'Cockroach' protests intensify as police probe harassment claims",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6521115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/port-wakefield-native-vegetation-clearing-leads-to-court-fine/107221572",
+      "provider": "ABC News Australia",
+      "title": "Farmer fined $60k for clearing native vegetation north of Adelaide",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6521933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/two-pedestrians-killed-crash-at-tura-beach/107228210",
+      "provider": "ABC News Australia",
+      "title": "Two pedestrians killed after being hit by car",
+      "status": "pending",
+      "firstSeenAt": 1791148080.652229,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/de-minaur-fights-back-to-reach-china-open-semis/107227642",
+      "provider": "ABC News Australia",
+      "title": "De Minaur fights back to reach China Open semis",
+      "status": "pending",
+      "firstSeenAt": 1791148080.652323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/labuschagne-set-for-test-after-first-ton-in-11-months/107228250",
+      "provider": "ABC News Australia",
+      "title": "Labuschagne set for Test after first ton in 11 months",
+      "status": "pending",
+      "firstSeenAt": 1791148080.652363,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/wet-weather-forecast-to-end-longweekend-in-queensland/107227120",
+      "provider": "ABC News Australia",
+      "title": "Showers bring 'awkward' end to long weekend across south-east Queensland",
+      "status": "pending",
+      "firstSeenAt": 1791148080.6524026,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
