@@ -20242,9 +20242,57 @@
       "status": "pending",
       "firstSeenAt": 1791153008.4269943,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3dxwry8vydvo",
+      "provider": "BBC",
+      "title": "Portugal boss says door open for Ronaldo return",
+      "status": "pending",
+      "firstSeenAt": 1791153772.067994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj20709qxleyo",
+      "provider": "BBC",
+      "title": "11 hrs ago Housing or data centre? London's land-use dilemma A data centre plan in Greenwich is the latest flashpoint in a debate about London's digital future. 11 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791153772.1504762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/driver-arrested-for-allegedly-ramming-rideshare-vehicle/107228344",
+      "provider": "ABC News Australia",
+      "title": "19yo driver allegedly rammed rideshare with two people inside",
+      "status": "pending",
+      "firstSeenAt": 1791153773.1549087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nrl-grand-final-roosters-celebrate-in-bondi/107228546",
+      "provider": "ABC News Australia",
+      "title": "'Don't drop it': Star's nervous moment as Roosters celebrate in Bondi",
+      "status": "pending",
+      "firstSeenAt": 1791153773.154954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/barrack-heights-ebike-crash-girl-critical/107228378",
+      "provider": "ABC News Australia",
+      "title": "E-biker who struck 16yo had alcohol, drugs in system, police allege",
+      "status": "pending",
+      "firstSeenAt": 1791153773.1549933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/ripon-candidates-forum-roads-state-election-renewables-voters/107226716",
+      "provider": "ABC News Australia",
+      "title": "Roads, renewables and state taxes spark debate at Ripon election forum",
+      "status": "pending",
+      "firstSeenAt": 1791153773.1556308,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
