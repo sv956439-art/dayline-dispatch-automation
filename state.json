@@ -19314,9 +19314,393 @@
       "status": "pending",
       "firstSeenAt": 1791112045.8370595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgelynyg7d3o",
+      "provider": "BBC",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0320904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8dzj9vpp01o",
+      "provider": "BBC",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition. 1 hr ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0321214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgrle6dx2lo",
+      "provider": "BBC",
+      "title": "British Museum announces changes to ease Bayeux Tapestry queues Measures include extended opening hours, as well as an audio guide and additional seating for visitors. 4 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1791136601.032147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9e8lvm6nrr3o",
+      "provider": "BBC",
+      "title": "Indian police accused of sexual harassment against journalists at protest The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls. 54 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.032187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme3xw4yy28do",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.032637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm249v07j4xo",
+      "provider": "BBC",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "status": "pending",
+      "firstSeenAt": 1791136601.033147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cwg7x820k9xjo",
+      "provider": "BBC",
+      "title": "Hamilton bemused after glitch turns F1 into 'Lego race' Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0335598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c5n49zx3zlvwo",
+      "provider": "BBC",
+      "title": "Verstappen wins Bahrain GP in Malaysia after long delays",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0335977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c95yn0g587vxo",
+      "provider": "BBC",
+      "title": "Carol Vorderman 'humbled and excited' for Bafta Cymru honour Vorderman was honoured alongside casting director Lauren Evans ahead of the ceremony.",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0337272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2z0zl8y53o",
+      "provider": "BBC",
+      "title": "Jeffrey Archer returns to his former school library",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0337503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89zlgpql1zo",
+      "provider": "BBC",
+      "title": "Heated discussions on town centre's future",
+      "status": "pending",
+      "firstSeenAt": 1791136601.033769,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8e303zj7r3o",
+      "provider": "BBC",
+      "title": "Mother writes book to help children with cancer",
+      "status": "pending",
+      "firstSeenAt": 1791136601.0337884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jzll3w4lvo",
+      "provider": "BBC",
+      "title": "The Kent village that helped shape Audrey Hepburn Audrey Hepburn spent three years in Elham before the outbreak of World War Two. 12 hrs ago Kent",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1297653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgy2exkn9zo",
+      "provider": "BBC",
+      "title": "11 hrs ago Horniman Museum's new gallery to open in February The new Nature Gallery hopes to explore people's connection to and reliance on nature. 11 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1304593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp8d622dxe2o",
+      "provider": "BBC",
+      "title": "11 hrs ago Painting which went unnoticed for 150 years found on back of map The watercolour on the back of a map gives a rare snapshot of the Dryburgh suspension bridge shortly after it opened. 11 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.130485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gkggpzgygo",
+      "provider": "BBC",
+      "title": "12 hrs ago The Feeling album was recorded in a Sussex shed The Feeling's debut album turns 20 as the band prepare for Eastbourne and Margate shows. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1305072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gv1eegyrzo",
+      "provider": "BBC",
+      "title": "12 hrs ago Library is 'bridging cultures and building friendships' Kennington residents fundraise for the much-needed resource which will open on 10 October. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1305304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5x2z22zwl1zo",
+      "provider": "BBC",
+      "title": "12 hrs ago 'The music transported us to another planet' The people captured in a celebrated photograph are reunited nearly 50 years later. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1305532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1zz88ee1o",
+      "provider": "BBC",
+      "title": "12 hrs ago 'I woke up one day in my 60s and decided to become an artist' Ed Sheeran's paintings inspire Suffolk charity fundraiser Gina Long to create her own exhibition. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1305761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0z00nexydo",
+      "provider": "BBC",
+      "title": "12 hrs ago Lenny Rush helps get Eric Morecambe book on TV Gary Morecambe says writing the books gave his father \"as much pleasure\" as Morecambe and Wise. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1305993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckge433vgp7po",
+      "provider": "BBC",
+      "title": "12 hrs ago Teenage artist finds confidence in illustrating Bethany's work is published after her talent was spotted by an author visiting her school. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1306221,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg73013ndqo",
+      "provider": "BBC",
+      "title": "1 day ago Turner Prize workshops hope to inspire youngsters Thousands of school children from across the Tees Valley visit Mima art gallery to be inspired. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1306455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwgk5l3pzzd7o",
+      "provider": "BBC",
+      "title": "1 day ago Animals bring budding artists out of their shells Tortoises help a Sheffield group get to grips with drawing and painting live subjects. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1791136601.1306684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4900675,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4901817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4902887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4903944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4904993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4905179,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/04/costa-coffee-shops-return-profit-iced-drinks-matcha",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4905686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4908192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4908442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4908636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4908812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4909482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.490967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4909859,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/jd-vance-maha-2028-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4910033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/missing-air-ambulance-massachusetts-debris-found",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4910202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/04/a-cargo-ship-20-crew-and-a-huge-stash-of-cocaine-the-seafarer-imprisoned-for-smuggling-on-no-evidence",
+      "provider": "The Guardian",
+      "title": "A cargo ship, 20 crew, and a huge stash of cocaine: the seafarer imprisoned for smuggling – on no evidence",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4912336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/04/dining-across-the-divide-ted-nicky",
+      "provider": "The Guardian",
+      "title": "Dining across the divide: ‘Without being patronising, I think as he grows older he’ll tune in to the damage “free speech” can do’",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4912734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
+      "provider": "The Guardian",
+      "title": "Saturday Night Live: Dakota Johnson struggles through weak episode as Taylor Swift gatecrashes",
+      "status": "pending",
+      "firstSeenAt": 1791136601.4912944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-quick-hits-sydney-roosters-newcastle-knights/107227384",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Ponga lights up the grand final as DCE seals the premiership",
+      "status": "pending",
+      "firstSeenAt": 1791136602.2522206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-newcastle-knights-lose-but-keep-pride/107227446",
+      "provider": "ABC News Australia",
+      "title": "Newcastle's magic NRL premiership tilt ends in defeat, pride and honour",
+      "status": "pending",
+      "firstSeenAt": 1791136602.2522564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/play-school-presenter-alister-smart-dies-aged-90/107227492",
+      "provider": "ABC News Australia",
+      "title": "Play School presenter Alister Smart dies aged 90",
+      "status": "pending",
+      "firstSeenAt": 1791136602.2526252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/max-verstappen-wins-f1-bahrain-grand-prix-in-malaysia/107227400",
+      "provider": "ABC News Australia",
+      "title": "Verstappen ends drought with win, Russell retires with five laps to go",
+      "status": "pending",
+      "firstSeenAt": 1791136602.2526715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/portrait-artist-of-the-year-jasmine-lancaster-merton/107204946",
+      "provider": "ABC News Australia",
+      "title": "How a high school student became Portrait Artist of the Year",
+      "status": "pending",
+      "firstSeenAt": 1791136602.2533884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-james-tedesco-clive-churchill-medal-roosters/107227582",
+      "provider": "ABC News Australia",
+      "title": "Tedesco wins Churchill Medal after leading Roosters to grand final win",
+      "status": "pending",
+      "firstSeenAt": 1791136602.2534618,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
