@@ -20322,9 +20322,41 @@
       "status": "pending",
       "firstSeenAt": 1791155525.665348,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cje3r35p0qeno",
+      "provider": "BBC",
+      "title": "The job interview question you don't have to answer Experts explain what you should do if you are asked for your current salary during a job interview.",
+      "status": "pending",
+      "firstSeenAt": 1791156320.566058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqe8lv6m1nn3o",
+      "provider": "BBC",
+      "title": "No other team should go through this - Hallgrimsson",
+      "status": "pending",
+      "firstSeenAt": 1791156320.5663912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/04/this-is-how-we-do-it-my-mistress-has-complete-control-submissive-dominatrix",
+      "provider": "The Guardian",
+      "title": "This is how we do it: ‘My mistress has complete control over me and makes me so happy’",
+      "status": "pending",
+      "firstSeenAt": 1791156321.8297625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/japan-builds-spy-agency-as-china-tensions-escalate/107220738",
+      "provider": "ABC News Australia",
+      "title": "As China tensions escalate, Japan builds its own spy agency",
+      "status": "pending",
+      "firstSeenAt": 1791156322.2346396,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
