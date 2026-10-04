@@ -20058,9 +20058,65 @@
       "status": "pending",
       "firstSeenAt": 1791149764.2079875,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l34ed592no",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5281796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20220913-can-certain-foods-suppress-your-appetite",
+      "provider": "BBC",
+      "title": "Do some foods fill you up for longer? Some foods promise the ability to stave off hunger pangs. Can any foods really suppress our appetite?",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5283802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20220525-is-a-vegan-diet-healthy-for-kids",
+      "provider": "BBC",
+      "title": "Is a vegan diet safe for children? Kamala Thiagarajan investigates what vegan families can learn from India's ancient tradition of plant-based cooking, coupled with new scientific insights.",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5284092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cw1m49g84mmro",
+      "provider": "BBC",
+      "title": "Humphries wins Grand Prix to end barren spell",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5294006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c59vzpn79e3lo",
+      "provider": "BBC",
+      "title": "Council challenges solar farm approval",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5982642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv0lr3584ej9o",
+      "provider": "BBC",
+      "title": "Purchase of field aims to expand 'green lung'",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5983267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g5ng8l31ro",
+      "provider": "BBC",
+      "title": "16 hrs ago Rainbow sea slug find a reminder of climate change Conservationists say the animal was discovered on a Cornish beach during an event. 16 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791150714.5985274,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
