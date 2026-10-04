@@ -20018,9 +20018,49 @@
       "status": "pending",
       "firstSeenAt": 1791148080.6524026,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyve191dlko",
+      "provider": "BBC",
+      "title": "US removes all bombers from RAF Fairford base",
+      "status": "pending",
+      "firstSeenAt": 1791149763.2012951,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791149763.9146492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/afl-trade-period-october-5-live-blog/107226666",
+      "provider": "ABC News Australia",
+      "title": "AFL trade period officially opens as stars eye blockbuster moves",
+      "status": "pending",
+      "firstSeenAt": 1791149764.2079105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/what-to-look-for-during-the-afl-trade-period/107227674",
+      "provider": "ABC News Australia",
+      "title": "What to look for during the AFL trade period",
+      "status": "pending",
+      "firstSeenAt": 1791149764.2079403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nt-yissa-closure-government-dialysis-batchelor-purple-truck/107225634",
+      "provider": "ABC News Australia",
+      "title": "NT government scrambles for Batchelor dialysis options ahead of YiSSA closure",
+      "status": "pending",
+      "firstSeenAt": 1791149764.2079875,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
