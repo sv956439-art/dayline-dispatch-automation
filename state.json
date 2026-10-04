@@ -18874,9 +18874,121 @@
       "status": "pending",
       "firstSeenAt": 1791072624.2696223,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv4g5267jk8yo",
+      "provider": "BBC",
+      "title": "When parenting advice becomes too much Many parents feel overwhelmed by the amount of parenting information available 2 hrs ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1791084823.1759665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy8e3vjexj0o",
+      "provider": "BBC",
+      "title": "How to spot a psychopath at work - from a man who worried he could be one Geraint Anderson says some modern workplaces reward psychopathic traits. 7 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791084823.1760387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgx895g9vzo",
+      "provider": "BBC",
+      "title": "The Celebrity Traitors connections that might surprise you Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
+      "status": "pending",
+      "firstSeenAt": 1791084823.1772008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/04/no-bail-for-p-plater-over-newcastle-crash-that-left-five-year-old-in-induced-coma-and-injured-nine-other-nrl-fans-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791084823.4798646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/04/chalmers-says-global-economic-turmoil-will-drive-budget-cuts-but-australia-should-avoid-recession",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791084823.47989,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791084823.4799201,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Kyiv to increase oil refinery attacks because of Moscow’s winter strategy, Zelenskyy says",
+      "status": "pending",
+      "firstSeenAt": 1791084823.480801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "provider": "The Guardian",
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+      "status": "pending",
+      "firstSeenAt": 1791084823.4809165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/flydubai-copilot-afp-investigation-australian-links/107226696",
+      "provider": "ABC News Australia",
+      "title": "AFP confirms investigation of flydubai co-pilot's Australian links",
+      "status": "pending",
+      "firstSeenAt": 1791084823.7799158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/newcastle-crash-alleged-driver-fronts-court/107226502",
+      "provider": "ABC News Australia",
+      "title": "Man who allegedly crashed into Newcastle Knights fans refused bail",
+      "status": "pending",
+      "firstSeenAt": 1791084823.7800355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/jim-chalmers-treasurer-cost-of-living-relief-budget-inflation/107226568",
+      "provider": "ABC News Australia",
+      "title": "Higher borrowing costs may rule out cost-of-living relief for households",
+      "status": "pending",
+      "firstSeenAt": 1791084823.7800956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-live-nrlw-roosters-knights-broncos/107219724",
+      "provider": "ABC News Australia",
+      "title": "Roosters and Broncos back at it in another NRLW grand final",
+      "status": "pending",
+      "firstSeenAt": 1791084823.7802298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/network-10-to-go-mount-gambier-riverland-riverina/107226738",
+      "provider": "ABC News Australia",
+      "title": "Regional audiences to lose Network 10, as licensee warns of TV's future",
+      "status": "pending",
+      "firstSeenAt": 1791084823.780319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/mswa-cuts-commonwealth-funded-home-care-program/107221044",
+      "provider": "ABC News Australia",
+      "title": "'Unnecessary and cruel': People with MS to lose home care",
+      "status": "pending",
+      "firstSeenAt": 1791084823.781517,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
