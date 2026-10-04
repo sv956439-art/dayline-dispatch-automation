@@ -20290,9 +20290,17 @@
       "status": "pending",
       "firstSeenAt": 1791153773.1556308,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/mary-fowler-s-man-city-gets-boost-with-big-wsl-win/107228530",
+      "provider": "ABC News Australia",
+      "title": "Mary Fowler's Man City boost with big WSL win over Arsenal",
+      "status": "pending",
+      "firstSeenAt": 1791154813.3232923,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
