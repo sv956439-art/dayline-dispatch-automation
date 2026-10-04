@@ -20370,9 +20370,41 @@
       "status": "pending",
       "firstSeenAt": 1791157029.698823,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7vp6d5pgn1o",
+      "provider": "BBC",
+      "title": "I'm a classic old school Conservative, says UK opposition leader Kemi Badenoch The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles. 7 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791157710.8584023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm93zyld4513o",
+      "provider": "BBC",
+      "title": "Bellamy bemoans new schedule after Denmark loss Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark. 1 hr ago Welsh Football",
+      "status": "pending",
+      "firstSeenAt": 1791157710.8585355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791157711.160834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/woman-at-centre-of-cornell-rape-allegations-targeted-threats/107228278",
+      "provider": "ABC News Australia",
+      "title": "Jane Doe threatened in Cornell University rape case, lawyer says",
+      "status": "pending",
+      "firstSeenAt": 1791157711.6181505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
