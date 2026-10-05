@@ -20858,9 +20858,41 @@
       "status": "pending",
       "firstSeenAt": 1791183477.401334,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm2q2e145p4o",
+      "provider": "BBC",
+      "title": "Environmental groups critical of housing levy idea",
+      "status": "pending",
+      "firstSeenAt": 1791184511.9127567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791184512.0696256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/05/rowan-atkinson-rowan-live-mr-bean-blackadder-west-end",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791184512.0696514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791184512.069674,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
