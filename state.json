@@ -21154,9 +21154,41 @@
       "status": "pending",
       "firstSeenAt": 1791193596.8328793,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261002-the-people-evacuated-to-the-uk-from-the-worlds-most-remote-inhabited-island-in-1961",
+      "provider": "BBC",
+      "title": "Sent to the UK from the world's most remote island After a volcano erupted on tiny Tristan da Cunha in the South Atlantic, the 264 displaced islanders told the BBC about their first taste of modern British life.",
+      "status": "pending",
+      "firstSeenAt": 1791194405.2269177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrly809n8p6o",
+      "provider": "BBC",
+      "title": "Protesters scuffle with police as migrants brought ashore on south coast of England The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent. 2 hrs ago Hampshire & Isle of Wight",
+      "status": "pending",
+      "firstSeenAt": 1791194405.317872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791194405.9142857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791194405.9143836,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
