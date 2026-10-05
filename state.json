@@ -22466,9 +22466,41 @@
       "status": "pending",
       "firstSeenAt": 1791239561.9199395,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/australian-army-soldier-dies-in-training-exercise/107232278",
+      "provider": "ABC News Australia",
+      "title": "Australian Army soldier dies in training exercise",
+      "status": "pending",
+      "firstSeenAt": 1791240328.4376578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/nepal-ends-search-rescue-after-floods-rehabilitation/107232148",
+      "provider": "ABC News Australia",
+      "title": "Nepal focuses on rehabilitation as it ends search and rescue after flood",
+      "status": "pending",
+      "firstSeenAt": 1791240328.438568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/man-dies-in-hospital-week-after-north-albury-stabbing/107232108",
+      "provider": "ABC News Australia",
+      "title": "Man in 20s dies after being stabbed in neck in North Albury",
+      "status": "pending",
+      "firstSeenAt": 1791240328.438601,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/university-students-rocket-competition-outback-nsw/107230554",
+      "provider": "ABC News Australia",
+      "title": "Budding rocket scientists put designs to the test in outback competition",
+      "status": "pending",
+      "firstSeenAt": 1791240328.4386256,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
