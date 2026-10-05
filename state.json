@@ -21202,9 +21202,25 @@
       "status": "pending",
       "firstSeenAt": 1791195406.5914295,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jz7k4n8d1o",
+      "provider": "BBC",
+      "title": "Two men die in Channel crossing attempt off northern France",
+      "status": "pending",
+      "firstSeenAt": 1791196512.117759,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/05/lidl-gb-sales-price-cuts-deluxe-range",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791196512.4104362,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
