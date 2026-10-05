@@ -21218,9 +21218,41 @@
       "status": "pending",
       "firstSeenAt": 1791196512.4104362,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qxv55882z1o",
+      "provider": "BBC",
+      "title": "43 mins ago Why are data centres such a big deal in Scotland? At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners. 43 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791197481.3313553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791197481.8130765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/catholic-priest-anthony-odiong-daughter",
+      "provider": "The Guardian",
+      "title": "Catholic priest given life sentence for sexual assault in Texas found to have neglected daughter",
+      "status": "pending",
+      "firstSeenAt": 1791197481.813755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nobel-medicine-prize-2026-brain-activity-research/107231100",
+      "provider": "ABC News Australia",
+      "title": "Nobel medicine prize awarded to scientists for brain activity research",
+      "status": "pending",
+      "firstSeenAt": 1791197482.407339,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
