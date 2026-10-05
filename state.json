@@ -21474,9 +21474,33 @@
       "status": "pending",
       "firstSeenAt": 1791207912.5191312,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/man-caught-with-tortoises-parrots-bound-malta-sicilian-port",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791208888.6552804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/karoline-leavitt-joins-fox-news",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791208888.6558135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/05/jd-vance-trump-midterms",
+      "provider": "The Guardian",
+      "title": "double quotation mark Vance wants voters to ‘give us another chance’. But he is cornered",
+      "status": "pending",
+      "firstSeenAt": 1791208888.6563115,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
