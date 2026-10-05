@@ -21826,9 +21826,33 @@
       "status": "pending",
       "firstSeenAt": 1791221511.2768826,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c9x2808dezkmo",
+      "provider": "BBC",
+      "title": "ECB will 'look at' funding women's Windies Test if needed",
+      "status": "pending",
+      "firstSeenAt": 1791222465.1692932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/ice-hockey/articles/cqwyrlr93jyeo",
+      "provider": "BBC",
+      "title": "NHL legend Ovechkin will retire at end of season",
+      "status": "pending",
+      "firstSeenAt": 1791222465.1696954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/russia-pneumonia-death-sparks-speculation-of-plague-lab-leak/107231250",
+      "provider": "ABC News Australia",
+      "title": "'Concerning' death of Russian 'plague' laboratory employee being monitored",
+      "status": "pending",
+      "firstSeenAt": 1791222466.1311753,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
