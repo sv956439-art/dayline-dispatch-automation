@@ -20706,9 +20706,65 @@
       "status": "pending",
       "firstSeenAt": 1791176151.43421,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6je8qqde500o",
+      "provider": "BBC",
+      "title": "Panto return planned for Raac-affected theatre The council says the refurbishment of the Dartford venue has cost nearly £30m.",
+      "status": "pending",
+      "firstSeenAt": 1791177526.3203773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/05/nsw-shark-warning-whale-death-clarence-river",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791177526.614681,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/05/bbc-morale-dented-job-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791177526.6151729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/05/hotel-suites-virtual-reality-museums-licensing-deals-costs-rise",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791177526.6151946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson",
+      "provider": "The Guardian",
+      "title": "My sister Nicole married OJ Simpson. This is what I wish I had known",
+      "status": "pending",
+      "firstSeenAt": 1791177526.6157997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/savour-spring-asparagus-with-these-easy-dinner-recipes/107217594",
+      "provider": "ABC News Australia",
+      "title": "Make the most of spring asparagus with these recipes",
+      "status": "pending",
+      "firstSeenAt": 1791177526.9879737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/project-australia-run-cottesloe-to-bondi-for-domestic-violence/107229530",
+      "provider": "ABC News Australia",
+      "title": "Runner honours mother in epic Perth to Sydney relay for DV awareness",
+      "status": "pending",
+      "firstSeenAt": 1791177526.9884803,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
