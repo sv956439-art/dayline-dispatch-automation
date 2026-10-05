@@ -21034,9 +21034,65 @@
       "status": "pending",
       "firstSeenAt": 1791188566.3498464,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5yn390zjd1o",
+      "provider": "BBC",
+      "title": "Teachers in Republic of Ireland begin industrial action",
+      "status": "pending",
+      "firstSeenAt": 1791189669.6974082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwgkv70gg1j3o",
+      "provider": "BBC",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "status": "pending",
+      "firstSeenAt": 1791189669.697435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqm2dyrg84ymo",
+      "provider": "BBC",
+      "title": "Scott out of England squad and faces lay-off Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could be him out for up to eight weeks.",
+      "status": "pending",
+      "firstSeenAt": 1791189669.697807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckg5j87jy3zmo",
+      "provider": "BBC",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "status": "pending",
+      "firstSeenAt": 1791189669.697845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791189669.9707441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/jail-time-warning-for-benjamin-wen-child-psychiatrist/107229230",
+      "provider": "ABC News Australia",
+      "title": "Jail time warning for child psychiatrist who sexually abused patients",
+      "status": "pending",
+      "firstSeenAt": 1791189670.3112657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nt-oc-spray-trial-report-data-shows-thousands-of-purchases/107229232",
+      "provider": "ABC News Australia",
+      "title": "More than 5,000 pepper spray canisters sold in the NT since start of trial",
+      "status": "pending",
+      "firstSeenAt": 1791189670.3113043,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
