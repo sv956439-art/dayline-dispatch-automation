@@ -21434,9 +21434,41 @@
       "status": "pending",
       "firstSeenAt": 1791205517.6368606,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjrvl8n82wvo",
+      "provider": "BBC",
+      "title": "BBC appoints Rachel Jupp as new director of news Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+      "status": "pending",
+      "firstSeenAt": 1791206846.4949083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/greens-pitch-zohran-mamdani-style-251bn-plan-to-nationalise-200-coles-and-woolworths-supermarkets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791206846.7875626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791206846.7881246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/05/digger-tom-cruise-movie-box-office-critics-reviews-misunderstood-masterpiece",
+      "provider": "The Guardian",
+      "title": "double quotation mark Tom Cruise’s Digger has flopped spectacularly – but I think it is a misunderstood masterpiece",
+      "status": "pending",
+      "firstSeenAt": 1791206846.7887232,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
