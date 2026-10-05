@@ -21306,9 +21306,17 @@
       "status": "pending",
       "firstSeenAt": 1791201167.111102,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/05/mary-beard-british-museum-queues-bayeux-tapestry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791201748.3074005,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
