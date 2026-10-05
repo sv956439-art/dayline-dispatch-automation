@@ -20762,9 +20762,25 @@
       "status": "pending",
       "firstSeenAt": 1791177526.9884803,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq39mgmyr94do",
+      "provider": "BBC",
+      "title": "Charity tea room may close despite Ludwig filming The series, starring David Mitchell, is filming scenes in Hemel Hempstead.",
+      "status": "pending",
+      "firstSeenAt": 1791178761.403987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yw5e9pnrzo",
+      "provider": "BBC",
+      "title": "22 mins ago The clinic using AI to detect skin cancer earlier Clinic can now see more patients and get results faster thanks to new scanning technology. 22 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791178761.4863403,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
