@@ -20818,9 +20818,25 @@
       "status": "pending",
       "firstSeenAt": 1791180393.6534312,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c52e080r72nlo",
+      "provider": "BBC",
+      "title": "I only found out I had cancer after my four-year-old kicked me in the testicles Dad discovers he has cancer after he was accidentally kicked in the testicles. 1 hr ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791182008.1341622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/05/australia-weather-el-nino-climate-crisisseptember-record",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791182008.5037756,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
