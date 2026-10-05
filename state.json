@@ -20578,9 +20578,33 @@
       "status": "pending",
       "firstSeenAt": 1791168565.6397645,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/illicit-tobacco-trade-police-power-criticism/107229108",
+      "provider": "ABC News Australia",
+      "title": "Illegal tobacco crackdown in Victoria has come too late, says ex-policeman",
+      "status": "pending",
+      "firstSeenAt": 1791169215.307658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550",
+      "provider": "ABC News Australia",
+      "title": "Yemen's government declares major operation against Houthis",
+      "status": "pending",
+      "firstSeenAt": 1791169215.3077095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/santa-teresa-ltyentye-apurte-horse-races/107226890",
+      "provider": "ABC News Australia",
+      "title": "Cowboys and girls dress up for Santa Teresa/Ltyentye Apurte horse races",
+      "status": "pending",
+      "firstSeenAt": 1791169215.3077567,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
