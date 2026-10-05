@@ -21378,9 +21378,49 @@
       "status": "pending",
       "firstSeenAt": 1791203149.0522153,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9zrdmxp4vy6o",
+      "provider": "BBC",
+      "title": "Teenager's hand blown off during confrontation between France school protesters and police The prefect of Pas-de-Calais says the teenager's life is \"not in danger\" after the \"very serious\" incident on Monday. 18 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1791204476.844806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g1l6rxypzo",
+      "provider": "BBC",
+      "title": "London City gelling, Man City flying - takeaways from WSL start",
+      "status": "pending",
+      "firstSeenAt": 1791204476.9520462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw30elngz4y5o",
+      "provider": "BBC",
+      "title": "The only side in Nations League yet to concede? Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791204476.952629,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791204477.1759536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/medical-flight-crash-massachusetts-death-toll",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791204477.1764576,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
