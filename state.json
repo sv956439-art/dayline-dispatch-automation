@@ -20610,9 +20610,33 @@
       "status": "pending",
       "firstSeenAt": 1791170167.9504607,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmze4g8r6nr9o",
+      "provider": "BBC",
+      "title": "All passengers presumed dead after plane went missing off US coast The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "status": "pending",
+      "firstSeenAt": 1791172319.812712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nobel-peace-prize-announced-trump-carney-space-station/107228440",
+      "provider": "ABC News Australia",
+      "title": "Nobel Peace Prize won't go to Trump this year, experts say",
+      "status": "pending",
+      "firstSeenAt": 1791172320.7218938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/rent-paid-nbl-billionaire-owner-dec-to-tas-govt/107229810",
+      "provider": "ABC News Australia",
+      "title": "Billionaire NBL owner pays state $577 a week to rent stadium",
+      "status": "pending",
+      "firstSeenAt": 1791172320.7229679,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
