@@ -21498,9 +21498,89 @@
       "status": "pending",
       "firstSeenAt": 1791208888.6563115,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqkg5npg0r9vo",
+      "provider": "BBC",
+      "title": "Medvedev defaulted for hitting spectator with ball",
+      "status": "pending",
+      "firstSeenAt": 1791210173.9030876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwy79l7d78yo",
+      "provider": "BBC",
+      "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
+      "status": "pending",
+      "firstSeenAt": 1791210173.903195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/poor-australians-war-veterans-buried-unmarked-graves",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791210176.036591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791210176.0366116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/australian-leaders-condemn-pro-palestine-vigils-planned-for-7-october-anniversary-amid-jewish-commemorations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791210176.036628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791210176.0367725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791210176.0369549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/book-bans-schools-record-high",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791210176.0370512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/christa-pike-lawyers-difficult-cruel-execution",
+      "provider": "The Guardian",
+      "title": "Christa Pike’s lawyers had warned execution would be ‘difficult and perhaps cruel’ due to her veins",
+      "status": "pending",
+      "firstSeenAt": 1791210176.0373104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/teenager-french-school-protests/107231146",
+      "provider": "ABC News Australia",
+      "title": "Teenager loses hand as French student protests escalate",
+      "status": "pending",
+      "firstSeenAt": 1791210176.5895002,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
