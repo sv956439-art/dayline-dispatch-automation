@@ -21282,9 +21282,25 @@
       "status": "pending",
       "firstSeenAt": 1791199130.2745976,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3691y79xp5o",
+      "provider": "BBC",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "status": "pending",
+      "firstSeenAt": 1791200278.3005984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791200278.645925,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
