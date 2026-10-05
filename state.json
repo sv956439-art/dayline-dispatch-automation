@@ -21810,9 +21810,17 @@
       "status": "pending",
       "firstSeenAt": 1791217006.0817792,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdx395grzzko",
+      "provider": "BBC",
+      "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+      "status": "pending",
+      "firstSeenAt": 1791220570.5440674,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
