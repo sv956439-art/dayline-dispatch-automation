@@ -21634,9 +21634,57 @@
       "status": "pending",
       "firstSeenAt": 1791212261.4881432,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq8jz7verm24o",
+      "provider": "BBC",
+      "title": "Player welfare, injury worries & boredom - has extended break worked?",
+      "status": "pending",
+      "firstSeenAt": 1791213106.5229108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr4yx9663q6o",
+      "provider": "BBC",
+      "title": "Tensions exposed among UK Greens by 'Zionism is racism' conference vote What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party. 31 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791213106.5905879,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgd3j2qqnmo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791213106.5906863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63r5l04nejwo",
+      "provider": "BBC",
+      "title": "Man jailed for life over knife attack attempt at Israeli embassy in London Abdullah Albadri arrived in the UK on a small boat 16 days before trying to break into the embassy with two knives. 1 hr ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791213106.5907788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr20w64ll61lo",
+      "provider": "BBC",
+      "title": "Twelve arrests in UK after protest over migrant boat arrival Flares were set off and there were a few scuffles with police during the stand-off in Gosport. 2 hrs ago Hampshire & Isle of Wight",
+      "status": "pending",
+      "firstSeenAt": 1791213106.5908303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791213106.7508276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
