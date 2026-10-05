@@ -21882,9 +21882,97 @@
       "status": "pending",
       "firstSeenAt": 1791224204.7475405,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/deaths-school-bus-rollover-crash-florida",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791225552.2013106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/veteran-benefits-australia-business-empire-four-corners/107208188",
+      "provider": "ABC News Australia",
+      "title": "They built a business empire to cash in on veterans. It's made millions",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5374236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/recession-leads-to-high-unemployment-pain-not-evenly-shared/107230632",
+      "provider": "ABC News Australia",
+      "title": "Why unemployment is the more reliable gauge when declaring recession",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5374722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/alastair-campbell-rest-is-politics-interview/107220556",
+      "provider": "ABC News Australia",
+      "title": "A 'broken Britain' mentality has taken hold. Alastair Campbell sees a way out",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5375047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/australian-jobseekers-targeted-by-employment-fraud-job-scams/107077466",
+      "provider": "ABC News Australia",
+      "title": "Jobseekers exploited by scammers on LinkedIn",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5375345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/green-institute-proposal-public-supermarkets-break-duopoly/107228700",
+      "provider": "ABC News Australia",
+      "title": "Greens think tank wants public supermarkets to challenge 'duopoly'",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5376747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/synthetic-opioid-health-warning-tasmania/107230508",
+      "provider": "ABC News Australia",
+      "title": "Overdose death involving possible synthetic opioid sparks health warning",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5381432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/ex-police-officer-stabbed-during-alleged-youth-supermarket-theft/107228764",
+      "provider": "ABC News Australia",
+      "title": "Ex-cop allegedly attacked by teens stealing from supermarket calls for change",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5381768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/openai-fronts-ai-inquiry/107230434",
+      "provider": "ABC News Australia",
+      "title": "Bruising lead-up to inquiry as OpenAI executive set to take stage",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5381975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/tracey-moffatt-chau-chak-wing-museum/107220636",
+      "provider": "ABC News Australia",
+      "title": "Tracey Moffatt is known to be 'controlling' but now she's letting go of all her work",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5382318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/healthy-relationships-and-finance/107139494",
+      "provider": "ABC News Australia",
+      "title": "Ways to financially protect yourself in a relationship — even a healthy one",
+      "status": "pending",
+      "firstSeenAt": 1791225552.5390248,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
