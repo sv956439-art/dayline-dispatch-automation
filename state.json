@@ -20802,9 +20802,25 @@
       "status": "pending",
       "firstSeenAt": 1791179677.646087,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx4gqg75n7q1o",
+      "provider": "BBC",
+      "title": "Culture legacy could see music festivals return Plans to revive the Bradford Mela and create a new Bingley festival look to be moving forward.",
+      "status": "pending",
+      "firstSeenAt": 1791180393.4155629,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791180393.6534312,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
