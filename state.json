@@ -21970,9 +21970,369 @@
       "status": "pending",
       "firstSeenAt": 1791225552.5390248,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj3413e5m1lo",
+      "provider": "BBC",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0705552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv5yn3nwp5n5o",
+      "provider": "BBC",
+      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says The US says it is monitoring the case of a lab technician who died at a plague research centre in Siberia. 2 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0706146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65yn5djx1pko",
+      "provider": "BBC",
+      "title": "Former American Idol contestant sentenced to life in prison for murdering wife Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up. 1 hr ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0706384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yn81qqde0o",
+      "provider": "BBC",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid. 2 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0706604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckj0l401dvpgo",
+      "provider": "BBC",
+      "title": "Author and former politician Jeffrey Archer dies aged 86 His last book, Adam and Eve, is set to release this month. 9 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0706797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj6je4jen6po",
+      "provider": "BBC",
+      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America. 50 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0709548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm5ynj882zw0o",
+      "provider": "BBC",
+      "title": "England's greatest international? Kane is now a serious contender With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0710943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx5yn8y7y7dvo",
+      "provider": "BBC",
+      "title": "Niamh O'Brien, dancer and wife of Michael Flatley, dies at 52 She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+      "status": "pending",
+      "firstSeenAt": 1791235983.0714128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwz0v40r98n9o",
+      "provider": "BBC",
+      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76 The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+      "status": "pending",
+      "firstSeenAt": 1791235983.071909,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.39528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/coalition-immigration-policy-angus-taylor-one-nation-labor-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3954673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.395565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.395661,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3958523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3958678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/05/london-to-chicago-ba-flight-declares-emergency-after-dropping-28000-feet",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3958843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/05/tories-are-united-behind-badenoch-but-mps-want-focus-on-economy-over-culture-wars-to-win-back-voters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3959,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/shavdon-gayden-murder-charge-chicago",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3959725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/pennsylvania-measles-outbreak-hospitalizations-deaths",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3959875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/obama-abdul-el-sayed-michigan-senate-race",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.396003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/students-vandalize-cornell-building",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3960183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/steve-hilton-campaign-ad-backlash",
+      "provider": "The Guardian",
+      "title": "Republicans criticize Steve Hilton for ‘creepy’ innuendo-filled campaign ad",
+      "status": "pending",
+      "firstSeenAt": 1791235983.3962266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/ohio-pastor-caleb-flynn-sentenced-wife-murder",
+      "provider": "The Guardian",
+      "title": "Former American Idol contestant and pastor sentenced to life in prison for murdering his wife",
+      "status": "pending",
+      "firstSeenAt": 1791235983.396342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/federal-politics-live-blog-coalition-migration-oct-6/107230622",
+      "provider": "ABC News Australia",
+      "title": "Coalition expected to cut migration to 100,000 in first year if elected",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1860461,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/uk-author-politician-jeffrey-archer-dies-aged-86/107232026",
+      "provider": "ABC News Australia",
+      "title": "UK author and politician Jeffrey Archer dies aged 86",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1862807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/107209244",
+      "provider": "ABC News Australia",
+      "title": "Almost half of China's workforce is now in the gig economy",
+      "status": "pending",
+      "firstSeenAt": 1791235984.186349,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/afl-trade-period-live-blog-tuesday-october-6/107232060",
+      "provider": "ABC News Australia",
+      "title": "Wantaway Saints star boycotts best and fairest as Cats eye AFL trade",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1864135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/demon-faces-djokovic-china-final-after-medvedev-disqualified/107231760",
+      "provider": "ABC News Australia",
+      "title": "Demon faces Djokovic in China final after Medvedev disqualified",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1864398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/trump-former-press-secretary-karoline-leavitt-joins-fox-news/107231890",
+      "provider": "ABC News Australia",
+      "title": "Trump's former press secretary Karoline Leavitt joins Fox News",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1865163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/mary-fowler-withdraws-matildas-squad-for-germany-haiti-games/107231866",
+      "provider": "ABC News Australia",
+      "title": "Mary Fowler withdraws from Matildas squad for Germany, Haiti games",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1870735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/wa-government-defence-conference-trade-show-land-force-security/107223860",
+      "provider": "ABC News Australia",
+      "title": "WA has high hopes for Land Forces as anti-war activists prepare to protest",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1871326,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/bird-flu-concerns-glenelg-estuary-discovery-bay-wetlands/107216812",
+      "provider": "ABC News Australia",
+      "title": "Bird flu adds to fears for threatened species at proposed wind farm site",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1871765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/asx-markets-business-news-live-updates-tuesday-6-october/107231888",
+      "provider": "ABC News Australia",
+      "title": "ASX to open higher as bond yields continue to rise",
+      "status": "pending",
+      "firstSeenAt": 1791235984.187309,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/calls-for-trauma-support-after-newcastle-knights-fans-car-crash/107229252",
+      "provider": "ABC News Australia",
+      "title": "Trauma support urged for witnesses of Knights fans car crash",
+      "status": "pending",
+      "firstSeenAt": 1791235984.187337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/domestic-violence-family-employment-recovery/107231166",
+      "provider": "ABC News Australia",
+      "title": "'Huge gap' between employers and abuse survivors over workplace support",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1873784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/community-push-to-change-national-childcare-fund/107219594",
+      "provider": "ABC News Australia",
+      "title": "Rural communities feel locked out of national childcare fund",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1874433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/car-firebombed-in-keilor-in-melbournes-north-west/107231766",
+      "provider": "ABC News Australia",
+      "title": "Car destroyed in another suburban firebombing in Melbourne's north-west",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1874988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/east-gippsland-homelessness-rough-sleeping-lakes-entrance/107187504",
+      "provider": "ABC News Australia",
+      "title": "The people and programs trying to tackle homelessness in Lakes Entrance",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1875408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/nt-wadeye-residents-call-for-social-club-trial-alcohol-violence/107224876",
+      "provider": "ABC News Australia",
+      "title": "Violence-racked remote NT community appeals for social club trial",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1875827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/nsw-sydney-recycled-water-earmarked-for-ai-data-centres/107214474",
+      "provider": "ABC News Australia",
+      "title": "Concerns as new $1.2b recycling facility will service data centres",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1876233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/government-weighs-more-murray-darling-basin-water-buybacks/107228660",
+      "provider": "ABC News Australia",
+      "title": "Basin communities feeling drained as more water buybacks considered",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1878192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/nrl-grand-final-mark-nawaqanitawase-sydney-roosters-wallabies/107230746",
+      "provider": "ABC News Australia",
+      "title": "Why NRL grand final 'freak' is making Wallabies lick their lips",
+      "status": "pending",
+      "firstSeenAt": 1791235984.187861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/queensland-public-sector-data-breach-privacy-complaints/107220284",
+      "provider": "ABC News Australia",
+      "title": "Data breaches across Queensland's public sector on the rise",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1879134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/figures-show-record-advertising-spend-by-malinauskas-government/107225226",
+      "provider": "ABC News Australia",
+      "title": "SA government advertising spend hits record levels",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1879885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/qd-northern-quolls-population-boost/107221508",
+      "provider": "ABC News Australia",
+      "title": "Australian predator relocated to refuge as population dwindles",
+      "status": "pending",
+      "firstSeenAt": 1791235984.1880531,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
