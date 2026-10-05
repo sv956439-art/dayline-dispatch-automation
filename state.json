@@ -20490,9 +20490,17 @@
       "status": "pending",
       "firstSeenAt": 1791162513.094107,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/brazil-heads-to-run-off-election-as-bolsonaro-leads-lula/107229260",
+      "provider": "ABC News Australia",
+      "title": "Bolsonaro defies expectations in Brazil presidential vote to face Lula in run-off",
+      "status": "pending",
+      "firstSeenAt": 1791163495.4809916,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
