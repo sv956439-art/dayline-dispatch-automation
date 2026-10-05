@@ -20434,9 +20434,25 @@
       "status": "pending",
       "firstSeenAt": 1791160474.629993,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791161764.219648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office",
+      "provider": "The Guardian",
+      "title": "Digger may lose $150m after Tom Cruise film bombs at the box office",
+      "status": "pending",
+      "firstSeenAt": 1791161764.2202475,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
