@@ -20778,9 +20778,33 @@
       "status": "pending",
       "firstSeenAt": 1791178761.4863403,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791179677.64534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/monday-briefing-first-edition-us-midterms-donald-trump-washington",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791179677.64589,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme",
+      "provider": "The Guardian",
+      "title": "‘The future is bright’: breeding programme brings world’s heaviest insect back from the brink",
+      "status": "pending",
+      "firstSeenAt": 1791179677.646087,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
