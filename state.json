@@ -20450,9 +20450,49 @@
       "status": "pending",
       "firstSeenAt": 1791161764.2202475,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/05/sam-wood-charged-domestic-violence-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791162512.6868536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/05/fans-backlash-west-end-gillian-anderson",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791162512.6872447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/tom-cruise-movie-digger-bombs-at-box-office-verity-top-spot/107229102",
+      "provider": "ABC News Australia",
+      "title": "Tom Cruise movie Digger bombs at box office, Verity takes top spot",
+      "status": "pending",
+      "firstSeenAt": 1791162513.0940244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/auction-clearance-rate-sinks-below-50pc-to-three-month-low/107228628",
+      "provider": "ABC News Australia",
+      "title": "Auction clearance rate sinks to three-month low as property market slows",
+      "status": "pending",
+      "firstSeenAt": 1791162513.09407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/flydubai-pilot-planned-to-crash-plane-into-ben-gurion-airport/107228592",
+      "provider": "ABC News Australia",
+      "title": "Flydubai co-pilot planned to crash plane into airport, Israeli media reports",
+      "status": "pending",
+      "firstSeenAt": 1791162513.094107,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
