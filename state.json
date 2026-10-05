@@ -20530,9 +20530,33 @@
       "status": "pending",
       "firstSeenAt": 1791164345.6751149,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5pve834grpno",
+      "provider": "BBC",
+      "title": "How India became dangerously addicted to Chinese imports India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "status": "pending",
+      "firstSeenAt": 1791165074.5331774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/bank-of-america-expert-has-warning-for-australian-super-funds/107221740",
+      "provider": "ABC News Australia",
+      "title": "Bank of America has a warning for Australia's $4.5 trillion superannuation sector",
+      "status": "pending",
+      "firstSeenAt": 1791165075.3763447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/kangaroos-squad-named-for-rugby-league-world-cup/107228420",
+      "provider": "ABC News Australia",
+      "title": "Yeo makes World Cup call, Walker earns Kangaroos spot",
+      "status": "pending",
+      "firstSeenAt": 1791165075.376378,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
