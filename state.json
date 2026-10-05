@@ -20834,9 +20834,33 @@
       "status": "pending",
       "firstSeenAt": 1791182008.5037756,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr74p85g24ypo",
+      "provider": "BBC",
+      "title": "New security lanes to speed up airport checks",
+      "status": "pending",
+      "firstSeenAt": 1791183476.9696298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm98z4dznx9no",
+      "provider": "BBC",
+      "title": "National Trust encourages Ironbridge collaboration",
+      "status": "pending",
+      "firstSeenAt": 1791183476.969651,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/05/to-cull-or-not-to-cull-greenland-debates-fate-of-worlds-slowest-shark",
+      "provider": "The Guardian",
+      "title": "To cull or not to cull: Greenland debates fate of world’s slowest shark",
+      "status": "pending",
+      "firstSeenAt": 1791183477.401334,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
