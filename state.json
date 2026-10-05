@@ -22498,9 +22498,17 @@
       "status": "pending",
       "firstSeenAt": 1791240328.4386256,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjk9n7gge7o",
+      "provider": "BBC",
+      "title": "59 mins ago Scotland's first AI teacher warns pupils: Don't trust everything it tells you Jamie Laycock says schools must help youngsters understand both the opportunities and dangers of AI. 59 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791240946.010792,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
