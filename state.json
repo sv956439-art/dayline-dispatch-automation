@@ -20946,9 +20946,57 @@
       "status": "pending",
       "firstSeenAt": 1791185704.8359206,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/crd6dqwx9q6qo",
+      "provider": "BBC",
+      "title": "Chiefs and 49ers remain unbeaten - five things from NFL week four",
+      "status": "pending",
+      "firstSeenAt": 1791186714.6418192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/motorsport/articles/cqj9kj3wx1dzo",
+      "provider": "BBC",
+      "title": "How Britain's Evans defied history to join rally greats",
+      "status": "pending",
+      "firstSeenAt": 1791186714.741119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr3eqepqqq7po",
+      "provider": "BBC",
+      "title": "Who am I? Guess Premier League star No 77",
+      "status": "pending",
+      "firstSeenAt": 1791186714.7411861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791186715.179216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791186715.1794477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/andrew-mountbatten-windsor-legal-action-after-epstein-arrest/107228702",
+      "provider": "ABC News Australia",
+      "title": "Andrew Mountbatten-Windsor launches legal action over Epstein files arrest",
+      "status": "pending",
+      "firstSeenAt": 1791186716.208096,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
