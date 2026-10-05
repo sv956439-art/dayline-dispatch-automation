@@ -21746,9 +21746,33 @@
       "status": "pending",
       "firstSeenAt": 1791214281.4186056,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791216044.2854044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791216044.2856834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/yemeni-government-forces-say-bab-el-mandeb-strait-secured/107231438",
+      "provider": "ABC News Australia",
+      "title": "Saudi-backed Yemeni forces claim control of Bab el-Mandeb Strait",
+      "status": "pending",
+      "firstSeenAt": 1791216044.6041157,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
