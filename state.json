@@ -21250,9 +21250,17 @@
       "status": "pending",
       "firstSeenAt": 1791197482.407339,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/first-thing-son-disgraced-ex-president-jair-flavio-bolsonaro-election-lead-brazil",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791198112.5096827,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
