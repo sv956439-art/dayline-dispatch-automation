@@ -20498,9 +20498,41 @@
       "status": "pending",
       "firstSeenAt": 1791163495.4809916,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
+      "provider": "BBC",
+      "title": "Trump announces 'Super Intelligence Force' to oversee AI policy The president named his national intelligence chief will head the taskforce as worries over the technology grow.",
+      "status": "pending",
+      "firstSeenAt": 1791164344.997758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/05/man-shot-dead-nsw-police-yass-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791164345.3343313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/05/brisbane-one-nation-office-multimillion-gina-rinehart-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791164345.3343554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/tenzing-movie-retells-most-famous-everest-summit/107221084",
+      "provider": "ABC News Australia",
+      "title": "New movie corrects the record on Tenzing Norgay's Everest climb",
+      "status": "pending",
+      "firstSeenAt": 1791164345.6751149,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
