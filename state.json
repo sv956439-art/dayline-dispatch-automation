@@ -20890,9 +20890,65 @@
       "status": "pending",
       "firstSeenAt": 1791184512.069674,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz6z2831qgeo",
+      "provider": "BBC",
+      "title": "4 Sorrow of the children shipped to Canada all alone",
+      "status": "pending",
+      "firstSeenAt": 1791185704.1803536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckp84r967d3go",
+      "provider": "BBC",
+      "title": "£117m Rogers failed at Bournemouth - and feared he may not make it A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level. 32 mins ago Premier League",
+      "status": "pending",
+      "firstSeenAt": 1791185704.1805646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791185704.4254112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791185704.4257317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/spanish-prime-minister-pedro-sanchez-announces-early-election/107230816",
+      "provider": "ABC News Australia",
+      "title": "Spanish Prime Minister Pedro Sánchez announces early election",
+      "status": "pending",
+      "firstSeenAt": 1791185704.8348944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/koori-knockout-raymond-terrace-results-wiradjuri-aboriginal-/107229574",
+      "provider": "ABC News Australia",
+      "title": "Wiradjuri Aboriginal Rivers, Newcastle Yowies claim Koori Knockout glory",
+      "status": "pending",
+      "firstSeenAt": 1791185704.8358824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/wa-premier-confirms-esperance-desalination-plant-needed/107228738",
+      "provider": "ABC News Australia",
+      "title": "WA premier backflips on desalination plant amid $543m pipeline upgrade",
+      "status": "pending",
+      "firstSeenAt": 1791185704.8359206,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
