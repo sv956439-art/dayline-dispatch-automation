@@ -20634,9 +20634,73 @@
       "status": "pending",
       "firstSeenAt": 1791172320.7229679,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkg79z04w4zo",
+      "provider": "BBC",
+      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "status": "pending",
+      "firstSeenAt": 1791173136.171863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791173136.5347862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/05/eu-ambassador-uk-interview",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791173136.5350366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/exiled-separatist-leader-carles-puigdemont-return-catalonia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791173136.535049,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791173136.5352237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/australian-children-at-risk-from-sadistic-online-cults-like-764/107217600",
+      "provider": "ABC News Australia",
+      "title": "The sadistic online cult with a global network that's targeting Australian kids",
+      "status": "pending",
+      "firstSeenAt": 1791173137.2589958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/australians-held-in-iraq-face-potential-execution-hrw/107228916",
+      "provider": "ABC News Australia",
+      "title": "IS-linked Australians in Iraq face 'risk of unfair prosecution', HRW warns",
+      "status": "pending",
+      "firstSeenAt": 1791173137.2590218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/samoa-prime-minister-nazi-salute-video/107226830",
+      "provider": "ABC News Australia",
+      "title": "Samoan PM apologises for 'heil Hitler' salute at family event in 2007",
+      "status": "pending",
+      "firstSeenAt": 1791173137.2590456,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
