@@ -22514,9 +22514,33 @@
       "status": "pending",
       "firstSeenAt": 1791241458.6239212,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/06/rare-footage-first-battle-of-hastings-re-enactment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791242295.513651,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/pianist-isata-kanneh-mason-on-family-nerves-and-music-education/107215192",
+      "provider": "ABC News Australia",
+      "title": "Meet the pianist who is part of a family of seven musical siblings",
+      "status": "pending",
+      "firstSeenAt": 1791242295.8828228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/prostate-cancer-ram-raises-awareness-for-men-living-with-disease/107229656",
+      "provider": "ABC News Australia",
+      "title": "Farmer uses $5,000 ram to start conversations about prostate cancer",
+      "status": "pending",
+      "firstSeenAt": 1791242295.8834636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
