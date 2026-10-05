@@ -22506,9 +22506,17 @@
       "status": "pending",
       "firstSeenAt": 1791240946.010792,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme3r9eq2w0lo",
+      "provider": "BBC",
+      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why A growing number of parents are opening retirement funds for their children.",
+      "status": "pending",
+      "firstSeenAt": 1791241458.6239212,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
