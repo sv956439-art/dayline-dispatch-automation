@@ -22546,9 +22546,25 @@
       "status": "pending",
       "firstSeenAt": 1791243674.755279,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyz223j19po",
+      "provider": "BBC",
+      "title": "A simple guide to the US midterms US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "status": "pending",
+      "firstSeenAt": 1791244225.6048532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/jaymie-graham-named-new-north-melbourne-afl-coach/107232272",
+      "provider": "ABC News Australia",
+      "title": "Jaymie Graham named new North Melbourne AFL coach",
+      "status": "pending",
+      "firstSeenAt": 1791244226.4716527,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
