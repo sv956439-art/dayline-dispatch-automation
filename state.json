@@ -22562,9 +22562,65 @@
       "status": "pending",
       "firstSeenAt": 1791244226.4716527,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2kedyp348lo",
+      "provider": "BBC",
+      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up? The city's space boom raises questions about the role of the state in backing important industries. 49 mins ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1791244644.4997098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp9g5p1gy7yo",
+      "provider": "BBC",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing The world's fastest growing major economy has one of the worst performing major equity markets in 2026. 43 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1791244644.5001292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm2r0vpn08xo",
+      "provider": "BBC",
+      "title": "Dread presenting at work? Read these tips before your next meeting Dani Payne would have panic attacks at the thought of presenting - now she does it most days. 25 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791244644.5001717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm2686gl6kno",
+      "provider": "BBC",
+      "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month. 27 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791244644.55877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgdl5npl86o",
+      "provider": "BBC",
+      "title": "UK Conservatives pledge £10bn 'Britannia Shield' air defence system",
+      "status": "pending",
+      "firstSeenAt": 1791244644.5588753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c80095q7p7jo",
+      "provider": "BBC",
+      "title": "Jeffrey Archer: successful novelist, disgraced politician and convicted liar Politician and best-selling author whose career was mired in scandal and disgrace. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791244644.55899,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791244644.9857845,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
