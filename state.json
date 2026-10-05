@@ -20554,9 +20554,25 @@
       "status": "pending",
       "firstSeenAt": 1791165075.376378,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/nt-police-catch-nt-man-speeding-100km-over-limit/107229326",
+      "provider": "ABC News Australia",
+      "title": "NT man caught driving 100km/h over speed limit",
+      "status": "pending",
+      "firstSeenAt": 1791165650.8373814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/naufahu-whyte-nrl-grand-final-sydney-roosters/107228076",
+      "provider": "ABC News Australia",
+      "title": "He was the best forward in the grand final, but Whyte's best is yet to come",
+      "status": "pending",
+      "firstSeenAt": 1791165650.837432,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
