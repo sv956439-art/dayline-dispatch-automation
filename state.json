@@ -22346,9 +22346,33 @@
       "status": "pending",
       "firstSeenAt": 1791237250.931124,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3y0z0wkgnjwo",
+      "provider": "BBC",
+      "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
+      "status": "pending",
+      "firstSeenAt": 1791237775.3948445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/vic-new-melbourne-airport-drop-off-pick-up-area-opens/107231868",
+      "provider": "ABC News Australia",
+      "title": "Smooth sailing for new passenger zones at Melbourne Airport",
+      "status": "pending",
+      "firstSeenAt": 1791237776.1530929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/nt-christopher-morley-range-rover-ran-over-partner-brain-injury/107230200",
+      "provider": "ABC News Australia",
+      "title": "Court hears man ran over partner with Range Rover, causing brain injury",
+      "status": "pending",
+      "firstSeenAt": 1791237776.1531389,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
