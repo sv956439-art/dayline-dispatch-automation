@@ -22338,9 +22338,17 @@
       "status": "pending",
       "firstSeenAt": 1791236461.352872,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5gmr3dl2lp4o",
+      "provider": "BBC",
+      "title": "Disabled woman had to 'crawl on hands and knees' to get off train",
+      "status": "pending",
+      "firstSeenAt": 1791237250.931124,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
