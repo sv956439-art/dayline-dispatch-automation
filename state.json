@@ -20698,9 +20698,17 @@
       "status": "pending",
       "firstSeenAt": 1791173137.2590456,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/australia-world-cup-rugby-league-squad-kevin-walters/107229918",
+      "provider": "ABC News Australia",
+      "title": "Australia's World Cup squad is a sign of the changing times",
+      "status": "pending",
+      "firstSeenAt": 1791176151.43421,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
