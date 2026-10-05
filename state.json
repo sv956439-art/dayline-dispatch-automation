@@ -22330,9 +22330,17 @@
       "status": "pending",
       "firstSeenAt": 1791235984.1880531,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/jerilderie-saleyard-closes-no-buyer-one-dollar-lease/107195828",
+      "provider": "ABC News Australia",
+      "title": "Record sheep prices can't save saleyard despite $1 lease offer",
+      "status": "pending",
+      "firstSeenAt": 1791236461.352872,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
