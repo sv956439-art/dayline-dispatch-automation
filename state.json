@@ -21106,9 +21106,33 @@
       "status": "pending",
       "firstSeenAt": 1791191291.2501595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261001-five-exercises-to-help-reduce-neck-pain",
+      "provider": "BBC",
+      "title": "How to future-proof your neck The modern world is a challenging place for necks. These five exercises will help you cope.",
+      "status": "pending",
+      "firstSeenAt": 1791192556.3485398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791192556.671481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/us-accuses-california-woman-of-surveilling-taiwan-president-son/107231000",
+      "provider": "ABC News Australia",
+      "title": "US accuses California woman of spying on Taiwan president's son for China",
+      "status": "pending",
+      "firstSeenAt": 1791192557.0763001,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
