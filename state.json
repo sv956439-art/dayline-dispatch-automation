@@ -22410,9 +22410,65 @@
       "status": "pending",
       "firstSeenAt": 1791238737.85373,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq14d438vx24o",
+      "provider": "BBC",
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "status": "pending",
+      "firstSeenAt": 1791239561.4305592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw203mjx7r46o",
+      "provider": "BBC",
+      "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791239561.5193577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqd09z0x9xd8o",
+      "provider": "BBC",
+      "title": "Gauff condemns racist abuse after China Open win",
+      "status": "pending",
+      "firstSeenAt": 1791239561.519392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/c3gr8yrywyd1o",
+      "provider": "BBC",
+      "title": "Littler suffers defeat in World Youth Championships",
+      "status": "pending",
+      "firstSeenAt": 1791239561.5196497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cv2d6p9en7wdo",
+      "provider": "BBC",
+      "title": "Bottas cycling from Malaysia to Singapore Grand Prix",
+      "status": "pending",
+      "firstSeenAt": 1791239561.5197387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmly05el6gz2o",
+      "provider": "BBC",
+      "title": "Humble Gilmour happy with new role as 50th cap beckons",
+      "status": "pending",
+      "firstSeenAt": 1791239561.5197616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/donald-trump-approval-ratings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791239561.9199395,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
