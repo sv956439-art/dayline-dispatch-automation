@@ -21010,9 +21010,33 @@
       "status": "pending",
       "firstSeenAt": 1791187375.312215,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cmgj94zd59ljo",
+      "provider": "BBC",
+      "title": "Connor out, Lewis in as England name World Cup squad",
+      "status": "pending",
+      "firstSeenAt": 1791188565.790153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/05/coach-services-cut-record-diesel-prices-fuel-school-transport",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791188566.3493156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/04/republic-of-ireland-israel-nations-league-match-report",
+      "provider": "The Guardian",
+      "title": "Hallgrímsson calls on Uefa to keep Ireland and Israel apart in future after bad-tempered draw",
+      "status": "pending",
+      "firstSeenAt": 1791188566.3498464,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
