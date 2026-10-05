@@ -21090,9 +21090,25 @@
       "status": "pending",
       "firstSeenAt": 1791189670.3113043,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdx39k49xw0o",
+      "provider": "BBC",
+      "title": "Spain PM Sánchez calls early election after housing protests Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "status": "pending",
+      "firstSeenAt": 1791191291.250088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r4yxpry5e9o",
+      "provider": "BBC",
+      "title": "Average five-year mortgage rate hits 6% for first time in three years The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+      "status": "pending",
+      "firstSeenAt": 1791191291.2501595,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
