@@ -20994,9 +20994,25 @@
       "status": "pending",
       "firstSeenAt": 1791186716.208096,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c689zl5eljdzo",
+      "provider": "BBC",
+      "title": "Andrew takes legal action over search warrants relating to arrest Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February. 10 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791187375.2369187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze4g06526ro",
+      "provider": "BBC",
+      "title": "BT agrees rescue deal to buy broadband operator TalkTalk The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+      "status": "pending",
+      "firstSeenAt": 1791187375.312215,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
