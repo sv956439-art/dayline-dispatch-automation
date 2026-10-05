@@ -21314,9 +21314,73 @@
       "status": "pending",
       "firstSeenAt": 1791201748.3074005,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy56yvv1kxxo",
+      "provider": "BBC",
+      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week. Just now UK",
+      "status": "pending",
+      "firstSeenAt": 1791203148.7718756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e9lj5r3ej7o",
+      "provider": "BBC",
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35 A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+      "status": "pending",
+      "firstSeenAt": 1791203148.772845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cr62y51n1841o",
+      "provider": "BBC",
+      "title": "F1 needs to have hard look at itself - Sainz",
+      "status": "pending",
+      "firstSeenAt": 1791203148.7734723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1dxe50nyo",
+      "provider": "BBC",
+      "title": "UK Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
+      "status": "pending",
+      "firstSeenAt": 1791203148.846511,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmy4x3e7zwn9o",
+      "provider": "BBC",
+      "title": "Salty celebrations, questionable signings and Test bolters - Prem talking points Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action. 34 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791203148.8470883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791203149.0511427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791203149.0521731,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/us-senate-pilots-air-traffic-controllers-mental-health",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791203149.0522153,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
