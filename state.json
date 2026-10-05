@@ -20570,9 +20570,17 @@
       "status": "pending",
       "firstSeenAt": 1791165650.837432,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/santa-tereasa-ltyentye-apurte-horse-races/107226890",
+      "provider": "ABC News Australia",
+      "title": "Cowboys and girls dress up for Santa Tereasa/Ltyentye Apurte horse races",
+      "status": "pending",
+      "firstSeenAt": 1791168565.6397645,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
