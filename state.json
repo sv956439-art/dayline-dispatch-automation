@@ -20418,9 +20418,25 @@
       "status": "pending",
       "firstSeenAt": 1791158974.051224,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791160473.9593222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-05/man-fatally-shot-by-police-following-car-crash-in-rugby-nsw/107228664",
+      "provider": "ABC News Australia",
+      "title": "Man fatally shot by police after crashing car into tree",
+      "status": "pending",
+      "firstSeenAt": 1791160474.629993,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
