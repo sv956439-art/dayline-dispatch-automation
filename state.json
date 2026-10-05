@@ -21186,9 +21186,25 @@
       "status": "pending",
       "firstSeenAt": 1791194405.9143836,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5ev3ypmzly8o",
+      "provider": "BBC",
+      "title": "Nobel Prize awarded for showing how nerve cells shape feelings US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work. 6 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1791195406.113929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview",
+      "provider": "The Guardian",
+      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
+      "status": "pending",
+      "firstSeenAt": 1791195406.5914295,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
