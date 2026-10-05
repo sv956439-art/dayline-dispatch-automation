@@ -21418,9 +21418,25 @@
       "status": "pending",
       "firstSeenAt": 1791204477.1764576,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gqw8jg7k3go",
+      "provider": "BBC",
+      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+      "status": "pending",
+      "firstSeenAt": 1791205517.1241295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/nobu-chef-malibu-killed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791205517.6368606,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
