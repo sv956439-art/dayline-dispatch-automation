@@ -25122,9 +25122,33 @@
       "status": "pending",
       "firstSeenAt": 1791329221.22002,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm86zqg553q8o",
+      "provider": "BBC",
+      "title": "Badenoch's £10bn air defence plan points to growing concern over protecting UK's skies The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world. 6 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791330030.1697488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/big-red-bash-final-event-2027/107237066",
+      "provider": "ABC News Australia",
+      "title": "Big Red Bash says 2027 will be the outback festival's last hurrah",
+      "status": "pending",
+      "firstSeenAt": 1791330030.9624865,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/mount-isa-indigenous-housing-group-atsicfws-winding-up/107232328",
+      "provider": "ABC News Australia",
+      "title": "Terminally ill grandmother to lose home after auctions as housing group fails",
+      "status": "pending",
+      "firstSeenAt": 1791330030.962535,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
