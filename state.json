@@ -25186,9 +25186,25 @@
       "status": "pending",
       "firstSeenAt": 1791330680.3778906,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxly57v78yv7o",
+      "provider": "BBC",
+      "title": "Froyo's made a comeback. But at £12 a tub will it last? Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK. 57 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791331158.6401196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxjrekg29zo",
+      "provider": "BBC",
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved. 57 mins ago Scotland Business",
+      "status": "pending",
+      "firstSeenAt": 1791331158.6401563,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
