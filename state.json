@@ -24834,9 +24834,49 @@
       "status": "pending",
       "firstSeenAt": 1791320403.2604666,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8kgezxn54qko",
+      "provider": "BBC",
+      "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday. Just now US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791321132.4392426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791321132.8650393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791321132.8652604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/christa-pike-wakes-after-botched-execution/107229618",
+      "provider": "ABC News Australia",
+      "title": "Death row inmate Christa Pike wakes after botched execution",
+      "status": "pending",
+      "firstSeenAt": 1791321133.4192555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/new-australian-camel-record-good-old-days-festival/107233720",
+      "provider": "ABC News Australia",
+      "title": "Camel team hauls wagon into record books in southern NSW",
+      "status": "pending",
+      "firstSeenAt": 1791321133.4198024,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
