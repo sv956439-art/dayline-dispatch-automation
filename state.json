@@ -23994,9 +23994,57 @@
       "status": "pending",
       "firstSeenAt": 1791293045.0339777,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8gxygvpg6o",
+      "provider": "BBC",
+      "title": "Defence lawyer in Cornell University case calls for special prosecutor to be removed New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "status": "pending",
+      "firstSeenAt": 1791293996.698519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly02gd1xppo",
+      "provider": "BBC",
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "status": "pending",
+      "firstSeenAt": 1791293996.6985488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/crkg7d815e59o",
+      "provider": "BBC",
+      "title": "Djokovic claims 102nd title of career",
+      "status": "pending",
+      "firstSeenAt": 1791293996.6991518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c3vgx592y8ero",
+      "provider": "BBC",
+      "title": "NBA star Wembanyama trains with French rugby club",
+      "status": "pending",
+      "firstSeenAt": 1791293996.7986937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crz65j3xyn9xo",
+      "provider": "BBC",
+      "title": "How promotion, relegation and knockouts work in Nations League",
+      "status": "pending",
+      "firstSeenAt": 1791293996.798792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c9m260l05450o",
+      "provider": "BBC",
+      "title": "Gassiev unsure if Fury v Joshua will be for his WBA belt",
+      "status": "pending",
+      "firstSeenAt": 1791293996.7991526,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
