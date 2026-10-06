@@ -24162,9 +24162,33 @@
       "status": "pending",
       "firstSeenAt": 1791298417.5143256,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd7qn8x359no",
+      "provider": "BBC",
+      "title": "Rubio urges Russia to share more information on plague lab worker's death The World Health Organization said Russian authorities had identified all of the people who had been in contact with a laboratory worker.",
+      "status": "pending",
+      "firstSeenAt": 1791299111.5541642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70p46je6k2o",
+      "provider": "BBC",
+      "title": "Mayor rejects business class for India trip - but can see the benefits",
+      "status": "pending",
+      "firstSeenAt": 1791299111.6398473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9vzngkxw29o",
+      "provider": "BBC",
+      "title": "No tourist tax exemption for Airbnbs, says mayor",
+      "status": "pending",
+      "firstSeenAt": 1791299111.6398745,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
