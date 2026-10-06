@@ -23770,9 +23770,49 @@
       "status": "pending",
       "firstSeenAt": 1791285356.935033,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly0g1ljq2yo",
+      "provider": "BBC",
+      "title": "Italian PM files to trademark her voice against AI threats Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
+      "status": "pending",
+      "firstSeenAt": 1791286283.2353826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cxyvr7q207gpo",
+      "provider": "BBC",
+      "title": "Calm in real life but demons on court - Medvedev runs out of chances",
+      "status": "pending",
+      "firstSeenAt": 1791286283.2359807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx2d5z1143wo",
+      "provider": "BBC",
+      "title": "Tom Grennan returns to Bedford venue for free shows The Little Bit of Love singer will play gigs at the venue where he performed as a teenager.",
+      "status": "pending",
+      "firstSeenAt": 1791286283.2361565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791286283.6432564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/06/coco-gauff-racist-abuse-disputed-point-china-open-tennis",
+      "provider": "The Guardian",
+      "title": "Coco Gauff says ‘insane’ wave of racist abuse followed disputed point at China Open",
+      "status": "pending",
+      "firstSeenAt": 1791286283.6443958,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
