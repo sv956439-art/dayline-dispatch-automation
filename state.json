@@ -24314,9 +24314,33 @@
       "status": "pending",
       "firstSeenAt": 1791306180.9177635,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/06/three-men-raped-girl-fled-in-lorry-jailed-bristol",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791308014.9182148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
+      "provider": "ABC News Australia",
+      "title": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
+      "status": "pending",
+      "firstSeenAt": 1791308015.3585641,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/paramount-takes-over-warner-bros-to-form-skydance/107236848",
+      "provider": "ABC News Australia",
+      "title": "Paramount completes Warner Bros takeover to form media giant Skydance",
+      "status": "pending",
+      "firstSeenAt": 1791308015.3592405,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
