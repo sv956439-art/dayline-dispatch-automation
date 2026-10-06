@@ -24090,9 +24090,49 @@
       "status": "pending",
       "firstSeenAt": 1791296645.242311,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5n4922n00wgo",
+      "provider": "BBC",
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "status": "pending",
+      "firstSeenAt": 1791297499.4612474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly32g2nlrlo",
+      "provider": "BBC",
+      "title": "1 hr ago Unknown Canaletto work could fetch £60k at auction The rare artwork is going under the hammer at Mallams auction house in Abingdon later this month. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791297499.5458117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/how-dilapidated-french-schools-inequality-education-system-protests",
+      "provider": "The Guardian",
+      "title": "How dilapidated are French schools and how bad is inequality in the education system?",
+      "status": "pending",
+      "firstSeenAt": 1791297499.898862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/di-minour-china-open/107236718",
+      "provider": "ABC News Australia",
+      "title": "De Minaur retires injured, handing China Open title to Djokovic",
+      "status": "pending",
+      "firstSeenAt": 1791297500.3154173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/german-spy-chief-teason-allegations/107236556",
+      "provider": "ABC News Australia",
+      "title": "Former German spy chief arrested over alleged espionage and treason",
+      "status": "pending",
+      "firstSeenAt": 1791297500.3160796,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
