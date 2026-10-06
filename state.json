@@ -24042,9 +24042,17 @@
       "status": "pending",
       "firstSeenAt": 1791293996.7991526,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/protesting-pupils-blockade-french-high-schools-again/107236514",
+      "provider": "ABC News Australia",
+      "title": "'No future': Thousands gather in France as high school protests continue",
+      "status": "pending",
+      "firstSeenAt": 1791294849.7725992,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
