@@ -22954,9 +22954,17 @@
       "status": "pending",
       "firstSeenAt": 1791262215.0374842,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/sanae-takaichi-protest-us-marine-arrested-killing-woman-okinawa-japan",
+      "provider": "The Guardian",
+      "title": "Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa",
+      "status": "pending",
+      "firstSeenAt": 1791262823.2956004,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
