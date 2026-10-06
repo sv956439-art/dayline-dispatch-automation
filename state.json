@@ -23674,9 +23674,33 @@
       "status": "pending",
       "firstSeenAt": 1791282913.66622,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ly0v5r602eo",
+      "provider": "BBC",
+      "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "status": "pending",
+      "firstSeenAt": 1791283855.925704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky8302y7zejo",
+      "provider": "BBC",
+      "title": "Carbon tracking tower put on Scotland's largest saltmarsh",
+      "status": "pending",
+      "firstSeenAt": 1791283855.990082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/first-quantum-fined-810k-workplace-spinal-injury-ravensthorpe/107236144",
+      "provider": "ABC News Australia",
+      "title": "Nickel miner fined $810k over boilermaker's spinal injury",
+      "status": "pending",
+      "firstSeenAt": 1791283856.6742425,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
