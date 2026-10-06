@@ -24898,9 +24898,25 @@
       "status": "pending",
       "firstSeenAt": 1791322015.056435,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/table-tennis-to-debut-at-australian-special-olympics/107158652",
+      "provider": "ABC News Australia",
+      "title": "Athletes drive to make table tennis a smash at national Special Olympics debut",
+      "status": "pending",
+      "firstSeenAt": 1791322823.081743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/afl-trade-period-live-blog-wednesday-october-7/107234160",
+      "provider": "ABC News Australia",
+      "title": "Suspended Swans star may seek shock AFL trade",
+      "status": "pending",
+      "firstSeenAt": 1791322823.0817695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
