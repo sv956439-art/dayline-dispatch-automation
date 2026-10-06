@@ -23010,9 +23010,49 @@
       "status": "pending",
       "firstSeenAt": 1791263675.744001,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c52e9k3998e7o",
+      "provider": "BBC",
+      "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC With better support, many babies may not have needed to go into care, File on 4 Investigates is told. 28 mins ago Family & Education",
+      "status": "pending",
+      "firstSeenAt": 1791264631.1210237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg0lyl3v8eo",
+      "provider": "BBC",
+      "title": "Banks still refusing credit cards, watchdog says Applications are being denied despite a change to make it easier, Jersey Consumer Council says.",
+      "status": "pending",
+      "firstSeenAt": 1791264631.1220276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jzl91kp7vo",
+      "provider": "BBC",
+      "title": "World's 'largest floating book fair' docks in Belfast The boat, which has a collection of over 5,000 titles, last visited Belfast in 2009.",
+      "status": "pending",
+      "firstSeenAt": 1791264631.1226194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2vy19g739o",
+      "provider": "BBC",
+      "title": "23 mins ago Historic justice museum to close after financial woes The museum was opened in Dorchester in 2018 after a revamp and is based in a Grade I listed building. 23 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791264631.1970875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2w5dq4qy0o",
+      "provider": "BBC",
+      "title": "24 mins ago Gallery celebrates city's people, places and sounds A new gallery tells the story of the city through the eyes of Birmingham Museums' Citizens' Jury. 24 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791264631.1971173,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
