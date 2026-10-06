@@ -22754,9 +22754,49 @@
       "status": "pending",
       "firstSeenAt": 1791253612.667522,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crly09gz7ew4o",
+      "provider": "BBC",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "status": "pending",
+      "firstSeenAt": 1791254515.1959949,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c862ylle91k7o",
+      "provider": "BBC",
+      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
+      "status": "pending",
+      "firstSeenAt": 1791254515.1960673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/beau-lamarre-condon-trial-cctv-accuseds-movements-sydney-after-alleged-double-murder-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791254515.6738873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/exploding-heinz-tomato-soup-tin-man-injured-/107231928",
+      "provider": "ABC News Australia",
+      "title": "Tomato soup tin explodes in man's face, slicing open his nose",
+      "status": "pending",
+      "firstSeenAt": 1791254516.0990489,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/qld-severe-weather-outlook/107232308",
+      "provider": "ABC News Australia",
+      "title": "Severe cyclone likely to hit Qld this season, weather bureau warns",
+      "status": "pending",
+      "firstSeenAt": 1791254516.099082,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
