@@ -25034,9 +25034,25 @@
       "status": "pending",
       "firstSeenAt": 1791327109.4038453,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/ato-special-meeting-small-business-credit-card-ban/107018106",
+      "provider": "ABC News Australia",
+      "title": "ATO convenes snap meeting over credit card ban",
+      "status": "pending",
+      "firstSeenAt": 1791327605.8880723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/south-korea-weapons-to-russia-ukraine-says-easing-crisis/107237356",
+      "provider": "ABC News Australia",
+      "title": "Ukraine says South Korean exports helped ease Russia's drone-strike crisis",
+      "status": "pending",
+      "firstSeenAt": 1791327605.888125,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
