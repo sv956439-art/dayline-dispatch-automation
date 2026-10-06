@@ -23346,9 +23346,17 @@
       "status": "pending",
       "firstSeenAt": 1791272295.3167439,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/alan-jones-kissed-17yo-on-the-mouth-trial-hears/107231780",
+      "provider": "ABC News Australia",
+      "title": "Alan Jones kiss left 17yo feeling 'violated', court told",
+      "status": "pending",
+      "firstSeenAt": 1791273758.109723,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
