@@ -24402,9 +24402,81 @@
       "status": "pending",
       "firstSeenAt": 1791309514.1244323,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8x23706pvz3o",
+      "provider": "BBC",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "status": "pending",
+      "firstSeenAt": 1791310295.88283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791310296.314486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/trump-fbi-ice-la-protesters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791310296.314998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/new-tarneit-train-station-car-park-overflowing-with-commuters/107232716",
+      "provider": "ABC News Australia",
+      "title": "Train station intended to ease growing pains already bursting at seams",
+      "status": "pending",
+      "firstSeenAt": 1791310296.7476757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/coalition-migration-plan-risks-significant-economic-hit/107236278",
+      "provider": "ABC News Australia",
+      "title": "Taylor concedes aged care workers would be hit by migration plan",
+      "status": "pending",
+      "firstSeenAt": 1791310296.7477217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/china-trials-identity-card-for-ai-digital-humans/107232848",
+      "provider": "ABC News Australia",
+      "title": "AI digital human Yuri has 100,000 fans and now a Chinese ID card",
+      "status": "pending",
+      "firstSeenAt": 1791310296.7477653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/is-the-deep-sea-mining-gold-rush-viable/107130150",
+      "provider": "ABC News Australia",
+      "title": "Experts question viability of billion-dollar deep-sea mining gold rush",
+      "status": "pending",
+      "firstSeenAt": 1791310296.747801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/peptides-ozempic-surgery-warning/107233212",
+      "provider": "ABC News Australia",
+      "title": "Patients hiding use of peptides or weight loss jabs face 'serious' surgery risk",
+      "status": "pending",
+      "firstSeenAt": 1791310296.7478423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/top-100-australian-books-what-your-favourite-book-says-about-you/107230402",
+      "provider": "ABC News Australia",
+      "title": "What your favourite book says about you",
+      "status": "pending",
+      "firstSeenAt": 1791310296.7478828,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
