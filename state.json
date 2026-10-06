@@ -25146,9 +25146,49 @@
       "status": "pending",
       "firstSeenAt": 1791330030.962535,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/mount-pleasant-coal-mine-high-court-ruling/107233650",
+      "provider": "ABC News Australia",
+      "title": "High Court rules in favour of climate oin Hunter valley coal mine case",
+      "status": "pending",
+      "firstSeenAt": 1791330680.3777688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/alleged-child-abduction-attempt-on-paralowie-road/107237700",
+      "provider": "ABC News Australia",
+      "title": "Girl allegedly grabbed during abduction attempt",
+      "status": "pending",
+      "firstSeenAt": 1791330680.3777912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/us-arrests-person-in-connection-to-canada-school-shooting-offici/107237120",
+      "provider": "ABC News Australia",
+      "title": "US resident conspired with Canadian school shooter before attack, officials say",
+      "status": "pending",
+      "firstSeenAt": 1791330680.377823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/police-probe-man-s-death-after-body-found-at-maryborough/107237440",
+      "provider": "ABC News Australia",
+      "title": "Police probe man's death after body found at Maryborough",
+      "status": "pending",
+      "firstSeenAt": 1791330680.3778534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602",
+      "provider": "ABC News Australia",
+      "title": "Why Darwin could become 'a major interconnection point' for global data",
+      "status": "pending",
+      "firstSeenAt": 1791330680.3778906,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
