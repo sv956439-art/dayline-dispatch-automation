@@ -23098,9 +23098,41 @@
       "status": "pending",
       "firstSeenAt": 1791265534.483037,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwly3lpmyye9o",
+      "provider": "BBC",
+      "title": "Owner, businessman & player: Messi has big plans as a golden era ends Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+      "status": "pending",
+      "firstSeenAt": 1791266225.7959788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9146820z5jdo",
+      "provider": "BBC",
+      "title": "City walls 'tap to donate' raises nearly £9,000",
+      "status": "pending",
+      "firstSeenAt": 1791266225.87284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/consumer-confidence-index-interest-rate-rise-australia-rba-housing-renter-mortgage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791266226.0004697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/alpurrurulam-unrest-health-clinic-shut-down-police-station-calls/107233160",
+      "provider": "ABC News Australia",
+      "title": "'Last straw': Remote clinic shut down amid unrest, staff threats",
+      "status": "pending",
+      "firstSeenAt": 1791266226.4132304,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
