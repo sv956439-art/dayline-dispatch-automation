@@ -23922,9 +23922,25 @@
       "status": "pending",
       "firstSeenAt": 1791291270.1182384,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj0604d33qzo",
+      "provider": "BBC",
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition. 6 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791291925.0133007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62ep294qxlo",
+      "provider": "BBC",
+      "title": "Films and streaming prices - how the Warner Bros deal could affect you The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "status": "pending",
+      "firstSeenAt": 1791291925.015014,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
