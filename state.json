@@ -24130,9 +24130,41 @@
       "status": "pending",
       "firstSeenAt": 1791297500.3160796,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g1m2g1pg3o",
+      "provider": "BBC",
+      "title": "AfD candidate elected speaker of German regional parliament for first time Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "status": "pending",
+      "firstSeenAt": 1791298416.9745631,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmzxjr0nz27ro",
+      "provider": "BBC",
+      "title": "Talks could secure long-term future of Aberdeen Arts Centre",
+      "status": "pending",
+      "firstSeenAt": 1791298416.9750624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791298417.5139763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/06/reform-sarah-pochin-second-homes-bought-800000",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791298417.5143256,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
