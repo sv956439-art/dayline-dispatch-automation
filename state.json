@@ -23130,9 +23130,33 @@
       "status": "pending",
       "firstSeenAt": 1791266226.4132304,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g15v2jqy8o",
+      "provider": "BBC",
+      "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+      "status": "pending",
+      "firstSeenAt": 1791266994.6270082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791266994.8670697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791266994.8670955,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
