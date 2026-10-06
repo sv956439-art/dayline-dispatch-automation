@@ -24290,9 +24290,33 @@
       "status": "pending",
       "firstSeenAt": 1791304736.1041536,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791306180.9172704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/oct/06/greek-prime-minister-pledges-to-ramp-up-efforts-to-regain-parthenon-marbles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791306180.9174697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/election-deniers-midterms-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791306180.9177635,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
