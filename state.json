@@ -24962,9 +24962,25 @@
       "status": "pending",
       "firstSeenAt": 1791324707.8061206,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck054zm1701qo",
+      "provider": "BBC",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "status": "pending",
+      "firstSeenAt": 1791325608.0138066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/canberra-airport-proposes-all-event-stadium-in-civic/107235890",
+      "provider": "ABC News Australia",
+      "title": "Canberra Airport proposes all-event stadium in city centre",
+      "status": "pending",
+      "firstSeenAt": 1791325609.2109783,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
