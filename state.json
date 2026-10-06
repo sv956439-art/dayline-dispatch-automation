@@ -24474,9 +24474,33 @@
       "status": "pending",
       "firstSeenAt": 1791310296.7478828,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw1m4l3jrxlgo",
+      "provider": "BBC",
+      "title": "US man arrested in connection with deadly British Columbia school shooting US authorities say the 30-year-old  man has been charged with conspiracy to murder persons in a foreign country. Six children died in the shooting.",
+      "status": "pending",
+      "firstSeenAt": 1791311420.5303595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791311421.0821195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/the-rba-wants-prices-to-keep-rising-but-more-slowly-inflation/107229624",
+      "provider": "ABC News Australia",
+      "title": "The RBA isn't trying to stop inflation. So don't expect prices to fall",
+      "status": "pending",
+      "firstSeenAt": 1791311421.3418503,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
