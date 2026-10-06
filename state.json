@@ -23586,9 +23586,57 @@
       "status": "pending",
       "firstSeenAt": 1791280903.1555407,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c58jzyer1kr0o",
+      "provider": "BBC",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "status": "pending",
+      "firstSeenAt": 1791281889.6224427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261005-10-iconic-images-capturing-the-chaotic-energy-of-90s-brit-culture",
+      "provider": "BBC",
+      "title": "10 images capturing the chaos of '90s Brit culture It was the last hurrah of analogue, 20th-Century life in the UK, as the era's chaotic, thrilling energy spilled into music, fashion, art and hedonism.",
+      "status": "pending",
+      "firstSeenAt": 1791281889.6227965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/lamonica-mciver-newborn-baby-federal-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791281889.891113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/trump-corruption-backlash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791281889.8911257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/canada-veterans-trump-allies-military",
+      "provider": "The Guardian",
+      "title": "‘Spit on our sacrifice’: Canadian veterans fume after Trump and allies take jibes at military",
+      "status": "pending",
+      "firstSeenAt": 1791281889.8913572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/veteran-news-anchor-richard-morecroft-dies/107236404",
+      "provider": "ABC News Australia",
+      "title": "Veteran news anchor Richard Morecroft dies",
+      "status": "pending",
+      "firstSeenAt": 1791281890.367641,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
