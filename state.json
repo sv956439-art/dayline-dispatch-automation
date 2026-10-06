@@ -24818,9 +24818,25 @@
       "status": "pending",
       "firstSeenAt": 1791319837.5622814,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx7vp3lqv985o",
+      "provider": "BBC",
+      "title": "Kane scores twice but who else was a 'real threat'? England player ratings",
+      "status": "pending",
+      "firstSeenAt": 1791320401.8489206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/asx-markets-business-live-news-wall-st-hits-record-highs/107237036",
+      "provider": "ABC News Australia",
+      "title": "Wall Street hits new record highs but ASX likely to open flat",
+      "status": "pending",
+      "firstSeenAt": 1791320403.2604666,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
