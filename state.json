@@ -22890,9 +22890,25 @@
       "status": "pending",
       "firstSeenAt": 1791259296.7680097,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck87z09xe82qo",
+      "provider": "BBC",
+      "title": "What prompted the US bombers to leave RAF Fairford? The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes. 6 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791260317.7047908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791260317.9714189,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
