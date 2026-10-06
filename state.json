@@ -24618,9 +24618,25 @@
       "status": "pending",
       "firstSeenAt": 1791314078.7404287,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/sally-yates-cornell-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791314988.6232023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/geelong-matildas-coup-regional-centre-to-host-colombia-clash/107235524",
+      "provider": "ABC News Australia",
+      "title": "Geelong scores major coup with Matildas-Colombia clash",
+      "status": "pending",
+      "firstSeenAt": 1791314989.1580722,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
