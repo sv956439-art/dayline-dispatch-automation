@@ -24242,9 +24242,33 @@
       "status": "pending",
       "firstSeenAt": 1791301017.8920786,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmy0rlwpjd8eo",
+      "provider": "BBC",
+      "title": "Shevchenko's son signs for seventh-tier club",
+      "status": "pending",
+      "firstSeenAt": 1791301914.9507658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791301915.202997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/trump-justice-department-denaturalize-citizens-crimes",
+      "provider": "The Guardian",
+      "title": "US justice department moves to strip citizenship of 40 naturalized citizens",
+      "status": "pending",
+      "firstSeenAt": 1791301915.2036672,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
