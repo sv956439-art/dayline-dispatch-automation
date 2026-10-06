@@ -24578,9 +24578,49 @@
       "status": "pending",
       "firstSeenAt": 1791313248.7415168,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/chinese-company-investigated-over-cheap-smart-glasses-concerns/107233694",
+      "provider": "ABC News Australia",
+      "title": "Chinese company to face Australian privacy probe over 'pervert' glasses",
+      "status": "pending",
+      "firstSeenAt": 1791314078.7394483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/eating-disorder-services-regional-and-rural-areas-miss-out/107179922",
+      "provider": "ABC News Australia",
+      "title": "Eating disorder support not keeping up with surge in regional cases",
+      "status": "pending",
+      "firstSeenAt": 1791314078.7402704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/third-driveway-car-firebombing-in-melbourne-in-as-many-days/107236916",
+      "provider": "ABC News Australia",
+      "title": "Third driveway car firebombing in Melbourne in as many days",
+      "status": "pending",
+      "firstSeenAt": 1791314078.7403164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/adelaide-public-transport-fares/107218668",
+      "provider": "ABC News Australia",
+      "title": "Some public transport trips are more expensive in Adelaide than anywhere else",
+      "status": "pending",
+      "firstSeenAt": 1791314078.7403598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nsw-government-funding-for-regional-roads-corridor/107235290",
+      "provider": "ABC News Australia",
+      "title": "More than $1.2bn announced for NSW regional road upgrades",
+      "status": "pending",
+      "firstSeenAt": 1791314078.7404287,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
