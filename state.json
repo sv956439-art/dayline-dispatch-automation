@@ -23842,9 +23842,25 @@
       "status": "pending",
       "firstSeenAt": 1791287204.0367084,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65yn3g53dkqo",
+      "provider": "BBC",
+      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "status": "pending",
+      "firstSeenAt": 1791287926.791037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrw4ndzjpeo",
+      "provider": "BBC",
+      "title": "'Marriage is a lot of work,' says Michael Douglas on 2013 split with Catherine Zeta-Jones The actor reveals he \"never gave up hope\" of reconciliation during a 2013 split from the Welsh star.",
+      "status": "pending",
+      "firstSeenAt": 1791287926.7917106,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
