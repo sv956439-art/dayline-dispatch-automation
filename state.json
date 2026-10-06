@@ -23858,9 +23858,49 @@
       "status": "pending",
       "firstSeenAt": 1791287926.7917106,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70p4r4zw17o",
+      "provider": "BBC",
+      "title": "Egyptian journalists from fact-checking website facing terrorism charges Matsda2sh rejects the accusation by prosecutors that its entire newsroom belongs to the outlawed Muslim Brotherhood.",
+      "status": "pending",
+      "firstSeenAt": 1791290169.3589947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y93j0004l8o",
+      "provider": "BBC",
+      "title": "Deaf couple's unsafe home rebuilt on DIY SOS The Alis' home rebuild is being shown on the BBC show after they lost £72,000 on building work.",
+      "status": "pending",
+      "firstSeenAt": 1791290169.3593206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791290169.563723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/06/british-man-arrested-over-suspected-raf-fairford-terrorism-plot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791290169.5639544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/first-thing-donald-trump-iran-strikes-us-cities",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791290169.5640666,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
