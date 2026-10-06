@@ -23450,9 +23450,41 @@
       "status": "pending",
       "firstSeenAt": 1791276794.2476,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cx30epm27g71o",
+      "provider": "BBC",
+      "title": "India's Harmanpreet steps down as captain",
+      "status": "pending",
+      "firstSeenAt": 1791277358.909245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cj750270z7p0o",
+      "provider": "BBC",
+      "title": "'Unfinished business' - Coker's bid to shake up MMA",
+      "status": "pending",
+      "firstSeenAt": 1791277358.909296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791277359.0580308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/jim-bakker-us-televangelist-fraud-sex-scandal-dead-at-86",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791277359.058532,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
