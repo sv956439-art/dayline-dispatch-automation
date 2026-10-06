@@ -24874,9 +24874,33 @@
       "status": "pending",
       "firstSeenAt": 1791321133.4198024,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791322015.055945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/trump-federal-gas-tax",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791322015.0560355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/thefilter-us/2026/sep/30/early-october-amazon-big-deals-prime-day",
+      "provider": "The Guardian",
+      "title": "Dyson, Breville, Apple: the 46 best Amazon Prime Day deals actually worth it, obsessively vetted by us",
+      "status": "pending",
+      "firstSeenAt": 1791322015.056435,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
