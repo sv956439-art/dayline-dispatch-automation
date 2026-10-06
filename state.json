@@ -24362,9 +24362,49 @@
       "status": "pending",
       "firstSeenAt": 1791308861.8742275,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj6jkx6g1r0o",
+      "provider": "BBC",
+      "title": "Finland orders halt to work on two Google data centres The order affecting two planned data centres follows concerns over forest clearance. 42 mins ago Climate",
+      "status": "pending",
+      "firstSeenAt": 1791309514.020797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqd09g77mygko",
+      "provider": "BBC",
+      "title": "Amazon wins global rights to stream Emmys in six-year deal The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+      "status": "pending",
+      "firstSeenAt": 1791309514.0221944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cmjwe06wzgd9o",
+      "provider": "BBC",
+      "title": "USA will be 'underdogs' in 2027 Ryder Cup - Furyk",
+      "status": "pending",
+      "firstSeenAt": 1791309514.1237957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c620rnv0rpdno",
+      "provider": "BBC",
+      "title": "O'Neill 'just as determined' to lead Celtic",
+      "status": "pending",
+      "firstSeenAt": 1791309514.124134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5y43nry14j7o",
+      "provider": "BBC",
+      "title": "Davies' 'extra motivation' after Euros heartbreak",
+      "status": "pending",
+      "firstSeenAt": 1791309514.1244323,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
