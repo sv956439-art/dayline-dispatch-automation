@@ -23554,9 +23554,33 @@
       "status": "pending",
       "firstSeenAt": 1791279450.5150468,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4g1qxzwyj1o",
+      "provider": "BBC",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+      "status": "pending",
+      "firstSeenAt": 1791280341.3886251,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62ylzpr6d3o",
+      "provider": "BBC",
+      "title": "ASOS customers receive notifications from hackers in apparent breach Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "status": "pending",
+      "firstSeenAt": 1791280341.3887208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/one-nation-ai-generated-video-sparks-hanson-row/107236300",
+      "provider": "ABC News Australia",
+      "title": "One Nation AI-generated video sparks cafe owner row with Lee Hanson",
+      "status": "pending",
+      "firstSeenAt": 1791280342.146163,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
