@@ -24978,9 +24978,41 @@
       "status": "pending",
       "firstSeenAt": 1791325609.2109783,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq62y431dj8vo",
+      "provider": "BBC",
+      "title": "Midfield options and a fab front four - what we've learned about England From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
+      "status": "pending",
+      "firstSeenAt": 1791326422.9179516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crz98xv1e8nlo",
+      "provider": "BBC",
+      "title": "'Outfought' and 'not good enough' - Robertson on Scotland defeat",
+      "status": "pending",
+      "firstSeenAt": 1791326422.9180195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/southern-california-heatwave-temperatures",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791326423.8947961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/tropical-depression-gulf-hurricane",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791326423.8948402,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
