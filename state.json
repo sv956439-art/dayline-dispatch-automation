@@ -22874,9 +22874,25 @@
       "status": "pending",
       "firstSeenAt": 1791257790.2965276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/alan-jones-court-financial-help-13-year-old-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791259296.4175072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/melbourne-methodist-ladies-college-sexual-assault-charge/107233888",
+      "provider": "ABC News Australia",
+      "title": "Former Melbourne girls' school teacher charged with sexual assault",
+      "status": "pending",
+      "firstSeenAt": 1791259296.7680097,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
