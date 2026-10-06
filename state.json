@@ -24650,9 +24650,49 @@
       "status": "pending",
       "firstSeenAt": 1791315839.7122488,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmd7qn48q13lo",
+      "provider": "BBC",
+      "title": "Ronaldo wants Portugal 'punishment' but not retiring Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal for a \"breach of the coach's trust\".",
+      "status": "pending",
+      "firstSeenAt": 1791316519.7553272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe8ry2dn6z7o",
+      "provider": "BBC",
+      "title": "UK officers who used Taser and baton on amputee, 92, sacked A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home. 1 hr ago Sussex",
+      "status": "pending",
+      "firstSeenAt": 1791316519.8230226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5gm07dx28x1o",
+      "provider": "BBC",
+      "title": "10 Porridge makers from opposite sides of globe triumph in world championship",
+      "status": "pending",
+      "firstSeenAt": 1791316519.823176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/cricket-australia-south-africa-first-test-cameron-green-durban/107236966",
+      "provider": "ABC News Australia",
+      "title": "Aussies dealt major injury blow ahead of first South Africa Test",
+      "status": "pending",
+      "firstSeenAt": 1791316520.5890439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/former-patients-report-assaults-in-mental-health-wards/107217004",
+      "provider": "ABC News Australia",
+      "title": "Former patients report assaults inside locked mental health wards",
+      "status": "pending",
+      "firstSeenAt": 1791316520.589091,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
