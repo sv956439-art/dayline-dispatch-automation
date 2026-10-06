@@ -24498,9 +24498,65 @@
       "status": "pending",
       "firstSeenAt": 1791311421.3418503,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791312550.6503196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/california-couple-charged-child-abuse-surrogacy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791312550.6504486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/israel-election-looms-on-october-7-third-anniversary/107223132",
+      "provider": "ABC News Australia",
+      "title": "Pain, anger and the search for answers on October 7 anniversary",
+      "status": "pending",
+      "firstSeenAt": 1791312551.2169204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/brodie-kostecki-hunting-bathurst-1000-pole-record/107234166",
+      "provider": "ABC News Australia",
+      "title": "Kostecki loses engineer to bike accident as he goes for Bathurst record",
+      "status": "pending",
+      "firstSeenAt": 1791312551.2173023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/travel-quiz-october-7/107209148",
+      "provider": "ABC News Australia",
+      "title": "From books to trips, tackle this weeks travel's quiz",
+      "status": "pending",
+      "firstSeenAt": 1791312551.2174096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/monash-freeway-aggravated-burglary-charges/107236894",
+      "provider": "ABC News Australia",
+      "title": "Charges after Monash Freeway aggravated burglary arrests",
+      "status": "pending",
+      "firstSeenAt": 1791312551.2177603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/tas-utas-financal-problems-after-cbd-move-turned-sour-inquiry/107232234",
+      "provider": "ABC News Australia",
+      "title": "UTAS debts mounting after CBD move 'turned sour', economist says",
+      "status": "pending",
+      "firstSeenAt": 1791312551.217831,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
