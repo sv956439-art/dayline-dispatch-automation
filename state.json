@@ -24714,9 +24714,81 @@
       "status": "pending",
       "firstSeenAt": 1791317025.0980124,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l3g8097rzo",
+      "provider": "BBC",
+      "title": "What can I do to protect myself after 'Asos hacked' message? Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+      "status": "pending",
+      "firstSeenAt": 1791318063.36802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791318063.5175836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791318063.51806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/federal-politics-live-blog-taylor-migration/107235708",
+      "provider": "ABC News Australia",
+      "title": "Taylor says 'vested interests' won't stop Coalition from cutting migration",
+      "status": "pending",
+      "firstSeenAt": 1791318063.797872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/tennis-china-open-coco-gauff-racist-abuse-sun-xinran/107237016",
+      "provider": "ABC News Australia",
+      "title": "Gauff hits out at racist abuse after China Open incident",
+      "status": "pending",
+      "firstSeenAt": 1791318063.799087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/man-charged-with-murder-after-woodridge-body-found/107235630",
+      "provider": "ABC News Australia",
+      "title": "Man charged with murder after body found in Logan unit",
+      "status": "pending",
+      "firstSeenAt": 1791318063.7991254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/imported-pork-on-the-guzman-y-gomez-menu-prompts-call-for-reform/107232584",
+      "provider": "ABC News Australia",
+      "title": "Imported pork 'hiding in plain sight' on Guzman y Gomez menu",
+      "status": "pending",
+      "firstSeenAt": 1791318063.7991693,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/sarah-macdonald-returns-to-presenting-at-702-abc-sydney/107232544",
+      "provider": "ABC News Australia",
+      "title": "Sarah Macdonald returns to presenting at 702 ABC Sydney",
+      "status": "pending",
+      "firstSeenAt": 1791318063.799214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/why-proposed-bus-lane-draws-ire-of-lord-mayor/107233130",
+      "provider": "ABC News Australia",
+      "title": "Sydney bus lane proposal draws ire of lord mayor, transport advocates",
+      "status": "pending",
+      "firstSeenAt": 1791318063.7992573,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
