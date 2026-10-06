@@ -24914,9 +24914,33 @@
       "status": "pending",
       "firstSeenAt": 1791322823.0817695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw77p41vr85ko",
+      "provider": "BBC",
+      "title": "Did a Scottish film 'beat Hollywood to the punch' as the first ever talkie? In 1927, The Jazz Singer made movie history with the first recorded dialogue on film - but new evidence suggests the first feature talking film was Scottish.",
+      "status": "pending",
+      "firstSeenAt": 1791323513.7171438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791323513.9306173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/october-7-bondi-sydney-vigil-jewish-community/107234708",
+      "provider": "ABC News Australia",
+      "title": "Sombre Bondi vigil marks October 7 terror attack",
+      "status": "pending",
+      "firstSeenAt": 1791323514.167597,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
