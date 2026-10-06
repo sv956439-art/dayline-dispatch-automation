@@ -22962,9 +22962,57 @@
       "status": "pending",
       "firstSeenAt": 1791262823.2956004,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm36l6gez3j7o",
+      "provider": "BBC",
+      "title": "Rare 'fragile' recordings saved before they disappear Fragile archive recordings revealing lost accents, lives and local history are being saved online.",
+      "status": "pending",
+      "firstSeenAt": 1791263674.9684331,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791263675.1703787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/06/uk-regulator-epstein-whistleblower",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791263675.1712756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/cfmeu-inquiry-hearings-dutton-park-cross-river-rail/107234060",
+      "provider": "ABC News Australia",
+      "title": "Cross River Rail worker tells inquiry he 'saw red' in brawl with CFMEU members",
+      "status": "pending",
+      "firstSeenAt": 1791263675.7424262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/act-police-investigating-suspicious-death-70-year-old-man-watson/107234586",
+      "provider": "ABC News Australia",
+      "title": "Police investigating 'suspicious death' in Canberra's north",
+      "status": "pending",
+      "firstSeenAt": 1791263675.7424722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/barcelona-protests-spain-election-pedro-sanchez/107232696",
+      "provider": "ABC News Australia",
+      "title": "Housing protests erupt in Barcelona after Spain calls early election",
+      "status": "pending",
+      "firstSeenAt": 1791263675.744001,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
