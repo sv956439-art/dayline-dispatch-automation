@@ -22658,9 +22658,25 @@
       "status": "pending",
       "firstSeenAt": 1791248223.9250767,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crp3g5n5pd1go",
+      "provider": "BBC",
+      "title": "'My treatment was a miracle,' says stroke patient as new 24-hour service rolled out An expanded service means the time of day or night a stroke occurs is no longer a barrier to treatment.",
+      "status": "pending",
+      "firstSeenAt": 1791248981.373782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791248981.511286,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
