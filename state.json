@@ -23698,9 +23698,81 @@
       "status": "pending",
       "firstSeenAt": 1791283856.6742425,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6r7yn8pknyxo",
+      "provider": "BBC",
+      "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska.",
+      "status": "pending",
+      "firstSeenAt": 1791285356.2557135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kg5v7zk482o",
+      "provider": "BBC",
+      "title": "Celtic Connections reveals 2027 festival programme The 34th edition of the folk, roots and world music event will run from 14 January until 31 January.",
+      "status": "pending",
+      "firstSeenAt": 1791285356.2565293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq146lxg0e3lo",
+      "provider": "BBC",
+      "title": "Jade Thirlwall says working on Blue Planet III song was magical",
+      "status": "pending",
+      "firstSeenAt": 1791285356.2565556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3wvqxjdxn5o",
+      "provider": "BBC",
+      "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
+      "status": "pending",
+      "firstSeenAt": 1791285356.356018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ck78p9jl2gl5o",
+      "provider": "BBC",
+      "title": "Sinner out for rest of season with knee injury",
+      "status": "pending",
+      "firstSeenAt": 1791285356.3560662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791285356.5417485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791285356.542416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/us-midterms-trump-republicans-democrats",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791285356.5424378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/francis-halzen-wins-2026-nobel-prize-in-physics/107236382",
+      "provider": "ABC News Australia",
+      "title": "Nobel Prize in Physics honours work on 'ghost messengers from space'",
+      "status": "pending",
+      "firstSeenAt": 1791285356.935033,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
