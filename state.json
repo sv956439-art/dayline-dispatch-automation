@@ -23050,9 +23050,57 @@
       "status": "pending",
       "firstSeenAt": 1791264631.1971173,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9kgjn3zng1ko",
+      "provider": "BBC",
+      "title": "Irish budget to tackle childcare and energy costs The threshold at which people start paying the higher income tax rate is also expected to increase.",
+      "status": "pending",
+      "firstSeenAt": 1791265533.5138748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791265534.0867503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/tuesday-briefing-why-the-green-partys-zionism-vote-has-caused-a-backlash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791265534.0872746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/election-canada-win-quebec-separatists-parti-quebecois",
+      "provider": "The Guardian",
+      "title": "Separatists win Quebec election in test for Canada PM’s national unity strategy",
+      "status": "pending",
+      "firstSeenAt": 1791265534.0877585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/botched-executions-data-christa-pike/107229680",
+      "provider": "ABC News Australia",
+      "title": "The US has seen a spike in executions — how often are they botched?",
+      "status": "pending",
+      "firstSeenAt": 1791265534.4820967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/hobart-city-council-election-race-turns-ugly-election/107235000",
+      "provider": "ABC News Australia",
+      "title": "Parents, signs and ageism: Hobart's council race turns ugly as voting begins",
+      "status": "pending",
+      "firstSeenAt": 1791265534.483037,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
