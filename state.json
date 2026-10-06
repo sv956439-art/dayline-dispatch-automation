@@ -24802,9 +24802,25 @@
       "status": "pending",
       "firstSeenAt": 1791319040.9457488,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9e8l0ep8d1mo",
+      "provider": "BBC",
+      "title": "How drunk is too drunk? Cornell rape allegations expose loopholes in consent laws The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help victims.",
+      "status": "pending",
+      "firstSeenAt": 1791319836.7134442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/californians-blast-trump-remark-iran-could-take-out-los-angeles/107236972",
+      "provider": "ABC News Australia",
+      "title": "Trump draws backlash for suggesting Iran could 'take out' LA",
+      "status": "pending",
+      "firstSeenAt": 1791319837.5622814,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
