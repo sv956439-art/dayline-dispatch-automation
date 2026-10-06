@@ -23154,9 +23154,33 @@
       "status": "pending",
       "firstSeenAt": 1791266994.8670955,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cqrlynky9j61o",
+      "provider": "BBC",
+      "title": "NFL suspends two officials for player incidents",
+      "status": "pending",
+      "firstSeenAt": 1791268290.200358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/bathurst-1000-traffic-great-western-highway-closure/107232516",
+      "provider": "ABC News Australia",
+      "title": "Traffic delays expected for Bathurst 1000 with major highway still shut",
+      "status": "pending",
+      "firstSeenAt": 1791268290.6114154,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/migration-cuts-comparison-labor-coalition-one-nation/107232222",
+      "provider": "ABC News Australia",
+      "title": "Here's how Labor, the Coalition and One Nation's migration cuts compare",
+      "status": "pending",
+      "firstSeenAt": 1791268290.611464,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
