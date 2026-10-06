@@ -23178,9 +23178,89 @@
       "status": "pending",
       "firstSeenAt": 1791268290.611464,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wvjer20qqo",
+      "provider": "BBC",
+      "title": "Nigeria mourns as 32 killed in military plane crash President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+      "status": "pending",
+      "firstSeenAt": 1791269530.9766262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6wy4xd80xyvo",
+      "provider": "BBC",
+      "title": "Captain apologises for gloating over military service exemption",
+      "status": "pending",
+      "firstSeenAt": 1791269531.0616565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmvg9lp24p1po",
+      "provider": "BBC",
+      "title": "Northern Ireland make huge strides despite Georgia frustration",
+      "status": "pending",
+      "firstSeenAt": 1791269531.061908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crd938wj2n14o",
+      "provider": "BBC",
+      "title": "Born into Celtic, made at Motherwell, Welsh comes of age with Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791269531.0620239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxzdzdr6dyzlo",
+      "provider": "BBC",
+      "title": "Who am I? Guess Premier League star No 78",
+      "status": "pending",
+      "firstSeenAt": 1791269531.0620732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791269531.4382186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/06/buckingham-palace-andrew-mountbatten-windsor-legal-action-police",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791269531.4385319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life",
+      "provider": "The Guardian",
+      "title": "‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain",
+      "status": "pending",
+      "firstSeenAt": 1791269531.438834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/person-trapped-in-grain-silo-in-dunolly/107235624",
+      "provider": "ABC News Australia",
+      "title": "Person trapped in grain silo in central Victoria",
+      "status": "pending",
+      "firstSeenAt": 1791269531.8494422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/former-american-idol-singer-caleb-flynn-murder-sentence/107235506",
+      "provider": "ABC News Australia",
+      "title": "Former American Idol singer gets life in prison for wife's murder",
+      "status": "pending",
+      "firstSeenAt": 1791269531.8499074,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
