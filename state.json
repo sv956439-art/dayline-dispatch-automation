@@ -24050,9 +24050,25 @@
       "status": "pending",
       "firstSeenAt": 1791294849.7725992,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8r90965lzo",
+      "provider": "BBC",
+      "title": "2 hrs ago Data centre set to replace Microsoft headquarters Plans for a £200m development have been submitted to Wokingham Borough Council. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791295522.6792152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791295523.1328561,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
