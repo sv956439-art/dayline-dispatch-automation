@@ -22810,9 +22810,49 @@
       "status": "pending",
       "firstSeenAt": 1791255280.4714072,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/06/cancer-breast-diagnosis-judith-lucy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791256803.494234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/qld-maree-crabtree-fraud-offences/107233682",
+      "provider": "ABC News Australia",
+      "title": "Woman cleared of murdering adult children convicted of fraud offence",
+      "status": "pending",
+      "firstSeenAt": 1791256803.7325506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/federal-politics-coalition-migration-policy/107232776",
+      "provider": "ABC News Australia",
+      "title": "Coalition promises deep cuts in migration fight with One Nation, Labor",
+      "status": "pending",
+      "firstSeenAt": 1791256803.7326024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/influencers-businesses-sever-ties-with-reality-star-sam-wood/107233260",
+      "provider": "ABC News Australia",
+      "title": "Influencers, firms cut ties with former Bachelor Sam Wood after DV charges",
+      "status": "pending",
+      "firstSeenAt": 1791256803.732652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/former-act-greens-leader-shane-rattenbury-lifeline-canberra/107233502",
+      "provider": "ABC News Australia",
+      "title": "Former ACT Greens leader Shane Rattenbury is Lifeline Canberra's CEO",
+      "status": "pending",
+      "firstSeenAt": 1791256803.7326987,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
