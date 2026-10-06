@@ -24338,9 +24338,33 @@
       "status": "pending",
       "firstSeenAt": 1791308015.3592405,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87zxjrry37o",
+      "provider": "BBC",
+      "title": "UK special forces could face prosecution as Afghanistan evidence referred to police",
+      "status": "pending",
+      "firstSeenAt": 1791308861.6395373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9x28ljj34lxo",
+      "provider": "BBC",
+      "title": "I'd rather have another election than do a deal with Reform UK, says Kemi Badenoch The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds. 47 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791308861.6399179,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/06/alleged-iranian-spies-planned-serious-violence-against-uk-journalists-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791308861.8742275,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
