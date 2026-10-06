@@ -25050,9 +25050,65 @@
       "status": "pending",
       "firstSeenAt": 1791327605.888125,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3vqxldglepo",
+      "provider": "BBC",
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "status": "pending",
+      "firstSeenAt": 1791328367.5511563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791328367.9980814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/07/sarah-macdonald-returns-abc-radio-james-valentine-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791328367.9981067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/ikea-to-pilot-online-buyback-service-for-secondhand-furniture",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791328367.998214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/06/dolly-parton-nephew-bryan-seaver-lawsuit",
+      "provider": "The Guardian",
+      "title": "Dolly Parton’s estate alleges her nephew used barbed wire to avoid being served",
+      "status": "pending",
+      "firstSeenAt": 1791328367.999247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/man-charged-with-killing-ipswich-baby-boy/107237458",
+      "provider": "ABC News Australia",
+      "title": "Queensland father charged with killing three-month-old",
+      "status": "pending",
+      "firstSeenAt": 1791328368.703257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/mulupirti-springs-camera-survey-feral-concerns/107230282",
+      "provider": "ABC News Australia",
+      "title": "Bilbies' predators caught on camera in Great Sandy Desert",
+      "status": "pending",
+      "firstSeenAt": 1791328368.7033052,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
