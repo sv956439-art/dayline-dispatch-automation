@@ -22626,9 +22626,33 @@
       "status": "pending",
       "firstSeenAt": 1791245511.7873094,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn73mygmg0lo",
+      "provider": "BBC",
+      "title": "Australian soldier dies and five injured in training exercise The incident happened on Monday at the Mount Bundey training area, about 130km southeast of Darwin.",
+      "status": "pending",
+      "firstSeenAt": 1791247084.9308598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/pepsico-gatorade-recall-undeclared-dyes",
+      "provider": "The Guardian",
+      "title": "Gatorade maker recalls 122,000 cases of popular sports drink across 37 US states",
+      "status": "pending",
+      "firstSeenAt": 1791247085.3458197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/former-act-politician-charged-with-grooming-trial-mid-2027/107230302",
+      "provider": "ABC News Australia",
+      "title": "Former ACT politician charged with grooming likely to face trial mid-2027",
+      "status": "pending",
+      "firstSeenAt": 1791247086.3024106,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
