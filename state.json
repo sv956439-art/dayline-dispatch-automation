@@ -24274,9 +24274,25 @@
       "status": "pending",
       "firstSeenAt": 1791303698.421446,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c623d8707k5lo",
+      "provider": "BBC",
+      "title": "Rival clubs want range of punishments for Man City A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future.",
+      "status": "pending",
+      "firstSeenAt": 1791304736.0492768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxdd8035jzn3o",
+      "provider": "BBC",
+      "title": "What is pneumonic plague and how does it spread? The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "status": "pending",
+      "firstSeenAt": 1791304736.1041536,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
