@@ -25010,9 +25010,33 @@
       "status": "pending",
       "firstSeenAt": 1791326423.8948402,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250926-how-to-futureproof-your-knees",
+      "provider": "BBC",
+      "title": "How to future-proof your knees Our knees are arguably one of our most important joints, but also one of the most poorly looked after. Science tells us putting in some work now pays dividends later.",
+      "status": "pending",
+      "firstSeenAt": 1791327108.977573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5lye031jvgro",
+      "provider": "BBC",
+      "title": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
+      "status": "pending",
+      "firstSeenAt": 1791327108.977959,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791327109.4038453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
