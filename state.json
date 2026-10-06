@@ -24946,9 +24946,25 @@
       "status": "pending",
       "firstSeenAt": 1791323956.341984,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791324706.9149957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/workplace-safety-psychological-distress-greenbushes-lithium-mine/107222730",
+      "provider": "ABC News Australia",
+      "title": "Watchdog identifies 'psychological harm' at world's largest lithium mine",
+      "status": "pending",
+      "firstSeenAt": 1791324707.8061206,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
