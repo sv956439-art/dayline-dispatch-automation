@@ -24554,9 +24554,33 @@
       "status": "pending",
       "firstSeenAt": 1791312551.217831,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx2ln5n7yqdo",
+      "provider": "BBC",
+      "title": "Kane's rise from childhood keeper to equalling England cap record",
+      "status": "pending",
+      "firstSeenAt": 1791313247.5824842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/many-irkutsk-people-do-not-trust-authorities-on-researcher-death/107236512",
+      "provider": "ABC News Australia",
+      "title": "Russia rails against online 'plague' claims, but few in Irkutsk trust authorities",
+      "status": "pending",
+      "firstSeenAt": 1791313248.7414632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/tassal-salmon-florfenicol-permit-wait-antibiotics/107233684",
+      "provider": "ABC News Australia",
+      "title": "Salmon company to inject fish with antibiotics ahead of expected marine heat wave",
+      "status": "pending",
+      "firstSeenAt": 1791313248.7415168,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
