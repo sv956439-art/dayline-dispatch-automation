@@ -24202,9 +24202,49 @@
       "status": "pending",
       "firstSeenAt": 1791300149.0815523,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9qrq1d19w4o",
+      "provider": "BBC",
+      "title": "Last call for the mall? How UK shopping centres are reinventing themselves In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive. 10 hrs ago England",
+      "status": "pending",
+      "firstSeenAt": 1791301017.4944296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqly0lx461m8o",
+      "provider": "BBC",
+      "title": "The small African nation ready for Messi's big night Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game. 8 hrs ago Argentina",
+      "status": "pending",
+      "firstSeenAt": 1791301017.4944685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqlye0zydy0eo",
+      "provider": "BBC",
+      "title": "Iranian men accused of spying targeted journalists for 'serious violence', UK court hears The prosecution says the targets were journalists working for a satellite channel critical of the Iranian government. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791301017.4946408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791301017.8918712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/what-do-we-know-death-darya-shipilova-anti-plague-institute-russia-wider-risk",
+      "provider": "The Guardian",
+      "title": "What do we know about death of anti-plague institute worker in Russia and is there a wider risk?",
+      "status": "pending",
+      "firstSeenAt": 1791301017.8920786,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
