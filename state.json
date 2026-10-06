@@ -25106,9 +25106,25 @@
       "status": "pending",
       "firstSeenAt": 1791328368.7033052,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9868z88rexo",
+      "provider": "BBC",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "status": "pending",
+      "firstSeenAt": 1791329220.9593315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791329221.22002,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
