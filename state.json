@@ -22906,9 +22906,17 @@
       "status": "pending",
       "firstSeenAt": 1791260317.9714189,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791261332.0368133,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
