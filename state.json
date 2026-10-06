@@ -23898,9 +23898,33 @@
       "status": "pending",
       "firstSeenAt": 1791290169.5640666,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqlye0xd72wdo",
+      "provider": "BBC",
+      "title": "British national arrested in connection with RAF Fairford incident It is the seventh arrest in connection to the incident near RAF Fairford last month. 13 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791291269.1883547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791291269.7626107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/asos-app-users-sent-hacked-message/107236520",
+      "provider": "ABC News Australia",
+      "title": "Asos app users sent 'hacked' message from online retailer",
+      "status": "pending",
+      "firstSeenAt": 1791291270.1182384,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
