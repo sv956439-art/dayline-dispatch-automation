@@ -23402,9 +23402,57 @@
       "status": "pending",
       "firstSeenAt": 1791275876.9223578,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzrd7v1j163o",
+      "provider": "BBC",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads The patient has been living in DR Congo for the past seven years.",
+      "status": "pending",
+      "firstSeenAt": 1791276793.0537627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261002-do-non-diabetics-need-to-measure-their-blood-sugar",
+      "provider": "BBC",
+      "title": "What blood sugar spikes reveal about your health It's trendy to be concerned about blood sugar spikes, but these can be a normal response to eating. Here's when you don't need to worry.",
+      "status": "pending",
+      "firstSeenAt": 1791276793.0543616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/ckjwe02v4xdlo",
+      "provider": "BBC",
+      "title": "LIV Golf secures potential $300m investment LIV Golf secures a possible $300m in financing from BC Partners Credit in order to emerge from restructuring before the 2027 season. 2 hrs ago Golf",
+      "status": "pending",
+      "firstSeenAt": 1791276793.153973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cr15j3z2npz9o",
+      "provider": "BBC",
+      "title": "Wet races and why future of F1 engines appears to be V8 turbos - Q&A BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia. 2 hrs ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1791276793.154001,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791276793.4894686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/australias-military-alliance-target-due-to-iran/107234074",
+      "provider": "ABC News Australia",
+      "title": "RAF Fairford incident shines light on US allies being potential targets",
+      "status": "pending",
+      "firstSeenAt": 1791276794.2476,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
