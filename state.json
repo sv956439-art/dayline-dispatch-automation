@@ -22682,9 +22682,25 @@
       "status": "pending",
       "firstSeenAt": 1791249937.86053,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/05/trump-fort-hood-shooter-execution",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791250678.8917346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-06/grant-stevens-succeeds-frances-adamson-as-sa-governor/107233062",
+      "provider": "ABC News Australia",
+      "title": "Police Commissioner Grant Stevens appointed SA's next governor",
+      "status": "pending",
+      "firstSeenAt": 1791250679.6234267,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
