@@ -24690,9 +24690,33 @@
       "status": "pending",
       "firstSeenAt": 1791316520.589091,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr3wvq965dngo",
+      "provider": "BBC",
+      "title": "Ex-US spy found with $40m in gold bars pleads guilty to wire fraud David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "status": "pending",
+      "firstSeenAt": 1791317024.2634459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/tourists-need-to-pay-and-book-to-visit-twelve-apostles/107233206",
+      "provider": "ABC News Australia",
+      "title": "Tourists must pay and book ahead to see iconic Twelve Apostles",
+      "status": "pending",
+      "firstSeenAt": 1791317025.097984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/qld-cost-of-housing-for-single-income-households-difficult/107220664",
+      "provider": "ABC News Australia",
+      "title": "Singles struggle to afford housing as cost of living rises",
+      "status": "pending",
+      "firstSeenAt": 1791317025.0980124,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
