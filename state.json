@@ -23258,9 +23258,33 @@
       "status": "pending",
       "firstSeenAt": 1791269531.8499074,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791270331.3052433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791270331.3055203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/06/voynich-manuscript-research-pages-wrongly-bound",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791270331.3056543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
