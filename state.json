@@ -23938,9 +23938,65 @@
       "status": "pending",
       "firstSeenAt": 1791291925.015014,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wvq4jj64yo",
+      "provider": "BBC",
+      "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer Tthe bestselling author and former politician died on Monday at the age of 86.",
+      "status": "pending",
+      "firstSeenAt": 1791293044.8195953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crpdgvx82831o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791293044.8955464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/cm89zve3yll1o",
+      "provider": "BBC",
+      "title": "South Africa hope to host first African Olympics The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics. 26 mins ago Olympic Games",
+      "status": "pending",
+      "firstSeenAt": 1791293044.8958855,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/06/lego-insurance-scam-highlights-uk-fraud",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791293045.0335338,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/measles-cases-new-york",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791293045.0336938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/veteran-conservative-quits-trumps-interior-department",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791293045.0337362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
+      "provider": "The Guardian",
+      "title": "Schools blockaded as tens of thousands of protesters take to streets in France",
+      "status": "pending",
+      "firstSeenAt": 1791293045.0339777,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
