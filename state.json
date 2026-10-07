@@ -26162,9 +26162,25 @@
       "status": "pending",
       "firstSeenAt": 1791367532.1488118,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791368624.2519875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/october-7-israel-hamas-attacks-three-year-anniversary-melbourne/107239104",
+      "provider": "ABC News Australia",
+      "title": "'Hard to describe': Melbourne Jewish community marks October 7",
+      "status": "pending",
+      "firstSeenAt": 1791368624.7510028,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
