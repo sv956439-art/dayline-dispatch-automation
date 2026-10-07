@@ -27066,9 +27066,81 @@
       "status": "pending",
       "firstSeenAt": 1791399815.6688874,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckp8g189zgmyo",
+      "provider": "BBC",
+      "title": "Paul McCartney's item sells for double the estimate The star composed some of The Beatles' first songs in the Liverpool council house with John Lennon. 2 hrs ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1791400879.0754724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791400879.4480412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
+      "provider": "The Guardian",
+      "title": "OpenAI’s release of mathematical findings draws concerns from experts",
+      "status": "pending",
+      "firstSeenAt": 1791400879.4494224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/evidence-from-christa-pike-botched-execution-must-be-preserved/107241090",
+      "provider": "ABC News Australia",
+      "title": "Judge rules evidence from Christa Pike's botched execution be preserved",
+      "status": "pending",
+      "firstSeenAt": 1791400880.2693691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/was-pre-cop-a-failure-analysis/107239270",
+      "provider": "ABC News Australia",
+      "title": "Was pre-COP a flop? Questions loom over the Australian government",
+      "status": "pending",
+      "firstSeenAt": 1791400880.2694502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/five-cars-set-alight-in-melbourne-on-fourth-night-of-arson/107241228",
+      "provider": "ABC News Australia",
+      "title": "Five cars set alight outside Melbourne homes in fourth night of firebombings",
+      "status": "pending",
+      "firstSeenAt": 1791400880.2703614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/residents-fight-djaara-social-housing-application/107206954",
+      "provider": "ABC News Australia",
+      "title": "Victorians say 'lazy planning' leading to poor social housing outcomes",
+      "status": "pending",
+      "firstSeenAt": 1791400880.2704275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/victoria-greens-state-supermarkets-election-campaign/107239256",
+      "provider": "ABC News Australia",
+      "title": "Greens launch election platform with promise to slash grocery prices",
+      "status": "pending",
+      "firstSeenAt": 1791400880.2704713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/llama-performer-zoe-dunwoodie-motherhood-perinatal-health/107142768",
+      "provider": "ABC News Australia",
+      "title": "Performance explores perinatal mental health and world of motherhood",
+      "status": "pending",
+      "firstSeenAt": 1791400880.2705145,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
