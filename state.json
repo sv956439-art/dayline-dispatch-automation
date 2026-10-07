@@ -26002,9 +26002,49 @@
       "status": "pending",
       "firstSeenAt": 1791361321.021248,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260529-the-story-of-marilyn-monroes-intimate-last-photos",
+      "provider": "BBC",
+      "title": "Marilyn Monroe's intimate final photos taken weeks before her death On the 100th anniversary of her birth, images from the Hollywood icon's final photoshoot reveal a carefree joyfulness that's far removed from the shocking tragedy of her death.",
+      "status": "pending",
+      "firstSeenAt": 1791362387.4563844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260424-the-eerie-abandoned-vehicles-in-chernobyls-dead-zone",
+      "provider": "BBC",
+      "title": "The eerie abandoned vehicles in Chernobyl's 'dead zone' A huge armada of vehicles were used to clean-up the radioactive aftermath of the Chernobyl disaster 40 years ago. Many of them still lie rusting inside the exclusion zone.",
+      "status": "pending",
+      "firstSeenAt": 1791362387.456402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn5vwn40d6eo",
+      "provider": "BBC",
+      "title": "DFDS expands schedule for 2027 Jersey-Poole route",
+      "status": "pending",
+      "firstSeenAt": 1791362387.522167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791362387.7397604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nt-tourism-operators-calls-for-resilience-fund-for-wet-season/107239194",
+      "provider": "ABC News Australia",
+      "title": "Fears of NT business closures after delayed dry season and proposed visa cuts",
+      "status": "pending",
+      "firstSeenAt": 1791362388.1954424,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
