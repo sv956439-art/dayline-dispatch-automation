@@ -26378,9 +26378,41 @@
       "status": "pending",
       "firstSeenAt": 1791373837.8616683,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c50mezp822peo",
+      "provider": "BBC",
+      "title": "1 hr ago Xbox bets on Gears of War in battle of gaming giants Unlike other flagship titles, E-Day will only be available on Xbox at a time of rising console costs. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791374500.6117902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791374501.011103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791374501.0120437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/first-thing-israel-marks-third-anniversary-7-october-hamas-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791374501.012067,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
