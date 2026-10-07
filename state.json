@@ -25786,9 +25786,57 @@
       "status": "pending",
       "firstSeenAt": 1791354022.9400792,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cv4g176nr2g6o",
+      "provider": "BBC",
+      "title": "Test cricket's biggest scandals - your results revealed",
+      "status": "pending",
+      "firstSeenAt": 1791355398.7045965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r4ylp6657zo",
+      "provider": "BBC",
+      "title": "Battle of ideas looming in British politics, Badenoch to say",
+      "status": "pending",
+      "firstSeenAt": 1791355398.7723863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/07/bez-cocaine-happy-mondays-marriage-shaun-ryder",
+      "provider": "The Guardian",
+      "title": "‘I was so out of control!’ Bez on cocaine, Happy Mondays, his ‘sexless marriage’ to Shaun Ryder, organic courgettes …",
+      "status": "pending",
+      "firstSeenAt": 1791355399.2548592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/06/england-czechia-nations-league-match-report",
+      "provider": "The Guardian",
+      "title": "Harry Kane doubles up on landmark night as England cruise past Czechia",
+      "status": "pending",
+      "firstSeenAt": 1791355399.2549684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
+      "provider": "The Guardian",
+      "title": "The generation raised on sugar rations – and what their health reveals 70 years later",
+      "status": "pending",
+      "firstSeenAt": 1791355399.2549944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/mint-unveils-new-coins-featuring-australian-inventions/107239858",
+      "provider": "ABC News Australia",
+      "title": "Mint unveils new coins chronicling iconic Australian inventions",
+      "status": "pending",
+      "firstSeenAt": 1791355399.9690208,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
