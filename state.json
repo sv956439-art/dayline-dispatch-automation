@@ -26458,9 +26458,17 @@
       "status": "pending",
       "firstSeenAt": 1791377224.0578146,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism",
+      "provider": "The Guardian",
+      "title": "Skepticism mires Trump’s Iowa steel plant project: ‘Promises are not the same as jobs’",
+      "status": "pending",
+      "firstSeenAt": 1791378336.0310879,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
