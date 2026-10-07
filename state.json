@@ -26194,9 +26194,41 @@
       "status": "pending",
       "firstSeenAt": 1791370422.8433769,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjqlnreelze9o",
+      "provider": "BBC",
+      "title": "Teenagers launch project to support harvest mice",
+      "status": "pending",
+      "firstSeenAt": 1791371004.243349,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791371004.3980777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791371004.3989594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/new-orleans-judge-kimya-holmes-wwl-louisiana",
+      "provider": "The Guardian",
+      "title": "A New Orleans judge wanted to press charges against a TV news station. But it hadn’t violated any law",
+      "status": "pending",
+      "firstSeenAt": 1791371004.3994155,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
