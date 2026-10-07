@@ -26602,9 +26602,25 @@
       "status": "pending",
       "firstSeenAt": 1791383116.1548,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c94g1xzenedno",
+      "provider": "BBC",
+      "title": "7 mins ago Cadet leader posed as girl on Snapchat, jury told A former councillor goes on trial accused of 25 sexual offences, many involving children. 7 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791384052.251161,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791384052.4171216,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
