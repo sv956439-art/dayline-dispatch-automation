@@ -26098,9 +26098,41 @@
       "status": "pending",
       "firstSeenAt": 1791364974.2650585,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx23dvnp8vxo",
+      "provider": "BBC",
+      "title": "California pair charged with abusing at least 14 surrogate-born children Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "status": "pending",
+      "firstSeenAt": 1791366881.5598876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck0e0n3xzvp4o",
+      "provider": "BBC",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "status": "pending",
+      "firstSeenAt": 1791366881.5599601,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yn3592xk9o",
+      "provider": "BBC",
+      "title": "Japan beer giants raided over alleged price-fixing cartel Asahi and Kirin confirmed their premises were searched by Japanese competition authorities.",
+      "status": "pending",
+      "firstSeenAt": 1791366881.560028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjrw4xvvglgo",
+      "provider": "BBC",
+      "title": "Gavin and Stacey creators Jones and Corden reveal cast of new show The show written by and starring Jones and Corden features guest appearances by Hannah Waddingham and James McAvoy.",
+      "status": "pending",
+      "firstSeenAt": 1791366881.5604439,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
