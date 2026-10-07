@@ -26938,9 +26938,41 @@
       "status": "pending",
       "firstSeenAt": 1791395773.0013247,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/how-sandpaper-gate-rocked-australian-cricket-south-africa/107233934",
+      "provider": "ABC News Australia",
+      "title": "How a virulent series gave rise to Sandpapergate",
+      "status": "pending",
+      "firstSeenAt": 1791396476.1822197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/catholic-church-failed-victims-of-bishop-christopher-saunders/107233732",
+      "provider": "ABC News Australia",
+      "title": "The high life and low crimes of Broome's 'bastard of a bishop'",
+      "status": "pending",
+      "firstSeenAt": 1791396476.182275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/sun-cable-plans-to-send-australian-solar-energy-to-singapore/107229542",
+      "provider": "ABC News Australia",
+      "title": "What Singapore really thinks of Australian solar power export plan",
+      "status": "pending",
+      "firstSeenAt": 1791396476.1823244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/geraldton-shark-attack-victim-mel-ismail-speaks/107233326",
+      "provider": "ABC News Australia",
+      "title": "Firefighter looked shark in the eye before it bit off his leg",
+      "status": "pending",
+      "firstSeenAt": 1791396476.182371,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
