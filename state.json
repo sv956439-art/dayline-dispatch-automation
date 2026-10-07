@@ -26058,9 +26058,17 @@
       "status": "pending",
       "firstSeenAt": 1791363277.0735776,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/october-7-israel-palestine-third-anniversary-memorial/107240588",
+      "provider": "ABC News Australia",
+      "title": "Israelis mourn on October 7 as Palestinians live in devastated Gaza",
+      "status": "pending",
+      "firstSeenAt": 1791363864.2356837,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
