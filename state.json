@@ -27506,9 +27506,17 @@
       "status": "pending",
       "firstSeenAt": 1791411307.6688635,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx62y37r1p8eo",
+      "provider": "BBC",
+      "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports. 14 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1791412152.8863971,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
