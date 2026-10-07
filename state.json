@@ -25666,9 +25666,41 @@
       "status": "pending",
       "firstSeenAt": 1791351419.73283,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm23769646jo",
+      "provider": "BBC",
+      "title": "Theatre to permanently close as 23 jobs axed The theatre, which opened 13 years ago, will close at the end of this month.",
+      "status": "pending",
+      "firstSeenAt": 1791352299.6088307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy56le7wr6zo",
+      "provider": "BBC",
+      "title": "Jimmy McGovern claims young offenders institute staff 'lazy'",
+      "status": "pending",
+      "firstSeenAt": 1791352299.608856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/07/queensland-man-charged-murder-three-month-old-baby-son-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791352299.7726645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/sa-paramedics-fear-worst-ramping-month-on-record/107237770",
+      "provider": "ABC News Australia",
+      "title": "'Extremely unsafe environment': Ambos fears another record ramping month",
+      "status": "pending",
+      "firstSeenAt": 1791352300.2708936,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
