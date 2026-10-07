@@ -25730,9 +25730,65 @@
       "status": "pending",
       "firstSeenAt": 1791352867.5346074,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rm9mdm79neo",
+      "provider": "BBC",
+      "title": "Half the harvest, twice the bills: how drought hit farms",
+      "status": "pending",
+      "firstSeenAt": 1791354022.0437043,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdv4vp3rl3o",
+      "provider": "BBC",
+      "title": "Puffin island on cusp of closure as it runs out of water",
+      "status": "pending",
+      "firstSeenAt": 1791354022.043733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw0k08p482jmo",
+      "provider": "BBC",
+      "title": "Coal mine heat network goes live",
+      "status": "pending",
+      "firstSeenAt": 1791354022.043756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwzrd7p2ll50o",
+      "provider": "BBC",
+      "title": "Tests carried out on seabirds after nurdle spill",
+      "status": "pending",
+      "firstSeenAt": 1791354022.043774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791354022.3404372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/indonesia-vp-disqualification-education-credentials/107233362",
+      "provider": "ABC News Australia",
+      "title": "Indonesia's VP likely didn't finish high school and it could cost him his job",
+      "status": "pending",
+      "firstSeenAt": 1791354022.9393432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/good-character-references-to-be-banned-sa-courts/107238760",
+      "provider": "ABC News Australia",
+      "title": "Criminals banned from using character references under proposed SA law reform",
+      "status": "pending",
+      "firstSeenAt": 1791354022.9400792,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
