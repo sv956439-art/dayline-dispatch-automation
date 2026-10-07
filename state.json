@@ -27186,9 +27186,33 @@
       "status": "pending",
       "firstSeenAt": 1791402526.7613924,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791403113.0158985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254",
+      "provider": "ABC News Australia",
+      "title": "New armed police unit unveiled after Bondi terror attack",
+      "status": "pending",
+      "firstSeenAt": 1791403113.5066538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/australia-south-africa-first-test-durban-travis-head/107241292",
+      "provider": "ABC News Australia",
+      "title": "Aussies hit back at ex-players in build-up to first South Africa Test",
+      "status": "pending",
+      "firstSeenAt": 1791403113.5067031,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
