@@ -27602,9 +27602,17 @@
       "status": "pending",
       "firstSeenAt": 1791415016.1888072,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nathaniel-farrell-jailed-rape-4yo-girl-darwin-town-camp/107241576",
+      "provider": "ABC News Australia",
+      "title": "Man jailed for luring 4yo girl away from front yard and violently raping her",
+      "status": "pending",
+      "firstSeenAt": 1791415747.8896623,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
