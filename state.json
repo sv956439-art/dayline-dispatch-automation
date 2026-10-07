@@ -25642,9 +25642,33 @@
       "status": "pending",
       "firstSeenAt": 1791350433.0871358,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly0v13ndzgo",
+      "provider": "BBC",
+      "title": "'Until we have answers - our grief is frozen in time' - dad of teenager killed in explosion Leona Harper was one of 10 victims of an unexplained explosion at a service station four years ago.",
+      "status": "pending",
+      "firstSeenAt": 1791351419.0899148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791351419.3815145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/second-pike-execution-attempt-uncharted-territory-/107238566",
+      "provider": "ABC News Australia",
+      "title": "Second execution attempt is 'uncharted territory' after Christa Pike wakes",
+      "status": "pending",
+      "firstSeenAt": 1791351419.73283,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
