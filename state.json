@@ -25346,9 +25346,25 @@
       "status": "pending",
       "firstSeenAt": 1791338491.0906599,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791339430.1637034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/jethro-curtis-stephen-curtis-maffra-murder-sentence/107195072",
+      "provider": "ABC News Australia",
+      "title": "Man who murdered uncle spoke of desire to kill him days before attack",
+      "status": "pending",
+      "firstSeenAt": 1791339430.796086,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
