@@ -26970,9 +26970,25 @@
       "status": "pending",
       "firstSeenAt": 1791396476.182371,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791397753.6754665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/strangulation-forum-hosted-hobart-family-violence/107237098",
+      "provider": "ABC News Australia",
+      "title": "Strangulation a 'red flag' for escalating abuse but signs often hidden",
+      "status": "pending",
+      "firstSeenAt": 1791397753.9364657,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
