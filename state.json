@@ -27034,9 +27034,41 @@
       "status": "pending",
       "firstSeenAt": 1791398927.1783943,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e3x21ev9wwo",
+      "provider": "BBC",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September. 9 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791399814.439258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmzxl5696l5xo",
+      "provider": "BBC",
+      "title": "Western civilisation at risk of 'atrophy, servitude and decline', Rubio says In a speech overlooking the Acropolis, the US Secretary of State also said the US believes Europe \"can awaken from its long slumber\".",
+      "status": "pending",
+      "firstSeenAt": 1791399814.4397683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/ian-harper-rba-board-interest-rate-meetings/107240002",
+      "provider": "ABC News Australia",
+      "title": "Former RBA board member says another rate hike this year 'plausible'",
+      "status": "pending",
+      "firstSeenAt": 1791399815.6683435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/three-years-on-gaza-failed-peace-plan-road-to-recovery/107207532",
+      "provider": "ABC News Australia",
+      "title": "'It became a cemetery': Three years on, Gaza remains in ruins",
+      "status": "pending",
+      "firstSeenAt": 1791399815.6688874,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
