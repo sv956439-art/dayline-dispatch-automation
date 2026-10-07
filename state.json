@@ -27138,9 +27138,33 @@
       "status": "pending",
       "firstSeenAt": 1791400880.2705145,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/pete-hegseth-uss-abraham-lincoln",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791401756.2688987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/christa-pike-botched-execution-evidence-judge",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791401756.2689354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/mixed-response-to-proposed-data-centre-near-wagga-wagga/107214860",
+      "provider": "ABC News Australia",
+      "title": "Town questions $15b data centre set to use enough power for 1m homes",
+      "status": "pending",
+      "firstSeenAt": 1791401756.860593,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
