@@ -27394,9 +27394,25 @@
       "status": "pending",
       "firstSeenAt": 1791407163.0443027,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1j3rj2r72xo",
+      "provider": "BBC",
+      "title": "Tories united behind Badenoch - but party still needs to win over voters Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls. 5 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791408214.348079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckrey77jq1n7o",
+      "provider": "BBC",
+      "title": "Guardiola set to attend Man City's first home game since guilty verdict Pep Guardiola is expected to attend Manchester City's Champions League tie against Paris St-Germain next week - the club's first home match since they were found guilty of the majority of the 115 charges brought against them by the Premier League. 1 hr ago Man City",
+      "status": "pending",
+      "firstSeenAt": 1791408214.348534,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
