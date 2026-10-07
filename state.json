@@ -25314,9 +25314,33 @@
       "status": "pending",
       "firstSeenAt": 1791337032.8758018,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/06/susan-collins-maine-debate-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791337841.2213988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/soldier-death-mount-bundey-veterans-training-safety-realism/107237642",
+      "provider": "ABC News Australia",
+      "title": "Grieving veterans say training safety a delicate balance after fatality",
+      "status": "pending",
+      "firstSeenAt": 1791337841.4371357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/eva-marie-saint-hollywood-golden-age-102/106538974",
+      "provider": "ABC News Australia",
+      "title": "Eva Marie Saint, last star of Hollywood's Golden Age, has died at 102",
+      "status": "pending",
+      "firstSeenAt": 1791337841.4378932,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
