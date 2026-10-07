@@ -25930,9 +25930,33 @@
       "status": "pending",
       "firstSeenAt": 1791357488.8537843,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2qlz7ney2o",
+      "provider": "BBC",
+      "title": "2 hrs ago Visually impaired people fear smart glasses backlash Smart glasses are banned in some venues but disabled wearers describe them as game-changing. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791358587.655783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/07/mount-pleasant-hunter-valley-coalmine-high-court-ruling-community-advocates",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791358587.9288034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/canberra-city-stadium-proposal-explained/107239558",
+      "provider": "ABC News Australia",
+      "title": "Is a waterfront city stadium actually on the cards for Canberra?",
+      "status": "pending",
+      "firstSeenAt": 1791358588.3673754,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
