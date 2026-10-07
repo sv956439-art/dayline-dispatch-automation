@@ -25458,9 +25458,17 @@
       "status": "pending",
       "firstSeenAt": 1791344940.9785116,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/adf-pauses-supacat-following-fatal-nt-rollover/107239302",
+      "provider": "ABC News Australia",
+      "title": "ADF pauses use of Supacat following fatal rollover in NT",
+      "status": "pending",
+      "firstSeenAt": 1791345628.305475,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
