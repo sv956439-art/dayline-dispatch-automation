@@ -26186,9 +26186,17 @@
       "status": "pending",
       "firstSeenAt": 1791369517.2411988,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nobel-chemistry-prize-2026-non-linear-effects-autocatalysis/107240878",
+      "provider": "ABC News Australia",
+      "title": "Nobel Prize in Chemistry awarded to duo for 'spectacular' chemical reaction",
+      "status": "pending",
+      "firstSeenAt": 1791370422.8433769,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
