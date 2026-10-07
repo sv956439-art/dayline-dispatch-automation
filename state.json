@@ -27338,9 +27338,33 @@
       "status": "pending",
       "firstSeenAt": 1791405763.9479537,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791406542.406586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791406542.4067025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/liv-golf-jon-rahm-set-to-quit-over-unacceptable-terms/107241410",
+      "provider": "ABC News Australia",
+      "title": "LIV Golf loses star over 'unacceptable' terms",
+      "status": "pending",
+      "firstSeenAt": 1791406542.8438988,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
