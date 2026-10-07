@@ -25298,9 +25298,25 @@
       "status": "pending",
       "firstSeenAt": 1791336101.976456,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/goolwa-mcdonalds-development-application-expected-soon/107235736",
+      "provider": "ABC News Australia",
+      "title": "Landowner pushes back against opposition to Goolwa's first McDonalds",
+      "status": "pending",
+      "firstSeenAt": 1791337032.8757343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/man-appears-in-court-after-melbourne-tram-stabbing/107238302",
+      "provider": "ABC News Australia",
+      "title": "Man appears in court after woman stabbed in neck on Melbourne tram",
+      "status": "pending",
+      "firstSeenAt": 1791337032.8758018,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
