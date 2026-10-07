@@ -26850,9 +26850,65 @@
       "status": "pending",
       "firstSeenAt": 1791391527.4646797,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwg7xr9e1y78o",
+      "provider": "BBC",
+      "title": "Compulsory media duties like something in an autocracy - Venter",
+      "status": "pending",
+      "firstSeenAt": 1791392923.3020196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvp8g78xd51jo",
+      "provider": "BBC",
+      "title": "Former Man City player Silva comes out of retirement",
+      "status": "pending",
+      "firstSeenAt": 1791392923.30214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmdxwvwgezlpo",
+      "provider": "BBC",
+      "title": "Sheff Utd expect to avoid points deduction - CEO",
+      "status": "pending",
+      "firstSeenAt": 1791392923.3023334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr89j9194kx3o",
+      "provider": "BBC",
+      "title": "Are SPFL away ticket prices too expensive? And is price cap on agenda?",
+      "status": "pending",
+      "firstSeenAt": 1791392923.3023772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/07/billionaire-quit-uk-wealth-tax-resident-monaco-super-rich-exodus",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791392923.5333781,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/07/two-men-freed-indefinite-sentences-for-public-protection-ipp",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791392923.5334015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791392923.5335848,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
