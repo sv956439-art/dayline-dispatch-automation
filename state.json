@@ -26130,9 +26130,41 @@
       "status": "pending",
       "firstSeenAt": 1791366881.5604439,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm0vrl3xp7o",
+      "provider": "BBC",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "status": "pending",
+      "firstSeenAt": 1791367531.5505261,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjx7z2r4gko",
+      "provider": "BBC",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "status": "pending",
+      "firstSeenAt": 1791367531.5505557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791367531.9266317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/marilyn-wallman-inquest-probes-if-family-member-involved/107224842",
+      "provider": "ABC News Australia",
+      "title": "Schoolgirl cold case inquest seeks to solve five-decade-old mystery",
+      "status": "pending",
+      "firstSeenAt": 1791367532.1488118,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
