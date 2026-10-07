@@ -25386,9 +25386,25 @@
       "status": "pending",
       "firstSeenAt": 1791341337.151267,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791342002.787587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
+      "provider": "ABC News Australia",
+      "title": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+      "status": "pending",
+      "firstSeenAt": 1791342003.0088499,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
