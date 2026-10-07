@@ -25834,9 +25834,73 @@
       "status": "pending",
       "firstSeenAt": 1791355399.9690208,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c32l4nwr7z05o",
+      "provider": "BBC",
+      "title": "Can Man City juggle WSL title defence and Champions League?",
+      "status": "pending",
+      "firstSeenAt": 1791356457.9057946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmkgwg15nwy6o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791356457.9058325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmlylv1xl9qgo",
+      "provider": "BBC",
+      "title": "Quiz: Name England's all-time leading appearance makers",
+      "status": "pending",
+      "firstSeenAt": 1791356457.90672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791356458.2904844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
+      "provider": "ABC News Australia",
+      "title": "Tensions escalate in Middle East as Houthis target airports",
+      "status": "pending",
+      "firstSeenAt": 1791356458.8065603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/chinese-tourist-visit-australia-in-golden-week/107236690",
+      "provider": "ABC News Australia",
+      "title": "Australia among top picks for Chinese tourists during Golden Week holiday",
+      "status": "pending",
+      "firstSeenAt": 1791356458.8066392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/canberra-elderly-man-who-stabbed-wife-to-death/107240044",
+      "provider": "ABC News Australia",
+      "title": "Lawyers for man who stabbed wife to death say no evidence he'd be violent again",
+      "status": "pending",
+      "firstSeenAt": 1791356458.807065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/cfmeu-inquiry-wednesday-awu-worker-clash/107239752",
+      "provider": "ABC News Australia",
+      "title": "Inquiry hears delegate felt he 'brought danger' to his family after CFMEU comments",
+      "status": "pending",
+      "firstSeenAt": 1791356458.8070948,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
