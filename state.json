@@ -25274,9 +25274,33 @@
       "status": "pending",
       "firstSeenAt": 1791335065.2576587,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791336101.3588364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/avonbank-mineral-sands-mine-receives-mining-licence-approval/107233844",
+      "provider": "ABC News Australia",
+      "title": "Licence granted for controversial mineral sands mine",
+      "status": "pending",
+      "firstSeenAt": 1791336101.976339,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/malupirti-springs-camera-survey-feral-concerns/107230282",
+      "provider": "ABC News Australia",
+      "title": "Bilbies' predators caught on camera in Great Sandy Desert",
+      "status": "pending",
+      "firstSeenAt": 1791336101.976456,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
