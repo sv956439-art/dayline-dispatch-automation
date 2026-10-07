@@ -25402,9 +25402,25 @@
       "status": "pending",
       "firstSeenAt": 1791342003.0088499,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/lionel-messi-final-argentina-international-benin/107238572",
+      "provider": "ABC News Australia",
+      "title": "Lionel Messi scores final goal in emotional farewell to Argentina",
+      "status": "pending",
+      "firstSeenAt": 1791342881.3146353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/sidney-nolan-artworks-origins-exhibition-agnsw/107235674",
+      "provider": "ABC News Australia",
+      "title": "'Looking at Australia': Sidney Nolan in six definitive paintings",
+      "status": "pending",
+      "firstSeenAt": 1791342881.3148265,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
