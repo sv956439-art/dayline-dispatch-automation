@@ -26786,9 +26786,49 @@
       "status": "pending",
       "firstSeenAt": 1791389282.2389011,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqd09g0gj50ko",
+      "provider": "BBC",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "status": "pending",
+      "firstSeenAt": 1791390482.8306842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5pvgzvlepr1o",
+      "provider": "BBC",
+      "title": "Blue Planet III ventures into darkest depths of ocean Sir David says the series uncovers marine life that is \"even more precious than we ever realised\".",
+      "status": "pending",
+      "firstSeenAt": 1791390482.8312926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr9dzy24g2l7o",
+      "provider": "BBC",
+      "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
+      "status": "pending",
+      "firstSeenAt": 1791390482.8963819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/rabid-raccoon-case-los-angeles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791390483.1453922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/russia-strikes-kill-20-birthday-putin/107241102",
+      "provider": "ABC News Australia",
+      "title": "'Birthday gift to Putin': At least 20 killed in Russian strikes on Ukraine",
+      "status": "pending",
+      "firstSeenAt": 1791390483.8821533,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
