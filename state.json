@@ -25378,9 +25378,17 @@
       "status": "pending",
       "firstSeenAt": 1791340430.096565,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/bookkeeper-michelle-kathleen-lawson-jailed-tully-farm-fraud/107236114",
+      "provider": "ABC News Australia",
+      "title": "Farming family's trusted bookkeeper jailed for $2.8m fraud",
+      "status": "pending",
+      "firstSeenAt": 1791341337.151267,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
