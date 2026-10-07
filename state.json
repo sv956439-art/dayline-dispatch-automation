@@ -27490,9 +27490,25 @@
       "status": "pending",
       "firstSeenAt": 1791410482.762357,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/rubio-greece-trump-america-first-speech",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791411307.096448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/darling-river-snail-adapting-artificial-structures-walgett/107215754",
+      "provider": "ABC News Australia",
+      "title": "'Glimmer of hope' as near-extinct Darling River snails discovered",
+      "status": "pending",
+      "firstSeenAt": 1791411307.6688635,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
