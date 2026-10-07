@@ -27530,9 +27530,25 @@
       "status": "pending",
       "firstSeenAt": 1791413019.2012255,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy8l7n1jn9mo",
+      "provider": "BBC",
+      "title": "Cancer survivor with a stoma 'made to feel like a criminal' at airports",
+      "status": "pending",
+      "firstSeenAt": 1791413718.208381,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/vika-and-linda-bull-take-5-sisters-paul-kelly-aria-hall-of-fame/107181772",
+      "provider": "ABC News Australia",
+      "title": "How Vika and Linda made leap from backing singers to hall of famers",
+      "status": "pending",
+      "firstSeenAt": 1791413719.0563722,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
