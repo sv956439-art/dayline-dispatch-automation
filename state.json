@@ -25546,9 +25546,33 @@
       "status": "pending",
       "firstSeenAt": 1791348717.0725782,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvx28nrp8e68o",
+      "provider": "BBC",
+      "title": "Just now 'I was at the pub - then my wife's bag exploded' Dusty Sheppard says he thought a firework had gone off when flames \"flew out\" of his wife's bag. Just now",
+      "status": "pending",
+      "firstSeenAt": 1791349364.060879,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/woolworths-increases-fuel-levy-surcharge/107238986",
+      "provider": "ABC News Australia",
+      "title": "Woolworths freight fuel levy surcharge almost triples since Iran war",
+      "status": "pending",
+      "firstSeenAt": 1791349364.9875069,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/logan-slashes-granny-flat-tax/107239554",
+      "provider": "ABC News Australia",
+      "title": "Logan mayor warns of backyard 'slums' as council slashes granny flat tax",
+      "status": "pending",
+      "firstSeenAt": 1791349364.9876332,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
