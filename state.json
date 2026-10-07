@@ -26986,9 +26986,57 @@
       "status": "pending",
       "firstSeenAt": 1791397753.9364657,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvgd63rj92lo",
+      "provider": "BBC",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "status": "pending",
+      "firstSeenAt": 1791398926.3177392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8g47zll517zo",
+      "provider": "BBC",
+      "title": "Man to face trial for attempted murder of British child in Alps park attack",
+      "status": "pending",
+      "firstSeenAt": 1791398926.31776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9gkvx74je7do",
+      "provider": "BBC",
+      "title": "Rice close to agreeing new Arsenal deal",
+      "status": "pending",
+      "firstSeenAt": 1791398926.3181171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/the-social-reckoning-aaron-sorkin-facebook/107237862",
+      "provider": "ABC News Australia",
+      "title": "Aaron Sorkin takes on Facebook again, and this time he's furious",
+      "status": "pending",
+      "firstSeenAt": 1791398927.1783137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/will-ai-avoiders-be-left-behind/107211430",
+      "provider": "ABC News Australia",
+      "title": "Will you really get 'left behind' if you don't use AI?",
+      "status": "pending",
+      "firstSeenAt": 1791398927.178355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/quiz-physical-media-cassettes-cds-dvds-double-j-music/107236010",
+      "provider": "ABC News Australia",
+      "title": "Quiz: Think you know vinyl, CDs and cassettes? Prove it",
+      "status": "pending",
+      "firstSeenAt": 1791398927.1783943,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
