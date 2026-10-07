@@ -26650,9 +26650,105 @@
       "status": "pending",
       "firstSeenAt": 1791384900.2720878,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260325-the-artworks-by-women-where-men-got-the-credit",
+      "provider": "BBC",
+      "title": "These artworks are by women - men got the credit For centuries, The Triumph of Bacchus was misattributed then hidden – now it is at the centre of a major exhibition. Here are five groundbreaking artworks wrongly attributed to men.",
+      "status": "pending",
+      "firstSeenAt": 1791387325.040526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqj9knmvm2ryo",
+      "provider": "BBC",
+      "title": "Eckert free to stay as Southampton boss as Spygate ban suspended Tonda Eckert is free to continue as Southampton manager after being given a suspended ban for his role in Spygate.",
+      "status": "pending",
+      "firstSeenAt": 1791387325.0412593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw5ynm4e0d68o",
+      "provider": "BBC",
+      "title": "Two icons, a glorious farewell and a potentially bitter ending",
+      "status": "pending",
+      "firstSeenAt": 1791387325.0412862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c607397pjv37o",
+      "provider": "BBC",
+      "title": "Ex-Spurs player Vega set to run for Fifa president",
+      "status": "pending",
+      "firstSeenAt": 1791387325.0413105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261007-could-we-have-a-global-outbreak-of-pneumonic-plague-today",
+      "provider": "BBC",
+      "title": "Why a global outbreak of plague is unlikely A Russian lab technician has died at a plague research centre in Siberia, but there are many reasons pneumonic plague is usually easily contained.",
+      "status": "pending",
+      "firstSeenAt": 1791387325.0413764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/08/australia-pill-abortion-restrictions-pharmacies-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.3466675,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/former-barclays-traders-rigging-interest-rates-convictions-quashed-libor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.3471928,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/07/kemi-badenoch-conservative-party-conference-speech",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.3472142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.3472598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/07/man-pleads-guilty-sexual-assault-woman-drugged-husband",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.347281,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/07/bail-hostels-due-to-house-early-release-prisoners-in-england-and-wales-closed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.3473022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/british-billionaire-epstein-jane-doe-4",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791387325.3474047,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
