@@ -26418,9 +26418,49 @@
       "status": "pending",
       "firstSeenAt": 1791375847.7677789,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq3x3v11d5o",
+      "provider": "BBC",
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "status": "pending",
+      "firstSeenAt": 1791377223.0394835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791377223.3652992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791377223.3654978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/electric-shock-gloves-ice-intense-pain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791377223.3655705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/france-suspends-stun-grenade-use-at-student-protests-/107240964",
+      "provider": "ABC News Australia",
+      "title": "France suspends stun grenade use at student protests",
+      "status": "pending",
+      "firstSeenAt": 1791377224.0578146,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
