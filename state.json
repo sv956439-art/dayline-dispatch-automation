@@ -25490,9 +25490,49 @@
       "status": "pending",
       "firstSeenAt": 1791346543.1392097,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgdlzvl9ego",
+      "provider": "BBC",
+      "title": "Pornhub returns to Australia but only for adults with Apple devices The world's most popular porn site went dark in March in Australia due to age verification laws.",
+      "status": "pending",
+      "firstSeenAt": 1791347626.9594772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/ukraine-war-briefing-zelenskyy-blames-russia-for-attack-on-bulgarian-vessels-in-black-sea-as-investigation-launched",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy blames Russia for attack on Bulgarian vessels in Black Sea as investigation launched",
+      "status": "pending",
+      "firstSeenAt": 1791347627.1689775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/coffee-prices-increase-up-to-10-per-cent/107237680",
+      "provider": "ABC News Australia",
+      "title": "Coffee prices at some cafes rise by 10pc after RBA card surcharge ban",
+      "status": "pending",
+      "firstSeenAt": 1791347627.5514688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/marrickville-golf-club-five-additional-grants/107237400",
+      "provider": "ABC News Australia",
+      "title": "Marrickville Golf Club received closed non-competitive grants on five past occasions",
+      "status": "pending",
+      "firstSeenAt": 1791347627.5519755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/psychiatrist-benjamin-wen-sentenced-for-child-sex-abuse/107236528",
+      "provider": "ABC News Australia",
+      "title": "Former child psychiatrist jailed for sexual abuse of patients",
+      "status": "pending",
+      "firstSeenAt": 1791347627.5520084,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
