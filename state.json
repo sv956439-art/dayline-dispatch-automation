@@ -26298,9 +26298,57 @@
       "status": "pending",
       "firstSeenAt": 1791372032.2791414,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cqpvgzwj1gp2o",
+      "provider": "BBC",
+      "title": "Chisora, 42, to fight in December after deciding against retirement",
+      "status": "pending",
+      "firstSeenAt": 1791372988.5833797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cqrky4y0v2pdo",
+      "provider": "BBC",
+      "title": "South Korea to review military service exemption after Asian Games row",
+      "status": "pending",
+      "firstSeenAt": 1791372988.5836368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/c9kgj0vj0gx4o",
+      "provider": "BBC",
+      "title": "Kenya must be 'clean' to be credible, says Wada chief",
+      "status": "pending",
+      "firstSeenAt": 1791372988.5837393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/crx23d3v0q5lo",
+      "provider": "BBC",
+      "title": "Former UFC security guard Everett wins fighter contract",
+      "status": "pending",
+      "firstSeenAt": 1791372988.5838206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/07/husband-norfolk-gp-court-charged-murder",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791372988.7204816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/07/billionaires-children-parenting-kim-kardashian",
+      "provider": "The Guardian",
+      "title": "double quotation mark Why do billionaires have so many children if they’re not prepared to parent them?",
+      "status": "pending",
+      "firstSeenAt": 1791372988.7210753,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
