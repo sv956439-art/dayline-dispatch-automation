@@ -27218,9 +27218,65 @@
       "status": "pending",
       "firstSeenAt": 1791403881.5742786,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgd65m735mo",
+      "provider": "BBC",
+      "title": "What happens next to Christa Pike? Christa Pike is conscious after surviving a botched lethal injection, leading many to wonder if the state of Tennessee will try again to execute her.",
+      "status": "pending",
+      "firstSeenAt": 1791404891.7760372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkgj0g30m5jo",
+      "provider": "BBC",
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+      "status": "pending",
+      "firstSeenAt": 1791404891.7761343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwz0vrmxkvy4o",
+      "provider": "BBC",
+      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' The research found that important guardrails for teens using ChatGPT often failed.",
+      "status": "pending",
+      "firstSeenAt": 1791404891.7762773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy48lge8nzo",
+      "provider": "BBC",
+      "title": "2 hrs ago Plan to halt Glass Centre demolition inches closer Sunderland City Council's cabinet starts a process of restricting rights to knock down the building. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791404891.8556404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/bernadette-greene-placentia-house-candidate-allegedly-raped",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791404892.0191948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/federal-politics-live-blog-ato-surcharge-oct-8/107240250",
+      "provider": "ABC News Australia",
+      "title": "Labor has 'real concerns' about ATO's credit card payments decision",
+      "status": "pending",
+      "firstSeenAt": 1791404893.0155206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/cricket-australia-women-schedule-beth-mooney-todd-greenberg/107241362",
+      "provider": "ABC News Australia",
+      "title": "CA 'actively' looking at women's schedule as Aussie stars raise concerns",
+      "status": "pending",
+      "firstSeenAt": 1791404893.0161939,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
