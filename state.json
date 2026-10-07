@@ -27162,9 +27162,33 @@
       "status": "pending",
       "firstSeenAt": 1791401756.860593,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791402526.2796483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/qld-first-nations-child-safety-class-action-discontinued/107146370",
+      "provider": "ABC News Australia",
+      "title": "'Landmark' child safety racial discrimination class actions to be discontinued",
+      "status": "pending",
+      "firstSeenAt": 1791402526.7613015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/bathurst-1000-how-to-watch-race-start-time-weather-forecast/107232620",
+      "provider": "ABC News Australia",
+      "title": "Bathurst 1000: How to watch, race start time and weather forecast",
+      "status": "pending",
+      "firstSeenAt": 1791402526.7613924,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
