@@ -26922,9 +26922,25 @@
       "status": "pending",
       "firstSeenAt": 1791394953.0590825,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck1l3gjpzz0qo",
+      "provider": "BBC",
+      "title": "Is it too early to look at Premier League table?",
+      "status": "pending",
+      "firstSeenAt": 1791395772.8009417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/07/trump-speech-los-angeles-san-diego",
+      "provider": "The Guardian",
+      "title": "double quotation mark ‘Take out’ Los Angeles and San Diego? Trump is beyond irresponsible",
+      "status": "pending",
+      "firstSeenAt": 1791395773.0013247,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
