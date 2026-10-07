@@ -25362,9 +25362,25 @@
       "status": "pending",
       "firstSeenAt": 1791339430.796086,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/ex-broome-bishop-christopher-saunders-sentenced-for-sexual-abuse/107236542",
+      "provider": "ABC News Australia",
+      "title": "Former Broome bishop jailed for sexually abusing young men",
+      "status": "pending",
+      "firstSeenAt": 1791340430.096536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/statistics-show-test-bowling-winning-against-test-batting/107175886",
+      "provider": "ABC News Australia",
+      "title": "Are Test cricket batters getting worse? The stats say yes",
+      "status": "pending",
+      "firstSeenAt": 1791340430.096565,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
