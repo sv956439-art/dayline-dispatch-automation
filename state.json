@@ -27210,9 +27210,17 @@
       "status": "pending",
       "firstSeenAt": 1791403113.5067031,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/pinnaroo-pigeon-population-out-of-control-primary-school-issues/107215900",
+      "provider": "ABC News Australia",
+      "title": "Small SA town's 'out of control' pigeon population",
+      "status": "pending",
+      "firstSeenAt": 1791403881.5742786,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
