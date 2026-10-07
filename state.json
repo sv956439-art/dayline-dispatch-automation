@@ -25234,9 +25234,41 @@
       "status": "pending",
       "firstSeenAt": 1791332312.248479,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l4nqx5wvko",
+      "provider": "BBC",
+      "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing? For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
+      "status": "pending",
+      "firstSeenAt": 1791333995.841828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/07/pornhub-returns-australia-apple-age-verification-rules-child-safety-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791333996.0594885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791333996.059503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/queensland-mayors-call-on-canberra-to-drop-disaster-fund-change/107237638",
+      "provider": "ABC News Australia",
+      "title": "Queensland's mayors call on Canberra to drop disaster fund changes",
+      "status": "pending",
+      "firstSeenAt": 1791333997.0914924,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
