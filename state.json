@@ -25466,9 +25466,33 @@
       "status": "pending",
       "firstSeenAt": 1791345628.305475,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwg7xgpv7v17o",
+      "provider": "BBC",
+      "title": "Japanese city accused of inflating census as country's population shrinks As a result, Toyama city may have received more funding from the central government than it should have. 17 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1791346542.0447104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791346542.8411438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/townsville-victim-crime-car-theft-balcony-apartment/107237516",
+      "provider": "ABC News Australia",
+      "title": "Ex-cop thought she'd seen it all until car thieves scaled her balcony",
+      "status": "pending",
+      "firstSeenAt": 1791346543.1392097,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
