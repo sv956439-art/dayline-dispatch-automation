@@ -27554,9 +27554,57 @@
       "status": "pending",
       "firstSeenAt": 1791414201.2634,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgrxlylj72o",
+      "provider": "BBC",
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+      "status": "pending",
+      "firstSeenAt": 1791415015.586756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy745jznvxpo",
+      "provider": "BBC",
+      "title": "What independence could mean for oil-rich Alberta's economy Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "status": "pending",
+      "firstSeenAt": 1791415015.5868845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe8ld517ry3o",
+      "provider": "BBC",
+      "title": "Hedgehog among four chosen animals to feature on your new banknotes",
+      "status": "pending",
+      "firstSeenAt": 1791415015.586912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/08/bendy-elm-newcastle-northern-ireland-crowned-uk-tree-of-the-year",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791415015.9069395,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791415015.9071062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/ev-lagging-infrastructure-lagging-in-northern-wa/107216800",
+      "provider": "ABC News Australia",
+      "title": "More problems emerging along WA's high-profile 'electric highway'",
+      "status": "pending",
+      "firstSeenAt": 1791415016.1888072,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
