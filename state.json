@@ -25418,9 +25418,41 @@
       "status": "pending",
       "firstSeenAt": 1791342881.3148265,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62ylxqz173o",
+      "provider": "BBC",
+      "title": "Former Australian bishop jailed for sexually abusing young men The former Bishop of Broome is one of the most senior Catholic clerics in the world to face charges of this nature. 6 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791343904.495281,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nsw-police-constable-mia-lay-funeral-service-sydney/107237288",
+      "provider": "ABC News Australia",
+      "title": "Sydney constable killed in car crash posthumously awarded honours, funeral told",
+      "status": "pending",
+      "firstSeenAt": 1791343905.4545684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nsw-reece-fakhr-charged-phone-norwest-shooting/107239036",
+      "provider": "ABC News Australia",
+      "title": "Accused gang 'key player' linked to scene of Sydney boy's shooting",
+      "status": "pending",
+      "firstSeenAt": 1791343905.4546192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/police-officer-discovers-bodies-beau-lamarre-condon-trial/107237650",
+      "provider": "ABC News Australia",
+      "title": "Detective describes finding bodies to Lamarre-Condon trial",
+      "status": "pending",
+      "firstSeenAt": 1791343905.4546566,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
