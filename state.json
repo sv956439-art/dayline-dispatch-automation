@@ -26066,9 +26066,41 @@
       "status": "pending",
       "firstSeenAt": 1791363864.2356837,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261006-gentoo-penguins-are-flourishing-inside-an-active-antarctic-volcano",
+      "provider": "BBC",
+      "title": "The penguins flourishing in an Antarctic volcano Deception Island is a \"spectacular amphitheatre of penguinness\". Amid rusting industrial remains on a flooded active volcano, these photos reveal a rare winner of climate change.",
+      "status": "pending",
+      "firstSeenAt": 1791364973.4216173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/crq8nv3zep9yo",
+      "provider": "BBC",
+      "title": "Why you could represent GB in one of newest Olympic sports",
+      "status": "pending",
+      "firstSeenAt": 1791364973.5282242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791364973.8190858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/rottnest-island-bus-stop-redevelopment-ceased/107240206",
+      "provider": "ABC News Australia",
+      "title": "Rottnest Island bus stop redevelopment over after bones found",
+      "status": "pending",
+      "firstSeenAt": 1791364974.2650585,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
