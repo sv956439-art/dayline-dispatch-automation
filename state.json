@@ -25698,9 +25698,41 @@
       "status": "pending",
       "firstSeenAt": 1791352300.2708936,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq99zr40rnxyo",
+      "provider": "BBC",
+      "title": "Breaking even 'achievable' in Aurigny's future",
+      "status": "pending",
+      "firstSeenAt": 1791352866.5582583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1585ej59q0o",
+      "provider": "BBC",
+      "title": "Where has £450m Borderlands funding gone?",
+      "status": "pending",
+      "firstSeenAt": 1791352866.558289,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
+      "provider": "The Guardian",
+      "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
+      "status": "pending",
+      "firstSeenAt": 1791352866.8245199,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/private-health-changes-appear-doomed-as-greens-play-hardball/107238282",
+      "provider": "ABC News Australia",
+      "title": "Private health changes appear all but doomed as Greens play hardball",
+      "status": "pending",
+      "firstSeenAt": 1791352867.5346074,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
