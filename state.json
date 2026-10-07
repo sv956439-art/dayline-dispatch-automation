@@ -26754,9 +26754,41 @@
       "status": "pending",
       "firstSeenAt": 1791388510.7525172,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5zjx7xx3487o",
+      "provider": "BBC",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "status": "pending",
+      "firstSeenAt": 1791389281.1948354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cked39dp0476o",
+      "provider": "BBC",
+      "title": "Do England already have their Kane replacement - or is he yet to emerge?",
+      "status": "pending",
+      "firstSeenAt": 1791389281.1952193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c3qjn05lr4n7o",
+      "provider": "BBC",
+      "title": "How an 'absolute fluke' exposed sandpapergate scandal",
+      "status": "pending",
+      "firstSeenAt": 1791389281.1952364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/japan-raids-biggest-beer-brewers-over-price-collusion-claims/107241114",
+      "provider": "ABC News Australia",
+      "title": "Japan's beer brewers raided over claims they colluded to hike prices",
+      "status": "pending",
+      "firstSeenAt": 1791389282.2389011,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
