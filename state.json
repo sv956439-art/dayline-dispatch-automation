@@ -26346,9 +26346,41 @@
       "status": "pending",
       "firstSeenAt": 1791372988.7210753,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvp8gex8wzneo",
+      "provider": "BBC",
+      "title": "Tuchel's England 2.0: what has changed? Since the World Cup, Thomas Tuchel has made deliberate changes in both tactics and personnel. So what has he tweaked as he looks to refine his England blueprint rather than rewrite it from scratch?",
+      "status": "pending",
+      "firstSeenAt": 1791373837.7599938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261006-the-social-reckoning-review",
+      "provider": "BBC",
+      "title": "The Social Reckoning lacks power or thrills This sequel to The Social Network dramatises how a Facebook whistleblower exposed the company's secrets. But with a \"dead-eyed\" Jeremy Strong as Mark Zuckerberg, it lacks thrills.",
+      "status": "pending",
+      "firstSeenAt": 1791373837.7601867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g175e8163o",
+      "provider": "BBC",
+      "title": "Former Barclays traders have rate-rigging convictions quashed Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+      "status": "pending",
+      "firstSeenAt": 1791373837.8616395,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgdld13e3eo",
+      "provider": "BBC",
+      "title": "Royal Mail plans to cut 2,500 jobs The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+      "status": "pending",
+      "firstSeenAt": 1791373837.8616683,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
