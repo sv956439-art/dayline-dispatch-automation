@@ -25338,9 +25338,17 @@
       "status": "pending",
       "firstSeenAt": 1791337841.4378932,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nsw-journalists-pay-tribute-to-news-anchor-richard-morecroft/107237684",
+      "provider": "ABC News Australia",
+      "title": "News anchor Richard Morecroft remembered as a 'great Australian'",
+      "status": "pending",
+      "firstSeenAt": 1791338491.0906599,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
