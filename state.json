@@ -26226,9 +26226,81 @@
       "status": "pending",
       "firstSeenAt": 1791371004.3994155,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly038jg0d4o",
+      "provider": "BBC",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry. 15 mins ago Science & Environment",
+      "status": "pending",
+      "firstSeenAt": 1791372031.4252307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5ym098vdeo",
+      "provider": "BBC",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15 Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "status": "pending",
+      "firstSeenAt": 1791372031.425648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crz65j5p8l57o",
+      "provider": "BBC",
+      "title": "Arteta signs new contract with champions Arsenal Mikel Arteta says this is \"only the beginning\" of Arsenal's success after signing a new contract with the Premier League champions until 2030.",
+      "status": "pending",
+      "firstSeenAt": 1791372031.426049,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckj0lj6v3g9vo",
+      "provider": "BBC",
+      "title": "Widdecombe suspect in court charged with preparing terrorist acts against Farage Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody. 13 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791372031.503373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxm237q5y9z1o",
+      "provider": "BBC",
+      "title": "8 Noel Gallagher and Susan Sarandon among celebrities to sign Drumcree march letter",
+      "status": "pending",
+      "firstSeenAt": 1791372031.5034795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/ckpdgv8nv436o",
+      "provider": "BBC",
+      "title": "Pidcock 'mad' after team-mates hit by police vehicle Tom Pidcock wanted to \"stop racing\" after he says two of his team-mates were hit by a police vehicle travelling the wrong way down the course at the Tre Valli Varesine. 4 hrs ago Cycling",
+      "status": "pending",
+      "firstSeenAt": 1791372031.5035682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791372031.6465483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/07/freddie-jackson-romantic-us-singer-with-10-r-and-b-chart-toppers-dies-aged-70",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791372031.646943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nasa-rover-takes-striking-image-of-dawn-s-early-light-on-mars/107240852",
+      "provider": "ABC News Australia",
+      "title": "NASA's Curiosity rover catches stunning Martian dawn",
+      "status": "pending",
+      "firstSeenAt": 1791372032.2791414,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
