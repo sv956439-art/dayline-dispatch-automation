@@ -25450,9 +25450,17 @@
       "status": "pending",
       "firstSeenAt": 1791343905.4546566,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/what-the-paramount-merger-could-mean-for-audiences/107238808",
+      "provider": "ABC News Australia",
+      "title": "One media giant now owns Top Gun, Harry Potter and CNN. What does that mean?",
+      "status": "pending",
+      "firstSeenAt": 1791344940.9785116,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
