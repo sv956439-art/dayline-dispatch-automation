@@ -25570,9 +25570,81 @@
       "status": "pending",
       "firstSeenAt": 1791349364.9876332,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmyz4mdn94o",
+      "provider": "BBC",
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there. 17 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1791350432.295605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm93z74e0n9zo",
+      "provider": "BBC",
+      "title": "The Republican candidates walking a Trump tightrope Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party. 19 mins ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1791350432.2956588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/07/conservative-party-conference-satirical-tapestry-robert-jenrick",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791350432.8281546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/o2-signs-record-deal-london-venue-the-o2-naming-rights",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791350432.8281777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/07/children-harvest-mice-wild-release-devon-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791350432.8281999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/daniel-tupou-retirement-sydney-roosters-nrl-grand-final/107238806",
+      "provider": "ABC News Australia",
+      "title": "'One of the greats' signs off after fourth Roosters premiership",
+      "status": "pending",
+      "firstSeenAt": 1791350433.08499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/home-detention-conditions-ease-for-nick-mcbride-dv-offences/107239388",
+      "provider": "ABC News Australia",
+      "title": "Home detention conditions ease for former MP charged with DV offences",
+      "status": "pending",
+      "firstSeenAt": 1791350433.0850372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/concerns-over-future-viability-of-pinnaroo-ambulance-station/107233146",
+      "provider": "ABC News Australia",
+      "title": "Volunteer ambulance officer of almost 50 years stood down amid investigation",
+      "status": "pending",
+      "firstSeenAt": 1791350433.085082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/alex-de-minaur-novak-djokovic-china-open/107236718",
+      "provider": "ABC News Australia",
+      "title": "De Minaur retires injured, handing China Open title to Djokovic",
+      "status": "pending",
+      "firstSeenAt": 1791350433.0871358,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
