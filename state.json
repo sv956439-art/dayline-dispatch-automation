@@ -26514,9 +26514,73 @@
       "status": "pending",
       "firstSeenAt": 1791381362.0041149,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq99zrem2j0go",
+      "provider": "BBC",
+      "title": "Burrow would be proud of knighthood - Sinfield",
+      "status": "pending",
+      "firstSeenAt": 1791381963.373117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c6pqgdr4z08xo",
+      "provider": "BBC",
+      "title": "'Draining' few days for Gauff after online racist abuse",
+      "status": "pending",
+      "firstSeenAt": 1791381963.3731472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791381963.5317564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/cemil-tugay-mayor-izmir-defects-akp-erdogan-turkey",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791381963.531835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791381963.5318906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/07/bbc-boss-matt-brittin-criticism-job-cuts-junior-staff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791381963.5320296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/07/tropical-storm-isaias-mexico-hurricane",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791381963.5321128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/07/frasier-jane-leeves-david-hyde-pierce-interview-daphne-niles-love-story",
+      "provider": "The Guardian",
+      "title": "‘He was devastatingly sexy’: Frasier’s Jane Leeves and David Hyde Pierce on the love between Daphne and Niles",
+      "status": "pending",
+      "firstSeenAt": 1791381963.5323472,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
