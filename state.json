@@ -25202,9 +25202,41 @@
       "status": "pending",
       "firstSeenAt": 1791331158.6401563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6je50ydld31o",
+      "provider": "BBC",
+      "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car.",
+      "status": "pending",
+      "firstSeenAt": 1791332310.8871279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791332311.764417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/costa-georgiadis-remote-nt-communities-teach-kids-gardening-food/107234128",
+      "provider": "ABC News Australia",
+      "title": "Costa the Garden Gnome plants seedlings for the future in Utju",
+      "status": "pending",
+      "firstSeenAt": 1791332312.2484548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/new-gunnedah-birthing-suite-temporarily-closed-no-obstetrician/107206442",
+      "provider": "ABC News Australia",
+      "title": "New birthing suite lays dormant as hospital fails to find staff",
+      "status": "pending",
+      "firstSeenAt": 1791332312.248479,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
