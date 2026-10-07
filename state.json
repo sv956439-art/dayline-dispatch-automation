@@ -26826,9 +26826,33 @@
       "status": "pending",
       "firstSeenAt": 1791390483.8821533,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn5vw05l0q3o",
+      "provider": "BBC",
+      "title": "Badenoch pledges inheritance tax changes as she pitches UK Tories as 'no-nonsense' party The Opposition leader made the pledge as she said the Tories face a \"battle for the soul of the this nation\". 2 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791391527.0703952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c65yngj00477o",
+      "provider": "BBC",
+      "title": "Rahm to leave LIV Golf over 'unacceptable' terms Jon Rahm will leave LIV Golf after deeming the terms for LIV 2.0 \"unacceptable\", his lawyer has told a bankruptcy court hearing. 15 mins ago Golf",
+      "status": "pending",
+      "firstSeenAt": 1791391527.0705922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791391527.4646797,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
