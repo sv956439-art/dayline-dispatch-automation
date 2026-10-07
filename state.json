@@ -27410,9 +27410,41 @@
       "status": "pending",
       "firstSeenAt": 1791408214.348534,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm26ee4gl21o",
+      "provider": "BBC",
+      "title": "Group of 20 graduates rescued after being abducted in Nigeria The group was kidnapped earlier this month while travelling for a community service programme",
+      "status": "pending",
+      "firstSeenAt": 1791409096.1266832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr2ke0k8g7xeo",
+      "provider": "BBC",
+      "title": "Man Utd and Liverpool eye Truffert - Thursday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791409096.2108276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/afl-trade-period-live-blog-thursday-october-8/107239586",
+      "provider": "ABC News Australia",
+      "title": "Blakey chase intensifies as blockbuster AFL trade looms",
+      "status": "pending",
+      "firstSeenAt": 1791409097.2479784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/wood-heater-pollution-gas-phase-out-advocate-warning/107229986",
+      "provider": "ABC News Australia",
+      "title": "Clean-air advocates want the government to axe wood fire heaters",
+      "status": "pending",
+      "firstSeenAt": 1791409097.2485814,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
