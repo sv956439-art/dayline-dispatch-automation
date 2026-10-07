@@ -25954,9 +25954,17 @@
       "status": "pending",
       "firstSeenAt": 1791358588.3673754,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqze43ky1xgdo",
+      "provider": "BBC",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102 She starred opposite Marlon Brando, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "status": "pending",
+      "firstSeenAt": 1791359484.5005064,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
