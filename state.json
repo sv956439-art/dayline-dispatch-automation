@@ -27610,9 +27610,49 @@
       "status": "pending",
       "firstSeenAt": 1791415747.8896623,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgqwydpd4xwo",
+      "provider": "BBC",
+      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says. 40 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791416510.23983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2wlplnelxo",
+      "provider": "BBC",
+      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa Wicknell Chivayo divided opinion in life and continues to do so in death.",
+      "status": "pending",
+      "firstSeenAt": 1791416510.2409096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62j2lzlnm8o",
+      "provider": "BBC",
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+      "status": "pending",
+      "firstSeenAt": 1791416511.2561376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791416511.830217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/torture-charges-expected-for-nicol%C3%A1s-maduro/107241718",
+      "provider": "ABC News Australia",
+      "title": "Former Venezuelan president Nicolás Maduro could face new torture charges",
+      "status": "pending",
+      "firstSeenAt": 1791416512.2893903,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
