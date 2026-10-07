@@ -26410,9 +26410,17 @@
       "status": "pending",
       "firstSeenAt": 1791374501.012067,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260924-a-four-hour-horseback-ride-to-stay-with-mongolias-reindeer-herders",
+      "provider": "BBC",
+      "title": "A rare stay with Mongolia's reindeer herders Deep in Mongolia's taiga, reaching the Tsaatan takes multiple days by road, 4x4 and horse – but the reward is two nights immersed in one of the country's most remote communities.",
+      "status": "pending",
+      "firstSeenAt": 1791375847.7677789,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
