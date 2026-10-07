@@ -27650,9 +27650,17 @@
       "status": "pending",
       "firstSeenAt": 1791416512.2893903,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/taylors-hill-firebombing-teen-took-orders-middlemen/107241702",
+      "provider": "ABC News Australia",
+      "title": "Critically injured 13-year-old got firebombing order on WhatsApp",
+      "status": "pending",
+      "firstSeenAt": 1791417578.0675495,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
