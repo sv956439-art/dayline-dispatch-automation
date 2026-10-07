@@ -25962,9 +25962,41 @@
       "status": "pending",
       "firstSeenAt": 1791359484.5005064,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791360156.7235734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/07/uk-house-prices-flatline-as-rising-mortgage-costs-weigh-on-market",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791360156.723759,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782",
+      "provider": "ABC News Australia",
+      "title": "'No doubt': Hockey adamant corruption is flourishing in Washington",
+      "status": "pending",
+      "firstSeenAt": 1791360157.0442197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/nt-tourism-operators-calls-for-resilience-fund-for-wet-season-/107239194",
+      "provider": "ABC News Australia",
+      "title": "Fears of NT business closures after delayed dry season and proposed visa cuts",
+      "status": "pending",
+      "firstSeenAt": 1791360157.044805,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
