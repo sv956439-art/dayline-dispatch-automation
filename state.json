@@ -27274,9 +27274,73 @@
       "status": "pending",
       "firstSeenAt": 1791404893.0161939,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3y0enr9e078o",
+      "provider": "BBC",
+      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "status": "pending",
+      "firstSeenAt": 1791405763.012984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791405763.505881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791405763.5064278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/spanish-pensioner-whose-eviction-sparked-protests-dies/107241352",
+      "provider": "ABC News Australia",
+      "title": "Spanish pensioner whose eviction sparked protests dies",
+      "status": "pending",
+      "firstSeenAt": 1791405763.947127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/online-gambling-regulation-nt-bill-inducements-deposit-caps/107229354",
+      "provider": "ABC News Australia",
+      "title": "Major Australian gambling companies face restrictions if NT bill passes",
+      "status": "pending",
+      "firstSeenAt": 1791405763.947837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/tenants-hit-breaking-point-record-rent-costs-according-to-domain/107238110",
+      "provider": "ABC News Australia",
+      "title": "Alarming data shows rental tenants have hit breaking point",
+      "status": "pending",
+      "firstSeenAt": 1791405763.9478843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/asx-markets-business-news-live-updates-thursday-october-8/107241332",
+      "provider": "ABC News Australia",
+      "title": "ASX set to fall, day after Wall St hit record highs",
+      "status": "pending",
+      "firstSeenAt": 1791405763.9479294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/biloela-hospital-welcomes-midwifery-students-first-in-decade/107232756",
+      "provider": "ABC News Australia",
+      "title": "Rural hospital welcomes first student midwives in more than a decade",
+      "status": "pending",
+      "firstSeenAt": 1791405763.9479537,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
