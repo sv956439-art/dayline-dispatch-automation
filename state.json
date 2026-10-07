@@ -27442,9 +27442,17 @@
       "status": "pending",
       "firstSeenAt": 1791409097.2485814,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/woman-charged-with-manslaughter-over-trevor-fleet-death/107241342",
+      "provider": "ABC News Australia",
+      "title": "Woman charged with manslaughter over alleged road rage hit-and-run",
+      "status": "pending",
+      "firstSeenAt": 1791409937.0319808,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
