@@ -26506,9 +26506,17 @@
       "status": "pending",
       "firstSeenAt": 1791380448.350779,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9p8gxgm71zzo",
+      "provider": "BBC",
+      "title": "Senior figures worried about Man City being in next season's Champions League",
+      "status": "pending",
+      "firstSeenAt": 1791381362.0041149,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
