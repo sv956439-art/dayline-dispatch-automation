@@ -28170,9 +28170,49 @@
       "status": "pending",
       "firstSeenAt": 1791436623.6164744,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j47vj4xeego",
+      "provider": "BBC",
+      "title": "How boxing inspired a play about men's mental health The play explores losing a sense of purpose, the difficulty some men have talking about their mental health and the support they can find in each other.",
+      "status": "pending",
+      "firstSeenAt": 1791437614.5540156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y4xpyw9ddpo",
+      "provider": "BBC",
+      "title": "Uncertainty over ticket refunds at closed theatre",
+      "status": "pending",
+      "firstSeenAt": 1791437614.5540462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/08/dreadful-decline-hosting-home-shame-friendship",
+      "provider": "The Guardian",
+      "title": "The dreadful decline of hosting at home: ‘I feel shame any time a friend comes over’",
+      "status": "pending",
+      "firstSeenAt": 1791437614.893996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132",
+      "provider": "ABC News Australia",
+      "title": "High Court's coalmine emissions ruling says 'the quiet part out loud'",
+      "status": "pending",
+      "firstSeenAt": 1791437615.4125504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/forty-lambs-killed-dog-attack-porongorup-farm-wa/107242156",
+      "provider": "ABC News Australia",
+      "title": "Farmer devastated after dog attack leaves 40 lambs dead",
+      "status": "pending",
+      "firstSeenAt": 1791437615.4136794,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
