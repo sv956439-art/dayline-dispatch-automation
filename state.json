@@ -29122,9 +29122,41 @@
       "status": "pending",
       "firstSeenAt": 1791467041.9151368,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c6y8lyj1pemko",
+      "provider": "BBC",
+      "title": "Russell to take further grid penalty this season",
+      "status": "pending",
+      "firstSeenAt": 1791468006.2807078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3vqrz41l2vo",
+      "provider": "BBC",
+      "title": "Rangers boss McInnes 'not a fan' of extended break",
+      "status": "pending",
+      "firstSeenAt": 1791468006.2812626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/giorgia-meloni-italy-wins-bonus-seat-electoral-reform-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791468006.7208126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214",
+      "provider": "ABC News Australia",
+      "title": "Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed",
+      "status": "pending",
+      "firstSeenAt": 1791468006.9295762,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
