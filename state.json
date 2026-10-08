@@ -28378,9 +28378,65 @@
       "status": "pending",
       "firstSeenAt": 1791441931.0217896,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz65lpeddeno",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791443035.516628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4g1zgl2xpvo",
+      "provider": "BBC",
+      "title": "2 hrs ago 'Arrogant' SpaceXAI fails to attend MP's testimony Lowestoft MP Jess Asato gives evidence to a New York hearing as the city vows to regulate AI developers. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791443035.5703993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791443035.8161552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791443035.816327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/tesco-lifts-profit-forecast-consumer-confidence-resilient",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791443035.8165054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732",
+      "provider": "ABC News Australia",
+      "title": "Two more charged with murder over fatal house party attack",
+      "status": "pending",
+      "firstSeenAt": 1791443036.4255352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/age-verified-apple-users-welcomed-back-to-porn-hub/107240740",
+      "provider": "ABC News Australia",
+      "title": "Apple's age-verification feature welcomed by Pornhub owners",
+      "status": "pending",
+      "firstSeenAt": 1791443036.4255662,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
