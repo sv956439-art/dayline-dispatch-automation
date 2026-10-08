@@ -28898,9 +28898,57 @@
       "status": "pending",
       "firstSeenAt": 1791457379.3380964,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g1j54nepyo",
+      "provider": "BBC",
+      "title": "Canadian poet Anne Carson wins Nobel Prize in Literature Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship. 8 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1791458463.0303156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckjw5jj2l26lo",
+      "provider": "BBC",
+      "title": "Afcon final to play out in court - when will Morocco or Senegal be crowned champions?",
+      "status": "pending",
+      "firstSeenAt": 1791458463.0995605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c962yzlgln8po",
+      "provider": "BBC",
+      "title": "Toone comes into England squad as Bronze withdraws",
+      "status": "pending",
+      "firstSeenAt": 1791458463.0996335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cxdd86mgpq68o",
+      "provider": "BBC",
+      "title": "Wakefield top as all 14 Super League clubs stay for 2027",
+      "status": "pending",
+      "firstSeenAt": 1791458463.0997903,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/08/trump-press-attacks-politico",
+      "provider": "The Guardian",
+      "title": "double quotation mark Trump’s latest attacks on the press exude desperation",
+      "status": "pending",
+      "firstSeenAt": 1791458463.2208502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/missing-evidence-in-marilyn-wallman-disappearance/107245052",
+      "provider": "ABC News Australia",
+      "title": "Second schoolgirl inquest rejected in 1988 because of missing evidence",
+      "status": "pending",
+      "firstSeenAt": 1791458463.4307823,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
