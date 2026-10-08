@@ -27914,9 +27914,57 @@
       "status": "pending",
       "firstSeenAt": 1791430183.5118783,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n9rgg80z94o",
+      "provider": "BBC",
+      "title": "France's school protests: what lies behind the anger Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+      "status": "pending",
+      "firstSeenAt": 1791431195.3809695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn8d5rx22rdo",
+      "provider": "BBC",
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "status": "pending",
+      "firstSeenAt": 1791431195.3809958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/beau-lamarre-condon-trial-cctv-shows-movements-after-deaths/107241544",
+      "provider": "ABC News Australia",
+      "title": "CCTV of Lamarre-Condon shows alleged killer's movements hours after deaths",
+      "status": "pending",
+      "firstSeenAt": 1791431196.7985563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nz-rugby-goes-to-high-court-to-protect-chiefs-name/107243626",
+      "provider": "ABC News Australia",
+      "title": "NZ Rugby launches court bid to protect 'Chiefs' name from PNG league franchise",
+      "status": "pending",
+      "firstSeenAt": 1791431196.7996414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/australian-open-1-point-slam-alcaraz-sinner-osaka-gauff/107243436",
+      "provider": "ABC News Australia",
+      "title": "Amateur players' chance to win $1m against pros returns to Australian Open",
+      "status": "pending",
+      "firstSeenAt": 1791431196.7996628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/victorian-buddhist-monk-dhamma-sarana-sentenced/107242570",
+      "provider": "ABC News Australia",
+      "title": "Monk who preyed on girls sentenced to 13 years' jail",
+      "status": "pending",
+      "firstSeenAt": 1791431196.7997,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
