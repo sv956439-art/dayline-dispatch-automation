@@ -29954,9 +29954,25 @@
       "status": "pending",
       "firstSeenAt": 1791494391.259489,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/homebirth-services-midwives-insurance/107244760",
+      "provider": "ABC News Australia",
+      "title": "Midwives warn insurance changes could reduce homebirth services",
+      "status": "pending",
+      "firstSeenAt": 1791495445.870142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/perth-mint-coins-continue-live-aid-legacy/107235814",
+      "provider": "ABC News Australia",
+      "title": "Special edition coins continue Live Aid legacy 41 years on",
+      "status": "pending",
+      "firstSeenAt": 1791495445.8701699,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
