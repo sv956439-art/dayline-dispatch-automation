@@ -29682,9 +29682,73 @@
       "status": "pending",
       "firstSeenAt": 1791485960.2251,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3j4790elkx7o",
+      "provider": "BBC",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "status": "pending",
+      "firstSeenAt": 1791486788.7258549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yngl2y4gpo",
+      "provider": "BBC",
+      "title": "White House blocks Microsoft from foreign worker hiring program An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "status": "pending",
+      "firstSeenAt": 1791486788.7259705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cx7vpe1p070mo",
+      "provider": "BBC",
+      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
+      "status": "pending",
+      "firstSeenAt": 1791486788.726181,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791486789.1724234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/family-day-care-sector-shrinking-as-educators-walk-away/107195088",
+      "provider": "ABC News Australia",
+      "title": "Family day care shrinks as parents opt for centre-based care",
+      "status": "pending",
+      "firstSeenAt": 1791486789.7757502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/mates-program-class-action-against-veterans-affairs-department/107215484",
+      "provider": "ABC News Australia",
+      "title": "Veterans sue government over 'mass and routine' medical data sharing",
+      "status": "pending",
+      "firstSeenAt": 1791486789.7757792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/singapore-dating-app-firstdate-matchmaker-civil-servants/107229898",
+      "provider": "ABC News Australia",
+      "title": "Singapore launches new dating app — but not everyone qualifies",
+      "status": "pending",
+      "firstSeenAt": 1791486789.7758098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/ai-copied-products-found-on-makers-platform-etsy/107191232",
+      "provider": "ABC News Australia",
+      "title": "Once a home for handmade, artists say Etsy's now overrun with AI",
+      "status": "pending",
+      "firstSeenAt": 1791486789.7758234,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
