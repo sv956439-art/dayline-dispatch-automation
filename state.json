@@ -29842,9 +29842,41 @@
       "status": "pending",
       "firstSeenAt": 1791490500.6328037,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791491615.9234798,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain",
+      "provider": "The Guardian",
+      "title": "A teen tried to navigate Canadian mountains with Claude. His trek ended in an emergency rescue",
+      "status": "pending",
+      "firstSeenAt": 1791491615.9235983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966",
+      "provider": "ABC News Australia",
+      "title": "Pedestrian, police car struck after Sydney CBD carjacking",
+      "status": "pending",
+      "firstSeenAt": 1791491617.024439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/federal-politics-live-blog-labor-ato-ct-9/107246030",
+      "provider": "ABC News Australia",
+      "title": "Minister moves to smooth over government response to ATO payment change",
+      "status": "pending",
+      "firstSeenAt": 1791491617.0244663,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
