@@ -29426,9 +29426,17 @@
       "status": "pending",
       "firstSeenAt": 1791478323.1764772,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c689zv9q71x2o",
+      "provider": "BBC",
+      "title": "1 hr ago Viral US TikToker praises South West takeaways Food venues report a surge in sales following visit from Kalani Ghost Hunter. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791479029.2835653,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
