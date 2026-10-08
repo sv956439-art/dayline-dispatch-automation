@@ -27746,9 +27746,33 @@
       "status": "pending",
       "firstSeenAt": 1791423447.817258,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1pjrd5ewo",
+      "provider": "BBC",
+      "title": "She made India fall in love with women's cricket - now her era as captain is over The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats. 2 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1791424362.2368364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791424362.6499302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nsw-alan-jones-accuser-denies-deceiving-broadcaster/107237644",
+      "provider": "ABC News Australia",
+      "title": "Emails between Alan Jones and 17yo schoolboy read to court",
+      "status": "pending",
+      "firstSeenAt": 1791424363.1411667,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
