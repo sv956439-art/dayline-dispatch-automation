@@ -28634,9 +28634,41 @@
       "status": "pending",
       "firstSeenAt": 1791449921.357867,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/netball/articles/ckrey7v24zr8o",
+      "provider": "BBC",
+      "title": "England to host 2031 Netball World Cup",
+      "status": "pending",
+      "firstSeenAt": 1791450761.1841595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261007-how-does-temperature-affect-your-sleep",
+      "provider": "BBC",
+      "title": "Temperature may trump light for shaping sleep Some scientists think that temperature could be just as important as light at training the body's circadian clocks.",
+      "status": "pending",
+      "firstSeenAt": 1791450761.1842139,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791450761.9508832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791450761.950909,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
