@@ -29482,9 +29482,49 @@
       "status": "pending",
       "firstSeenAt": 1791481001.836019,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx28wd59j4zo",
+      "provider": "BBC",
+      "title": "Black and African cinema hub opens in London EbonyLife Place London is the brainchild of Nollywood media mogul Mo Abudu.",
+      "status": "pending",
+      "firstSeenAt": 1791481919.9916847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791481920.4239662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/08/arturo-bejar-interview-whistleblower-facebook-meta-mark-zuckerberg",
+      "provider": "The Guardian",
+      "title": "Why Arturo Béjar left Meta – and blew the whistle: ‘I don’t recall Mark ever being empathetic’",
+      "status": "pending",
+      "firstSeenAt": 1791481920.4243462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/08/sofia-coppola-director-lost-in-translation-interview",
+      "provider": "The Guardian",
+      "title": "Sofia Coppola: ‘I’m glad we weren’t kicked out of Tokyo making Lost in Translation’",
+      "status": "pending",
+      "firstSeenAt": 1791481920.424375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/08/khaldoon-al-mubarak-manchester-city-charges-abu-dhabi",
+      "provider": "The Guardian",
+      "title": "Khaldoon al-Mubarak: the tightrope walker who made rare misstep over City charges",
+      "status": "pending",
+      "firstSeenAt": 1791481920.4244576,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
