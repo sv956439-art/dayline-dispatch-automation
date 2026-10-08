@@ -30026,9 +30026,41 @@
       "status": "pending",
       "firstSeenAt": 1791496951.2454276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm75pw6zp9y9o",
+      "provider": "BBC",
+      "title": "'Rare' item from Trump's penthouse sells at auction The glass fragment was commissioned by the now-president of the United States almost 40 years ago. 11 hrs ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1791497987.2722514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230",
+      "provider": "ABC News Australia",
+      "title": "Blockbuster float of data centre operator Firmus gets pulled following lacklustre investor demand",
+      "status": "pending",
+      "firstSeenAt": 1791497988.0745647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/hegseth-says-firing-squad-execution-at-fort-hood-will-be-public/107246210",
+      "provider": "ABC News Australia",
+      "title": "Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+      "status": "pending",
+      "firstSeenAt": 1791497988.0759692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/gambling-rates-increasing-young-men-across-australia/107192358",
+      "provider": "ABC News Australia",
+      "title": "More young men than ever are gambling, but not to win",
+      "status": "pending",
+      "firstSeenAt": 1791497988.0760255,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
