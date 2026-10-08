@@ -29250,9 +29250,33 @@
       "status": "pending",
       "firstSeenAt": 1791474114.566041,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8gn55433jo",
+      "provider": "BBC",
+      "title": "US deportations to African countries unlawful and exploit suffering - rights group More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "status": "pending",
+      "firstSeenAt": 1791475058.6595175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/two-latvian-men-arrested-raf-molesworth-cambridgeshire-us-nato",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791475059.0390718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/maduro-flores-torture-allegations/107245720",
+      "provider": "ABC News Australia",
+      "title": "Maduro and wife Flores face new charge of conspiracy to commit torture",
+      "status": "pending",
+      "firstSeenAt": 1791475059.8350375,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
