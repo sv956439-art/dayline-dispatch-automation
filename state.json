@@ -28482,9 +28482,33 @@
       "status": "pending",
       "firstSeenAt": 1791446120.8058696,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmx2z9z10wezo",
+      "provider": "BBC",
+      "title": "Working with Iraola, car clauses and hope - the Liverpool academy approach",
+      "status": "pending",
+      "firstSeenAt": 1791446804.196763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkg7n52kzvjo",
+      "provider": "BBC",
+      "title": "Travelodge report leaves council 'extremely concerned'",
+      "status": "pending",
+      "firstSeenAt": 1791446804.2959142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791446804.7445543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
