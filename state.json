@@ -29818,9 +29818,33 @@
       "status": "pending",
       "firstSeenAt": 1791489621.461842,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/regional-audiences-prepare-to-lose-network-10/107238932",
+      "provider": "ABC News Australia",
+      "title": "'Cheaper to buy everyone new TVs' as regions lose terrestrial channels",
+      "status": "pending",
+      "firstSeenAt": 1791490500.6327217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/illness-uncertainty-as-australia-weighs-up-test-xi/107245990",
+      "provider": "ABC News Australia",
+      "title": "Illness uncertainty as Australia weighs up Test XI",
+      "status": "pending",
+      "firstSeenAt": 1791490500.6327686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026",
+      "provider": "ABC News Australia",
+      "title": "Woman, child found dead in car in dam",
+      "status": "pending",
+      "firstSeenAt": 1791490500.6328037,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
