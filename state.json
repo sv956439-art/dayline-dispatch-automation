@@ -27682,9 +27682,49 @@
       "status": "pending",
       "firstSeenAt": 1791420407.4052634,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791421483.2678635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses",
+      "provider": "The Guardian",
+      "title": "China’s succession crisis: a generation of entrepreneurs is retiring, but are their children ready to take over?",
+      "status": "pending",
+      "firstSeenAt": 1791421483.2688496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/mick-mundine-arrest-redfern-child-sex-assault-allegation/107242280",
+      "provider": "ABC News Australia",
+      "title": "Prominent Indigenous elder arrested over child sex assault allegation",
+      "status": "pending",
+      "firstSeenAt": 1791421483.5334108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/45-plaques-stolen-from-aberdare-cemetery-nsw/107241528",
+      "provider": "ABC News Australia",
+      "title": "Families devastated after 45 plaques stolen from cemetery",
+      "status": "pending",
+      "firstSeenAt": 1791421483.5334527,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/mental-health-beds-back-in-november-tas-govt-says/107237104",
+      "provider": "ABC News Australia",
+      "title": "Mental health capacity restored in November after fire, government says",
+      "status": "pending",
+      "firstSeenAt": 1791421483.5334988,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
