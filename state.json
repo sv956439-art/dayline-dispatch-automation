@@ -29314,9 +29314,81 @@
       "status": "pending",
       "firstSeenAt": 1791475912.3267453,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqd09eyk0g8no",
+      "provider": "BBC",
+      "title": "Zambia signs US health deal after disputes over data-sharing The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "status": "pending",
+      "firstSeenAt": 1791477172.8285463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6n4ex2lgg2ko",
+      "provider": "BBC",
+      "title": "Maresca tells Man City players to stay focused and positive",
+      "status": "pending",
+      "firstSeenAt": 1791477172.829166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c693z8v5j2yko",
+      "provider": "BBC",
+      "title": "Floored by Farrell to top of the league - Atkinson on Gloucester resurgence",
+      "status": "pending",
+      "firstSeenAt": 1791477172.9349763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c54g13we4rero",
+      "provider": "BBC",
+      "title": "Everton's Sherif fined for breaching betting rules",
+      "status": "pending",
+      "firstSeenAt": 1791477172.9350932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwr7yv4yl59do",
+      "provider": "BBC",
+      "title": "Wales target clean sheet in World Cup play-off first leg",
+      "status": "pending",
+      "firstSeenAt": 1791477172.9352484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c6y8lyrpyv85o",
+      "provider": "BBC",
+      "title": "'Nothing impossible' for NI on long road to Brazil",
+      "status": "pending",
+      "firstSeenAt": 1791477172.9353256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791477173.1081388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791477173.1081653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/missouri-voters-confusion-trump-backed-maps-midterms",
+      "provider": "The Guardian",
+      "title": "‘Undistilled cheating’: Missouri voters furious in aftermath of Trump bid to rig electoral maps",
+      "status": "pending",
+      "firstSeenAt": 1791477173.1096685,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
