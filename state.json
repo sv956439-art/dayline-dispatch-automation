@@ -27658,9 +27658,17 @@
       "status": "pending",
       "firstSeenAt": 1791417578.0675495,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2d4ddjn2eo",
+      "provider": "BBC",
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+      "status": "pending",
+      "firstSeenAt": 1791418817.3039775,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
