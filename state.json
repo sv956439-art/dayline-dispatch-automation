@@ -29970,9 +29970,49 @@
       "status": "pending",
       "firstSeenAt": 1791495445.8701699,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0r96xygx6o",
+      "provider": "BBC",
+      "title": "Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says \"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday. 12 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791496328.1623297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5ye4p86d21o",
+      "provider": "BBC",
+      "title": "'People use AI to avoid paying for school photos, but they don't realise the consequences'",
+      "status": "pending",
+      "firstSeenAt": 1791496328.2147138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791496328.730076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/chris-murphy-pete-hegseth-iran-war-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791496328.7300916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/afl-trade-period-live-blog-friday-october-9/107243946",
+      "provider": "ABC News Australia",
+      "title": "Bombers out of Blakey race as Saints prepare offer to test Swans",
+      "status": "pending",
+      "firstSeenAt": 1791496329.3246405,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
