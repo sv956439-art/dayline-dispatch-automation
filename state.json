@@ -27866,9 +27866,33 @@
       "status": "pending",
       "firstSeenAt": 1791427653.5118816,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkvxjvl7v3o",
+      "provider": "BBC",
+      "title": "Trump wants a new Camp David retreat at his posh Florida golf club Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+      "status": "pending",
+      "firstSeenAt": 1791429142.406905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/citizen-sleuth-tracks-down-bike-after-theft-from-home/107241738",
+      "provider": "ABC News Australia",
+      "title": "Citizen sleuth tracks down bike after theft from home",
+      "status": "pending",
+      "firstSeenAt": 1791429143.1831787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/election-candidates-say-vandalism-attacks-increasingly-common/107216876",
+      "provider": "ABC News Australia",
+      "title": "Election candidates say vandalism and attacks on the rise",
+      "status": "pending",
+      "firstSeenAt": 1791429143.183228,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
