@@ -28594,9 +28594,49 @@
       "status": "pending",
       "firstSeenAt": 1791448977.1883655,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq2d6l0p6ry0o",
+      "provider": "BBC",
+      "title": "What Guardiola said about Man City charges",
+      "status": "pending",
+      "firstSeenAt": 1791449921.1376526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cvj6jk63kwz0o",
+      "provider": "BBC",
+      "title": "Weekly sports quiz: What was odd about Messi's Argentina debut?",
+      "status": "pending",
+      "firstSeenAt": 1791449921.1377962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqzrdmjp5162o",
+      "provider": "BBC",
+      "title": "How can home nations reach Women's World Cup?",
+      "status": "pending",
+      "firstSeenAt": 1791449921.1382906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwnv0j499jrgo",
+      "provider": "BBC",
+      "title": "How early-season data signals Scottish Premiership style shift",
+      "status": "pending",
+      "firstSeenAt": 1791449921.1383367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791449921.357867,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
