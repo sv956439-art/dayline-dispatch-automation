@@ -29906,9 +29906,17 @@
       "status": "pending",
       "firstSeenAt": 1791492688.5341775,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/snowtown-murder-victim-nephew-speaks-out-james-vlassakis/107244324",
+      "provider": "ABC News Australia",
+      "title": "Snowtown killer's outing from prison 'sickening', victim's nephew says",
+      "status": "pending",
+      "firstSeenAt": 1791493354.5927918,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
