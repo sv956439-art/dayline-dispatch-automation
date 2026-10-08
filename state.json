@@ -28714,9 +28714,65 @@
       "status": "pending",
       "firstSeenAt": 1791452881.677854,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckwy48rrz95vo",
+      "provider": "BBC",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "status": "pending",
+      "firstSeenAt": 1791453746.1517882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261007-how-aphrodite-became-a-controversial-sex-symbol",
+      "provider": "BBC",
+      "title": "How Aphrodite became a controversial sex symbol Artworks depicting the ancient Greek goddess of love and beauty, have long been branded obscene. How did she become one of the most controversial figures in the history of art?",
+      "status": "pending",
+      "firstSeenAt": 1791453746.1523244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/supermarket-shakeup-big-brands-ripe-merger",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791453746.4861162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-dock-san-diego",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791453746.4862268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/sherrod-brown-ohio-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791453746.486246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/08/you-be-the-judge-my-friend-and-i-bought-a-tent-but-shes-moved-away-who-owns-it-now",
+      "provider": "The Guardian",
+      "title": "You be the judge: my friend and I bought a tent but she’s moved away. Who owns it now?",
+      "status": "pending",
+      "firstSeenAt": 1791453746.486615,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nt-government-departments-hit-by-network-outage-triple-zero/107245122",
+      "provider": "ABC News Australia",
+      "title": "NT government departments hit by massive network outage",
+      "status": "pending",
+      "firstSeenAt": 1791453747.2337866,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
