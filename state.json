@@ -30058,9 +30058,41 @@
       "status": "pending",
       "firstSeenAt": 1791497988.0760255,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791498952.6937373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/film-shoot-renee-good-pawn-shop-montana",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791498952.6944268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/turtles-return-to-gwydir-wetlands-after-rehab-at-dubbo-zoo/107191652",
+      "provider": "ABC News Australia",
+      "title": "Turtles found buried in metres of mud returned to rejuvenated wetland",
+      "status": "pending",
+      "firstSeenAt": 1791498952.9221995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/khawajas-sandpapergate-book-does-not-worry-cummins/107246108",
+      "provider": "ABC News Australia",
+      "title": "Khawaja's 'Sandpapergate' book does not worry Cummins",
+      "status": "pending",
+      "firstSeenAt": 1791498952.9222493,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
