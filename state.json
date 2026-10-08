@@ -28282,9 +28282,57 @@
       "status": "pending",
       "firstSeenAt": 1791439238.930136,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmd7qnqrzdg1o",
+      "provider": "BBC",
+      "title": "Who am I? Guess Premier League star No 80",
+      "status": "pending",
+      "firstSeenAt": 1791440474.9326723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791440475.2061963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791440475.2065003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791440475.206519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/qld-sam-wood-domestic-violence-court/107239306",
+      "provider": "ABC News Australia",
+      "title": "Sam Wood denied bail on DV charges after allegedly choking wife",
+      "status": "pending",
+      "firstSeenAt": 1791440475.8873546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522",
+      "provider": "ABC News Australia",
+      "title": "An average of 17 older Australians died each day last year waiting for home care",
+      "status": "pending",
+      "firstSeenAt": 1791440475.8882911,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
