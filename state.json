@@ -28458,9 +28458,25 @@
       "status": "pending",
       "firstSeenAt": 1791444189.3640258,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyq4qjj543o",
+      "provider": "BBC",
+      "title": "2 hrs ago Museum gains funding ahead of 30th anniversary Leeds' Thackray Museum of Medicine says the grant will help it plan for the next three decades. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791445225.5289361,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn73m06787ko",
+      "provider": "BBC",
+      "title": "2 hrs ago Property with 'extensive tunnels' goes to auction The Tilehurst property, that includes a hand-built underground railway, will be up for auction this month. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791445225.5289667,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
