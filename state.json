@@ -29762,9 +29762,33 @@
       "status": "pending",
       "firstSeenAt": 1791487823.1336913,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/thousands-refused-blue-cards-in-queensland/107239402",
+      "provider": "ABC News Australia",
+      "title": "Amount of people barred from working with children in Qld nearly doubles",
+      "status": "pending",
+      "firstSeenAt": 1791488775.0535488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/qld-rite-of-passage-ritual-inala/107242852",
+      "provider": "ABC News Australia",
+      "title": "Unique Rite of Passage ritual alive and well in Inala's Indigenous community",
+      "status": "pending",
+      "firstSeenAt": 1791488775.0536044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/woman-represents-herself-wins-damages-child-sex-abuse/107237652",
+      "provider": "ABC News Australia",
+      "title": "Woman wins $460k child sexual abuse case after cross-examining abuser",
+      "status": "pending",
+      "firstSeenAt": 1791488775.0536556,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
