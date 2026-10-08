@@ -29522,9 +29522,25 @@
       "status": "pending",
       "firstSeenAt": 1791481920.4244576,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791482503.5903232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791482503.5909092,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
