@@ -28434,9 +28434,33 @@
       "status": "pending",
       "firstSeenAt": 1791443036.4255662,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791444188.6996071,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942",
+      "provider": "ABC News Australia",
+      "title": "'Vital' major US and Australian-backed rare earths mine moves forward",
+      "status": "pending",
+      "firstSeenAt": 1791444189.3639767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664",
+      "provider": "ABC News Australia",
+      "title": "NT environmental regulator has 'low confidence' in plan for outback data centre",
+      "status": "pending",
+      "firstSeenAt": 1791444189.3640258,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
