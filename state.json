@@ -29066,9 +29066,33 @@
       "status": "pending",
       "firstSeenAt": 1791464789.362484,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g13kdr1w7o",
+      "provider": "BBC",
+      "title": "'Foreign imports are hurting our strawberries'",
+      "status": "pending",
+      "firstSeenAt": 1791466052.3422816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yn8jn677vo",
+      "provider": "BBC",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "status": "pending",
+      "firstSeenAt": 1791466052.342312,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/south-korea-recalls-ambassador-to-ukraine/107245422",
+      "provider": "ABC News Australia",
+      "title": "South Korea recalls ambassador as row with Ukraine escalates",
+      "status": "pending",
+      "firstSeenAt": 1791466053.1422205,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
