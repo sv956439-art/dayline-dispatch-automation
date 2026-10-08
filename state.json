@@ -29154,9 +29154,41 @@
       "status": "pending",
       "firstSeenAt": 1791468006.9295762,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65yndpnk5qdo",
+      "provider": "BBC",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign Bernadette Greene-Placentia says her memory of the attack is spotty after being knocked unconscious.",
+      "status": "pending",
+      "firstSeenAt": 1791468944.0431867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791468944.8648503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/former-labour-mp-shahid-malik-cleared-over-role-fraudulent-covid-19-testing-company",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791468944.8652103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+      "provider": "The Guardian",
+      "title": "Nicolás Maduro’s wife to appear in court to push for release from New York jail",
+      "status": "pending",
+      "firstSeenAt": 1791468944.8655255,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
