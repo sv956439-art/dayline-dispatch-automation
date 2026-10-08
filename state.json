@@ -27986,9 +27986,49 @@
       "status": "pending",
       "firstSeenAt": 1791431990.8725855,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3vqr5rknpeo",
+      "provider": "BBC",
+      "title": "Veteran Indian actor Nana Patekar dies at 75 Known for his intense performances, Patekar carved out a distinctive place in Indian cinema. 32 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1791432873.0888934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdjvg3xww2go",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791432873.2046216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/bolotana-sardinia-centenarians-blue-zone",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791432873.6838396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791432873.6842444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/woman-loses-medical-negligence-claim-leg-amputation/107241634",
+      "provider": "ABC News Australia",
+      "title": "Woman loses medical negligence claim over partially amputated leg",
+      "status": "pending",
+      "firstSeenAt": 1791432874.332965,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
