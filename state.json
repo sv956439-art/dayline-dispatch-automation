@@ -28506,9 +28506,81 @@
       "status": "pending",
       "firstSeenAt": 1791446804.7445543,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rln74yzvxo",
+      "provider": "BBC",
+      "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections. 12 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791447969.3740525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks",
+      "provider": "BBC",
+      "title": "How I changed my personality in six weeks Based on emerging research showing people can shift their core personality traits, Laurie Clarke tried tweaking hers. Here's what happened.",
+      "status": "pending",
+      "firstSeenAt": 1791447969.3748243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20251211-psychedelics-are-altering-how-people-see-their-own-gender-and-sexuality",
+      "provider": "BBC",
+      "title": "Psychedelics are revealing hidden sides to people's identity There is growing evidence that mind-altering drugs can be used to help people explore aspects about themselves they may not have realised.",
+      "status": "pending",
+      "firstSeenAt": 1791447969.3748565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250124-how-yoga-can-rewire-your-brain-and-improve-your-mental-health",
+      "provider": "BBC",
+      "title": "How yoga can rewire your brain Yoga has been found to physically alter your brain in ways which could bring a multitude of physical and mental health benefits.",
+      "status": "pending",
+      "firstSeenAt": 1791447969.374884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cm5yng71qpngo",
+      "provider": "BBC",
+      "title": "F1 heat hazard declared for fourth time this season",
+      "status": "pending",
+      "firstSeenAt": 1791447969.375589,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyr94pdlyno",
+      "provider": "BBC",
+      "title": "How can Guernsey prepare for a hotter future?",
+      "status": "pending",
+      "firstSeenAt": 1791447969.4743829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70p4xl5dneo",
+      "provider": "BBC",
+      "title": "Solar farm project recommended for approval",
+      "status": "pending",
+      "firstSeenAt": 1791447969.4744098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/08/french-minister-invites-uk-to-come-all-the-way-back-to-the-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791447970.2476516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/christa-pike-botched-execution-danger-lethal-injection/107243248",
+      "provider": "ABC News Australia",
+      "title": "Lethal injections are not as humane as suggested, say experts",
+      "status": "pending",
+      "firstSeenAt": 1791447970.9442248,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
