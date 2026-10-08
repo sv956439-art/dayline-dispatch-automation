@@ -30090,9 +30090,33 @@
       "status": "pending",
       "firstSeenAt": 1791498952.9222493,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/curtis-flowers-wrongful-conviction-mississippi-dead",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791499832.860175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791499832.8602028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/tas-hobart-council-louise-elliot-code-of-conduct-decision/107241654",
+      "provider": "ABC News Australia",
+      "title": "Councillor and deputy mayor candidate faces sack if third suspension is upheld",
+      "status": "pending",
+      "firstSeenAt": 1791499833.2912033,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
