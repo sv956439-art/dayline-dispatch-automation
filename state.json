@@ -27722,9 +27722,17 @@
       "status": "pending",
       "firstSeenAt": 1791421483.5334988,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/melton-council-thornhill-park-mount-atkinson-train-stations/107237802",
+      "provider": "ABC News Australia",
+      "title": "Public-private partnership mooted for west Melbourne train stations",
+      "status": "pending",
+      "firstSeenAt": 1791422509.3834407,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
