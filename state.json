@@ -29274,9 +29274,49 @@
       "status": "pending",
       "firstSeenAt": 1791475059.8350375,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly0vzew9e8o",
+      "provider": "BBC",
+      "title": "Two Latvian men arrested on suspicion of trespass at RAF base Police say they apprehended the suspects at about 02:00 while they were inside the perimeter. Just now England",
+      "status": "pending",
+      "firstSeenAt": 1791475911.3530176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63el37g2v5zo",
+      "provider": "BBC",
+      "title": "Millions of bedbugs crawl out of mattresses and walls in huge outbreak An infested house in Cardiff was so bad the mattresses and bed frames had to be incinerated. 4 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791475911.3530357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmn4ex2y53l8o",
+      "provider": "BBC",
+      "title": "Ceferin to stand for fourth term as Uefa president Uefa president Aleksander Ceferin will stand for a fourth term, reversing a previous decision to stand down. 2 hrs ago Football",
+      "status": "pending",
+      "firstSeenAt": 1791475911.415716,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/florida-torture-lawsuit-parviz-sabeti-iran-shah",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791475911.675182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/christa-pike-now-walking-around-hospital-/107245834",
+      "provider": "ABC News Australia",
+      "title": "Botched execution survivor Christa Pike 'up and walking'",
+      "status": "pending",
+      "firstSeenAt": 1791475912.3267453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
