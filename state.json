@@ -27730,9 +27730,25 @@
       "status": "pending",
       "firstSeenAt": 1791422509.3834407,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c687z8127302o",
+      "provider": "BBC",
+      "title": "AI chip boom pushes Samsung profits to record $80bn The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+      "status": "pending",
+      "firstSeenAt": 1791423447.7425032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme8r9r0zxp1o",
+      "provider": "BBC",
+      "title": "Tawny owl rescued from stove pipe by chimney sweep John Soutar found the bird wedged in a pipe at the back of the appliance. 4 hrs ago Tayside and Central",
+      "status": "pending",
+      "firstSeenAt": 1791423447.817258,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
