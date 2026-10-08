@@ -29202,9 +29202,41 @@
       "status": "pending",
       "firstSeenAt": 1791471897.9633944,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5pvgn7xvxpzo",
+      "provider": "BBC",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "status": "pending",
+      "firstSeenAt": 1791473058.4960284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791473058.7390578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791473058.739106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/former-police-chief-gross-misconduct-hampshire-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791473058.7394793,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
