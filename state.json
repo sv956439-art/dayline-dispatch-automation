@@ -29090,9 +29090,41 @@
       "status": "pending",
       "firstSeenAt": 1791466053.1422205,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1exlvpzylvo",
+      "provider": "BBC",
+      "title": "Police accept Andrew search warrants were unlawful, court hears",
+      "status": "pending",
+      "firstSeenAt": 1791467041.6564858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8g47z3r4dzvo",
+      "provider": "BBC",
+      "title": "Chrysler Building to get its crown restored after being sold",
+      "status": "pending",
+      "firstSeenAt": 1791467041.732728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyq34qexdzo",
+      "provider": "BBC",
+      "title": "German chancellor greets UK PM with military honours on Berlin visit Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\". 1 hr ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791467041.7331083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/search-warrants-used-in-andrew-mountbatten-windsor-raids-were-unlawful-court-rules",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791467041.9151368,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
