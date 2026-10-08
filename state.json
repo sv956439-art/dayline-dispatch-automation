@@ -28794,9 +28794,33 @@
       "status": "pending",
       "firstSeenAt": 1791454893.8959835,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/08/queensland-literary-awards-lenora-thaker-the-pearl-of-tagai-town-winner",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791455943.255547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791455943.2560792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/afp-warns-child-abuse-victims-turning-to-ai-chatbots/107244604",
+      "provider": "ABC News Australia",
+      "title": "Kids turning to chatbots to disclose online sexual victimisation",
+      "status": "pending",
+      "firstSeenAt": 1791455943.4616761,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
