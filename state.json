@@ -30114,9 +30114,145 @@
       "status": "pending",
       "firstSeenAt": 1791499833.2912033,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkg7n1ypj24o",
+      "provider": "BBC",
+      "title": "ADHD and autism at risk of over-diagnosis, says government review The review, which focuses on younger age groups, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis or mis-diagnosis. 14 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791501348.5971618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgel9044vqeo",
+      "provider": "BBC",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "status": "pending",
+      "firstSeenAt": 1791501348.5976923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cdr7n610rmzo",
+      "provider": "BBC",
+      "title": "Why are more roofs not made of solar tiles? Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "status": "pending",
+      "firstSeenAt": 1791501348.5978005,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry4xpyzl7qwo",
+      "provider": "BBC",
+      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before' Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
+      "status": "pending",
+      "firstSeenAt": 1791501348.5984826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9dzl7wx2qyo",
+      "provider": "BBC",
+      "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+      "status": "pending",
+      "firstSeenAt": 1791501348.598516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9l0r105l8o",
+      "provider": "BBC",
+      "title": "Forty five Scottish police officers suspended over alleged crimes against women Chief Constable Jo Farrell says more officers are likely to face action as officers are re-vetted. 7 hrs ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791501348.6677525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckpqg9388e7wo",
+      "provider": "BBC",
+      "title": "Spurs' Simons enrols at iconic university Harvard Tottenham's Xavi Simons enrols at prestigious American university Harvard as he continues his recovery from a long-term injury. 54 mins ago Tottenham",
+      "status": "pending",
+      "firstSeenAt": 1791501348.6679826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791501348.9652836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791501348.9653091,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791501348.9653325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/09/new-ofsted-inspection-regime-damaging-teachers-survey-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791501348.9653556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/powderfinger-reunion-concerts-gigs-reform-tour/107243874",
+      "provider": "ABC News Australia",
+      "title": "Powderfinger confirm reunion, 16 years after breaking up",
+      "status": "pending",
+      "firstSeenAt": 1791501349.3642623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/state-takes-over-town-hall-square-project-in-sydney/107246586",
+      "provider": "ABC News Australia",
+      "title": "State government takes control of $150m Sydney Town Hall Square project",
+      "status": "pending",
+      "firstSeenAt": 1791501349.3655124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536",
+      "provider": "ABC News Australia",
+      "title": "Man found dead by police after 'serious incident' in Perth's south",
+      "status": "pending",
+      "firstSeenAt": 1791501349.36556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/cable-beach-broome-foreshore-redevelopment-delays/107230846",
+      "provider": "ABC News Australia",
+      "title": "No end in sight for multi-million-dollar Cable Beach development",
+      "status": "pending",
+      "firstSeenAt": 1791501349.3656108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/michael-robotham-new-book-tell-me-something-true/107239572",
+      "provider": "ABC News Australia",
+      "title": "Michael Robotham's latest novel sat in his bottom drawer for 35 years",
+      "status": "pending",
+      "firstSeenAt": 1791501349.3656476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/arnhem-land-yolngu-artist-and-wife-yumbulul-death/107229676",
+      "provider": "ABC News Australia",
+      "title": "'A real love story': Renowned Yolŋu artist and wife die in same week",
+      "status": "pending",
+      "firstSeenAt": 1791501349.3656921,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
