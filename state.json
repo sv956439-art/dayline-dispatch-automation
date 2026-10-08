@@ -29474,9 +29474,17 @@
       "status": "pending",
       "firstSeenAt": 1791480033.185127,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp8g197m5z8o",
+      "provider": "BBC",
+      "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut The actor opens up about finding his way in the West End as he makes his debut in a revival of Rent. 6 hrs ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1791481001.836019,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
