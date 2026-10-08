@@ -27770,9 +27770,25 @@
       "status": "pending",
       "firstSeenAt": 1791424363.1411667,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/ultramarathons-and-trail-running/106947538",
+      "provider": "ABC News Australia",
+      "title": "Coffee and cake or an ultramarathon? Why people run to extremes",
+      "status": "pending",
+      "firstSeenAt": 1791424948.3978503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412",
+      "provider": "ABC News Australia",
+      "title": "Indonesian government faces wildfires lawsuit as haze blankets region",
+      "status": "pending",
+      "firstSeenAt": 1791424948.3978765,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
