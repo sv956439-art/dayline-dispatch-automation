@@ -28770,9 +28770,33 @@
       "status": "pending",
       "firstSeenAt": 1791453747.2337866,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c875pwq134l3o",
+      "provider": "BBC",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "status": "pending",
+      "firstSeenAt": 1791454893.4952185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqlydk7796wdo",
+      "provider": "BBC",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "status": "pending",
+      "firstSeenAt": 1791454893.4952357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791454893.8959835,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
