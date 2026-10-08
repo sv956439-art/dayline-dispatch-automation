@@ -29786,9 +29786,41 @@
       "status": "pending",
       "firstSeenAt": 1791488775.0536556,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623dv9n93evo",
+      "provider": "BBC",
+      "title": "Harry says he 'slipped into depression' after leaving UK The Duke of Sussex says he had an \"adrenaline crash\" while visiting Vancouver Island to \"get some space\". 1 hr ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791489621.075999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr0j01pdpeqyo",
+      "provider": "BBC",
+      "title": "55 mins ago Group 'guarding' derelict cinema told to leave The occupiers claimed they were protecting the abandoned building from thieves and vandals. 55 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791489621.1327403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/nsw-dogs-on-trains-metros-petition/107233980",
+      "provider": "ABC News Australia",
+      "title": "Renewed push to trial pet-friendly train, metro carriages in NSW",
+      "status": "pending",
+      "firstSeenAt": 1791489621.461799,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/act-lakeside-stadium-original-marion-walter-griffin-plan/107244512",
+      "provider": "ABC News Australia",
+      "title": "Would the Griffins approve of Canberra's proposed waterfront stadium?",
+      "status": "pending",
+      "firstSeenAt": 1791489621.461842,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
