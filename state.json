@@ -28818,9 +28818,57 @@
       "status": "pending",
       "firstSeenAt": 1791455943.4616761,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq2e9xjv0jm2o",
+      "provider": "BBC",
+      "title": "Caretaker killed and two teachers injured in knife attack at Poland school Police say they foiled another school attack on Thursday, and a day after a stabbing at another Polish school.",
+      "status": "pending",
+      "firstSeenAt": 1791456828.572408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cjr4yr3lv24lo",
+      "provider": "BBC",
+      "title": "Bottas arrives in Singapore after 260-mile ride",
+      "status": "pending",
+      "firstSeenAt": 1791456828.5729895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jz9p2ln9zo",
+      "provider": "BBC",
+      "title": "The unlikely bond formed by an Irish indie-folk band and an English football club After playing a bit of Fifa 11, Kingfishr leader singer Eddie Keogh posted a song in tribute to English League One club Wycombe Wanderers.",
+      "status": "pending",
+      "firstSeenAt": 1791456828.5731468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3vqrxx5ggxo",
+      "provider": "BBC",
+      "title": "Path to Green Loch in the Cairngorms reopened after major wildfire",
+      "status": "pending",
+      "firstSeenAt": 1791456828.6416514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791456828.9169257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/ukraine-russia-bus-stop-strike-attack-bomb/107245320",
+      "provider": "ABC News Australia",
+      "title": "Russian attack on bus stop kills at least 33 in Ukraine, officials say",
+      "status": "pending",
+      "firstSeenAt": 1791456829.223433,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
