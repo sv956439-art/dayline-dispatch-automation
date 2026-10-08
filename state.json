@@ -27786,9 +27786,33 @@
       "status": "pending",
       "firstSeenAt": 1791424948.3978765,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791425915.0410802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542",
+      "provider": "ABC News Australia",
+      "title": "US sanctions Fijian businessman over alleged corruption tied with China",
+      "status": "pending",
+      "firstSeenAt": 1791425915.2897894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/spencer-leniu-granted-release-from-sydney-roosters/107242940",
+      "provider": "ABC News Australia",
+      "title": "Roosters lose fifth player after winning NRL premiership",
+      "status": "pending",
+      "firstSeenAt": 1791425915.2898338,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
