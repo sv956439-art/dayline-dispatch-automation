@@ -28946,9 +28946,25 @@
       "status": "pending",
       "firstSeenAt": 1791458463.4307823,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/08/bbc-axes-radio-4-shows-you-and-yours-podcasts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791459463.010009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/08/indiana-fever-and-the-magasphere-a-wnba-teams-dangerous-path-to-popularity",
+      "provider": "The Guardian",
+      "title": "double quotation mark Indiana Fever and the Magasphere: a WNBA team’s dangerous path to popularity",
+      "status": "pending",
+      "firstSeenAt": 1791459463.0104444,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
