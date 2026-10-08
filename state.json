@@ -29002,9 +29002,49 @@
       "status": "pending",
       "firstSeenAt": 1791460972.4568481,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgel9r341gdo",
+      "provider": "BBC",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC revealed secret release",
+      "status": "pending",
+      "firstSeenAt": 1791462410.9783027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxjdw8rdl5o",
+      "provider": "BBC",
+      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "status": "pending",
+      "firstSeenAt": 1791462410.9783201,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/pedro-sanchez-spanish-voters-housing-crisis-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791462411.1669781,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791462411.167208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/107245306",
+      "provider": "ABC News Australia",
+      "title": "Canadian poet and writer Anne Carson wins 2026 Nobel Prize in Literature",
+      "status": "pending",
+      "firstSeenAt": 1791462411.744065,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
