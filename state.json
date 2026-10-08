@@ -27810,9 +27810,49 @@
       "status": "pending",
       "firstSeenAt": 1791425915.2898338,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4g1j2z5zvzo",
+      "provider": "BBC",
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "status": "pending",
+      "firstSeenAt": 1791426804.384487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/wallabies-all-blacks-joseph-aukuso-suaalii-bledisloe-cup/107242770",
+      "provider": "ABC News Australia",
+      "title": "Wallabies resist urge to shift Suaalii from wing for Bledisloe Cup Test",
+      "status": "pending",
+      "firstSeenAt": 1791426805.2269595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/houthi-advances-on-bab-el-mandeb-strait-explained/107202798",
+      "provider": "ABC News Australia",
+      "title": "The 'Gate of Tears' at the centre of Houthis' latest battle for control",
+      "status": "pending",
+      "firstSeenAt": 1791426805.2270117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/business-political-leadership-ato-credit-card-ban-labor/107242634",
+      "provider": "ABC News Australia",
+      "title": "Labor split on ATO credit card ban as businesses call for leadership",
+      "status": "pending",
+      "firstSeenAt": 1791426805.2270393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674",
+      "provider": "ABC News Australia",
+      "title": "Australia wants to regulate AI like banks and airlines",
+      "status": "pending",
+      "firstSeenAt": 1791426805.227087,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
