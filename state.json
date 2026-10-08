@@ -27890,9 +27890,33 @@
       "status": "pending",
       "firstSeenAt": 1791429143.183228,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/mick-mundine-charged-child-sex-assault-allegation/107242280",
+      "provider": "ABC News Australia",
+      "title": "Prominent Indigenous elder charged over child sex assault allegation",
+      "status": "pending",
+      "firstSeenAt": 1791430183.51105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/qld-domestic-violence-police-protection-direction/107240658",
+      "provider": "ABC News Australia",
+      "title": "Domestic violence advocates raise concerns over expansion of police powers",
+      "status": "pending",
+      "firstSeenAt": 1791430183.5118291,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/french-mayor-shown-in-video-protecting-student-protesters/107241744",
+      "provider": "ABC News Australia",
+      "title": "Riot police tear gas French mayor in student demonstrations",
+      "status": "pending",
+      "firstSeenAt": 1791430183.5118783,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
