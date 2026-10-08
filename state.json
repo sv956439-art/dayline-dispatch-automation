@@ -28210,9 +28210,65 @@
       "status": "pending",
       "firstSeenAt": 1791437615.4136794,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx2lggyz2wgo",
+      "provider": "BBC",
+      "title": "Inside the £1-an-hour official football shirt factories A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour.",
+      "status": "pending",
+      "firstSeenAt": 1791438568.3839173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69wzr9qr7qro",
+      "provider": "BBC",
+      "title": "Wonky wych elm in County Down crowned Tree of the Year",
+      "status": "pending",
+      "firstSeenAt": 1791438568.4492688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c699zx0d8zkzo",
+      "provider": "BBC",
+      "title": "Why are there so many mushrooms around this year?",
+      "status": "pending",
+      "firstSeenAt": 1791438568.4492958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9dr8dgz2j5mo",
+      "provider": "BBC",
+      "title": "'The wood is alive': Ranger retires after 38 years",
+      "status": "pending",
+      "firstSeenAt": 1791438568.4493282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rmyzgdjzkwo",
+      "provider": "BBC",
+      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
+      "status": "pending",
+      "firstSeenAt": 1791438568.4493704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791438568.5719862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/thursday-briefing-why-young-people-are-taking-to-the-streets-across-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791438568.5721161,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
