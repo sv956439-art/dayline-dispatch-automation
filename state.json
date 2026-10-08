@@ -29650,9 +29650,41 @@
       "status": "pending",
       "firstSeenAt": 1791484994.9225287,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvrly346j5djo",
+      "provider": "BBC",
+      "title": "Suspended fine for Xhaka over Covid-19 certificate",
+      "status": "pending",
+      "firstSeenAt": 1791485959.470204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/south-africa-vs-australia-test-series-when-is-it-what-time-where/107232566",
+      "provider": "ABC News Australia",
+      "title": "South Africa vs Australia Test series, everything you need to know",
+      "status": "pending",
+      "firstSeenAt": 1791485960.2250264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/katie-lynch-aflw-pride-round-gold-coast-suns/107229526",
+      "provider": "ABC News Australia",
+      "title": "Katie Lynch wants to see AFL 'harness the momentum' of Pride Round",
+      "status": "pending",
+      "firstSeenAt": 1791485960.2250557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/car-burnt-in-hampton-park-driveway-melbourne/107245944",
+      "provider": "ABC News Australia",
+      "title": "Car burnt in driveway in Melbourne's south-east 14th this week",
+      "status": "pending",
+      "firstSeenAt": 1791485960.2251,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
