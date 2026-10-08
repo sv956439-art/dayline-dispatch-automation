@@ -28666,9 +28666,17 @@
       "status": "pending",
       "firstSeenAt": 1791450761.950909,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/matildas-coach-backs-mary-fowler-absence-from-friendlies/107245238",
+      "provider": "ABC News Australia",
+      "title": "Matildas coach backs Mary Fowler's absence from friendlies",
+      "status": "pending",
+      "firstSeenAt": 1791451838.9932535,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
