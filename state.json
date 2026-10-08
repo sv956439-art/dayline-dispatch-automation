@@ -27666,9 +27666,25 @@
       "status": "pending",
       "firstSeenAt": 1791418817.3039775,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791420407.162435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/first-images-of-snowtown-murderer-james-vlassakis/107242384",
+      "provider": "ABC News Australia",
+      "title": "Snowtown serial killer James Vlassakis walks out of Adelaide Pre-release Centre",
+      "status": "pending",
+      "firstSeenAt": 1791420407.4052634,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
