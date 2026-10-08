@@ -28026,9 +28026,17 @@
       "status": "pending",
       "firstSeenAt": 1791432874.332965,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price",
+      "provider": "The Guardian",
+      "title": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’",
+      "status": "pending",
+      "firstSeenAt": 1791433922.9740012,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
