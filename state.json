@@ -29618,9 +29618,41 @@
       "status": "pending",
       "firstSeenAt": 1791483589.0232472,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvrly3el4e63o",
+      "provider": "BBC",
+      "title": "'It's changed my life' - Eckert on Spygate scandal Southampton head coach Tonda Eckert says the Spygate scandal is an experience that has changed his life. 3 hrs ago Southampton",
+      "status": "pending",
+      "firstSeenAt": 1791484993.8257594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791484994.3512526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/botswana-okavango-delta-young-conservationists/107185434",
+      "provider": "ABC News Australia",
+      "title": "Botswana's UNESCO wetlands offers lessons for Australia",
+      "status": "pending",
+      "firstSeenAt": 1791484994.9224544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/troye-sivan-interview-shes-the-best-with-madonna-ian-mckellen/107242332",
+      "provider": "ABC News Australia",
+      "title": "How Madonna and Gandalf ended up on Troye Sivan's new album",
+      "status": "pending",
+      "firstSeenAt": 1791484994.9225287,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
