@@ -28578,9 +28578,25 @@
       "status": "pending",
       "firstSeenAt": 1791447970.9442248,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlyknj8wj30o",
+      "provider": "BBC",
+      "title": "BBC to cut raft of Radio 4 programmes including You and Yours The corporation said it would be investing in a new consumer programme, while announcing more cuts.",
+      "status": "pending",
+      "firstSeenAt": 1791448976.507119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/british-diplomats-to-remain-at-renamed-jerusalem-consulate/107244832",
+      "provider": "ABC News Australia",
+      "title": "UK to continue 'vital services' after Jerusalem consulate ends functions",
+      "status": "pending",
+      "firstSeenAt": 1791448977.1883655,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
