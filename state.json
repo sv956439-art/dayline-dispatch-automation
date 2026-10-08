@@ -28330,9 +28330,57 @@
       "status": "pending",
       "firstSeenAt": 1791440475.8882911,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw33xd6vegnno",
+      "provider": "BBC",
+      "title": "Israel says British consulate in East Jerusalem to end operations Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "status": "pending",
+      "firstSeenAt": 1791441929.9536417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706",
+      "provider": "ABC News Australia",
+      "title": "Angus Taylor tries to find his place on the migration middle road",
+      "status": "pending",
+      "firstSeenAt": 1791441931.0204432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/nasa-spacex-crew-12-return-to-earth-explained/107239878",
+      "provider": "ABC News Australia",
+      "title": "Another NASA crew is coming home. Here's what to expect from their splashdown",
+      "status": "pending",
+      "firstSeenAt": 1791441931.0216372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/bathurst-1000-supercars-kai-allen-fastest-practice-thursday/107244458",
+      "provider": "ABC News Australia",
+      "title": "Kai Allen shines as Ford gets engine change for Bathurst",
+      "status": "pending",
+      "firstSeenAt": 1791441931.0216641,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/alleged-isis-propagandist-mohamed-bakit-granted-bail/107244368",
+      "provider": "ABC News Australia",
+      "title": "Melbourne man accused of spreading Islamic State material granted bail",
+      "status": "pending",
+      "firstSeenAt": 1791441931.0217097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378",
+      "provider": "ABC News Australia",
+      "title": "Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper",
+      "status": "pending",
+      "firstSeenAt": 1791441931.0217896,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
