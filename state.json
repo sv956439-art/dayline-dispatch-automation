@@ -28474,9 +28474,17 @@
       "status": "pending",
       "firstSeenAt": 1791445225.5289667,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw203n6emde8o",
+      "provider": "BBC",
+      "title": "Royal Navy service member charged with spying The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire. 15 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791446120.8058696,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
