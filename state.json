@@ -30010,9 +30010,25 @@
       "status": "pending",
       "firstSeenAt": 1791496329.3246405,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/brisbane-lions-slump-in-aflw-2026/107244736",
+      "provider": "ABC News Australia",
+      "title": "Brisbane Lions slump a long time coming for AFLW powerhouse",
+      "status": "pending",
+      "firstSeenAt": 1791496951.2453952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/prince-harry-speaks-of-mental-health-challenges/107246158",
+      "provider": "ABC News Australia",
+      "title": "Prince Harry says he 'slipped into depression' after royal split",
+      "status": "pending",
+      "firstSeenAt": 1791496951.2454276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
