@@ -30250,9 +30250,41 @@
       "status": "pending",
       "firstSeenAt": 1791501349.3656921,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8rzjv8g7ejo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791503090.4285874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqd09g4l2k9yo",
+      "provider": "BBC",
+      "title": "'Add me to WhatsApp' scam calls to be investigated The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam. 38 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791503090.4287193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/tas-nurse-followed-to-car-rhh-parking/107244120",
+      "provider": "ABC News Australia",
+      "title": "Nurse says hospital parking fix needed after being chased to her car",
+      "status": "pending",
+      "firstSeenAt": 1791503090.8853097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/new-training-spaces-open-at-woorabinda-s-wadja-wadja-high-school/107203092",
+      "provider": "ABC News Australia",
+      "title": "Students run hairdressers and cafe at remote Indigenous school",
+      "status": "pending",
+      "firstSeenAt": 1791503090.8853593,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
