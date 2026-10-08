@@ -28962,9 +28962,33 @@
       "status": "pending",
       "firstSeenAt": 1791459463.0104444,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c689zxd8w87lo",
+      "provider": "BBC",
+      "title": "Three sisters who drowned in sea off British coast took own lives, inquest finds The bodies of Jane Adetoro, Christina Walters and Rebecca Walters were pulled from the sea in May. 9 mins ago Sussex",
+      "status": "pending",
+      "firstSeenAt": 1791460346.3078594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791460346.6994557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791460346.6999013,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
