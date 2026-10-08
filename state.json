@@ -28674,9 +28674,49 @@
       "status": "pending",
       "firstSeenAt": 1791451838.9932535,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6y93qq5175wo",
+      "provider": "BBC",
+      "title": "Clubs fear political interference in Man City appeal Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments. 30 mins ago Man City",
+      "status": "pending",
+      "firstSeenAt": 1791452881.4795053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yn8j8ge43o",
+      "provider": "BBC",
+      "title": "At least five arrested over Renoir museum theft The two paintings by the French artist stolen in last month's heist have yet to be recovered.",
+      "status": "pending",
+      "firstSeenAt": 1791452881.4800177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3zxjdw5ywgpo",
+      "provider": "BBC",
+      "title": "Asos warns customers about full extent of data breach after BBC contacted by hackers Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.",
+      "status": "pending",
+      "firstSeenAt": 1791452881.4801211,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckn9rg24drw1o",
+      "provider": "BBC",
+      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am' The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
+      "status": "pending",
+      "firstSeenAt": 1791452881.480371,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/wrexham-rochdale-train-services-rejected-west-coast-line-blackpool-london",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791452881.677854,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
