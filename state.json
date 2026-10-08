@@ -29194,9 +29194,17 @@
       "status": "pending",
       "firstSeenAt": 1791470199.5341992,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cr4g1z3913z1o",
+      "provider": "BBC",
+      "title": "Cummins not worried about potential Khawaja revelations",
+      "status": "pending",
+      "firstSeenAt": 1791471897.9633944,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
