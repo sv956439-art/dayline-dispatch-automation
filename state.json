@@ -28866,9 +28866,41 @@
       "status": "pending",
       "firstSeenAt": 1791456829.223433,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/cw146l6pnvx0o",
+      "provider": "BBC",
+      "title": "Isaias becomes the first Atlantic hurricane of 2026",
+      "status": "pending",
+      "firstSeenAt": 1791457379.1757798,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qk0p043kdo",
+      "provider": "BBC",
+      "title": "Seventh man bailed in connection with RAF Fairford incident A 22 year-old British national was arrested on Tuesday as part of the investigation into the incident near the airbase in Gloucestershire in September. 7 mins ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1791457379.1761003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm0e35gzgdqeo",
+      "provider": "BBC",
+      "title": "How Brighton attract and develop the best young players ahead of their rivals Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game. 23 mins ago Brighton",
+      "status": "pending",
+      "firstSeenAt": 1791457379.1762528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/08/baby-rare-heterotaxy-syndrome-louisiana",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791457379.3380964,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
