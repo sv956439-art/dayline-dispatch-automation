@@ -28266,9 +28266,25 @@
       "status": "pending",
       "firstSeenAt": 1791438568.5721161,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckwy4xygw1rxo",
+      "provider": "BBC",
+      "title": "Suffragette role is a 'gift' says Beverley Knight The Wolverhampton-born singer stars as suffragette leader Emmeline Pankhurst in Sylvia the musical.",
+      "status": "pending",
+      "firstSeenAt": 1791439238.8486335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/motorsport/articles/c68xkx9gqv89o",
+      "provider": "BBC",
+      "title": "Faster than F1: The extreme motorsport where women keep winning Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles. 18 mins ago Motorsport",
+      "status": "pending",
+      "firstSeenAt": 1791439238.930136,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
