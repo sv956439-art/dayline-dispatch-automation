@@ -28986,9 +28986,25 @@
       "status": "pending",
       "firstSeenAt": 1791460346.6999013,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg79wz9v2yo",
+      "provider": "BBC",
+      "title": "Bear kills man in home attack near Mongolian capital Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman. 9 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1791460972.4556139,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261001-canadas-bizarre-mummified-toe-cocktail",
+      "provider": "BBC",
+      "title": "Canada's bizarre mummified toe cocktail",
+      "status": "pending",
+      "firstSeenAt": 1791460972.4568481,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
