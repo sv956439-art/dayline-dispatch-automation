@@ -29538,9 +29538,89 @@
       "status": "pending",
       "firstSeenAt": 1791482503.5909092,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9e8ld448km8o",
+      "provider": "BBC",
+      "title": "Adidas sues Australian label White Fox over four stripes design The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "status": "pending",
+      "firstSeenAt": 1791483587.8068051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8wyz69r0nnpo",
+      "provider": "BBC",
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary? Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "status": "pending",
+      "firstSeenAt": 1791483587.8069189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly4jg32qjqo",
+      "provider": "BBC",
+      "title": "Government gives go-ahead to major solar farm",
+      "status": "pending",
+      "firstSeenAt": 1791483587.8885856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/sophie-molineux-australian-womens-cricket-captain/107242818",
+      "provider": "ABC News Australia",
+      "title": "The duality of Australia's newest cricket captain Sophie Molineux",
+      "status": "pending",
+      "firstSeenAt": 1791483589.021721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/pentobarbital-lethal-injection-explained/107244432",
+      "provider": "ABC News Australia",
+      "title": "'Excruciating' pain and 'dead' tissue: The drug of choice for US executions",
+      "status": "pending",
+      "firstSeenAt": 1791483589.0217693,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/taiwan-restart-nuclear-power-plants-locals-response/107229114",
+      "provider": "ABC News Australia",
+      "title": "Taiwan's return to nuclear power driven by AI hunger for electricity",
+      "status": "pending",
+      "firstSeenAt": 1791483589.0218132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/how-australian-tobacco-cartels-funnel-cash-offshore/107232058",
+      "provider": "ABC News Australia",
+      "title": "'Essentially unstoppable': How tobacco cartels funnel cash offshore",
+      "status": "pending",
+      "firstSeenAt": 1791483589.0218568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/michelle-grattan-migration-policy-liberal-party/107242754",
+      "provider": "ABC News Australia",
+      "title": "Unless you're Hanson, migration can be a dangerous sinkhole",
+      "status": "pending",
+      "firstSeenAt": 1791483589.0219007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/oct-9-news-quiz/107242632",
+      "provider": "ABC News Australia",
+      "title": "Friday news quiz: Exploding cans, rejected credit cards and dapper animals",
+      "status": "pending",
+      "firstSeenAt": 1791483589.0219615,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/australian-mortgages-compare-united-states-japan-south-korea/107237648",
+      "provider": "ABC News Australia",
+      "title": "How Australian mortgages compare to the US, Japan and South Korea",
+      "status": "pending",
+      "firstSeenAt": 1791483589.0232472,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
