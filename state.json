@@ -29914,9 +29914,49 @@
       "status": "pending",
       "firstSeenAt": 1791493354.5927918,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crgj96ww6x4eo",
+      "provider": "BBC",
+      "title": "Real seek McTominay move - Friday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791494390.6848364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791494390.8292809,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/mentally-impaired-wa-prisoner-kept-in-jail-illegally/107235922",
+      "provider": "ABC News Australia",
+      "title": "Man kept in jail illegally amid psychiatric facility bed shortage",
+      "status": "pending",
+      "firstSeenAt": 1791494391.2593951,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/tasmanian-redundancy-tax-bungle-state-service-employees/107244396",
+      "provider": "ABC News Australia",
+      "title": "Tax bungle by government could impact workers if ATO chases money",
+      "status": "pending",
+      "firstSeenAt": 1791494391.259444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/nsw-towns-hit-by-backpacker-shortage-seek-dama-listing/107221046",
+      "provider": "ABC News Australia",
+      "title": "Coastal businesses fear backpacker visa cap will drive workers away",
+      "status": "pending",
+      "firstSeenAt": 1791494391.259489,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
