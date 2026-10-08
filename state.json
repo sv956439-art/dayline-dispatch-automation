@@ -28106,9 +28106,73 @@
       "status": "pending",
       "firstSeenAt": 1791435704.8510358,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c81dldewl5gwo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791436622.6045182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2qlz7qrd4o",
+      "provider": "BBC",
+      "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled. 10 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1791436622.6045742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791436623.3351445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/08/luton-white-people-feel-safe-in-supposed-no-go-zones",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791436623.3351579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/qld-mining-sector-concerns-nsw-high-court-emissions-decision/107242190",
+      "provider": "ABC News Australia",
+      "title": "Biggest coal-producing state fears High Court emissions decision",
+      "status": "pending",
+      "firstSeenAt": 1791436623.616405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/group-of-individuals-impacted-by-st-andrews-hospital-data-breach/107243514",
+      "provider": "ABC News Australia",
+      "title": "Data breach reported at SA private hospital",
+      "status": "pending",
+      "firstSeenAt": 1791436623.61643,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/jake-weatherald-out-of-sheffield-shield-match-with-concussion/107244118",
+      "provider": "ABC News Australia",
+      "title": "Dropped Aussie opener out of Sheffield Shield match with concussion",
+      "status": "pending",
+      "firstSeenAt": 1791436623.6164525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/six-deaths-in-six-years-along-western-highway-near-dadswells/107241850",
+      "provider": "ABC News Australia",
+      "title": "Drivers 'sitting ducks' on deadly Western Highway stretch, resident says",
+      "status": "pending",
+      "firstSeenAt": 1791436623.6164744,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
