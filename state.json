@@ -28034,9 +28034,57 @@
       "status": "pending",
       "firstSeenAt": 1791433922.9740012,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791434973.0254493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/little-women-queensland-theatre-company-2027-season-dan-evans/107235680",
+      "provider": "ABC News Australia",
+      "title": "Female rage inspires new adaptation of classic novel Little Women",
+      "status": "pending",
+      "firstSeenAt": 1791434973.8138623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/bathurst-1000-peter-brock-20-years-death/107243664",
+      "provider": "ABC News Australia",
+      "title": "'Live on forever': Brock inspires Bathurst 20 years on",
+      "status": "pending",
+      "firstSeenAt": 1791434973.8143737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/act-machete-attempted-murder-trial-abandoned-jury-dismissed/107243622",
+      "provider": "ABC News Australia",
+      "title": "Canberra attempted murder trial over alleged machete attack abandoned",
+      "status": "pending",
+      "firstSeenAt": 1791434973.8144176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/wa-energy-sector-sounding-alarm-over-high-court-ruling/107239890",
+      "provider": "ABC News Australia",
+      "title": "WA's oil and gas industry watches impact of High Court ruling closely",
+      "status": "pending",
+      "firstSeenAt": 1791434973.8144557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-08/art-loan-scheme-in-doubt-amid-tasmanian-cost-cutting/107238918",
+      "provider": "ABC News Australia",
+      "title": "Art loan scheme on chopping block amid Tasmanian cost cutting",
+      "status": "pending",
+      "firstSeenAt": 1791434973.8145,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
