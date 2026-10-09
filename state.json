@@ -31282,9 +31282,25 @@
       "status": "pending",
       "firstSeenAt": 1791544844.9805486,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c615jzgej9zko",
+      "provider": "BBC",
+      "title": "In-form Carpenter aims to advance England case by outshining Furbank",
+      "status": "pending",
+      "firstSeenAt": 1791545720.4657545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236",
+      "provider": "ABC News Australia",
+      "title": "Two stolen Renoir paintings found, six arrested",
+      "status": "pending",
+      "firstSeenAt": 1791545721.6793349,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
