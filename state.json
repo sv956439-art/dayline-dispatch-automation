@@ -31146,9 +31146,57 @@
       "status": "pending",
       "firstSeenAt": 1791538368.7626328,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261008-the-true-story-of-alchemist-nicholas-flamel-and-the-philosophers-stone",
+      "provider": "BBC",
+      "title": "'The legend is so strong': The truth about Nicolas Flamel and the philosophers' stone The myth of Nicolas and Pernelle Flamel, medieval Parisians said to have made gold with a philosophers' stone, sparked a centuries-long obsession. Here's the real story.",
+      "status": "pending",
+      "firstSeenAt": 1791539430.9877324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wvqw4lzdvo",
+      "provider": "BBC",
+      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream Alonzo Lunsford tells the BBC he wants Nidal Hasan to look him in the eye when the military firing squad pulls the trigger.",
+      "status": "pending",
+      "firstSeenAt": 1791539430.9886806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cm0e0w5ele7wo",
+      "provider": "BBC",
+      "title": "Russell fastest from Leclerc in Singapore practice",
+      "status": "pending",
+      "firstSeenAt": 1791539430.9893477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "provider": "The Guardian",
+      "title": "Navanethem ‘Navi’ Pillay wins Nobel peace prize",
+      "status": "pending",
+      "firstSeenAt": 1791539431.403409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/why-eu-failing-act-growing-public-criticism-israel-gaza-west-bank",
+      "provider": "The Guardian",
+      "title": "‘Self-imposed irrelevance’: why the EU is failing to act on growing public criticism of Israel",
+      "status": "pending",
+      "firstSeenAt": 1791539431.4034736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/busselton-couple-jailed-for-fatal-torture-of-puppy/107243008",
+      "provider": "ABC News Australia",
+      "title": "Couple jailed for torturing 11-week-old puppy to death",
+      "status": "pending",
+      "firstSeenAt": 1791539432.0416543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
