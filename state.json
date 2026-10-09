@@ -31202,9 +31202,33 @@
       "status": "pending",
       "firstSeenAt": 1791540142.2079983,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz7xe37g5wro",
+      "provider": "BBC",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "status": "pending",
+      "firstSeenAt": 1791541281.3882165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261008-ai-fears-are-growing-and-unsettling-new-film-artificial-puts-them-and-the-future-of-humanity-centre-stage",
+      "provider": "BBC",
+      "title": "Unsettling new film Artificial amplifies AI fears Luca Guadagnino's new film about Open AI and its co-founders Sam Altman and Ilya Sutskever offers a stark warning. Given recent news, its release couldn't be more provocatively timed.",
+      "status": "pending",
+      "firstSeenAt": 1791541281.3887153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel",
+      "provider": "The Guardian",
+      "title": "double quotation mark How do human beings rationalize genocide? NAZA provides a chilling look",
+      "status": "pending",
+      "firstSeenAt": 1791541282.088278,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
