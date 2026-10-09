@@ -30466,9 +30466,25 @@
       "status": "pending",
       "firstSeenAt": 1791512379.7263796,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791513343.5744767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/chile-floods-spark-disaster-declaration-weather-alerts/107247066",
+      "provider": "ABC News Australia",
+      "title": "Chile declares disaster after flash floods wash away vehicles and trap people",
+      "status": "pending",
+      "firstSeenAt": 1791513344.4237542,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
