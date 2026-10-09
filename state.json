@@ -31962,9 +31962,73 @@
       "status": "pending",
       "firstSeenAt": 1791569964.0172863,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck20r39nl3qzo",
+      "provider": "BBC",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "status": "pending",
+      "firstSeenAt": 1791571197.5249128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdxwn9dr42yo",
+      "provider": "BBC",
+      "title": "3 Man named Hitler Mussolini elected mayor in Peru",
+      "status": "pending",
+      "firstSeenAt": 1791571197.5923607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791571197.8339918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791571197.834452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/judith-lucy-breast-cancer-treatment-survivor-perspective/107239512",
+      "provider": "ABC News Australia",
+      "title": "Judith Lucy's cancer journey will reveal resilience she didn't know she had",
+      "status": "pending",
+      "firstSeenAt": 1791571198.4455798,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/guano-mine-rehabilitation-on-lady-elliot-island-birds-return/107138364",
+      "provider": "ABC News Australia",
+      "title": "Family turns bare island into reef oasis after guano mining destroys it",
+      "status": "pending",
+      "firstSeenAt": 1791571198.4455948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/nobel-winner-john-galsworthy-met-joseph-conrad-at-port-adelaide/107241272",
+      "provider": "ABC News Australia",
+      "title": "Two men met on a Port Adelaide ship — a Nobel and Apocalypse Now ensued",
+      "status": "pending",
+      "firstSeenAt": 1791571198.445618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/abc-5050-quiz/107247140",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Test your knowledge of Jimi Hendrix's charred guitar, plus cosmic particles",
+      "status": "pending",
+      "firstSeenAt": 1791571198.4456391,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
