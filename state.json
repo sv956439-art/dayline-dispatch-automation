@@ -30498,9 +30498,33 @@
       "status": "pending",
       "firstSeenAt": 1791514856.3189096,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/federal-government-drops-disaster-funding-changes/107247772",
+      "provider": "ABC News Australia",
+      "title": "Federal government backtracks on disaster funding split",
+      "status": "pending",
+      "firstSeenAt": 1791515799.2146618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/mclaren-driver-among-eight-charged-over-alleged-extreme-speeds/107247880",
+      "provider": "ABC News Australia",
+      "title": "McLaren driver clocked allegedly doing 259km/h on WA highway",
+      "status": "pending",
+      "firstSeenAt": 1791515799.2156792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/rider-safety-behind-attempt-to-block-adelaide-motogp/107247162",
+      "provider": "ABC News Australia",
+      "title": "Rider safety behind attempt to halt MotoGP, game developer tells court",
+      "status": "pending",
+      "firstSeenAt": 1791515799.2157266,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
