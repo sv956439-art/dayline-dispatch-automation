@@ -32066,9 +32066,57 @@
       "status": "pending",
       "firstSeenAt": 1791572812.361098,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791573749.8500807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/bathurst-1000-drivers-prepare-for-top-10-shootout/107232628",
+      "provider": "ABC News Australia",
+      "title": "Young gun favourite for Bathurst shootout as Kostecki attempts record feat",
+      "status": "pending",
+      "firstSeenAt": 1791573750.1630516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/wallabies-all-blacks-dave-rennie-harry-wilson-bledisloe-cup-test/107249598",
+      "provider": "ABC News Australia",
+      "title": "Wallabies join former boss Rennie in mutual admiration society",
+      "status": "pending",
+      "firstSeenAt": 1791573750.1630828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/death-penalty-opinion-us-politics/107248172",
+      "provider": "ABC News Australia",
+      "title": "The number of US executions had dwindled. Last year, that all changed",
+      "status": "pending",
+      "firstSeenAt": 1791573750.1631303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/lani-pallister-beats-katie-ledecky-aims-for-olympics/107242832",
+      "provider": "ABC News Australia",
+      "title": "She's finally beaten Ledecky, now Pallister wants Olympic gold",
+      "status": "pending",
+      "firstSeenAt": 1791573750.1631682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/cornell-university-rape-allegation-spotlights-fraternity-culture/107231536",
+      "provider": "ABC News Australia",
+      "title": "America's frat houses face calls to close as rape case anger swells",
+      "status": "pending",
+      "firstSeenAt": 1791573750.163212,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
