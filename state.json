@@ -30850,9 +30850,57 @@
       "status": "pending",
       "firstSeenAt": 1791525802.231895,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70p821d6w4o",
+      "provider": "BBC",
+      "title": "UK Green party leader Polanski faces greatest crisis of leadership so far The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss. 2 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791527196.1217248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv2d6x749lwro",
+      "provider": "BBC",
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work? The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans. 1 hr ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791527196.121744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmy4x3908kpqo",
+      "provider": "BBC",
+      "title": "Maresca will be demanding a siege mentality from Man City - Pulis BBC Sport columnist Tony Pulis explains why Manchester City players have a great chance to show unity and togetherness when they travel to Anfield on Sunday. 60 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791527196.122027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791527196.4681423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791527196.4683414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/bathurst-1000-supercars-zach-bates-qualifying-ryan-wood-crash/107232632",
+      "provider": "ABC News Australia",
+      "title": "Bates dedicates historic Bathurst lap to late mum after stunning qualifying",
+      "status": "pending",
+      "firstSeenAt": 1791527196.9440193,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
