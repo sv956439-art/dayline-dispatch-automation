@@ -32586,9 +32586,25 @@
       "status": "pending",
       "firstSeenAt": 1791587576.0201588,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5nlqnn184o",
+      "provider": "BBC",
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation Students taking to the streets in France have become a focal point in the country's increasingly polarised politics. Just now Europe",
+      "status": "pending",
+      "firstSeenAt": 1791588452.3795474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/-fishtok-trend-creates-fishing-boom-among-young-victorians/107239358",
+      "provider": "ABC News Australia",
+      "title": "'FishTok' trend creates fishing boom among young Victorians",
+      "status": "pending",
+      "firstSeenAt": 1791588453.7806602,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
