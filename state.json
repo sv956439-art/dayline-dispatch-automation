@@ -31794,9 +31794,41 @@
       "status": "pending",
       "firstSeenAt": 1791563961.3418722,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cqly055pnn8go",
+      "provider": "BBC",
+      "title": "Super Bowl-winning player and coach Ditka dies aged 86 NFL icon Mike Ditka, who coached the Chicago Bears to the Super Bowl XX title in 1986, dies aged 86. 22 mins ago American Football",
+      "status": "pending",
+      "firstSeenAt": 1791564916.8069146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgkvj10k6lno",
+      "provider": "BBC",
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+      "status": "pending",
+      "firstSeenAt": 1791564916.8931096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/ed-davey-faces-growing-revolt-against-leadership-as-senior-lib-dem-mp-quits",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791564917.2509875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/live-stream-execution-fort-hood-shooter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791564917.251095,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
