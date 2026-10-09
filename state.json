@@ -32210,9 +32210,41 @@
       "status": "pending",
       "firstSeenAt": 1791576742.9327447,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8rn65yj2ko",
+      "provider": "BBC",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "status": "pending",
+      "firstSeenAt": 1791577651.0094323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/luigi-mangione-state-charges-new-york",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791577651.3152869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/beau-lamarre-condon-trial-text-messages-jesse-baird-colleague/107243250",
+      "provider": "ABC News Australia",
+      "title": "Beau Lamarre-Condon's messages about Jesse Baird before alleged murders",
+      "status": "pending",
+      "firstSeenAt": 1791577651.7089958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/sa-traders-increase-security-fear-of-pokemon-card-thefts/107247058",
+      "provider": "ABC News Australia",
+      "title": "Shop owners ramp up security due to rise in Pokémon card thefts",
+      "status": "pending",
+      "firstSeenAt": 1791577651.7097468,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
