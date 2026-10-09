@@ -30362,9 +30362,33 @@
       "status": "pending",
       "firstSeenAt": 1791509845.9501436,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg47lx1pqlko",
+      "provider": "BBC",
+      "title": "'I rage and I don't care': Why women are reclaiming their anger Studies suggest women are getting angrier, but are they just more open about it? 2 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1791510781.6624765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/language-charity-with-16m-kitty-has-links-to-white-nationalists/107242196",
+      "provider": "ABC News Australia",
+      "title": "Victorian language charity with $16m kitty has links to white nationalists",
+      "status": "pending",
+      "firstSeenAt": 1791510782.389058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/bathurst-1000-supercars-ryan-wood-tony-dalberto-crash-friday/107232632",
+      "provider": "ABC News Australia",
+      "title": "Kiwi driver endures 42G impact from high-speed crash at Bathurst",
+      "status": "pending",
+      "firstSeenAt": 1791510782.3897886,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
