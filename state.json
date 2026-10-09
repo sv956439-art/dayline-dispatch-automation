@@ -32026,9 +32026,41 @@
       "status": "pending",
       "firstSeenAt": 1791571198.4456391,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rmy73zr0rro",
+      "provider": "BBC",
+      "title": "Commentator Katie Zacharia picked as new White House press secretary The conservative commentator currently works as a communications adviser at Trump Media & Technology Group. Just now US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791572180.4112713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm9dz5e19jxjo",
+      "provider": "BBC",
+      "title": "Edwards joins Argentina as defence coach",
+      "status": "pending",
+      "firstSeenAt": 1791572180.5203469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjn5v7zdrp5po",
+      "provider": "BBC",
+      "title": "Will anyone stop re-election of Infantino as Fifa president?",
+      "status": "pending",
+      "firstSeenAt": 1791572180.5204053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm89z77egpw5o",
+      "provider": "BBC",
+      "title": "Decision to stay at Celtic did not take long - O'Neill",
+      "status": "pending",
+      "firstSeenAt": 1791572180.520915,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
