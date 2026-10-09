@@ -30482,9 +30482,17 @@
       "status": "pending",
       "firstSeenAt": 1791513344.4237542,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/gippsland-earthquakes-normal-aftershocks/106745856",
+      "provider": "ABC News Australia",
+      "title": "Gippsland registers nine earthquakes in six days",
+      "status": "pending",
+      "firstSeenAt": 1791514202.8300135,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
