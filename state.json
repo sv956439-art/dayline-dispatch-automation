@@ -31066,9 +31066,17 @@
       "status": "pending",
       "firstSeenAt": 1791533273.4618857,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/inquest-marilyn-wallman-disappearance-noel-morris-alibi/107249362",
+      "provider": "ABC News Australia",
+      "title": "Person of interest given alibi in schoolgirl's disappearance",
+      "status": "pending",
+      "firstSeenAt": 1791534453.1461992,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
