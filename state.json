@@ -30954,9 +30954,57 @@
       "status": "pending",
       "firstSeenAt": 1791529563.4807072,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjzxz9yp1kq9o",
+      "provider": "BBC",
+      "title": "'Careless use of AI is the real threat - not the ghost stories' Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+      "status": "pending",
+      "firstSeenAt": 1791530698.086254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crn8wg221lnvo",
+      "provider": "BBC",
+      "title": "How Arteta's response to Brighton loss may shape Arsenal's next chapter",
+      "status": "pending",
+      "firstSeenAt": 1791530698.086517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglw9ryjrylo",
+      "provider": "BBC",
+      "title": "42 mins ago Why Elon Musk is taking on India's richest man over Starlink Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India. 42 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791530698.4001017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy93j9p9y7no",
+      "provider": "BBC",
+      "title": "2 hrs ago University scheme to help firms 'adopt robotics' The £3.67m Yorkshire Robotics Hub at the University of Bradford is hoping to bridge the \"automation gap\". 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791530698.4001384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyvdn7djnpo",
+      "provider": "BBC",
+      "title": "2 hrs ago UK robotics hubs to drive adoption of new tech The government says the hubs will support businesses and public services across the country. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791530698.40016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/mundella-sale-last-minute-rescue-deal-saves-wa-dairy/107247990",
+      "provider": "ABC News Australia",
+      "title": "Sale rescues landmark WA dairy brands from collapse",
+      "status": "pending",
+      "firstSeenAt": 1791530698.8287065,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
