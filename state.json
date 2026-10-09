@@ -32354,9 +32354,25 @@
       "status": "pending",
       "firstSeenAt": 1791581887.7244627,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6d93ql8jvdko",
+      "provider": "BBC",
+      "title": "Arteta's conscience clear over Man City charges",
+      "status": "pending",
+      "firstSeenAt": 1791582752.7443051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791582753.0110924,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
