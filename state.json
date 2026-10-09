@@ -31122,9 +31122,33 @@
       "status": "pending",
       "firstSeenAt": 1791537207.7874322,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlydn8d3lkjo",
+      "provider": "BBC",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety' The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "status": "pending",
+      "firstSeenAt": 1791538368.2804275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/nobel-peace-prize-2026-winner-judge-navi-pillay/107249984",
+      "provider": "ABC News Australia",
+      "title": "Nobel Peace Prize awarded to Judge Navi Pillay",
+      "status": "pending",
+      "firstSeenAt": 1791538368.761274,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/perth-bears-ceo-anthony-de-ceglie-steps-down/107250116",
+      "provider": "ABC News Australia",
+      "title": "Anthony De Ceglie steps down as Perth Bears CEO",
+      "status": "pending",
+      "firstSeenAt": 1791538368.7626328,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
