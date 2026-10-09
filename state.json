@@ -31082,9 +31082,49 @@
       "status": "pending",
       "firstSeenAt": 1791536323.5620227,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme3xl8ln2vko",
+      "provider": "BBC",
+      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "status": "pending",
+      "firstSeenAt": 1791537207.2612555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck054p2lyeplo",
+      "provider": "BBC",
+      "title": "Is Â£70m Baleba ready for his Man Utd exam?",
+      "status": "pending",
+      "firstSeenAt": 1791537207.3590715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cje36lkkd9peo",
+      "provider": "BBC",
+      "title": "Legendary Leeds Rhinos winger Hall retires",
+      "status": "pending",
+      "firstSeenAt": 1791537207.359466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791537207.7873416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/hurricane-isaias-fema-trump-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791537207.7874322,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
