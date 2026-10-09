@@ -30282,9 +30282,25 @@
       "status": "pending",
       "firstSeenAt": 1791503090.8853593,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791504528.0654864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008",
+      "provider": "ABC News Australia",
+      "title": "Man who allegedly crashed into Newcastle Knights fans granted bail",
+      "status": "pending",
+      "firstSeenAt": 1791504528.838162,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
