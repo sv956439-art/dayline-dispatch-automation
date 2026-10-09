@@ -30746,9 +30746,65 @@
       "status": "pending",
       "firstSeenAt": 1791524282.9986498,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5zjx92v1mero",
+      "provider": "BBC",
+      "title": "Sutton's predictions v Starsailor frontman James Walsh",
+      "status": "pending",
+      "firstSeenAt": 1791525182.8906593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vgx57q5n4jo",
+      "provider": "BBC",
+      "title": "I joined a men-only brass band - and met my husband Woodbridge Excelsior Band are marking their 180th anniversary.",
+      "status": "pending",
+      "firstSeenAt": 1791525182.8908107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze4n2pn15do",
+      "provider": "BBC",
+      "title": "Alderney flights cancelled due to crew sickness",
+      "status": "pending",
+      "firstSeenAt": 1791525182.9916484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy8394g77pyo",
+      "provider": "BBC",
+      "title": "Deputy hopes airport roof fix costs under £6m",
+      "status": "pending",
+      "firstSeenAt": 1791525182.9916732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/09/nidal-hasan-execution-pete-hegseth-us-military-tv-democracy",
+      "provider": "The Guardian",
+      "title": "double quotation mark Execution TV? Pete Hegseth has taken the once ‘greatest democracy’ to a horrific new low",
+      "status": "pending",
+      "firstSeenAt": 1791525183.4208286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/man-hit-in-head-with-angle-grinder-during-ebike-robbery/107248860",
+      "provider": "ABC News Australia",
+      "title": "Man hit with angle grinder during attempted e-bike robbery",
+      "status": "pending",
+      "firstSeenAt": 1791525184.0525522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/details-released-on-investigation-into-death-of-hawke-children/107247282",
+      "provider": "ABC News Australia",
+      "title": "New evidence in Hawke murders could lead to coronial inquest",
+      "status": "pending",
+      "firstSeenAt": 1791525184.0525877,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
