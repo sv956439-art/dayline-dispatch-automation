@@ -32290,9 +32290,65 @@
       "status": "pending",
       "firstSeenAt": 1791580084.94895,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwp8g1ry6rjlo",
+      "provider": "BBC",
+      "title": "Greek takeaways: What did we learn from Lionesses' win? England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
+      "status": "pending",
+      "firstSeenAt": 1791581042.5672672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/mel-ismail-shark-attack-follow-geraldton/107243960",
+      "provider": "ABC News Australia",
+      "title": "Shark attack survivor thanks 'legends' who saved him",
+      "status": "pending",
+      "firstSeenAt": 1791581043.060332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/veterans-call-on-prime-minister-release-official-war-histories/107250098",
+      "provider": "ABC News Australia",
+      "title": "Veterans of Afghan, Iraq wars call for PM to release official histories",
+      "status": "pending",
+      "firstSeenAt": 1791581043.0603821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/bulldogs-bring-ruthless-mentality-to-pride-round/107250876",
+      "provider": "ABC News Australia",
+      "title": "Bulldogs dominant in win over Bombers to start Pride Round",
+      "status": "pending",
+      "firstSeenAt": 1791581043.0604262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/student-elections-week-university-politics/107248096",
+      "provider": "ABC News Australia",
+      "title": "Election season at universities across Australia sees slogans, stunts",
+      "status": "pending",
+      "firstSeenAt": 1791581043.0604734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/qld-workcover-mental-health-claims-double-in-five-years/107249016",
+      "provider": "ABC News Australia",
+      "title": "Mental health WorkCover claims in Qld double in five years",
+      "status": "pending",
+      "firstSeenAt": 1791581043.060517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/sam-wood-fall-from-fitness-guru-to-alleged-dv-offender/107247592",
+      "provider": "ABC News Australia",
+      "title": "Sam Wood's fall from fitness influencer to alleged DV offender",
+      "status": "pending",
+      "firstSeenAt": 1791581043.0605607,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
