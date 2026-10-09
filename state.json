@@ -32138,9 +32138,41 @@
       "status": "pending",
       "firstSeenAt": 1791574647.1048412,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c620r39zdp9wo",
+      "provider": "BBC",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online. 8 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1791575410.358088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yndgnwez1o",
+      "provider": "BBC",
+      "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up \"You going after my mom?\" El-Sayed shot back as Rogers seemed to imply his opponent might have a family member on a \"watchlist\".",
+      "status": "pending",
+      "firstSeenAt": 1791575410.3586297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/katie-zacharia-offered-white-house-press-secretary-role/107250834",
+      "provider": "ABC News Australia",
+      "title": "Former Truth Social communications adviser offered White House press secretary role",
+      "status": "pending",
+      "firstSeenAt": 1791575411.2281666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/shincheonji-retains-charity-status-tax-breaks-amid-probe/107232574",
+      "provider": "ABC News Australia",
+      "title": "Shincheonji's tax breaks continue amid abuse allegations",
+      "status": "pending",
+      "firstSeenAt": 1791575411.2281895,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
