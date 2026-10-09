@@ -31250,9 +31250,25 @@
       "status": "pending",
       "firstSeenAt": 1791543255.7431028,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yne8k6zw8o",
+      "provider": "BBC",
+      "title": "Crazy Rich Asians TV show to reunite Constance Wu and Henry Golding The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+      "status": "pending",
+      "firstSeenAt": 1791543818.733788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/australia-romps-to-odi-victory-over-bangladesh/107250156",
+      "provider": "ABC News Australia",
+      "title": "Litchfield fireworks help Australia to ODI victory over Bangladesh",
+      "status": "pending",
+      "firstSeenAt": 1791543820.1940947,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
