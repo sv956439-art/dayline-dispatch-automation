@@ -31898,9 +31898,25 @@
       "status": "pending",
       "firstSeenAt": 1791568252.6912563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791568890.012261,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/09/two-latvians-arrested-at-raf-molesworth-base-in-cambridgeshire-released-on-bail",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791568890.0122788,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
