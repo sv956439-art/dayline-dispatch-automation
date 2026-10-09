@@ -30490,9 +30490,17 @@
       "status": "pending",
       "firstSeenAt": 1791514202.8300135,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/dal-santo-quits-as-st-kilda-aflw-coach-in-winless-season/107247806",
+      "provider": "ABC News Australia",
+      "title": "Dal Santo quits as St Kilda AFLW coach in winless season",
+      "status": "pending",
+      "firstSeenAt": 1791514856.3189096,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
