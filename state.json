@@ -30386,9 +30386,33 @@
       "status": "pending",
       "firstSeenAt": 1791510782.3897886,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c59vzk9yypn3o",
+      "provider": "BBC",
+      "title": "ICE agent shoots man in New York City The Department of Homeland Security said ICE was arresting a \"criminal illegal alien\"; New York's mayor called it \"unconscionable\".",
+      "status": "pending",
+      "firstSeenAt": 1791511399.7581387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791511400.1208334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/beau-lamarre-condon-trial-crime-scene-exhibits/107246952",
+      "provider": "ABC News Australia",
+      "title": "Photos of items found near bodies shown at Lamarre-Condon trial",
+      "status": "pending",
+      "firstSeenAt": 1791511400.815438,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
