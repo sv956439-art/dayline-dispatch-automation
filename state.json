@@ -31826,9 +31826,25 @@
       "status": "pending",
       "firstSeenAt": 1791564917.251095,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqg7xzzrydmeo",
+      "provider": "BBC",
+      "title": "58 mins ago Cadet leader posed as girl on Snapchat, court told The trial of an Army Cadets leader hears evidence from three alleged teenage victims. 58 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791565557.370245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/livestream-death-penalty-firing-squad-united-nation-/107250294",
+      "provider": "ABC News Australia",
+      "title": "'Abhorrent' US plan to livestream execution amounts to torture, says UN",
+      "status": "pending",
+      "firstSeenAt": 1791565557.771508,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
