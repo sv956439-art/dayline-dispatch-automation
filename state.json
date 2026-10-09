@@ -31026,9 +31026,33 @@
       "status": "pending",
       "firstSeenAt": 1791531679.0066135,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg6npj77g6o",
+      "provider": "BBC",
+      "title": "2 hrs ago Star plans sandwich date with 'friend' Paddington Hugh Bonneville says he will visit his movie co-star while promoting a new book in Bury St Edmunds. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791532567.7549486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/act-one-in-ten-waiting-see-specialist-public-health-system/107249546",
+      "provider": "ABC News Australia",
+      "title": "One in 10 Canberrans waiting to see a medical specialist",
+      "status": "pending",
+      "firstSeenAt": 1791532568.3583226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/nt-government-flag-changes-suppression-laws-sex-offenders/107247920",
+      "provider": "ABC News Australia",
+      "title": "NT government flags changes to accused sex offender suppression laws",
+      "status": "pending",
+      "firstSeenAt": 1791532568.3583596,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
