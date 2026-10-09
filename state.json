@@ -32522,9 +32522,73 @@
       "status": "pending",
       "firstSeenAt": 1791586804.3500192,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d6xd2g4w2o",
+      "provider": "BBC",
+      "title": "Thousands of security personnel deployed as Delhi braces for cockroach protest Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering. 10 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1791587574.9989042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx30en32gd39o",
+      "provider": "BBC",
+      "title": "Ashe was too scared to cancel her wedding - the story became a hit song US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding. 10 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1791587574.998978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63djxry8124o",
+      "provider": "BBC",
+      "title": "Boots has a new owner: Three ways it could affect you The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you? 11 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791587574.9990063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crvg9pl3zd5zo",
+      "provider": "BBC",
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show The Nigerian star will become the first African artist to headline the show at an international NFL game. 11 mins ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1791587574.9990394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791587575.3918374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791587575.3925188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/cult-of-the-lamb-river-boy-legacy/107245494",
+      "provider": "ABC News Australia",
+      "title": "Cult of the Lamb video game team honours work of original composer",
+      "status": "pending",
+      "firstSeenAt": 1791587576.0196483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/verstappen-pips-russell-to-sprint-pole-singapore-f1/107250972",
+      "provider": "ABC News Australia",
+      "title": "Verstappen pips Russell to sprint pole at Singapore F1 grand prix",
+      "status": "pending",
+      "firstSeenAt": 1791587576.0201588,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
