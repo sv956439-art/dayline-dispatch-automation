@@ -31426,9 +31426,25 @@
       "status": "pending",
       "firstSeenAt": 1791549811.7302575,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9wz5kng0x1o",
+      "provider": "BBC",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "status": "pending",
+      "firstSeenAt": 1791550930.6437788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/datacenter-backlash-ibm-east-fishkill-new-york",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791550930.96474,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
