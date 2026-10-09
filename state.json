@@ -31914,9 +31914,57 @@
       "status": "pending",
       "firstSeenAt": 1791568890.0122788,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/matildas-vs-germany-friendly-live-blog/107250258",
+      "provider": "ABC News Australia",
+      "title": "Matildas take on world number three Germany in friendly",
+      "status": "pending",
+      "firstSeenAt": 1791569964.017074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/how-firmus-the-biggest-ipo-in-three-decades-fell-over/107247100",
+      "provider": "ABC News Australia",
+      "title": "How Firmus, the biggest IPO in three decades, fell over",
+      "status": "pending",
+      "firstSeenAt": 1791569964.0171056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/beau-lamarer-condon-trial-text-messages-jesse-baird-colleague/107243250",
+      "provider": "ABC News Australia",
+      "title": "Beau Lamarre-Condon's messages about Jesse Baird before alleged murders",
+      "status": "pending",
+      "firstSeenAt": 1791569964.0171533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/singapore-hawker-stall-culture-cheap-food-heritage-preserve/107209692",
+      "provider": "ABC News Australia",
+      "title": "'Cutthroat' hawker culture fights for survival in Singapore",
+      "status": "pending",
+      "firstSeenAt": 1791569964.017198,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/labor-reverses-credit-card-surcharge-call-after-backlash/107247904",
+      "provider": "ABC News Australia",
+      "title": "Labor's surcharge headache exposes a government on the back foot",
+      "status": "pending",
+      "firstSeenAt": 1791569964.0172417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/pia-miranda-looking-for-alibrandi-food-recipe-of-the-year/107206842",
+      "provider": "ABC News Australia",
+      "title": "Pia Miranda says a Looking for Alibrandi reboot is 'definitely around'",
+      "status": "pending",
+      "firstSeenAt": 1791569964.0172863,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
