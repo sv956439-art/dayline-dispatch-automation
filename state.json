@@ -31722,9 +31722,49 @@
       "status": "pending",
       "firstSeenAt": 1791561926.4112554,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj20vkkx3rdvo",
+      "provider": "BBC",
+      "title": "US imposes sanctions on International Criminal Court The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
+      "status": "pending",
+      "firstSeenAt": 1791562986.0624788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5ev3ej0l8z8o",
+      "provider": "BBC",
+      "title": "Traitors star coming to Cheltenham Literary Fest Celia Imrie and Wiltshire actress Fedilis Morgan will be talking about their new book at the event.",
+      "status": "pending",
+      "firstSeenAt": 1791562986.0629973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy47lzd1vyo",
+      "provider": "BBC",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide. 5 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791562986.1147652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791562986.224917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791562986.2249358,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
