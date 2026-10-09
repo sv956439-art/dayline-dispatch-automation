@@ -32426,9 +32426,105 @@
       "status": "pending",
       "firstSeenAt": 1791586159.8150556,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr5y3m59027o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791586803.827301,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw23dn0xven7o",
+      "provider": "BBC",
+      "title": "NI secretary to ban the Drumcree parade The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks. 1 hr ago Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791586803.8273606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm75pldpzrv5o",
+      "provider": "BBC",
+      "title": "We sold everything and bought a one-way ticket to take our three children travelling The Woolridge family sold their south Wales home and are travelling the world with no plans to return. 1 hr ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791586803.8274026,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwzd6lyjln6no",
+      "provider": "BBC",
+      "title": "'Holy grail of whisky' sells for £2.1m at auction The Macallan 1926 was bottled after maturing for 60 years, with just 40 bottles drawn from a single sherry seasoned oak cask. 1 hr ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791586803.8274267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg6xw7dlq7o",
+      "provider": "BBC",
+      "title": "'Thuggish' behaviour could see balaclava ban in more cities The hashtag \"no face no case\" has been gaining traction glorifying balaclavas as a way to avoid prosecution. 1 hr ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1791586803.8274505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxr5y36yml21o",
+      "provider": "BBC",
+      "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791586803.9188602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/ckz7xeljeqepo",
+      "provider": "BBC",
+      "title": "'Bored' White credits Hearn for Fury-Joshua being in UK",
+      "status": "pending",
+      "firstSeenAt": 1791586803.9188983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6gqw03lxxnno",
+      "provider": "BBC",
+      "title": "NI World Cup hopes gone from 'improbable to impossible'",
+      "status": "pending",
+      "firstSeenAt": 1791586803.918965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwx285l666ejo",
+      "provider": "BBC",
+      "title": "Glasgow overpower Connacht to maintain unbeaten start",
+      "status": "pending",
+      "firstSeenAt": 1791586803.9190278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/firmus-generators-epa-appeal-watchdog/107247476",
+      "provider": "ABC News Australia",
+      "title": "Tasmanian EPA says it was not told extent of Firmus data centre generator plans",
+      "status": "pending",
+      "firstSeenAt": 1791586804.3499413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/premature-flying-fox-births-nsw/107242188",
+      "provider": "ABC News Australia",
+      "title": "Baby flying foxes starving in numbers volunteers have never seen",
+      "status": "pending",
+      "firstSeenAt": 1791586804.3499815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/queensland-battles-hot-dry-spring-except-in-far-north/107248608",
+      "provider": "ABC News Australia",
+      "title": "Queensland battles dry spring except in far north",
+      "status": "pending",
+      "firstSeenAt": 1791586804.3500192,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
