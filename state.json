@@ -30730,9 +30730,25 @@
       "status": "pending",
       "firstSeenAt": 1791523267.8622606,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/sister-melbourne-teenager-burned-alleged-botched-arson/107247014",
+      "provider": "ABC News Australia",
+      "title": "Sister of 13yo critically injured in alleged arson pleads with other teens",
+      "status": "pending",
+      "firstSeenAt": 1791524282.9986145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/mp-luke-gosling-to-seek-labor-preselection-despite-charges/107248020",
+      "provider": "ABC News Australia",
+      "title": "MP Luke Gosling vows to seek Labor preselection despite pending assault case",
+      "status": "pending",
+      "firstSeenAt": 1791524282.9986498,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
