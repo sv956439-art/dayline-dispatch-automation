@@ -31626,9 +31626,41 @@
       "status": "pending",
       "firstSeenAt": 1791556233.1054633,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck5ynv45lymdo",
+      "provider": "BBC",
+      "title": "I've got my own questions on Man City case - Carrick",
+      "status": "pending",
+      "firstSeenAt": 1791557384.3464746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pvgn8yvdexo",
+      "provider": "BBC",
+      "title": "2 hrs ago Police trial AI chatbot to free up call handlers Staffordshire Police is trialling the virtual assistant through its website live chat. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791557384.4140792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3vqplxz136o",
+      "provider": "BBC",
+      "title": "2 hrs ago Prison officer and inmate jailed over Snapchat fling Ex-prison officer Jade Morris exchanged more than 5,000 illicit Snapchat messages with an inmate. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791557384.4141023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/democrats-control-house-senate-priorities",
+      "provider": "The Guardian",
+      "title": "Democrats are candid about what they will do if they get control of the Senate and House – here are their priorities",
+      "status": "pending",
+      "firstSeenAt": 1791557384.816828,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
