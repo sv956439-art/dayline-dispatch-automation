@@ -32394,9 +32394,17 @@
       "status": "pending",
       "firstSeenAt": 1791584281.0746434,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5lye9z4xw4yo",
+      "provider": "BBC",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "status": "pending",
+      "firstSeenAt": 1791585241.747108,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
