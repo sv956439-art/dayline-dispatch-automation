@@ -31442,9 +31442,57 @@
       "status": "pending",
       "firstSeenAt": 1791550930.96474,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/ck20wpg18w19o",
+      "provider": "BBC",
+      "title": "33 balls, 0 runs - Maddinson's record-breaking duck on Australia return",
+      "status": "pending",
+      "firstSeenAt": 1791552153.1697924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1x45249no",
+      "provider": "BBC",
+      "title": "Sheffield neighbourhood named among coolest in UK Crookes is branded the country's sixth coolest suburb by Time Out magazine.",
+      "status": "pending",
+      "firstSeenAt": 1791552153.1699266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4g17dn4llpo",
+      "provider": "BBC",
+      "title": "Birmingham Airport expansion 'can only be a good thing'",
+      "status": "pending",
+      "firstSeenAt": 1791552153.248591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791552153.4051578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791552153.4052985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/oct/09/nobel-peace-prize-winner-navi-pillay-jokes-about-sharing-award-with-donald-trump-video",
+      "provider": "The Guardian",
+      "title": "Nobel peace prize winner Navi Pillay jokes about sharing award with Donald Trump – video",
+      "status": "pending",
+      "firstSeenAt": 1791552153.4055674,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
