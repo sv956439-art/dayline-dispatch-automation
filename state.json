@@ -31602,9 +31602,33 @@
       "status": "pending",
       "firstSeenAt": 1791554956.8026175,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjkgey07lq15o",
+      "provider": "BBC",
+      "title": "What reception awaits Man City at Anfield? Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
+      "status": "pending",
+      "firstSeenAt": 1791556233.105401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/ck62y7jz1qqro",
+      "provider": "BBC",
+      "title": "Verstappen on sprint pole after another settings issue",
+      "status": "pending",
+      "firstSeenAt": 1791556233.1054275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cm79pdw50y7wo",
+      "provider": "BBC",
+      "title": "'Ran through me' & 'good value in pub' - ex-NFL star Kelce tries rugby",
+      "status": "pending",
+      "firstSeenAt": 1791556233.1054633,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
