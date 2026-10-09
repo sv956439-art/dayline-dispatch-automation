@@ -30538,9 +30538,25 @@
       "status": "pending",
       "firstSeenAt": 1791516872.963965,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+      "provider": "BBC",
+      "title": "Nvidia-backed AI data centre firm scraps mega stock market listing Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\"",
+      "status": "pending",
+      "firstSeenAt": 1791517906.8462052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/young-driver-avoids-jail-for-fatal-crash-that-killed-woman/107246406",
+      "provider": "ABC News Australia",
+      "title": "Driver avoids jail for hit-and-run that killed woman kneeling on Adelaide road",
+      "status": "pending",
+      "firstSeenAt": 1791517907.4230564,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
