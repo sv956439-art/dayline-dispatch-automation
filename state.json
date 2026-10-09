@@ -31074,9 +31074,17 @@
       "status": "pending",
       "firstSeenAt": 1791534453.1461992,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5n49xln3lz0o",
+      "provider": "BBC",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests. 2 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1791536323.5620227,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
