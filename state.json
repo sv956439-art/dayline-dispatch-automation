@@ -32370,9 +32370,33 @@
       "status": "pending",
       "firstSeenAt": 1791582753.0110924,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvrly34574y8o",
+      "provider": "BBC",
+      "title": "'Alcohol and drugs ruined my band - I'm glad to have another chance' The Temperance Movement are back with their first album in eight years, after an acrimonious break-up.",
+      "status": "pending",
+      "firstSeenAt": 1791584280.7868755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly044dp0pxo",
+      "provider": "BBC",
+      "title": "Latest cruise passenger figures 'encouraging'",
+      "status": "pending",
+      "firstSeenAt": 1791584280.867961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/new-york-city-car-crash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791584281.0746434,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
