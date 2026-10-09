@@ -30306,9 +30306,41 @@
       "status": "pending",
       "firstSeenAt": 1791507674.6100488,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791508739.890463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/japan-royal-throne-lineage-princess-aiko-forbidden-ascending",
+      "provider": "The Guardian",
+      "title": "Running out of royals: why calls are growing to let Japan’s princess Aiko take the throne",
+      "status": "pending",
+      "firstSeenAt": 1791508739.8912878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/credit-card-ban-ato-tax-small-business/107246990",
+      "provider": "ABC News Australia",
+      "title": "ATO credit card ban delayed as government backs down after business backlash",
+      "status": "pending",
+      "firstSeenAt": 1791508740.602956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/harry-connick-jr-pens-babe-elaboratio-a-tribute-to-my-mother/107246812",
+      "provider": "ABC News Australia",
+      "title": "Harry Connick Jr pens tribute to mother he lost as a 13yo",
+      "status": "pending",
+      "firstSeenAt": 1791508740.6043112,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
