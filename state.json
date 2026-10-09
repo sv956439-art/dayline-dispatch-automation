@@ -30522,9 +30522,25 @@
       "status": "pending",
       "firstSeenAt": 1791515799.2157266,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/sam-wood-supreme-court-bail-domestic-violence-charge/107247738",
+      "provider": "ABC News Australia",
+      "title": "Former Bachelor Sam Wood to fight for bail application on domestic violence charges",
+      "status": "pending",
+      "firstSeenAt": 1791516872.9626203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/trio-of-killers-jailed-over-fake-gun-deal-murder/107242910",
+      "provider": "ABC News Australia",
+      "title": "Trio who murdered man over $22k fake gun sale jailed",
+      "status": "pending",
+      "firstSeenAt": 1791516872.963965,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
