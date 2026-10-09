@@ -30650,9 +30650,89 @@
       "status": "pending",
       "firstSeenAt": 1791522213.0800698,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg0mngjvljo",
+      "provider": "BBC",
+      "title": "Music group fulfills late MP's Broadway dream The Music Man Project is a charity in Essex that teaches music to people with learning disabilities.",
+      "status": "pending",
+      "firstSeenAt": 1791523267.1929994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9y7lkpvn663o",
+      "provider": "BBC",
+      "title": "Why has Dolly Parton recorded a song in Welsh?",
+      "status": "pending",
+      "firstSeenAt": 1791523267.19302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8wy93rdd0d0o",
+      "provider": "BBC",
+      "title": "8 mins ago Covid grants hid museum's financial woes, says director Shire Hall has been opened in 2019 but the trust says it can no longer afford to keep it open. 8 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791523267.2437298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65ynry2l27yo",
+      "provider": "BBC",
+      "title": "12 mins ago Museum honours two key World War Two RAF stations The museum is based at a former World War Two airfield and includes a Lancaster bomber engine. 12 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791523267.243763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/royal-college-pharmacy-cuts-ties-teva-israel-palestine-campaigners",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791523267.4136784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791523267.4136949,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
+      "provider": "The Guardian",
+      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+      "status": "pending",
+      "firstSeenAt": 1791523267.4140947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/australian-surfers-murdered-in-mexico/107235028",
+      "provider": "ABC News Australia",
+      "title": "Families of men killed on Mexico surf trip call for maximum sentences",
+      "status": "pending",
+      "firstSeenAt": 1791523267.861413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/card-surcharge-ban-cash-use-australia/107239200",
+      "provider": "ABC News Australia",
+      "title": "How the card surcharge ban could change our relationship with cash",
+      "status": "pending",
+      "firstSeenAt": 1791523267.8615303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/qld-health-ambulance-ramping-data-for-august/107248682",
+      "provider": "ABC News Australia",
+      "title": "Ambulance ramping data casts doubt over LNP promise to reduce wait times",
+      "status": "pending",
+      "firstSeenAt": 1791523267.8622606,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
