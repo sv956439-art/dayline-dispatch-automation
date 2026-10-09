@@ -32202,9 +32202,17 @@
       "status": "pending",
       "firstSeenAt": 1791575979.1561096,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/fathers-trust-in-childcare-shattered-by-childs-shocking-injury/107194852",
+      "provider": "ABC News Australia",
+      "title": "Father's trust in childcare shattered by child's shocking injury",
+      "status": "pending",
+      "firstSeenAt": 1791576742.9327447,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
