@@ -30802,9 +30802,57 @@
       "status": "pending",
       "firstSeenAt": 1791525184.0525877,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5n49x09e3l9o",
+      "provider": "BBC",
+      "title": "Data centre raises noise and wildlife impact fears",
+      "status": "pending",
+      "firstSeenAt": 1791525801.6116009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry83nd2gnjqo",
+      "provider": "BBC",
+      "title": "Sustainable fashion project secures £850k funding",
+      "status": "pending",
+      "firstSeenAt": 1791525801.6116345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98zdp612pko",
+      "provider": "BBC",
+      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
+      "status": "pending",
+      "firstSeenAt": 1791525801.611665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791525801.9183316,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/qld-lone-wolf-outlaw-motorbike-gang-targeted/107249476",
+      "provider": "ABC News Australia",
+      "title": "Australia and New Zealand police target motorbike gang deemed 'high threat'",
+      "status": "pending",
+      "firstSeenAt": 1791525802.231119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/sa-youth-in-court-for-assaulting-woman-sleeping-rough/107248852",
+      "provider": "ABC News Australia",
+      "title": "Court hears teen under drug influence during attack on woman",
+      "status": "pending",
+      "firstSeenAt": 1791525802.231895,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
