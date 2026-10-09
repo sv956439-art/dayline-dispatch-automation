@@ -31226,9 +31226,33 @@
       "status": "pending",
       "firstSeenAt": 1791541282.088278,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5yn75pgyjjo",
+      "provider": "BBC",
+      "title": "Alison Hammond: 'I thought I was having heart attack on air' The host says a health scare was \"probably one of the most scariest things I've ever been through\".",
+      "status": "pending",
+      "firstSeenAt": 1791543255.4157324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/leader-of-jewish-greens-calls-for-zack-polanski-to-resign",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791543255.7429552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/first-thing-hegseth-promises-execution-live-stream-trump-pause-war-iran",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791543255.7431028,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
