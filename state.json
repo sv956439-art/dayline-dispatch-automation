@@ -32266,9 +32266,33 @@
       "status": "pending",
       "firstSeenAt": 1791579422.4800487,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5ynwnye009o",
+      "provider": "BBC",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
+      "status": "pending",
+      "firstSeenAt": 1791580084.1676993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791580084.5938232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/environmental-laws-criticised-over-illegal-wollert-dump-fine/107243534",
+      "provider": "ABC News Australia",
+      "title": "Man fined $10k for illegal dump that left $3m clean-up bill",
+      "status": "pending",
+      "firstSeenAt": 1791580084.94895,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
