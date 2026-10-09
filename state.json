@@ -30602,9 +30602,25 @@
       "status": "pending",
       "firstSeenAt": 1791520749.8250766,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm24v45p4jgo",
+      "provider": "BBC",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "status": "pending",
+      "firstSeenAt": 1791521642.1717198,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/wacol-youth-remand-centre-breach-bail-go-to-jail-campacity/107244674",
+      "provider": "ABC News Australia",
+      "title": "Remand centre built for adults to remain open to children over 'capacity' concerns",
+      "status": "pending",
+      "firstSeenAt": 1791521643.1668699,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
