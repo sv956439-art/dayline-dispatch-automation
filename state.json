@@ -32402,9 +32402,33 @@
       "status": "pending",
       "firstSeenAt": 1791585241.747108,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/trump-strikes-deal-with-putin-for-russia-to-supply-diesel-to-us/107250922",
+      "provider": "ABC News Australia",
+      "title": "Trump strikes deal with Putin for Russia to supply diesel to US",
+      "status": "pending",
+      "firstSeenAt": 1791586159.8149788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/darwin-city-council-china-vietnam-delegation-amid-rate-rise/107242730",
+      "provider": "ABC News Australia",
+      "title": "NT council's China trade mission questioned amid cost-of-living crisis",
+      "status": "pending",
+      "firstSeenAt": 1791586159.815018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/taylors-lakes-oakleigh-south-fires/107250932",
+      "provider": "ABC News Australia",
+      "title": "Melbourne hit by sixth consecutive night of arson attacks",
+      "status": "pending",
+      "firstSeenAt": 1791586159.8150556,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
