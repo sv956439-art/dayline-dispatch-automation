@@ -31690,9 +31690,17 @@
       "status": "pending",
       "firstSeenAt": 1791559250.6756766,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
+      "provider": "BBC",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "status": "pending",
+      "firstSeenAt": 1791560265.298311,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
