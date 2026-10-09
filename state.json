@@ -31266,9 +31266,25 @@
       "status": "pending",
       "firstSeenAt": 1791543820.1940947,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60e048r02lgo",
+      "provider": "BBC",
+      "title": "Video game Cyberpunk 2077 to get live-action movie adaptation The smash hit from the studio behind The Witcher series is to be turned into a film by Paramount Pictures. 1 hr ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1791544844.9801657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crvg6lx2yj29o",
+      "provider": "BBC",
+      "title": "Mourinho calls criticism of Mbappe 'ridiculous' Jose Mourinho defends Kylian Mbappe who has been scrutinised during the international break. 1 hr ago Football",
+      "status": "pending",
+      "firstSeenAt": 1791544844.9805486,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
