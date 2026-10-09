@@ -31410,9 +31410,25 @@
       "status": "pending",
       "firstSeenAt": 1791548435.5217366,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+      "provider": "BBC",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "status": "pending",
+      "firstSeenAt": 1791549811.6684344,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c875pzn9259do",
+      "provider": "BBC",
+      "title": "2 hrs ago The Hay Wain exhibition draws in 21,000 visitors One thousand people visit Ipswich on the final day to see the painting, before its return to London. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791549811.7302575,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
