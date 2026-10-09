@@ -32250,9 +32250,25 @@
       "status": "pending",
       "firstSeenAt": 1791578624.072101,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538",
+      "provider": "ABC News Australia",
+      "title": "Mexican men guilty of murdering brothers Jake and Callum Robinson",
+      "status": "pending",
+      "firstSeenAt": 1791579422.4785068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/russian-australian-alexei-shishkin-targeted-firebombing/107249906",
+      "provider": "ABC News Australia",
+      "title": "Russian couple's home targeted in Melbourne arson attack",
+      "status": "pending",
+      "firstSeenAt": 1791579422.4800487,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
