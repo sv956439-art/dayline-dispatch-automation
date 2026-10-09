@@ -30618,9 +30618,41 @@
       "status": "pending",
       "firstSeenAt": 1791521643.1668699,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zjx7jexz1do",
+      "provider": "BBC",
+      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "status": "pending",
+      "firstSeenAt": 1791522212.235259,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/act-man-accused-deliberately-injuring-sheep-refused-bail/107246802",
+      "provider": "ABC News Australia",
+      "title": "Man accused of deliberately injuring sheep at Canberra property refused bail",
+      "status": "pending",
+      "firstSeenAt": 1791522213.0788605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/wacol-youth-remand-centre-breach-bail-go-to-jail-capacity/107244674",
+      "provider": "ABC News Australia",
+      "title": "Remand centre built for adults to remain open to children over capacity concerns",
+      "status": "pending",
+      "firstSeenAt": 1791522213.0789008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/seasonal-produce-to-make-the-most-of-this-october/107237240",
+      "provider": "ABC News Australia",
+      "title": "The fruit and vegetables to look out for this month",
+      "status": "pending",
+      "firstSeenAt": 1791522213.0800698,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
