@@ -30898,9 +30898,57 @@
       "status": "pending",
       "firstSeenAt": 1791527196.9440193,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/cqy0r90nxneeo",
+      "provider": "BBC",
+      "title": "James suffers defeat on 76ers debut in pre-season",
+      "status": "pending",
+      "firstSeenAt": 1791528549.3866372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cv1j300zln14o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791528549.3871095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq4g1pk9w8y0o",
+      "provider": "BBC",
+      "title": "What to do with Joao Pedro? FPL gameweek six dilemmas",
+      "status": "pending",
+      "firstSeenAt": 1791528549.3871338,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791528549.9031637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/holborn-st-pancras-byelection-greens-zack-polanski",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791528549.9035368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/south-africa-australia-live-first-test-durban-day-one/107249690",
+      "provider": "ABC News Australia",
+      "title": "Aussies make long-awaited return to South Africa for Test series",
+      "status": "pending",
+      "firstSeenAt": 1791528550.2545419,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
