@@ -31050,9 +31050,25 @@
       "status": "pending",
       "firstSeenAt": 1791532568.3583596,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/c8ly02yzg2w1o",
+      "provider": "BBC",
+      "title": "Wilson becomes first five-time MVP in WNBA history A ceremony marking her record-extending fifth MVP award will take place on Friday night, but A'ja Wilson will not take part before a must-win game.",
+      "status": "pending",
+      "firstSeenAt": 1791533273.2399468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791533273.4618857,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
