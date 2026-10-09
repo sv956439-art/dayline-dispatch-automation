@@ -32170,9 +32170,41 @@
       "status": "pending",
       "firstSeenAt": 1791575411.2281895,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/keegan-allen-attacked",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791575978.6082082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791575978.6082356,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791575978.6082804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/first-test-australia-south-africa-day-one-analysis/107250280",
+      "provider": "ABC News Australia",
+      "title": "Australia's Test start no disaster, but order issues hint at troubles ahead",
+      "status": "pending",
+      "firstSeenAt": 1791575979.1561096,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
