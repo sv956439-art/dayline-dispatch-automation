@@ -31530,9 +31530,57 @@
       "status": "pending",
       "firstSeenAt": 1791553213.8420796,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8040nl9q24do",
+      "provider": "BBC",
+      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+      "status": "pending",
+      "firstSeenAt": 1791554171.7634842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cmje5x0enkxqo",
+      "provider": "BBC",
+      "title": "Mercedes critics think I'm Satan - Wolff Mercedes Formula 1 boss Toto Wolff rejects accusations of team of bias against George Russell, calling critics \"brainless\". 32 mins ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1791554171.7638104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cwp9gxzyplk4o",
+      "provider": "BBC",
+      "title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour Tickets for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium sells out in just one hour. 1 hr ago Boxing",
+      "status": "pending",
+      "firstSeenAt": 1791554171.7638497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791554171.9869022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791554171.9871888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/09/lightsaber-darth-vader-star-wars-auction",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791554171.9872007,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
