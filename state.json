@@ -30562,9 +30562,41 @@
       "status": "pending",
       "firstSeenAt": 1791518568.93629,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791519687.023117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791519687.023258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/tasmania-local-reaction-to-firmus-float-problems/107246744",
+      "provider": "ABC News Australia",
+      "title": "Firmus wobbles have opponents relieved, critics questioning deals",
+      "status": "pending",
+      "firstSeenAt": 1791519687.6986926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/rugby-wallabies-all-blacks-bledisloe-cup-eden-park/107247998",
+      "provider": "ABC News Australia",
+      "title": "Wallabies must 'walk the walk' if 40-year-old curse is to end",
+      "status": "pending",
+      "firstSeenAt": 1791519687.7000117,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
