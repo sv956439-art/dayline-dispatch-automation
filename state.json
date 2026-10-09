@@ -30410,9 +30410,65 @@
       "status": "pending",
       "firstSeenAt": 1791511400.815438,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6dxw90kdp5yo",
+      "provider": "BBC",
+      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+      "status": "pending",
+      "firstSeenAt": 1791512378.5893817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791512379.1092472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/nobel-peace-prize-frontrunners/107243038",
+      "provider": "ABC News Australia",
+      "title": "These are the frontrunners for this year's Nobel Peace Prize",
+      "status": "pending",
+      "firstSeenAt": 1791512379.7250485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/yvonne-weldon-mick-mundine-child-sexual-assault-charges/107247482",
+      "provider": "ABC News Australia",
+      "title": "Sydney councillor accuses Indigenous elder Mick Mundine of sexual assault",
+      "status": "pending",
+      "firstSeenAt": 1791512379.7251847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/woman-dies-in-hospital-after-critical-injuries-cardigan-ballarat/107247622",
+      "provider": "ABC News Australia",
+      "title": "Woman dies after being found injured on road near Ballarat overnight",
+      "status": "pending",
+      "firstSeenAt": 1791512379.7262602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/cricket-australia-2018-south-africa-tour-where-are-they-now/107089932",
+      "provider": "ABC News Australia",
+      "title": "The mixed fortunes of Australia's last South African touring party",
+      "status": "pending",
+      "firstSeenAt": 1791512379.7262998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/car-into-canberra-shopfront-weston-people-trapped/107247384",
+      "provider": "ABC News Australia",
+      "title": "Person still trapped after car driven into Canberra shopfront",
+      "status": "pending",
+      "firstSeenAt": 1791512379.7263796,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
