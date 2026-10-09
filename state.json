@@ -32058,9 +32058,17 @@
       "status": "pending",
       "firstSeenAt": 1791572180.520915,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/earthquake-panama-tsunami-warning/107250814",
+      "provider": "ABC News Australia",
+      "title": "Powerful 7.6-magnitude earthquake hits off coast of Panama",
+      "status": "pending",
+      "firstSeenAt": 1791572812.361098,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
