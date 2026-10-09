@@ -32610,9 +32610,17 @@
       "status": "pending",
       "firstSeenAt": 1791589255.8436859,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/don-strachan-oldest-wallaby-rugby-union/107206664",
+      "provider": "ABC News Australia",
+      "title": "Oldest Wallaby remembers historic Eden Park win over All Blacks",
+      "status": "pending",
+      "firstSeenAt": 1791589978.8791168,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
