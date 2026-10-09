@@ -32114,9 +32114,33 @@
       "status": "pending",
       "firstSeenAt": 1791573750.163212,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1dwgr666wno",
+      "provider": "BBC",
+      "title": "Trump announces deal with Putin to release Russian diesel",
+      "status": "pending",
+      "firstSeenAt": 1791574646.4635415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/cam-wilson-ai-book-copyright-laws/107220714",
+      "provider": "ABC News Australia",
+      "title": "I found an AI slop book written about me",
+      "status": "pending",
+      "firstSeenAt": 1791574647.1047053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/test-cricket-quick-hits-steve-smith-nic-maddinson-aus-sa/107249920",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Maddinson makes historic 33-ball duck as Aussie batters flounder",
+      "status": "pending",
+      "firstSeenAt": 1791574647.1048412,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
