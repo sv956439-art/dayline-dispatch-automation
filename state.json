@@ -30338,9 +30338,33 @@
       "status": "pending",
       "firstSeenAt": 1791508740.6043112,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/ukraine-war-briefing-zelenskyy-criticises-us-calls-for-more-starlink-access-amid-deadly-russian-assault",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy criticises US, calls for more Starlink access, amid deadly Russian assault",
+      "status": "pending",
+      "firstSeenAt": 1791509845.4259827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/asic-sues-hollard-insurance-court-orders-2-million-penalty/107245154",
+      "provider": "ABC News Australia",
+      "title": "Hollard insurance fined $2m for handling of claim that destroyed home",
+      "status": "pending",
+      "firstSeenAt": 1791509845.9491138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-09/f1-singapore-grand-prix-oscar-piastri-mclaren-george-russell/107246974",
+      "provider": "ABC News Australia",
+      "title": "Piastri hopes for better in Singapore as fading challenger promises 'all-out' attack",
+      "status": "pending",
+      "firstSeenAt": 1791509845.9501436,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
