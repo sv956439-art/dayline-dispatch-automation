@@ -31866,9 +31866,33 @@
       "status": "pending",
       "firstSeenAt": 1791566491.2075002,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq78px5y1zmzo",
+      "provider": "BBC",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "status": "pending",
+      "firstSeenAt": 1791567362.3362696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y8lxy1v7kdo",
+      "provider": "BBC",
+      "title": "1 hr ago 'Now feels right to show Banks's vital history' Tegen Kimbley captured the inner working of the former brewery when she worked at the site in 2018. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791567362.4120986,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/desantis-halts-florida-execution",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791567362.7205012,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
