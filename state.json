@@ -31322,9 +31322,49 @@
       "status": "pending",
       "firstSeenAt": 1791546599.612947,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmzxjdvv784xo",
+      "provider": "BBC",
+      "title": "Man City titles 'absolutely not' tainted - Maresca",
+      "status": "pending",
+      "firstSeenAt": 1791547274.071213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87zd004ye1o",
+      "provider": "BBC",
+      "title": "55 mins ago Man sentenced over post threatening Lucy Connolly Jake Newman receives a 12-month community order at Birmingham Crown Court. 55 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791547274.1536686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791547274.3800802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791547274.3801289,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/09/shein-outsells-british-rival-asos-as-uk-revenue-hits-258bn",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791547274.3805249,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
