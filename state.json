@@ -32746,9 +32746,17 @@
       "status": "pending",
       "firstSeenAt": 1791597724.2772524,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm79pdlywqd4o",
+      "provider": "BBC",
+      "title": "US country music star Ella Langley cancels show due to 'security threat' Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\". 14 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791598686.4931312,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
