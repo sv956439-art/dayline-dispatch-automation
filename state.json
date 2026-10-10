@@ -34418,9 +34418,41 @@
       "status": "pending",
       "firstSeenAt": 1791666648.2114124,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqn73g3pvezdo",
+      "provider": "BBC",
+      "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+      "status": "pending",
+      "firstSeenAt": 1791667460.6539996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmy0rp2r516po",
+      "provider": "BBC",
+      "title": "Vuskovic a target for Bayern - Sunday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791667460.6540427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqzjx3z4ljr0o",
+      "provider": "BBC",
+      "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
+      "status": "pending",
+      "firstSeenAt": 1791667460.6544983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/cockroach-party-india-protesters-against-modi-vow-to-return/107252114",
+      "provider": "ABC News Australia",
+      "title": "'Cockroach Party' protesters vow to return after hundreds detained in Delhi",
+      "status": "pending",
+      "firstSeenAt": 1791667461.6706128,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
