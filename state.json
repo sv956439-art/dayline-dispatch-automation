@@ -32690,9 +32690,17 @@
       "status": "pending",
       "firstSeenAt": 1791594397.0229688,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/police-charge-perth-man-with-murder-of-brother-found-dead/107251180",
+      "provider": "ABC News Australia",
+      "title": "Police charge man with murder of brother found dead in yard",
+      "status": "pending",
+      "firstSeenAt": 1791596321.3407774,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
