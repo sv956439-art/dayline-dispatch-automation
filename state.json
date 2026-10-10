@@ -32778,9 +32778,17 @@
       "status": "pending",
       "firstSeenAt": 1791601238.7405882,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/hanson-takes-aim-at-coalition-in-cpac-speech-brisbane/107251206",
+      "provider": "ABC News Australia",
+      "title": "Hanson takes aim at Coalition in fiery pitch to conservative voters",
+      "status": "pending",
+      "firstSeenAt": 1791602108.8448758,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
