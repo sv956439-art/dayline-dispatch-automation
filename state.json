@@ -32666,9 +32666,33 @@
       "status": "pending",
       "firstSeenAt": 1791593460.9359908,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq4g1xerk398o",
+      "provider": "BBC",
+      "title": "Man City whistleblower to remain in witness protection The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it. 2 hrs ago Man City",
+      "status": "pending",
+      "firstSeenAt": 1791594396.6409185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/golfing-legend-graham-marsh-kalgoorlie-course-legacy/107242704",
+      "provider": "ABC News Australia",
+      "title": "Champion golfer reflects on lasting legacy in outback WA",
+      "status": "pending",
+      "firstSeenAt": 1791594397.0229185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/man-charged-after-allegedly-shooting-at-car-injuring-teenager/107251086",
+      "provider": "ABC News Australia",
+      "title": "Canberra man accused of shooting at car, seriously injuring teen",
+      "status": "pending",
+      "firstSeenAt": 1791594397.0229688,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
