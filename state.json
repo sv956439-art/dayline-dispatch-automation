@@ -33786,9 +33786,17 @@
       "status": "pending",
       "firstSeenAt": 1791640047.0795586,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmx2dpwv02e1o",
+      "provider": "BBC",
+      "title": "Who changed the game? - player ratings for Arsenal v Leeds",
+      "status": "pending",
+      "firstSeenAt": 1791640637.2141764,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
