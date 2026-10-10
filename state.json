@@ -33242,9 +33242,25 @@
       "status": "pending",
       "firstSeenAt": 1791618223.9765842,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c674peljdzn3o",
+      "provider": "BBC",
+      "title": "PC who used Taser to deliver 'hammer blows' keeps job Samuel Robinson is given a five-year written warning after using excessive force during an arrest. 7 mins ago Suffolk",
+      "status": "pending",
+      "firstSeenAt": 1791618884.037123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c620r3ge8gv5o",
+      "provider": "BBC",
+      "title": "Police issue dispersal order for market town Officers said the measure had been introduced to tackle anti-social behaviour in Melbourne. 10 mins ago Derbyshire",
+      "status": "pending",
+      "firstSeenAt": 1791618884.037157,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
