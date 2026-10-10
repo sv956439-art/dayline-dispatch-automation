@@ -33042,9 +33042,65 @@
       "status": "pending",
       "firstSeenAt": 1791612175.2363322,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c51kdm7041xpo",
+      "provider": "BBC",
+      "title": "Teens urge government not to scrap Youth Parliament Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme. Just now England",
+      "status": "pending",
+      "firstSeenAt": 1791613437.973167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2q72184d3o",
+      "provider": "BBC",
+      "title": "Beach closure as Motocross circuit returns Temporary closures will be in place while the motocross course is on Weymouth beach over the weekend. Just now Dorset",
+      "status": "pending",
+      "firstSeenAt": 1791613437.9732456,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr89zvdk4p1eo",
+      "provider": "BBC",
+      "title": "Fighting hard-to-find wildfires 'challenging' Figures show some response times in Cumbria are occasionally far longer than the 15-minute target. Just now Cumbria",
+      "status": "pending",
+      "firstSeenAt": 1791613437.973275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8gx8j8r31o",
+      "provider": "BBC",
+      "title": "Young Farmers raise money for bereavement charity Launceston and Warleggan Young Farmers' Clubs held a number of events to raise money. Just now Cornwall",
+      "status": "pending",
+      "firstSeenAt": 1791613437.9733016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c620r3j5wgzxo",
+      "provider": "BBC",
+      "title": "Same-sex pairing is important, Strictly star says The actress said taking part in Strictly Come Dancing was a surreal experience.",
+      "status": "pending",
+      "firstSeenAt": 1791613437.9745429,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
+      "provider": "The Guardian",
+      "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
+      "status": "pending",
+      "firstSeenAt": 1791613438.1828833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/aflw-wrap-st-kilda-sends-coach-nick-dal-santo-out-a-winner/107251656",
+      "provider": "ABC News Australia",
+      "title": "St Kilda end the drought to send Dal Santo out a winner",
+      "status": "pending",
+      "firstSeenAt": 1791613438.439306,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
