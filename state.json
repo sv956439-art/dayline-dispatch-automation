@@ -32714,9 +32714,41 @@
       "status": "pending",
       "firstSeenAt": 1791597162.9811394,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vgx4450v2lo",
+      "provider": "BBC",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana. Just now US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791597723.5356762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791597724.0283468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791597724.028925,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/20-minute-vegan-gluten-free-walnut-bolognese/107229436",
+      "provider": "ABC News Australia",
+      "title": "This simple and tasty vegan bolognese is ready in 20 minutes",
+      "status": "pending",
+      "firstSeenAt": 1791597724.2772524,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
