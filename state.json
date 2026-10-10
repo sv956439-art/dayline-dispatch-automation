@@ -34082,9 +34082,41 @@
       "status": "pending",
       "firstSeenAt": 1791654567.924515,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cmn4ezn5ep3jo",
+      "provider": "BBC",
+      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
+      "status": "pending",
+      "firstSeenAt": 1791655821.671499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/author-trent-dalton-love-notes-katie-noonan-grieves-marriage/107160234",
+      "provider": "ABC News Australia",
+      "title": "Author Trent Dalton's diary scrawls sent singer Katie Noonan a lifeline",
+      "status": "pending",
+      "firstSeenAt": 1791655822.864252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/who-owns-the-moon-amid-new-space-race/107229428",
+      "provider": "ABC News Australia",
+      "title": "Billionaires want to colonise the Moon but whether they can is complicated",
+      "status": "pending",
+      "firstSeenAt": 1791655822.8642936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/cruise-ship-workers-still-vulnerable-to-exploitation/107249988",
+      "provider": "ABC News Australia",
+      "title": "Union says cruise ship crews still open to exploitation under legal loophole",
+      "status": "pending",
+      "firstSeenAt": 1791655822.864315,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
