@@ -32930,9 +32930,49 @@
       "status": "pending",
       "firstSeenAt": 1791610933.5549502,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yndlevr4yo",
+      "provider": "BBC",
+      "title": "Theatre company helping mums stay in the spotlight A theatre company is providing childcare to help performers stay on stage after having children. Just now Essex",
+      "status": "pending",
+      "firstSeenAt": 1791611667.8044648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kgq7rqdql7o",
+      "provider": "BBC",
+      "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now? The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong. Just now World",
+      "status": "pending",
+      "firstSeenAt": 1791611667.8045409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1kdme230xeo",
+      "provider": "BBC",
+      "title": "Weetabix plans major revamp at HQ built in 1932 Plans include redeveloping its Brooklands warehouse site in Burton Latimer to make way for a new office building. 7 mins ago Northamptonshire",
+      "status": "pending",
+      "firstSeenAt": 1791611667.804569,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ewe5l44jxwo",
+      "provider": "BBC",
+      "title": "Supermodel's 'full circle moment' as Ireland Fashion Week impresses Now in its second year, Ireland Fashion Week takes place this week.",
+      "status": "pending",
+      "firstSeenAt": 1791611667.805113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/indian-police-detain-cockroach-movement-founder-abhijeet-dipke/107251654",
+      "provider": "ABC News Australia",
+      "title": "Indian police detain 'cockroach' movement founder Abhijeet Dipke",
+      "status": "pending",
+      "firstSeenAt": 1791611668.693902,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
