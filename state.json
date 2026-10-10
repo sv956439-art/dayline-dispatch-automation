@@ -34546,9 +34546,17 @@
       "status": "pending",
       "firstSeenAt": 1791672539.6704245,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/machete-bin-cost-freedom-of-information-victoria/107239334",
+      "provider": "ABC News Australia",
+      "title": "Butter knives, kitchen scissors among items surrendered to machete bins",
+      "status": "pending",
+      "firstSeenAt": 1791673135.3957977,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
