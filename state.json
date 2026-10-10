@@ -34154,9 +34154,33 @@
       "status": "pending",
       "firstSeenAt": 1791657912.6984057,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/the-avalanches-no-bad-memories-sampling-advertising-technology/107248538",
+      "provider": "ABC News Australia",
+      "title": "Sampling wizards The Avalanches mine magic from old ads and obsolete tech",
+      "status": "pending",
+      "firstSeenAt": 1791658765.3696392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/jillaroos-coach-jessica-skinner-2026-rugby-league-world-cup/107098594",
+      "provider": "ABC News Australia",
+      "title": "The unconventional coach out to extend the Jillaroos reign",
+      "status": "pending",
+      "firstSeenAt": 1791658765.3696866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
+      "provider": "ABC News Australia",
+      "title": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
+      "status": "pending",
+      "firstSeenAt": 1791658765.3697388,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
