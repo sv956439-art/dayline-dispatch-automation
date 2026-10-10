@@ -33922,9 +33922,25 @@
       "status": "pending",
       "firstSeenAt": 1791646649.7413714,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c63r5w20ez3do",
+      "provider": "BBC",
+      "title": "Arsenal have issues to address despite Guimaraes' rescue act Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
+      "status": "pending",
+      "firstSeenAt": 1791647398.4658043,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/horse-racing/articles/cr62yq1xe1g9o",
+      "provider": "BBC",
+      "title": "Darkness Falls beats Desert Castle in Dewhurst Stakes",
+      "status": "pending",
+      "firstSeenAt": 1791647398.5458376,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
