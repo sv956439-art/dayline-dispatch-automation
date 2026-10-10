@@ -33986,9 +33986,17 @@
       "status": "pending",
       "firstSeenAt": 1791649438.6319788,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791651074.5642452,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
