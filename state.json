@@ -33186,9 +33186,49 @@
       "status": "pending",
       "firstSeenAt": 1791616395.3323963,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmewe5jvpj9po",
+      "provider": "BBC",
+      "title": "Disappointment as motorway junction plan scrapped Plans to build a new M5 junction to the south of Tewkesbury have been scrapped. 7 mins ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1791617356.1310506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm93zlvgvw2po",
+      "provider": "BBC",
+      "title": "Four murder arrests after teenagers attacked A murder investigation is launched in Stoke-on-Trent after a man dies and another is seriously hurt. 12 mins ago Stoke & Staffordshire",
+      "status": "pending",
+      "firstSeenAt": 1791617356.131125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574p9rdk2mko",
+      "provider": "BBC",
+      "title": "Asbestos mystery leaves beloved beach closed",
+      "status": "pending",
+      "firstSeenAt": 1791617356.2061002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8r6nzp4230o",
+      "provider": "BBC",
+      "title": "Chemicals at former fuel depot 'have been removed'",
+      "status": "pending",
+      "firstSeenAt": 1791617356.2061272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
+      "provider": "The Guardian",
+      "title": "‘Cockroach’ party rally: leader detained at airport as Delhi faces large youth protest",
+      "status": "pending",
+      "firstSeenAt": 1791617356.4785042,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
