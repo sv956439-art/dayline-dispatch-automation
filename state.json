@@ -34386,9 +34386,17 @@
       "status": "pending",
       "firstSeenAt": 1791665358.3389819,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940",
+      "provider": "ABC News Australia",
+      "title": "At CPAC, Angus Taylor comes second to Pauline Hanson",
+      "status": "pending",
+      "firstSeenAt": 1791665952.2452552,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
