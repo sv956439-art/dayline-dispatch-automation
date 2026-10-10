@@ -33562,9 +33562,57 @@
       "status": "pending",
       "firstSeenAt": 1791629775.6592035,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgx9l374dko",
+      "provider": "BBC",
+      "title": "Pop-up installations to highlight homelessness People urged to \"pause, reflect and talk honestly\" about the problems of being  homeless. Just now Guernsey",
+      "status": "pending",
+      "firstSeenAt": 1791630332.1749735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c539814gwnk0o",
+      "provider": "BBC",
+      "title": "Cornish art collection returns home for exhibition The paintings have returned to Cornwall before embarking on a national tour. Just now Cornwall",
+      "status": "pending",
+      "firstSeenAt": 1791630332.1750247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly04727xlxo",
+      "provider": "BBC",
+      "title": "Pedestrian in 70s dies in collision with motorcycle A woman dies and a man in his 20s is arrested on suspicion of causing death by dangerous driving. 9 mins ago Essex",
+      "status": "pending",
+      "firstSeenAt": 1791630332.1750436,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791630332.6711974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791630332.671566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791630332.6715813,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
