@@ -34114,9 +34114,25 @@
       "status": "pending",
       "firstSeenAt": 1791655822.864315,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3y0e871rk4vo",
+      "provider": "BBC",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "status": "pending",
+      "firstSeenAt": 1791656851.7800589,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cw3dj5yx4ej2o",
+      "provider": "BBC",
+      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
+      "status": "pending",
+      "firstSeenAt": 1791656851.7805963,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
