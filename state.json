@@ -34066,9 +34066,25 @@
       "status": "pending",
       "firstSeenAt": 1791653900.3516092,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g13909lp7o",
+      "provider": "BBC",
+      "title": "Ronaldo provisionally suspended by Portuguese FA",
+      "status": "pending",
+      "firstSeenAt": 1791654567.1447496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/looksmaxxing-manosphere-attractive-bonesmashing-better-life-cost/107138724",
+      "provider": "ABC News Australia",
+      "title": "Inside the world of looksmaxxing where flaws can be fixed at a price",
+      "status": "pending",
+      "firstSeenAt": 1791654567.924515,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
