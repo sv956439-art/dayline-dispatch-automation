@@ -32810,9 +32810,17 @@
       "status": "pending",
       "firstSeenAt": 1791605634.7403078,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw3dj5n538jpo",
+      "provider": "BBC",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport. 12 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1791607675.8297625,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
