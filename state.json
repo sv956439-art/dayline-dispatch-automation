@@ -33290,9 +33290,33 @@
       "status": "pending",
       "firstSeenAt": 1791621322.122697,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz65lx3n49jo",
+      "provider": "BBC",
+      "title": "The 260-year-old pub that has become a 'disgrace' The historical Leeds pub is now an antisocial behaviour hotspot since closing in 2021, say locals. Just now West Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791622134.850008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6dxwnkeqvd4o",
+      "provider": "BBC",
+      "title": "Son jailed for murdering mum in 'ferocious' attack Michael Bowen is given a life sentence for the murder of his mother, Janet Bowen. 6 mins ago Hampshire & Isle of Wight",
+      "status": "pending",
+      "firstSeenAt": 1791622134.850052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkg845kzjg2o",
+      "provider": "BBC",
+      "title": "The volunteers 'preserving the past' at the side of the road Only 22 AA telephone boxes remain at British roadsides, with volunteers helping to preserve them. 7 mins ago North Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791622134.8500667,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
