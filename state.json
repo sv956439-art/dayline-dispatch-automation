@@ -33618,9 +33618,25 @@
       "status": "pending",
       "firstSeenAt": 1791631219.5512545,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm20wpdpgpgxo",
+      "provider": "BBC",
+      "title": "Six arrests after gunshots fired in Willenhall One person is injured after a disorder broke out on Temple Road but no-one was shot, police confirm. 6 mins ago England",
+      "status": "pending",
+      "firstSeenAt": 1791632078.784364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
+      "provider": "The Guardian",
+      "title": "Jon Davis on job titles in the age of AI – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1791632078.9768286,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
