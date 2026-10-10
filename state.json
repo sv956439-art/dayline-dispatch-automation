@@ -34306,9 +34306,33 @@
       "status": "pending",
       "firstSeenAt": 1791662263.9281745,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791663758.7478464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334",
+      "provider": "ABC News Australia",
+      "title": "Hurricane Isaias kills at least four, leaves thousands without power in US",
+      "status": "pending",
+      "firstSeenAt": 1791663759.1754186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/man-killed-by-tiger-at-uk-zoo/107252578",
+      "provider": "ABC News Australia",
+      "title": "Man dies after entering tiger enclosure at UK zoo",
+      "status": "pending",
+      "firstSeenAt": 1791663759.17545,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
