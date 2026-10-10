@@ -32818,9 +32818,17 @@
       "status": "pending",
       "firstSeenAt": 1791607675.8297625,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c317ke5ngrq7o",
+      "provider": "BBC",
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines. 6 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1791608388.019397,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
