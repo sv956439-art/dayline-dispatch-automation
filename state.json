@@ -34130,9 +34130,33 @@
       "status": "pending",
       "firstSeenAt": 1791656851.7805963,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/late-richard-morecroft-foster-journey-with-flying-fox-archie/107240086",
+      "provider": "ABC News Australia",
+      "title": "Archie the flying fox joined Richard Morecroft behind the news desk",
+      "status": "pending",
+      "firstSeenAt": 1791657912.6983364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/gnomes-stan-tv-show-horror-comedy-asa-butterfield/107246696",
+      "provider": "ABC News Australia",
+      "title": "New Australian comedy horror asks if we can still laugh at Nazis",
+      "status": "pending",
+      "firstSeenAt": 1791657912.6983757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/abc-wordage-quiz/107243876",
+      "provider": "ABC News Australia",
+      "title": "Wordage quiz: Rank 'mate', 'tool' and 'BAE' by how old they are",
+      "status": "pending",
+      "firstSeenAt": 1791657912.6984057,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
