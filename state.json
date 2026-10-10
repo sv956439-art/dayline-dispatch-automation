@@ -33890,9 +33890,41 @@
       "status": "pending",
       "firstSeenAt": 1791645827.7048364,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlyle97pqd7o",
+      "provider": "BBC",
+      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "status": "pending",
+      "firstSeenAt": 1791646649.671736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgjrpmr47vo",
+      "provider": "BBC",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable' Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "status": "pending",
+      "firstSeenAt": 1791646649.6730406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdjvdpxmvn3o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791646649.7410564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw99zy27x0rro",
+      "provider": "BBC",
+      "title": "Rayo Vallecano game abandoned after paper plane protest Rayo Vallecano's match against Athletic Club was abandoned after the home fans threw paper airplanes onto the pitch in protest against the club's owner. 32 mins ago Football",
+      "status": "pending",
+      "firstSeenAt": 1791646649.7413714,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
