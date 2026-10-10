@@ -33426,9 +33426,17 @@
       "status": "pending",
       "firstSeenAt": 1791626044.4831283,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g19pgy48yo",
+      "provider": "BBC",
+      "title": "Green Party wants to make sure it is 'not vulnerable to extremists' The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion. Just now Politics",
+      "status": "pending",
+      "firstSeenAt": 1791626523.6526113,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
