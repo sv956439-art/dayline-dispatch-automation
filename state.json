@@ -33610,9 +33610,17 @@
       "status": "pending",
       "firstSeenAt": 1791630332.6715813,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckd7qdjnd25no",
+      "provider": "BBC",
+      "title": "Men arrested over non-recent child sex abuse The arrests follow reports that the victim was sexually abused in 2008, when she was 12 years old. 15 mins ago Bradford",
+      "status": "pending",
+      "firstSeenAt": 1791631219.5512545,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
