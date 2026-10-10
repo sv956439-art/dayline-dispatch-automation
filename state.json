@@ -32890,9 +32890,49 @@
       "status": "pending",
       "firstSeenAt": 1791610083.683087,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p3gjjny4wwo",
+      "provider": "BBC",
+      "title": "Anglian Water to appear in court over dead fish Charges are brought after some 900 fish are found a dyke near a pumping station in 2024. Just now Cambridgeshire",
+      "status": "pending",
+      "firstSeenAt": 1791610933.4538052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60me10rzgrdo",
+      "provider": "BBC",
+      "title": "Work starts on 'anchor' cancer support centre Maggie's Cambridge will open at Cambridge Biomedical Campus in early 2028. Just now Cambridgeshire",
+      "status": "pending",
+      "firstSeenAt": 1791610933.4538786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5ynegzlwn2o",
+      "provider": "BBC",
+      "title": "Lucy's Law: A real bite on NI's illegal puppy trade or a toothless attack? If introduced as planned, the legislation would put Northern Ireland on par the rest of the UK by making third-party puppy and kitten sales illegal. Just now Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791610933.453908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5ev3ey3m8d9o",
+      "provider": "BBC",
+      "title": "Taxi licensing upgrades proposed to improve safety The policy aims to strengthen safety standards and encourage greener vehicles. Just now Peterborough",
+      "status": "pending",
+      "firstSeenAt": 1791610933.453936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5n49xxjxe4zo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791610933.5549502,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
