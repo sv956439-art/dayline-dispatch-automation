@@ -33482,9 +33482,33 @@
       "status": "pending",
       "firstSeenAt": 1791627443.2169619,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgdpv642g5o",
+      "provider": "BBC",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed. Just now World",
+      "status": "pending",
+      "firstSeenAt": 1791628351.8820117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791628352.343459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886",
+      "provider": "ABC News Australia",
+      "title": "Russian attacks kill at least seven people in Ukraine after Trump-Putin diesel deal",
+      "status": "pending",
+      "firstSeenAt": 1791628352.6418195,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
