@@ -34362,9 +34362,33 @@
       "status": "pending",
       "firstSeenAt": 1791664604.9116552,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/christa-pike-back-in-prison-after-botched-execution/107252594",
+      "provider": "ABC News Australia",
+      "title": "Christa Pike released from hospital, back in prison after failed execution",
+      "status": "pending",
+      "firstSeenAt": 1791665358.3378074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/first-test-south-africa-australia-day-two-analysis/107251990",
+      "provider": "ABC News Australia",
+      "title": "Matt Renshaw's 190 turns Durban Test, providing Aussie batting blueprint",
+      "status": "pending",
+      "firstSeenAt": 1791665358.3389144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/calls-for-government-to-help-foster-children-for-independence/107248498",
+      "provider": "ABC News Australia",
+      "title": "Teens in state care ask for support to transition to adulthood",
+      "status": "pending",
+      "firstSeenAt": 1791665358.3389819,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
