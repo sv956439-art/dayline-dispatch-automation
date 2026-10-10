@@ -34282,9 +34282,33 @@
       "status": "pending",
       "firstSeenAt": 1791661746.0924835,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/10/fiona-dhawunymurruwuy-will-be-evicted-on-sunday-along-with-120-other-first-nations-people-theres-no-place-for-me-ntwnfb",
+      "provider": "The Guardian",
+      "title": "Fiona Dhawunymurruwuy will be evicted on Sunday, along with 120 other First Nations people: ‘There’s no place for me’",
+      "status": "pending",
+      "firstSeenAt": 1791662263.9280756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
+      "provider": "The Guardian",
+      "title": "Portugal suspend Cristiano Ronaldo after walking out on national team",
+      "status": "pending",
+      "firstSeenAt": 1791662263.9281435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
+      "provider": "The Guardian",
+      "title": "‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife",
+      "status": "pending",
+      "firstSeenAt": 1791662263.9281745,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
