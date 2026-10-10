@@ -34042,9 +34042,33 @@
       "status": "pending",
       "firstSeenAt": 1791653148.9529753,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8r5l7n92jo",
+      "provider": "BBC",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "status": "pending",
+      "firstSeenAt": 1791653900.2725246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c5y43m9l4rzyo",
+      "provider": "BBC",
+      "title": "Edinburgh top URC after bonus-point win over Zebre",
+      "status": "pending",
+      "firstSeenAt": 1791653900.3515558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwm237zey5rgo",
+      "provider": "BBC",
+      "title": "Northampton outgun Bath in 119-point thriller",
+      "status": "pending",
+      "firstSeenAt": 1791653900.3516092,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
