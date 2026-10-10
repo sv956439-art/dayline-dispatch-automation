@@ -33994,9 +33994,25 @@
       "status": "pending",
       "firstSeenAt": 1791651074.5642452,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d63yp6rgro",
+      "provider": "BBC",
+      "title": "Wildfires came 'worryingly' close to animal sanctuary",
+      "status": "pending",
+      "firstSeenAt": 1791652350.382387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/10/donald-trump-oval-office-replica",
+      "provider": "The Guardian",
+      "title": "A replica of Donald Trump’s Oval Office goes for the gold in Washington DC",
+      "status": "pending",
+      "firstSeenAt": 1791652350.6600838,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
