@@ -34274,9 +34274,17 @@
       "status": "pending",
       "firstSeenAt": 1791661091.0900884,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/south-melbourne-stun-victory-to-claim-australia-cup/107251996",
+      "provider": "ABC News Australia",
+      "title": "South Melbourne stuns Melbourne Victory to claim Australia Cup",
+      "status": "pending",
+      "firstSeenAt": 1791661746.0924835,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
