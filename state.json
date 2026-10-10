@@ -32970,9 +32970,81 @@
       "status": "pending",
       "firstSeenAt": 1791611668.693902,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9rkyenmk44mo",
+      "provider": "BBC",
+      "title": "Crash victim to hike Sussex coast in armour Gav Collins said he suffered spinal injuries after his vehicle was hit by another while stationary. Just now Sussex",
+      "status": "pending",
+      "firstSeenAt": 1791612174.4278746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq2d6x779y5po",
+      "provider": "BBC",
+      "title": "Plans progress but 550 flats demolition 'not imminent' Residents in the flats in Whitehawk, Hollingdean and Kemptown are being supported, the council says. Just now Sussex",
+      "status": "pending",
+      "firstSeenAt": 1791612174.4279327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv2d63p2pw5no",
+      "provider": "BBC",
+      "title": "New lease for football club which is 'pride' of town Farnham Town's 25-year lease is set to be approved by the newly-formed West Surrey Shadow Authority. Just now Surrey",
+      "status": "pending",
+      "firstSeenAt": 1791612174.4279573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3j4791854xwo",
+      "provider": "BBC",
+      "title": "App for blind bus users expands to 13 hospitals Aira is available at major bus stations and interchanges in Guildford, Redhill, Staines and Woking. Just now Surrey",
+      "status": "pending",
+      "firstSeenAt": 1791612174.4279861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791612174.8214848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791612174.821507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791612174.8215258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/outback-dolly-parton-festival-narromine/107246378",
+      "provider": "ABC News Australia",
+      "title": "Outback Dolly Parton Festival bigger and glitzier than ever after star's death",
+      "status": "pending",
+      "firstSeenAt": 1791612175.2362928,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/rugby-league-world-cup-samoa-final/107251606",
+      "provider": "ABC News Australia",
+      "title": "Samoa looks for power from pain in World Cup tilt",
+      "status": "pending",
+      "firstSeenAt": 1791612175.2363322,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
