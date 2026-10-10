@@ -34498,9 +34498,25 @@
       "status": "pending",
       "firstSeenAt": 1791668252.8311276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/11/the-moment-i-knew-he-wore-a-tutu-to-make-my-siblings-laugh",
+      "provider": "The Guardian",
+      "title": "The moment I knew: We were babysitting my younger siblings and he wore a tutu to make them laugh",
+      "status": "pending",
+      "firstSeenAt": 1791669535.9773717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286",
+      "provider": "ABC News Australia",
+      "title": "Drying wetlands create genetic risk for southern Australia's brolgas",
+      "status": "pending",
+      "firstSeenAt": 1791669536.5091307,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
