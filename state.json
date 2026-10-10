@@ -33314,9 +33314,17 @@
       "status": "pending",
       "firstSeenAt": 1791622134.8500667,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/opal-tower-olympic-park-defect-free-eight-years-after-evacuation/107251142",
+      "provider": "ABC News Australia",
+      "title": "Opal Tower declared defect-free eight years after evacuations",
+      "status": "pending",
+      "firstSeenAt": 1791622763.1205125,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
