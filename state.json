@@ -34226,9 +34226,25 @@
       "status": "pending",
       "firstSeenAt": 1791659517.350848,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/solomons-mps-jet-overseas-for-treatment-while-citizens-wait/107242152",
+      "provider": "ABC News Australia",
+      "title": "Solomons MPs jet overseas for treatment while many citizens wait",
+      "status": "pending",
+      "firstSeenAt": 1791660357.4020658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/bathurst-1000-weather-start-time-how-to-watch-grid/107233984",
+      "provider": "ABC News Australia",
+      "title": "Bathurst 1000 weather, start time, how to watch and starting grid",
+      "status": "pending",
+      "firstSeenAt": 1791660357.4027917,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
