@@ -33770,9 +33770,25 @@
       "status": "pending",
       "firstSeenAt": 1791639223.1740253,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8x2z22wdeglo",
+      "provider": "BBC",
+      "title": "9 'What terminal cancer has taught me about life'",
+      "status": "pending",
+      "firstSeenAt": 1791640047.0794518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cqx2vm911870o",
+      "provider": "BBC",
+      "title": "'We lost the life of a brother' - rider protest delays Giro di Lombardia Riders at the Giro di Lombardia stage a protest over safety concerns which delays the start of the race for five minutes. 2 hrs ago Cycling",
+      "status": "pending",
+      "firstSeenAt": 1791640047.0795586,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
