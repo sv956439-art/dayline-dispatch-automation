@@ -34242,9 +34242,41 @@
       "status": "pending",
       "firstSeenAt": 1791660357.4027917,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr86z32ezel9o",
+      "provider": "BBC",
+      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+      "status": "pending",
+      "firstSeenAt": 1791661090.340701,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqvgrey535n4o",
+      "provider": "BBC",
+      "title": "Arbeloa 'doesn't feel fear' but pressure increases after loss",
+      "status": "pending",
+      "firstSeenAt": 1791661090.341054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/oscar-piastri-lando-norris-singapore-sprint-crash/107252330",
+      "provider": "ABC News Australia",
+      "title": "Piastri caught up in last-lap crash with teammate in Singapore GP sprint",
+      "status": "pending",
+      "firstSeenAt": 1791661091.0900402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-second-time/107252320",
+      "provider": "ABC News Australia",
+      "title": "Several injured, flights cancelled after second attack on Saudi airport",
+      "status": "pending",
+      "firstSeenAt": 1791661091.0900884,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
