@@ -32874,9 +32874,25 @@
       "status": "pending",
       "firstSeenAt": 1791609176.4775662,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq5yjyyzd35do",
+      "provider": "BBC",
+      "title": "Time to rise? Ranking European football's sleeping giants",
+      "status": "pending",
+      "firstSeenAt": 1791610082.7345808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/bledisloe-cup-test-wallabies-all-blacks-eden-park-live-blog/107251546",
+      "provider": "ABC News Australia",
+      "title": "Wallabies desperate to end 40-year hoodoo against All Blacks",
+      "status": "pending",
+      "firstSeenAt": 1791610083.683087,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
