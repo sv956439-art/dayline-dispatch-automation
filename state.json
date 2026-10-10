@@ -32762,9 +32762,17 @@
       "status": "pending",
       "firstSeenAt": 1791599682.570634,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89z7yz7842o",
+      "provider": "BBC",
+      "title": "Who is Nidal Hasan? What to know about US plans to livestream an execution online The planned firing-squad execution on 3 December has led to questions about legality and purpose. 11 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791600604.2570558,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
