@@ -33850,9 +33850,41 @@
       "status": "pending",
       "firstSeenAt": 1791644310.9442577,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8ezd246z1wo",
+      "provider": "BBC",
+      "title": "Woman injures three people in third Poland school knife attack in a week Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days. 9 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1791644965.814213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw33x4y8k82no",
+      "provider": "BBC",
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "status": "pending",
+      "firstSeenAt": 1791644965.8150334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791644966.1007056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/marina-silva-flavio-bolsonaro-the-amazon-brazil-president-far-right",
+      "provider": "The Guardian",
+      "title": "Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon",
+      "status": "pending",
+      "firstSeenAt": 1791644966.10103,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
