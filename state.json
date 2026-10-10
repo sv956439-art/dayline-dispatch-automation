@@ -32802,9 +32802,17 @@
       "status": "pending",
       "firstSeenAt": 1791603093.6943495,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgj921e14jdo",
+      "provider": "BBC",
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay. 6 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1791605634.7403078,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
