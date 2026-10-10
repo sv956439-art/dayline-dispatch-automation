@@ -33634,9 +33634,33 @@
       "status": "pending",
       "firstSeenAt": 1791632078.9768286,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjwe48egqzdo",
+      "provider": "BBC",
+      "title": "Police name man, 21, killed in crash One vehicle was involved in the collision which happened on the Old Mill Road near Banbridge at about 05:50 BST. Just now Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791632881.2195616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4g192r7yngo",
+      "provider": "BBC",
+      "title": "Paddy 'the Baddy' joins mental health fight Paddy Pimblett says it is \"shocking\" someone takes their life every 90 minutes in the UK. Just now Liverpool",
+      "status": "pending",
+      "firstSeenAt": 1791632881.2196345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cw073kk3800lo",
+      "provider": "BBC",
+      "title": "Crocker sets sights on route back to the top",
+      "status": "pending",
+      "firstSeenAt": 1791632881.3471062,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
