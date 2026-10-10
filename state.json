@@ -33354,9 +33354,41 @@
       "status": "pending",
       "firstSeenAt": 1791624432.6882973,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6z0vlg3xvz3o",
+      "provider": "BBC",
+      "title": "Two deals discussed before Drumcree parade ban, says Bryant The decision followed a warning from the chief constable that allowing the procession to go ahead could lead to serious injury, disorder and wider unrest across Northern Ireland. Just now Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791625321.3486094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm24n9v8rdeo",
+      "provider": "BBC",
+      "title": "How drones are hunting fires hidden beneath the Cairngorms Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth. 9 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1791625321.3486614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c9zrdl4028mko",
+      "provider": "BBC",
+      "title": "All Blacks power past Australia to retain Bledisloe Cup",
+      "status": "pending",
+      "firstSeenAt": 1791625321.349144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckz65plq04nqo",
+      "provider": "BBC",
+      "title": "Raphinha's brilliant Barcelona start interrupted by injury concerns Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury. 1 hr ago Football",
+      "status": "pending",
+      "firstSeenAt": 1791625321.4199815,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
