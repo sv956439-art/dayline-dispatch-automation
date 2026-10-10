@@ -33258,9 +33258,33 @@
       "status": "pending",
       "firstSeenAt": 1791618884.037157,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8ezw9xg15go",
+      "provider": "BBC",
+      "title": "Arts festival asks: 'What do you love about Hull?' The one-day Our City festival is returning to Hull city centre in March 2027. Just now Hull & East Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791620357.6600776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2dpq8p9qgo",
+      "provider": "BBC",
+      "title": "Scotland's papers: 'Why was maniac freed to kill?' and ferry repair bill row A review of the front page stories from the daily newspapers in Scotland. 13 mins ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791620357.6601498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/bathurst-1000-supercars-top-10-shootout/107232638",
+      "provider": "ABC News Australia",
+      "title": "Zach Bates qualifies on pole for Bathurst 1000",
+      "status": "pending",
+      "firstSeenAt": 1791620358.604273,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
