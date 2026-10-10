@@ -34450,9 +34450,57 @@
       "status": "pending",
       "firstSeenAt": 1791667461.6706128,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/yissa-closure-darwin-women-and-children-safety-concerns/107245024",
+      "provider": "ABC News Australia",
+      "title": "'Trouble coming': Fears for women and children as shelter forced to close",
+      "status": "pending",
+      "firstSeenAt": 1791668252.830549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/suns-stamp-aflw-top-four-credentials-as-crows-rebound/107252690",
+      "provider": "ABC News Australia",
+      "title": "Suns stamp AFLW top-four credentials as Crows rebound",
+      "status": "pending",
+      "firstSeenAt": 1791668252.831033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/teen-hospitalised-burns-springvale-restaurant-fire/107252668",
+      "provider": "ABC News Australia",
+      "title": "Another teen burned in seventh straight day of arson attacks in Melbourne",
+      "status": "pending",
+      "firstSeenAt": 1791668252.8310559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/ses-emergency-services-funding-mildura-government-election/107228820",
+      "provider": "ABC News Australia",
+      "title": "SES volunteers change in front of others at 'embarrassing' regional HQ",
+      "status": "pending",
+      "firstSeenAt": 1791668252.8310878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/tasmanians-expressed-doubts-firmus-now-investors-have-too/107247550",
+      "provider": "ABC News Australia",
+      "title": "Tasmanians expressed doubts about AI firm Firmus, now so have investors",
+      "status": "pending",
+      "firstSeenAt": 1791668252.8311079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/qld-urban-heat-hazard-planning-health-risks/107175790",
+      "provider": "ABC News Australia",
+      "title": "Planning under pressure to tackle rising heat risk",
+      "status": "pending",
+      "firstSeenAt": 1791668252.8311276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
