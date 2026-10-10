@@ -32826,9 +32826,57 @@
       "status": "pending",
       "firstSeenAt": 1791608388.019397,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70pee7l57do",
+      "provider": "BBC",
+      "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading. 12 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791609175.097722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1mvdmd1y7vo",
+      "provider": "BBC",
+      "title": "What happens when you grow up not knowing your family medical history? People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health. 12 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791609175.0982342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791609175.8351579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791609175.8359692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/winner-of-nikon-small-world-in-motion-competition-ai-generated/107251164",
+      "provider": "ABC News Australia",
+      "title": "Winner of scientific imagery contest was AI generated",
+      "status": "pending",
+      "firstSeenAt": 1791609176.4770176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/hilary-mcphee-australian-editor-publisher-obituary/107246522",
+      "provider": "ABC News Australia",
+      "title": "In 1975 editor Hilary McPhee changed Australian publishing forever",
+      "status": "pending",
+      "firstSeenAt": 1791609176.4775662,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
