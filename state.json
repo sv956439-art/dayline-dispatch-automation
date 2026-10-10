@@ -34530,9 +34530,17 @@
       "status": "pending",
       "firstSeenAt": 1791671031.364813,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791671813.92173,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
