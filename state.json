@@ -34602,9 +34602,25 @@
       "status": "pending",
       "firstSeenAt": 1791674579.6863747,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjzxl56q30k7o",
+      "provider": "BBC",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "status": "pending",
+      "firstSeenAt": 1791675310.3922145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "provider": "BBC",
+      "title": "17 mins ago AI is creating a 'human premium' for art made by people. But will it hold? Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins 17 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791675310.4668043,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
