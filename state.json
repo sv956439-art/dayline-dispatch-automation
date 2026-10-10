@@ -33970,9 +33970,25 @@
       "status": "pending",
       "firstSeenAt": 1791647926.1899405,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250313-jean-luc-godard-on-the-film-that-changed-cinema",
+      "provider": "BBC",
+      "title": "Jean-Luc Godard on the film that changed cinema Stylish and experimental, Breathless heralded a new era of film-making when it was released 65 years ago. In 1964, its director told the BBC why he broke every rule he could.",
+      "status": "pending",
+      "firstSeenAt": 1791649438.631955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250117-the-surprising-story-behind-kate-bushs-first-hit-wuthering-heights",
+      "provider": "BBC",
+      "title": "Kate Bush on the song that made her a star The singer wrote her chart-topping debut single Wuthering Heights when she was just 18, beginning a unique career in music that reaches all the way to Stranger Things.",
+      "status": "pending",
+      "firstSeenAt": 1791649438.6319788,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
