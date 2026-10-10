@@ -33098,9 +33098,65 @@
       "status": "pending",
       "firstSeenAt": 1791613438.439306,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky93qnp3q0vo",
+      "provider": "BBC",
+      "title": "Zoo's 'much-loved' tortoise dies Staff said Biggy was the zoo's \"biggest resident, and much-loved by visitors, staff and volunteers\". 12 mins ago Jersey",
+      "status": "pending",
+      "firstSeenAt": 1791614648.4050083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwrky4jd343zo",
+      "provider": "BBC",
+      "title": "Island tops 1m air passengers after summer boost Ports of Jersey says the figures reflect a strong year for travel to and from the island. 13 mins ago Jersey",
+      "status": "pending",
+      "firstSeenAt": 1791614648.4050622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63r5qjqq7xyo",
+      "provider": "BBC",
+      "title": "'We bring traditional Manx music to life' Youth group Bree, is marking 20 years with a two-day music and dance workshop at half term.",
+      "status": "pending",
+      "firstSeenAt": 1791614648.406301,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyd9k3lynzo",
+      "provider": "BBC",
+      "title": "'Reading group helped me brave the outdoors'",
+      "status": "pending",
+      "firstSeenAt": 1791614648.4063265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8dzq08lp9qo",
+      "provider": "BBC",
+      "title": "14 mins ago Record-smashing motorcycle 'the star' of exhibition The motorcycle will be telling the story of racer George Brown at the place where he made history. 14 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791614648.4839988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c679pdwdrlero",
+      "provider": "BBC",
+      "title": "44 mins ago Joey Essex: I dreamt of honouring boxing bloodline The reality TV star trains with his uncle, Tony Sims, and has a large boxing family. 44 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791614648.4840868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/light-aircraft-crash-muchea/107251682",
+      "provider": "ABC News Australia",
+      "title": "Light aircraft crashes in field, two men on board survive",
+      "status": "pending",
+      "firstSeenAt": 1791614649.761839,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
