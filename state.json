@@ -33282,9 +33282,17 @@
       "status": "pending",
       "firstSeenAt": 1791620358.604273,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l3vzep5mro",
+      "provider": "BBC",
+      "title": "New addiction support for rough sleepers People do not need to be ready to stop using drugs or alcohol to ask for, or be offered, help. 14 mins ago Surrey",
+      "status": "pending",
+      "firstSeenAt": 1791621322.122697,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
