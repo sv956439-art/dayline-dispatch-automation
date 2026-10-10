@@ -33522,9 +33522,49 @@
       "status": "pending",
       "firstSeenAt": 1791629152.7555912,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx28pd23pn5o",
+      "provider": "BBC",
+      "title": "Rail disruption due to overhead line fault A fault with overhead wires near Penkridge is causing disruption between Stafford and Wolverhampton. Just now England",
+      "status": "pending",
+      "firstSeenAt": 1791629775.0923672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wve47vjzjo",
+      "provider": "BBC",
+      "title": "Man charged with attempted murder after stabbing Juan Martez-Ortiz, of Sevenoaks Road, is charged with attempted murder and other offences. 5 mins ago Kent",
+      "status": "pending",
+      "firstSeenAt": 1791629775.0923996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3wyvj82xq4jo",
+      "provider": "BBC",
+      "title": "Website aims to make mental health support easier Humber Teaching NHS Foundation Trust says the site aims to make their services easier to navigate. 11 mins ago Hull & East Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791629775.0924528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791629775.65803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
+      "provider": "The Guardian",
+      "title": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
+      "status": "pending",
+      "firstSeenAt": 1791629775.6592035,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
