@@ -33226,9 +33226,25 @@
       "status": "pending",
       "firstSeenAt": 1791617356.4785042,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1w3px8d9o",
+      "provider": "BBC",
+      "title": "Firefighters spend night tackling Glasgow scrap yard blaze The Scottish Fire and Rescue Service said the alarm was raised at the business in the Scotstoun area of the city on Friday night. 8 mins ago Glasgow & West Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791618223.6281462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/picture/2026/oct/10/i-dont-actually-have-to-be-at-home-when-im-wfh-do-i-the-edith-pritchett-cartoon",
+      "provider": "The Guardian",
+      "title": "I don’t actually have to be at home when I’m wfh, do I? The Edith Pritchett cartoon",
+      "status": "pending",
+      "firstSeenAt": 1791618223.9765842,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
