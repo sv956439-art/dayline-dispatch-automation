@@ -32754,9 +32754,17 @@
       "status": "pending",
       "firstSeenAt": 1791598686.4931312,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/flydubai-co-pilot-radicalisation-australia-uae-prosecutors-ntwnfb",
+      "provider": "The Guardian",
+      "title": "Flydubai co-pilot began radicalisation in Australia, UAE prosecutors say",
+      "status": "pending",
+      "firstSeenAt": 1791599682.570634,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
