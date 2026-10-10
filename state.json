@@ -33386,9 +33386,49 @@
       "status": "pending",
       "firstSeenAt": 1791625321.4199815,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1x77xzx8o",
+      "provider": "BBC",
+      "title": "Lorry crash closes A1 southbound near Newark Police have been called to the scene after a lorry hit the central reservation. 7 mins ago Nottinghamshire",
+      "status": "pending",
+      "firstSeenAt": 1791626044.4159956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxm231y2z8mvo",
+      "provider": "BBC",
+      "title": "New routes as buses taken under public control The Liverpool Combined Authority says two new routes with improved hospital links will launch. 13 mins ago Liverpool",
+      "status": "pending",
+      "firstSeenAt": 1791626044.4160578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwe9lngxzjpno",
+      "provider": "BBC",
+      "title": "Palmer signs new Chelsea contract until 2034",
+      "status": "pending",
+      "firstSeenAt": 1791626044.4826763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw4g1z0g17x8o",
+      "provider": "BBC",
+      "title": "Wales must improve in World Cup bid - Wilkinson",
+      "status": "pending",
+      "firstSeenAt": 1791626044.4830315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxj0l2d4dp2vo",
+      "provider": "BBC",
+      "title": "Delight for Scotland's Cuthbert after long summer of recovery",
+      "status": "pending",
+      "firstSeenAt": 1791626044.4831283,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
