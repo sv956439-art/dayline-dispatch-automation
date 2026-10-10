@@ -34178,9 +34178,57 @@
       "status": "pending",
       "firstSeenAt": 1791658765.3697388,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmje5x80yg70o",
+      "provider": "BBC",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone. Just now US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791659516.426674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791659516.8292842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791659516.8292978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791659516.8293083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791659516.8296096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/mark-dennis-from-top-barrister-to-accused-paedophile/107240162",
+      "provider": "ABC News Australia",
+      "title": "Retracing the steps of Mark Dennis, 'brilliant' barrister with a dark side",
+      "status": "pending",
+      "firstSeenAt": 1791659517.350848,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
