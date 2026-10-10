@@ -33738,9 +33738,33 @@
       "status": "pending",
       "firstSeenAt": 1791637347.817954,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5ynjz8vxn0o",
+      "provider": "BBC",
+      "title": "Teesside community unites for Boro 150 performance A song has been composed to celebrate the 150th anniversary of Middlesbrough Football Club.",
+      "status": "pending",
+      "firstSeenAt": 1791638295.6315732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791638295.9244862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/10/peter-crome-best-phone-picture-london-dogs",
+      "provider": "The Guardian",
+      "title": "‘They looked like two curtain-twitchers, though not very subtle ones’: Peter Crome’s best phone picture",
+      "status": "pending",
+      "firstSeenAt": 1791638295.9251146,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
