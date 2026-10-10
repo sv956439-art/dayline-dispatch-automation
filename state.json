@@ -33434,9 +33434,57 @@
       "status": "pending",
       "firstSeenAt": 1791626523.6526113,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw77prjl6yv8o",
+      "provider": "BBC",
+      "title": "BBC Scotland presenter Amy Irons expecting first baby She broke the news on BBC Radio Scotland's The Saturday Show which she presents alongside co-host Steven Mill. Just now Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791627441.9672034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3wyvj8r2wqzo",
+      "provider": "BBC",
+      "title": "Man charged with woman's murder appears in court Luke Rigby appeared by video link during the hearing at Plymouth Magistrates' Court. 8 mins ago Devon",
+      "status": "pending",
+      "firstSeenAt": 1791627441.967273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+      "provider": "BBC",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach. 10 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791627441.9673007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791627442.501549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/10/suicide-memorial-chicago-catholic-church",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791627442.5016913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/carlton-death-investigation-woman-jayda-allan-bonner/107251134",
+      "provider": "ABC News Australia",
+      "title": "Woman found dead in Carlton apartment identified as 21yo Jayda Allen Bonner",
+      "status": "pending",
+      "firstSeenAt": 1791627443.2169619,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
