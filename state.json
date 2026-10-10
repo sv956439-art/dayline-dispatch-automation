@@ -34330,9 +34330,41 @@
       "status": "pending",
       "firstSeenAt": 1791663759.17545,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/nsw-small-businesses-look-at-how-to-cover-merchant-fees/107248710",
+      "provider": "ABC News Australia",
+      "title": "'Someone has to pay': Small businesses grapple with card surcharge ban",
+      "status": "pending",
+      "firstSeenAt": 1791664604.911585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/kgari-fraser-island-horses-featured-in-short-wartime-film-qld/107244022",
+      "provider": "ABC News Australia",
+      "title": "Island horses take centre stage in movie project",
+      "status": "pending",
+      "firstSeenAt": 1791664604.9116137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/sport-aus-sa-test-quick-hits-day-two-renshaw-lyon/107251794",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: AFL star in the sheds as Aussies go better than Bradman",
+      "status": "pending",
+      "firstSeenAt": 1791664604.9116368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/victorian-election-mineral-royalties-technical-colleges/107251274",
+      "provider": "ABC News Australia",
+      "title": "Mineral royalties and technical colleges in duelling Victorian election pledges",
+      "status": "pending",
+      "firstSeenAt": 1791664604.9116552,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
