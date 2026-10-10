@@ -33154,9 +33154,33 @@
       "status": "pending",
       "firstSeenAt": 1791614649.761839,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm74pe8v97vjo",
+      "provider": "BBC",
+      "title": "Jeweller left shaking after shop 'rammed by van' The shop faces an indefinite closure while the listed building is checked by structural engineers. Just now Beds, Herts & Bucks",
+      "status": "pending",
+      "firstSeenAt": 1791615582.1372404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674",
+      "provider": "ABC News Australia",
+      "title": "Police investigating unexplained infant death at Adelaide motel",
+      "status": "pending",
+      "firstSeenAt": 1791615582.6312766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/south-africa-australia-first-test-live-day-two/107251570",
+      "provider": "ABC News Australia",
+      "title": "Matt Renshaw's rescue effort continues on day two in Durban",
+      "status": "pending",
+      "firstSeenAt": 1791615582.631309,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
