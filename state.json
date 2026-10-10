@@ -34538,9 +34538,17 @@
       "status": "pending",
       "firstSeenAt": 1791671813.92173,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-twelve-dead/107252320",
+      "provider": "ABC News Australia",
+      "title": "Twelve dead, flights cancelled after third attack on Saudi airport",
+      "status": "pending",
+      "firstSeenAt": 1791672539.6704245,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
