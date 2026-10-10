@@ -32770,9 +32770,17 @@
       "status": "pending",
       "firstSeenAt": 1791600604.2570558,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/sa-starts-shield-defence-with-innings-win-over-victoria/107251344",
+      "provider": "ABC News Australia",
+      "title": "SA starts Shield defence with innings win over Victoria",
+      "status": "pending",
+      "firstSeenAt": 1791601238.7405882,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
