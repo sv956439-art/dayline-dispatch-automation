@@ -34554,9 +34554,49 @@
       "status": "pending",
       "firstSeenAt": 1791673135.3957977,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c9ly0543nnx3o",
+      "provider": "BBC",
+      "title": "Ex-UFC fighter MVP signs with KSI's Misfits Boxing",
+      "status": "pending",
+      "firstSeenAt": 1791673774.067351,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw77prgk52zro",
+      "provider": "BBC",
+      "title": "Savage success and statement win for Boro - Sam Parkin's EFL Takeaways",
+      "status": "pending",
+      "firstSeenAt": 1791673774.0683403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/love-story-chanelle-jed-meet-cute-golf-vision-impairment/107233342",
+      "provider": "ABC News Australia",
+      "title": "Being vision impaired made me feel unlovable, then I met Jed",
+      "status": "pending",
+      "firstSeenAt": 1791673774.5942128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/tiny-fijian-bee-discovered-on-brink-of-extinction/107243478",
+      "provider": "ABC News Australia",
+      "title": "Race to stop rice-sized bee from a silent extinction",
+      "status": "pending",
+      "firstSeenAt": 1791673774.5948236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/bathurst-1000-live-supercars-mount-panorama/107232640",
+      "provider": "ABC News Australia",
+      "title": "Drivers and teams make final preparation for Bathurst 1000",
+      "status": "pending",
+      "firstSeenAt": 1791673774.59487,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
