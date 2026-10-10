@@ -32658,9 +32658,17 @@
       "status": "pending",
       "firstSeenAt": 1791591964.4990623,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/homelessness-increase-perth/107178436",
+      "provider": "ABC News Australia",
+      "title": "Homelessness camp in Perth's south tip of iceberg",
+      "status": "pending",
+      "firstSeenAt": 1791593460.9359908,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
