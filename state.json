@@ -33802,9 +33802,33 @@
       "status": "pending",
       "firstSeenAt": 1791641236.6105456,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/ckp8gqplvj85o",
+      "provider": "BBC",
+      "title": "Middlesbrough-born Renshaw's epic 190 lifts Australia",
+      "status": "pending",
+      "firstSeenAt": 1791642121.74492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791642122.1320336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/10/angel-reese-wnba-finals-atlanta-dream-critics-apology",
+      "provider": "The Guardian",
+      "title": "‘I’m supposed to be here’: Angel Reese’s road from ridicule to the WNBA finals",
+      "status": "pending",
+      "firstSeenAt": 1791642122.1325035,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
