@@ -33322,9 +33322,33 @@
       "status": "pending",
       "firstSeenAt": 1791622763.1205125,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261009-the-houses-made-from-rice-husks",
+      "provider": "BBC",
+      "title": "The US homes built from rice A notoriously stubborn agricultural waste product, rice husk is now being repurposed as a sturdy and resilient construction material.",
+      "status": "pending",
+      "firstSeenAt": 1791623509.3645117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1xz912e8o",
+      "provider": "BBC",
+      "title": "Aircraft standby plan aims to improve reliability",
+      "status": "pending",
+      "firstSeenAt": 1791623509.4620469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791623510.1280453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
