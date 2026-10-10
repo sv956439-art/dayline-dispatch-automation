@@ -32626,9 +32626,41 @@
       "status": "pending",
       "firstSeenAt": 1791590477.882023,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjly0el6r7lzo",
+      "provider": "BBC",
+      "title": "'Airlines sound alarm on costs crisis' and 'King's £1.5m bailout' The weekend edition of the Financial Times highlights what it is calling a \"mounting crisis\" for airlines. 21 mins ago The Papers",
+      "status": "pending",
+      "firstSeenAt": 1791591963.9679284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp8gknl1njjo",
+      "provider": "BBC",
+      "title": "Questions remain over Ebola patient who travelled across three nations undetected Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill. 25 mins ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1791591963.9679458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/police-save-man-who-jumped-into-river-torrens-evade-capture/107250890",
+      "provider": "ABC News Australia",
+      "title": "Police save man who jumped into river to evade capture",
+      "status": "pending",
+      "firstSeenAt": 1791591964.4990377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-10/christopher-saunders-sentence-hope-for-future/107243456",
+      "provider": "ABC News Australia",
+      "title": "Kimberley leaders hope jailing of 'evil' Broome bishop exposes more abusers",
+      "status": "pending",
+      "firstSeenAt": 1791591964.4990623,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
