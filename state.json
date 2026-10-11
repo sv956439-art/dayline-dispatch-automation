@@ -34714,9 +34714,17 @@
       "status": "pending",
       "firstSeenAt": 1791682842.8917978,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768",
+      "provider": "ABC News Australia",
+      "title": "Running legend Kipchoge sets race record at Melbourne Marathon",
+      "status": "pending",
+      "firstSeenAt": 1791683597.4190443,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
