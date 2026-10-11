@@ -35538,9 +35538,25 @@
       "status": "pending",
       "firstSeenAt": 1791725467.5533679,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791726349.8731897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
+      "provider": "The Guardian",
+      "title": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
+      "status": "pending",
+      "firstSeenAt": 1791726349.8738904,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
