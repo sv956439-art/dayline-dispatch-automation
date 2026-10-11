@@ -36370,9 +36370,49 @@
       "status": "pending",
       "firstSeenAt": 1791759663.9058962,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn5d92423vyo",
+      "provider": "BBC",
+      "title": "'It's the most terrifying thing that can happen to you': Robert Pattinson on new film Primetime The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
+      "status": "pending",
+      "firstSeenAt": 1791760477.6421585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj9k23rynnpo",
+      "provider": "BBC",
+      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+      "status": "pending",
+      "firstSeenAt": 1791760477.6421745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791760478.1921425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/12/failure-fit-tags-offenders-unmonitored-england-wales",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791760478.1921554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/russia-interfered-in-brexit-referendum-british-pm-says/107254822",
+      "provider": "ABC News Australia",
+      "title": "Russia interfered in Brexit referendum, British PM says",
+      "status": "pending",
+      "firstSeenAt": 1791760478.8978665,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
