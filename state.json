@@ -35514,9 +35514,33 @@
       "status": "pending",
       "firstSeenAt": 1791724493.9093037,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791725467.2873995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791725467.2878032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/pope-leo-lung-nodule-surgery/107253926",
+      "provider": "ABC News Australia",
+      "title": "Pope Leo to undergo surgery after discovery of lung nodule",
+      "status": "pending",
+      "firstSeenAt": 1791725467.5533679,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
