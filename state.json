@@ -34746,9 +34746,17 @@
       "status": "pending",
       "firstSeenAt": 1791684142.5645494,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/justice-department-probes-tv-networks-over-trump-pool-coverage/107252930",
+      "provider": "ABC News Australia",
+      "title": "Major US news networks face probe over White House coverage boycott",
+      "status": "pending",
+      "firstSeenAt": 1791686049.3199975,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
