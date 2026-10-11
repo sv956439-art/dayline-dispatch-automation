@@ -35786,9 +35786,17 @@
       "status": "pending",
       "firstSeenAt": 1791735521.7280893,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93znyk44e1o",
+      "provider": "BBC",
+      "title": "Saudi capital airport hit by second strike in two days Yemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.",
+      "status": "pending",
+      "firstSeenAt": 1791737368.8532438,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
