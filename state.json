@@ -35754,9 +35754,41 @@
       "status": "pending",
       "firstSeenAt": 1791734570.2318685,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqvg0pdye05ro",
+      "provider": "BBC",
+      "title": "Australia veterans shine against South Africa",
+      "status": "pending",
+      "firstSeenAt": 1791735521.6071548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cr78pe7yjxxjo",
+      "provider": "BBC",
+      "title": "Karaoke-singing Zheng makes history with China Open win",
+      "status": "pending",
+      "firstSeenAt": 1791735521.7275996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwe9lgx1rjk2o",
+      "provider": "BBC",
+      "title": "Late Sale penalty try continues Harlequins woes",
+      "status": "pending",
+      "firstSeenAt": 1791735521.727749,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/crq8nyy254y3o",
+      "provider": "BBC",
+      "title": "Davies urged to reverse retirement for World Cup",
+      "status": "pending",
+      "firstSeenAt": 1791735521.7280893,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
