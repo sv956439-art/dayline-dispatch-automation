@@ -34674,9 +34674,33 @@
       "status": "pending",
       "firstSeenAt": 1791678903.8687286,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9vgregzk6gro",
+      "provider": "BBC",
+      "title": "US justice department investigates TV networks over Trump pool coverage The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage. 21 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791681067.8939505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rmy790nd00o",
+      "provider": "BBC",
+      "title": "Ceremony marks return home of kiwi feather cloak The kahu kiwi, given to a British doctor in 1900, was \"crying to come home\", Māori campaigners say. 6 hrs ago Oxfordshire",
+      "status": "pending",
+      "firstSeenAt": 1791681067.9820678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/cocos-keeling-islands-delegation-refused-funding-cop31/107244064",
+      "provider": "ABC News Australia",
+      "title": "Pre-COP push leaves Australia's remotest territory feeling forgotten",
+      "status": "pending",
+      "firstSeenAt": 1791681068.539282,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
