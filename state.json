@@ -36410,9 +36410,41 @@
       "status": "pending",
       "firstSeenAt": 1791760478.8978665,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d7q5z17gp5o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791761360.0377533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn5v21py07vo",
+      "provider": "BBC",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "status": "pending",
+      "firstSeenAt": 1791761360.038358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c962y4ld1d7do",
+      "provider": "BBC",
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "status": "pending",
+      "firstSeenAt": 1791761360.0383847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g1xz1l9ddo",
+      "provider": "BBC",
+      "title": "Debt advice that may leave you owing even more money People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+      "status": "pending",
+      "firstSeenAt": 1791761360.0384696,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
