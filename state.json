@@ -36098,9 +36098,33 @@
       "status": "pending",
       "firstSeenAt": 1791747158.3604848,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/nrma-insurance-underpaid-hundreds-injured-nsw-motorists/107230062",
+      "provider": "ABC News Australia",
+      "title": "Insurer underpaid hundreds of NSW accident victims in 'mind blowing' error",
+      "status": "pending",
+      "firstSeenAt": 1791747985.860189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/teenager-charged-melbourne-hit-run/107254454",
+      "provider": "ABC News Australia",
+      "title": "Teenager charged over Melbourne CBD hit-and-run",
+      "status": "pending",
+      "firstSeenAt": 1791747985.860412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/is-national-security-office-precinct-most-secret-building/107251478",
+      "provider": "ABC News Australia",
+      "title": "Is this Australia's most secret building?",
+      "status": "pending",
+      "firstSeenAt": 1791747985.8610158,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
