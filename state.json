@@ -36066,9 +36066,25 @@
       "status": "pending",
       "firstSeenAt": 1791745371.6401222,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgde0m2d73o",
+      "provider": "BBC",
+      "title": "Orangutans released back into Borneo forest after devastating fires Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "status": "pending",
+      "firstSeenAt": 1791746271.3404937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/powderfinger-australian-tour-2027-tickets-dates/107253646",
+      "provider": "ABC News Australia",
+      "title": "Powderfinger reveals massive 18-date Australian tour",
+      "status": "pending",
+      "firstSeenAt": 1791746272.462759,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
