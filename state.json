@@ -35834,9 +35834,17 @@
       "status": "pending",
       "firstSeenAt": 1791739633.0861526,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n9rvynl5p5o",
+      "provider": "BBC",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "status": "pending",
+      "firstSeenAt": 1791740450.1180189,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
