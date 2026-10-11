@@ -36346,9 +36346,25 @@
       "status": "pending",
       "firstSeenAt": 1791758285.172505,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791759089.1957438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/severe-storm-cause-damage-trees-downed-across-adelaide/107254548",
+      "provider": "ABC News Australia",
+      "title": "Trees down, hail fell across Adelaide during storm",
+      "status": "pending",
+      "firstSeenAt": 1791759089.5496118,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
