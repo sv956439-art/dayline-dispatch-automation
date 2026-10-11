@@ -36362,9 +36362,17 @@
       "status": "pending",
       "firstSeenAt": 1791759089.5496118,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/cow-fitbits-are-helping-pastoralists-learn-more-about-cattle/107248546",
+      "provider": "ABC News Australia",
+      "title": "Cow 'Fitbit' helps pastoralists care for newborn calves",
+      "status": "pending",
+      "firstSeenAt": 1791759663.9058962,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
