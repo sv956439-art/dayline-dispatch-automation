@@ -35490,9 +35490,33 @@
       "status": "pending",
       "firstSeenAt": 1791723614.60847,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261007-the-ghost-town-that-almost-became-aspen",
+      "provider": "BBC",
+      "title": "The ghost town that almost became Aspen Just 15 minutes from glitzy Aspen lies Ashcroft, an atmospheric ghost town that once had ambitions to become Colorado's next great ski resort.",
+      "status": "pending",
+      "firstSeenAt": 1791724493.2911618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/11/first-hampden-campaign-glasgow-scotland-football",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791724493.9089746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/volunteers-protecting-kyiv-new-jet-powered-drones",
+      "provider": "The Guardian",
+      "title": "‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones",
+      "status": "pending",
+      "firstSeenAt": 1791724493.9093037,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
