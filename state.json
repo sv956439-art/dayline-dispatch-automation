@@ -34970,9 +34970,57 @@
       "status": "pending",
       "firstSeenAt": 1791698303.2715218,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkg50028n9po",
+      "provider": "BBC",
+      "title": "6 mins ago 'Loneliest dog' finds home after 3 years in kennels Sadie is enjoying life with a new family after becoming a social media star. 6 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791699187.0524786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c678p5zp1rkdo",
+      "provider": "BBC",
+      "title": "55 mins ago Adventurer who lost leg says 'don't send me money' Luke Tarrant says he is \"disgusted\" that fraudsters are pretending to be him on social media. 55 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791699187.0525112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791699187.289929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791699187.2899492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791699187.2899687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/stab-to-the-heart-arrest-of-german-ex-spymaster-sparks-calls-for-reform",
+      "provider": "The Guardian",
+      "title": "‘Stab to the heart’: arrest of German ex-spymaster sparks calls for reform",
+      "status": "pending",
+      "firstSeenAt": 1791699187.2903006,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
