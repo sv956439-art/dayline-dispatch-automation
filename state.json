@@ -35106,9 +35106,41 @@
       "status": "pending",
       "firstSeenAt": 1791701714.13775,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791702420.6692183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791702420.669645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/south-africa-australia-kingsmead-test-day-three-live-blog/107252970",
+      "provider": "ABC News Australia",
+      "title": "Aussie attack hunting wickets on day three against South Africa",
+      "status": "pending",
+      "firstSeenAt": 1791702421.1082566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/nepal-urges-villagers-evacuate-after-landslides-trigger-flood/107253580",
+      "provider": "ABC News Australia",
+      "title": "Nepal urges villagers to evacuate after landslide triggers flood",
+      "status": "pending",
+      "firstSeenAt": 1791702421.1082735,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
