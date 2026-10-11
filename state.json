@@ -34922,9 +34922,49 @@
       "status": "pending",
       "firstSeenAt": 1791696698.1179938,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvy0rp14xz7lo",
+      "provider": "BBC",
+      "title": "Toxicity and uncertainty await Man City - will their season even matter? Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "status": "pending",
+      "firstSeenAt": 1791697619.626705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg0mje4537o",
+      "provider": "BBC",
+      "title": "'Love of reading' key to improving city's literacy rates Children in Peterborough are encouraged to choose their own reading material",
+      "status": "pending",
+      "firstSeenAt": 1791697619.6269171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgj961njxgvo",
+      "provider": "BBC",
+      "title": "Pier premiere celebrates film before Prime release",
+      "status": "pending",
+      "firstSeenAt": 1791697619.626944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/massage-parlour-burgled-hours-after-crash-injured-three-workers/107253420",
+      "provider": "ABC News Australia",
+      "title": "Canberra massage parlour says robbery followed shopfront car crash",
+      "status": "pending",
+      "firstSeenAt": 1791697620.2650366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/tribute-shark-attack-victim-sorrento-greg-oneill/107253220",
+      "provider": "ABC News Australia",
+      "title": "Children of shark victim call for return to the ocean at his memorial",
+      "status": "pending",
+      "firstSeenAt": 1791697620.2650867,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
