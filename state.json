@@ -34634,9 +34634,49 @@
       "status": "pending",
       "firstSeenAt": 1791677354.1535897,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/surfer-caio-ibelli-moves-to-outback-queensland/107242836",
+      "provider": "ABC News Australia",
+      "title": "Pro surfer swaps California waves for life in the outback",
+      "status": "pending",
+      "firstSeenAt": 1791678903.8685606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724",
+      "provider": "ABC News Australia",
+      "title": "Taylor says he would welcome return of Frydenberg to politics",
+      "status": "pending",
+      "firstSeenAt": 1791678903.868609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/attempted-murder-charge-after-barossa-stabbing/107252852",
+      "provider": "ABC News Australia",
+      "title": "Man charged with attempted murder after Barossa Valley hinterland stabbing",
+      "status": "pending",
+      "firstSeenAt": 1791678903.8686523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/big-carnaby-cockatoo-sculpture-moora/107230254",
+      "provider": "ABC News Australia",
+      "title": "Australia's next big thing unveiled in honour of conservation legend",
+      "status": "pending",
+      "firstSeenAt": 1791678903.868687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788",
+      "provider": "ABC News Australia",
+      "title": "Pregnant woman among eight killed in Pennsylvania shooting",
+      "status": "pending",
+      "firstSeenAt": 1791678903.8687286,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
