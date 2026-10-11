@@ -36290,9 +36290,17 @@
       "status": "pending",
       "firstSeenAt": 1791755099.0301774,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1pqyqzqwo",
+      "provider": "BBC",
+      "title": "'Prepare for the unthinkable' warning over autumn flooding",
+      "status": "pending",
+      "firstSeenAt": 1791755835.8083587,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
