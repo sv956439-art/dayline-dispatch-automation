@@ -35658,9 +35658,17 @@
       "status": "pending",
       "firstSeenAt": 1791729451.7787683,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pvg4jyz1m0o",
+      "provider": "BBC",
+      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire' 12 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791730800.3528771,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
