@@ -35362,9 +35362,25 @@
       "status": "pending",
       "firstSeenAt": 1791718790.3262417,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgr8221v4x1o",
+      "provider": "BBC",
+      "title": "UK wildlife park remains closed after fatal tiger attack A wildlife park is closed after a man entered the tiger enclosure and was fatally attacked. 29 mins ago South Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791719556.8643453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3rer7e4rngo",
+      "provider": "BBC",
+      "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically. 12 hrs ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1791719556.8645322,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
