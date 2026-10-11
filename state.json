@@ -35794,9 +35794,41 @@
       "status": "pending",
       "firstSeenAt": 1791737368.8532438,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20231123-the-last-places-on-earth-to-see-truly-dark-starry-nights",
+      "provider": "BBC",
+      "title": "The last places to see truly dark starry nights Astrophysicist and documentary photographer Jordi Busqué shares 11 photos of the night's sky that transcend the boundaries of science and venture into the realm of pure wonder.",
+      "status": "pending",
+      "firstSeenAt": 1791737997.6649654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20220411-portugals-ultimate-stargazing-road-trip",
+      "provider": "BBC",
+      "title": "The ultimate stargazing road trip Home to Portugal's \"mountain of stars\" and some of Europe's least light-polluted skies, the Alentejo region is best seen at night.",
+      "status": "pending",
+      "firstSeenAt": 1791737997.6649866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20240521-the-remote-argentinean-community-that-is-saving-the-stars",
+      "provider": "BBC",
+      "title": "The remote people sharing their ancient star lore In the jungle of Misiones, Argentina's northern green thumb, one Indigenous community is working to save their ancient knowledge of the night sky.",
+      "status": "pending",
+      "firstSeenAt": 1791737997.6650052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791737997.9123428,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
