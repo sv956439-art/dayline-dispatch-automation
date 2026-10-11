@@ -34722,9 +34722,33 @@
       "status": "pending",
       "firstSeenAt": 1791683597.4190443,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y43mmke7ygo",
+      "provider": "BBC",
+      "title": "Bid to overturn ruling which stops police being sued for failings MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent. 3 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791684141.6762033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/11/out-of-the-rubble-and-on-to-the-beach-gazas-junior-surf-lifesavers-return-to-the-waves-after-three-years-of-war",
+      "provider": "The Guardian",
+      "title": "Out of the rubble and on to the beach: Gaza’s junior surf lifesavers return to the waves after three years of war",
+      "status": "pending",
+      "firstSeenAt": 1791684142.0589442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/penguin-colony-game-explores-colonialism-and-cosmic-horror/107243792",
+      "provider": "ABC News Australia",
+      "title": "Game developer explores colonialism through the eyes of a penguin",
+      "status": "pending",
+      "firstSeenAt": 1791684142.5645494,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
