@@ -35714,9 +35714,17 @@
       "status": "pending",
       "firstSeenAt": 1791732453.7464638,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/12/mick-fanning-punch-shark-surfing-australia-book-all-heart",
+      "provider": "The Guardian",
+      "title": "‘That’s when I begin to scream’: Mick Fanning on punching a great white shark",
+      "status": "pending",
+      "firstSeenAt": 1791733339.7548964,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
