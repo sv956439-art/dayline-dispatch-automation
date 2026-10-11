@@ -36026,9 +36026,41 @@
       "status": "pending",
       "firstSeenAt": 1791743750.54165,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c65yn9kn47eko",
+      "provider": "BBC",
+      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "status": "pending",
+      "firstSeenAt": 1791744789.7187788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791744790.0587559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/greens-push-to-sue-big-tech-over-online-harm-safety-laws-labor/107253674",
+      "provider": "ABC News Australia",
+      "title": "Greens push for right to sue big tech as Labor axes ministerial powers",
+      "status": "pending",
+      "firstSeenAt": 1791744790.3875778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/greens-want-to-block-us-execution-live-stream/107253928",
+      "provider": "ABC News Australia",
+      "title": "Calls on federal government to block US execution live stream in Australia",
+      "status": "pending",
+      "firstSeenAt": 1791744790.3886695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
