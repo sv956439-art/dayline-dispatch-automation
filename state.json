@@ -35474,9 +35474,25 @@
       "status": "pending",
       "firstSeenAt": 1791722610.3080745,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw0k0g57mk3zo",
+      "provider": "BBC",
+      "title": "Ukraine strikes Russian data centre again despite Trump warning It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "status": "pending",
+      "firstSeenAt": 1791723613.591536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/houthi-airport-attack-saudi-arabia-riyadh-closure/107253872",
+      "provider": "ABC News Australia",
+      "title": "Saudi Arabia extends airport closure as Houthis warn 'worse is yet to come'",
+      "status": "pending",
+      "firstSeenAt": 1791723614.60847,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
