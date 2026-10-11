@@ -35210,9 +35210,17 @@
       "status": "pending",
       "firstSeenAt": 1791706571.67404,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/wa-progresses-university-merger-plan/107253400",
+      "provider": "ABC News Australia",
+      "title": "WA moves ahead with plans to create mega-uni amid concerns",
+      "status": "pending",
+      "firstSeenAt": 1791709180.2329834,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
