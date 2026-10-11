@@ -34698,9 +34698,25 @@
       "status": "pending",
       "firstSeenAt": 1791681068.539282,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/call-to-protect-nesting-birds-from-cars-on-goolwa-beach/107238624",
+      "provider": "ABC News Australia",
+      "title": "Call to protect nesting birds from the cars on SA's Goolwa Beach",
+      "status": "pending",
+      "firstSeenAt": 1791682842.891745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/police-melbourne-cbd-incident-emergency/107252918",
+      "provider": "ABC News Australia",
+      "title": "Police responding to CBD incident near Flinders Street Station",
+      "status": "pending",
+      "firstSeenAt": 1791682842.8917978,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
