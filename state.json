@@ -36154,9 +36154,25 @@
       "status": "pending",
       "firstSeenAt": 1791748606.6238208,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/thunderstorms-and-hail-possible-for-south-east-queensland/107253390",
+      "provider": "ABC News Australia",
+      "title": "Warm spring conditions could give way to thunderstorms and hail in SEQ",
+      "status": "pending",
+      "firstSeenAt": 1791749180.645475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878",
+      "provider": "ABC News Australia",
+      "title": "ASX set to rise after strong sessions on Wall Street and Europe",
+      "status": "pending",
+      "firstSeenAt": 1791749180.64551,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
