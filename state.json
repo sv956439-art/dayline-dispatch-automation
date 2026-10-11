@@ -35018,9 +35018,49 @@
       "status": "pending",
       "firstSeenAt": 1791699187.2903006,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g179n2393o",
+      "provider": "BBC",
+      "title": "Delhi braces for more protests as 'cockroach' group's leaders released The leaders, including CJP founder Abhijeet Dipke, had been detained when they arrived in Delhi on Saturday. 31 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1791700476.1288378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3wv86yxe2jo",
+      "provider": "BBC",
+      "title": "Author shares how books have 'magical way' of reaching you when struggling Author Matt Haig says books are healing for young people struggling with their mental health.",
+      "status": "pending",
+      "firstSeenAt": 1791700476.1304333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck054pd74pm4o",
+      "provider": "BBC",
+      "title": "Social media helping new poets bypass 'establishment gatekeepers'",
+      "status": "pending",
+      "firstSeenAt": 1791700476.130456,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/altruistic-kidney-donation-hu-pennington-triple-j-hack/107242376",
+      "provider": "ABC News Australia",
+      "title": "How effective altruism inspired Hu to give up his kidney and his cash",
+      "status": "pending",
+      "firstSeenAt": 1791700477.6848826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872",
+      "provider": "ABC News Australia",
+      "title": "Missing Melbourne hiker Jordan Yap has died in Peru, authorities confirm",
+      "status": "pending",
+      "firstSeenAt": 1791700477.6856253,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
