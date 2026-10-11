@@ -35442,9 +35442,33 @@
       "status": "pending",
       "firstSeenAt": 1791720096.6882083,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck86zppejjw3o",
+      "provider": "BBC",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing. 16 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1791721261.174133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy7lxx60dg5o",
+      "provider": "BBC",
+      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night. 12 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1791721261.1741667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/11/richard-e-grant-celebrity-traitors-mistakes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791721261.5574367,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
