@@ -35346,9 +35346,25 @@
       "status": "pending",
       "firstSeenAt": 1791717975.423695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4g1pwxxlq1o",
+      "provider": "BBC",
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "status": "pending",
+      "firstSeenAt": 1791718789.2541504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/china-us-japan-cut-aid-to-south-east-asia-lowy-report/107249020",
+      "provider": "ABC News Australia",
+      "title": "US, China and Japan cut foreign aid to South-East Asia",
+      "status": "pending",
+      "firstSeenAt": 1791718790.3262417,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
