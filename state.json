@@ -34778,9 +34778,41 @@
       "status": "pending",
       "firstSeenAt": 1791687646.801243,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9rk3k25vmxko",
+      "provider": "BBC",
+      "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different. 4 hrs ago Family & Education",
+      "status": "pending",
+      "firstSeenAt": 1791688559.34257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9rkyey458xdo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791688559.3426614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/wa-artist-uses-wheelchair-to-create-abstract-art/107243532",
+      "provider": "ABC News Australia",
+      "title": "WA artist with cerebral palsy finds voice through painting",
+      "status": "pending",
+      "firstSeenAt": 1791688560.349729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/pro-palestinian-rallies-across-australia-global-day-for-gaza/107251862",
+      "provider": "ABC News Australia",
+      "title": "Palestinian supporters mark Global Day for Gaza",
+      "status": "pending",
+      "firstSeenAt": 1791688560.350187,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
