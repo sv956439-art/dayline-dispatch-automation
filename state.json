@@ -36242,9 +36242,25 @@
       "status": "pending",
       "firstSeenAt": 1791752435.9625628,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp9gy7710veo",
+      "provider": "BBC",
+      "title": "Gavin and Stacey's Melanie Walters voted off Strictly Walters, best known for playing Gwen West in the BBC comedy, was partnered with professional Aljaz Skorjanec.",
+      "status": "pending",
+      "firstSeenAt": 1791753252.7328925,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/abc-classic-reveals-2026-abc-young-performers-awards-finalists/107239084",
+      "provider": "ABC News Australia",
+      "title": "Three young Australians to perform with Sydney Symphony Orchestra",
+      "status": "pending",
+      "firstSeenAt": 1791753253.3198528,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
