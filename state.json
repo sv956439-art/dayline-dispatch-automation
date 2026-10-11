@@ -36226,9 +36226,25 @@
       "status": "pending",
       "firstSeenAt": 1791751812.8406436,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/yissa-closure-protest-short-stay-residents-moved-to-batchelor/107253324",
+      "provider": "ABC News Australia",
+      "title": "YiSSA closes as short-stay residents prepare to be bussed to Batchelor",
+      "status": "pending",
+      "firstSeenAt": 1791752435.9625068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/first-test-south-africa-australia-day-three-analysis/107253856",
+      "provider": "ABC News Australia",
+      "title": "Time the enemy for Aussies in first Test after Smith's day in Durban",
+      "status": "pending",
+      "firstSeenAt": 1791752435.9625628,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
