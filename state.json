@@ -36202,9 +36202,33 @@
       "status": "pending",
       "firstSeenAt": 1791751000.9234,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/bus-service-restarts-between-mildura-and-south-australia/107220428",
+      "provider": "ABC News Australia",
+      "title": "Mildura and South Australia connected by bus service after six-year hiatus",
+      "status": "pending",
+      "firstSeenAt": 1791751812.8389876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/birdsville-track-closure-outback-roads-businesses/107216338",
+      "provider": "ABC News Australia",
+      "title": "Ongoing Birdsville Track closure hits outback businesses",
+      "status": "pending",
+      "firstSeenAt": 1791751812.8390405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/cricket-day-three-quick-hits-smith-labuschagne/107253720",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Smith snatches record with miracle grabs and Marnus fumes",
+      "status": "pending",
+      "firstSeenAt": 1791751812.8406436,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
