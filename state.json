@@ -35282,9 +35282,33 @@
       "status": "pending",
       "firstSeenAt": 1791712608.530991,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/motorsport/articles/cm79p8dgqyp8o",
+      "provider": "BBC",
+      "title": "Bezzecchi wins as Martin retakes championship lead",
+      "status": "pending",
+      "firstSeenAt": 1791713215.8323174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791713216.0636542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/india-releases-cockroach-leaders-calls-for-more-protests/107253752",
+      "provider": "ABC News Australia",
+      "title": "India releases 'cockroach' leaders as movement calls for more protests",
+      "status": "pending",
+      "firstSeenAt": 1791713216.3691933,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
