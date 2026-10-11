@@ -35178,9 +35178,33 @@
       "status": "pending",
       "firstSeenAt": 1791705109.7948496,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cq5yn05n6k1do",
+      "provider": "BBC",
+      "title": "Allen submits Duncan to derail Briton's title hopes",
+      "status": "pending",
+      "firstSeenAt": 1791705658.2394125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmlylg0n5pg7o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791705658.2394516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c69vzm2pxznxo",
+      "provider": "BBC",
+      "title": "Fight for Wales spots heats up as under-threat regions win",
+      "status": "pending",
+      "firstSeenAt": 1791705658.239639,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
