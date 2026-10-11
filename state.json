@@ -35578,9 +35578,49 @@
       "status": "pending",
       "firstSeenAt": 1791727028.8367388,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm24vx00y9ko",
+      "provider": "BBC",
+      "title": "Globe opens Shakespeare library and archive London's only public Shakespeare library featuring more than 6,000 books, is set to open at the Globe. 7 hrs ago London",
+      "status": "pending",
+      "firstSeenAt": 1791727658.277645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkglr3y3j8eo",
+      "provider": "BBC",
+      "title": "8 Mum turned bodybuilder at 40 and is now winning big",
+      "status": "pending",
+      "firstSeenAt": 1791727658.27782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791727658.7316487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791727658.7316751,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791727658.7317035,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
