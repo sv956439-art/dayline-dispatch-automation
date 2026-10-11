@@ -36170,9 +36170,25 @@
       "status": "pending",
       "firstSeenAt": 1791749180.64551,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmy0rd4pex7no",
+      "provider": "BBC",
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+      "status": "pending",
+      "firstSeenAt": 1791750115.2727106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/federal-politics-live-blog-surcharges-parliament-duty-of-care/107249612",
+      "provider": "ABC News Australia",
+      "title": "Ryan prepared to fight as Frydenberg hints at comeback",
+      "status": "pending",
+      "firstSeenAt": 1791750116.445247,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
