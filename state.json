@@ -35322,9 +35322,33 @@
       "status": "pending",
       "firstSeenAt": 1791717110.5969539,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791717975.0816035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house",
+      "provider": "The Guardian",
+      "title": "‘When you look at the numbers, we win’: the prophetic Texas pastor poised to take Jasmine Crockett’s House seat",
+      "status": "pending",
+      "firstSeenAt": 1791717975.0822458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/voll-smashes-quickfire-ton-australia-vs-bangladesh/107253844",
+      "provider": "ABC News Australia",
+      "title": "Georgia Voll smashes quickfire ton as Aussies wrap up Bangladesh series",
+      "status": "pending",
+      "firstSeenAt": 1791717975.423695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
