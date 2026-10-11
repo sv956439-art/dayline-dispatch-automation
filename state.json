@@ -35682,9 +35682,41 @@
       "status": "pending",
       "firstSeenAt": 1791731553.7529643,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckp8gyd65z2go",
+      "provider": "BBC",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "status": "pending",
+      "firstSeenAt": 1791732453.5012498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791732453.7454045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/chilean-salt-flat-extractive-frontiers-green-capitalism-atacama",
+      "provider": "The Guardian",
+      "title": "Why a Chilean salt flat is a microcosm of the extractive frontiers of green capitalism",
+      "status": "pending",
+      "firstSeenAt": 1791732453.7462664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/11/amazon-about-you-page",
+      "provider": "The Guardian",
+      "title": "double quotation mark ​I’ve seen what Amazon thinks about me – and it revealed a depressing truth",
+      "status": "pending",
+      "firstSeenAt": 1791732453.7464638,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
