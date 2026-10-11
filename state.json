@@ -36258,9 +36258,33 @@
       "status": "pending",
       "firstSeenAt": 1791753253.3198528,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy43vrk8wv8o",
+      "provider": "BBC",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "status": "pending",
+      "firstSeenAt": 1791754186.921876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/netanyahu-demands-investgation-into-gaza-documentary/107254624",
+      "provider": "ABC News Australia",
+      "title": "Netanyahu demands probe into soldiers' involvement in Gaza documentary",
+      "status": "pending",
+      "firstSeenAt": 1791754187.5982811,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/man-killed-in-car-crash-in-watchem-west-victoria/107254554",
+      "provider": "ABC News Australia",
+      "title": "Man killed in car crash in Victoria's Mallee region",
+      "status": "pending",
+      "firstSeenAt": 1791754187.598322,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
