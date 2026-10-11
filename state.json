@@ -36442,9 +36442,25 @@
       "status": "pending",
       "firstSeenAt": 1791761360.0384696,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c680zyx8gkkjo",
+      "provider": "BBC",
+      "title": "Iconic Australian band Powderfinger announce first tour in 17 years The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+      "status": "pending",
+      "firstSeenAt": 1791762170.613369,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/12/sacha-baron-cohen-quentin-tarantinos-west-end-popinjay-cavalier",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791762171.025001,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
