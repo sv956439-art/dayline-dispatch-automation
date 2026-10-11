@@ -35058,9 +35058,57 @@
       "status": "pending",
       "firstSeenAt": 1791700477.6856253,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvgd67y7n4do",
+      "provider": "BBC",
+      "title": "32 mins ago 'Here's looking at you, kid' - a heartbreak history A new exhibition in Oxford attempts to chart the history of loves lost through various art mediums. 32 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791701713.606767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlyr77nqqxxo",
+      "provider": "BBC",
+      "title": "1 hr ago 'Can't see the Bayeux Tapestry? Here's our Mapestry' The work of art celebrates the town's history through fabric, thread, appliqué and embroidery. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791701713.6067936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3dxwlr8eg1zo",
+      "provider": "BBC",
+      "title": "2 hrs ago Sponges 'lift off' tapestry's 50 years of grime The artwork is cleaned and restored to \"safeguard it for decades to come\", a town council says. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791701713.6068077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791701713.8828714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "provider": "The Guardian",
+      "title": "An AI boom is sending San Francisco rents through the roof: ‘Nowhere left for people to go’",
+      "status": "pending",
+      "firstSeenAt": 1791701713.8834019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/lost-lamb-worth-25k-in-adelaide-hills/107253530",
+      "provider": "ABC News Australia",
+      "title": "Owners fear rare days-old lamb worth up to $25K stolen",
+      "status": "pending",
+      "firstSeenAt": 1791701714.13775,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
