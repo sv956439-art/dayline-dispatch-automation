@@ -36082,9 +36082,25 @@
       "status": "pending",
       "firstSeenAt": 1791746272.462759,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti",
+      "provider": "The Guardian",
+      "title": "At least 139 dead including children after migrant boat capsizes off Djibouti",
+      "status": "pending",
+      "firstSeenAt": 1791747157.843401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/sa-might-miss-its-2027-renewables-target-but-does-it-matter/107251418",
+      "provider": "ABC News Australia",
+      "title": "SA might miss its renewables target, but does it matter?",
+      "status": "pending",
+      "firstSeenAt": 1791747158.3604848,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
