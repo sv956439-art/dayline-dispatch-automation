@@ -35146,9 +35146,33 @@
       "status": "pending",
       "firstSeenAt": 1791703450.0200171,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4g1wy331pdo",
+      "provider": "BBC",
+      "title": "Council exceeds Surrey tree planting target",
+      "status": "pending",
+      "firstSeenAt": 1791704293.806641,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/cockroach-party-leader-released-delhi-protests-second-day",
+      "provider": "The Guardian",
+      "title": "‘Cockroach’ party leader released as Delhi braces for second day of protests",
+      "status": "pending",
+      "firstSeenAt": 1791704294.1514604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652",
+      "provider": "ABC News Australia",
+      "title": "Roos get past Dockers as Blues and Hawks taste victory",
+      "status": "pending",
+      "firstSeenAt": 1791704294.6478052,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
