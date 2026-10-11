@@ -34898,9 +34898,33 @@
       "status": "pending",
       "firstSeenAt": 1791695761.3264408,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5x2vnp4jrkdo",
+      "provider": "BBC",
+      "title": "8 Why are so many four-year-olds not potty-trained before school?",
+      "status": "pending",
+      "firstSeenAt": 1791696697.874806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791696698.116906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/justice-department-investigates-tv-networks-trump-pool-coverage",
+      "provider": "The Guardian",
+      "title": "US justice department investigating TV networks over Trump pool coverage",
+      "status": "pending",
+      "firstSeenAt": 1791696698.1179938,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
