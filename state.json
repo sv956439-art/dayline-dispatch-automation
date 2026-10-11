@@ -36298,9 +36298,49 @@
       "status": "pending",
       "firstSeenAt": 1791755835.8083587,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20250324-star-bathing-the-next-big-thing-in-travel",
+      "provider": "BBC",
+      "title": "Finding calm in the cosmos: A new wellness trend From the Yorkshire Moors in England to the South African wilderness, star bathing is emerging as a transformative wellness trend – offering awe, calm and a cosmic reset.",
+      "status": "pending",
+      "firstSeenAt": 1791757433.7781425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5gm01j87jl7o",
+      "provider": "BBC",
+      "title": "Aston Villa planning Endrick move - Monday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791757433.906617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c3qjndw28zkyo",
+      "provider": "BBC",
+      "title": "South African Simons to join England Test set-up",
+      "status": "pending",
+      "firstSeenAt": 1791757433.906721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cmly02qe7nz0o",
+      "provider": "BBC",
+      "title": "Clayton beats Humphries to claim Swiss title",
+      "status": "pending",
+      "firstSeenAt": 1791757433.9070294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/conventional-gas-project-could-meet-local-energy-demand/107247116",
+      "provider": "ABC News Australia",
+      "title": "Environmental watchdog to review new Kimberley gas project",
+      "status": "pending",
+      "firstSeenAt": 1791757434.481877,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
