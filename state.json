@@ -35970,9 +35970,65 @@
       "status": "pending",
       "firstSeenAt": 1791742577.7473712,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cm2kegze5jqyo",
+      "provider": "BBC",
+      "title": "Jaguars beat Eagles with last-second kick in London",
+      "status": "pending",
+      "firstSeenAt": 1791743749.5676897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckeq3jgrv4dxo",
+      "provider": "BBC",
+      "title": "Dolly Parton's niece wants to learn Welsh after singing with Bronwen Lewis Dolly Parton's niece, Jada Star, from Tennessee who began learning Welsh during a visit to Wales.",
+      "status": "pending",
+      "firstSeenAt": 1791743749.5678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "provider": "BBC",
+      "title": "Citroen revives the 2CV for an electric age The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
+      "status": "pending",
+      "firstSeenAt": 1791743749.6366036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/online-extremism-rise-in-deadly-school-shootings-philippines/107237852",
+      "provider": "ABC News Australia",
+      "title": "Halfway through the school day, their classroom became a crime scene",
+      "status": "pending",
+      "firstSeenAt": 1791743750.5409591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/reclaiming-the-internet-from-big-tech/106726208",
+      "provider": "ABC News Australia",
+      "title": "The punks trying to reclaim the internet from 'big tech'",
+      "status": "pending",
+      "firstSeenAt": 1791743750.5415754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/living-and-working-antarctica-davis-research-station/107246416",
+      "provider": "ABC News Australia",
+      "title": "What it's like to live and work in Antarctica",
+      "status": "pending",
+      "firstSeenAt": 1791743750.5416255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/this-week-in-history-quiz-october-12/107247944",
+      "provider": "ABC News Australia",
+      "title": "Take a stroll down memory lane with this week's history quiz",
+      "status": "pending",
+      "firstSeenAt": 1791743750.54165,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
