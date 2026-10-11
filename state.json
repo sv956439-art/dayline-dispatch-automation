@@ -34810,9 +34810,25 @@
       "status": "pending",
       "firstSeenAt": 1791688560.350187,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791689624.0085416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-11/logan-man-charged-with-murder-after-32-year-old-dies-in-hospital/107253192",
+      "provider": "ABC News Australia",
+      "title": "Queensland man charged with stabbing murder",
+      "status": "pending",
+      "firstSeenAt": 1791689624.3848622,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
