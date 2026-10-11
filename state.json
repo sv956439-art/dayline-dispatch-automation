@@ -35842,9 +35842,17 @@
       "status": "pending",
       "firstSeenAt": 1791740450.1180189,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck87z1jjynyqo",
+      "provider": "BBC",
+      "title": "Cherki sparkles but who must do more? - player ratings for Liverpool v Man City How Liverpool and Man City's players rated following their Premier League match.",
+      "status": "pending",
+      "firstSeenAt": 1791741180.5744562,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
