@@ -35666,9 +35666,25 @@
       "status": "pending",
       "firstSeenAt": 1791730800.3528771,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791731553.7526531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
+      "provider": "The Guardian",
+      "title": "Pete Songi on Donald Trump’s plan to buy diesel from Russia – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1791731553.7529643,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
