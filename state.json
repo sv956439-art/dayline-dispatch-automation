@@ -35722,9 +35722,17 @@
       "status": "pending",
       "firstSeenAt": 1791733339.7548964,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2z2xx0k2lo",
+      "provider": "BBC",
+      "title": "Owners fear 'healthy' dog died due to orange substance exposure on contaminated land",
+      "status": "pending",
+      "firstSeenAt": 1791734082.37786,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
