@@ -36282,9 +36282,17 @@
       "status": "pending",
       "firstSeenAt": 1791754187.598322,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/afl-trade-period-day-monday-october-12-live-updates-blakey/107251880",
+      "provider": "ABC News Australia",
+      "title": "Roos and Swans deadlocked over Blakey deal AFL trade period's final days",
+      "status": "pending",
+      "firstSeenAt": 1791755099.0301774,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
