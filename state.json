@@ -35378,9 +35378,73 @@
       "status": "pending",
       "firstSeenAt": 1791719556.8645322,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20250218-jasper-canadas-remote-but-accessible-dark-sky-sanctuary",
+      "provider": "BBC",
+      "title": "The Canadian town under a sea of stars Spanning 11,000 sq km of protected, pristine wilderness, Jasper National Park offers a one-of-a-kind destination for stargazers.",
+      "status": "pending",
+      "firstSeenAt": 1791720096.176712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cw98z44glde4o",
+      "provider": "BBC",
+      "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years?",
+      "status": "pending",
+      "firstSeenAt": 1791720096.2564096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckgel112lr1qo",
+      "provider": "BBC",
+      "title": "Russo named England player of the year",
+      "status": "pending",
+      "firstSeenAt": 1791720096.256625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791720096.6878295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791720096.6878467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/11/bev-craig-manchester-music-oasis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791720096.688099,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791720096.6881938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/11/physicians-group-raw-milk-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791720096.6882083,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
