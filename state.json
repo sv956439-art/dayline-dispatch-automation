@@ -35618,9 +35618,41 @@
       "status": "pending",
       "firstSeenAt": 1791727658.7317035,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c84g1p2ql9z5o",
+      "provider": "BBC",
+      "title": "Verstappen dominates for first grand prix win in Singapore",
+      "status": "pending",
+      "firstSeenAt": 1791728601.6509032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/11/ice-agent-strikes-man-with-car-texas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791728602.113563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/11/rachael-stirling-on-eating-her-mother-diana-riggs-ashes",
+      "provider": "The Guardian",
+      "title": "‘I didn’t expect to be portrayed as a cannibal’: Rachael Stirling on eating her mother Diana Rigg’s ashes",
+      "status": "pending",
+      "firstSeenAt": 1791728602.1140912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/ukraine-trump-zelenskyy-elections/107254072",
+      "provider": "ABC News Australia",
+      "title": "'Up to our people': Zelenskyy responds to Trump's election call",
+      "status": "pending",
+      "firstSeenAt": 1791728602.4595184,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
