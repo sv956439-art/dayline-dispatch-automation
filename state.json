@@ -35866,9 +35866,113 @@
       "status": "pending",
       "firstSeenAt": 1791741636.7086954,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdm3zggl0ko",
+      "provider": "BBC",
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy. 14 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791742576.2760687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c962y5nd273no",
+      "provider": "BBC",
+      "title": "Burnham to release details of Man City meetings",
+      "status": "pending",
+      "firstSeenAt": 1791742576.4190216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cr62yzgpg09eo",
+      "provider": "BBC",
+      "title": "Puerto Rican boxing legend Gomez dies aged 69",
+      "status": "pending",
+      "firstSeenAt": 1791742576.4191022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqwy7nr5lry0o",
+      "provider": "BBC",
+      "title": "Jota comeback helps Celtic lift gloom in strong response",
+      "status": "pending",
+      "firstSeenAt": 1791742576.4194715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/ck87z1350ezzo",
+      "provider": "BBC",
+      "title": "Forrest earns major invites with Spanish Open win",
+      "status": "pending",
+      "firstSeenAt": 1791742576.4195197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c32l49evnq5vo",
+      "provider": "BBC",
+      "title": "Wade scores 100th Prem try as Newcastle lose to Exeter",
+      "status": "pending",
+      "firstSeenAt": 1791742576.4195597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1m4ngv99mvo",
+      "provider": "BBC",
+      "title": "Hughes focused on Albania before World Cup dream",
+      "status": "pending",
+      "firstSeenAt": 1791742576.4198105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/flinders-street-community-health-hub-addiction-homeless-support/107248170",
+      "provider": "ABC News Australia",
+      "title": "New Flinders Street health clinic to offer addiction services in CBD",
+      "status": "pending",
+      "firstSeenAt": 1791742577.7469988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/migration-changes-hands-power-to-domestic-abusers-expert-say/107180366",
+      "provider": "ABC News Australia",
+      "title": "Fears migration changes may fuel coercive control, visa-related abuse",
+      "status": "pending",
+      "firstSeenAt": 1791742577.74717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/alan-kohler-final-column-abc-stories-he-missed/107253376",
+      "provider": "ABC News Australia",
+      "title": "Alan Kohler on the stories he covered — and the ones he missed",
+      "status": "pending",
+      "firstSeenAt": 1791742577.7472162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/beijing-residents-dispose-drones-ahead-of-ban-on-ownership/107229144",
+      "provider": "ABC News Australia",
+      "title": "Beijing residents dispose of drones ahead of ban on ownership",
+      "status": "pending",
+      "firstSeenAt": 1791742577.7472625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/critics-decry-santos-gas-reservation-loopholes/107249780",
+      "provider": "ABC News Australia",
+      "title": "Critics warn of 'Santos-sized loopholes' in gas reservation plan",
+      "status": "pending",
+      "firstSeenAt": 1791742577.7473252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/one-nation-victoria-elections-ai-voters/107253040",
+      "provider": "ABC News Australia",
+      "title": "One Nation threatens major parties as voters turn to AI for information",
+      "status": "pending",
+      "firstSeenAt": 1791742577.7473712,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
