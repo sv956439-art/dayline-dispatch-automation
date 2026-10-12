@@ -37154,9 +37154,49 @@
       "status": "pending",
       "firstSeenAt": 1791793384.543292,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cmz7xvpgdz4yo",
+      "provider": "BBC",
+      "title": "DP World Tour to refuse LIV players in 2027 season",
+      "status": "pending",
+      "firstSeenAt": 1791794682.6657875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwnv0zmjld51o",
+      "provider": "BBC",
+      "title": "Reform pledges to suspend UK's asylum system for up to five years and deport claimants All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation. 43 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791794682.753359,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv4g1d0wplz0o",
+      "provider": "BBC",
+      "title": "UK wildlife park closed for third day after tiger attack Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday. 32 mins ago South Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1791794682.7534862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyk8e3lxz0o",
+      "provider": "BBC",
+      "title": "10 Rejecting closer EU ties would be dereliction of duty, PM to say",
+      "status": "pending",
+      "firstSeenAt": 1791794682.7536352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/bruce-lehrmann-submarine-secrets-investigation-closed/107257748",
+      "provider": "ABC News Australia",
+      "title": "Corruption watchdog abandons Bruce Lehrmann submarine secrets probe",
+      "status": "pending",
+      "firstSeenAt": 1791794683.3485963,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
