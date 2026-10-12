@@ -36594,9 +36594,25 @@
       "status": "pending",
       "firstSeenAt": 1791769029.6708472,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/private-health-insurance-changes-older-australians-dump-cover/107255436",
+      "provider": "ABC News Australia",
+      "title": "Almost 80,000 older Australians expected to ditch private health over changes",
+      "status": "pending",
+      "firstSeenAt": 1791770057.6792061,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/cousin-helps-toby-holt-complete-melbourne-marathon/107251188",
+      "provider": "ABC News Australia",
+      "title": "Man pushes cousin 42km in Melbourne Marathon, carries him over line",
+      "status": "pending",
+      "firstSeenAt": 1791770057.679925,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
