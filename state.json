@@ -37378,9 +37378,41 @@
       "status": "pending",
       "firstSeenAt": 1791802645.9687872,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr5y2lgr4gdo",
+      "provider": "BBC",
+      "title": "Indian opposition leaders march to top court to demand election chief resign The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police. 4 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1791803509.1365826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/georgia-gwinnett-county-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791803509.6138654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/immigration-us-midterms-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791803509.6138785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/12/marco-rubio-western-civilization",
+      "provider": "The Guardian",
+      "title": "double quotation mark Marco Rubio is promoting troubling ideas about ‘western civilization’",
+      "status": "pending",
+      "firstSeenAt": 1791803509.614091,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
