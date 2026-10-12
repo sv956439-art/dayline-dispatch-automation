@@ -37954,9 +37954,25 @@
       "status": "pending",
       "firstSeenAt": 1791822187.0541453,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5m2dn7zz4nyo",
+      "provider": "BBC",
+      "title": "On Yemen's desert battlefield, a war with global consequences is being waged Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
+      "status": "pending",
+      "firstSeenAt": 1791823190.4608846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly0j0gy1lwo",
+      "provider": "BBC",
+      "title": "1 hr ago Teens wow supermodel with upcycled outfits Erin O'Connor judges young Wolverhampton designers creating fashion from discarded clothes. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791823190.5406256,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
