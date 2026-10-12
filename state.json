@@ -38634,9 +38634,49 @@
       "status": "pending",
       "firstSeenAt": 1791848034.2679787,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n4ejx8x1z7o",
+      "provider": "BBC",
+      "title": "One dead and several hurt after roller coaster incident at Six Flags Aerial footage at the park after the incident shows a roller coaster stuck, with riders being helped off.",
+      "status": "pending",
+      "firstSeenAt": 1791848933.3704414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/christa-pike-911-calls-released-botched-us-execution/107259212",
+      "provider": "ABC News Australia",
+      "title": "Calls to 911 reveal confusion after Christa Pike's botched execution",
+      "status": "pending",
+      "firstSeenAt": 1791848933.9676611,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/nsw-fire-ants-detected-at-logistics-centre-in-sydney-enfield/107259332",
+      "provider": "ABC News Australia",
+      "title": "Invasive fire ant nest discovered in Sydney's inner west",
+      "status": "pending",
+      "firstSeenAt": 1791848933.968869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/central-coast-man-charged-with-alleged-covert-recording-of-abuse/107259022",
+      "provider": "ABC News Australia",
+      "title": "Man accused of covertly filming sexual abuse of three women",
+      "status": "pending",
+      "firstSeenAt": 1791848933.9689171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/nsw-prisons-seek-counter-drone-technology/107258840",
+      "provider": "ABC News Australia",
+      "title": "NSW prison staff want drone guns to stop contraband drops",
+      "status": "pending",
+      "firstSeenAt": 1791848933.968964,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
