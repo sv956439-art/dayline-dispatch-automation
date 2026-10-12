@@ -37090,9 +37090,49 @@
       "status": "pending",
       "firstSeenAt": 1791791015.014082,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlyd4pdlwkxo",
+      "provider": "BBC",
+      "title": "Ukraine hit by blackouts after Russian strikes despite 'energy ceasefire' Power plants in Ukraine have been hit by Russia after Donald Trump's 'ceasefire' announcement.",
+      "status": "pending",
+      "firstSeenAt": 1791792136.1787186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0k0jmepn4eo",
+      "provider": "BBC",
+      "title": "Teen who discovered her painting talent in garden shed competes for TV art prize Makenzy Beard discovered her talent after she decided to try out her mother's old paint brushes.",
+      "status": "pending",
+      "firstSeenAt": 1791792136.179253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj0lr71gl5go",
+      "provider": "BBC",
+      "title": "Tourist tax: Who would pay and where would it go?",
+      "status": "pending",
+      "firstSeenAt": 1791792136.2725914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/ntcoss-report-cost-of-living-crisis-alice-springs-welfare/107255382",
+      "provider": "ABC News Australia",
+      "title": "New report highlights 'unacceptable' levels of poverty in the NT",
+      "status": "pending",
+      "firstSeenAt": 1791792137.4278505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/warwick-man-charged-with-historical-child-sex-offences/107255918",
+      "provider": "ABC News Australia",
+      "title": "Man living nomadic lifestyle granted bail for historical child sex offences",
+      "status": "pending",
+      "firstSeenAt": 1791792137.4279027,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
