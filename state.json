@@ -37194,9 +37194,65 @@
       "status": "pending",
       "firstSeenAt": 1791794683.3485963,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261008-how-can-i-eat-30-plants-a-week",
+      "provider": "BBC",
+      "title": "Why it's easy to eat 30 plants a week In the end, I overshot my target and ate a grand total of 51 plants.",
+      "status": "pending",
+      "firstSeenAt": 1791795745.5601926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw62y514kpgeo",
+      "provider": "BBC",
+      "title": "Seedorf back in football as Corinthians head coach",
+      "status": "pending",
+      "firstSeenAt": 1791795745.6799047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c64g104ly00do",
+      "provider": "BBC",
+      "title": "Kartal takes top-50 scalp with Wuhan win",
+      "status": "pending",
+      "firstSeenAt": 1791795745.679986,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c98rzjv13gdlo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791795745.6800222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1kdmej1xnvo",
+      "provider": "BBC",
+      "title": "The 'Kane-esque' striker Spurs may regret letting go",
+      "status": "pending",
+      "firstSeenAt": 1791795745.6802511,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/wong-blasts-palestinian-election-delay/107257694",
+      "provider": "ABC News Australia",
+      "title": "Penny Wong urges Palestinian Authority to hold elections 'without delay'",
+      "status": "pending",
+      "firstSeenAt": 1791795746.6140268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/alice-springs-storm-properties-without-power/107257728",
+      "provider": "ABC News Australia",
+      "title": "Heavy rain, hail and ferocious winds lash Alice Springs",
+      "status": "pending",
+      "firstSeenAt": 1791795746.6154053,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
