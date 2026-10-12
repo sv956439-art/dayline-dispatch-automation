@@ -37034,9 +37034,49 @@
       "status": "pending",
       "firstSeenAt": 1791788389.1484764,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g133q3vpyo",
+      "provider": "BBC",
+      "title": "2 hrs ago Giant Moon artwork to light up church Luke Jerram's Museum of the Moon will be on display free of charge at St Helier Methodist Centre. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791789660.45854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5yn5248gp7o",
+      "provider": "BBC",
+      "title": "2 hrs ago Unseen Vivienne Westwood photos show 'born protester' Images of the fashion icon's fracking protest show \"the reality of her\", Paul Wolfgang Webster says. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791789660.4585748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791789660.8443792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791789660.844903,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/south-africa-australia-kingsmead-test-day-four-live-blog/107255926",
+      "provider": "ABC News Australia",
+      "title": "Aussies looking for quick runs to build lead on day four in Durban",
+      "status": "pending",
+      "firstSeenAt": 1791789661.4254565,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
