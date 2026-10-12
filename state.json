@@ -38242,9 +38242,65 @@
       "status": "pending",
       "firstSeenAt": 1791834701.4073567,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791835361.0474994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
+      "provider": "The Guardian",
+      "title": "Judge halts tree removal at Washington golf course Trump eyes for expansion",
+      "status": "pending",
+      "firstSeenAt": 1791835361.0481832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/australia-perfectly-set-for-vicotry-first-cricket-test-rsa/107258722",
+      "provider": "ABC News Australia",
+      "title": "Refusing to yield momentum, ruthless Australia is perfectly set for victory",
+      "status": "pending",
+      "firstSeenAt": 1791835361.7159874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/federal-politics-live-blog-october-13/107257420",
+      "provider": "ABC News Australia",
+      "title": "Taxpayers fund $630m pay boost for care workers",
+      "status": "pending",
+      "firstSeenAt": 1791835361.7162871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/acem-report-aging-population-health-system-crisis/107257352",
+      "provider": "ABC News Australia",
+      "title": "EDs 'not adequately equipped' for aging population, report says",
+      "status": "pending",
+      "firstSeenAt": 1791835361.7173245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/delhi-court-to-hold-petition-hearing/107258396",
+      "provider": "ABC News Australia",
+      "title": "Delhi a fortress as 'cockroach' protesters show no sign of backing down",
+      "status": "pending",
+      "firstSeenAt": 1791835361.7173731,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/albury-council-votes-against-introducing-big-rate-rise/107252858",
+      "provider": "ABC News Australia",
+      "title": "Albury councillors hit pause on massive 29 per cent rate rise plan",
+      "status": "pending",
+      "firstSeenAt": 1791835361.7174673,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
