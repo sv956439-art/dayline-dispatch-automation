@@ -38498,9 +38498,41 @@
       "status": "pending",
       "firstSeenAt": 1791843536.4734967,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj6j7wlxd5eo",
+      "provider": "BBC",
+      "title": "The island where locals say data centres are taking their water \"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
+      "status": "pending",
+      "firstSeenAt": 1791844524.9083633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqy8le93zg7jo",
+      "provider": "BBC",
+      "title": "Carroll thanks public for support over sexual assault",
+      "status": "pending",
+      "firstSeenAt": 1791844525.0351644,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmy8376gz5nvo",
+      "provider": "BBC",
+      "title": "Man Utd eye Simeone - Tuesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791844525.0352151,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/european-tour-not-allow-liv-golf-players/107258952",
+      "provider": "ABC News Australia",
+      "title": "European Tour gives LIV golfers ultimatum and shuts door on playing both",
+      "status": "pending",
+      "firstSeenAt": 1791844525.8829522,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
