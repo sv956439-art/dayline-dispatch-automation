@@ -37978,9 +37978,41 @@
       "status": "pending",
       "firstSeenAt": 1791826811.2932875,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cmpwgdw0p1d5o",
+      "provider": "BBC",
+      "title": "GB's Richardson withdrawn from World Championships",
+      "status": "pending",
+      "firstSeenAt": 1791827667.2372117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwe8rvm8yl93o",
+      "provider": "BBC",
+      "title": "Do Lionesses lack ruthlessness in front of goal?",
+      "status": "pending",
+      "firstSeenAt": 1791827667.2373443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791827667.5495465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791827667.5499134,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
