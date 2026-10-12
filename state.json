@@ -36714,9 +36714,17 @@
       "status": "pending",
       "firstSeenAt": 1791777009.1734235,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/mount-druitt-sydney-fatal-stabbing-of-man-13yo-charged/107255850",
+      "provider": "ABC News Australia",
+      "title": "13yo charged with murder over 'senseless' fatal Sydney stabbing",
+      "status": "pending",
+      "firstSeenAt": 1791777887.4041092,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
