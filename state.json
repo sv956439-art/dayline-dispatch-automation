@@ -38210,9 +38210,41 @@
       "status": "pending",
       "firstSeenAt": 1791833763.4257982,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/two-tragic-incidents-safety-english-zoos-rethink",
+      "provider": "The Guardian",
+      "title": "After two tragic incidents in months does safety at English zoos need a rethink?",
+      "status": "pending",
+      "firstSeenAt": 1791834701.0182242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/gippsland-rural-mineral-sands-mine-proposal-victoria/107228596",
+      "provider": "ABC News Australia",
+      "title": "Renewed mineral sands mine bid 'a turd in glitter', resident says",
+      "status": "pending",
+      "firstSeenAt": 1791834701.4072607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/australia-south-africa-quick-hits-cummins-smith-maharaj/107257598",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Cummins blasts and Maharaj juggles as Smith pulls up lame",
+      "status": "pending",
+      "firstSeenAt": 1791834701.407319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/car-ploughs-into-massage-parlour-shopfront-then-robbed/107257842",
+      "provider": "ABC News Australia",
+      "title": "'Nearly nothing left' of Canberra massage parlour after crash, then robbery",
+      "status": "pending",
+      "firstSeenAt": 1791834701.4073567,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
