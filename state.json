@@ -38026,9 +38026,41 @@
       "status": "pending",
       "firstSeenAt": 1791828178.0328598,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/12/security-high-profile-public-figures-reviewed-ann-widdecombe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791829419.2647517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/federal-politics-smart-glasses-benefits-disability-community/107244416",
+      "provider": "ABC News Australia",
+      "title": "Smart glasses 'life-changing' for blind and deaf people, despite concerns",
+      "status": "pending",
+      "firstSeenAt": 1791829420.031408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/australia-ai-hopes-hit-as-firmus-data-centre-float-tanks/107256400",
+      "provider": "ABC News Australia",
+      "title": "Is the Firmus fiasco a crack in the AI boom?",
+      "status": "pending",
+      "firstSeenAt": 1791829420.0314708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/korean-face-lift-cosmetic-doctors-australia-influencers/107234318",
+      "provider": "ABC News Australia",
+      "title": "Plastic surgeons warn of complications as Australians seek face lifts overseas",
+      "status": "pending",
+      "firstSeenAt": 1791829420.0315006,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
