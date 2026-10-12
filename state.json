@@ -36506,9 +36506,41 @@
       "status": "pending",
       "firstSeenAt": 1791763433.5311928,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791765160.0220857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791765160.022443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724",
+      "provider": "ABC News Australia",
+      "title": "At least 139 migrants dead after boat from Djibouti to Yemen capsizes",
+      "status": "pending",
+      "firstSeenAt": 1791765160.274232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/izzi-batt-doyle-breaks-australian-women-marathon-mark-chicago/107254696",
+      "provider": "ABC News Australia",
+      "title": "Izzi Batt-Doyle smashes Australian marathon record with 2:20:38 run in Chicago",
+      "status": "pending",
+      "firstSeenAt": 1791765160.2751389,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
