@@ -37778,9 +37778,57 @@
       "status": "pending",
       "firstSeenAt": 1791815639.6517885,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9vzyzmpd2mo",
+      "provider": "BBC",
+      "title": "Social media star from Jersey joins Blue Peter Leo Olsson joins the series after building an online following doing \"bucket list\" challenges.",
+      "status": "pending",
+      "firstSeenAt": 1791816950.958431,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rrydykw44lo",
+      "provider": "BBC",
+      "title": "Stinky 'skunk' plant cleared from river",
+      "status": "pending",
+      "firstSeenAt": 1791816951.0064714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgdej69m2ro",
+      "provider": "BBC",
+      "title": "Appeal for major energy storage system rejected",
+      "status": "pending",
+      "firstSeenAt": 1791816951.0064878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-kremlin-eu-referendum-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791816951.4351904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791816951.435492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
+      "provider": "The Guardian",
+      "title": "Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
+      "status": "pending",
+      "firstSeenAt": 1791816951.4356723,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
