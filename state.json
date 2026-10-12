@@ -37730,9 +37730,57 @@
       "status": "pending",
       "firstSeenAt": 1791814183.8951695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+      "provider": "BBC",
+      "title": "French supermarket fridges hit by cyber attack Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "status": "pending",
+      "firstSeenAt": 1791815638.8324583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8wy9d940pyko",
+      "provider": "BBC",
+      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "status": "pending",
+      "firstSeenAt": 1791815638.8324738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmq5nzn8ww98o",
+      "provider": "BBC",
+      "title": "Hincapie and Zubimendi injured in post-match training session Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
+      "status": "pending",
+      "firstSeenAt": 1791815638.8327148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlyd4ljklxdo",
+      "provider": "BBC",
+      "title": "Guernsey named one of UK's best islands for travel",
+      "status": "pending",
+      "firstSeenAt": 1791815638.8939486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/12/children-mothers-included-reform-immediately-deport-asylum-seekers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791815639.3157773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736",
+      "provider": "ABC News Australia",
+      "title": "Judge warns jurors as Russell Brand prepares for rape trial in London",
+      "status": "pending",
+      "firstSeenAt": 1791815639.6517885,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
