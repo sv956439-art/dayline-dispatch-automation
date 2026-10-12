@@ -37290,9 +37290,57 @@
       "status": "pending",
       "firstSeenAt": 1791799279.625768,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2keg7910gvo",
+      "provider": "BBC",
+      "title": "Pupil arrested after two teachers shot at French school A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "status": "pending",
+      "firstSeenAt": 1791800426.2831314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261009-how-vikings-beat-columbus-to-america-by-500-years",
+      "provider": "BBC",
+      "title": "How Vikings beat Columbus to America by 500 years The Norse made it to Canada circa AD1000, and used it as a base to explore. The BBC has delved into the \"lost history\" of the first Europeans to cross the Atlantic.",
+      "status": "pending",
+      "firstSeenAt": 1791800426.2836668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqpvgzrwkg19o",
+      "provider": "BBC",
+      "title": "3 hrs ago Festival to host tribute to influential photographer A temporary free public gallery is set to host a tribute to the late Martin Parr as part of a photography festival. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791800426.3916163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791800426.6519306,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/row-paris-opera-house-ceiling-lawsuit-threat-original-fresco-marc-chagall-canvases",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791800426.6521251,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/roger-marshall-republican-senator-pays-off-bakery-bill-six-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791800426.652511,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
