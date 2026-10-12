@@ -38530,9 +38530,41 @@
       "status": "pending",
       "firstSeenAt": 1791844525.8829522,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw78p7l7rp30o",
+      "provider": "BBC",
+      "title": "Coventry announce themselves back in the big time Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
+      "status": "pending",
+      "firstSeenAt": 1791845456.5874183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/michael-jordan-last-dance-jersey-sold-record-price/107259074",
+      "provider": "ABC News Australia",
+      "title": "Michael Jordan Last Dance jersey sells for record $20m",
+      "status": "pending",
+      "firstSeenAt": 1791845457.485519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/stolen-cars-social-media-youth-egging-on-katherine-crime-wave/107257448",
+      "provider": "ABC News Australia",
+      "title": "Children as young as 11 compete to 'outdo each other' in NT crime wave",
+      "status": "pending",
+      "firstSeenAt": 1791845457.4855504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/remote-nurse-yiwarr-mcgrath-starts-work-as-member-for-mulka/107211628",
+      "provider": "ABC News Australia",
+      "title": "Yolŋu nurse enters parliament, promising 'new era' for NT politics",
+      "status": "pending",
+      "firstSeenAt": 1791845457.4855726,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
