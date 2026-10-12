@@ -36754,9 +36754,57 @@
       "status": "pending",
       "firstSeenAt": 1791780193.243821,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0j0nwpzdgwo",
+      "provider": "BBC",
+      "title": "Landmark Steel City club brand Niche to return Niche, which opened on Sidney Street in 1992, is credited with the birth of 'bassline' music.",
+      "status": "pending",
+      "firstSeenAt": 1791781187.8860269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/act-woman-refused-bail-over-alleged-samurai-knife-attack/107255860",
+      "provider": "ABC News Australia",
+      "title": "Woman accused of samurai knife attack on housemate denied bail",
+      "status": "pending",
+      "firstSeenAt": 1791781189.3733516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/curtin-vice-chancellor-critical-of-proposed-wa-uni-merger/107255132",
+      "provider": "ABC News Australia",
+      "title": "Curtin University warns proposed merger 'solves problems we don't have'",
+      "status": "pending",
+      "firstSeenAt": 1791781189.3733926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/afl-zak-butters-western-bulldogs-port-adelaide-power/107256666",
+      "provider": "ABC News Australia",
+      "title": "Butters suggests changes to AFL player movement 'wouldn't be a bad thing'",
+      "status": "pending",
+      "firstSeenAt": 1791781189.373428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/south-32-job-losses-nt/107255864",
+      "provider": "ABC News Australia",
+      "title": "Job losses likely at remote island mine as costs nearly double due to flooding",
+      "status": "pending",
+      "firstSeenAt": 1791781189.3734643,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/dubbo-trial-begins-for-jack-bowd-newell-highway-crash-2024/107212610",
+      "provider": "ABC News Australia",
+      "title": "Man filmed speeding denies being driver in fatal highway crash",
+      "status": "pending",
+      "firstSeenAt": 1791781189.3734972,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
