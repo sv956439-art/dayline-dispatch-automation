@@ -38154,9 +38154,41 @@
       "status": "pending",
       "firstSeenAt": 1791831754.793595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/doctor-banned-prescribing-drugs-to-patient-for-himself/107256388",
+      "provider": "ABC News Australia",
+      "title": "Doctor banned for prescribing drugs to patient, then buying them back",
+      "status": "pending",
+      "firstSeenAt": 1791832743.7190573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/man-arrested-over-carlton-death/107258702",
+      "provider": "ABC News Australia",
+      "title": "Man arrested over weekend death of Melbourne woman",
+      "status": "pending",
+      "firstSeenAt": 1791832743.7191112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612",
+      "provider": "ABC News Australia",
+      "title": "AI inquiry urges independent safety watchdogs inside companies",
+      "status": "pending",
+      "firstSeenAt": 1791832743.7191594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/australia-food-waste-business-economic-cost/107249996",
+      "provider": "ABC News Australia",
+      "title": "Billions in the bin as economy struggles with true cost of food waste",
+      "status": "pending",
+      "firstSeenAt": 1791832743.719204,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
