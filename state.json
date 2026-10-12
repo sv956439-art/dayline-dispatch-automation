@@ -38602,9 +38602,41 @@
       "status": "pending",
       "firstSeenAt": 1791847050.2911317,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/australia-perfectly-set-for-victory-first-cricket-test-rsa/107258722",
+      "provider": "ABC News Australia",
+      "title": "Refusing to yield momentum, ruthless Australia is perfectly set for victory",
+      "status": "pending",
+      "firstSeenAt": 1791848034.2667696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/what-we-know-about-lady-violet-bridgerton-ahead-of-spin-off/107257128",
+      "provider": "ABC News Australia",
+      "title": "What we know about Lady Violet Bridgerton ahead of Netflix spin-off",
+      "status": "pending",
+      "firstSeenAt": 1791848034.267379,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/is-flying-through-the-middle-east-still-safe/107255194",
+      "provider": "ABC News Australia",
+      "title": "'High degree of caution' advised for Middle East travel after Houthi strikes",
+      "status": "pending",
+      "firstSeenAt": 1791848034.26795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/vic-australia-cup-final-booing/107258950",
+      "provider": "ABC News Australia",
+      "title": "Welcome to Country booing at Australia Cup final condemned",
+      "status": "pending",
+      "firstSeenAt": 1791848034.2679787,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
