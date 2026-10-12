@@ -36698,9 +36698,25 @@
       "status": "pending",
       "firstSeenAt": 1791775739.5777419,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrwy92v5wvo",
+      "provider": "BBC",
+      "title": "Australian detained in Iraq for years on his way home Engineer Robert Pether was jailed on fraud charges in 2021 though the UN said his detention was illegal.",
+      "status": "pending",
+      "firstSeenAt": 1791777008.915392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791777009.1734235,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
