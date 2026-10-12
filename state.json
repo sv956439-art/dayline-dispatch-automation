@@ -38330,9 +38330,33 @@
       "status": "pending",
       "firstSeenAt": 1791836456.1542704,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791837577.0841084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/electric-vehicles-albury-thurgoona-tesla-charging-infrastructure/107248014",
+      "provider": "ABC News Australia",
+      "title": "Tesla releases plans for Australia's largest EV charging hub",
+      "status": "pending",
+      "firstSeenAt": 1791837577.7606115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/channel-country-gas-oil-tenders-awarded-bridgeport-energy/107255954",
+      "provider": "ABC News Australia",
+      "title": "Oil company wins tenders in Channel Country with supply to stay in Australia",
+      "status": "pending",
+      "firstSeenAt": 1791837577.7606678,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
