@@ -36466,9 +36466,49 @@
       "status": "pending",
       "firstSeenAt": 1791762884.1575668,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm78pwdp3n5qo",
+      "provider": "BBC",
+      "title": "Iran war threatens UK chancellor's Budget plans, think tank warns",
+      "status": "pending",
+      "firstSeenAt": 1791763432.8139038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+      "provider": "BBC",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "status": "pending",
+      "firstSeenAt": 1791763432.813935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm237z77dgyo",
+      "provider": "BBC",
+      "title": "Childhood cancer symptoms can be easily missed - here's what to look out for Although rare, cancer is the leading cause of death from disease among children under 15 in the UK. 59 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1791763432.814104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzeze69dd8yo",
+      "provider": "BBC",
+      "title": "8 Teen 'detached from reality' to cope with return of aggressive cancer",
+      "status": "pending",
+      "firstSeenAt": 1791763432.8144708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/national-trust-sa-inquiry-resumes-today-as-ceo-resigns/107254730",
+      "provider": "ABC News Australia",
+      "title": "National Trust SA inquiry resumes today as CEO resigns",
+      "status": "pending",
+      "firstSeenAt": 1791763433.5311928,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
