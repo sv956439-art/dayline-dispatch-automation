@@ -37274,9 +37274,25 @@
       "status": "pending",
       "firstSeenAt": 1791798239.4498005,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/french-centre-left-must-wage-existential-battle-to-prevent-far-right-winning-presidency",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791799279.6247861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column",
+      "provider": "The Guardian",
+      "title": "The Browns are still the Browns. And Deshaun Watson is still Deshaun Watson",
+      "status": "pending",
+      "firstSeenAt": 1791799279.625768,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
