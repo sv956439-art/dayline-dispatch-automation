@@ -38394,9 +38394,49 @@
       "status": "pending",
       "firstSeenAt": 1791839303.730563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm087rkze2o",
+      "provider": "BBC",
+      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+      "status": "pending",
+      "firstSeenAt": 1791840261.6377966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791840261.8577347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894",
+      "provider": "ABC News Australia",
+      "title": "Breaking Bad star RJ Mitte dies age 34",
+      "status": "pending",
+      "firstSeenAt": 1791840262.1927583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/emirates-adelaide-to-dubai-flight-mechanical-issue/107258878",
+      "provider": "ABC News Australia",
+      "title": "Dubai-bound Emirates flight forced to turn back to Adelaide Airport",
+      "status": "pending",
+      "firstSeenAt": 1791840262.1936054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/asx-markets-business-live-news/107258880",
+      "provider": "ABC News Australia",
+      "title": "Oil prices on the rise as energy supply concerns continue",
+      "status": "pending",
+      "firstSeenAt": 1791840262.1936457,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
