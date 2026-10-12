@@ -37826,9 +37826,89 @@
       "status": "pending",
       "firstSeenAt": 1791816951.4356723,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr0qk1j7q0eno",
+      "provider": "BBC",
+      "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine? Both conflicts have led to less diesel being exported - but the data shows more has been lost from the Middle East. 16 mins ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1791817915.40666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpwg28vrexzo",
+      "provider": "BBC",
+      "title": "Why the US is bringing back firing squads Medical experts and those who study the death penalty say each method can go wrong and cause severe pain. 14 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791817915.4067318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69vzy90k3yvo",
+      "provider": "BBC",
+      "title": "Singers underground as mine prepares to reopen A mine echoes to the sound of a choir singing deep underground as plans continue to reopen it.",
+      "status": "pending",
+      "firstSeenAt": 1791817915.4079006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crp3gy0x0dd1o",
+      "provider": "BBC",
+      "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+      "status": "pending",
+      "firstSeenAt": 1791817915.5064707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c52e9r9yr901o",
+      "provider": "BBC",
+      "title": "Residents fail in NI court bid to challenge Drumcree parade decision Judges said their decision was confined to the lawfulness of the decision, not in deciding whether or not the march should occur. 13 mins ago Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791817915.5068192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9146j15gnggo",
+      "provider": "BBC",
+      "title": "5 Wildlife park fatal tiger attack - what we know so far",
+      "status": "pending",
+      "firstSeenAt": 1791817915.5069304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp8gyp51rqro",
+      "provider": "BBC",
+      "title": "10 Ray Quinn says baby boy was 'born sleeping'",
+      "status": "pending",
+      "firstSeenAt": 1791817915.5070043,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791817916.192946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/regina-romero-arizona-democrats-house-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791817916.1929703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/dementia-prevalance-for-women-to-increase-by-2050/107256064",
+      "provider": "ABC News Australia",
+      "title": "'Scary' dementia modelling shows how cases will surge by 2050",
+      "status": "pending",
+      "firstSeenAt": 1791817916.8133368,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
