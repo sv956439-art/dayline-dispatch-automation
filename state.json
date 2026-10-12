@@ -37514,9 +37514,33 @@
       "status": "pending",
       "firstSeenAt": 1791806848.2870443,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr78pe09y05xo",
+      "provider": "BBC",
+      "title": "AI minister warns 'likely' UK's cyber defences will be breached Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+      "status": "pending",
+      "firstSeenAt": 1791809007.092175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cwz0v3zy7mpxo",
+      "provider": "BBC",
+      "title": "Key suggests Carse can return as England reveal contract list",
+      "status": "pending",
+      "firstSeenAt": 1791809007.0925038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5ynx0rvexno",
+      "provider": "BBC",
+      "title": "57 mins ago Make sure use of AI is safe, data watchdog warns Guernsey's data protection authority is reminding businesses to use AI safely to protect clients. 57 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791809007.1615107,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
