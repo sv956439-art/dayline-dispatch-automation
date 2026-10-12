@@ -36882,9 +36882,41 @@
       "status": "pending",
       "firstSeenAt": 1791782118.5570529,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm09xvlvjeo",
+      "provider": "BBC",
+      "title": "Why some have no choice but to pay costly oil prices The rural communities vulnerable to heating oil prices rises as the weather gets colder.",
+      "status": "pending",
+      "firstSeenAt": 1791783278.6733327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c623d4pzy4n2o",
+      "provider": "BBC",
+      "title": "New rule, no change - has cricket missed a trick again with bad light? More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick? 13 mins ago Cricket",
+      "status": "pending",
+      "firstSeenAt": 1791783278.7413688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/indonesia-earthquake-mosque-warning-systems-loundspeakers",
+      "provider": "The Guardian",
+      "title": "Indonesia looks to mosque loudspeakers to double as earthquake warning systems",
+      "status": "pending",
+      "firstSeenAt": 1791783278.9652674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/queensland-elizabeth-struhs-inquest/107256792",
+      "provider": "ABC News Australia",
+      "title": "Coroner begins hearing from witnesses in Elizabeth Struhs inquest",
+      "status": "pending",
+      "firstSeenAt": 1791783279.4106696,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
