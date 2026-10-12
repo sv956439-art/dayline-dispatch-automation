@@ -38106,9 +38106,57 @@
       "status": "pending",
       "firstSeenAt": 1791830740.2979739,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw80z7edrk80o",
+      "provider": "BBC",
+      "title": "US actress Selma Blair arrested after allegedly attacking attendants on flight Blair's publicist told the BBC that she \"experienced a medical emergency that led to the alleged conduct\" on the Delta flight from Los Angeles to New York.",
+      "status": "pending",
+      "firstSeenAt": 1791831753.6796439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/robert-pether-free-dublin-iraq-baghdad/107258398",
+      "provider": "ABC News Australia",
+      "title": "Australian engineer speaks after being freed from Baghdad jail",
+      "status": "pending",
+      "firstSeenAt": 1791831754.7929535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/esafety-cant-block-us-execution-live-stream-in-australia/107258064",
+      "provider": "ABC News Australia",
+      "title": "ESafety says it can't prevent Australians from seeing execution live stream",
+      "status": "pending",
+      "firstSeenAt": 1791831754.7929862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/bledisloe-cup-wallabies-all-blacks-tom-wright-eden-park-loss/107257634",
+      "provider": "ABC News Australia",
+      "title": "Wallabies admit they 'faced the music' after harrowing All Blacks loss",
+      "status": "pending",
+      "firstSeenAt": 1791831754.7935517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/the-smith-family-school-attendance-real-time-tool/107247080",
+      "provider": "ABC News Australia",
+      "title": "Early intervention tool aimed at turning school results around",
+      "status": "pending",
+      "firstSeenAt": 1791831754.7935736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/safeguard-mechanism-loophole-coal-expansions/107246600",
+      "provider": "ABC News Australia",
+      "title": "Loophole allowing new coal and gas to avoid stricter climate laws",
+      "status": "pending",
+      "firstSeenAt": 1791831754.793595,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
