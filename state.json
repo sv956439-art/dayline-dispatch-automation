@@ -37410,9 +37410,49 @@
       "status": "pending",
       "firstSeenAt": 1791803509.614091,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68jz0282re9o",
+      "provider": "BBC",
+      "title": "Sinn Féin ministers facing no-confidence vote after Drumcree dispute The motion against Michelle O'Neill and three other Sinn Féin ministers will be debated after receiving the backing of unionist parties last week. 32 mins ago Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1791804707.6741834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmd7qn1g0xrxo",
+      "provider": "BBC",
+      "title": "Women's billion-dollar boom leaves players behind, says Fifpro Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates. 1 hr ago Women's Football",
+      "status": "pending",
+      "firstSeenAt": 1791804707.6745186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/12/bbc-strictly-come-dancing-editing-out-trans-rights-slogan-bethany-antonia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791804707.912862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/molly-ticehurst-killer-daniel-billings-murder-sentence-appeal/107257888",
+      "provider": "ABC News Australia",
+      "title": "Molly Ticehurst's killer intends to appeal murder sentence",
+      "status": "pending",
+      "firstSeenAt": 1791804708.3258495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/saudi-arabia-and-yemen-houthis-trade-new-attacks/107257992",
+      "provider": "ABC News Australia",
+      "title": "Australians in Riyadh told to shelter as Saudis and Houthis trade attacks",
+      "status": "pending",
+      "firstSeenAt": 1791804708.3270032,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
