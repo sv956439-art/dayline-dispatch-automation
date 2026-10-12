@@ -38570,9 +38570,41 @@
       "status": "pending",
       "firstSeenAt": 1791846095.6900802,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxnv0z09r882o",
+      "provider": "BBC",
+      "title": "Heating oil customers face tough winter despite shake-up promise Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "status": "pending",
+      "firstSeenAt": 1791847050.0755103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g12v3lk20o",
+      "provider": "BBC",
+      "title": "I earn £120,000 a year making social media videos go viral",
+      "status": "pending",
+      "firstSeenAt": 1791847050.075543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/queensland-ombudsman-backs-away-from-calls-to-close-youth-prison-so-unsuitable-some-children-self-harm-to-get-transferred-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791847050.2905831,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791847050.2911317,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
