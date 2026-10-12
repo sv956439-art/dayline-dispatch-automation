@@ -38186,9 +38186,33 @@
       "status": "pending",
       "firstSeenAt": 1791832743.719204,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791833763.1108296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/health-system-failure-as-older-patients-present-at-hospital-ed/107255948",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's EDs taking the hit for health system failure, report finds",
+      "status": "pending",
+      "firstSeenAt": 1791833763.4257536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/eurobodalla-council-alleged-historical-family-day-care-abuse/107250100",
+      "provider": "ABC News Australia",
+      "title": "Council sued over alleged historical abuse at daycare services",
+      "status": "pending",
+      "firstSeenAt": 1791833763.4257982,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
