@@ -37506,9 +37506,17 @@
       "status": "pending",
       "firstSeenAt": 1791805944.130608,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "provider": "BBC",
+      "title": "The man hiking the world in search of rare cheeses Trevor Warmedahl has spent years documenting rare and traditional cheesemaking methods, and believes that \"cheese is an edible manifestation of a place\".",
+      "status": "pending",
+      "firstSeenAt": 1791806848.2870443,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
