@@ -36626,9 +36626,25 @@
       "status": "pending",
       "firstSeenAt": 1791772861.340644,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/trumps-diesel-deal-not-expected-to-lower-prices/107254852",
+      "provider": "ABC News Australia",
+      "title": "Trump's diesel deal not expected to lower prices",
+      "status": "pending",
+      "firstSeenAt": 1791773791.5726624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596",
+      "provider": "ABC News Australia",
+      "title": "Claude's fake murder tip-off speaks to 'carelessness' of AI companies, expert says",
+      "status": "pending",
+      "firstSeenAt": 1791773791.5726783,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
