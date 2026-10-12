@@ -36914,9 +36914,41 @@
       "status": "pending",
       "firstSeenAt": 1791783279.4106696,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/cq0ldgz9x142o",
+      "provider": "BBC",
+      "title": "What happens to sports kit that never gets worn?",
+      "status": "pending",
+      "firstSeenAt": 1791784333.4809813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
+      "provider": "The Guardian",
+      "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
+      "status": "pending",
+      "firstSeenAt": 1791784333.6307817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/tobias-moran-sues-nsw-police-over-arrest/107256230",
+      "provider": "ABC News Australia",
+      "title": "Boyfriend of murdered backpacker sues police over arrest",
+      "status": "pending",
+      "firstSeenAt": 1791784333.934258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/infant-hit-by-car-smythesdale-ballarat/107257032",
+      "provider": "ABC News Australia",
+      "title": "Infant girl flown to hospital after being hit by car near Ballarat",
+      "status": "pending",
+      "firstSeenAt": 1791784333.9343042,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
