@@ -37250,9 +37250,33 @@
       "status": "pending",
       "firstSeenAt": 1791795746.6154053,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791798238.9750874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/russia-attacking-ukraine-energy-zelenskyy-ceasefire/107257666",
+      "provider": "ABC News Australia",
+      "title": "Russia striking fuel reserves despite 'energy ceasefire', Zelenskyy says",
+      "status": "pending",
+      "firstSeenAt": 1791798239.4497747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/chess-professional-alleged-stalker-goes-on-hunger-strike/107257832",
+      "provider": "ABC News Australia",
+      "title": "Chess professional's alleged stalker goes on hunger strike",
+      "status": "pending",
+      "firstSeenAt": 1791798239.4498005,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
