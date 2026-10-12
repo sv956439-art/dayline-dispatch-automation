@@ -36730,9 +36730,33 @@
       "status": "pending",
       "firstSeenAt": 1791779057.5577278,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500",
+      "provider": "ABC News Australia",
+      "title": "Trump shifts position on Ukraine as fuel prices pose existential threat",
+      "status": "pending",
+      "firstSeenAt": 1791780193.2431061,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/queensland-teenager-jailed-for-raping-girl/107256604",
+      "provider": "ABC News Australia",
+      "title": "Teenager who raped girl, 14, jailed under 'adult time' laws",
+      "status": "pending",
+      "firstSeenAt": 1791780193.2437952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/tesla-charging-station-kaniva-application-country-town/107215686",
+      "provider": "ABC News Australia",
+      "title": "Kaniva wants to be known as an EV charging hub",
+      "status": "pending",
+      "firstSeenAt": 1791780193.243821,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
