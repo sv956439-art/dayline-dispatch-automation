@@ -36610,9 +36610,25 @@
       "status": "pending",
       "firstSeenAt": 1791770057.679925,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/adidas-sues-white-fox-boutique-over-stripes/107243244",
+      "provider": "ABC News Australia",
+      "title": "Adidas alleges White Fox Boutique infringed its three-stripe trademark",
+      "status": "pending",
+      "firstSeenAt": 1791772861.3405843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/one-nation-denies-victorian-election-campaign-video-racist/107254888",
+      "provider": "ABC News Australia",
+      "title": "One Nation Vic deputy denies AI-generated campaign video was racist",
+      "status": "pending",
+      "firstSeenAt": 1791772861.340644,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
