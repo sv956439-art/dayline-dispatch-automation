@@ -36802,9 +36802,89 @@
       "status": "pending",
       "firstSeenAt": 1791781189.3734972,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "provider": "BBC",
+      "title": "Documents falsified to evade tax on Abramovich's wealth Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
+      "status": "pending",
+      "firstSeenAt": 1791782117.818911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckq6nl636vv2o",
+      "provider": "BBC",
+      "title": "Macbeth to be performed in town's last nightclub Shakespeare's famous play will be performed at the nightclub in an effort to engage \"new audiences\".",
+      "status": "pending",
+      "firstSeenAt": 1791782117.8196342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791782118.154016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791782118.1541312,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791782118.154514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791782118.1545367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/12/couple-devastating-attack-sexual-assault-rape",
+      "provider": "The Guardian",
+      "title": "‘We were not going to let this rapist destroy our lives’: how one couple came to terms with a devastating attack",
+      "status": "pending",
+      "firstSeenAt": 1791782118.155161,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/wa-chief-justice-urges-care-over-reference-ban/107256724",
+      "provider": "ABC News Australia",
+      "title": "Top judge urges caution over plan to ban character references",
+      "status": "pending",
+      "firstSeenAt": 1791782118.5569386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/simon-carman-tunchanok-donhomla-murder-thai-court/107242608",
+      "provider": "ABC News Australia",
+      "title": "Thai teen's family seeks $70k from Australian murder accused",
+      "status": "pending",
+      "firstSeenAt": 1791782118.5570054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/three-nutritious-tasty-recipes-for-school-lunch-boxes/107247636",
+      "provider": "ABC News Australia",
+      "title": "Out-of-the-box ideas for school lunches",
+      "status": "pending",
+      "firstSeenAt": 1791782118.5570529,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
