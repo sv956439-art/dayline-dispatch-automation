@@ -38298,9 +38298,41 @@
       "status": "pending",
       "firstSeenAt": 1791835361.7174673,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjx2359qekrdo",
+      "provider": "BBC",
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "status": "pending",
+      "firstSeenAt": 1791836454.8855453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791836455.4480293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/saudis-probe-houthi-attack-on-riyadh-airport-amid-ongoing-attack/107258142",
+      "provider": "ABC News Australia",
+      "title": "Riyadh airport stays closed as Saudis probe failures in deadly attack",
+      "status": "pending",
+      "firstSeenAt": 1791836456.154232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/matthew-richardson-withdrawn-british-world-championship-squad/107258768",
+      "provider": "ABC News Australia",
+      "title": "Track cyclist who ditched Australia withdrawn from world champ squad",
+      "status": "pending",
+      "firstSeenAt": 1791836456.1542704,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
