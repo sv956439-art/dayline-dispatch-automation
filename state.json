@@ -36538,9 +36538,17 @@
       "status": "pending",
       "firstSeenAt": 1791765160.2751389,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x29kydnzv0o",
+      "provider": "BBC",
+      "title": "Roofing scammers con homeowners out of thousands of pounds One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+      "status": "pending",
+      "firstSeenAt": 1791766730.2095566,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
