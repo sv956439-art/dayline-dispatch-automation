@@ -38434,9 +38434,33 @@
       "status": "pending",
       "firstSeenAt": 1791840262.1936457,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/final-motogp-phillip-island-business-want-support-for-future/107156516",
+      "provider": "ABC News Australia",
+      "title": "Phillip Island business operators prepare for MotoGP's final lap",
+      "status": "pending",
+      "firstSeenAt": 1791841193.9537694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/steve-smith-monitored-for-concussion-day-four/107258824",
+      "provider": "ABC News Australia",
+      "title": "Smith monitored for concussion after hit to helmet while batting",
+      "status": "pending",
+      "firstSeenAt": 1791841193.9537961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/afl-trade-period-live-blog-tuesday-october-13/107256546",
+      "provider": "ABC News Australia",
+      "title": "Blakey closes in on North move, Lion requests late trade to Bombers",
+      "status": "pending",
+      "firstSeenAt": 1791841193.9538147,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
