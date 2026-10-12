@@ -37450,9 +37450,65 @@
       "status": "pending",
       "firstSeenAt": 1791804708.3270032,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60e0g39rj9go",
+      "provider": "BBC",
+      "title": "Daniel Kinahan's lawyers to apply for bail in due course, court hears He is charged with directing the activities of a criminal organisation between 18 October 2015 and 6 April 2017.",
+      "status": "pending",
+      "firstSeenAt": 1791805942.781007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cke8re5v1pgmo",
+      "provider": "BBC",
+      "title": "Tom Cruise film Digger could lose $245m at box office The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
+      "status": "pending",
+      "firstSeenAt": 1791805942.7815247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmp3gwz17qn7o",
+      "provider": "BBC",
+      "title": "Elite schedule 'not sustainable' amid 55-game seasons",
+      "status": "pending",
+      "firstSeenAt": 1791805942.8715916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c6lyk8lqp2p8o",
+      "provider": "BBC",
+      "title": "Smith to fight champion Bivol in Russia",
+      "status": "pending",
+      "firstSeenAt": 1791805942.8716445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791805943.8420289,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/first-thing-zelenskyy-blindsided-trump-announces-energy-ceasefire-ukraine-war-russia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791805943.8422863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/andrew-leigh-questions-whether-ai-could-increase-inequality/107257758",
+      "provider": "ABC News Australia",
+      "title": "AI boom could widen income inequality, Labor MP warns",
+      "status": "pending",
+      "firstSeenAt": 1791805944.130608,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
