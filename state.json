@@ -37130,9 +37130,33 @@
       "status": "pending",
       "firstSeenAt": 1791792137.4279027,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqxn0lw25r3o",
+      "provider": "BBC",
+      "title": "Russell Brand arrives at court for start of rape trial The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
+      "status": "pending",
+      "firstSeenAt": 1791793383.4909384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn5v7z5w76go",
+      "provider": "BBC",
+      "title": "Locals 'shocked, angry and scared' by solar farm plan",
+      "status": "pending",
+      "firstSeenAt": 1791793383.5445478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/wa-primary-school-student-screen-time-restrictions-2027/107256470",
+      "provider": "ABC News Australia",
+      "title": "Less screen time for primary school students as WA joins digital detox",
+      "status": "pending",
+      "firstSeenAt": 1791793384.543292,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
