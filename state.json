@@ -36642,9 +36642,41 @@
       "status": "pending",
       "firstSeenAt": 1791773791.5726783,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791774543.6734922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/ex-liberal-politician-bruce-baird-farewelled-at-funeral-sydney/107255028",
+      "provider": "ABC News Australia",
+      "title": "Ex-Liberal politician Bruce Baird farewelled at Sydney funeral service",
+      "status": "pending",
+      "firstSeenAt": 1791774544.0736349,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/australian-engineer-leaves-iraq-five-years-after-arrest/107256156",
+      "provider": "ABC News Australia",
+      "title": "Australian engineer Robert Pether leaves Iraq five years after arrest",
+      "status": "pending",
+      "firstSeenAt": 1791774544.0736625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/steve-sharpe-louise-collier-return-low-isles-caretakers/107254862",
+      "provider": "ABC News Australia",
+      "title": "'Unfinished business' lures couple back to Queensland island paradise",
+      "status": "pending",
+      "firstSeenAt": 1791774544.0736818,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
