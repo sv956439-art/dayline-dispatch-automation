@@ -37906,9 +37906,41 @@
       "status": "pending",
       "firstSeenAt": 1791817916.8133368,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/ckz7xvz7lxveo",
+      "provider": "BBC",
+      "title": "Pope pulls out of controversial Afghanistan T20 league",
+      "status": "pending",
+      "firstSeenAt": 1791819102.0410483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm4g19dj9xjdo",
+      "provider": "BBC",
+      "title": "Points pile-ups, old-school Saracens and a royal pint - Prem talking points",
+      "status": "pending",
+      "firstSeenAt": 1791819102.1267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/c63r5n01wwl2o",
+      "provider": "BBC",
+      "title": "Skateboarder Brown wins silver in Olympic qualifier",
+      "status": "pending",
+      "firstSeenAt": 1791819102.1269739,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791819102.4168205,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
