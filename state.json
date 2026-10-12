@@ -38466,9 +38466,41 @@
       "status": "pending",
       "firstSeenAt": 1791842024.2872005,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pvgryp8yv0o",
+      "provider": "BBC",
+      "title": "Crew searching for Amelia Earhart arrives at crab-infested island Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.",
+      "status": "pending",
+      "firstSeenAt": 1791843535.4868863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gr82ekqewyo",
+      "provider": "BBC",
+      "title": "Britain won't tolerate threats on our soil, UK foreign secretary says as he summons Iran ambassador",
+      "status": "pending",
+      "firstSeenAt": 1791843535.554861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/cje36qz977yqo",
+      "provider": "BBC",
+      "title": "Jordan 'Last Dance' jersey sells for record £10.6m A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia. 1 hr ago Basketball",
+      "status": "pending",
+      "firstSeenAt": 1791843535.555454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/wa-broome-lack-of-taxis-uber-transport/107221428",
+      "provider": "ABC News Australia",
+      "title": "Uber struggles to solve Broome's late-night transport issues",
+      "status": "pending",
+      "firstSeenAt": 1791843536.4734967,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
