@@ -37970,9 +37970,17 @@
       "status": "pending",
       "firstSeenAt": 1791823190.5406256,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791826811.2932875,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
