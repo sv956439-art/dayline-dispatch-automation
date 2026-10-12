@@ -38354,9 +38354,25 @@
       "status": "pending",
       "firstSeenAt": 1791837577.7606678,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
+      "provider": "ABC News Australia",
+      "title": "Actress Selma Blair arrested over alleged in-flight assault",
+      "status": "pending",
+      "firstSeenAt": 1791838612.1360826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724",
+      "provider": "ABC News Australia",
+      "title": "Hackers raise fridge temperatures at hundreds of French supermarkets to spoil food",
+      "status": "pending",
+      "firstSeenAt": 1791838612.1361501,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
