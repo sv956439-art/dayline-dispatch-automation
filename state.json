@@ -38370,9 +38370,33 @@
       "status": "pending",
       "firstSeenAt": 1791838612.1361501,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn045en7d88o",
+      "provider": "BBC",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34 Mitte, who lived with cerebral palsy, drew on his own experience for his role in the Emmy-winning drama series.",
+      "status": "pending",
+      "firstSeenAt": 1791839302.553806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr62yzypnw7no",
+      "provider": "BBC",
+      "title": "Qantas flight grounded after bedbug outbreak The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "status": "pending",
+      "firstSeenAt": 1791839302.5538962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/bumper-harvest-post-drought-hopes-south-australia/107257272",
+      "provider": "ABC News Australia",
+      "title": "Rain turns dry paddocks into bumper crops after years of drought",
+      "status": "pending",
+      "firstSeenAt": 1791839303.730563,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
