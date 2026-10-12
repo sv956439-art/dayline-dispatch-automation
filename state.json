@@ -37946,9 +37946,17 @@
       "status": "pending",
       "firstSeenAt": 1791821065.4566386,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/crje5vq4plygo",
+      "provider": "BBC",
+      "title": "Renshaw delivers again as Australia close on win",
+      "status": "pending",
+      "firstSeenAt": 1791822187.0541453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
