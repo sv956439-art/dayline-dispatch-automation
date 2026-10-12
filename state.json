@@ -37602,9 +37602,73 @@
       "status": "pending",
       "firstSeenAt": 1791811124.269489,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvp8glg97393o",
+      "provider": "BBC",
+      "title": "Immigration agents search Congresswoman Ilhan Omar's home Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
+      "status": "pending",
+      "firstSeenAt": 1791812978.3411074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62ykqw9pz1o",
+      "provider": "BBC",
+      "title": "1 hr ago Hepworth piece could fetch up to £8m at auction A post-war sculpture inspired by the Cornish landscape is set to go under the hammer. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791812978.4329906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyen88dwdno",
+      "provider": "BBC",
+      "title": "2 hrs ago Julie Hesmondhalgh left Celebrity Traitors 'with head held high' The former Corrie star says she had some apologetic texts after being banished on Friday's episode. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791812978.433021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/fire-destroys-marche-des-enfants-rouges-coolest-market-in-paris",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791812978.5741992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/german-labour-minister-co-leader-spd-social-democrats-barbel-bas-quits-death-stepdaughter-political-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791812978.5742626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/12/nigel-farage-adviser-influential-role-polling-firm-chris-bruni-lowe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791812978.5745852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/12/amelia-earhart-lost-plane-remote-pacific-atoll-expedition",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791812978.5747197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/marche-couvert-des-enfants-rouges-paris-market-fire/107258094",
+      "provider": "ABC News Australia",
+      "title": "'Violent' fire destroys Paris's oldest covered food market",
+      "status": "pending",
+      "firstSeenAt": 1791812978.8728461,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
