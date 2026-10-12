@@ -36954,9 +36954,73 @@
       "status": "pending",
       "firstSeenAt": 1791785057.8724163,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkgwvqpp2qxo",
+      "provider": "BBC",
+      "title": "1 hr ago Police unit pulls plug on Palantir AI technology Five police forces decide not to continue using software from a US tech firm after a two-year trial 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1791786677.1912944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm0yy8dnkro",
+      "provider": "BBC",
+      "title": "2 hrs ago Children cut down on social screen time for trial Researchers say it is the first major study into the impact of social media on teens' mental health. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791786677.191331,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791786677.3370087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791786677.337034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/12/parking-apps-pay-more-council-car-parks-fees",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791786677.3370583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/12/how-low-can-the-trump-administration-go-many-citizens-are-expressing-their-horror",
+      "provider": "The Guardian",
+      "title": "How low can the Trump administration go? Many citizens are expressing their horror",
+      "status": "pending",
+      "firstSeenAt": 1791786677.3376257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/police-respond-to-serious-crash-in-leeming/107256838",
+      "provider": "ABC News Australia",
+      "title": "Police pursuit ends in serious crash in Perth's south",
+      "status": "pending",
+      "firstSeenAt": 1791786677.713222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/doubts-over-minns-government-100-nsw-preschool-pledge-for-2027/107256296",
+      "provider": "ABC News Australia",
+      "title": "100 preschools set to open in NSW, but how many will be accepting children?",
+      "status": "pending",
+      "firstSeenAt": 1791786677.7140803,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
