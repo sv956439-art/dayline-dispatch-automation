@@ -36578,9 +36578,25 @@
       "status": "pending",
       "firstSeenAt": 1791767828.932058,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/melbourne-imam-abu-hamza-on-uae-terror-allegations/107254722",
+      "provider": "ABC News Australia",
+      "title": "Imam named by Emirati officials in flydubai terror probe breaks silence",
+      "status": "pending",
+      "firstSeenAt": 1791769029.6708014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/shearwater-food-company-driver-crashes-entrance/107255046",
+      "provider": "ABC News Australia",
+      "title": "Customer 'lucky to be alive' after 4WD smashes cafe frontage",
+      "status": "pending",
+      "firstSeenAt": 1791769029.6708472,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
