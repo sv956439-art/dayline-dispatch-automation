@@ -36546,9 +36546,41 @@
       "status": "pending",
       "firstSeenAt": 1791766730.2095566,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/11/time-review-david-tennant-siobhan-finneran-bbc-iplayer",
+      "provider": "The Guardian",
+      "title": "Time review – David Tennant’s furious drama is as important as Adolescence",
+      "status": "pending",
+      "firstSeenAt": 1791767828.1829336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "provider": "The Guardian",
+      "title": "‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring",
+      "status": "pending",
+      "firstSeenAt": 1791767828.1829655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/11/chimp-civil-war-john-mitani-chimps-uganda-aoe",
+      "provider": "The Guardian",
+      "title": "‘I didn’t want to write about this’: the man who first saw chimps waging civil war",
+      "status": "pending",
+      "firstSeenAt": 1791767828.1829972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-12/nt-suspicious-death-in-remote-community-of-alpurrurulam/107255260",
+      "provider": "ABC News Australia",
+      "title": "Woman dies after alleged assault in trouble-stricken NT community",
+      "status": "pending",
+      "firstSeenAt": 1791767828.932058,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
