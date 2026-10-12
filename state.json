@@ -38562,9 +38562,17 @@
       "status": "pending",
       "firstSeenAt": 1791845457.4855726,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cme36q1gnpnlo",
+      "provider": "BBC",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "status": "pending",
+      "firstSeenAt": 1791846095.6900802,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
