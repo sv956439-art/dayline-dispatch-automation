@@ -39026,9 +39026,33 @@
       "status": "pending",
       "firstSeenAt": 1791865308.582893,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791866562.8109775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/bedbug-infestation-forces-qantas-to-ground-plane-in-rome",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791866562.8111985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/man-jail-siphon-fuel-broadcast-tower-eden/107257346",
+      "provider": "ABC News Australia",
+      "title": "Man jailed for trying to siphon fuel from broadcast tower generator",
+      "status": "pending",
+      "firstSeenAt": 1791866563.3975508,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
