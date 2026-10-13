@@ -40714,9 +40714,65 @@
       "status": "pending",
       "firstSeenAt": 1791920938.0321193,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/yes-the-music-is-lovely-but-cathedrals-are-crumbling",
+      "provider": "The Guardian",
+      "title": "double quotation mark Yes, the music is lovely, but cathedrals are crumbling",
+      "status": "pending",
+      "firstSeenAt": 1791922304.314459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/australia-has-silenced-critics-of-its-test-selection-strategy/107259814",
+      "provider": "ABC News Australia",
+      "title": "Selection critics silenced as Australia's old guard wins first Test",
+      "status": "pending",
+      "firstSeenAt": 1791922305.0342221,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/artificial-intelligence-ai-real-estate-house-listings/107192522",
+      "provider": "ABC News Australia",
+      "title": "Real estate agents urged to 'enhance responsibly' as AI use rises",
+      "status": "pending",
+      "firstSeenAt": 1791922305.0343883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/essendon-and-moonee-ponds-suspicious-fires/107263002",
+      "provider": "ABC News Australia",
+      "title": "Police investigate arson attacks in neighbouring Melbourne suburbs",
+      "status": "pending",
+      "firstSeenAt": 1791922305.0350425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/great-grandmother-learns-language-at-indigenous-preschool/107169750",
+      "provider": "ABC News Australia",
+      "title": "Great-grandmother learns her native language at very special preschool",
+      "status": "pending",
+      "firstSeenAt": 1791922305.0350745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/federal-politics-live-blog-october-14/107261908",
+      "provider": "ABC News Australia",
+      "title": "PM confirms he intervened to delay ATO credit card ban",
+      "status": "pending",
+      "firstSeenAt": 1791922305.035104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/tasmania-jewels-wnbl-basketball-debut-game/107260578",
+      "provider": "ABC News Australia",
+      "title": "Island spirit lives on in Tasmania Jewels' basketball debut",
+      "status": "pending",
+      "firstSeenAt": 1791922305.0351207,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
