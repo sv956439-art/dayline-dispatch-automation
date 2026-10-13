@@ -38978,9 +38978,25 @@
       "status": "pending",
       "firstSeenAt": 1791862025.9169738,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/vikki-campion-news-corp-columnist-and-wife-of-barnaby-joyce-begins-role-with-nsw-one-nation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791863208.356602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454",
+      "provider": "ABC News Australia",
+      "title": "Victorian firefighters union threatens legal action against own members",
+      "status": "pending",
+      "firstSeenAt": 1791863209.544543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
