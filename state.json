@@ -39234,9 +39234,49 @@
       "status": "pending",
       "firstSeenAt": 1791870767.7751489,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/netball/articles/cv98zl9579ggo",
+      "provider": "BBC",
+      "title": "An insurance policy with no guarantee - the complex issue of egg-freezing in sport BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg-freezing. 51 mins ago Netball",
+      "status": "pending",
+      "firstSeenAt": 1791871478.7360485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791871478.96027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/13/coastal-erosion-england-homes-demolished",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791871478.960667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+      "provider": "The Guardian",
+      "title": "‘Some things are worth dying for’: Karl Bushby’s incredible 28-year walk home, through deserts, kidnappers and polar bears",
+      "status": "pending",
+      "firstSeenAt": 1791871478.9613554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/teenage-girl-allegedly-stabbed-british-tourist-cairns-cbd/107261602",
+      "provider": "ABC News Australia",
+      "title": "Girl, 15, accused of stabbing British tourist in Cairns",
+      "status": "pending",
+      "firstSeenAt": 1791871479.2691636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
