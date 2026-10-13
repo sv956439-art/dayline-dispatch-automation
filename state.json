@@ -40130,9 +40130,49 @@
       "status": "pending",
       "firstSeenAt": 1791903059.1773212,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9y7l0pm8jkko",
+      "provider": "BBC",
+      "title": "Have Russian bots been stopped by Ukraine's strikes on 'Russia's Google'? Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks. 2 hrs ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1791904047.3164551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5zjxnm1y02po",
+      "provider": "BBC",
+      "title": "Mexican gang kidnaps officials to force detained member's release The gang seized the officials shortly after a high-ranking member was detained, demanding he be released. 2 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1791904047.3166978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw3djkpp2g78o",
+      "provider": "BBC",
+      "title": "9 Carragher settles tax debt to avoid bankruptcy",
+      "status": "pending",
+      "firstSeenAt": 1791904047.316887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/family-and-sexual-violence-rates-against-australian-children-rise-sharply-as-researchers-warn-of-manosphere",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791904047.4487433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/13/kelly-clarkson-fighting-over-15000-bird-social-media-brooklyn-store",
+      "provider": "The Guardian",
+      "title": "‘Wow, dude. You’re an idiot’: why Kelly Clarkson is fighting over a $15,000 bird on social media",
+      "status": "pending",
+      "firstSeenAt": 1791904047.4499128,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
