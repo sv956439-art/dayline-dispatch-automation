@@ -38930,9 +38930,57 @@
       "status": "pending",
       "firstSeenAt": 1791860889.9531302,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmglw0r21zexo",
+      "provider": "BBC",
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027 The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham. 12 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791862025.066228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791862025.4080977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/ukraine-war-briefing-russian-diesel-exports-could-return-to-past-levels-after-trump-deal-moscow-claims",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims",
+      "status": "pending",
+      "firstSeenAt": 1791862025.4085882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/liberal-party-josh-frydenberg-politics-kooyong-return/107260102",
+      "provider": "ABC News Australia",
+      "title": "Lukewarm Liberal response to Josh Frydenberg's potential return",
+      "status": "pending",
+      "firstSeenAt": 1791862025.9156537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/accc-consumer-watchdog-court-egg-cartel-sunny-queen/107260004",
+      "provider": "ABC News Australia",
+      "title": "Consumer watchdog takes egg 'cartel' to court",
+      "status": "pending",
+      "firstSeenAt": 1791862025.9169276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/safety-bureau-investigating-jetstar-near-miss-townsville/107260520",
+      "provider": "ABC News Australia",
+      "title": "Jetstar passenger plane nearly collides with van on airport tarmac",
+      "status": "pending",
+      "firstSeenAt": 1791862025.9169738,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
