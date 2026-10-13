@@ -41178,9 +41178,41 @@
       "status": "pending",
       "firstSeenAt": 1791933040.7115695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1rekpgnjo",
+      "provider": "BBC",
+      "title": "Zimbabwean author denies using AI to write award-winning story Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media. Just now Africa",
+      "status": "pending",
+      "firstSeenAt": 1791934473.123945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/13/mark-sanchez-indianapolis-civil-case-stabbing",
+      "provider": "The Guardian",
+      "title": "Former NFL star Mark Sanchez reaches settlement over stabbing altercation",
+      "status": "pending",
+      "firstSeenAt": 1791934473.418284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098",
+      "provider": "ABC News Australia",
+      "title": "Cornell University suspends fraternity parties after alleged gang rape",
+      "status": "pending",
+      "firstSeenAt": 1791934473.8117182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/open-ai-employee-charged-after-alleged-covert-recording/107263252",
+      "provider": "ABC News Australia",
+      "title": "Open AI employee busted collecting 'super intelligence' technology",
+      "status": "pending",
+      "firstSeenAt": 1791934473.811767,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
