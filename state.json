@@ -39858,9 +39858,41 @@
       "status": "pending",
       "firstSeenAt": 1791890253.8291898,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wvd3xyyjpo",
+      "provider": "BBC",
+      "title": "Owls ringed to measure benefits of wildlife farming",
+      "status": "pending",
+      "firstSeenAt": 1791891461.6211853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c81dwrxkl0vyo",
+      "provider": "BBC",
+      "title": "Children asked to name Ealing's new beavers",
+      "status": "pending",
+      "firstSeenAt": 1791891461.6212168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791891461.8848064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/13/russell-brand-trial-jury-sworn-in",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791891461.8852189,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
