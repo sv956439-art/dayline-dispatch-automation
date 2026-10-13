@@ -38890,9 +38890,41 @@
       "status": "pending",
       "firstSeenAt": 1791859209.1249945,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98zgy3466qo",
+      "provider": "BBC",
+      "title": "Man rescued after being trapped in Sardinian cave for 26 hours The 31-year-old cave expert was found alive, 32ft underground, after more than 100 emergency personnel worked to free him.",
+      "status": "pending",
+      "firstSeenAt": 1791860169.5499358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791860169.8070126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/glenorchy-council-peter-ridler-code-of-conduct-breaches/107258924",
+      "provider": "ABC News Australia",
+      "title": "Alderman seeking re-election suspended for allegedly touching female staff",
+      "status": "pending",
+      "firstSeenAt": 1791860170.4476032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/teenager-runs-gibb-river-road-kimberley-charity/107256250",
+      "provider": "ABC News Australia",
+      "title": "Heat stroke and stress fractures don't stop teen running 660km for charity",
+      "status": "pending",
+      "firstSeenAt": 1791860170.4476588,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
