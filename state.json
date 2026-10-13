@@ -40786,9 +40786,41 @@
       "status": "pending",
       "firstSeenAt": 1791924179.537368,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz7x9g1v4dvo",
+      "provider": "BBC",
+      "title": "Horse carriages in New York City expected to be outlawed Both the speaker of the city council and the mayor have expressed support for ending the practice.",
+      "status": "pending",
+      "firstSeenAt": 1791925769.4389966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/what-is-happening-with-the-afl-new-illicit-drugs-policy/107259890",
+      "provider": "ABC News Australia",
+      "title": "What's happening with the AFL's new Illicit Drugs Policy?",
+      "status": "pending",
+      "firstSeenAt": 1791925770.146524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/kgari-biosecurity-strategy-world-heritage-status-risk/107261758",
+      "provider": "ABC News Australia",
+      "title": "4WD wash-downs needed to protect K'gari, traditional owners say",
+      "status": "pending",
+      "firstSeenAt": 1791925770.1465514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/french-masters-caught-up-in-nt-gallery-stoush/107260558",
+      "provider": "ABC News Australia",
+      "title": "NT museum in secret talks over European masterworks – but there’s a catch",
+      "status": "pending",
+      "firstSeenAt": 1791925770.146595,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
