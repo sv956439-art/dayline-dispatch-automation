@@ -39314,9 +39314,65 @@
       "status": "pending",
       "firstSeenAt": 1791873002.966702,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy7z228kee3o",
+      "provider": "BBC",
+      "title": "Who are the Houthis and what do they want? Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group.",
+      "status": "pending",
+      "firstSeenAt": 1791874642.3885424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6kglnzvznn0o",
+      "provider": "BBC",
+      "title": "The star is Luis Enrique - inside the plans to keep PSG at the top As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem Balague looks at how the coach keeps his side at the top.",
+      "status": "pending",
+      "firstSeenAt": 1791874642.3887842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791874642.9055574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791874642.9056244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/make-america-healthy-again-trump-midterms/107244228",
+      "provider": "ABC News Australia",
+      "title": "The MAHA movement helped Trump win the White House, it may cost him the midterms",
+      "status": "pending",
+      "firstSeenAt": 1791874643.4019706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/france-supermarket-hack-freezer-fridge-australia/107259028",
+      "provider": "ABC News Australia",
+      "title": "How third-party systems leave supermarkets vulnerable to cyber attacks",
+      "status": "pending",
+      "firstSeenAt": 1791874643.4020793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696",
+      "provider": "ABC News Australia",
+      "title": "Toyah Cordingley's killer appeals murder conviction",
+      "status": "pending",
+      "firstSeenAt": 1791874643.4021466,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
