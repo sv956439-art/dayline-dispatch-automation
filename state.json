@@ -40122,9 +40122,17 @@
       "status": "pending",
       "firstSeenAt": 1791901753.2170486,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck78pj4nqe84o",
+      "provider": "BBC",
+      "title": "Pool man sacked for 'inadvertently' making mustard gas Anthony Brown was testing and topping up pool chemicals when he created mustard gas by accident. 14 mins ago Beds, Herts & Bucks",
+      "status": "pending",
+      "firstSeenAt": 1791903059.1773212,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
