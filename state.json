@@ -39586,9 +39586,41 @@
       "status": "pending",
       "firstSeenAt": 1791881826.3393013,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g18prn4l4o",
+      "provider": "BBC",
+      "title": "Cut screen time in classrooms to avoid long-term health issues, UK government urged A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness. 46 mins ago Family & Education",
+      "status": "pending",
+      "firstSeenAt": 1791882657.5443707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7vp62jm33zo",
+      "provider": "BBC",
+      "title": "6 'We had 10 minutes to decide whether to care for our disabled grandchild'",
+      "status": "pending",
+      "firstSeenAt": 1791882657.5444686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791882658.0398848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/world-cup-revenge-olympics-fire-mooney-beyond-100/107262248",
+      "provider": "ABC News Australia",
+      "title": "World Cup revenge, Olympics firing Mooney beyond 100",
+      "status": "pending",
+      "firstSeenAt": 1791882658.528467,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
