@@ -40314,9 +40314,17 @@
       "status": "pending",
       "firstSeenAt": 1791908653.3652241,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkvgr6kp6po",
+      "provider": "BBC",
+      "title": "39 mins ago Work to turn derelict site into museum set to begin Preparation work is due to start at Assize Court in Devizes within weeks. 39 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1791909790.6337214,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
