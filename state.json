@@ -38738,9 +38738,33 @@
       "status": "pending",
       "firstSeenAt": 1791851091.1910694,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g1mp7lz7zo",
+      "provider": "BBC",
+      "title": "Boardroom feud tests trusted Indian business empire The dispute raises questions about the Indian conglomerate's governance, succession plans and future. 2 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1791852848.1886134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/body-found-in-cattle-dip-identified-missing-grandmother/107258984",
+      "provider": "ABC News Australia",
+      "title": "Body found in cattle dip is identified as missing grandmother",
+      "status": "pending",
+      "firstSeenAt": 1791852849.4426982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/qld-ashley-paul-griffith-extradition-nsw/107259504",
+      "provider": "ABC News Australia",
+      "title": "Paedophile Ashley Paul Griffith to stand trial in NSW",
+      "status": "pending",
+      "firstSeenAt": 1791852849.444074,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
