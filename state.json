@@ -39050,9 +39050,17 @@
       "status": "pending",
       "firstSeenAt": 1791866563.3975508,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/landlords-could-be-jailed-over-illicit-tobacco-in-sa-crackdown/107260036",
+      "provider": "ABC News Australia",
+      "title": "Landlords could be jailed over illicit tobacco in SA crackdown",
+      "status": "pending",
+      "firstSeenAt": 1791867573.8591087,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
