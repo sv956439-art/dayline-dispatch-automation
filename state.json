@@ -41058,9 +41058,129 @@
       "status": "pending",
       "firstSeenAt": 1791931978.2648346,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c1wxdjx27ypo",
+      "provider": "BBC",
+      "title": "How long will humans be needed for translation? AI dominates the translation business, but for high-stakes work, humans are still needed. Just now Business",
+      "status": "pending",
+      "firstSeenAt": 1791933039.6220403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck86zje2z4pwo",
+      "provider": "BBC",
+      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight. 10 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791933039.622058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623dnkn8pkyo",
+      "provider": "BBC",
+      "title": "Is it OK for jobseekers or employers to use AI? Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice. Just now",
+      "status": "pending",
+      "firstSeenAt": 1791933039.6220717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly0q7e3g3vo",
+      "provider": "BBC",
+      "title": "Sydney teen charged with murder of boy who was shot in face and neck The boy was shot at a unit in Sydney's northwest last month and died in hospital three days later.",
+      "status": "pending",
+      "firstSeenAt": 1791933039.6222894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqrlyd1grwkko",
+      "provider": "BBC",
+      "title": "Saka responds to Arteta's challenge with 'huge impact'",
+      "status": "pending",
+      "firstSeenAt": 1791933039.622547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5yn402e70eo",
+      "provider": "BBC",
+      "title": "'I could never hear on my left side - until I got a prosthetic ear' Stephen Gilbert, 74, was born with unilateral microtia, a rare condition in which the external ear is underdeveloped or missing on one side.",
+      "status": "pending",
+      "firstSeenAt": 1791933039.6712227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/14/fostering-in-crisis-can-flexible-care-models-fix-englands-child-placement-shortfall",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791933040.1650753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791933040.1650882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791933040.165099,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791933040.165109,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791933040.1651576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/13/man-killed-by-tiger-at-yorkshire-wildlife-park-named",
+      "provider": "The Guardian",
+      "title": "Man killed by tiger at Yorkshire Wildlife Park named",
+      "status": "pending",
+      "firstSeenAt": 1791933040.165373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/powderfinger-reunion-2027-tour-tickets-best-songs-guide/107259308",
+      "provider": "ABC News Australia",
+      "title": "Everything you need to know about Powderfinger ahead of reunion tour",
+      "status": "pending",
+      "firstSeenAt": 1791933040.7113042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/graziers-urged-to-vaccinate-against-three-day-sickness/107260714",
+      "provider": "ABC News Australia",
+      "title": "Graziers urged to vaccinate cattle as three day sickness spreads",
+      "status": "pending",
+      "firstSeenAt": 1791933040.7115486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/newly-discovered-underwater-sites-off-burrup-peninsula-in-wa/107255826",
+      "provider": "ABC News Australia",
+      "title": "Sunken artefacts give clues to Pilbara's ancient history",
+      "status": "pending",
+      "firstSeenAt": 1791933040.7115695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
