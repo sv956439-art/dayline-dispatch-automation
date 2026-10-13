@@ -40986,9 +40986,81 @@
       "status": "pending",
       "firstSeenAt": 1791930337.3979106,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5ynwpzkgk1o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791931977.568631,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm2kev8w934do",
+      "provider": "BBC",
+      "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+      "status": "pending",
+      "firstSeenAt": 1791931977.5697963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d092dydpxeo",
+      "provider": "BBC",
+      "title": "Alan Carr's castle potting shed plan praised as 'positive and practical' The Celebrity Traitors star bought Ayton Castle earlier this year and the estate will be renovated as part of a TV programme.",
+      "status": "pending",
+      "firstSeenAt": 1791931977.5699432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261013-the-rare-behaviour-showing-elephant-grief",
+      "provider": "BBC",
+      "title": "The rare behaviour showing elephant grief The winner of the 2026 Wildlife Photographer of the Year captures a rarely seen elephant behaviour, revealing the complexity of their emotional lives.",
+      "status": "pending",
+      "firstSeenAt": 1791931977.570299,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+      "provider": "The Guardian",
+      "title": "BBC asks judge to force Trump to sit for deposition as part of his $10bn lawsuit",
+      "status": "pending",
+      "firstSeenAt": 1791931977.7837877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/theres-something-about-mary-in-song/107257626",
+      "provider": "ABC News Australia",
+      "title": "Who is 'Mary' and why is she in so many songs, from classical to rock?",
+      "status": "pending",
+      "firstSeenAt": 1791931978.2642472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/f1-to-host-african-grand-prix-in-rwanda/107263392",
+      "provider": "ABC News Australia",
+      "title": "F1 returns to Africa with Rwanda signing 10-year deal",
+      "status": "pending",
+      "firstSeenAt": 1791931978.2646825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/regional-voters-abandon-labor-ahead-of-state-election/107099354",
+      "provider": "ABC News Australia",
+      "title": "Labor loyalists jump ship as voters look for alternatives",
+      "status": "pending",
+      "firstSeenAt": 1791931978.2647288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/alex-de-minaur-advances-to-quarterfinals-of-shanghai-masters/107263278",
+      "provider": "ABC News Australia",
+      "title": "De Minaur sets up Shanghai quarterfinal with Zverev",
+      "status": "pending",
+      "firstSeenAt": 1791931978.2648346,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
