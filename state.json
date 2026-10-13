@@ -39946,9 +39946,49 @@
       "status": "pending",
       "firstSeenAt": 1791893309.7245405,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8ezp4g7p6po",
+      "provider": "BBC",
+      "title": "BBC FM radio transmissions suspended in Afghanistan BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
+      "status": "pending",
+      "firstSeenAt": 1791894885.281891,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3g47gqvzeo",
+      "provider": "BBC",
+      "title": "Spanish royals make rare visit to Ceuta after migrant crisis",
+      "status": "pending",
+      "firstSeenAt": 1791894885.2819207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c2l9vvj097lo",
+      "provider": "BBC",
+      "title": "Car finance compensation payments delayed until next year Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+      "status": "pending",
+      "firstSeenAt": 1791894885.282006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/jury-selection-buffalo-supermarket-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791894885.5075269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/ohio-ice-deportation-flights",
+      "provider": "The Guardian",
+      "title": "‘No one’s here, no one knows’: north-east Ohio is ground zero for ICE flights",
+      "status": "pending",
+      "firstSeenAt": 1791894885.5078514,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
