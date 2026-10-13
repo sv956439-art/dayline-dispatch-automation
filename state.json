@@ -40818,9 +40818,57 @@
       "status": "pending",
       "firstSeenAt": 1791925770.146595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwg5jq4vlddzo",
+      "provider": "BBC",
+      "title": "Saudi national charged with secretly planting recording device in OpenAI office Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room. 15 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791927293.3650887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck054nvzr676o",
+      "provider": "BBC",
+      "title": "Family pays tribute to 'warm and engaging' UK man killed in tiger attack",
+      "status": "pending",
+      "firstSeenAt": 1791927293.413027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791927293.5967355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164",
+      "provider": "ABC News Australia",
+      "title": "Bank of America fined $US1.2 billion for anti-money laundering failures",
+      "status": "pending",
+      "firstSeenAt": 1791927294.1398845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/football-regulator-says-he-would-quit-if-pressure-over-man-city/107263162",
+      "provider": "ABC News Australia",
+      "title": "Regulator says he would quit over political influence in Man City scandal",
+      "status": "pending",
+      "firstSeenAt": 1791927294.1406224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/senate-inquiry-focuses-on-regional-post-offices/107246306",
+      "provider": "ABC News Australia",
+      "title": "They're vital community hubs, but regional post offices face uncertain futures",
+      "status": "pending",
+      "firstSeenAt": 1791927294.1406534,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
