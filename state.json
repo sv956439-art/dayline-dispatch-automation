@@ -40482,9 +40482,25 @@
       "status": "pending",
       "firstSeenAt": 1791914614.1024618,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
+      "provider": "The Guardian",
+      "title": "double quotation mark Loves Trump, lies and conspiracies: Katie Zacharia is the perfect presidential press secretary",
+      "status": "pending",
+      "firstSeenAt": 1791916039.915045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/residents-oppose-bass-coast-council-short-stay-airbnb-fee/107246212",
+      "provider": "ABC News Australia",
+      "title": "Outcry over council's 'extortionate' fee hike on short-stay homes",
+      "status": "pending",
+      "firstSeenAt": 1791916040.5793054,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
