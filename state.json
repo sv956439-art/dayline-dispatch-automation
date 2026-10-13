@@ -39546,9 +39546,49 @@
       "status": "pending",
       "firstSeenAt": 1791880754.3487487,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn06w5x9g25o",
+      "provider": "BBC",
+      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
+      "status": "pending",
+      "firstSeenAt": 1791881825.4105182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/elizabeth-struhs-inquest-death-religious-cult-saints-child-safety-witness-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791881825.7612371,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president",
+      "provider": "The Guardian",
+      "title": "Tyson review – deeply icky … and that’s before Trump shows up",
+      "status": "pending",
+      "firstSeenAt": 1791881825.7618337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/oct/13/people-sell-their-best-stuff-on-vinted-how-charity-shops-became-a-dumping-ground-for-unsellable-clothes",
+      "provider": "The Guardian",
+      "title": "‘People sell their best stuff on Vinted’ – how charity shops became a dumping ground for unsellable clothes",
+      "status": "pending",
+      "firstSeenAt": 1791881825.7618606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/nsw-newcastle-knights-crowd-crash-additional-charges/107262284",
+      "provider": "ABC News Australia",
+      "title": "Driver who allegedly crashed into Newcastle Knights crowd faces more charges",
+      "status": "pending",
+      "firstSeenAt": 1791881826.3393013,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
