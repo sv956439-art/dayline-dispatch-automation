@@ -40354,9 +40354,41 @@
       "status": "pending",
       "firstSeenAt": 1791912776.0395632,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3g14p3z2ko",
+      "provider": "BBC",
+      "title": "Argentina lodges legal claim against UK's Falklands oil exploration The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
+      "status": "pending",
+      "firstSeenAt": 1791913815.9855826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5ydzn3730o",
+      "provider": "BBC",
+      "title": "Tinie Tempah to visit Scunthorpe after campaign",
+      "status": "pending",
+      "firstSeenAt": 1791913815.9861424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c875pdv1ye2lo",
+      "provider": "BBC",
+      "title": "McIlroy would vote for LIV players' PGA Tour return Rory McIlroy would vote to have LIV Golf players back on the PGA Tour and says the breakaway circuit is no longer a threat to traditional tours. 32 mins ago Golf",
+      "status": "pending",
+      "firstSeenAt": 1791913816.0409133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/florida-prision-execution-james-robertson",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791913816.2842352,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
