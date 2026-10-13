@@ -39802,9 +39802,25 @@
       "status": "pending",
       "firstSeenAt": 1791888184.80785,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/first-thing-democratic-leaders-condemn-federal-raid-ilhan-omar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791889235.8934724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/nuremberg-airport-closed-due-to-aviation-emergency/107262532",
+      "provider": "ABC News Australia",
+      "title": "Germany's Nuremberg Airport closes due to aviation emergency",
+      "status": "pending",
+      "firstSeenAt": 1791889236.1412296,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
