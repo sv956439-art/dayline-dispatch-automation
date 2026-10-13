@@ -39370,9 +39370,97 @@
       "status": "pending",
       "firstSeenAt": 1791874643.4021466,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/ck3wv14n070eo",
+      "provider": "BBC",
+      "title": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
+      "status": "pending",
+      "firstSeenAt": 1791875825.5998702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp9gy99y2ldo",
+      "provider": "BBC",
+      "title": "2 hrs ago Paramedics experiment with AI note-taking tool North East Ambulance Service is studying the effectiveness of AI in real-world patient interactions. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791875825.6611404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791875826.1292322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/the-return-of-the-prodigal-son-why-speculation-is-rising-over-josh-frydenbergs-future",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791875826.1294215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791875826.1294372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791875826.1294515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791875826.1297936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/anthony-albanese-us-execution-live-stream-social-media/107261442",
+      "provider": "ABC News Australia",
+      "title": "PM says government trying to stop 'abhorrent' US execution live stream",
+      "status": "pending",
+      "firstSeenAt": 1791875826.4445946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322",
+      "provider": "ABC News Australia",
+      "title": "What to do if you find bed bugs on your flight",
+      "status": "pending",
+      "firstSeenAt": 1791875826.4449146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/south-africa-australia-first-test-durban-day-five-live-blog/107260972",
+      "provider": "ABC News Australia",
+      "title": "Australia chases victory as Durban Test approaches gripping finale",
+      "status": "pending",
+      "firstSeenAt": 1791875826.445008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/act-v8-supercars-rookie-zach-bates-bathurst-1000-podium-finish/107260974",
+      "provider": "ABC News Australia",
+      "title": "Canberra's V8 Supercars rookie Zach Bates 'put everything on the line'",
+      "status": "pending",
+      "firstSeenAt": 1791875826.4455602,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
