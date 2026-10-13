@@ -38818,9 +38818,33 @@
       "status": "pending",
       "firstSeenAt": 1791855023.349227,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qzwjgnjxlo",
+      "provider": "BBC",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "status": "pending",
+      "firstSeenAt": 1791856189.5685797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/yatala-labour-prison-staff-carpark-fire-destroys-cars/107259502",
+      "provider": "ABC News Australia",
+      "title": "Suspected arson attack destroys four cars at prison carpark",
+      "status": "pending",
+      "firstSeenAt": 1791856191.313319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/charges-laid-after-baby-found-dead-at-tollgate-motel-adelaide/107259740",
+      "provider": "ABC News Australia",
+      "title": "Charges laid after baby found dead at Adelaide motel",
+      "status": "pending",
+      "firstSeenAt": 1791856191.3133442,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
