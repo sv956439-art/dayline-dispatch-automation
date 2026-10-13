@@ -40258,9 +40258,65 @@
       "status": "pending",
       "firstSeenAt": 1791907458.0291708,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wvd9dvv22o",
+      "provider": "BBC",
+      "title": "Pope admitted to hospital for surgery to remove lump on his lung Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
+      "status": "pending",
+      "firstSeenAt": 1791908652.9785213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjkge245n0gzo",
+      "provider": "BBC",
+      "title": "Regulator would quit over Man City interference The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+      "status": "pending",
+      "firstSeenAt": 1791908652.979053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vgx70pzq1jo",
+      "provider": "BBC",
+      "title": "Majority of clubs on edge of 'financial disaster' - regulator",
+      "status": "pending",
+      "firstSeenAt": 1791908652.97908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/13/british-irish-negotiate-paramilitary-disbandment-northern-ireland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791908653.3647988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/13/early-release-prisoners-england-wales-tags-serco",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791908653.3648245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791908653.3649275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/ukrainian-strikes-russian-datacentres-online-disinformation-bots",
+      "provider": "The Guardian",
+      "title": "Did Ukrainian strikes on Russian datacentres reduce online disinformation?",
+      "status": "pending",
+      "firstSeenAt": 1791908653.3652241,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
