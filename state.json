@@ -39162,9 +39162,81 @@
       "status": "pending",
       "firstSeenAt": 1791869693.9504402,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cmq8n00zxj49o",
+      "provider": "BBC",
+      "title": "Lewis left out for England's Rugby League World Cup opener",
+      "status": "pending",
+      "firstSeenAt": 1791870766.8107522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj6j73rx1kzo",
+      "provider": "BBC",
+      "title": "1970s theatre 'not worth spending millions on' The Wyvern Theatre in Swindon is \"approaching the end of its economic life\", it has been claimed.",
+      "status": "pending",
+      "firstSeenAt": 1791870766.8108485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn064027d2xo",
+      "provider": "BBC",
+      "title": "Fly-tippers face £5k fine in new crackdown",
+      "status": "pending",
+      "firstSeenAt": 1791870766.8726969,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wydgz1y314o",
+      "provider": "BBC",
+      "title": "Report reveals strain on crews tackling 40-day fire",
+      "status": "pending",
+      "firstSeenAt": 1791870766.8727162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1exn58w70yo",
+      "provider": "BBC",
+      "title": "Autumn river levels could move nurdles downstream",
+      "status": "pending",
+      "firstSeenAt": 1791870766.8727326,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3lyldr8qrjro",
+      "provider": "BBC",
+      "title": "Melon and aubergine success in hot summer experiment",
+      "status": "pending",
+      "firstSeenAt": 1791870766.8727481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791870767.3227973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/church-of-england-slavery-compensation-fund",
+      "provider": "The Guardian",
+      "title": "Lobbying, lawyers and a media blitz: the fight to kill the Church of England’s £100m slavery compensation fund",
+      "status": "pending",
+      "firstSeenAt": 1791870767.3233962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/queensland-man-awarded-compensation-claim-asbestosis/107261074",
+      "provider": "ABC News Australia",
+      "title": "Dying Queensland man wins record $1.9m payment after developing asbestosis",
+      "status": "pending",
+      "firstSeenAt": 1791870767.7751489,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
