@@ -39906,9 +39906,49 @@
       "status": "pending",
       "firstSeenAt": 1791892497.407766,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly05l1g15yo",
+      "provider": "BBC",
+      "title": "Three things we've learnt about the UK economy from the IMF The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "status": "pending",
+      "firstSeenAt": 1791893309.368351,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqe8lg3xpmr3o",
+      "provider": "BBC",
+      "title": "Bethell returns as England call up youngsters Jack and Rew",
+      "status": "pending",
+      "firstSeenAt": 1791893309.4429698,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c875pdrq4rx4o",
+      "provider": "BBC",
+      "title": "Boulter beaten by Shnaider in Wuhan",
+      "status": "pending",
+      "firstSeenAt": 1791893309.4433136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791893309.7245216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791893309.7245405,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
