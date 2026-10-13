@@ -38842,9 +38842,33 @@
       "status": "pending",
       "firstSeenAt": 1791856191.3133442,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791856971.6260805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/man-dies-millaa-millaa-falls-far-north-queensland/107260192",
+      "provider": "ABC News Australia",
+      "title": "Man dies at popular Qld swimming spot",
+      "status": "pending",
+      "firstSeenAt": 1791856972.1558816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/gippsland-suspected-illicit-tobacco-shops-shut/107259068",
+      "provider": "ABC News Australia",
+      "title": "Police close first suspected illicit tobacco stores under Victoria's new powers",
+      "status": "pending",
+      "firstSeenAt": 1791856972.1559162,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
