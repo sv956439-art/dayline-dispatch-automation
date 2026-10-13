@@ -40386,9 +40386,105 @@
       "status": "pending",
       "firstSeenAt": 1791913816.2842352,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8dzg094zd9o",
+      "provider": "BBC",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "status": "pending",
+      "firstSeenAt": 1791914613.2730706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck1wvd91v4pwo",
+      "provider": "BBC",
+      "title": "PSG's Luis Enrique hopes Man City avoid sanctions",
+      "status": "pending",
+      "firstSeenAt": 1791914613.380565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/gymnastics/articles/cm2kev4q7p59o",
+      "provider": "BBC",
+      "title": "Russian trio denied visas for world championships",
+      "status": "pending",
+      "firstSeenAt": 1791914613.3808072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqzjxn010r49o",
+      "provider": "BBC",
+      "title": "Bournemouth open to selling Scott for Â£100m in January",
+      "status": "pending",
+      "firstSeenAt": 1791914613.3809829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cx054n8g2jnvo",
+      "provider": "BBC",
+      "title": "GB's Richardson will 'co-operate' with investigation",
+      "status": "pending",
+      "firstSeenAt": 1791914613.3812475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c6lykwjz17lgo",
+      "provider": "BBC",
+      "title": "Ex-England hooker Singleton joins Glasgow a year after cardiac event",
+      "status": "pending",
+      "firstSeenAt": 1791914613.3812945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cxj0lz1q332jo",
+      "provider": "BBC",
+      "title": "Wales and Ospreys suffer lengthy Hardy injury blow",
+      "status": "pending",
+      "firstSeenAt": 1791914613.3814168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791914613.8494017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791914613.8498142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/accr-woodside-roger-cook-debate-browse-and-domestic-gas-supply/107255120",
+      "provider": "ABC News Australia",
+      "title": "Browse fields is our last great gas reserve, yet report says we don't need it",
+      "status": "pending",
+      "firstSeenAt": 1791914614.1023657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/why-the-housing-market-is-the-great-australian-talking-point/107247464",
+      "provider": "ABC News Australia",
+      "title": "Housing is the great Australian talking point for good reason",
+      "status": "pending",
+      "firstSeenAt": 1791914614.102415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/greens-warn-of-private-school-fees-loophole-in-trust-tax/107262122",
+      "provider": "ABC News Australia",
+      "title": "Greens warn of private school fees loophole in Labor's trust tax",
+      "status": "pending",
+      "firstSeenAt": 1791914614.1024618,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
