@@ -40010,9 +40010,41 @@
       "status": "pending",
       "firstSeenAt": 1791896514.3863788,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rl5vwpk02o",
+      "provider": "BBC",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "status": "pending",
+      "firstSeenAt": 1791897981.5737407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p9g18y5gljo",
+      "provider": "BBC",
+      "title": "Planners block petrol station near Creeslough blast site Ten people died in the blast at a petrol station in Creeslough, County Donegal, on 7 October 2022.",
+      "status": "pending",
+      "firstSeenAt": 1791897981.5747747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg9nj4l322o",
+      "provider": "BBC",
+      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+      "status": "pending",
+      "firstSeenAt": 1791897981.574802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791897981.7917888,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
