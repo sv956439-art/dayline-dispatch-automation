@@ -38794,9 +38794,33 @@
       "status": "pending",
       "firstSeenAt": 1791853892.8466325,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgdql2y7zqo",
+      "provider": "BBC",
+      "title": "Why the prime minister wants to talk about Brexit again For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+      "status": "pending",
+      "firstSeenAt": 1791855022.7254672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1kdndp83lmo",
+      "provider": "BBC",
+      "title": "I lost my hair to MS treatment - now my wigs are worn by Naomi Campbell and Serena Williams Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
+      "status": "pending",
+      "firstSeenAt": 1791855022.822585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/worst-storm-in-40-years-hits-alice-springs/107259306",
+      "provider": "ABC News Australia",
+      "title": "Alice Springs bracing for more storms after 'worst in 40 years'",
+      "status": "pending",
+      "firstSeenAt": 1791855023.349227,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
