@@ -39682,9 +39682,57 @@
       "status": "pending",
       "firstSeenAt": 1791883888.274017,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly38gjkejko",
+      "provider": "BBC",
+      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+      "status": "pending",
+      "firstSeenAt": 1791885006.9835145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5ydvvln0mo",
+      "provider": "BBC",
+      "title": "Poundland in rescue talks as owners seek buyer The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+      "status": "pending",
+      "firstSeenAt": 1791885007.0754778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791885007.5464177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/chicago-police-detective-child-killer-cold-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791885007.5469532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/13/athletics-scrub-womens-marathon-world-record-ruth-chepngetich",
+      "provider": "The Guardian",
+      "title": "double quotation mark Athletics wishes it could scrub the women’s marathon world record – what can be done?",
+      "status": "pending",
+      "firstSeenAt": 1791885007.5474143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318",
+      "provider": "ABC News Australia",
+      "title": "Labor can't count on One Nation fading away, Chalmers warns",
+      "status": "pending",
+      "firstSeenAt": 1791885008.0320156,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
