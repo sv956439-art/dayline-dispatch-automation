@@ -40170,9 +40170,89 @@
       "status": "pending",
       "firstSeenAt": 1791904047.4499128,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cw62yglre6y5o",
+      "provider": "BBC",
+      "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+      "status": "pending",
+      "firstSeenAt": 1791905278.8881173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz98n9x99q0o",
+      "provider": "BBC",
+      "title": "Ex-bingo hall to become immersive film experience A lease is secured for a new visitor attraction near Elstree Studios.",
+      "status": "pending",
+      "firstSeenAt": 1791905278.8882685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3zxj4k7kz9eo",
+      "provider": "BBC",
+      "title": "Netflix secures 2030 World Cup TV rights in Spain",
+      "status": "pending",
+      "firstSeenAt": 1791905278.9959545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cw5ynmn86prro",
+      "provider": "BBC",
+      "title": "Different ways to win - what Rugby League World Cup success looks like",
+      "status": "pending",
+      "firstSeenAt": 1791905278.9961405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cxly4q1g796zo",
+      "provider": "BBC",
+      "title": "Dallaglio's World Cup winner's medal sells for Â£54K",
+      "status": "pending",
+      "firstSeenAt": 1791905278.996515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d93ly7p9qyo",
+      "provider": "BBC",
+      "title": "Ipswich supporter 'feared for life' when Maidstone fan fell on her from stand above",
+      "status": "pending",
+      "firstSeenAt": 1791905278.9967372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg9n4v97e2o",
+      "provider": "BBC",
+      "title": "Champion boxer Joe Cordina was 'retaliating' when he punched man to ground, court hears",
+      "status": "pending",
+      "firstSeenAt": 1791905278.9967823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/britons-travelling-to-europe-told-not-to-apply-for-delayed-etias-visa-waiver",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791905279.1588085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791905279.1588328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791905279.1592069,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
