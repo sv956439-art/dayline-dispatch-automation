@@ -40866,9 +40866,89 @@
       "status": "pending",
       "firstSeenAt": 1791927294.1406534,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crlykw9eevx3o",
+      "provider": "BBC",
+      "title": "Martinez issues blistering criticism of Man Utd board after loss Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
+      "status": "pending",
+      "firstSeenAt": 1791928899.211922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/c5zjxnwm8dzpo",
+      "provider": "BBC",
+      "title": "Rams player suspended for punch & kicker cut by club",
+      "status": "pending",
+      "firstSeenAt": 1791928899.3244991,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm62yxegwy41o",
+      "provider": "BBC",
+      "title": "Porro eyes La Liga return - Wednesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1791928899.3249292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck9qzwp9ejgro",
+      "provider": "BBC",
+      "title": "Goal crisis & in drop zone - so why is Spurs' Â£60m striker stuck in U21s?",
+      "status": "pending",
+      "firstSeenAt": 1791928899.3249736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c8x235vx1d49o",
+      "provider": "BBC",
+      "title": "Republic of Ireland to 'lock in' for World Cup dream",
+      "status": "pending",
+      "firstSeenAt": 1791928899.3251104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck4g17rrz1j5o",
+      "provider": "BBC",
+      "title": "Pressure on Norway in play-off final - Wilkinson",
+      "status": "pending",
+      "firstSeenAt": 1791928899.3253684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/horse-racing/articles/cwe8lgr4p763o",
+      "provider": "BBC",
+      "title": "Flat racing's 'Billy the Kid' wants more than just title",
+      "status": "pending",
+      "firstSeenAt": 1791928899.3254316,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791928899.4646587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/australia-joins-criticism-of-trump-administration-assault-on-icc/107262112",
+      "provider": "ABC News Australia",
+      "title": "'Sluggish' Australia joins criticism of Trump administration's ICC attack",
+      "status": "pending",
+      "firstSeenAt": 1791928899.6999936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/police-say-person-stabbed-during-incident-in-belconnen/107263192",
+      "provider": "ABC News Australia",
+      "title": "Police say person stabbed during 'concerning' roadside incident in Belconnen",
+      "status": "pending",
+      "firstSeenAt": 1791928899.7011766,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
