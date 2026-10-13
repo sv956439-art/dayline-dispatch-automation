@@ -39818,9 +39818,49 @@
       "status": "pending",
       "firstSeenAt": 1791889236.1412296,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wvx4q58xwo",
+      "provider": "BBC",
+      "title": "Port of Aberdeen reports best ever cruise ship season",
+      "status": "pending",
+      "firstSeenAt": 1791890252.5094466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791890253.3405097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/13/mixed-reality-play-an-ark-ian-mckellen-manchester",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791890253.3410788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791890253.341176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/more-than-300-scientists-greater-ai-security-international-body/107257078",
+      "provider": "ABC News Australia",
+      "title": "More than 300 scientists say AI oversight needed after 'preventable' hacks",
+      "status": "pending",
+      "firstSeenAt": 1791890253.8291898,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
