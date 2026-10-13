@@ -39890,9 +39890,25 @@
       "status": "pending",
       "firstSeenAt": 1791891461.8852189,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj6j812dg4no",
+      "provider": "BBC",
+      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI The US firm's boss responds to critics, saying \"much of the room wants it to be 2016, but it's not\". 11 mins ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1791892497.3519995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/cmlye0d7q7zno",
+      "provider": "BBC",
+      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+      "status": "pending",
+      "firstSeenAt": 1791892497.407766,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
