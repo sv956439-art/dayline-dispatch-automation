@@ -38674,9 +38674,25 @@
       "status": "pending",
       "firstSeenAt": 1791848933.968964,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791849625.7066746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/man-charged-over-police-chase-that-led-to-leeming-crash/107259256",
+      "provider": "ABC News Australia",
+      "title": "Man charged over police chase that led to crash in Perth's south",
+      "status": "pending",
+      "firstSeenAt": 1791849626.0319636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
