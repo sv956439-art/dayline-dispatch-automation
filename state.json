@@ -40250,9 +40250,17 @@
       "status": "pending",
       "firstSeenAt": 1791905279.1592069,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckreyqvqe3gyo",
+      "provider": "BBC",
+      "title": "3 hrs ago Councillor sanctioned over offensive Facebook posts Sub-committee members recommend that Carl Miller be removed from all council appointments. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791907458.0291708,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
