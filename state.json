@@ -38690,9 +38690,57 @@
       "status": "pending",
       "firstSeenAt": 1791849626.0319636,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjkgedexp6zgo",
+      "provider": "BBC",
+      "title": "Trump says Kimberly Guilfoyle could be fired as Greece envoy after alleged misconduct \"We're not happy,\" says the president about his son's ex-fiancée following reports of improper behaviour.",
+      "status": "pending",
+      "firstSeenAt": 1791851090.1466818,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791851090.5736969,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/nt-oc-spray-becomes-permanent-in-territory-and-extended-to-16yos/107259214",
+      "provider": "ABC News Australia",
+      "title": "NT announces pepper spray will be made accessible to 16 and 17yos",
+      "status": "pending",
+      "firstSeenAt": 1791851091.190237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/manosphere-masculinity-questions-answered-live-blog/107216354",
+      "provider": "ABC News Australia",
+      "title": "The manosphere unpacked. Our experts answer your questions",
+      "status": "pending",
+      "firstSeenAt": 1791851091.1906254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/qld-murder-trial-double-jeopardy/107259578",
+      "provider": "ABC News Australia",
+      "title": "Queensland's first retrial for murder ordered under double jeopardy laws",
+      "status": "pending",
+      "firstSeenAt": 1791851091.1910505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/one-person-dead-several-others-injured-in-incident-at-six-flags/107259434",
+      "provider": "ABC News Australia",
+      "title": "Roller coaster incident at US theme park kills one and injures several",
+      "status": "pending",
+      "firstSeenAt": 1791851091.1910694,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
