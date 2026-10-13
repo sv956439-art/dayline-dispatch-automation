@@ -39618,9 +39618,73 @@
       "status": "pending",
       "firstSeenAt": 1791882658.528467,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1exg6qjdz3o",
+      "provider": "BBC",
+      "title": "US emergency call records reveal confusion after failed execution of Christa Pike The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her. 19 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791883887.936948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260130-mountain-biking-the-himalayas-in-everests-shadow",
+      "provider": "BBC",
+      "title": "Mountain biking on the top of the world in Nepal A new adrenaline-fuelled experience is allowing travellers to see the Himalayas in a new way – and helping local Sherpa residents in the process.",
+      "status": "pending",
+      "firstSeenAt": 1791883887.937736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20251010-italys-hidden-mountain-museums-in-the-clouds",
+      "provider": "BBC",
+      "title": "Italy's hidden mountain museums in the clouds In the Dolomites, mountaineering legend Reinhold Messner has turned his life story into a collection of high-altitude museums.",
+      "status": "pending",
+      "firstSeenAt": 1791883887.9377718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c5rmy3v3mn9jo",
+      "provider": "BBC",
+      "title": "Rwanda to host F1's first race in Africa since 1993",
+      "status": "pending",
+      "firstSeenAt": 1791883887.9385455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgxpwlx9wko",
+      "provider": "BBC",
+      "title": "Raye hits back at ticket touts who 'overwhelmed' sign-up for Royal Albert show The award-winning singer said there were 1.8 million sign-ups for her 5,000-seat Royal Albert Hall show.",
+      "status": "pending",
+      "firstSeenAt": 1791883887.9387386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6kgq5j5d7qro",
+      "provider": "BBC",
+      "title": "Ronaldo scores after match delayed by missile alert",
+      "status": "pending",
+      "firstSeenAt": 1791883888.0527432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxr5ydvl41dlo",
+      "provider": "BBC",
+      "title": "Former Real Madrid captain Carvajal joins Getafe",
+      "status": "pending",
+      "firstSeenAt": 1791883888.0532074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/anne-aly-reveals-she-has-received-19-death-threats-last-week-alone-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791883888.274017,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
