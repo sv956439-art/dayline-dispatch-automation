@@ -39130,9 +39130,41 @@
       "status": "pending",
       "firstSeenAt": 1791868530.8368013,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8rzj1lx8l7o",
+      "provider": "BBC",
+      "title": "Bowling alley and motorway stop get TV makeover Go Bowling in Dunstable still has the pink and yellow walls left by the production team.",
+      "status": "pending",
+      "firstSeenAt": 1791869693.2885485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791869693.7068384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/timothy-ferris-pleads-not-guilty-alleged-fraud-dubbo/107260374",
+      "provider": "ABC News Australia",
+      "title": "Former employee accused of defrauding auto parts business of $294,000",
+      "status": "pending",
+      "firstSeenAt": 1791869693.950391,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/truscott-airbase-people-smuggler-sentence-sydney-court-broome/107260286",
+      "provider": "ABC News Australia",
+      "title": "Chinese trio avoid jail after attempt to smuggle husband and boyfriend",
+      "status": "pending",
+      "firstSeenAt": 1791869693.9504402,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
