@@ -39498,9 +39498,17 @@
       "status": "pending",
       "firstSeenAt": 1791878354.7160354,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq073814llkjo",
+      "provider": "BBC",
+      "title": "A number of deaths expected after house fire Firefighters and gardaí (Irish police) remain at the scene of an \"ongoing evolving incident\".",
+      "status": "pending",
+      "firstSeenAt": 1791879375.495909,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
