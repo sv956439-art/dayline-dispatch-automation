@@ -40322,9 +40322,25 @@
       "status": "pending",
       "firstSeenAt": 1791909790.6337214,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvglw07rx6jeo",
+      "provider": "BBC",
+      "title": "Liverpool's Wirtz problem - does he need to be dropped?",
+      "status": "pending",
+      "firstSeenAt": 1791910753.054852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791910753.483919,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
