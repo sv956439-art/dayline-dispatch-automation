@@ -39786,9 +39786,25 @@
       "status": "pending",
       "firstSeenAt": 1791887051.1178331,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y438ezmdx0o",
+      "provider": "BBC",
+      "title": "2 hrs ago Trust running former national costume museum to cease trading It says running Shambellie House near Dumfries has become \"simply unsustainable\" due to rising costs. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791888184.5729718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+      "provider": "The Guardian",
+      "title": "AI godfather Geoffrey Hinton: ‘We’re creating alien beings. I’m willing to be selfish and choose humans’",
+      "status": "pending",
+      "firstSeenAt": 1791888184.80785,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
