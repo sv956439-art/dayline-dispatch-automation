@@ -38874,9 +38874,25 @@
       "status": "pending",
       "firstSeenAt": 1791858048.2879052,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/brisbane-olympics-organising-ceo-cindy-hook-step-down/107260080",
+      "provider": "ABC News Australia",
+      "title": "Brisbane 2032 Olympics organising committee chief Cindy Hook to step down",
+      "status": "pending",
+      "firstSeenAt": 1791859209.1246216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/tasmania-quit-smoking-help-extended-to-over-12s/107260230",
+      "provider": "ABC News Australia",
+      "title": "Free nicotine patches on offer to Tasmanians as young as 12",
+      "status": "pending",
+      "firstSeenAt": 1791859209.1249945,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
