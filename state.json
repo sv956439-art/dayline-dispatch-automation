@@ -40098,9 +40098,33 @@
       "status": "pending",
       "firstSeenAt": 1791900483.8181925,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvp8gj20j2ljo",
+      "provider": "BBC",
+      "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy The star, who has died at the age of 34, fought for better representation of disabilities on screen. 20 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1791901753.0039794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj1dwrxq1wndo",
+      "provider": "BBC",
+      "title": "BA flight forced to turn back over cracked window",
+      "status": "pending",
+      "firstSeenAt": 1791901753.0868123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791901753.2170486,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
