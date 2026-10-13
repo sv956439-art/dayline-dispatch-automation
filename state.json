@@ -40586,9 +40586,73 @@
       "status": "pending",
       "firstSeenAt": 1791917636.6205258,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5ynplvpg7lo",
+      "provider": "BBC",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\". Just now World",
+      "status": "pending",
+      "firstSeenAt": 1791919049.7882884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rln2jvv2zo",
+      "provider": "BBC",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years. 22 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1791919049.7883413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx2d60y1py3o",
+      "provider": "BBC",
+      "title": "Saudi coalition strikes fuel depot near Yemen's capital The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam.",
+      "status": "pending",
+      "firstSeenAt": 1791919049.7893593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791919050.2440405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/judge-orders-halt-dc-golf-course",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791919050.2440653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/13/ben-jennings-donald-trump-energy-ceasefire-russia-ukraine-cartoon",
+      "provider": "The Guardian",
+      "title": "Ben Jennings on Donald Trump and the energy ceasefire between Russia and Ukraine – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1791919050.2445161,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/nsw-sydney-norwest-fatal-shooting-murder-charge/107262920",
+      "provider": "ABC News Australia",
+      "title": "Man charged over fatal shooting of 12-year-old boy in Sydney",
+      "status": "pending",
+      "firstSeenAt": 1791919051.1903853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/sexual-family-violence-against-children-increasing-study-sydney/107260580",
+      "provider": "ABC News Australia",
+      "title": "Sexual and family violence against children at 'crisis point', study finds",
+      "status": "pending",
+      "firstSeenAt": 1791919051.190555,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
