@@ -39458,9 +39458,17 @@
       "status": "pending",
       "firstSeenAt": 1791875826.4455602,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqz0v11n2vj5o",
+      "provider": "BBC",
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists. 8 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1791877255.0135505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
