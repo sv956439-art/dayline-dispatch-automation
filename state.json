@@ -40042,9 +40042,33 @@
       "status": "pending",
       "firstSeenAt": 1791897981.7917888,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmd7qv2pg333o",
+      "provider": "BBC",
+      "title": "Rusty or something more? South Africa's concern after Australia loss",
+      "status": "pending",
+      "firstSeenAt": 1791899389.9045722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckn9r1ygv81wo",
+      "provider": "BBC",
+      "title": "'Criticised for what?' - Maresca defends celebrations",
+      "status": "pending",
+      "firstSeenAt": 1791899389.9045913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/miriam-gonzalez-durantez-nick-clegg-new-party-spain-democracia21",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791899390.224121,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
