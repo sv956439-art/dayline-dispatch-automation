@@ -39274,9 +39274,49 @@
       "status": "pending",
       "firstSeenAt": 1791871479.2691636,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr4g10nz0593o",
+      "provider": "BBC",
+      "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
+      "status": "pending",
+      "firstSeenAt": 1791873001.7783742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmp3gzq2v2p2o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791873001.8731802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/ming-dynasty-buddha-statue-returned-chinese-officials/107249044",
+      "provider": "ABC News Australia",
+      "title": "Ming Dynasty statue unearthed in WA back in Chinese hands",
+      "status": "pending",
+      "firstSeenAt": 1791873002.9666293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/qld-prison-staff-would-not-have-to-weigh-prisoners-human-rights/107257164",
+      "provider": "ABC News Australia",
+      "title": "Prison staff would not need to consider prisoners' human rights under bill",
+      "status": "pending",
+      "firstSeenAt": 1791873002.9666667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/edge-early-learning-centre-closures/107261574",
+      "provider": "ABC News Australia",
+      "title": "Eleven Edge Early Learning centres to close after failing to find buyers",
+      "status": "pending",
+      "firstSeenAt": 1791873002.966702,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
