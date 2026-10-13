@@ -39018,9 +39018,17 @@
       "status": "pending",
       "firstSeenAt": 1791864156.2877996,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-13/croydon-liberal-candidate-grant-hutchinson-replaced/107260434",
+      "provider": "ABC News Australia",
+      "title": "Liberal candidate for marginal seat dumped weeks out from election",
+      "status": "pending",
+      "firstSeenAt": 1791865308.582893,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
