@@ -41210,9 +41210,33 @@
       "status": "pending",
       "firstSeenAt": 1791934473.811767,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9dzj40nzj5o",
+      "provider": "BBC",
+      "title": "Robot seized by German police after allegedly groping teenage girl Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
+      "status": "pending",
+      "firstSeenAt": 1791935814.7126942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw99zpmnxzmjo",
+      "provider": "BBC",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "status": "pending",
+      "firstSeenAt": 1791935814.7127259,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/tas-ai-data-centres-community-fund/107263128",
+      "provider": "ABC News Australia",
+      "title": "Data centre companies to pay into new Tasmanian local community fund",
+      "status": "pending",
+      "firstSeenAt": 1791935816.5513825,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
