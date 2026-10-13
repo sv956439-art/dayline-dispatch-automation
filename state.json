@@ -39746,9 +39746,49 @@
       "status": "pending",
       "firstSeenAt": 1791885860.5680058,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme8r2znl66lo",
+      "provider": "BBC",
+      "title": "Eight injured in South Korea supermarket stabbing attack Using knives strapped to his hands, a man reportedly stabbed several people at a supermarket in Incheon.",
+      "status": "pending",
+      "firstSeenAt": 1791887050.9004748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261012-images-capturing-the-100-year-history-of-bel-air",
+      "provider": "BBC",
+      "title": "Nine images capturing 100 years of Bel-Air The brainchild of a rancher-turned-oilman, it has evolved from a \"gentlemen's haven\" to a film-star refuge and a high-end, low-profile enclave. Now the neighbourhood is turning 100.",
+      "status": "pending",
+      "firstSeenAt": 1791887050.9012003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x23gvgkv99o",
+      "provider": "BBC",
+      "title": "Cracking voice, Gromit: Dog to speak at last",
+      "status": "pending",
+      "firstSeenAt": 1791887050.9012268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791887051.117435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791887051.1178331,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
