@@ -43354,9 +43354,57 @@
       "status": "pending",
       "firstSeenAt": 1792009806.110163,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq80zk5k2ep4o",
+      "provider": "BBC",
+      "title": "Student protesters attack government buildings in Tirana Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "status": "pending",
+      "firstSeenAt": 1792011551.2660816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c39wzg59x1yxo",
+      "provider": "BBC",
+      "title": "On night of mayhem for Liverpool, Barcola arrives in style Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
+      "status": "pending",
+      "firstSeenAt": 1792011551.266561,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr4yzlwr00qo",
+      "provider": "BBC",
+      "title": "5 hrs ago Palantir drops City Hall legal fight over Met deal Palantir drops its case after City Hall says blocking the £50m Met deal was not about its values. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792011551.3332877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/ex-fiance-nancy-mace-sex-crimes-speech",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792011551.4964628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/brodie-germaine-aboriginal-youth-crime-drug-offences/107259766",
+      "provider": "ABC News Australia",
+      "title": "Youth crime advocate charged with drug offences, stripped of funding",
+      "status": "pending",
+      "firstSeenAt": 1792011552.0332012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/asx-markets-business-news-live-updates-thursday-15-october/107268248",
+      "provider": "ABC News Australia",
+      "title": "ASX to open lower following losses on Wall Street as US inflation data is released",
+      "status": "pending",
+      "firstSeenAt": 1792011552.033244,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
