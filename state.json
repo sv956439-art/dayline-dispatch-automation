@@ -43242,9 +43242,65 @@
       "status": "pending",
       "firstSeenAt": 1792006296.141219,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgk4zg54reo",
+      "provider": "BBC",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine? It is the \"backbone of military communications in Ukraine\" and there could be severe implications if Elon Musk's SpaceX keeps restricting access.",
+      "status": "pending",
+      "firstSeenAt": 1792008194.9424138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792008195.2694507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792008195.2694762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/older-australians-downsizing-apartment-living-pros-and-cons/107185174",
+      "provider": "ABC News Australia",
+      "title": "Some older Australians embrace downsizing and apartment living despite costs",
+      "status": "pending",
+      "firstSeenAt": 1792008195.6860468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/nsw-university-financial-models-job-cuts-inquiry/107244202",
+      "provider": "ABC News Australia",
+      "title": "Did universities generate a 'faux crisis' to justify job cuts?",
+      "status": "pending",
+      "firstSeenAt": 1792008195.686094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/australia-bangladesh-odi-series-brisbane/107268200",
+      "provider": "ABC News Australia",
+      "title": "Schutt stars as Aussies sweep Bangladesh in ODI series",
+      "status": "pending",
+      "firstSeenAt": 1792008195.6861424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/sally-rooney-books-palestine-action-uk-removed/107268120",
+      "provider": "ABC News Australia",
+      "title": "Sally Rooney pulls books from UK over her support for Palestine Action",
+      "status": "pending",
+      "firstSeenAt": 1792008195.6861942,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
