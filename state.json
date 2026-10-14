@@ -41698,9 +41698,89 @@
       "status": "pending",
       "firstSeenAt": 1791954670.2775264,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gr80rk1yyko",
+      "provider": "BBC",
+      "title": "World's oldest shipwreck found off coast of Turkey Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age. 36 mins ago Science & Environment",
+      "status": "pending",
+      "firstSeenAt": 1791956299.8752759,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqpvgyz30zepo",
+      "provider": "BBC",
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals. 36 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1791956299.875328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn5vxlrgqn4o",
+      "provider": "BBC",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "status": "pending",
+      "firstSeenAt": 1791956299.8762927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv4g18we232ro",
+      "provider": "BBC",
+      "title": "Heating oil users face fuel or food winter choice' It comes as ministers say they will tighten up rules on heating oil and promote competition",
+      "status": "pending",
+      "firstSeenAt": 1791956299.8764107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6q8n09l1ny0o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791956299.946984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791956300.6269107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
+      "provider": "The Guardian",
+      "title": "My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children",
+      "status": "pending",
+      "firstSeenAt": 1791956300.6276767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/powderfinger-adds-new-shows-reunion-tour-2027/107266510",
+      "provider": "ABC News Australia",
+      "title": "Powderfinger adds new shows for 2027 tour after presale madness",
+      "status": "pending",
+      "firstSeenAt": 1791956300.8527513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/gas-reservation-wholesale-gas-prices-madeleine-king/107265038",
+      "provider": "ABC News Australia",
+      "title": "Forcing gas producers to sell to Australia won't 'crash' prices, King says",
+      "status": "pending",
+      "firstSeenAt": 1791956300.852794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/zachary-kolm-sentenced-to-nine-years-for-manslaughter/107264728",
+      "provider": "ABC News Australia",
+      "title": "Speeds of 188km/h, skids, burnouts before crash that killed driver's friend",
+      "status": "pending",
+      "firstSeenAt": 1791956300.8528407,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
