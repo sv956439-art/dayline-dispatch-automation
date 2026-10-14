@@ -41250,9 +41250,89 @@
       "status": "pending",
       "firstSeenAt": 1791937068.6303241,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cke8r4nmy36qo",
+      "provider": "BBC",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "status": "pending",
+      "firstSeenAt": 1791939678.1611462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxdd80z9yjpqo",
+      "provider": "BBC",
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "status": "pending",
+      "firstSeenAt": 1791939678.9723585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791939679.4603412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/federal-court-overturns-commonwealth-gold-mine-decision/107260458",
+      "provider": "ABC News Australia",
+      "title": "Court dumps Plibersek heritage decision that halted $1b gold mine",
+      "status": "pending",
+      "firstSeenAt": 1791939679.8494847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/ai-in-schools-warning-affecting-long-term-learning/107263444",
+      "provider": "ABC News Australia",
+      "title": "Students risk 'cognitive outsourcing' if AI overused, schools warned",
+      "status": "pending",
+      "firstSeenAt": 1791939679.8495584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/high-court-rules-in-favour-prisoner-egg-freezing/107264066",
+      "provider": "ABC News Australia",
+      "title": "High Court rules in favour of prisoner trying to freeze her eggs",
+      "status": "pending",
+      "firstSeenAt": 1791939679.8498116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/huge-storms-in-alice-springs-and-central-australia/107260090",
+      "provider": "ABC News Australia",
+      "title": "Storms 'swirling like a tornado' leave trail of destruction in parts of NT",
+      "status": "pending",
+      "firstSeenAt": 1791939679.8501494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/vic-caroline-springs-shooting/107264028",
+      "provider": "ABC News Australia",
+      "title": "Drive-by shooting at house in Melbourne's western suburbs",
+      "status": "pending",
+      "firstSeenAt": 1791939679.850707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/nsw-hospitals-stranded-older-patients-waiting-for-aged-care/107263122",
+      "provider": "ABC News Australia",
+      "title": "'Stranded patients' in NSW hospitals prompts call for change",
+      "status": "pending",
+      "firstSeenAt": 1791939679.8507442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/us-canadian-theme-parks-shut-down-roller-coasters/107263550",
+      "provider": "ABC News Australia",
+      "title": "Nine roller-coasters close across US, Canada after man dies during ride",
+      "status": "pending",
+      "firstSeenAt": 1791939679.850793,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
