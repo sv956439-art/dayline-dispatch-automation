@@ -43570,9 +43570,81 @@
       "status": "pending",
       "firstSeenAt": 1792019017.377022,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c0rezqpnekro",
+      "provider": "BBC",
+      "title": "How backlash against data centres could shape the US midterm elections Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US. 24 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792020473.309004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqp8gyv8le87o",
+      "provider": "BBC",
+      "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty. 30 mins ago Man City",
+      "status": "pending",
+      "firstSeenAt": 1792020473.3095186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y89dpd4lo",
+      "provider": "BBC",
+      "title": "Global charity withholds report into its role in Syria's 'disappeared' children SOS Children's Villages International has acknowledged that more than 140 children were taken to its facilities by Syrian security services.",
+      "status": "pending",
+      "firstSeenAt": 1792020473.3099499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq0k0x1l8gndo",
+      "provider": "BBC",
+      "title": "Are the European Women's World Cup play-offs working? The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is. 10 hrs ago England Women",
+      "status": "pending",
+      "firstSeenAt": 1792020473.4015718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq770pexgk33o",
+      "provider": "BBC",
+      "title": "8 'We gave our spare room to a young homeless woman'",
+      "status": "pending",
+      "firstSeenAt": 1792020473.4018834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c370pnwz0gw2o",
+      "provider": "BBC",
+      "title": "Jackson steps up again as Aston Villa revival continues Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win. 41 mins ago Aston Villa",
+      "status": "pending",
+      "firstSeenAt": 1792020473.4019756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/15/pip-ban-adhd-autism-savings-resolution-foundation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792020473.8533454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/nsw-charges-over-school-pick-up-attempted-shooting-fairfield/107268832",
+      "provider": "ABC News Australia",
+      "title": "19yo charged over Sydney school pick-up attempted shooting",
+      "status": "pending",
+      "firstSeenAt": 1792020474.506329,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/long-drive-convoy-puts-spotlight-on-farmer-mental-health/107261762",
+      "provider": "ABC News Australia",
+      "title": "City man says he wants to help farmers deal with silent mental health crisis",
+      "status": "pending",
+      "firstSeenAt": 1792020474.5063741,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
