@@ -42210,9 +42210,33 @@
       "status": "pending",
       "firstSeenAt": 1791969792.0660353,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dzgr780j8o",
+      "provider": "BBC",
+      "title": "New team to save Antarctic port from climate change",
+      "status": "pending",
+      "firstSeenAt": 1791971725.3519664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglw0rewzg9o",
+      "provider": "BBC",
+      "title": "Households open homes to share green energy tips",
+      "status": "pending",
+      "firstSeenAt": 1791971725.3519967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/michelin-star-ceremony-sa-restaurants/107266846",
+      "provider": "ABC News Australia",
+      "title": "Michelin Guide dishes out first Australian stars to array of SA restaurants",
+      "status": "pending",
+      "firstSeenAt": 1791971726.6777332,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
