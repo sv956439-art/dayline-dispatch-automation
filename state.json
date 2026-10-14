@@ -42690,9 +42690,41 @@
       "status": "pending",
       "firstSeenAt": 1791989672.9118505,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx28r0zvm6lo",
+      "provider": "BBC",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "status": "pending",
+      "firstSeenAt": 1791991176.1574543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c90k0x61ej7mo",
+      "provider": "BBC",
+      "title": "Why play-off win may not send Wales to World Cup",
+      "status": "pending",
+      "firstSeenAt": 1791991176.297881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cm62y6rdeldpo",
+      "provider": "BBC",
+      "title": "Pereira's sister, Aline, misses out on UFC contract",
+      "status": "pending",
+      "firstSeenAt": 1791991176.2979898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/14/boy-17-connor-bell-accident-shot-dead-air-rifle-hampshire-basingstoke-house-party-inquest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791991176.706098,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
