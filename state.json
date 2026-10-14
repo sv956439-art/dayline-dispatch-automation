@@ -41370,9 +41370,113 @@
       "status": "pending",
       "firstSeenAt": 1791943115.6787524,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wvxy6n3z8o",
+      "provider": "BBC",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "status": "pending",
+      "firstSeenAt": 1791944490.689482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5ynp0vz3p7o",
+      "provider": "BBC",
+      "title": "Royal Mail losing 400 postal workers a week, says union The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices. 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791944490.786409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791944490.9179473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791944490.917992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/rachel-smith-will-turn-39-in-prison-the-high-court-says-she-could-freeze-her-eggs-from-behind-bars",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791944490.9180152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791944490.9183743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/ukraine-war-briefing-zelenskyy-decries-absolutely-unjust-lack-of-warning-from-allies-after-kyiv-plant-strike",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
+      "status": "pending",
+      "firstSeenAt": 1791944490.9188812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/groom-sues-bus-company-over-wedding-bus-crash/107263616",
+      "provider": "ABC News Australia",
+      "title": "Groom sues wedding coach hire company over deadly Hunter bus crash",
+      "status": "pending",
+      "firstSeenAt": 1791944491.2570987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/margaret-throsby-speaks-after-ebike-crash/107260806",
+      "provider": "ABC News Australia",
+      "title": "Former ABC presenter 'lucky to be alive' after being struck by e-bike",
+      "status": "pending",
+      "firstSeenAt": 1791944491.2572293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/afghan-batter-recreates-infamous-hamstring-injury/107264528",
+      "provider": "ABC News Australia",
+      "title": "Afghan batter recreates infamous hamstring injury used against Australia",
+      "status": "pending",
+      "firstSeenAt": 1791944491.2581453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/bowdens-ipc-hearing-sparks-tractor-protest/107255732",
+      "provider": "ABC News Australia",
+      "title": "Reassessment of billion-dollar silver mine sparks tractor protest",
+      "status": "pending",
+      "firstSeenAt": 1791944491.2581933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/rugby-league-world-cup-preview-australia-new-zealand-samoa-tonga/107261896",
+      "provider": "ABC News Australia",
+      "title": "Less can be more for Rugby League World Cup",
+      "status": "pending",
+      "firstSeenAt": 1791944491.2582872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/jam-roll-country-womens-association-recipe/107177470",
+      "provider": "ABC News Australia",
+      "title": "Try your hand at the classic CWA jam roll",
+      "status": "pending",
+      "firstSeenAt": 1791944491.2604568,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
