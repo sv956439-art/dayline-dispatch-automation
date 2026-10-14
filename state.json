@@ -42122,9 +42122,49 @@
       "status": "pending",
       "firstSeenAt": 1791966095.5592582,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20230511-demons-monsters-and-witches-the-surprising-power-of-horror-stories",
+      "provider": "BBC",
+      "title": "The surprising power of horror stories Lydia Pettit's latest exhibition uses horror tropes to confront PTSD and sexual trauma. Emily Steer looks at the visual artists using terrifying images in surprising ways.",
+      "status": "pending",
+      "firstSeenAt": 1791968239.2455854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250516-how-historys-brutal-witch-trials-still-resonate-now",
+      "provider": "BBC",
+      "title": "How history's brutal witch trials resonate now A new book How to Kill a Witch brings a dark period of history back to grisly life – and an official tartan is being released to memorialise some of those who were tortured and killed.",
+      "status": "pending",
+      "firstSeenAt": 1791968239.245604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791968239.543083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791968239.543289,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/-cockroach-movement-leaders-jail-5-days-after-scaling-barricade/107267584",
+      "provider": "ABC News Australia",
+      "title": "India's 'cockroach' movement leaders detained for five days",
+      "status": "pending",
+      "firstSeenAt": 1791968239.912175,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
