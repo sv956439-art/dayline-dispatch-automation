@@ -41474,9 +41474,41 @@
       "status": "pending",
       "firstSeenAt": 1791944491.2604568,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/two-seriously-injured-in-palumpa-unrest-nt/107264372",
+      "provider": "ABC News Australia",
+      "title": "Two seriously injured in Palumpa violence, Wadeye unrest continues",
+      "status": "pending",
+      "firstSeenAt": 1791946297.7114675,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/afl-trade-period-deadline-day-live-updates-coleman-viney-short/107264274",
+      "provider": "ABC News Australia",
+      "title": "Last-gasp drama and surprises in store on AFL trade deadline day",
+      "status": "pending",
+      "firstSeenAt": 1791946297.7115126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/australian-off-road-creditors-meeting-allegations/107260272",
+      "provider": "ABC News Australia",
+      "title": "Failed caravan company AOR allegedly traded insolvent since 2023",
+      "status": "pending",
+      "firstSeenAt": 1791946297.7116172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/prospector-wins-three-month-permit-to-retrieve-gear/107260088",
+      "provider": "ABC News Australia",
+      "title": "Conflicting advice left prospector stranded on outback tenement",
+      "status": "pending",
+      "firstSeenAt": 1791946297.712164,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
