@@ -42810,9 +42810,73 @@
       "status": "pending",
       "firstSeenAt": 1791993450.3123462,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c305649p2d6o",
+      "provider": "BBC",
+      "title": "'It's rough out here': Americans struggle with rising inflation",
+      "status": "pending",
+      "firstSeenAt": 1791995087.7367055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c64g1ex2d7gvo",
+      "provider": "BBC",
+      "title": "Fifa to offer extra £2.6bn for football development",
+      "status": "pending",
+      "firstSeenAt": 1791995087.7378483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmglwe2kel7no",
+      "provider": "BBC",
+      "title": "2 hrs ago Patients' frustration at GP surgery's AI receptionist Newbury Street Practice, in Wantage, began using the AI Andi triage system in July. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791995087.8054473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw30eq06y248o",
+      "provider": "BBC",
+      "title": "2 hrs ago Vehicle thefts rise to highest level in a decade Police say organised crime groups are responsible for a significant proportion of vehicle thefts. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791995087.805469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791995088.2562644,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791995088.2562947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/14/done-family-dividend-betfred-job-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791995088.256309,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791995088.2563639,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
