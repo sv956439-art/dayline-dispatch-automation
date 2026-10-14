@@ -41618,9 +41618,49 @@
       "status": "pending",
       "firstSeenAt": 1791951188.7766557,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/councils-making-protesters-purchase-public-liability-insurance",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791953052.3056314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791953052.3062997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/government-perpetrators-of-financial-abuse-to-be-chased-in-court/107265100",
+      "provider": "ABC News Australia",
+      "title": "Government says perpetrators of financial abuse will be pursued in court",
+      "status": "pending",
+      "firstSeenAt": 1791953052.7046597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/victoria-amrita-lanka-coroner-inquest-findings/107263414",
+      "provider": "ABC News Australia",
+      "title": "Warning signs missed before Melbourne girl’s death in ED, coroner finds",
+      "status": "pending",
+      "firstSeenAt": 1791953052.7060125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/dv-survivor-kellie-franklin-confronts-ex-partner-who-raped-her/107264696",
+      "provider": "ABC News Australia",
+      "title": "DV survivor confronts 'monster' ex-partner who raped and burned her",
+      "status": "pending",
+      "firstSeenAt": 1791953052.7060785,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
