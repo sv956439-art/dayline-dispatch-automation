@@ -42290,9 +42290,89 @@
       "status": "pending",
       "firstSeenAt": 1791973183.9351134,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cv4g18gk8xzgo",
+      "provider": "BBC",
+      "title": "Struijk red card after VAR intervention overturned",
+      "status": "pending",
+      "firstSeenAt": 1791975201.0222628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c933xdrl731lo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1791975201.114548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwly01vdjpvzo",
+      "provider": "BBC",
+      "title": "Lions women to face France in history-making first game",
+      "status": "pending",
+      "firstSeenAt": 1791975201.1148567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c32l4z71dq72o",
+      "provider": "BBC",
+      "title": "How Ukrainians are uniting behind Shakhtar in London",
+      "status": "pending",
+      "firstSeenAt": 1791975201.1149447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cw33xzxd3gj2o",
+      "provider": "BBC",
+      "title": "Briton Kartal upsets Bencic at Wuhan Open",
+      "status": "pending",
+      "firstSeenAt": 1791975201.1150553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/first-thing-pope-leo-surgery-lung-cancer",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791975201.4383583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case",
+      "provider": "The Guardian",
+      "title": "‘I wanted to change the stigma’: Nikita Hand on winning her civil rape case against Conor McGregor",
+      "status": "pending",
+      "firstSeenAt": 1791975201.4385364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/gallery/2026/oct/14/wildlife-photographer-of-the-year-2026-winners-in-pictures",
+      "provider": "The Guardian",
+      "title": "Wildlife photographer of the year 2026 winners – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1791975201.4387374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/ukraine-partners-not-warning-of-incoming-missiles/107267628",
+      "provider": "ABC News Australia",
+      "title": "Zelenskyy says partners not warning Ukraine of incoming ballistic missiles",
+      "status": "pending",
+      "firstSeenAt": 1791975201.893842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/victoria-audit-fire-trucks-cfa-frv-funding-shortfall/107265314",
+      "provider": "ABC News Australia",
+      "title": "Cracking firetrucks, $1b funding shortfall identified in Victorian audit",
+      "status": "pending",
+      "firstSeenAt": 1791975201.893876,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
