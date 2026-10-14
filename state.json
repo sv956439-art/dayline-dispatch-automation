@@ -43018,9 +43018,49 @@
       "status": "pending",
       "firstSeenAt": 1792000517.8398333,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp8gynk13rro",
+      "provider": "BBC",
+      "title": "Airport drop-off charges to be reviewed after sharp increase",
+      "status": "pending",
+      "firstSeenAt": 1792001940.5169644,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/free-abortion-pledge-ben-carroll-state-election/107267554",
+      "provider": "ABC News Australia",
+      "title": "Free abortion pledge if Labor re-elected in Victoria next month",
+      "status": "pending",
+      "firstSeenAt": 1792001941.2491267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/david-speers-reform-in-toxic-political-climate-tax-gst/107264086",
+      "provider": "ABC News Australia",
+      "title": "Chalmers and Frydenberg have more in common than they like to admit",
+      "status": "pending",
+      "firstSeenAt": 1792001941.249171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/asx-investing-bonanza-young-australians-lean-on-free-ai-advice/107266282",
+      "provider": "ABC News Australia",
+      "title": "Investing bonanza as younger Australians lean on AI advice",
+      "status": "pending",
+      "firstSeenAt": 1792001941.2492588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/criminal-gangs-making-fake-plain-packaging-cigarettes/107267606",
+      "provider": "ABC News Australia",
+      "title": "The latest tactic in Australia's illegal tobacco trade is hiding in plain sight",
+      "status": "pending",
+      "firstSeenAt": 1792001941.2493045,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
