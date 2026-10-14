@@ -42922,9 +42922,81 @@
       "status": "pending",
       "firstSeenAt": 1791997118.904243,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c84g1rxr0dpno",
+      "provider": "BBC",
+      "title": "Red Bull F1 boss Mekies gets new deal to 2031",
+      "status": "pending",
+      "firstSeenAt": 1791998644.3712769,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx23q4g307vo",
+      "provider": "BBC",
+      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+      "status": "pending",
+      "firstSeenAt": 1791998644.4629004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx4g125d81djo",
+      "provider": "BBC",
+      "title": "4 hrs ago Deja Vu: Dancing with The Pussycat Dolls was surreal The band says: \"Nicole did tell us that she was proud of us.\" 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791998644.4634354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c80405r93w42o",
+      "provider": "BBC",
+      "title": "6 hrs ago Racial bias in London music licensing, report says Genres including Afrobeats, hip-hop and R&B are routinely flagged as \"high risk\", a report finds. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791998644.463463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791998644.807314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791998644.8074625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/14/the-archers-cast-radio-bbc-decision-new-studio-birmingham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791998644.8077033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791998644.807763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791998644.8078055,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
