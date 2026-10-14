@@ -41354,9 +41354,25 @@
       "status": "pending",
       "firstSeenAt": 1791941413.8643878,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c84g13lq3r2lo",
+      "provider": "BBC",
+      "title": "Two punch-ups, two red cards, no chances left - Saracens sack Auvaa",
+      "status": "pending",
+      "firstSeenAt": 1791943114.986039,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/canberra-court-hears-man-is-fixated-on-alleged-stalking-victim/107264292",
+      "provider": "ABC News Australia",
+      "title": "Canberra court hears public servant 'fixated' on alleged stalking victim",
+      "status": "pending",
+      "firstSeenAt": 1791943115.6787524,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
