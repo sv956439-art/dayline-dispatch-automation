@@ -41922,9 +41922,81 @@
       "status": "pending",
       "firstSeenAt": 1791960050.4437003,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2v03pdgk0o",
+      "provider": "BBC",
+      "title": "2 hrs ago 'Disgusting' car thefts ruin lives, say victims Thieves are adapting with technology, an expert says, as the county records one of the highest rates. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791962465.8301663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmzxl1w064w9o",
+      "provider": "BBC",
+      "title": "2 hrs ago Broadband fears after fibre works stop in village People in the Kent village of Hunton say they have been left without answers after fibre works stop. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791962465.8301857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/14/scale-back-on-hake-and-coley-seafood-charity-tells-shoppers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791962465.9457433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791962465.945756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/private-health-bill-canned/107265242",
+      "provider": "ABC News Australia",
+      "title": "Controversial private health changes fail to pass parliament",
+      "status": "pending",
+      "firstSeenAt": 1791962466.2114775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/shy-albatross-bird-flu-vaccines-on-tasmanian-bass-strait-island/107265168",
+      "provider": "ABC News Australia",
+      "title": "Albatross colony to be vaccinated by hand in fight against bird flu spread",
+      "status": "pending",
+      "firstSeenAt": 1791962466.2117403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/boy-sentenced-seven-years-rosemary-franzidis-crash-stolen-car/107267280",
+      "provider": "ABC News Australia",
+      "title": "Boy sentenced to seven years' jail over crash that killed grandmother",
+      "status": "pending",
+      "firstSeenAt": 1791962466.2121825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/dion-robbins-inquest-backyard-pool-drowning-deaths-nt/107266448",
+      "provider": "ABC News Australia",
+      "title": "Drownings 'quick', 'silent' and 'can happen anywhere', 3yo's inquest hears",
+      "status": "pending",
+      "firstSeenAt": 1791962466.2122047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/cctv-push-stawell-robbery-assault-charges/107263848",
+      "provider": "ABC News Australia",
+      "title": "Fresh calls for CCTV after alleged robbery, assault in Victorian town",
+      "status": "pending",
+      "firstSeenAt": 1791962466.2122228,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
