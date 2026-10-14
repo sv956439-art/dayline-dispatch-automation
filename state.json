@@ -42450,9 +42450,97 @@
       "status": "pending",
       "firstSeenAt": 1791980038.7318926,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o",
+      "provider": "BBC",
+      "title": "US inflation rises more than expected ahead of midterm elections The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs. Just now Business",
+      "status": "pending",
+      "firstSeenAt": 1791982362.981714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgx70v9vrjo",
+      "provider": "BBC",
+      "title": "Island fossil identified as new dinosaur species Invictibellatrix would have been up to four metres long with feathers and had 20cm claws. 8 hrs ago Hampshire & Isle of Wight",
+      "status": "pending",
+      "firstSeenAt": 1791982362.9817626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c678p0ld7z8lo",
+      "provider": "BBC",
+      "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+      "status": "pending",
+      "firstSeenAt": 1791982362.9824586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2we8yjj1go",
+      "provider": "BBC",
+      "title": "Hidden video recording device found in cabin of Australian navy ship",
+      "status": "pending",
+      "firstSeenAt": 1791982362.9824736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cqvgr7530085o",
+      "provider": "BBC",
+      "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+      "status": "pending",
+      "firstSeenAt": 1791982362.9828181,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky93v98x7jjo",
+      "provider": "BBC",
+      "title": "Davina McCall says she had 'advanced Alzheimer's' symptoms after brain surgery",
+      "status": "pending",
+      "firstSeenAt": 1791982363.0334253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l4zpr2l1ko",
+      "provider": "BBC",
+      "title": "2 hrs ago The Gentlemen star Ray Winstone charms locals in Welsh market town Winstone plays Alan \"Razor\" Sharp, an ex-SAS operative, in the action comedy Danger Money. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791982363.0337932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791982363.5243611,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791982363.5247219,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/14/clifton-suspension-bridge-master-hails-refurbishment-bristol",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791982363.524999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791982363.5250957,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
