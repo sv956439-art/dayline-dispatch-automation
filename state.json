@@ -41994,9 +41994,73 @@
       "status": "pending",
       "firstSeenAt": 1791962466.2122228,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d6e62p49do",
+      "provider": "BBC",
+      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+      "status": "pending",
+      "firstSeenAt": 1791964604.3030653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791964604.766881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791964604.7672405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/pope-leo-xiv-ai-adviser-paolo-benanti-australia-copyright/107263800",
+      "provider": "ABC News Australia",
+      "title": "Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism'",
+      "status": "pending",
+      "firstSeenAt": 1791964605.2235355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/wa-councils-eye-pet-cat-controls-as-they-await-local-powers/107262304",
+      "provider": "ABC News Australia",
+      "title": "New laws could soon ban cats from public places in WA — here's what's on the cards",
+      "status": "pending",
+      "firstSeenAt": 1791964605.2237604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/tullamarine-shooting-road-rage-incident-victoria/107267288",
+      "provider": "ABC News Australia",
+      "title": "Shots fired in Tullamarine linked to road rage incident, police say",
+      "status": "pending",
+      "firstSeenAt": 1791964605.2243733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/alice-springs-storm-house-damage/107264844",
+      "provider": "ABC News Australia",
+      "title": "Alice Springs resident whose home was destroyed welcomes funding support",
+      "status": "pending",
+      "firstSeenAt": 1791964605.2244017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/patient-allegedly-set-on-fire-sydneys-prince-of-wales-hospital/107267510",
+      "provider": "ABC News Australia",
+      "title": "Patient allegedly set on fire, two others doused in accelerant at Sydney hospital",
+      "status": "pending",
+      "firstSeenAt": 1791964605.22443,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
