@@ -42874,9 +42874,57 @@
       "status": "pending",
       "firstSeenAt": 1791995088.2563639,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r4yzx76rlzo",
+      "provider": "BBC",
+      "title": "Pope's family 'going through a lot' as brother also undergoes cancer treatment, wife says Louis Prevost has blood cancer, his wife says, as the Pope recovers from successful surgery for lung cancer.",
+      "status": "pending",
+      "firstSeenAt": 1791997118.6912932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5yn8rn04ljo",
+      "provider": "BBC",
+      "title": "Kenya confirms second Ebola case as relative of country's first victim It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "status": "pending",
+      "firstSeenAt": 1791997118.6913733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c59vzgnj9p2wo",
+      "provider": "BBC",
+      "title": "Star-studded Saudi exhibition postponed after deadly attacks The Six Kings Slam exhibition event - featuring Carlos Alcaraz and Novak Djokovic - is postponed following a series of deadly attacks on Saudi Arabia.",
+      "status": "pending",
+      "firstSeenAt": 1791997118.6917186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791997118.9041133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791997118.9042282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/14/sir-trevor-phillips-london-cbs-news",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791997118.904243,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
