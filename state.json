@@ -41850,9 +41850,81 @@
       "status": "pending",
       "firstSeenAt": 1791957917.6341097,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx23y3d970vo",
+      "provider": "BBC",
+      "title": "Turkey police raid opposition TV station, halting live broadcasts Halk TV says its staff are unable to enter the building in Istanbul, and a new manager was appointed to run the channel.",
+      "status": "pending",
+      "firstSeenAt": 1791960049.6461947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2v0vn7r1do",
+      "provider": "BBC",
+      "title": "Saudi Arabia overturns death sentence for man over Facebook comment",
+      "status": "pending",
+      "firstSeenAt": 1791960049.6462255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckdd8egder5ro",
+      "provider": "BBC",
+      "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister. 2 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1791960049.7498448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791960050.0295103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791960050.0299137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/hospitality-industry-warns-shortages-migrant-workers/107266454",
+      "provider": "ABC News Australia",
+      "title": "Hospitality bosses warn of empty cafes and kitchens under migration cuts",
+      "status": "pending",
+      "firstSeenAt": 1791960050.4427025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/breaking-bad-actor-rj-mitte-on-disability-and-self-belief/107263560",
+      "provider": "ABC News Australia",
+      "title": "RJ Mitte on disability and self-belief, in his own words",
+      "status": "pending",
+      "firstSeenAt": 1791960050.4429383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/womadelaide-lineup-2027-adelaide-35th-anniversary-festival-dates/107259704",
+      "provider": "ABC News Australia",
+      "title": "WOMADelaide reveals 2027 line-up marking 35 years of The World's Festival",
+      "status": "pending",
+      "firstSeenAt": 1791960050.4430652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/junee-correctional-centre-inmate-death-inquest-findings/107263980",
+      "provider": "ABC News Australia",
+      "title": "Inmate died after waiting 305 days for help, NSW coroner finds",
+      "status": "pending",
+      "firstSeenAt": 1791960050.4437003,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
