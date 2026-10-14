@@ -42658,9 +42658,41 @@
       "status": "pending",
       "firstSeenAt": 1791987611.596349,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx23q4dwvneo",
+      "provider": "BBC",
+      "title": "Burnham careful before Zelensky meeting but promises Ukraine won't leave 'empty handed' The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
+      "status": "pending",
+      "firstSeenAt": 1791989672.5206006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98z59xdny5o",
+      "provider": "BBC",
+      "title": "UK PM says he wants to 'repair bridges' between Ukraine and US It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street. 2 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791989672.6327412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckwy4nj4842qo",
+      "provider": "BBC",
+      "title": "Did Chelsea benefit most from extended international break? The extended three-week break may have benefited Chelsea more than any other team in the Premier League. 4 hrs ago Chelsea",
+      "status": "pending",
+      "firstSeenAt": 1791989672.6330128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791989672.9118505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
