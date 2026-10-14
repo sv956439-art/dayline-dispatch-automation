@@ -43058,9 +43058,105 @@
       "status": "pending",
       "firstSeenAt": 1792001941.2493045,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93zyqdx1e0o",
+      "provider": "BBC",
+      "title": "Fourth council opposes £5bn CO2 pipeline plan",
+      "status": "pending",
+      "firstSeenAt": 1792004446.0204754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792004446.636251,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792004446.6365244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/alleged-chinese-spies-targeted-australian-officials-via-linkedin/107266478",
+      "provider": "ABC News Australia",
+      "title": "Alleged Chinese spies targeted former premier and AFP commander via LinkedIn",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9628217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/paramatildas-out-to-defend-ifcpf-world-cup-title-in-atlanta/107245236",
+      "provider": "ABC News Australia",
+      "title": "ParaMatildas hunt more Australian football history at World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9630828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/does-mcdonalds-fast-food-change-a-neighbourhood/107212048",
+      "provider": "ABC News Australia",
+      "title": "It's 'the vibe': Does McDonald's ruin a town?",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9632304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/five-works-to-see-redcliffe-gallery-fifteen-artists/107252804",
+      "provider": "ABC News Australia",
+      "title": "Five artworks to see at 15 Artists exhibition at Redcliffe Art Gallery",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9632692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/permanent-doctor-for-strahan-tasmania/107259746",
+      "provider": "ABC News Australia",
+      "title": "From Scotland to Tasmania, tiny town welcomes new GP",
+      "status": "pending",
+      "firstSeenAt": 1792004450.963538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/naza-documentary-israel-gaza-interviews/107265046",
+      "provider": "ABC News Australia",
+      "title": "In NAZA, IDF soldiers detail mass killings in their own words",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9635599,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/houthi-saudi-arabia-conflict-and-problem-for-us-iran-war/107263724",
+      "provider": "ABC News Australia",
+      "title": "The 'huge problem' Saudi Arabia faces in its conflict with the Houthis",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9635937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/ai-data-centres-and-firmus-has-tasmanian-premier-support/107264558",
+      "provider": "ABC News Australia",
+      "title": "Firmus' IPO may have flopped but one state leader still sees 'opportunity'",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9636056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/patient-death-ambulance-ramping-promise-tasmanian-liberals/107264586",
+      "provider": "ABC News Australia",
+      "title": "Death puts spotlight on 'promise' to ban ambulance ramping",
+      "status": "pending",
+      "firstSeenAt": 1792004450.9636793,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
