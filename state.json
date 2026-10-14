@@ -43154,9 +43154,97 @@
       "status": "pending",
       "firstSeenAt": 1792004450.9636793,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlyd3z1g8d8o",
+      "provider": "BBC",
+      "title": "Semenyo 'froze' after alleged racist abuse, court told A Liverpool fan denies racially aggravated behaviour towards the London-born Ghana international footballer during a match against Bournemouth in 2025. 5 hrs ago Liverpool",
+      "status": "pending",
+      "firstSeenAt": 1792006295.5799425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckd7qg5q87qvo",
+      "provider": "BBC",
+      "title": "Vinicius Jr to miss Barcelona game because of ban Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban. 1 hr ago Football",
+      "status": "pending",
+      "firstSeenAt": 1792006295.5802314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792006295.7147417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792006295.7156782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792006295.715821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/afp-search-veteran-report-company-rosemary-centre/107259316",
+      "provider": "ABC News Australia",
+      "title": "Police execute search warrants in veteran report fraud investigation",
+      "status": "pending",
+      "firstSeenAt": 1792006296.1398437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/zelenskyy-trump-podcast-painful-take-russias-side/107268134",
+      "provider": "ABC News Australia",
+      "title": "Zelenskyy says Trump's decision to take Russia's side is 'painful'",
+      "status": "pending",
+      "firstSeenAt": 1792006296.1399295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/when-were-these-movies-released/107230238",
+      "provider": "ABC News Australia",
+      "title": "Do you know what year these movies were released?",
+      "status": "pending",
+      "firstSeenAt": 1792006296.1405232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/flinders-university-admits-to-underpayment-of-casual-staff/107265044",
+      "provider": "ABC News Australia",
+      "title": "Flinders University admits to $965k underpayment of casual staff",
+      "status": "pending",
+      "firstSeenAt": 1792006296.1410477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/quinlan-cranes-fined-powerline-strike/107266806",
+      "provider": "ABC News Australia",
+      "title": "CCTV shows crane hitting powerline at modular home site",
+      "status": "pending",
+      "firstSeenAt": 1792006296.1411228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/builder-chosen-for-hobart-macquarie-point-afl-stadium/107264166",
+      "provider": "ABC News Australia",
+      "title": "Builder chosen for Hobart's Macquarie Point stadium",
+      "status": "pending",
+      "firstSeenAt": 1792006296.141219,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
