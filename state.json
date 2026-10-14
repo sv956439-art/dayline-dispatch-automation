@@ -43490,9 +43490,57 @@
       "status": "pending",
       "firstSeenAt": 1792016006.5229123,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgdneplgzeo",
+      "provider": "BBC",
+      "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird Art of Play says its staff have been threatened after the singer complained online about how she was treated. 20 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792017647.2752998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/ice-shooting-new-york-city-oscar-belgal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792017647.5665407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/ilhan-omar-phone-seized-relatives-subpoenaed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792017647.566587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/tourist-numbers-down-in-regional-qld-amid-high-fuel-prices/107263850",
+      "provider": "ABC News Australia",
+      "title": "Qld tourism businesses say fuel prices behind drop in visitor numbers",
+      "status": "pending",
+      "firstSeenAt": 1792017647.871897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/womens-rugby-league-world-cup-australia-jillaroos-dominance/107267402",
+      "provider": "ABC News Australia",
+      "title": "Australia is the monster that turns World Cup dreams to nightmares",
+      "status": "pending",
+      "firstSeenAt": 1792017647.871947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/youth-night-space-success-kimberley-western-australia/107234156",
+      "provider": "ABC News Australia",
+      "title": "Kimberley youth night spaces heralded as 'blueprint' for WA",
+      "status": "pending",
+      "firstSeenAt": 1792017647.8719947,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
