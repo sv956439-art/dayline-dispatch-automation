@@ -42418,9 +42418,41 @@
       "status": "pending",
       "firstSeenAt": 1791978510.1864443,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261007-a-stay-in-pakistans-unspoiled-ishkoman-valley",
+      "provider": "BBC",
+      "title": "A stay in Pakistan's unspoiled Ishkoman valley I took a 650km motorcycle ride to this traveller's hostel, where activities include lazing with sheep, enjoying Pakistani hospitality and visiting shamans who can learn your fate.",
+      "status": "pending",
+      "firstSeenAt": 1791980038.3878295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791980038.7317255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791980038.7318702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791980038.7318926,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
