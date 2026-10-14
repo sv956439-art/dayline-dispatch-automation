@@ -42058,9 +42058,73 @@
       "status": "pending",
       "firstSeenAt": 1791964605.22443,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8040531w45eo",
+      "provider": "BBC",
+      "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
+      "status": "pending",
+      "firstSeenAt": 1791966094.8680444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckqxn0v3zzywo",
+      "provider": "BBC",
+      "title": "3 hrs ago Medieval objects help tell Bayeux Tapestry story They include a silver-gilt reliquary similar to those seen in the Bayeux Tapestry, say organisers. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791966094.868301,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvn06w24lw3no",
+      "provider": "BBC",
+      "title": "3 hrs ago Museum marks 60 years celebrating county's heritage The Oxfordshire Museum in Woodstock will celebrate its diamond jubilee at a special event on Thursday. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791966094.8683155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw80zyzl4979o",
+      "provider": "BBC",
+      "title": "3 hrs ago Community hopes Town of Culture will bring change Sandown was chosen in July as one of 15 finalists from nearly 400 hopefuls across the country. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1791966094.8683283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791966095.1284392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791966095.128452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/boyer-lecture-keynote-sam-roggeveen-asia-australia/107260512",
+      "provider": "ABC News Australia",
+      "title": "The boldness Australia needs has no political home right now",
+      "status": "pending",
+      "firstSeenAt": 1791966095.5587227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/driver-charged-over-moana-crash-that-killed-11yo-girl/107267050",
+      "provider": "ABC News Australia",
+      "title": "Woman charged over crash that claimed life of 11yo girl",
+      "status": "pending",
+      "firstSeenAt": 1791966095.5592582,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
