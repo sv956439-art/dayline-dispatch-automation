@@ -42562,9 +42562,57 @@
       "status": "pending",
       "firstSeenAt": 1791984171.9079432,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3qjn45pepx1o",
+      "provider": "BBC",
+      "title": "Russell Brand was a 'sexual predator', says prosecution as rape trial begins The comedian and actor faces charges including rape and sexual assault, which he denies. 12 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1791986192.8456185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crje5we583qwo",
+      "provider": "BBC",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state All of the spots are in South Australia, spanning Adelaide and its surrounding wine regions.",
+      "status": "pending",
+      "firstSeenAt": 1791986192.8463426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791986193.0267973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791986193.0268133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791986193.0271416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/russell-brand-a-ruthless-sexual-predator-court-hears/107267856",
+      "provider": "ABC News Australia",
+      "title": "Russell Brand a 'ruthless, calculated sexual predator', court hears",
+      "status": "pending",
+      "firstSeenAt": 1791986193.3319194,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
