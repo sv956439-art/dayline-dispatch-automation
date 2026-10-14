@@ -42162,9 +42162,57 @@
       "status": "pending",
       "firstSeenAt": 1791968239.912175,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261013-how-metagenomics-can-identify-almost-every-infection",
+      "provider": "BBC",
+      "title": "The test that finds (almost) every infection It identified Covid-19. Now this genetic technique is helping doctors to make life-or-death decisions.",
+      "status": "pending",
+      "firstSeenAt": 1791969791.6953642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj4g12qev5kko",
+      "provider": "BBC",
+      "title": "Sunshine 'boost' for under-pressure attractions",
+      "status": "pending",
+      "firstSeenAt": 1791969791.7773576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4g17zd3xv0o",
+      "provider": "BBC",
+      "title": "Hotel to be built on former railway station site",
+      "status": "pending",
+      "firstSeenAt": 1791969791.7773788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791969792.065613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/minnesota-professor-urine-incidents",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791969792.0657017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet",
+      "provider": "The Guardian",
+      "title": "‘He’s terrified, panicked, can’t sleep’: the tragic, lonely death of Beatles manager Brian Epstein",
+      "status": "pending",
+      "firstSeenAt": 1791969792.0660353,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
