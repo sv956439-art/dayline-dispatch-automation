@@ -42394,9 +42394,33 @@
       "status": "pending",
       "firstSeenAt": 1791976586.8856387,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1rnj5qweo",
+      "provider": "BBC",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "status": "pending",
+      "firstSeenAt": 1791978509.918452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791978510.185893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing",
+      "provider": "The Guardian",
+      "title": "double quotation mark The most important US midterm trends I’m seeing",
+      "status": "pending",
+      "firstSeenAt": 1791978510.1864443,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
