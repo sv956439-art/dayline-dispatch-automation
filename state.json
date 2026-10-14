@@ -41658,9 +41658,49 @@
       "status": "pending",
       "firstSeenAt": 1791953052.7060785,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8rz5l7xypjo",
+      "provider": "BBC",
+      "title": "'A bad day if the lift is out of use': Life as a wind turbine worker",
+      "status": "pending",
+      "firstSeenAt": 1791954668.813435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/14/barriers-black-south-asian-music-events-london-racial-inequality",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791954668.9797864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/rex-suspends-orange-port-macquarie-services/107260016",
+      "provider": "ABC News Australia",
+      "title": "Rex grounds two routes 10 months after $60m rescue package",
+      "status": "pending",
+      "firstSeenAt": 1791954670.2763703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/katie-zacharia-first-white-house-press-briefing-key-moments/107265334",
+      "provider": "ABC News Australia",
+      "title": "Trump's new press secretary faces questions about her legal credentials",
+      "status": "pending",
+      "firstSeenAt": 1791954670.2774732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/act-prosecutors-considering-appeal-after-teen-rapist-avoids-jail/107264168",
+      "provider": "ABC News Australia",
+      "title": "Calls for judge to be stood down after teen avoids jail for rape",
+      "status": "pending",
+      "firstSeenAt": 1791954670.2775264,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
