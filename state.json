@@ -43538,9 +43538,41 @@
       "status": "pending",
       "firstSeenAt": 1792017647.8719947,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5djvyde0y1jo",
+      "provider": "BBC",
+      "title": "How a Chinese-made toy gets to a US retailer With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "status": "pending",
+      "firstSeenAt": 1792019016.341905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy7e8mpdxpro",
+      "provider": "BBC",
+      "title": "UK minimum wage: Who is getting a pay rise and how much is it?",
+      "status": "pending",
+      "firstSeenAt": 1792019016.3419323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqd09l278n15o",
+      "provider": "BBC",
+      "title": "Martinez outburst came out of 'anger and frustration'",
+      "status": "pending",
+      "firstSeenAt": 1792019016.3423004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/victoria-automated-feedlot-concerns-gippsland/106922316",
+      "provider": "ABC News Australia",
+      "title": "Automated feedlot proposal draws community ire in Victoria's south-east",
+      "status": "pending",
+      "firstSeenAt": 1792019017.377022,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
