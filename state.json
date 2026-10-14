@@ -43402,9 +43402,17 @@
       "status": "pending",
       "firstSeenAt": 1792011552.033244,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/remote-nt-communities-work-to-break-domestic-violence-cycle/107262158",
+      "provider": "ABC News Australia",
+      "title": "Remote NT women pulling together to tackle domestic violence crisis",
+      "status": "pending",
+      "firstSeenAt": 1792013010.944159,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
