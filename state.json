@@ -41234,9 +41234,25 @@
       "status": "pending",
       "firstSeenAt": 1791935816.5513825,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/jim-chalmers-denies-anthony-albanese-rolled-him-over-credit-card-payments-for-tax-bills",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791937068.3417869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/girls-returning-for-limited-season-run-10-years-after-finale/107263552",
+      "provider": "ABC News Australia",
+      "title": "Girls returning for limited season run 10 years after finale",
+      "status": "pending",
+      "firstSeenAt": 1791937068.6303241,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
