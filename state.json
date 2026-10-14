@@ -41778,9 +41778,81 @@
       "status": "pending",
       "firstSeenAt": 1791956300.8528407,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx054n684g7do",
+      "provider": "BBC",
+      "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
+      "status": "pending",
+      "firstSeenAt": 1791957916.4144924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/australia-reliant-on-gas-for-foreseeable-future-madeleine-king-press-club",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791957916.8929355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791957916.8930483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/queensland-navy-investigation-recording-device/107267072",
+      "provider": "ABC News Australia",
+      "title": "Recording device found in cabin of Australian navy ship",
+      "status": "pending",
+      "firstSeenAt": 1791957917.6327806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/bhp-slashing-jobs-iron-ore-mines-pilbara-/107266662",
+      "provider": "ABC News Australia",
+      "title": "Mining giant BHP to cut hundreds of jobs at iron ore mines",
+      "status": "pending",
+      "firstSeenAt": 1791957917.6331894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/james-tedesco-reece-walsh-australia-world-cup-kevin-walters/107266374",
+      "provider": "ABC News Australia",
+      "title": "Walters explains choice of Walsh over Tedesco for World Cup opener",
+      "status": "pending",
+      "firstSeenAt": 1791957917.6339667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/doctors-say-birthing-model-unsafe-yorke-northern-health-network/107263890",
+      "provider": "ABC News Australia",
+      "title": "Rural doctors hit out at 'unsafe' birthing services model amid shortages",
+      "status": "pending",
+      "firstSeenAt": 1791957917.634009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/federal-politics-resources-minister-open-nationalising-company/107266624",
+      "provider": "ABC News Australia",
+      "title": "Rare earths company could be nationalised as China-linked investors fail to divest",
+      "status": "pending",
+      "firstSeenAt": 1791957917.6340623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/migration-debate-harming-reputation-in-asia-utas-rufus-black/107264214",
+      "provider": "ABC News Australia",
+      "title": "Migration rhetoric 'harming' reputation in Asia, uni vice-chancellor says",
+      "status": "pending",
+      "firstSeenAt": 1791957917.6341097,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
