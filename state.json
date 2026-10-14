@@ -43298,9 +43298,65 @@
       "status": "pending",
       "firstSeenAt": 1792008195.6861942,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8wy9veedgygo",
+      "provider": "BBC",
+      "title": "Musk says US government may be behind curbs on Ukraine's use of Starlink internet Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\". 12 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792009804.9257107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/trump-press-secretary-lawyer-zacharia",
+      "provider": "The Guardian",
+      "title": "Trump’s new press secretary faces scrutiny over claims to be a lawyer",
+      "status": "pending",
+      "firstSeenAt": 1792009805.1882665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/federal-politics-live-blog-october-15/107267398",
+      "provider": "ABC News Australia",
+      "title": "Labor scraps controversial ministerial discretion in digital duty of care bill",
+      "status": "pending",
+      "firstSeenAt": 1792009806.1093688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/south-coast-train-timetable-services-airport-changes/107266632",
+      "provider": "ABC News Australia",
+      "title": "Overhaul means more South Coast rail services but longer trips",
+      "status": "pending",
+      "firstSeenAt": 1792009806.1100473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/caring-for-patients-after-cancer/107206776",
+      "provider": "ABC News Australia",
+      "title": "Calls for better post-cancer care to give isolated survivors support",
+      "status": "pending",
+      "firstSeenAt": 1792009806.1100838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/uci-track-world-championships-australia-silver-team-sprint/107268230",
+      "provider": "ABC News Australia",
+      "title": "Aussie cyclists begin World Championships with silver medal",
+      "status": "pending",
+      "firstSeenAt": 1792009806.110119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/gymnastics-coach-jamie-glen-cannon-fined-assaulting-teen-girls/107263964",
+      "provider": "ABC News Australia",
+      "title": "Top gymnastics coach fined after assaulting two female teen athletes",
+      "status": "pending",
+      "firstSeenAt": 1792009806.110163,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
