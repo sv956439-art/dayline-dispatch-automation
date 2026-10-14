@@ -43410,9 +43410,57 @@
       "status": "pending",
       "firstSeenAt": 1792013010.944159,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792014811.3984058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/university-maryland-club-tennis-suspended-racist-imagery",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792014811.3985488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792014811.3985686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/afl-trade-period-2026-analysis-winners-and-losers/107268284",
+      "provider": "ABC News Australia",
+      "title": "The data that shows who won and lost in this year's AFL trade period",
+      "status": "pending",
+      "firstSeenAt": 1792014811.8533037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/warracknabeal-wind-farm-clears-victorian-approvals/107263312",
+      "provider": "ABC News Australia",
+      "title": "Victoria gives final state approval for biggest wind farm in southern hemisphere",
+      "status": "pending",
+      "firstSeenAt": 1792014811.8539078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/guardian-stops-mallee-family-care-foster-children/107263658",
+      "provider": "ABC News Australia",
+      "title": "Regulator pauses major Mallee centre from taking on new foster children",
+      "status": "pending",
+      "firstSeenAt": 1792014811.8539462,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
