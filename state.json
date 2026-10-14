@@ -43642,9 +43642,73 @@
       "status": "pending",
       "firstSeenAt": 1792020474.5063741,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvy0rd1j2kzlo",
+      "provider": "BBC",
+      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+      "status": "pending",
+      "firstSeenAt": 1792021772.1436377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cmpwg7dx0q71o",
+      "provider": "BBC",
+      "title": "LIV accuses DP World Tour of player 'interference'",
+      "status": "pending",
+      "firstSeenAt": 1792021772.2300527,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c370pnz8d90wo",
+      "provider": "BBC",
+      "title": "Martinez's future at Man Utd in doubt - Thursday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792021772.2300932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/15/paddington-the-musical-sydney-australia-2027",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792021772.537935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/black-market-tobacco-fakes-australian-health-warning",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792021772.5379498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/sydney-hospital-patient-charged-attempted-murder-royal-prince-of-wales-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792021772.5379617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792021772.5382714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/hidden-graves-in-the-outback-dave-hunter-unmarked-burials-nsw/107262406",
+      "provider": "ABC News Australia",
+      "title": "Hundreds of outback burial sites uncovered by Dave 'the Grave' Hunter",
+      "status": "pending",
+      "firstSeenAt": 1792021773.0615466,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
