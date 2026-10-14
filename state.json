@@ -41530,9 +41530,41 @@
       "status": "pending",
       "firstSeenAt": 1791947648.2568803,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/14/family-mourn-jayda-bonner-indigenous-woman-found-dead-melbourne-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791949442.1332295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/national-redress-scheme-extension-needed-politicians-say/107262290",
+      "provider": "ABC News Australia",
+      "title": "Compensation scheme for abuse survivors must be extended, MPs say",
+      "status": "pending",
+      "firstSeenAt": 1791949442.888699,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/victoria-police-murder-jayda-allen-bonner/107264934",
+      "provider": "ABC News Australia",
+      "title": "Man charged with murder of Melbourne woman Jayda Allen Bonner",
+      "status": "pending",
+      "firstSeenAt": 1791949442.888807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-14/children-found-police-missing-canberra-childcare-centre/107263816",
+      "provider": "ABC News Australia",
+      "title": "Children found by police after escaping from Canberra daycare",
+      "status": "pending",
+      "firstSeenAt": 1791949442.8897233,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
