@@ -42234,9 +42234,65 @@
       "status": "pending",
       "firstSeenAt": 1791971726.6777332,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20251119-the-5000-year-old-origins-of-the-witchs-hat",
+      "provider": "BBC",
+      "title": "The centuries-old origins of the witch's hat As Wicked: For Good is released, what are the historic meanings of conical headwear, and how has it evolved – from its ancient origins to the empowered Elphaba?",
+      "status": "pending",
+      "firstSeenAt": 1791973183.5255914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261013-why-la-bola-negra-could-win-the-oscars-top-prize",
+      "provider": "BBC",
+      "title": "Four reasons why gay Spanish epic La Bola Negra could win the best picture Oscar Telling the stories of three gay men across a century, this sweeping but relatively low-budget drama is second favourite to The Odyssey for the Academy's top prize.",
+      "status": "pending",
+      "firstSeenAt": 1791973183.526032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c83vq9vpwwr1o",
+      "provider": "BBC",
+      "title": "UK PM had two hospitality dinners with Man City chairman, deleted records show The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches. 11 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1791973183.598006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g1rpv2228o",
+      "provider": "BBC",
+      "title": "6 John Cleese urges St Andrews students not to elect Q Manivannan as rector",
+      "status": "pending",
+      "firstSeenAt": 1791973183.598047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791973183.9350433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791973183.9350653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791973183.9351134,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
