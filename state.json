@@ -43458,9 +43458,41 @@
       "status": "pending",
       "firstSeenAt": 1792014811.8539462,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmx2wegg2pw5o",
+      "provider": "BBC",
+      "title": "PSG on 'different level' - are they building greatest European dynasty? Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?",
+      "status": "pending",
+      "firstSeenAt": 1792016005.2053337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/14/luna-dog-missing-yellowstone-found",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792016005.6400502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/david-chau-journey-to-taking-reins-of-abc-7pm-finance/107266100",
+      "provider": "ABC News Australia",
+      "title": "David Chau's mission to make finance news 'tolerable'",
+      "status": "pending",
+      "firstSeenAt": 1792016006.5227973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/worlds-oldest-shipwreck-found-in-turkiye-archaeologists-say/107267406",
+      "provider": "ABC News Australia",
+      "title": "'World's oldest known' shipwreck revealed with Sydney archaeologist's help",
+      "status": "pending",
+      "firstSeenAt": 1792016006.5229123,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
