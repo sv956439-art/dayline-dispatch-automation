@@ -42722,9 +42722,97 @@
       "status": "pending",
       "firstSeenAt": 1791991176.706098,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crkg7q97z078o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791993450.039196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c83vq95dq91go",
+      "provider": "BBC",
+      "title": "Home of London's oldest restaurant given to National Trust Rules, in Covent Garden, which opened in 1798, will be looked after and conserved by the charity. 1 hr ago London",
+      "status": "pending",
+      "firstSeenAt": 1791993450.0393534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm04054ykqqqo",
+      "provider": "BBC",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "status": "pending",
+      "firstSeenAt": 1791993450.040019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvp8g57ne53xo",
+      "provider": "BBC",
+      "title": "Wilcox the target again in another damaging Man Utd falling-out",
+      "status": "pending",
+      "firstSeenAt": 1791993450.0403907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxj0gzk4x4o",
+      "provider": "BBC",
+      "title": "Netflix to cut 1,000 jobs worldwide The streaming giant had a slowdown in subscriptions.",
+      "status": "pending",
+      "firstSeenAt": 1791993450.1472583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c94g1kvz006ko",
+      "provider": "BBC",
+      "title": "Driving test waits fall to two-year low - but still average 20 weeks Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+      "status": "pending",
+      "firstSeenAt": 1791993450.147292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgkvdyx5d6jo",
+      "provider": "BBC",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+      "status": "pending",
+      "firstSeenAt": 1791993450.1473427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791993450.3118625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791993450.311887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791993450.3119993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/14/campaigners-decry-slow-progress-repaying-victims-carers-allowance-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1791993450.3123462,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
