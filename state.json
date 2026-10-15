@@ -45250,9 +45250,73 @@
       "status": "pending",
       "firstSeenAt": 1792076820.4297519,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrwn3y3xe9o",
+      "provider": "BBC",
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought. 39 mins ago Science & Environment",
+      "status": "pending",
+      "firstSeenAt": 1792078768.91177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgdn1164v1o",
+      "provider": "BBC",
+      "title": "Another man admits raping woman drugged by husband over 20 years The husband is accused of inviting 13 other men to abuse her at their family home in Stockport. 42 mins ago Manchester",
+      "status": "pending",
+      "firstSeenAt": 1792078768.911795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y6lp73zdo",
+      "provider": "BBC",
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "status": "pending",
+      "firstSeenAt": 1792078768.9121873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cke8r2lpm992o",
+      "provider": "BBC",
+      "title": "Man with suitcase full of snakes stopped at German airport",
+      "status": "pending",
+      "firstSeenAt": 1792078768.9122045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c574pn7j0yp3o",
+      "provider": "BBC",
+      "title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
+      "status": "pending",
+      "firstSeenAt": 1792078768.9125729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgqrz9vn79o",
+      "provider": "BBC",
+      "title": "Just now Mercury Prize events to show off 'phenomenal' scene Musician Tom A. Smith says the North East is the \"cultural hub\" of the country. Just now",
+      "status": "pending",
+      "firstSeenAt": 1792078768.9725358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792078769.2579339,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/15/nigel-farage-itv-reform",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792078769.2579653,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
