@@ -43986,9 +43986,49 @@
       "status": "pending",
       "firstSeenAt": 1792035172.5316195,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l3djr5d5do",
+      "provider": "BBC",
+      "title": "Desperate to clear toxic haze, Indonesia to douse its skies with dry ice Authorities in South East Asia have turned to weather modification as fires blanket the region in smog.",
+      "status": "pending",
+      "firstSeenAt": 1792037072.60149,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/zelenskyy-warns-of-starlink-slowdown-in-ukraine/107269352",
+      "provider": "ABC News Australia",
+      "title": "Ukraine's pleas over Starlink have now reached Elon Musk",
+      "status": "pending",
+      "firstSeenAt": 1792037074.1760015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/hilltop-hoods-lane-mural-adelaide-cbd-hip-hop-group/107267102",
+      "provider": "ABC News Australia",
+      "title": "Adelaide laneway named in honour of hip hop pioneers Hilltop Hoods",
+      "status": "pending",
+      "firstSeenAt": 1792037074.1769187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/adelaide-uni-financial-issues-staff-early-retirement-offer/107269102",
+      "provider": "ABC News Australia",
+      "title": "Adelaide University to offer staff early retirements as financial woes grow",
+      "status": "pending",
+      "firstSeenAt": 1792037074.176957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/nt-sentencing-of-katherine-dv-negligent-manslaughter-lindsay-ken/107268968",
+      "provider": "ABC News Australia",
+      "title": "Former stockman jailed for fatal attack on partner in NT town’s CBD",
+      "status": "pending",
+      "firstSeenAt": 1792037074.1770115,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
