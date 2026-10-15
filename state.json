@@ -44810,9 +44810,49 @@
       "status": "pending",
       "firstSeenAt": 1792061028.733809,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261014-why-fraudster-elizabeth-holmes-still-fascinates",
+      "provider": "BBC",
+      "title": "Why Theranos founder Elizabeth Holmes remains the US's most fascinating fraudster Once a symbol of tech's promise, Holmes was brought down by her false claims about a blood-testing device. Now gripping new film You Can See Everything explores her baffling character.",
+      "status": "pending",
+      "firstSeenAt": 1792062676.3209662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3n04gy12r91o",
+      "provider": "BBC",
+      "title": "Man Utd a circus after Martinez comments - Keane Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+      "status": "pending",
+      "firstSeenAt": 1792062676.3219702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792062676.477267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792062676.4775536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/two-ships-ablaze-romanian-black-sea-sailors-missing/107272674",
+      "provider": "ABC News Australia",
+      "title": "Sailors missing as two ships set ablaze in Romanian Black Sea",
+      "status": "pending",
+      "firstSeenAt": 1792062676.9832103,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
