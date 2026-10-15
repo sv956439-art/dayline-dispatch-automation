@@ -44674,9 +44674,41 @@
       "status": "pending",
       "firstSeenAt": 1792053927.961109,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dz1me439no",
+      "provider": "BBC",
+      "title": "UK economy sees surprise growth in August ahead of Healey's first Budget The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+      "status": "pending",
+      "firstSeenAt": 1792055661.052796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792055661.1857197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792055661.1858191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/bernice-barry-the-names-of-a-hare-historical-novel-prize-winner/107257848",
+      "provider": "ABC News Australia",
+      "title": "Story of young woman accused of witchcraft wins $100,000 book award",
+      "status": "pending",
+      "firstSeenAt": 1792055661.5128968,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
