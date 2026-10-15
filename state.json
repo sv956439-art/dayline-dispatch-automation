@@ -43794,9 +43794,41 @@
       "status": "pending",
       "firstSeenAt": 1792026932.7765946,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjx448vxkgo",
+      "provider": "BBC",
+      "title": "Anthropic revenue surges to $16.8bn ahead of stock market listing It comes as the AI giant is expected to make a blockbuster stock market debut by the end of the year.",
+      "status": "pending",
+      "firstSeenAt": 1792028638.4622989,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792028638.8217874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/federal-politics-defence-spent-millions-unapproved-weapons/107269162",
+      "provider": "ABC News Australia",
+      "title": "Conroy targets 'rot' in Defence after $15.6m bungle unmasked",
+      "status": "pending",
+      "firstSeenAt": 1792028639.0499048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/yass-council-residents-facing-possible-76-rate-rise/107268632",
+      "provider": "ABC News Australia",
+      "title": "Yass Valley Council residents facing possible 76pc rate rise",
+      "status": "pending",
+      "firstSeenAt": 1792028639.051218,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
