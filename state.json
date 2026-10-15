@@ -45002,9 +45002,105 @@
       "status": "pending",
       "firstSeenAt": 1792068336.9986753,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy7ldzl7j4po",
+      "provider": "BBC",
+      "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault. 29 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1792070665.5279558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rmyk8kkwl2o",
+      "provider": "BBC",
+      "title": "'Utter contempt' for human life shown in deadly arson attack Kim English and Philip English and their children, 12-year-old Callum and nine-year-old Jayden, died in the house fire.",
+      "status": "pending",
+      "firstSeenAt": 1792070665.528961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60merk2je80o",
+      "provider": "BBC",
+      "title": "BBC News channel launches on YouTube for viewers in UK and US The move forms part of the BBC's wider strategy to reach digitally-native new and younger audiences.",
+      "status": "pending",
+      "firstSeenAt": 1792070665.529671,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cjg47v34rl49o",
+      "provider": "BBC",
+      "title": "McKibbin one off lead in Delhi with McIlroy in contention",
+      "status": "pending",
+      "firstSeenAt": 1792070665.63881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqdjv9872xg3o",
+      "provider": "BBC",
+      "title": "Spain bids for Rugby World Cup with Nou Camp final",
+      "status": "pending",
+      "firstSeenAt": 1792070665.6388502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/crlykvelleego",
+      "provider": "BBC",
+      "title": "England include red-ball game in India tour as Ashes prep",
+      "status": "pending",
+      "firstSeenAt": 1792070665.638918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cw4g1k471gd7o",
+      "provider": "BBC",
+      "title": "Crawley signs Kent extension after losing England deal",
+      "status": "pending",
+      "firstSeenAt": 1792070665.639582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/vienna-austria-dog-owners-dilute-pet-urine-trees",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792070666.0564885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/victoria-crosses-awarded-royal-marines-display-portsmouth",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792070666.0568776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/jeffrey-donaldson-sentenced-to-15-years-for-child-sexual-offences",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792070666.056921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/second-world-war-grenades-texas-estate-sale",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792070666.057023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/yemen-stockpile-supplies-houthis-advance-taiz",
+      "provider": "The Guardian",
+      "title": "‘We expect war to reach the city soon’: Yemenis stockpile as Houthis advance on Taiz",
+      "status": "pending",
+      "firstSeenAt": 1792070666.0573354,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
