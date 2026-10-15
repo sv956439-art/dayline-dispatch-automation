@@ -45362,9 +45362,65 @@
       "status": "pending",
       "firstSeenAt": 1792080561.7653334,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx29j10gnd3o",
+      "provider": "BBC",
+      "title": "Investigation launched after male body found in County Cork The body, which has not been identified, was discovered in Ballyellis, Mallow, at about 13:30 local time on Thursday.",
+      "status": "pending",
+      "firstSeenAt": 1792082358.9501963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly0g2r4k3po",
+      "provider": "BBC",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "status": "pending",
+      "firstSeenAt": 1792082358.9502172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l4kvqggd0o",
+      "provider": "BBC",
+      "title": "Government may support 'crucial' Heathrow link",
+      "status": "pending",
+      "firstSeenAt": 1792082359.009076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792082359.106026,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/pensioner-pleads-guilty-to-raping-woman-drugged-by-husband",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792082359.1060426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/trump-cancels-livestream-execution-fort-hood/107273194",
+      "provider": "ABC News Australia",
+      "title": "Donald Trump calls off planned live stream of firing squad execution",
+      "status": "pending",
+      "firstSeenAt": 1792082359.37603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/russell-brand-rape-trial-continues-court-shown-photos-from-1999/107272908",
+      "provider": "ABC News Australia",
+      "title": "Court shown photos of Russell Brand shirtless in hotel before alleged rape",
+      "status": "pending",
+      "firstSeenAt": 1792082359.3761425,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
