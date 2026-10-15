@@ -44346,9 +44346,113 @@
       "status": "pending",
       "firstSeenAt": 1792045052.934683,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cked326llddgo",
+      "provider": "BBC",
+      "title": "At least 18 pupils and teacher killed after school roof collapses in Pakistan",
+      "status": "pending",
+      "firstSeenAt": 1792047865.7668388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx30e8dqmnzgo",
+      "provider": "BBC",
+      "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
+      "status": "pending",
+      "firstSeenAt": 1792047865.7674289,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw99z1gjvjvno",
+      "provider": "BBC",
+      "title": "Long delays as stretch of M60 closed during police incident",
+      "status": "pending",
+      "firstSeenAt": 1792047865.850802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crlykngyjg85o",
+      "provider": "BBC",
+      "title": "Visually impaired man at ease flying a plane",
+      "status": "pending",
+      "firstSeenAt": 1792047865.8508332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrky24n7mldo",
+      "provider": "BBC",
+      "title": "YouTube campervan couple reach Malaysia",
+      "status": "pending",
+      "firstSeenAt": 1792047865.8508594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y4380rvdgno",
+      "provider": "BBC",
+      "title": "'Drastic measure' to stop tourists paddling in river",
+      "status": "pending",
+      "firstSeenAt": 1792047865.8508844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792047866.0795512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/elizabeth-struhs-inquest-child-safety-doctors-mother-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792047866.079616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792047866.0800605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+      "provider": "The Guardian",
+      "title": "‘I am still a child, it cannot be good to be married’: how drought forces Afghan families to sell girls as brides",
+      "status": "pending",
+      "firstSeenAt": 1792047866.0806577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/chinese-aluminium-windows-doors-imports-trade-remedies-report/107264752",
+      "provider": "ABC News Australia",
+      "title": "China 'dumped' aluminium windows and doors in Australia, report finds",
+      "status": "pending",
+      "firstSeenAt": 1792047866.4337912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/la-bola-negra-netflix-australia-review/107261238",
+      "provider": "ABC News Australia",
+      "title": "This Spanish poet's work was banned and censored. Now it's an epic movie",
+      "status": "pending",
+      "firstSeenAt": 1792047866.4339507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/melbourne-star-ferris-wheel-reopens-after-covid-closure/107269632",
+      "provider": "ABC News Australia",
+      "title": "Once Melbourne's 'laughing stock', Star ferris wheel turns again",
+      "status": "pending",
+      "firstSeenAt": 1792047866.4345489,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
