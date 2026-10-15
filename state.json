@@ -44290,9 +44290,65 @@
       "status": "pending",
       "firstSeenAt": 1792043679.9550242,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9kgj41jgm5go",
+      "provider": "BBC",
+      "title": "Southgate does not see return to Premier League management",
+      "status": "pending",
+      "firstSeenAt": 1792045052.0970607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792045052.315382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792045052.3154166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792045052.3154378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/manosphere-masculinity-parenting-tips-advice-questions-answered/107263422",
+      "provider": "ABC News Australia",
+      "title": "Manosphere experts warn if we lecture boys 'we lose them'",
+      "status": "pending",
+      "firstSeenAt": 1792045052.9339242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/politics-newsletter-jonno-duniam-one-nation-coalition-greens/107261102",
+      "provider": "ABC News Australia",
+      "title": "Coalition and Greens unite to be a thorn in the government’s side",
+      "status": "pending",
+      "firstSeenAt": 1792045052.9346442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/nsw-ex-nsw-police-officer-matthew-stephen-cameron-guilty/107271078",
+      "provider": "ABC News Australia",
+      "title": "Ex-police officer found guilty of sexually touching colleagues without consent",
+      "status": "pending",
+      "firstSeenAt": 1792045052.934683,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
