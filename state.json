@@ -45818,9 +45818,41 @@
       "status": "pending",
       "firstSeenAt": 1792093212.395798,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3gr85dl78y4o",
+      "provider": "BBC",
+      "title": "Weekly quiz: Which star is lending his voice to Gromit?",
+      "status": "pending",
+      "firstSeenAt": 1792094706.1799374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxj47vwrdno",
+      "provider": "BBC",
+      "title": "53 mins ago Marvel fans to meet Welsh villain - complete with Cardiff accent Lauren Morais will play villain Lisa Molinari in the new Disney+ superhero series VisionQuest. 53 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792094706.1803205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792094706.3068085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/gianni-infantino-apologises-to-fifa-council-for-world-cup-furore/107273510",
+      "provider": "ABC News Australia",
+      "title": "Infantino apologises for World Cup furore but leaves critics unhappy",
+      "status": "pending",
+      "firstSeenAt": 1792094706.9281578,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
