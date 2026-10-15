@@ -45154,9 +45154,49 @@
       "status": "pending",
       "firstSeenAt": 1792072956.0196292,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx23qlnj27qo",
+      "provider": "BBC",
+      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad The planned execution of Nidal Hasan is scheduled to be the first military execution in more than 60 years. Just now US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792074810.990975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9q20djz4wno",
+      "provider": "BBC",
+      "title": "GTA 6: All you need to know about Rockstar's blockbuster game Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+      "status": "pending",
+      "firstSeenAt": 1792074810.9922004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmd7qgj3zwero",
+      "provider": "BBC",
+      "title": "Infantino apologises to Fifa Council - but told he's still not fit to lead President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
+      "status": "pending",
+      "firstSeenAt": 1792074810.992557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g12jxd3wxo",
+      "provider": "BBC",
+      "title": "1 hr ago Amazon's studios plan should be approved - council Amazon has used the studios since 2022 and bought it in 2024 but now wants to revamp the site. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792074811.082564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/15/labour-councils-greens-zionism-racism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792074811.218207,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
