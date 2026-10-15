@@ -45314,9 +45314,57 @@
       "status": "pending",
       "firstSeenAt": 1792078769.2579653,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792080561.7647812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/15/london-architecture-estates-saved-from-demolition-social-housing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792080561.7648053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792080561.7648268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792080561.7649095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/susan-collins-corruption-allegations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792080561.7649477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream",
+      "provider": "The Guardian",
+      "title": "Trump cancels plan to livestream execution following global condemnation",
+      "status": "pending",
+      "firstSeenAt": 1792080561.7653334,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
