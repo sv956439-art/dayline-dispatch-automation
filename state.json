@@ -44082,9 +44082,33 @@
       "status": "pending",
       "firstSeenAt": 1792038723.4030092,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/proposed-trust-tax-changes-divide-advocates-and-experts/107266574",
+      "provider": "ABC News Australia",
+      "title": "Expert says trust use to avoid tax 'bordering on a joke'",
+      "status": "pending",
+      "firstSeenAt": 1792040437.2100298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/nt-labor-backflips-to-support-data-centre-moratorium-ai/107269286",
+      "provider": "ABC News Australia",
+      "title": "NT Labor backflips, supports 'hyper-scale' data centre moratorium",
+      "status": "pending",
+      "firstSeenAt": 1792040437.210705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/giriwa-may-sentenced-northland-shopping-centre-car-rampage/107270260",
+      "provider": "ABC News Australia",
+      "title": "Footage shows panic as 4WD tears through Melbourne shopping centre",
+      "status": "pending",
+      "firstSeenAt": 1792040437.2107353,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
