@@ -44730,9 +44730,73 @@
       "status": "pending",
       "firstSeenAt": 1792057510.6877532,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260810-what-insects-can-teach-us-about-decision-making",
+      "provider": "BBC",
+      "title": "How thinking like an insect could help you make better decisions From democratic honeybees to self-aware flies, there's plenty we can learn from creepy crawlies about how to make better decisions.",
+      "status": "pending",
+      "firstSeenAt": 1792059206.4729874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260727-the-spotted-lanternfly-is-ravaging-the-eastern-us-pet-dogs-are-coming-to-the-rescue",
+      "provider": "BBC",
+      "title": "The spotted lanternfly is ravaging the eastern US. Pet dogs are coming to the rescue Spotted lanternflies are an invasive pest and a multimillion-dollar disaster for the US's wine industry. Meet the good boys and girls of the resistance.",
+      "status": "pending",
+      "firstSeenAt": 1792059206.473021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20211126-why-insects-are-more-sensitive-than-they-seem",
+      "provider": "BBC",
+      "title": "The insects that get depressed For decades, the idea that insects have feelings was considered a heretical joke – but as the evidence piles up, scientists are rapidly reconsidering.",
+      "status": "pending",
+      "firstSeenAt": 1792059206.4730496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn73zk1zgvvo",
+      "provider": "BBC",
+      "title": "Popular Nigerian gospel singer Toluwanisings dies His family has appealed to fans to remember his wife, children and family in prayer during this period of mourning.",
+      "status": "pending",
+      "firstSeenAt": 1792059206.4732363,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9qz0e345v1o",
+      "provider": "BBC",
+      "title": "Irish police social media accounts breached by hackers",
+      "status": "pending",
+      "firstSeenAt": 1792059206.4732594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792059206.8615232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/us-officials-ad-campaign-south-africa-afrikaners-refugees",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792059206.862092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/15/you-be-the-judge-should-my-husband-stop-looking-up-menus",
+      "provider": "The Guardian",
+      "title": "You be the judge: should my husband stop looking up menus before we eat out?",
+      "status": "pending",
+      "firstSeenAt": 1792059206.8625813,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
