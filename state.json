@@ -45482,9 +45482,73 @@
       "status": "pending",
       "firstSeenAt": 1792084307.5354552,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqj9k38x7x1xo",
+      "provider": "BBC",
+      "title": "Red card, suspension and a conspiracy - what's up with Vini Jr?",
+      "status": "pending",
+      "firstSeenAt": 1792085917.3410325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry83dyddv6no",
+      "provider": "BBC",
+      "title": "Trans people should use hospital spaces according to biological sex, NHS England says New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex. 1 hr ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792085917.3412693,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20241029-why-the-illegal-trade-of-tarantula-spiders-is-booming",
+      "provider": "BBC",
+      "title": "'People collect spiders like Pokemon': Why the illegal tarantula trade is booming The global arachnid trade is threatening the world's most famous spider species. And it's primarily driven by souvenir collectors.",
+      "status": "pending",
+      "firstSeenAt": 1792085917.341398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20211004-why-so-many-of-us-are-casual-spider-murderers",
+      "provider": "BBC",
+      "title": "The reasons we casually kill spiders It's officially arachnicide season in the Northern Hemisphere. Millions of spiders have appeared in our homes – and they'd better be on their guard. Why do we kill them so casually?",
+      "status": "pending",
+      "firstSeenAt": 1792085917.341427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cr15jn74l0pdo",
+      "provider": "BBC",
+      "title": "Brazilian Camara to join Haas for F1 debut in 2027",
+      "status": "pending",
+      "firstSeenAt": 1792085917.341834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crlykvgx1wvxo",
+      "provider": "BBC",
+      "title": "Nigel Farage defends Reform's vetting after councillors filmed making racist comments The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists. 1 hr ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1792085917.421665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/danette-colbert-sentence-life-prison-telemundo-reporter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792085917.6979096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race",
+      "provider": "The Guardian",
+      "title": "‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground",
+      "status": "pending",
+      "firstSeenAt": 1792085917.6982033,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
