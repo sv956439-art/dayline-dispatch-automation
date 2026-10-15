@@ -46050,9 +46050,17 @@
       "status": "pending",
       "firstSeenAt": 1792101326.603258,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/fuel-supply-stopped-birchip-unleaded-diesel-shortage/107268688",
+      "provider": "ABC News Australia",
+      "title": "Town's only unleaded service station cuts fuel supply over rising costs",
+      "status": "pending",
+      "firstSeenAt": 1792102533.8126354,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
