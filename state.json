@@ -45194,9 +45194,65 @@
       "status": "pending",
       "firstSeenAt": 1792074811.218207,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn0658znkxpo",
+      "provider": "BBC",
+      "title": "Arrests made after couple and two children killed in arson attack",
+      "status": "pending",
+      "firstSeenAt": 1792076819.2988756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792076819.6429152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/lisa-nandy-culture-secretary-intervene-sky-purchase-itv",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792076819.643486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/15/health-department-civil-servant-adhd-clinics-clampdown",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792076819.6435168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/lindsay-clancy-trial-juror-interview",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792076819.643585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/trump-cancels-livestream-execution-fort-knox/107273194",
+      "provider": "ABC News Australia",
+      "title": "Donald Trump calls off planned live stream of firing squad execution",
+      "status": "pending",
+      "firstSeenAt": 1792076820.4294944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
+      "provider": "ABC News Australia",
+      "title": "Zelenskyy 'done' with US-made energy ceasefire that Moscow ignored",
+      "status": "pending",
+      "firstSeenAt": 1792076820.4297519,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
