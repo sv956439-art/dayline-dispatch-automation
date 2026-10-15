@@ -44530,9 +44530,57 @@
       "status": "pending",
       "firstSeenAt": 1792050127.006185,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792051995.603948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/woman-charged-after-allegedly-poisoning-colleagues-curry-lunch-with-snail-pellets-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792051995.6041512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748",
+      "provider": "ABC News Australia",
+      "title": "Indonesia to deploy dry ice to reduce thick haze from fires",
+      "status": "pending",
+      "firstSeenAt": 1792051996.2251549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/mountain-pride-egg-farm-investigation/107270090",
+      "provider": "ABC News Australia",
+      "title": "Chickens euthanased in NSW egg farm 'emergency situation'",
+      "status": "pending",
+      "firstSeenAt": 1792051996.2256904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/act-scraps-plan-for-ankle-bracelets-on-domestic-violence-perps/107271378",
+      "provider": "ABC News Australia",
+      "title": "Cost forces ACT government to scrap pledge to tag DV perpetrators",
+      "status": "pending",
+      "firstSeenAt": 1792051996.225713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/lance-obrien-guilty-sentence-vilia-sutherland-kaarimba/107271228",
+      "provider": "ABC News Australia",
+      "title": "Man to serve more than five years over fatal crash",
+      "status": "pending",
+      "firstSeenAt": 1792051996.2257335,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
