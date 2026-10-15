@@ -46058,9 +46058,33 @@
       "status": "pending",
       "firstSeenAt": 1792102533.8126354,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/surgery-separates-fijian-conjoined-twins-in-saudi-arabia/107271702",
+      "provider": "ABC News Australia",
+      "title": "Complex surgery successfully separates Fijian conjoined twins",
+      "status": "pending",
+      "firstSeenAt": 1792104212.8429317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/mums-hike-for-mental-wellbeing/107233952",
+      "provider": "ABC News Australia",
+      "title": "Mums get back to nature for mental and physical reboot",
+      "status": "pending",
+      "firstSeenAt": 1792104212.8439472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/vic-royal-childrens-hospital-funding/107273706",
+      "provider": "ABC News Australia",
+      "title": "Melbourne's Royal Children's Hospital handed $66m funding boost",
+      "status": "pending",
+      "firstSeenAt": 1792104212.8439946,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
