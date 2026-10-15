@@ -44450,9 +44450,89 @@
       "status": "pending",
       "firstSeenAt": 1792047866.4345489,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c30rl1q1j200o",
+      "provider": "BBC",
+      "title": "UK threatens to ban Eritreans over migrant return policy The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\". 11 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792050126.4386733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c6ly0q00gj5do",
+      "provider": "BBC",
+      "title": "The F1 pit stop that helped save lives",
+      "status": "pending",
+      "firstSeenAt": 1792050126.4397833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxq6n9lqjqrpo",
+      "provider": "BBC",
+      "title": "Huge data centre and solar farm plans revealed",
+      "status": "pending",
+      "firstSeenAt": 1792050126.4821966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjy56e4v6exzo",
+      "provider": "BBC",
+      "title": "Little tern colony has worst breeding season",
+      "status": "pending",
+      "firstSeenAt": 1792050126.4822152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/anika-wells-opens-door-to-big-tech-lawsuits/107271002",
+      "provider": "ABC News Australia",
+      "title": "Anika Wells opens door to lawsuits against big tech companies",
+      "status": "pending",
+      "firstSeenAt": 1792050127.0052724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/students-and-teacher-dead-in-pakistan-roof-collapse/107272300",
+      "provider": "ABC News Australia",
+      "title": "17 students and a teacher dead after school roof collapse in Pakistan",
+      "status": "pending",
+      "firstSeenAt": 1792050127.0054026,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/accc-take-action-against-kmart-over-nail-glue/107270918",
+      "provider": "ABC News Australia",
+      "title": "ACCC takes Kmart to court over nail glue burns and button battery safety",
+      "status": "pending",
+      "firstSeenAt": 1792050127.005512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/auckland-fc-sam-cosgrove-reporter-exchange-over-suspension/107272002",
+      "provider": "ABC News Australia",
+      "title": "A-League star in fiery exchange with reporter over suspension loophole",
+      "status": "pending",
+      "firstSeenAt": 1792050127.0060987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/rugby-league-world-cup-live-australia-vs-new-zealand/107260392",
+      "provider": "ABC News Australia",
+      "title": "World Cup begins as Origin stars make historic starts for Kiwis",
+      "status": "pending",
+      "firstSeenAt": 1792050127.0061514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/student-doctor-faces-wa-court-accused-of-speeding-in-mclaren/107270202",
+      "provider": "ABC News Australia",
+      "title": "Student doctor pleads not guilty to speeding luxury car down WA highway",
+      "status": "pending",
+      "firstSeenAt": 1792050127.006185,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
