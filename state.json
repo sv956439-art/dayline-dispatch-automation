@@ -45850,9 +45850,41 @@
       "status": "pending",
       "firstSeenAt": 1792094706.9281578,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
+      "provider": "The Guardian",
+      "title": "France drops opposition to UK being included in ‘Made in Europe’ legislation",
+      "status": "pending",
+      "firstSeenAt": 1792096234.7500055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/federal-politics-live-blog-greens/107273514",
+      "provider": "ABC News Australia",
+      "title": "Liberal senator says it's 'appropriate' for Steele-John to take leave from parliament",
+      "status": "pending",
+      "firstSeenAt": 1792096235.4768746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/rugby-league-world-cup-australia-new-zealand/107272788",
+      "provider": "ABC News Australia",
+      "title": "World Cup opener a reminder of Test rugby league's glory days",
+      "status": "pending",
+      "firstSeenAt": 1792096235.477019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/rural-womens-day-marks-50-events/107255180",
+      "provider": "ABC News Australia",
+      "title": "The woman helping 5,000 others find female friends in rural communities",
+      "status": "pending",
+      "firstSeenAt": 1792096235.4774957,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
