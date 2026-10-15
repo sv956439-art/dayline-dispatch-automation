@@ -43946,9 +43946,49 @@
       "status": "pending",
       "firstSeenAt": 1792033507.3359334,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckqxne2evqreo",
+      "provider": "BBC",
+      "title": "White House defends new press secretary amid questions about her legal credentials Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "status": "pending",
+      "firstSeenAt": 1792035171.078814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm158555dq1go",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792035171.13505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv0ld0lgw4x8o",
+      "provider": "BBC",
+      "title": "9 King Charles and Queen Camilla to officially open Senedd as poet dropped from ceremony",
+      "status": "pending",
+      "firstSeenAt": 1792035171.1354191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792035171.889064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/greens-jordon-steele-john-alleged-inappropriate-comments/107270620",
+      "provider": "ABC News Australia",
+      "title": "Greens senator takes leave amid allegations of comments towards women",
+      "status": "pending",
+      "firstSeenAt": 1792035172.5316195,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
