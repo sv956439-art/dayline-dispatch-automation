@@ -46146,9 +46146,65 @@
       "status": "pending",
       "firstSeenAt": 1792106690.3785164,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8zxlyg965r3o",
+      "provider": "BBC",
+      "title": "Are student protests being manipulated ahead of France's presidential election? France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too. 21 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792108014.7588854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx237n1y9lzo",
+      "provider": "BBC",
+      "title": "India's 'cockroach' protesters set to return despite police crackdown The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders. 16 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1792108014.7589228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpqgepejr2ro",
+      "provider": "BBC",
+      "title": "Porn showing choking or incest to be banned from early November, government says The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin 18 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1792108014.758979,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g17j1ej95o",
+      "provider": "BBC",
+      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+      "status": "pending",
+      "firstSeenAt": 1792108014.8558419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jzgl7zz9po",
+      "provider": "BBC",
+      "title": "3 hrs ago London housing project wins top architecture award Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792108014.8564477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/afl-carlton-blues-lachie-cowan-suspended-two-matches/107273686",
+      "provider": "ABC News Australia",
+      "title": "Cowan handed AFL suspension following illicit substance investigation",
+      "status": "pending",
+      "firstSeenAt": 1792108015.5598707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/burketown-airstrip-floods-upgrade-government-funding/107265290",
+      "provider": "ABC News Australia",
+      "title": "Mayor says flood-prone airstrip may need to move despite $27m upgrade",
+      "status": "pending",
+      "firstSeenAt": 1792108015.5610263,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
