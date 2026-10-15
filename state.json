@@ -44706,9 +44706,33 @@
       "status": "pending",
       "firstSeenAt": 1792055661.5128968,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
+      "provider": "BBC",
+      "title": "Anthropic wants to protect its AI - from you Some of tech's most powerful leaders are treating AI like it's alive. It could have profound consequences for our world and your own personal safety.",
+      "status": "pending",
+      "firstSeenAt": 1792057510.12987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck98z93jrv7ro",
+      "provider": "BBC",
+      "title": "48 mins ago Outlander star criticises data centre plan for nuclear site Sam Heughan questions the economic benefits of a massive development proposed at Chapelcross near Annan. 48 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792057510.216565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/queensland-patient-deaths-review/107272588",
+      "provider": "ABC News Australia",
+      "title": "Review ordered after man dies waiting two hours for ambulance",
+      "status": "pending",
+      "firstSeenAt": 1792057510.6877532,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
