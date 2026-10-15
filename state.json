@@ -46106,9 +46106,49 @@
       "status": "pending",
       "firstSeenAt": 1792105373.9826083,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c36lk280kd1o",
+      "provider": "BBC",
+      "title": "I find it quite demoralising in store - why I do all my shopping online After Primark announced plans for home delivery, we hear from women who never go into clothes stores. 8 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792106689.7042034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr6240q1w136o",
+      "provider": "BBC",
+      "title": "Living with a stink? Technology might help Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "status": "pending",
+      "firstSeenAt": 1792106689.704474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/children-among-dead-at-school-shooting-in-oregon/107274068",
+      "provider": "ABC News Australia",
+      "title": "Children among dead in shooting at an elementary school in Oregon",
+      "status": "pending",
+      "firstSeenAt": 1792106690.3780012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/sandalwood-producers-waiting-on-wa-government-major-rule-change/107260258",
+      "provider": "ABC News Australia",
+      "title": "Sandalwood industry left in limbo as WA government mulls new rules",
+      "status": "pending",
+      "firstSeenAt": 1792106690.378495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/poultry-order-lifted-victoria-bird-flu-eggs-chickens/107272550",
+      "provider": "ABC News Australia",
+      "title": "Chickens allowed free range again in Victoria as bird flu lockdown ends",
+      "status": "pending",
+      "firstSeenAt": 1792106690.3785164,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
