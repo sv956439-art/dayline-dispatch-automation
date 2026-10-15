@@ -44794,9 +44794,25 @@
       "status": "pending",
       "firstSeenAt": 1792059206.8625813,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792061028.7334118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
+      "provider": "The Guardian",
+      "title": "Pakistan school roof collapse leaves at least 27 students dead",
+      "status": "pending",
+      "firstSeenAt": 1792061028.733809,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
