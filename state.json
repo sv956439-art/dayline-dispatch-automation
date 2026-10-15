@@ -45882,9 +45882,65 @@
       "status": "pending",
       "firstSeenAt": 1792096235.4774957,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792098001.7295704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792098001.7298634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
+      "provider": "The Guardian",
+      "title": "Troy Aikman addresses reported rift with Joe Buck and says he is leaving ESPN",
+      "status": "pending",
+      "firstSeenAt": 1792098001.7301397,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/asx-markets-business-news-live-updates-oct-16/107271360",
+      "provider": "ABC News Australia",
+      "title": "ASX set to rise as Aussie dollar hits three-month low",
+      "status": "pending",
+      "firstSeenAt": 1792098002.155748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/sydney-parklea-correctional-centre-returns-to-public-hands/107262110",
+      "provider": "ABC News Australia",
+      "title": "Sydney prison criticised for 'putrid' conditions returns to public hands",
+      "status": "pending",
+      "firstSeenAt": 1792098002.1561422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/whyalla-steelworks-redundancies-take-effect-amid-administration/107269150",
+      "provider": "ABC News Australia",
+      "title": "Steelworkers down tools for last time amid first wave of redundancies",
+      "status": "pending",
+      "firstSeenAt": 1792098002.1561685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/car-insurance-premiums-well-above-cpi-asic/107267070",
+      "provider": "ABC News Australia",
+      "title": "Car insurance premiums increase almost 60pc in four years",
+      "status": "pending",
+      "firstSeenAt": 1792098002.156193,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
