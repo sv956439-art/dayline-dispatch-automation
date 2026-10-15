@@ -45986,9 +45986,73 @@
       "status": "pending",
       "firstSeenAt": 1792099595.0262856,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn06xr871g1o",
+      "provider": "BBC",
+      "title": "Professor shares 'most important thing to do' when someone is grieving Dr Lesel Dawson, co-director of Good Grief Weston, says avoiding grief is not a good way to cope. 17 hrs ago Bristol",
+      "status": "pending",
+      "firstSeenAt": 1792101325.2896667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm243lrgdpgo",
+      "provider": "BBC",
+      "title": "Severe drought declared in parts of southern England Reservoir levels continue to drop after a hot summer and less September rain than normal. 2 hrs ago England",
+      "status": "pending",
+      "firstSeenAt": 1792101325.2897882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c95ynkv552yvo",
+      "provider": "BBC",
+      "title": "Kane poised to extend Bayern stay - Friday's gossip Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees a new contract with Real Madrid, Liverpool are leading the race for Bournemouth's Alex Scott, plus more. 2 hrs ago Premier League",
+      "status": "pending",
+      "firstSeenAt": 1792101325.289988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792101325.852341,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/underquoting-victoria-new-laws/107259380",
+      "provider": "ABC News Australia",
+      "title": "Interests of homebuyers and sellers collide in fight for transparency",
+      "status": "pending",
+      "firstSeenAt": 1792101326.6031582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/tasmania-s-jewels-mark-wnbl-debut-with-win-over-geelong/107273604",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's Jewels enter WNBL with debut win over Geelong",
+      "status": "pending",
+      "firstSeenAt": 1792101326.6031947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/specialist-team-to-reassemble-travolta-plane/107265340",
+      "provider": "ABC News Australia",
+      "title": "Reassembling John Travolta's jet down to nuts and 5,400 bolts stage",
+      "status": "pending",
+      "firstSeenAt": 1792101326.6032264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204",
+      "provider": "ABC News Australia",
+      "title": "Five killed in Houthi strike on presidential palace in Aden",
+      "status": "pending",
+      "firstSeenAt": 1792101326.603258,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
