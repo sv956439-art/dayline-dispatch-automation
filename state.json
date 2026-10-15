@@ -44866,9 +44866,49 @@
       "status": "pending",
       "firstSeenAt": 1792064390.0859563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0rk7r3x69o",
+      "provider": "BBC",
+      "title": "Fire-ravaged reserve still records 50C temperatures",
+      "status": "pending",
+      "firstSeenAt": 1792066075.3408806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398x7j1lrwo",
+      "provider": "BBC",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "status": "pending",
+      "firstSeenAt": 1792066075.3409145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792066075.434982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/first-thing-us-betrayal-over-starlink-undermines-ukrainian-defense",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792066075.4350114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/northern-ireland-jeffrey-donaldson-jailed-child-sex-offences/107272790",
+      "provider": "ABC News Australia",
+      "title": "Northern Ireland politician jailed for child sex offences",
+      "status": "pending",
+      "firstSeenAt": 1792066075.7084527,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
