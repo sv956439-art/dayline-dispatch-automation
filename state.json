@@ -45546,9 +45546,89 @@
       "status": "pending",
       "firstSeenAt": 1792085917.6982033,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cm75p3eqg2rpo",
+      "provider": "BBC",
+      "title": "GB win two golds at Track World Championships",
+      "status": "pending",
+      "firstSeenAt": 1792087535.0389664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c8r4yzp2443go",
+      "provider": "BBC",
+      "title": "Serb player banned to 2050 for tennis match-fixing",
+      "status": "pending",
+      "firstSeenAt": 1792087535.0391276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c68xzgynj1n1o",
+      "provider": "BBC",
+      "title": "Canada expect landmark victory over Red Roses - Apps",
+      "status": "pending",
+      "firstSeenAt": 1792087535.0392942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792087535.3088582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792087535.308955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/michelle-grattan-private-health-rebate-cuts/107269846",
+      "provider": "ABC News Australia",
+      "title": "Private health rebate changes causing Labor 'a lot of pain in electorates'",
+      "status": "pending",
+      "firstSeenAt": 1792087535.7452366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/chinese-spy-linked-in-recruitment-retired-police/107269242",
+      "provider": "ABC News Australia",
+      "title": "Alleged Chinese spy posed as recruiter for 'retired Australian police'",
+      "status": "pending",
+      "firstSeenAt": 1792087535.7453635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/what-is-the-boomcession-is-australia-experiencing-one/107259770",
+      "provider": "ABC News Australia",
+      "title": "America's 'boomcession' and what it means for Australia",
+      "status": "pending",
+      "firstSeenAt": 1792087535.7454178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/family-court-data-sent-to-india-in-historical-breach/107261666",
+      "provider": "ABC News Australia",
+      "title": "Family court dismissed concerns over India data breach a decade ago",
+      "status": "pending",
+      "firstSeenAt": 1792087535.7454352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/brethren-church-bruce-hales-neo-nazis-federal-election-inquiry/107269380",
+      "provider": "ABC News Australia",
+      "title": "Brethren Church hauled back before inquiry over election interference claim",
+      "status": "pending",
+      "firstSeenAt": 1792087535.7454596,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
