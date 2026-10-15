@@ -43890,9 +43890,65 @@
       "status": "pending",
       "firstSeenAt": 1792031893.2163966,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1exgw3j115o",
+      "provider": "BBC",
+      "title": "North Korea and China open new bridge after 12-year delay The opening of the road bridge, set to become a major trade route, was announced by Chinese state media.",
+      "status": "pending",
+      "firstSeenAt": 1792033506.71491,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvwy761zyx7eo",
+      "provider": "BBC",
+      "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+      "status": "pending",
+      "firstSeenAt": 1792033506.785605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792033506.9194515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792033506.9197328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/nobel-peace-prize-winner-navi-pillay-interview/107255774",
+      "provider": "ABC News Australia",
+      "title": "Nobel Peace Prize winner Navi Pillay reflects on career forged under apartheid",
+      "status": "pending",
+      "firstSeenAt": 1792033507.3347752,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/perth-woman-charged-after-allegedly-poisoning-colleagues-curry/107270322",
+      "provider": "ABC News Australia",
+      "title": "Woman charged after allegedly poisoning colleague's curry with snail pellets",
+      "status": "pending",
+      "firstSeenAt": 1792033507.3349843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/maternity-services/107270056",
+      "provider": "ABC News Australia",
+      "title": "New law to force Darwin Private Hospital operators to provide maternity care",
+      "status": "pending",
+      "firstSeenAt": 1792033507.3359334,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
