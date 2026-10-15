@@ -44906,9 +44906,105 @@
       "status": "pending",
       "firstSeenAt": 1792066075.7084527,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crwyd7vq3xw1o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792068336.2802143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9dzqv6gz2no",
+      "provider": "BBC",
+      "title": "Future of UK's largest telescope to be 'explored' In July, it was announced that funding for Jodrell Bank Observatory would be axed from March 2028. 23 mins ago Manchester",
+      "status": "pending",
+      "firstSeenAt": 1792068336.280328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm0j4kjvevo",
+      "provider": "BBC",
+      "title": "US teenager appears in court over alleged Hindu temple shooting plot Alexandros Paporakis, 19, has appeared in court near Chicago after his arrest at the weekend.",
+      "status": "pending",
+      "firstSeenAt": 1792068336.2806652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c85ynx5vwq35o",
+      "provider": "BBC",
+      "title": "Kartal wins again as impressive comeback continues",
+      "status": "pending",
+      "firstSeenAt": 1792068336.2811987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5y83v1eldo",
+      "provider": "BBC",
+      "title": "Man killed by tiger at UK wildlife park died from 'multiple injuries' William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears. 2 hrs ago South Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1792068336.3527396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3r5pv5j1g1o",
+      "provider": "BBC",
+      "title": "7 Actor Imran Khan ordered to leave India after participating in protest",
+      "status": "pending",
+      "firstSeenAt": 1792068336.3528242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3r5p11d23no",
+      "provider": "BBC",
+      "title": "Getafe make offer to sign free agent Sancho Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer. 59 mins ago Football",
+      "status": "pending",
+      "firstSeenAt": 1792068336.3529336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cky930y71xj2o",
+      "provider": "BBC",
+      "title": "South Africa call on 'Aussie agitator' Breetzke South Africa respond to their heavy first-Test defeat by Australia by calling up “Aussie agitator” Matthew Breetzke. 56 mins ago Cricket",
+      "status": "pending",
+      "firstSeenAt": 1792068336.3529587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/15/severe-drought-declared-six-areas-england-public-water-supplies-threat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792068336.660265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/man-arrested-chicago-suburb-plot-mass-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792068336.6603885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/15/donald-trump-bbc-lawsuit-public-broadcaster-truth-power-noels-house-party",
+      "provider": "The Guardian",
+      "title": "double quotation mark Trump should fear the BBC – these are the people who made Noel’s House Party",
+      "status": "pending",
+      "firstSeenAt": 1792068336.6607172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/kangaroos-vs-kiwis-quick-hits-rugby-league-world-cup/107272576",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
+      "status": "pending",
+      "firstSeenAt": 1792068336.9986753,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
