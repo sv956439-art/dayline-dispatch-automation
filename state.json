@@ -43706,9 +43706,49 @@
       "status": "pending",
       "firstSeenAt": 1792021773.0615466,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792024930.9523532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/explain-it-to-me-quickly-kiwibank-sheep-mascot-buck-social-media",
+      "provider": "The Guardian",
+      "title": "‘Like, really, really shocked’: why are so many people riffing on this sheep’s sex appeal?",
+      "status": "pending",
+      "firstSeenAt": 1792024930.9534385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/vic-covid-business-grants-corruption-report/107268816",
+      "provider": "ABC News Australia",
+      "title": "COVID-19 grants paid to 9,000 ineligible Victorian businesses",
+      "status": "pending",
+      "firstSeenAt": 1792024931.965413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/australians-call-for-stronger-warnings-on-iron-infusion-risks/107264142",
+      "provider": "ABC News Australia",
+      "title": "Calls for stronger warnings on iron infusion risks",
+      "status": "pending",
+      "firstSeenAt": 1792024931.966598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/tas-premier-calls-on-school-to-reinstate-christmas-naming/107268614",
+      "provider": "ABC News Australia",
+      "title": "Premier's move to reinstate school 'Christmas' event labelled 'reprehensible'",
+      "status": "pending",
+      "firstSeenAt": 1792024931.9666703,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
