@@ -45754,9 +45754,73 @@
       "status": "pending",
       "firstSeenAt": 1792091604.9901636,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq8n513x523o",
+      "provider": "BBC",
+      "title": "Letters with 'suspicious substances' sent to US election offices A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "status": "pending",
+      "firstSeenAt": 1792093211.170887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/human-rights-urge-government-push-vietnam-hiep-tran/107271610",
+      "provider": "ABC News Australia",
+      "title": "Government urged to do more over Australian's arrest in Vietnam",
+      "status": "pending",
+      "firstSeenAt": 1792093212.3949406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/queensland-brisbane-sign-indigenous-arts-axing/107265238",
+      "provider": "ABC News Australia",
+      "title": "State government corporation axes Brisbane sign’s Indigenous makeover",
+      "status": "pending",
+      "firstSeenAt": 1792093212.3954651,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/queensland-weekend-weather/107270796",
+      "provider": "ABC News Australia",
+      "title": "Weekend storms and showers forecast for parts of Queensland",
+      "status": "pending",
+      "firstSeenAt": 1792093212.395496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/melbourne-hindu-maha-mandir-temple-proposed-cranbourne-melbourne/107222500",
+      "provider": "ABC News Australia",
+      "title": "Council opposes $209m Hindu temple in outer Melbourne green zone",
+      "status": "pending",
+      "firstSeenAt": 1792093212.3955264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/nsw-amazon-light-catch-fire-melted-lab-test/107270668",
+      "provider": "ABC News Australia",
+      "title": "Amazon removes ceiling light after it catches fire in safety test",
+      "status": "pending",
+      "firstSeenAt": 1792093212.3955567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/wallaroos-scotland-kaitlan-leaney-rugby-2029-world-cup/107271674",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos believe 'possibilities are endless' ahead of 2029 World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792093212.3956037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/kempsey-councillor-investigation-calls-for-noel-selby-resign/107230716",
+      "provider": "ABC News Australia",
+      "title": "Councillor told woman it was a 'pity' she wasn't bashed, investigator finds",
+      "status": "pending",
+      "firstSeenAt": 1792093212.395798,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
