@@ -44106,9 +44106,105 @@
       "status": "pending",
       "firstSeenAt": 1792040437.2107353,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574e228vlygo",
+      "provider": "BBC",
+      "title": "Hundreds of IDF investigations into killings without public outcome, BBC Verify finds BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm. 24 mins ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1792041907.5770843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792041907.967861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792041907.9682724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/15/chloe-moffat-suicide-parents-treasury-staff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792041907.968295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview",
+      "provider": "The Guardian",
+      "title": "‘Try to eat really well, 80% of the time’: nutrition expert says healthy eating is easier than you think",
+      "status": "pending",
+      "firstSeenAt": 1792041907.968777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/14/manchester-city-psg-champions-league-league-stage-match-report",
+      "provider": "The Guardian",
+      "title": "Quickfire Doué and Dembélé inspire PSG to thrilling win at Manchester City",
+      "status": "pending",
+      "firstSeenAt": 1792041907.9688883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/child-support-worker-guilty-assault-on-autistic-son/107270778",
+      "provider": "ABC News Australia",
+      "title": "Child support worker guilty of 'snap' assault on autistic son",
+      "status": "pending",
+      "firstSeenAt": 1792041908.6949172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/federal-politics-australian-citizen-among-30-unlawfully-detained/107270564",
+      "provider": "ABC News Australia",
+      "title": "Home Affairs 'unlawfully' jailed Australian citizen for 945 days",
+      "status": "pending",
+      "firstSeenAt": 1792041908.6949778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/fraudsters-avoid-jail-canberra-electrical-business-popes/107270168",
+      "provider": "ABC News Australia",
+      "title": "Fraudsters avoid time behind bars",
+      "status": "pending",
+      "firstSeenAt": 1792041908.6950176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/prince-of-wales-hospital-man-set-alight/107270258",
+      "provider": "ABC News Australia",
+      "title": "Patient recounts moment he was set on fire at Sydney hospital",
+      "status": "pending",
+      "firstSeenAt": 1792041908.695055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/hannah-louise-glover-pleads-guilty-to-murder-of-tara-morrison/107270612",
+      "provider": "ABC News Australia",
+      "title": "Woman admits stabbing murder mid-trial after prison confession",
+      "status": "pending",
+      "firstSeenAt": 1792041908.695091,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/legal-action-ferry-delay-kangaroo-island-tourism/107239830",
+      "provider": "ABC News Australia",
+      "title": "Ferry fight heads to court as Kangaroo Island shutdown confirmed",
+      "status": "pending",
+      "firstSeenAt": 1792041908.6951344,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
