@@ -44578,9 +44578,105 @@
       "status": "pending",
       "firstSeenAt": 1792051996.2257335,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwyrnwd9dw1o",
+      "provider": "BBC",
+      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "status": "pending",
+      "firstSeenAt": 1792053927.100374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qkgpp592yo",
+      "provider": "BBC",
+      "title": "Eight crew missing in tanker fire off Romania's coast Eight of 12 crew members are missing after a ship reported a fire and explosion in the Black Sea off Romania. 21 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792053927.100459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cm2kwy742nj5o",
+      "provider": "BBC",
+      "title": "From tear gas to just tears - rugby league's most passionate fans?",
+      "status": "pending",
+      "firstSeenAt": 1792053927.204066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c6vg0d4g051eo",
+      "provider": "BBC",
+      "title": "Weekly sports quiz: How much is the cheapest Fury v Joshua ticket?",
+      "status": "pending",
+      "firstSeenAt": 1792053927.2043045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c64g1rny3e01o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792053927.2043235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw99zxvyzj04o",
+      "provider": "BBC",
+      "title": "The Portuguese second-tier team hosting Sunderland in Europe",
+      "status": "pending",
+      "firstSeenAt": 1792053927.204386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmwy4nyv3rqzo",
+      "provider": "BBC",
+      "title": "The Andorran club making history with a Pochettino in the team",
+      "status": "pending",
+      "firstSeenAt": 1792053927.2044168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c65ynq3k2394o",
+      "provider": "BBC",
+      "title": "How are the Irish provinces shaping up for Europe?",
+      "status": "pending",
+      "firstSeenAt": 1792053927.2044437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6e9l2k5gkm0o",
+      "provider": "BBC",
+      "title": "Meet the Wales back-row trio starring for Leicester",
+      "status": "pending",
+      "firstSeenAt": 1792053927.204541,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792053927.3535595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/marilyn-wallman-skull-used-as-ashtray-at-pub-inquest-hears/107271522",
+      "provider": "ABC News Australia",
+      "title": "Inquest hears missing schoolgirl's skull used as ashtray at pub",
+      "status": "pending",
+      "firstSeenAt": 1792053927.9610806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/guilty-plea-over-katherine-train-derailment-crash/107269322",
+      "provider": "ABC News Australia",
+      "title": "Man faces court after 'frightening, costly' truck collision with train",
+      "status": "pending",
+      "firstSeenAt": 1792053927.961109,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
