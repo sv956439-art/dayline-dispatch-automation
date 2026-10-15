@@ -45626,9 +45626,57 @@
       "status": "pending",
       "firstSeenAt": 1792087535.7454596,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw77p152jz64o",
+      "provider": "BBC",
+      "title": "Martinez apologises for outburst and fined by Man Utd Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
+      "status": "pending",
+      "firstSeenAt": 1792089501.840911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9j3dvezpdz0o",
+      "provider": "BBC",
+      "title": "'I paid thousands to a company for jobs that never came' Apurv Patel is one of several people who say they were promised job opportunities that did not appear. 1 hr ago London",
+      "status": "pending",
+      "firstSeenAt": 1792089501.9532232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
+      "provider": "BBC",
+      "title": "Banks say Healey is planning Budget tax raid on their profits Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month. 1 hr ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792089501.953294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792089502.159087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/amy-goodman-democracy-now-documentary/107270660",
+      "provider": "ABC News Australia",
+      "title": "Journalist Amy Goodman won't take 'no comment' for an answer",
+      "status": "pending",
+      "firstSeenAt": 1792089502.9544995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/victoria-public-school-payment-advice-concern/107272410",
+      "provider": "ABC News Australia",
+      "title": "Victorian schools told to remind parents education is free",
+      "status": "pending",
+      "firstSeenAt": 1792089502.9545488,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
