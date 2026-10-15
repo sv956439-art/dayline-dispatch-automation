@@ -45418,9 +45418,73 @@
       "status": "pending",
       "firstSeenAt": 1792082359.3761425,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwyrn1l74zro",
+      "provider": "BBC",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York \"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges. 18 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1792084307.167013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98zpk30pd5o",
+      "provider": "BBC",
+      "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar The nature of the investigation remains unclear but various US media reports suggest it is linked to her US citizenship. 11 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792084307.1672604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kgqr9n8082o",
+      "provider": "BBC",
+      "title": "£15m for zero-emission testing at Belfast Harbour",
+      "status": "pending",
+      "firstSeenAt": 1792084307.21689,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792084307.5347838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792084307.53499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792084307.5352645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792084307.5353203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/eritrea-repressive-secretive-uk-asylum-returns",
+      "provider": "The Guardian",
+      "title": "Repressive, secretive and highly militarised: Eritrea, the east African country facing UK visa ban threat",
+      "status": "pending",
+      "firstSeenAt": 1792084307.5354552,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
