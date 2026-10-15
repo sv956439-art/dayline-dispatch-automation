@@ -44202,9 +44202,97 @@
       "status": "pending",
       "firstSeenAt": 1792041908.6951344,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrly8wwg3x3o",
+      "provider": "BBC",
+      "title": "13 mins ago Salem, the three-legged cat, is celebrated in books Salem, a much-loved town cat that died this year, will be remembered in stories by local authors. 13 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792043679.1893156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme3x9w70lw7o",
+      "provider": "BBC",
+      "title": "24 mins ago Late singer 'always there', says The Wanted bandmate Max George is taking the stage with The Wanted 2.0 after the death of their bandmate Tom Parker. 24 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792043679.1893573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/beau-lamarre-condon-asked-friend-to-dispose-of-phone-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792043679.5581155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792043679.5581322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792043679.55819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained",
+      "provider": "The Guardian",
+      "title": "What is Starshield, SpaceX’s military-grade Starlink system, and how will its restriction affect Ukraine?",
+      "status": "pending",
+      "firstSeenAt": 1792043679.5587182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/israel-gadi-eisenkot-profile-netanyahu-election",
+      "provider": "The Guardian",
+      "title": "Unpolished, anti-Bibi, but evasive on peace: who is the Israeli opposition candidate Gadi Eisenkot?",
+      "status": "pending",
+      "firstSeenAt": 1792043679.5587382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/recording-device-navy-ship/107271586",
+      "provider": "ABC News Australia",
+      "title": "Person of interest identified after recording device incident on navy ship",
+      "status": "pending",
+      "firstSeenAt": 1792043679.9541016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/bird-flu-macquarie-island-southern-elephant-seal-kelp-gull/107271424",
+      "provider": "ABC News Australia",
+      "title": "Bird flu detected in seal, bird samples taken from remote southern island",
+      "status": "pending",
+      "firstSeenAt": 1792043679.9549725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/coronial-inquest-to-be-held-on-death-of-hawke-children/107250030",
+      "provider": "ABC News Australia",
+      "title": "Grandmother wins fight for inquest into murders of children by their mother",
+      "status": "pending",
+      "firstSeenAt": 1792043679.955007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/ashton-chungaloo-charged-murder-teen-girl-nt/107271322",
+      "provider": "ABC News Australia",
+      "title": "Man charged with 16yo girl's murder in remote NT community",
+      "status": "pending",
+      "firstSeenAt": 1792043679.9550242,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
