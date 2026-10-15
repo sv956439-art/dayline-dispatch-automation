@@ -44026,9 +44026,65 @@
       "status": "pending",
       "firstSeenAt": 1792037074.1770115,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3gnep35gko",
+      "provider": "BBC",
+      "title": "Australian woman charged with lacing colleague's curry with snail poison The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
+      "status": "pending",
+      "firstSeenAt": 1792038722.8381488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792038723.0362988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792038723.036373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792038723.0363836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/15/rotterdam-poems-bin-lorries-granted-cultural-status",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792038723.0364273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/fatal-crash-mitchell-highway-near-wellington-nsw/107268792",
+      "provider": "ABC News Australia",
+      "title": "MP calls for upgrades on 'patchwork' highway after fatal crash",
+      "status": "pending",
+      "firstSeenAt": 1792038723.4029844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/knights-crash-alleged-dangerous-driving-timeline/107252820",
+      "provider": "ABC News Australia",
+      "title": "Police allege P-plater drove dangerously for 15 minutes before Knights crash",
+      "status": "pending",
+      "firstSeenAt": 1792038723.4030092,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
