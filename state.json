@@ -43746,9 +43746,57 @@
       "status": "pending",
       "firstSeenAt": 1792024931.9666703,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69wzpw0x9jeo",
+      "provider": "BBC",
+      "title": "Fewer than 800 Scots have received weight loss jabs on NHS, BBC finds Only five of Scotland's 14 health boards currently offer the treatment specifically for weight loss, it has emerged.",
+      "status": "pending",
+      "firstSeenAt": 1792026931.9646168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/unemployment-rate-september-2026-australia/107268870",
+      "provider": "ABC News Australia",
+      "title": "Unemployment rate remains at 4.7pc in September",
+      "status": "pending",
+      "firstSeenAt": 1792026932.7756257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/bellinger-river-rsl-bid-to-re-engage-isolated-veterans/107204130",
+      "provider": "ABC News Australia",
+      "title": "RSL going bush to connect with veterans from Afghanistan",
+      "status": "pending",
+      "firstSeenAt": 1792026932.7764943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/wallaroos-scotland-rugby-test-maya-stewart-sydney/107269436",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos lose star but regain experienced campaigner for Scotland Test",
+      "status": "pending",
+      "firstSeenAt": 1792026932.776539,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/vptas-regional-victoria-government-healthcare-access/107263272",
+      "provider": "ABC News Australia",
+      "title": "Patients struggling with rising costs and long waits for healthcare refunds",
+      "status": "pending",
+      "firstSeenAt": 1792026932.7765672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-15/brisbane-city-council-floats-citycat-licensed-bar-plan/107268580",
+      "provider": "ABC News Australia",
+      "title": "Brisbane City Council floats trialling licensed bars on CityCats",
+      "status": "pending",
+      "firstSeenAt": 1792026932.7765946,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
