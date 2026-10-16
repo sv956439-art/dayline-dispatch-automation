@@ -46954,9 +46954,89 @@
       "status": "pending",
       "firstSeenAt": 1792137627.7718232,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20251219-menengic-turkeys-ancient-caffeine-free-coffee-alternative",
+      "provider": "BBC",
+      "title": "Turkey's caffeine-free coffee alternative For as long as anyone can remember, residents in Gaziantep have been harvesting wild pistachios to make a unique, nutty brew that doubles as a home remedy.",
+      "status": "pending",
+      "firstSeenAt": 1792139277.9471183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260128-irelands-mysterious-non-boozy-football-drink",
+      "provider": "BBC",
+      "title": "The mysterious football drink taking Ireland by storm Once a local secret in Ireland’s north-west, Football Special is now a non-alcoholic hit across the country - and only two people know its recipe.",
+      "status": "pending",
+      "firstSeenAt": 1792139277.9471364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20250529-eight-rare-juices-you-can-only-try-in-the-amazon",
+      "provider": "BBC",
+      "title": "Eight rare juices you can only try in the Amazon Far from smoothie bars and powdered sachets, these wild Amazonian juices are pulped just hours after picking – making them rich in flavour and cultural meaning.",
+      "status": "pending",
+      "firstSeenAt": 1792139277.9471512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cmpwgq52y22zo",
+      "provider": "BBC",
+      "title": "Kartal upsets Svitolina to reach Wuhan semi-finals",
+      "status": "pending",
+      "firstSeenAt": 1792139277.9475296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq70p6dwpx07o",
+      "provider": "BBC",
+      "title": "47 mins ago Mural celebrates life of The Fall frontman in home city The large ceramic piece pays tribute to Mark E Smith, who was the founder of the influential band. 47 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792139277.996987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792139278.2381284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792139278.2381418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/nt-humpty-doo-hotel-for-sale-after-four-decades/107272090",
+      "provider": "ABC News Australia",
+      "title": "Bush pub that inspired Slim Dusty's 'Humpty Doo Waltz' hits the market",
+      "status": "pending",
+      "firstSeenAt": 1792139278.6971977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/marilyn-wallman-inquest/107276546",
+      "provider": "ABC News Australia",
+      "title": "Marilyn Wallman inquest suspended after emergence of new witness",
+      "status": "pending",
+      "firstSeenAt": 1792139278.6975484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/teen-reported-for-assault-after-glenelg-beach-fight/107277376",
+      "provider": "ABC News Australia",
+      "title": "Teen reported for assault after Glenelg beach fight, police say",
+      "status": "pending",
+      "firstSeenAt": 1792139278.697584,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
