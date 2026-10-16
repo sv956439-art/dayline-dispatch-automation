@@ -48354,9 +48354,65 @@
       "status": "pending",
       "firstSeenAt": 1792189084.0563765,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792190850.47387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/bend-oregon-shooting-victims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792190850.4740388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/nsw-dulwich-hill-armed-man-lockdown-search-shotgun/107278846",
+      "provider": "ABC News Australia",
+      "title": "Hunt continues for man with shotgun who sparked lockdown in Sydney's inner west",
+      "status": "pending",
+      "firstSeenAt": 1792190854.96191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/kindergarten-staff-jailed-over-lead-poisoning-in-china/107278660",
+      "provider": "ABC News Australia",
+      "title": "Kindergarten owner and staff jailed for poisoning 200 children in China",
+      "status": "pending",
+      "firstSeenAt": 1792190854.9620519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/cane-toad-taxidermy-crocodile-teeth-skull-at-darwin-markets/107274914",
+      "provider": "ABC News Australia",
+      "title": "Darwin accountant trades tax for cane toad taxidermy",
+      "status": "pending",
+      "firstSeenAt": 1792190854.9627838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/snowy-scheme-cottages-adaminaby-museum/104405552",
+      "provider": "ABC News Australia",
+      "title": "Restored cottage gives insight into life on Snowy Scheme",
+      "status": "pending",
+      "firstSeenAt": 1792190854.9628565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/man-pleads-guilty-to-liesel-tesch-threats/107278796",
+      "provider": "ABC News Australia",
+      "title": "Man pleads guilty to threatening Central Coast MP",
+      "status": "pending",
+      "firstSeenAt": 1792190854.962902,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
