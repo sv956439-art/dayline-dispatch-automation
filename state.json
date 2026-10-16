@@ -48226,9 +48226,25 @@
       "status": "pending",
       "firstSeenAt": 1792183048.9886785,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e3xnjlz12do",
+      "provider": "BBC",
+      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+      "status": "pending",
+      "firstSeenAt": 1792184665.9817626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/bystander-parent-oregon-school-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792184666.450302,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
