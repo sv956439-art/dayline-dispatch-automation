@@ -48170,9 +48170,65 @@
       "status": "pending",
       "firstSeenAt": 1792181454.676799,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792183048.5863788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/sat-nsw-regs-flying-fox-deaths-impact-on-forests/107269636",
+      "provider": "ABC News Australia",
+      "title": "Widespread flying fox deaths a 'disaster' for forest ecosystems",
+      "status": "pending",
+      "firstSeenAt": 1792183048.988521,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/sydneys-sculpture-by-the-sea-celebrates-30-years/107277040",
+      "provider": "ABC News Australia",
+      "title": "The hearts hoping to create lasting impact at Sculpture by the Sea",
+      "status": "pending",
+      "firstSeenAt": 1792183048.9885566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/hq-kingswood-keeps-family-memories-alive/107232676",
+      "provider": "ABC News Australia",
+      "title": "Grandfather's HQ Kingswood keeps family memories alive",
+      "status": "pending",
+      "firstSeenAt": 1792183048.988588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/melbourne-defeats-richmond-in-aflw-pride-round/107278264",
+      "provider": "ABC News Australia",
+      "title": "Dees dismantle Tigers to seal AFLW finals series berth",
+      "status": "pending",
+      "firstSeenAt": 1792183048.988619,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/copper-thefts-perth-roads-cost-taxpayers-millions/107276214",
+      "provider": "ABC News Australia",
+      "title": "Copper thefts leave Perth roads in darkness and cost taxpayers millions",
+      "status": "pending",
+      "firstSeenAt": 1792183048.988649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/adelaide-womans-dying-wish-granted-visa/107273868",
+      "provider": "ABC News Australia",
+      "title": "After four attempts, woman's dying wish to see brother finally granted",
+      "status": "pending",
+      "firstSeenAt": 1792183048.9886785,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
