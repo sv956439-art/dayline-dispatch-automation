@@ -47538,9 +47538,81 @@
       "status": "pending",
       "firstSeenAt": 1792162166.8739848,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyvxgxjnpqo",
+      "provider": "BBC",
+      "title": "Man jailed for sex with dead woman Stephen Sellars, 62, was interrupted by the woman's son and nephew, a court hears. 31 mins ago Lincolnshire",
+      "status": "pending",
+      "firstSeenAt": 1792163661.1501231,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dz64nzyn1o",
+      "provider": "BBC",
+      "title": "Man sentenced to 10 years for manslaughter of brother's girlfriend",
+      "status": "pending",
+      "firstSeenAt": 1792163661.1506739,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8rzpl1ldkdo",
+      "provider": "BBC",
+      "title": "Norwegian teen 'hitman' detained for UK murder plot",
+      "status": "pending",
+      "firstSeenAt": 1792163661.2272503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.co.uk/future/article/20261015-sharks-washed-up-one-after-another-after-another-why-orcas-are-hunting-great-whites",
+      "provider": "BBC",
+      "title": "Orcas v great white sharks: The brutal battle between the ocean's top predators When scientists first found dead great whites near South Africa, the marks of mutilation pointed to the same culprit.",
+      "status": "pending",
+      "firstSeenAt": 1792163661.2274225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly0n4nzq5qo",
+      "provider": "BBC",
+      "title": "Catherine Princess of Wales says nature can help children's emotional growth The Princess of Wales launches a project encouraging a greater emphasis on children learning from nature. 3 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792163661.2276094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwj0lmr8gne5o",
+      "provider": "BBC",
+      "title": "Police investigating antisemitic Nazi chants from Hajduk Split fans Footage shows Hajduk supporters chanting outside the stadium about Auschwitz and Adolf Hitler before their Conference League match against Ajax. 51 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792163661.2278392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c50me81r74n7o",
+      "provider": "BBC",
+      "title": "NRL gap a factor in France's heavy defeat by Samoa, says boss France boss Laurent Frayssinous suggests the gap between the NRL and Super League was a huge factor in their 78-4 defeat by Samoa at the Men's Rugby League World Cup. 3 hrs ago Rugby League",
+      "status": "pending",
+      "firstSeenAt": 1792163661.2279222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/16/devon-cornwall-police-settle-lawsuit-male-officers-abuse-claims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792163661.645444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/16/uk-risk-role-european-space-industry-satellite-contract-airbus-boss",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792163661.6454914,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
