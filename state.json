@@ -48450,9 +48450,57 @@
       "status": "pending",
       "firstSeenAt": 1792192070.7741687,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgdn3d656vo",
+      "provider": "BBC",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children. 21 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792193380.0598185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c674pwkv3e87o",
+      "provider": "BBC",
+      "title": "Gloucester and holders Bordeaux draw Champions Cup thriller",
+      "status": "pending",
+      "firstSeenAt": 1792193380.1930735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck7vprzqmr56o",
+      "provider": "BBC",
+      "title": "Bellingham agrees new Real deal - Saturday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792193380.1931162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqdjvxl49gx3o",
+      "provider": "BBC",
+      "title": "Jaminet stars as Toulon beat Edinburgh in Challenge Cup",
+      "status": "pending",
+      "firstSeenAt": 1792193380.1935806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c678p44dge89o",
+      "provider": "BBC",
+      "title": "Four-try Dragons beat Perpignan - but without bonus",
+      "status": "pending",
+      "firstSeenAt": 1792193380.1936269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/alice-springs-masters-games-wild-weather/107276138",
+      "provider": "ABC News Australia",
+      "title": "Hail, fallen trees and blackouts couldn't stop Alice Springs Masters Games",
+      "status": "pending",
+      "firstSeenAt": 1792193380.5713775,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
