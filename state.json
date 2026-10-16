@@ -46746,9 +46746,57 @@
       "status": "pending",
       "firstSeenAt": 1792131242.4630442,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmde8l07569no",
+      "provider": "BBC",
+      "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
+      "status": "pending",
+      "firstSeenAt": 1792133692.7633526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448",
+      "provider": "ABC News Australia",
+      "title": "Senior Brethren had 'brief' meeting with far-right figures during election",
+      "status": "pending",
+      "firstSeenAt": 1792133694.059734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/bonza-airlines-owner-pleads-guilty-fraud-charges-us/107277450",
+      "provider": "ABC News Australia",
+      "title": "Bonza owner pleads guilty to $500 million fraud",
+      "status": "pending",
+      "firstSeenAt": 1792133694.0606227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/pokies-harm-minimisation-eric-abetz-tasmania/107276790",
+      "provider": "ABC News Australia",
+      "title": "Gambling reforms defended amid criticism of 'cowardly' outcome",
+      "status": "pending",
+      "firstSeenAt": 1792133694.0606697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/png-chiefs-to-go-ahead-with-logo-launch-after-court-decision/107277002",
+      "provider": "ABC News Australia",
+      "title": "PNG Chiefs to go ahead with NRL logo launch after court decision",
+      "status": "pending",
+      "firstSeenAt": 1792133694.0606985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/calls-for-expanded-forensic-testing/107244818",
+      "provider": "ABC News Australia",
+      "title": "Family forced to drive three hours for 'vital' testing after daughter's rape",
+      "status": "pending",
+      "firstSeenAt": 1792133694.0607276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
