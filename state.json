@@ -46394,9 +46394,17 @@
       "status": "pending",
       "firstSeenAt": 1792117969.9277408,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/emmalisa-ferry-blocking-channel-highway/107275676",
+      "provider": "ABC News Australia",
+      "title": "Ferry blocks major Tasmanian highway after transportation fail",
+      "status": "pending",
+      "firstSeenAt": 1792119709.5534623,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
