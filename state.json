@@ -46482,9 +46482,81 @@
       "status": "pending",
       "firstSeenAt": 1792123191.9872456,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyvwyp9dgro",
+      "provider": "BBC",
+      "title": "'Onion cartel' in Philippines fined $28m for price shock Onions were worth more than the daily minimum wage at the height of the price surge in 2022.",
+      "status": "pending",
+      "firstSeenAt": 1792124708.9000404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792124710.056051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792124710.0561845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792124710.0564528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792124710.0566096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792124710.056633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/jamaica-slavery-reparations-petition-heard-uk-privy-council-march-2027-king-charles",
+      "provider": "The Guardian",
+      "title": "Jamaica says slavery reparations petition to be heard by UK privy council in March 2027",
+      "status": "pending",
+      "firstSeenAt": 1792124710.056915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/plane-crashes-in-scone-nsw/107276198",
+      "provider": "ABC News Australia",
+      "title": "Emergency services rush to NSW racecourse after light plane crash",
+      "status": "pending",
+      "firstSeenAt": 1792124710.3071856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/outer-western-sydney-alliance-public-transport-calls/107263618",
+      "provider": "ABC News Australia",
+      "title": "Outer Sydney residents face higher car costs due to public transport scarcity",
+      "status": "pending",
+      "firstSeenAt": 1792124710.307522,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
