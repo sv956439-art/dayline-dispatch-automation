@@ -46402,9 +46402,49 @@
       "status": "pending",
       "firstSeenAt": 1792119709.5534623,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy435gd311o",
+      "provider": "BBC",
+      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case The body was recovered from a large blue plastic storage container - locally called a drum. 20 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1792121329.2182705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/weapons-manufacturer-jeff-bacon-one-nation-opposes-bondi-gun-laws-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792121329.76009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/melbourne-antony-catalano-assault-court/107275508",
+      "provider": "ABC News Australia",
+      "title": "Media mogul Antony Catalano denies strangling wife in assault court case",
+      "status": "pending",
+      "firstSeenAt": 1792121330.314792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/mallala-historical-church-bell-targeted-by-metal-thieves/107274178",
+      "provider": "ABC News Australia",
+      "title": "Church bell stolen from Mallala community amid wave of metal thefts",
+      "status": "pending",
+      "firstSeenAt": 1792121330.3148198,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/carlton-player-suspended-for-afl-off-season-drink-driving/107275464",
+      "provider": "ABC News Australia",
+      "title": "Carlton suspends defender over drink-driving charge",
+      "status": "pending",
+      "firstSeenAt": 1792121330.314845,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
