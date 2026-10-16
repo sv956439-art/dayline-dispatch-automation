@@ -48138,9 +48138,41 @@
       "status": "pending",
       "firstSeenAt": 1792180496.9865298,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/jillaroos-samoa-rugby-league-world-cup/107277782",
+      "provider": "ABC News Australia",
+      "title": "Jillaroos lived up to their end of the bargain, but fans need to follow",
+      "status": "pending",
+      "firstSeenAt": 1792181454.6766546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/old-vintage-melbourne-captures-classic-dining-institutions/107184506",
+      "provider": "ABC News Australia",
+      "title": "From kitsch decor to extinct chains, new book revisits classic eateries",
+      "status": "pending",
+      "firstSeenAt": 1792181454.6767066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/fire-ants-reinfest-untreated-organic-farms/107274380",
+      "provider": "ABC News Australia",
+      "title": "Invasive fire ants return to organic farms not treated for 14 months",
+      "status": "pending",
+      "firstSeenAt": 1792181454.6767542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/proteas-urged-wear-down-australias-bowlers-in-second-test/107278752",
+      "provider": "ABC News Australia",
+      "title": "Proteas urged to wear down Australia's bowling machines in second Test",
+      "status": "pending",
+      "firstSeenAt": 1792181454.676799,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
