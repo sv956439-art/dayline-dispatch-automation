@@ -46442,9 +46442,49 @@
       "status": "pending",
       "firstSeenAt": 1792121330.314845,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792123191.366636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/outer-western-sydney-alliance-public-trasport-calls/107263618",
+      "provider": "ABC News Australia",
+      "title": "Outer Sydney residents face higher car costs due to public transport scarcity",
+      "status": "pending",
+      "firstSeenAt": 1792123191.9871294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/liberals-contradict-canavan-on-eu-free-trade-deal-position/107275492",
+      "provider": "ABC News Australia",
+      "title": "Nationals say Liberals oppose EU trade deal, Liberals beg to differ",
+      "status": "pending",
+      "firstSeenAt": 1792123191.9871724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/3m-court-case-management-hearing/107268442",
+      "provider": "ABC News Australia",
+      "title": "3M lays out 'attack' on Commonwealth's $2 billion PFAS lawsuit",
+      "status": "pending",
+      "firstSeenAt": 1792123191.9872088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/sa-government-opens-independent-review-into-rah-corridor-death/107274604",
+      "provider": "ABC News Australia",
+      "title": "Family welcomes review into death of Adelaide woman left in hospital corridor",
+      "status": "pending",
+      "firstSeenAt": 1792123191.9872456,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
