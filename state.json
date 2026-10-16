@@ -46210,9 +46210,25 @@
       "status": "pending",
       "firstSeenAt": 1792108927.3715127,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg0dx2y1j5o",
+      "provider": "BBC",
+      "title": "Healey's 'tax raid on banks' and Brand 'topless monster' The chancellor's possible plan to tax banks and new evidence in Russell Brand's rape trial dominate Friday's papers. 20 mins ago The Papers",
+      "status": "pending",
+      "firstSeenAt": 1792110991.3237827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/jesse-baird-luke-davies-murder-trial-jury-visit-to-scene/107273984",
+      "provider": "ABC News Australia",
+      "title": "Jury in ex-police officer's double murder trial visits crime scene",
+      "status": "pending",
+      "firstSeenAt": 1792110991.9828289,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
