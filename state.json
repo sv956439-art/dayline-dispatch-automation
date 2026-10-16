@@ -46898,9 +46898,65 @@
       "status": "pending",
       "firstSeenAt": 1792135576.307226,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792137627.1147394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/elizabeth-struhs-child-protection-case-not-prioritised-because-of-high-workloads-inquest-hears-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792137627.1147723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/oct/15/council-housing-miracle-lion-green-road-croydon-riba-stirling-prize-best-new-building",
+      "provider": "The Guardian",
+      "title": "They asked for 80 homes – she gave them 157! Council-housing miracle named Britain’s best new building",
+      "status": "pending",
+      "firstSeenAt": 1792137627.1160276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/rugby-league-world-cup-live-australia-vs-fetu-samoa/107260412",
+      "provider": "ABC News Australia",
+      "title": "Jillaroos begin home World Cup against Fetu Samoa",
+      "status": "pending",
+      "firstSeenAt": 1792137627.7710512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/carnival-cruises-axes-half-of-australian-fleet/107276582",
+      "provider": "ABC News Australia",
+      "title": "Carnival Cruises axes half of Australian fleet",
+      "status": "pending",
+      "firstSeenAt": 1792137627.7716937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/margaret-hawke-port-hedland-murder-inquest-reaction/107272546",
+      "provider": "ABC News Australia",
+      "title": "Premier defends attorney general over delayed child murder inquest",
+      "status": "pending",
+      "firstSeenAt": 1792137627.7717662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/future-of-spirit-of-tasmania-i-ii-ferries-questioned/107276296",
+      "provider": "ABC News Australia",
+      "title": "Fate of current Spirit of Tasmania ferries unclear days before final voyages",
+      "status": "pending",
+      "firstSeenAt": 1792137627.7718232,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
