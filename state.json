@@ -46554,9 +46554,49 @@
       "status": "pending",
       "firstSeenAt": 1792124710.307522,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/oregon-silver-rail-elementary-school-shooting-what-we-know-so-far",
+      "provider": "The Guardian",
+      "title": "Oregon elementary school shooting: what we know so far",
+      "status": "pending",
+      "firstSeenAt": 1792126683.8875449,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/data-centre-water-usage-commitment-dalby-qld/107271160",
+      "provider": "ABC News Australia",
+      "title": "Proposed Dalby data centre to harvest rainwater from roof",
+      "status": "pending",
+      "firstSeenAt": 1792126684.2796724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/rba-governor-million-dollar-salary-annual-report-2026/107274072",
+      "provider": "ABC News Australia",
+      "title": "Reserve Bank governor paid $1.2 million as RBA workers fight real wage cuts",
+      "status": "pending",
+      "firstSeenAt": 1792126684.279722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/football-queensland-fee-backflip/107276500",
+      "provider": "ABC News Australia",
+      "title": "Football Queensland backflips on 2027 fee changes",
+      "status": "pending",
+      "firstSeenAt": 1792126684.2797685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/illegal-tobacco-trade-in-act-criticised-government-backpedals/107275342",
+      "provider": "ABC News Australia",
+      "title": "'National joke': ACT government criticised for illegal tobacco response",
+      "status": "pending",
+      "firstSeenAt": 1792126684.279815,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
