@@ -47402,9 +47402,41 @@
       "status": "pending",
       "firstSeenAt": 1792156322.972524,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyvxj49gpwo",
+      "provider": "BBC",
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "status": "pending",
+      "firstSeenAt": 1792158442.907885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g189leelno",
+      "provider": "BBC",
+      "title": "'I am telling you the truth' - Carrick on Martinez fallout Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
+      "status": "pending",
+      "firstSeenAt": 1792158442.9084294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792158443.1079843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
+      "provider": "The Guardian",
+      "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
+      "status": "pending",
+      "firstSeenAt": 1792158443.108505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
