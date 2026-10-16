@@ -46258,9 +46258,73 @@
       "status": "pending",
       "firstSeenAt": 1792113027.44719,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89zp48k4kzo",
+      "provider": "BBC",
+      "title": "Three children and a teacher killed by 16-year-old at Oregon primary school A teen assailant was pursued into the school by an armed community member, who shot him dead, said police. 6 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792114586.675957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6lyez88m1n2o",
+      "provider": "BBC",
+      "title": "Minus 17 to European dreams as Bournemouth fairytale continues It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game. 3 hrs ago Bournemouth",
+      "status": "pending",
+      "firstSeenAt": 1792114586.7387319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792114587.0022566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/indian-voting-changes-sparking-gen-z-anger/107274092",
+      "provider": "ABC News Australia",
+      "title": "Indian voting changes sparking gen Z anger on the streets",
+      "status": "pending",
+      "firstSeenAt": 1792114587.6437762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/ben-austin-cricket-death-coronial-directions-hearing/107274262",
+      "provider": "ABC News Australia",
+      "title": "Coroner probing teen's cricketing death will not recommend rule changes",
+      "status": "pending",
+      "firstSeenAt": 1792114587.6444678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/what-we-know-about-the-ilhan-omar-raid/107273744",
+      "provider": "ABC News Australia",
+      "title": "What we know about the investigation into Trump critic Ilhan Omar and the raid on her home",
+      "status": "pending",
+      "firstSeenAt": 1792114587.6444983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/calvin-gorsuch-denied-bail-2500-child-abuse-files/107273798",
+      "provider": "ABC News Australia",
+      "title": "Shop owner allegedly caught with 2,500 child abuse files, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792114587.6445189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/nsw-dulwich-hill-police-operation-sydney-inner-west/107274890",
+      "provider": "ABC News Australia",
+      "title": "Police operation underway in Sydney's inner west",
+      "status": "pending",
+      "firstSeenAt": 1792114587.6445668,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
