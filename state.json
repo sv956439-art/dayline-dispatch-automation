@@ -47250,9 +47250,41 @@
       "status": "pending",
       "firstSeenAt": 1792148527.5968993,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261015-the-trailblazing-erotic-art-of-lavinia-fontana",
+      "provider": "BBC",
+      "title": "The Renaissance woman who was the first female painter of erotic nudes Lavinia Fontana is considered the first female professional artist. Were her suggestive nudes a commercial choice, a rebellion against her father – or a clue to her inner life?",
+      "status": "pending",
+      "firstSeenAt": 1792150184.2005353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c809jg1gj9yo",
+      "provider": "BBC",
+      "title": "Why is Alberta voting to separate from Canada, and how likely is it to happen? The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum. 15 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792150184.2007596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792150184.33826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/16/gianni-infantino-fifa-peace-prize-scrap-politicians-donald-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792150184.3382733,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
