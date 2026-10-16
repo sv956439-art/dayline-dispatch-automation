@@ -47434,9 +47434,41 @@
       "status": "pending",
       "firstSeenAt": 1792158443.108505,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68xzg941x5vo",
+      "provider": "BBC",
+      "title": "What is behind the success of dark skies festival?",
+      "status": "pending",
+      "firstSeenAt": 1792160190.879309,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792160191.2842422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/utah-police-dog-injured-video",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792160191.2846437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/south-african-rugby-player-dies-day-before-game/107278364",
+      "provider": "ABC News Australia",
+      "title": "A rugby union player has died the day before championship competition begins",
+      "status": "pending",
+      "firstSeenAt": 1792160191.7096114,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
