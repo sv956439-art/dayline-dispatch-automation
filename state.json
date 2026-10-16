@@ -48498,9 +48498,17 @@
       "status": "pending",
       "firstSeenAt": 1792193380.5713775,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/wallabies-decision-next-year-for-nawaqanitawase/107278904",
+      "provider": "ABC News Australia",
+      "title": "'Decision next year': Nawaqanitawase keeps Wallabies options open",
+      "status": "pending",
+      "firstSeenAt": 1792194605.8242006,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
