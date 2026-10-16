@@ -47978,9 +47978,49 @@
       "status": "pending",
       "firstSeenAt": 1792175457.1740825,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792177487.4638712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/leon-black-civil-rape-lawsuit-dismissed-epstein",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792177487.4643366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/video/2026/oct/16/utah-police-dog-survives-injury-after-leaping-from-overpass-video",
+      "provider": "The Guardian",
+      "title": "Utah police dog survives injury after leaping from overpass – video",
+      "status": "pending",
+      "firstSeenAt": 1792177487.4646373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/katie-zacharia-let-go-white-house/107278730",
+      "provider": "ABC News Australia",
+      "title": "White House press secretary Katie Zacharia leaves after just days in role",
+      "status": "pending",
+      "firstSeenAt": 1792177488.2590594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/abc-5050-quiz/107273918",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Test your knowledge of Normal People, Bridgerton and a famous disease",
+      "status": "pending",
+      "firstSeenAt": 1792177488.2594712,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
