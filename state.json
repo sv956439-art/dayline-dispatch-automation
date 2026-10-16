@@ -48090,9 +48090,57 @@
       "status": "pending",
       "firstSeenAt": 1792179038.9762344,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz65g34wyd8o",
+      "provider": "BBC",
+      "title": "Trump denies limiting Ukraine access to Starlink network Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night. 20 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792180496.2199326,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cm4g1e65y3d0o",
+      "provider": "BBC",
+      "title": "Dubois and Wardley at career-heaviest for rematch",
+      "status": "pending",
+      "firstSeenAt": 1792180496.2842653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwy7l5e4376no",
+      "provider": "BBC",
+      "title": "Feel-good Koumas story something for Liverpool to smile about",
+      "status": "pending",
+      "firstSeenAt": 1792180496.2843065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmr4yn3qyw2go",
+      "provider": "BBC",
+      "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
+      "status": "pending",
+      "firstSeenAt": 1792180496.2845774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/major-lender-in-bathla-development-sells-debts/107269278",
+      "provider": "ABC News Australia",
+      "title": "Major lender in Bathla development sells debts",
+      "status": "pending",
+      "firstSeenAt": 1792180496.986132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/ipc-hearing-on-bowdens-silver-mine-concludes/107274218",
+      "provider": "ABC News Australia",
+      "title": "Mine owner convinced tiny town's lead poisoning concerns are unfounded",
+      "status": "pending",
+      "firstSeenAt": 1792180496.9865298,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
