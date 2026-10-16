@@ -46794,9 +46794,113 @@
       "status": "pending",
       "firstSeenAt": 1792133694.0607276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq33xd6j1dv5o",
+      "provider": "BBC",
+      "title": "2 hrs ago Police warn online grooming of children is 'getting easier' Online grooming is rising, with children as young as five targeted, prompting calls for reform. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792135575.4120724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6661978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/one-nation-birth-subsidy-victoria-abortion-laws-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6662998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6663187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6664138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/16/pornography-strangulation-incest-ban-uk-november",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6667104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6667275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+      "provider": "The Guardian",
+      "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
+      "status": "pending",
+      "firstSeenAt": 1792135575.6671498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/matthew-barnes-magnolia-farmer-estate-fraud/107273894",
+      "provider": "ABC News Australia",
+      "title": "Couple forged will to obtain dead man's $6.7m estate, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792135576.3066046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/four-people-killed-two-others-burnt-in-indonesian-wildfire-java/107277352",
+      "provider": "ABC News Australia",
+      "title": "Four dead and two others badly burnt in Indonesia wildfire",
+      "status": "pending",
+      "firstSeenAt": 1792135576.3066573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/fate-of-spirit-of-tasmania-i-and-ii-questioned/107276296",
+      "provider": "ABC News Australia",
+      "title": "Fate of current Spirit of Tasmania ferries unclear days before final voyages",
+      "status": "pending",
+      "firstSeenAt": 1792135576.3071148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/qld-elizabeth-struhs-inquiry-child-safety-witness/107276206",
+      "provider": "ABC News Australia",
+      "title": "Child safety 'shocked' Elizabeth Struhs's dad converted to sect before her death",
+      "status": "pending",
+      "firstSeenAt": 1792135576.307194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/wa-greens-jordon-steel-john-crisis-document/107276796",
+      "provider": "ABC News Australia",
+      "title": "WA Greens kept crisis comms document about Jordon Steele-John",
+      "status": "pending",
+      "firstSeenAt": 1792135576.307226,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
