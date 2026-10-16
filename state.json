@@ -47154,9 +47154,49 @@
       "status": "pending",
       "firstSeenAt": 1792145001.9074028,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj6j1klez88o",
+      "provider": "BBC",
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "status": "pending",
+      "firstSeenAt": 1792146758.6799104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7vp7612ym4o",
+      "provider": "BBC",
+      "title": "6 School's 'sibling ban' row leaves family in tears",
+      "status": "pending",
+      "firstSeenAt": 1792146758.6804314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c615jw414vypo",
+      "provider": "BBC",
+      "title": "'Not about me' - Arbeloa dismisses future questions Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend. 7 mins ago Fulham",
+      "status": "pending",
+      "firstSeenAt": 1792146758.6805382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792146759.2653496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792146759.265657,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
