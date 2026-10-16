@@ -46594,9 +46594,81 @@
       "status": "pending",
       "firstSeenAt": 1792126684.279815,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde8dpg8g0no",
+      "provider": "BBC",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week. 20 mins ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1792128078.0587592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x23qpzjklwo",
+      "provider": "BBC",
+      "title": "They fled Russia, but the West sent them back Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+      "status": "pending",
+      "firstSeenAt": 1792128078.059193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pq0rldzvvvo",
+      "provider": "BBC",
+      "title": "'The whole street was on fire': Inside the West Midlands wildfire disaster",
+      "status": "pending",
+      "firstSeenAt": 1792128078.1032481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792128078.427466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792128078.4276006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792128078.4277277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/pope-leo-lung-cancer-surgery-lobectomy",
+      "provider": "The Guardian",
+      "title": "Pope Leo lung cancer surgery: what kind of operation did he have and what happens next?",
+      "status": "pending",
+      "firstSeenAt": 1792128078.4279401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/qld-awlad-hossain-denied-bail/107276182",
+      "provider": "ABC News Australia",
+      "title": "Awlad Hossain denied bail in foreign bribery case surrounding wife's death",
+      "status": "pending",
+      "firstSeenAt": 1792128079.4790158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/vietnamese-chicken-meatballs-snowballs-recipe-of-the-year/107266474",
+      "provider": "ABC News Australia",
+      "title": "Rolling tender chicken meatballs in coconut takes them to another level",
+      "status": "pending",
+      "firstSeenAt": 1792128079.480124,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
