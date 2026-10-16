@@ -47082,9 +47082,33 @@
       "status": "pending",
       "firstSeenAt": 1792141324.815396,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261015-sharks-washed-up-one-after-another-after-another-why-orcas-are-hunting-great-whites",
+      "provider": "BBC",
+      "title": "'What the hell did this?': The orca brothers preying on great white sharks Great white sharks were first found dead – mutilated with their livers removed – off the coast of South Africa. Now, these tactics are seen around the world.",
+      "status": "pending",
+      "firstSeenAt": 1792143083.4918942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq073d9l0ly9o",
+      "provider": "BBC",
+      "title": "Chelsea's Reece James has surgery for knee issue",
+      "status": "pending",
+      "firstSeenAt": 1792143083.4933586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/dennis-mckenna-freedom-bid-rocked-by-fresh-allegation/107271048",
+      "provider": "ABC News Australia",
+      "title": "Freshly unearthed abuse claim ahead of notorious paedophile's prison release",
+      "status": "pending",
+      "firstSeenAt": 1792143084.2638133,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
