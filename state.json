@@ -48330,9 +48330,33 @@
       "status": "pending",
       "firstSeenAt": 1792187787.1876614,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/final-race-marks-end-sydney-wentworth-park-greyhound-track/107273820",
+      "provider": "ABC News Australia",
+      "title": "End of an area as 'Wenty' dogs holds final race after 94 years",
+      "status": "pending",
+      "firstSeenAt": 1792189084.0562747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/sunshine-coast-artist-brings-queer-joy-to-aflw-pride-round/107275926",
+      "provider": "ABC News Australia",
+      "title": "Tattoo artist brings queer joy to AFLW pride jumper",
+      "status": "pending",
+      "firstSeenAt": 1792189084.056331,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/clown-doctors-australia-aged-care-hospitals/107264674",
+      "provider": "ABC News Australia",
+      "title": "Clown doctors bring a smile to the sick, but not every joker can do it",
+      "status": "pending",
+      "firstSeenAt": 1792189084.0563765,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
