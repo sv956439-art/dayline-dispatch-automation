@@ -47866,9 +47866,89 @@
       "status": "pending",
       "firstSeenAt": 1792172109.2614975,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20250606-matcha-how-tourism-drained-a-japanese-town",
+      "provider": "BBC",
+      "title": "Has matcha madness gone too far? In Japan's historic matcha capital, demand for premium green tea is outpacing supply. As tourists scramble for tins, locals in Uji fear that tradition may be getting diluted.",
+      "status": "pending",
+      "firstSeenAt": 1792173722.961793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy4qnyjg4zo",
+      "provider": "BBC",
+      "title": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania The decision to move the rap mogul while he is serving out his 50-month sentence was made with 'safety and security in mind'.",
+      "status": "pending",
+      "firstSeenAt": 1792173722.961935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792173723.1790118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792173723.1790361,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/labor-government-struggles-in-senate-and-polls/107276864",
+      "provider": "ABC News Australia",
+      "title": "If the economic narrative doesn’t improve, things could get ugly for Labor",
+      "status": "pending",
+      "firstSeenAt": 1792173723.644627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/whalefall-book-and-movie-could-a-human-be-swallowed-by-a-whale/107275334",
+      "provider": "ABC News Australia",
+      "title": "Could a whale really swallow a human? A marine scientist says yes",
+      "status": "pending",
+      "firstSeenAt": 1792173723.6446753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/laura-tingle-trump-netanyahu-elections/107270666",
+      "provider": "ABC News Australia",
+      "title": "Trump, Netanyahu and the dangerous politics of staying in power",
+      "status": "pending",
+      "firstSeenAt": 1792173723.64472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/home-batteries-make-money-in-nsw-power-price-spike/107260880",
+      "provider": "ABC News Australia",
+      "title": "$2m payday for home battery owners as heatwave catches grid off guard",
+      "status": "pending",
+      "firstSeenAt": 1792173723.6447637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/aboriginal-controlled-rehabilitation-amid-australian-meth-crisis/107220668",
+      "provider": "ABC News Australia",
+      "title": "Hidden from view in bushland, one rehab centre is saving lives",
+      "status": "pending",
+      "firstSeenAt": 1792173723.6448069,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/the-trade-offs-australian-women-face-having-more-children/107239616",
+      "provider": "ABC News Australia",
+      "title": "As fertility rates fall, mums of three share joy and sacrifice of big families",
+      "status": "pending",
+      "firstSeenAt": 1792173723.644868,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
