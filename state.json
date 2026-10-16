@@ -47466,9 +47466,81 @@
       "status": "pending",
       "firstSeenAt": 1792160191.7096114,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65ynk7212vqo",
+      "provider": "BBC",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents. 18 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1253004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8ez4dkwwjpo",
+      "provider": "BBC",
+      "title": "Murder-accused stepfather made sex images of teen Nathan Owens denies murdering 18-year-old Carla Georgescu at her student accommodation. 2 hrs ago England",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1258092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qk8djj27po",
+      "provider": "BBC",
+      "title": "Wildlife park reopens after man killed by tiger Yorkshire Wildlife Park says the decision was made after 'engagement with the relevant authorities'. 2 hrs ago South Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1258383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw146ej00yn7o",
+      "provider": "BBC",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1263523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqdjvxynj2kyo",
+      "provider": "BBC",
+      "title": "Former Sale Shark lock Andrews dies at team hotel in La Rochelle Former Sale second row Hyron Andrews has died at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1268597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck20rpw78j4jo",
+      "provider": "BBC",
+      "title": "Son carries on missing parents' teaching legacy",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1986744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm20wne2g0vdo",
+      "provider": "BBC",
+      "title": "Crews adapt to tackle wildfire and flood 'extremes'",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1987016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj20vw53lnk9o",
+      "provider": "BBC",
+      "title": "Guest house partially washed away in flood goes up for sale",
+      "status": "pending",
+      "firstSeenAt": 1792162166.1987262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/violent-west-bank-clashes-during-olive-harvest/107278284",
+      "provider": "ABC News Australia",
+      "title": "Violent clashes involving slingshots during West Bank olive harvest",
+      "status": "pending",
+      "firstSeenAt": 1792162166.8739848,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
