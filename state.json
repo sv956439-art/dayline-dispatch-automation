@@ -47610,9 +47610,113 @@
       "status": "pending",
       "firstSeenAt": 1792163661.6454914,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9vgr61kml3mo",
+      "provider": "BBC",
+      "title": "Russian man linked to deadly London hospitals hack arrested The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+      "status": "pending",
+      "firstSeenAt": 1792165419.0149941,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr3wv4xd2l6yo",
+      "provider": "BBC",
+      "title": "Arteta told Arsenal job cuts will help create success",
+      "status": "pending",
+      "firstSeenAt": 1792165419.1209345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/crd6dg4d51y0o",
+      "provider": "BBC",
+      "title": "Fading light halts play at India Championship",
+      "status": "pending",
+      "firstSeenAt": 1792165419.1211638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cwdd8z932nq2o",
+      "provider": "BBC",
+      "title": "Stewart and Morris add to GB gold tally at Worlds",
+      "status": "pending",
+      "firstSeenAt": 1792165419.1215572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cx7vprd744y9o",
+      "provider": "BBC",
+      "title": "Underdogs? We like that tag, says England captain Williams",
+      "status": "pending",
+      "firstSeenAt": 1792165419.121595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmkge6y0wn0do",
+      "provider": "BBC",
+      "title": "ECB abandons diversity commitment around coach recruitment",
+      "status": "pending",
+      "firstSeenAt": 1792165419.1217031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6jrwn993y0lo",
+      "provider": "BBC",
+      "title": "Celtic-Hearts showdown tops weekend's Premiership bill",
+      "status": "pending",
+      "firstSeenAt": 1792165419.1217432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792165419.5547283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792165419.5547738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792165419.5551426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/16/judi-dench-archers-cast-bbc-birmingham-studio",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792165419.5551655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/16/russell-brand-wild-eyed-maniac-drag-woman-toilets-court-told",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792165419.5551887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792165419.5552905,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
