@@ -47106,9 +47106,57 @@
       "status": "pending",
       "firstSeenAt": 1792143084.2638133,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy930yp4z3xo",
+      "provider": "BBC",
+      "title": "Hidden burial ground unearthed during highway dig Skeletons from the Paleolithic, Roman, and Saxon periods are uncovered in Gloucestershire. 27 mins ago Gloucestershire",
+      "status": "pending",
+      "firstSeenAt": 1792145001.599682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792145001.905905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke",
+      "provider": "The Guardian",
+      "title": "‘Clean air is not a favour’: Indonesia’s neighbours fed up with acrid haze as Singapore threatens to prosecute",
+      "status": "pending",
+      "firstSeenAt": 1792145001.9071333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
+      "provider": "The Guardian",
+      "title": "Jonathan Glazer says Israel’s retaliation over NAZA ‘more venal’ than anticipated",
+      "status": "pending",
+      "firstSeenAt": 1792145001.9072478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/travel/2026/oct/16/readers-favourite-sunny-autumn-holidays",
+      "provider": "The Guardian",
+      "title": "‘A haven of soft light, warm sunshine and sandy beaches’: readers’ favourite autumn escapes",
+      "status": "pending",
+      "firstSeenAt": 1792145001.9073784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival",
+      "provider": "The Guardian",
+      "title": "Dogmatic Nordic liberals v eastern family values: culture-clash drama Fjord touches nerves in Norway and Romania",
+      "status": "pending",
+      "firstSeenAt": 1792145001.9074028,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
