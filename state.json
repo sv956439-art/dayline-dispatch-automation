@@ -47034,9 +47034,57 @@
       "status": "pending",
       "firstSeenAt": 1792139278.697584,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c58jz174w89ro",
+      "provider": "BBC",
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+      "status": "pending",
+      "firstSeenAt": 1792141324.1450517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1j3wdxy48ro",
+      "provider": "BBC",
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "status": "pending",
+      "firstSeenAt": 1792141324.1450741,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792141324.4970531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/gallery/2026/oct/16/the-week-in-wildlife-a-penguin-posse-a-little-leopard-cat-and-a-chonky-squirrel",
+      "provider": "The Guardian",
+      "title": "The week in wildlife: a penguin posse, a little leopard cat and a chonky squirrel",
+      "status": "pending",
+      "firstSeenAt": 1792141324.4977732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/pilgangoora-lithium-mine-expansion-announcement/107276432",
+      "provider": "ABC News Australia",
+      "title": "Lithium mine expansion could rival global leader",
+      "status": "pending",
+      "firstSeenAt": 1792141324.815362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/edq-threatens-city-of-moreton-bay-over-wyllie-park/107277532",
+      "provider": "ABC News Australia",
+      "title": "State authorities threaten legal action over council's homeless camp in park",
+      "status": "pending",
+      "firstSeenAt": 1792141324.815396,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
