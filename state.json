@@ -48242,9 +48242,81 @@
       "status": "pending",
       "firstSeenAt": 1792184666.450302,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20240418-the-ingenious-wines-birthed-from-black-volcanic-craters",
+      "provider": "BBC",
+      "title": "The wines birthed from black volcanic craters In Spain's Lanzarote Island, conical hollows built into layers of volcanic ash yield wines that have been created from generations of ingenuity and hard work.",
+      "status": "pending",
+      "firstSeenAt": 1792186161.2078044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20250207-pastis-the-french-cocktail-born-from-a-banned-spirit",
+      "provider": "BBC",
+      "title": "The French cocktail born from a banned spirit Ever since absinthe was outlawed due to rumours it led to insanity, this simple drink has become the nation's go-to apertif.",
+      "status": "pending",
+      "firstSeenAt": 1792186161.207823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l4ekpvzl8o",
+      "provider": "BBC",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "status": "pending",
+      "firstSeenAt": 1792186161.2078743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqn73xe5eelgo",
+      "provider": "BBC",
+      "title": "Ranking the Premier League's all-time greatest super subs Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
+      "status": "pending",
+      "firstSeenAt": 1792186161.2081847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c674pz3l0e73o",
+      "provider": "BBC",
+      "title": "'Well-known' man asks court to stop publication of sexual offence allegation",
+      "status": "pending",
+      "firstSeenAt": 1792186161.2611008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/16/sean-diddy-combs-moved-new-prison",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792186161.622515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/act-insufficient-relief-businesses-affected-civic-construction/107277900",
+      "provider": "ABC News Australia",
+      "title": "'Insufficient' relief for businesses affected by Civic construction",
+      "status": "pending",
+      "firstSeenAt": 1792186162.529184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/musical-sisters-play-for-dementia-patients/107273816",
+      "provider": "ABC News Australia",
+      "title": "Two sisters and one piano working wonders at dementia village",
+      "status": "pending",
+      "firstSeenAt": 1792186162.5292091,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/qld-coral-harvesting-concerns-great-barrier-reef/107260912",
+      "provider": "ABC News Australia",
+      "title": "Coral overharvesting on Great Barrier Reef investigated by regulator",
+      "status": "pending",
+      "firstSeenAt": 1792186162.5292218,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
