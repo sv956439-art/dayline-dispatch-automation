@@ -46362,9 +46362,41 @@
       "status": "pending",
       "firstSeenAt": 1792116319.3752205,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9rky2vrr5vzo",
+      "provider": "BBC",
+      "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears The Canadian prime minister is in Alberta for two days to make a final push for unity ahead of Monday’s separation referendum. 5 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792117969.3259323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwm243rxn1pxo",
+      "provider": "BBC",
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "status": "pending",
+      "firstSeenAt": 1792117969.3266747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/katie-zacharia-defends-credentials/107273550",
+      "provider": "ABC News Australia",
+      "title": "Self-described 'lawyer' Katie Zacharia defends legal credentials",
+      "status": "pending",
+      "firstSeenAt": 1792117969.9277253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/clarence-valley-council-suspended-mayoral-hat-draw-blunder/107237998",
+      "provider": "ABC News Australia",
+      "title": "Council suspended after GM sacked in wake of mayoral vote hat-draw blunder",
+      "status": "pending",
+      "firstSeenAt": 1792117969.9277408,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
