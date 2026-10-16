@@ -46666,9 +46666,33 @@
       "status": "pending",
       "firstSeenAt": 1792128079.480124,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5yn83m8gypo",
+      "provider": "BBC",
+      "title": "Same-day test helps UK doctors detect hidden infections in critically ill children Metagenomics offers a new way of detecting infections in intensive care patients. 5 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792129894.4066272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crgqwvnnyv30o",
+      "provider": "BBC",
+      "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures. 10 hrs ago Premier League",
+      "status": "pending",
+      "firstSeenAt": 1792129894.406885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/christopher-jarvis-steven-johnson-cold-case-muder-warrnambool/107251076",
+      "provider": "ABC News Australia",
+      "title": "Jury to deliberate landlord's cold case murder trial",
+      "status": "pending",
+      "firstSeenAt": 1792129894.7969844,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
