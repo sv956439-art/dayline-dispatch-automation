@@ -46690,9 +46690,65 @@
       "status": "pending",
       "firstSeenAt": 1792129894.7969844,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/athletics/articles/crd6dj26v4e4o",
+      "provider": "BBC",
+      "title": "The Olympic sprinter now bedbound for 22 hours a day",
+      "status": "pending",
+      "firstSeenAt": 1792131241.0169487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckj0lrjzjgqno",
+      "provider": "BBC",
+      "title": "Does the Premier League 'Big Six' still exist?",
+      "status": "pending",
+      "firstSeenAt": 1792131241.0917146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792131241.5568519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/16/tories-call-5-year-freeze-minimum-wage-youth-unemployment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792131241.557042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/kalyn-ponga-broken-arm-surgery-rugby-league-world-cup/107276852",
+      "provider": "ABC News Australia",
+      "title": "Surgery giving Kiwis hope of Ponga playing again in World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792131242.4627285,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/police-investigate-theft-of-unique-cherry-trees-sa-riverland/107274078",
+      "provider": "ABC News Australia",
+      "title": "Unique trees stolen from one of SA's largest cherry producers",
+      "status": "pending",
+      "firstSeenAt": 1792131242.463014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254",
+      "provider": "ABC News Australia",
+      "title": "Canberra man caught bringing alleged child abuse material into country",
+      "status": "pending",
+      "firstSeenAt": 1792131242.4630442,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
