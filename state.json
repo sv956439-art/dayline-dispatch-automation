@@ -47818,9 +47818,57 @@
       "status": "pending",
       "firstSeenAt": 1792170588.653804,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck78pn7j505lo",
+      "provider": "BBC",
+      "title": "Murder investigation launched after man's body found The man's body was discovered in Ballyellis, Mallow in County Cork on Thursday.",
+      "status": "pending",
+      "firstSeenAt": 1792172108.3998463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5yndllj8d8o",
+      "provider": "BBC",
+      "title": "37 mins ago Off Campus star collaboration 'gave me chills', says Babydoll singer Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one. 37 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792172108.5989442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792172108.904622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792172108.9047017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/forgotten-tradition-of-shadow-puppetry-returns-cocos-isalnd/107247234",
+      "provider": "ABC News Australia",
+      "title": "Forgotten tradition of shadow puppetry returns to Cocos Islands",
+      "status": "pending",
+      "firstSeenAt": 1792172109.2614746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/powderfinger-reunion-what-have-they-been-doing/107260914",
+      "provider": "ABC News Australia",
+      "title": "The long, winding roads that brought Powderfinger back together at last",
+      "status": "pending",
+      "firstSeenAt": 1792172109.2614975,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
