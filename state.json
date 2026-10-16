@@ -47282,9 +47282,25 @@
       "status": "pending",
       "firstSeenAt": 1792150184.3382733,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5ynlmzv1n7o",
+      "provider": "BBC",
+      "title": "2 hrs ago Amazon opens new £107m distribution centre The site is the largest distribution centre of its kind in Europe and could create up to 1,400 jobs. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792151946.442754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/oct/16/iguazu-falls-in-south-america-hits-record-10-times-normal-water-flow-video",
+      "provider": "The Guardian",
+      "title": "Iguazu Falls in South America hits record 10 times normal water flow – video",
+      "status": "pending",
+      "firstSeenAt": 1792151946.9095626,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
