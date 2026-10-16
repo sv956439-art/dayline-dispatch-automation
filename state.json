@@ -47194,9 +47194,65 @@
       "status": "pending",
       "firstSeenAt": 1792146759.265657,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cjn5vk4qe6g1o",
+      "provider": "BBC",
+      "title": "Rew, 18, to captain England Lions in West Indies",
+      "status": "pending",
+      "firstSeenAt": 1792148527.596574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cqly08l25zz1o",
+      "provider": "BBC",
+      "title": "New Zealand's Ponga has surgery on broken forearm",
+      "status": "pending",
+      "firstSeenAt": 1792148527.5966654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6y0ewlnwgnlo",
+      "provider": "BBC",
+      "title": "Carmouche shaves head to make weight for world title fight",
+      "status": "pending",
+      "firstSeenAt": 1792148527.596686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c8dx3l9r5lqlo",
+      "provider": "BBC",
+      "title": "'I'm fortunate to be alive' - Merino relives bus attack",
+      "status": "pending",
+      "firstSeenAt": 1792148527.5968068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqp8gymplmvdo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792148527.5968254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqy7l51e80p0o",
+      "provider": "BBC",
+      "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
+      "status": "pending",
+      "firstSeenAt": 1792148527.5968823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6qxneqry885o",
+      "provider": "BBC",
+      "title": "Getting to know Man Utd boss Olid",
+      "status": "pending",
+      "firstSeenAt": 1792148527.5968993,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
