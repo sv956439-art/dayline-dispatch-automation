@@ -46226,9 +46226,41 @@
       "status": "pending",
       "firstSeenAt": 1792110991.9828289,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj6jznp9ww9o",
+      "provider": "BBC",
+      "title": "'We got penalised for saying 'pregnancy' on Instagram' Creators say women's health content is getting them shadowbanned on social media. So what's really happening? 16 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792113026.479438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr86zjee80p9o",
+      "provider": "BBC",
+      "title": "Your child wasn't invited to the party - here's how to handle the disappointment This very common scenario can be sad for little ones but there are ways you can help them. 23 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792113026.4794729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/investors-bracing-for-big-tech-collapse-as-debt-levels-soar/107274648",
+      "provider": "ABC News Australia",
+      "title": "'Investors freaking out' about Wall Street big tech as warning bell rings",
+      "status": "pending",
+      "firstSeenAt": 1792113027.4471414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/vacancy-concerns-remote-laura-police-station/107273486",
+      "provider": "ABC News Australia",
+      "title": "Safety concern in remote community with police station unstaffed",
+      "status": "pending",
+      "firstSeenAt": 1792113027.44719,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
