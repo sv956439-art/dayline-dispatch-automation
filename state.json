@@ -48018,9 +48018,81 @@
       "status": "pending",
       "firstSeenAt": 1792177488.2594712,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqly03y3zg7lo",
+      "provider": "BBC",
+      "title": "What we learned from heated US midterm Senate debates As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "status": "pending",
+      "firstSeenAt": 1792179038.203892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c875prd12vkqo",
+      "provider": "BBC",
+      "title": "NHS staff may have breached tiger attack victim's medical records William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday. 3 hrs ago South Yorkshire",
+      "status": "pending",
+      "firstSeenAt": 1792179038.2745543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qzx43rlzjo",
+      "provider": "BBC",
+      "title": "2 Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+      "status": "pending",
+      "firstSeenAt": 1792179038.2745945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3wv4ej7lv2o",
+      "provider": "BBC",
+      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game? Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football. 4 hrs ago Women's Football",
+      "status": "pending",
+      "firstSeenAt": 1792179038.274697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cq80zpk1xgxpo",
+      "provider": "BBC",
+      "title": "Rahm sacrifices £75m to secure exit from LIV Golf Jon Rahm sacrifices a reported $100m (£75m) still owed to him by LIV Golf to secure his exit from the league. 2 hrs ago Golf",
+      "status": "pending",
+      "firstSeenAt": 1792179038.2747147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668",
+      "provider": "ABC News Australia",
+      "title": "Inside Russell Brand's trial, where he was called a 'maniac' and 'predator'",
+      "status": "pending",
+      "firstSeenAt": 1792179038.9755223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/new-book-details-sexual-violence-endured-by-timorese-women/107154784",
+      "provider": "ABC News Australia",
+      "title": "Behind this Timorese hotel's elegant facade lies a dark history of abuse",
+      "status": "pending",
+      "firstSeenAt": 1792179038.9761667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/2026-may-become-australias-wettest-el-nino-weather-year/107273884",
+      "provider": "ABC News Australia",
+      "title": "El Niño set to be wettest on record as storms soak Australia's east",
+      "status": "pending",
+      "firstSeenAt": 1792179038.9761946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/victoria-police-public-servant-child-abuse-material/107275070",
+      "provider": "ABC News Australia",
+      "title": "Former Bendigo forensics officer charged with child abuse material offences",
+      "status": "pending",
+      "firstSeenAt": 1792179038.9762344,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
