@@ -47298,9 +47298,41 @@
       "status": "pending",
       "firstSeenAt": 1792151946.9095626,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398zl8jmvdo",
+      "provider": "BBC",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "status": "pending",
+      "firstSeenAt": 1792153655.540509,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c699z4x293geo",
+      "provider": "BBC",
+      "title": "Children taken to hospital after chemical fumes at Dublin pool",
+      "status": "pending",
+      "firstSeenAt": 1792153655.5405405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr86zg3w2lg2o",
+      "provider": "BBC",
+      "title": "Spain handed partial stadium closure after discriminatory chants v Egypt",
+      "status": "pending",
+      "firstSeenAt": 1792153655.5410852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261015-nicosia-inside-the-worlds-last-divided-capital",
+      "provider": "BBC",
+      "title": "Inside the world's last divided capital Decades after the Berlin Wall fell, Cyprus's capital remains cleaved in two and separated by watchtowers, barbed wire and a UN buffer zone.",
+      "status": "pending",
+      "firstSeenAt": 1792153655.541343,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
