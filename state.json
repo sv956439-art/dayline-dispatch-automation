@@ -47330,9 +47330,81 @@
       "status": "pending",
       "firstSeenAt": 1792153655.541343,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdjv90d1jpko",
+      "provider": "BBC",
+      "title": "Albanian protests turn violent: What we know Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "status": "pending",
+      "firstSeenAt": 1792156322.25446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj040z4ngnz1o",
+      "provider": "BBC",
+      "title": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics? Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
+      "status": "pending",
+      "firstSeenAt": 1792156322.254999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dz6m1d2n6o",
+      "provider": "BBC",
+      "title": "Sex was 'huge preoccupation for Russell Brand', ex-flatmate tells trial",
+      "status": "pending",
+      "firstSeenAt": 1792156322.3150413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792156322.443195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792156322.4435167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792156322.443534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference",
+      "provider": "The Guardian",
+      "title": "Fiery speeches, LED hats and infighting: inside an Alberta separatist conference",
+      "status": "pending",
+      "firstSeenAt": 1792156322.4438593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/16/death-care-industry-burial-costs-cremation",
+      "provider": "The Guardian",
+      "title": "The last thing I did for my mother was illegal",
+      "status": "pending",
+      "firstSeenAt": 1792156322.443949,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218",
+      "provider": "ABC News Australia",
+      "title": "At least three killed by Russian drones in Ukraine which cut power to 370,000",
+      "status": "pending",
+      "firstSeenAt": 1792156322.972524,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
