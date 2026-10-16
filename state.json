@@ -47738,9 +47738,41 @@
       "status": "pending",
       "firstSeenAt": 1792167141.9562714,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6je5lwxk5l0o",
+      "provider": "BBC",
+      "title": "Do Manchester City have any grounds to win their appeal?",
+      "status": "pending",
+      "firstSeenAt": 1792168899.7000046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792168899.9525511,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792168899.9528248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/16/jimmy-kimmel-katie-zacharia-trump-press-secretary",
+      "provider": "The Guardian",
+      "title": "Jimmy Kimmel on Trump’s new press secretary: ‘attorney in the way George Santos was volleyball champion’",
+      "status": "pending",
+      "firstSeenAt": 1792168899.9532936,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
