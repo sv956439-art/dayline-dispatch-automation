@@ -49026,9 +49026,25 @@
       "status": "pending",
       "firstSeenAt": 1792221437.20837,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/australia-first-vietnamese-museum-opens-in-melbourne/107274166",
+      "provider": "ABC News Australia",
+      "title": "Australia's first Vietnamese heritage museum opens in Melbourne",
+      "status": "pending",
+      "firstSeenAt": 1792223092.8894887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/two-more-teenagers-arrested-over-alleged-stawell-assault/107279482",
+      "provider": "ABC News Australia",
+      "title": "More teens arrested over alleged assault of 15yo boy",
+      "status": "pending",
+      "firstSeenAt": 1792223092.8898695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
