@@ -48810,9 +48810,25 @@
       "status": "pending",
       "firstSeenAt": 1792207281.9777844,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g189jvnxjo",
+      "provider": "BBC",
+      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+      "status": "pending",
+      "firstSeenAt": 1792209167.1178958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/tollgate-motel-sa-health-no-records-of-deceased-baby/107279052",
+      "provider": "ABC News Australia",
+      "title": "No record of mother or deceased baby in SA health system",
+      "status": "pending",
+      "firstSeenAt": 1792209167.94914,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
