@@ -50050,9 +50050,17 @@
       "status": "pending",
       "firstSeenAt": 1792276112.9832528,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/red-hat-rebels-south-wollongong-ruby-ragers/107164590",
+      "provider": "ABC News Australia",
+      "title": "Women's group vows they're 'not going to get grey hair and do it quietly'",
+      "status": "pending",
+      "firstSeenAt": 1792277351.3359582,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
