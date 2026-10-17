@@ -50058,9 +50058,41 @@
       "status": "pending",
       "firstSeenAt": 1792277351.3359582,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792278237.1778457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/18/australian-actor-charlie-vickers-10-chaotic-questions",
+      "provider": "The Guardian",
+      "title": "Charlie Vickers: ‘Tom Cruise cheated at freediving – that’s the headline’",
+      "status": "pending",
+      "firstSeenAt": 1792278237.1781878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/love-story-secret-diagnosis-vinko-and-andrea/107096790",
+      "provider": "ABC News Australia",
+      "title": "A secret diagnosis could have torn us apart, but it brought us together",
+      "status": "pending",
+      "firstSeenAt": 1792278237.671857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/lake-bonney-instant-fishery-local-release-spawn-ready-murray-cod/107255682",
+      "provider": "ABC News Australia",
+      "title": "Back where they belong, Murray Cod bring new life to SA's Lake Bonney",
+      "status": "pending",
+      "firstSeenAt": 1792278237.672319,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
