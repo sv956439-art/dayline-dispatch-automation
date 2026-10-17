@@ -49690,9 +49690,41 @@
       "status": "pending",
       "firstSeenAt": 1792258525.5809195,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo",
+      "provider": "BBC",
+      "title": "Boos and bananas on day of defiance at Man City",
+      "status": "pending",
+      "firstSeenAt": 1792260513.0495868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/albanese-labor-mps-mid-term-blues/107272392",
+      "provider": "ABC News Australia",
+      "title": "Patience of Labor MPs is beginning to wear thin as mid-term blues bite",
+      "status": "pending",
+      "firstSeenAt": 1792260514.344674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/pregnancy-discrimination-costs-women-their-jobs-in-australia/107081688",
+      "provider": "ABC News Australia",
+      "title": "Being pregnant can still cost women their jobs in Australia",
+      "status": "pending",
+      "firstSeenAt": 1792260514.3448975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/kelly-clarkson-versus-art-of-play-molly-bird-feud-timeline/107279102",
+      "provider": "ABC News Australia",
+      "title": "The toy store, $15m bird and famous singer at the centre of an online feud",
+      "status": "pending",
+      "firstSeenAt": 1792260514.3449678,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
