@@ -48834,9 +48834,65 @@
       "status": "pending",
       "firstSeenAt": 1792210377.6107898,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kg53zrexdeo",
+      "provider": "BBC",
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+      "status": "pending",
+      "firstSeenAt": 1792213463.0050218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq70pre80gwko",
+      "provider": "BBC",
+      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+      "status": "pending",
+      "firstSeenAt": 1792213463.084952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/17/home-office-visa-british-baby-thailand-great-grandfather",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792213463.6717663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+      "provider": "The Guardian",
+      "title": "Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine",
+      "status": "pending",
+      "firstSeenAt": 1792213463.6723917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/gippsland-earthquake-mid-october-aftershock/107279324",
+      "provider": "ABC News Australia",
+      "title": "Magnitude-3.0 aftershock strikes near Leongatha, south-east of Melbourne",
+      "status": "pending",
+      "firstSeenAt": 1792213463.9428751,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/fire-cardiff-feed-mill-near-newcastle/107279170",
+      "provider": "ABC News Australia",
+      "title": "Firefighters battle out-of-control blaze at NSW feed mill",
+      "status": "pending",
+      "firstSeenAt": 1792213463.9432354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/la-bola-negra-film-actor-milo-quifes/107274814",
+      "provider": "ABC News Australia",
+      "title": "La Bola Negra star Milo Quifes has never acted before, but now he is all in",
+      "status": "pending",
+      "firstSeenAt": 1792213463.9441085,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
