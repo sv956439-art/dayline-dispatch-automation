@@ -49986,9 +49986,25 @@
       "status": "pending",
       "firstSeenAt": 1792271075.9720392,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/siblings-with-birth-defect-recieve-donated-care/107271116",
+      "provider": "ABC News Australia",
+      "title": "Siblings with same rare birth defect can walk after donated care",
+      "status": "pending",
+      "firstSeenAt": 1792272429.604809,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/qld-state-of-the-state-health/107270722",
+      "provider": "ABC News Australia",
+      "title": "Paramedics unable to respond to 'lights and sirens' cases while ramped",
+      "status": "pending",
+      "firstSeenAt": 1792272429.6048625,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
