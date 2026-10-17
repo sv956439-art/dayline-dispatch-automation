@@ -49594,9 +49594,17 @@
       "status": "pending",
       "firstSeenAt": 1792250744.3890734,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1wvp1nqreyo",
+      "provider": "BBC",
+      "title": "3 hrs ago Work begins on new hotel and bar on site of landmark former venue A new promenade hotel and bar is being built on the site of the former Art Deco Yates building. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792252181.284106,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
