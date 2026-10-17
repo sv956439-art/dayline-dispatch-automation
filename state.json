@@ -49722,9 +49722,49 @@
       "status": "pending",
       "firstSeenAt": 1792260514.3449678,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792262078.0915549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792262078.0920095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/wordage-quiz-anger/107243852",
+      "provider": "ABC News Australia",
+      "title": "ABC Wordage quiz: It's time to get angry",
+      "status": "pending",
+      "firstSeenAt": 1792262078.3607213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/rick-beato-youtube-music-australian-tour-backlash-viral-fame/107271368",
+      "provider": "ABC News Australia",
+      "title": "He is YouTube's spiciest music analyst but Rick Beato loves the backlash",
+      "status": "pending",
+      "firstSeenAt": 1792262078.3607564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/darwin-nt-city-of-birds-unique-species-colourful-photos-top-end/107267296",
+      "provider": "ABC News Australia",
+      "title": "Stunning photos demonstrate why Darwin is known as the 'city of birds'",
+      "status": "pending",
+      "firstSeenAt": 1792262078.360804,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
