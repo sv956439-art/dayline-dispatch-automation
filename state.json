@@ -49314,9 +49314,49 @@
       "status": "pending",
       "firstSeenAt": 1792236704.5729961,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr15jw22v50qo",
+      "provider": "BBC",
+      "title": "DIY SOS to be 'rested' next year to save money, BBC says",
+      "status": "pending",
+      "firstSeenAt": 1792239007.5891407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm369x0lgl2po",
+      "provider": "BBC",
+      "title": "1 hr ago Munch print found at estate set for auction A print by artist Edvard Munch has emerged from a Kent family collection after more than 50 years. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792239007.5897253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792239007.7771487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792239007.7774336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792239007.7776036,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
