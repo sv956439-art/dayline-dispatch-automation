@@ -48626,9 +48626,49 @@
       "status": "pending",
       "firstSeenAt": 1792199651.7235262,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgjnk8nw2wo",
+      "provider": "BBC",
+      "title": "Evacuation orders as fast-moving California wildfire burns homes Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+      "status": "pending",
+      "firstSeenAt": 1792201207.7245343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623dnn3xvpko",
+      "provider": "BBC",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "status": "pending",
+      "firstSeenAt": 1792201207.724564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/sa-health-care-worker-adrian-mangini-banned-indefinitely/107269406",
+      "provider": "ABC News Australia",
+      "title": "SA health care worker banned after cancer cure claims",
+      "status": "pending",
+      "firstSeenAt": 1792201208.3906267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/aunty-ruth-doctorate-for-50-years-of-aboriginal-eduction/107270404",
+      "provider": "ABC News Australia",
+      "title": "Doctorate awarded to elder for 50 years teaching 'any child to read'",
+      "status": "pending",
+      "firstSeenAt": 1792201208.3906686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/cctv-released-after-cobden-house-fire/107278974",
+      "provider": "ABC News Australia",
+      "title": "CCTV captures moment flames engulf family home in suspected arson",
+      "status": "pending",
+      "firstSeenAt": 1792201208.3907156,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
