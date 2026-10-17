@@ -49066,9 +49066,81 @@
       "status": "pending",
       "firstSeenAt": 1792225854.1030126,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c6djvxmx0z1po",
+      "provider": "BBC",
+      "title": "England crush Women's World Cup debutants Wales",
+      "status": "pending",
+      "firstSeenAt": 1792227389.0285752,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c670pwy0qg0ko",
+      "provider": "BBC",
+      "title": "2 hrs ago He spent years in and out of prison - a single book helped change everything Omar Mentesh features in a new BBC documentary about the books which changed five people's lives. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.086131,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw77pn60d3d7o",
+      "provider": "BBC",
+      "title": "3 hrs ago Stained glass artist's appeal for 'endangered craft' Nathalie Hildegarde Liege hopes to raise £5,000 by 13 November to help preserve the craft. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.086149,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c670pxwz77keo",
+      "provider": "BBC",
+      "title": "3 hrs ago The Voice singer Ciiara Nyx says music helped her navigate her trans identity The 21-year-old Worcestershire singer says she is now \"very sure of who I am\". 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.0861654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2zz0xdpdko",
+      "provider": "BBC",
+      "title": "3 hrs ago From fan art to Star Wars: The poster artist behind Marvel and Disney hits Paul Shipper creates artwork for some of the world's biggest film and TV franchises. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.0861807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89zp8j5kp2o",
+      "provider": "BBC",
+      "title": "3 hrs ago Lego models shipped to island for history display The Walk through history in Lego bricks exhibition will be at Guernsey museum until 31 December. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.086197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98z9pryy14o",
+      "provider": "BBC",
+      "title": "3 hrs ago More than 300 artworks on display at free exhibit The Open Exhibition at Ferens Art Gallery in Hull is now free to visit until 10 January. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.0862124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn4eq12w7q9o",
+      "provider": "BBC",
+      "title": "3 hrs ago Lottery grant 'hugely important' for closed museum The building is still closed for repairs three years after its roof was damaged by heavy rain. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.0862396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c607310kpdd4o",
+      "provider": "BBC",
+      "title": "4 hrs ago Typewriter art exhibition honours literary legends Colchester Library will host 50 pieces of artwork made entirely with typewriters until 3 November. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792227389.086254,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
