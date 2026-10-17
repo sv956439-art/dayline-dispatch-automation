@@ -48930,9 +48930,49 @@
       "status": "pending",
       "firstSeenAt": 1792217440.7207084,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cknv0m61l9e4o",
+      "provider": "BBC",
+      "title": "England's 41-match unbeaten run ended by Canada England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+      "status": "pending",
+      "firstSeenAt": 1792219353.0320766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cwz0vdmyvrx8o",
+      "provider": "BBC",
+      "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
+      "status": "pending",
+      "firstSeenAt": 1792219353.032106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crp3gq832gqxo",
+      "provider": "BBC",
+      "title": "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
+      "status": "pending",
+      "firstSeenAt": 1792219353.0321186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98zj4jn6ryo",
+      "provider": "BBC",
+      "title": "8 Dame Judi Dench joins Archers Birmingham campaign",
+      "status": "pending",
+      "firstSeenAt": 1792219353.0941281,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/half-yours-caulfield-cup-fall-everest/107279316",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup winner Half Yours suffers nasty fall in Caulfield Cup",
+      "status": "pending",
+      "firstSeenAt": 1792219354.252795,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
