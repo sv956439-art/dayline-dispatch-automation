@@ -50106,9 +50106,57 @@
       "status": "pending",
       "firstSeenAt": 1792279399.1512022,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c370pxwklgwjo",
+      "provider": "BBC",
+      "title": "Bath lose at home to Montpellier in Champions Cup",
+      "status": "pending",
+      "firstSeenAt": 1792280474.9317439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9gkv34kezdko",
+      "provider": "BBC",
+      "title": "Gyokeres pushing for Arsenal exit - Sunday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792280474.9320402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c6n8d1334j24o",
+      "provider": "BBC",
+      "title": "Munster hold on to beat Racing after Foley tributes",
+      "status": "pending",
+      "firstSeenAt": 1792280474.932252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g1e15g76jo",
+      "provider": "BBC",
+      "title": "Reedijk has 'sick feeling in stomach' - are his Hibs team in relegation fight?",
+      "status": "pending",
+      "firstSeenAt": 1792280474.9324605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792280475.3141181,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/griffith-spring-festival-citrus-sculptures/107263554",
+      "provider": "ABC News Australia",
+      "title": "Sculptors see the fruit of their labour as oranges become art",
+      "status": "pending",
+      "firstSeenAt": 1792280475.7655885,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
