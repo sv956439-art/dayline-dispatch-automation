@@ -49058,9 +49058,17 @@
       "status": "pending",
       "firstSeenAt": 1792224331.6360328,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/jayda-allen-bonner-remembered-with-melbourne-vigil/107279066",
+      "provider": "ABC News Australia",
+      "title": "Yagera woman Jayda Allen Bonner remembered at Melbourne vigil",
+      "status": "pending",
+      "firstSeenAt": 1792225854.1030126,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
