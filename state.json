@@ -49378,9 +49378,57 @@
       "status": "pending",
       "firstSeenAt": 1792240781.6031895,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5x2vkddrkrko",
+      "provider": "BBC",
+      "title": "Pope to be discharged days after lung cancer surgery The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "status": "pending",
+      "firstSeenAt": 1792242629.2274852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261016-the-obituary-cocktail-the-deadly-drink-that-symbolises-new-orleans",
+      "provider": "BBC",
+      "title": "The 'deadly' drink that symbolises New Orleans Combining a martini's wallop with one of the world's most notorious spirits, this recently revived cocktail embodies the city's distinctive approach to life and death.",
+      "status": "pending",
+      "firstSeenAt": 1792242629.2283149,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792242629.4817111,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792242629.4820926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792242629.4822707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants",
+      "provider": "The Guardian",
+      "title": "Madeline Horwath on AI food advertising – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1792242629.4827523,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
