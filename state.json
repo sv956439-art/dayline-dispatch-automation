@@ -49762,9 +49762,57 @@
       "status": "pending",
       "firstSeenAt": 1792262078.360804,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c962ydpmjm3zo",
+      "provider": "BBC",
+      "title": "European diplomats attacked by Israeli settlers in West Bank The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign. 21 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1792263608.7394407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d937wedj7jo",
+      "provider": "BBC",
+      "title": "Hundreds arrested in France as police clash with protesters Police have fired tear gas and water cannon during a day of major protests over falling education standards.",
+      "status": "pending",
+      "firstSeenAt": 1792263608.740674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93zkexpqgpo",
+      "provider": "BBC",
+      "title": "2 hrs ago Pete Tong among first acts announced for festival The first acts are announced for the 2027 edition of On The Beach in Brighton. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792263608.8206918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/farmers-turn-against-donald-trump-ahead-of-midterms/107265122",
+      "provider": "ABC News Australia",
+      "title": "Farmers loyal to Trump turn on him as crucial elections approach",
+      "status": "pending",
+      "firstSeenAt": 1792263609.3610706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/is-new-zealand-holding-back-womens-test-cricket/107273022",
+      "provider": "ABC News Australia",
+      "title": "Is New Zealand holding back women's Test cricket?",
+      "status": "pending",
+      "firstSeenAt": 1792263609.3616123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/reema-el-qassem-wheelchair-basketball-sydney-uni-lions/107220160",
+      "provider": "ABC News Australia",
+      "title": "Meet the first hijab-wearing non-verbal wheelchair basketballer",
+      "status": "pending",
+      "firstSeenAt": 1792263609.3616726,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
