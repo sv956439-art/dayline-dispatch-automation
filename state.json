@@ -49850,9 +49850,57 @@
       "status": "pending",
       "firstSeenAt": 1792267184.6135738,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c820vwq7qg2ko",
+      "provider": "BBC",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "status": "pending",
+      "firstSeenAt": 1792268274.6717927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+      "provider": "The Guardian",
+      "title": "Hiding in plane sight: the invisible turbulence that can strike out of a clear blue sky",
+      "status": "pending",
+      "firstSeenAt": 1792268274.8987718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/sas-nathan-heckel-extradited-masood-zakaria-uncontactable-court/107255164",
+      "provider": "ABC News Australia",
+      "title": "Ex-soldier uncontactable ahead of accused gangster's deportation hearings",
+      "status": "pending",
+      "firstSeenAt": 1792268275.432926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/renshaw-to-stay-at-number-five-as-aussies-delay-naming-test-side/107280234",
+      "provider": "ABC News Australia",
+      "title": "Renshaw to stay at number five as Aussies delay naming Test side",
+      "status": "pending",
+      "firstSeenAt": 1792268275.4333012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/sally-contarino-missing-las-vegas-family-appeal-police/107271150",
+      "provider": "ABC News Australia",
+      "title": "Last seen in Las Vegas in June, Sally Contarino is still missing",
+      "status": "pending",
+      "firstSeenAt": 1792268275.434035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/lord-howe-island-and-the-volcanic-chains-of-australia/107204522",
+      "provider": "ABC News Australia",
+      "title": "Scientists unearth remarkable volcanic origins of Lord Howe Island",
+      "status": "pending",
+      "firstSeenAt": 1792268275.4340794,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
