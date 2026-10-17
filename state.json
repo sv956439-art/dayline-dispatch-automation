@@ -49202,9 +49202,49 @@
       "status": "pending",
       "firstSeenAt": 1792230158.8056908,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261015-hollywood-stars-on-the-films-that-mean-most-to-them",
+      "provider": "BBC",
+      "title": "Rebel Wilson to Taron Egerton: Hollywood stars reveal the films that mean most to them This year's Toronto International Film Festival featured a host of talent – and, at the BBC's exclusive photo studio, they discussed the projects that define their life and careers.",
+      "status": "pending",
+      "firstSeenAt": 1792232881.807652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2vk44dv1xo",
+      "provider": "BBC",
+      "title": "Man jailed for arson attacks targeting former UK PM Starmer is deported",
+      "status": "pending",
+      "firstSeenAt": 1792232881.877039,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cxg5jz4epr1po",
+      "provider": "BBC",
+      "title": "Eight-try Australia send Scotland to eighth straight defeat Scotland suffer a chastening eight-try defeat by Australia in their WXV Global Series match in Sydney. 2 hrs ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1792232881.8776736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cj5ynpgzly7no",
+      "provider": "BBC",
+      "title": "'I had so many medals under the bed' - Green on Chelsea success When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed. 3 hrs ago Women's Football",
+      "status": "pending",
+      "firstSeenAt": 1792232881.8777006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792232882.0046666,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
