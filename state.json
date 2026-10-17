@@ -49506,9 +49506,41 @@
       "status": "pending",
       "firstSeenAt": 1792245506.8948882,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1ex0577845o",
+      "provider": "BBC",
+      "title": "Two people due before court following arson attack deaths A man and a woman, arrested after four family members died in an arson attack, are due in court.",
+      "status": "pending",
+      "firstSeenAt": 1792246632.901267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c6j9kvg8xpmyo",
+      "provider": "BBC",
+      "title": "Chacarra leads as McIlroy fades before play halted",
+      "status": "pending",
+      "firstSeenAt": 1792246632.9793658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c9dr83p610vno",
+      "provider": "BBC",
+      "title": "Kartal reaches Wuhan final as dream week continues",
+      "status": "pending",
+      "firstSeenAt": 1792246632.9795418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/brk-france-protests/107279688",
+      "provider": "ABC News Australia",
+      "title": "Buildings burn and tear gas thrown during French education and cost of living rallies",
+      "status": "pending",
+      "firstSeenAt": 1792246633.9183679,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
