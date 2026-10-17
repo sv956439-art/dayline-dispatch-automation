@@ -48514,9 +48514,73 @@
       "status": "pending",
       "firstSeenAt": 1792195479.774274,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgxwq4q5r2o",
+      "provider": "BBC",
+      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "status": "pending",
+      "firstSeenAt": 1792197629.3852863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/china-tourists-fake-typhoon-experience-dark-tourism",
+      "provider": "The Guardian",
+      "title": "China’s tourists flock to experience a pretend typhoon as ‘dark tourism’ flourishes",
+      "status": "pending",
+      "firstSeenAt": 1792197629.5279298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour",
+      "provider": "The Guardian",
+      "title": "How an accelerating Earth led experts to adopt the leap hour",
+      "status": "pending",
+      "firstSeenAt": 1792197629.5279725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/work-starts-on-first-new-bundaberg-hotel-in-decades/107274230",
+      "provider": "ABC News Australia",
+      "title": "Work starts on Bundaberg's first hotel development in 20 years",
+      "status": "pending",
+      "firstSeenAt": 1792197629.8056512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/rugby-bledisloe-cup-wallabies-all-blacks-wallaroos-scotland/107279014",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos take on Scotland ahead of Wallabies' clash with All Blacks",
+      "status": "pending",
+      "firstSeenAt": 1792197629.8056848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/police-detain-cockroach-party-leader-delhi-protest/107278878",
+      "provider": "ABC News Australia",
+      "title": "Police detain 'cockroach' movement founder ahead of protests in Delhi",
+      "status": "pending",
+      "firstSeenAt": 1792197629.805702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/teacher-and-father-hailed-as-heroes-in-oregon-school-shooting/107278848",
+      "provider": "ABC News Australia",
+      "title": "'Hero' bystanders prevented more bloodshed in deadly Oregon school shooting",
+      "status": "pending",
+      "firstSeenAt": 1792197629.8057308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/research-project-dingoes-great-sandy-desert/107255966",
+      "provider": "ABC News Australia",
+      "title": "Dingoes play vital role in protecting animals from feral cats in desert",
+      "status": "pending",
+      "firstSeenAt": 1792197629.8057551,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
