@@ -49170,9 +49170,41 @@
       "status": "pending",
       "firstSeenAt": 1792228522.4314334,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260724-an-up-close-encounter-with-giant-sharks-in-ireland",
+      "provider": "BBC",
+      "title": "Where giant sharks swim so close to shore you can nearly touch them Basking sharks are one of the world's largest and most elusive fish species. But off the Irish coast, these gentle giants swim so close to the shore you can nearly touch them.",
+      "status": "pending",
+      "firstSeenAt": 1792230158.2343812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260610-the-moment-i-made-eye-contact-with-a-whale",
+      "provider": "BBC",
+      "title": "What it's like to come face to face with a curious whale Elusive dwarf minke whales are known for their curiosity, often approaching humans for a closer look.",
+      "status": "pending",
+      "firstSeenAt": 1792230158.234417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/wallaroos-defeat-scotland-rugby-test-global-xv-series/107279624",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos not content with simply being 'better versions' of themselves",
+      "status": "pending",
+      "firstSeenAt": 1792230158.8056502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/rugby-league-world-cup-mitchell-moses-injury/107279314",
+      "provider": "ABC News Australia",
+      "title": "Kangaroos halfback's World Cup ends with calf muscle injury",
+      "status": "pending",
+      "firstSeenAt": 1792230158.8056908,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
