@@ -49842,9 +49842,17 @@
       "status": "pending",
       "firstSeenAt": 1792264763.3117902,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792267184.6135738,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
