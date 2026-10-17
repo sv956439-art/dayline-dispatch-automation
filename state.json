@@ -49898,9 +49898,65 @@
       "status": "pending",
       "firstSeenAt": 1792268275.4340794,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8ez40yz950o",
+      "provider": "BBC",
+      "title": "No further action against government adviser's wife over Palestine Action post, police say Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+      "status": "pending",
+      "firstSeenAt": 1792269865.6791875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9j34rke27zjo",
+      "provider": "BBC",
+      "title": "Wirtz delivers but remains Liverpool's conundrum",
+      "status": "pending",
+      "firstSeenAt": 1792269865.6795835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cq5ynl4nvv5vo",
+      "provider": "BBC",
+      "title": "Tributes to Andrews before Champions Cup matches",
+      "status": "pending",
+      "firstSeenAt": 1792269865.793661,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cr86zgpyz464o",
+      "provider": "BBC",
+      "title": "Seven-try Connacht beat Saracens in Champions Cup",
+      "status": "pending",
+      "firstSeenAt": 1792269865.7941477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6y93xw91dv3o",
+      "provider": "BBC",
+      "title": "Can Hearts prove credentials at scene of title heartbreak?",
+      "status": "pending",
+      "firstSeenAt": 1792269865.7941895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/uncomfortable-questions-over-malinauskas-golf-course-upgrade/107279012",
+      "provider": "ABC News Australia",
+      "title": "A little-known office, $55k contracts and a growing political problem",
+      "status": "pending",
+      "firstSeenAt": 1792269866.1793346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/young-carers-advocates-call-for-better-identification/107241766",
+      "provider": "ABC News Australia",
+      "title": "Young people the hidden group of carers few are talking about",
+      "status": "pending",
+      "firstSeenAt": 1792269866.1795886,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
