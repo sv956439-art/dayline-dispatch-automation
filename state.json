@@ -48890,9 +48890,17 @@
       "status": "pending",
       "firstSeenAt": 1792213463.9441085,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/aflw-crows-suns-bulldogs-carlton-lions-port-eagles-cats/107279312",
+      "provider": "ABC News Australia",
+      "title": "Crows snap Suns' winning run to climb into AFLW finals spots",
+      "status": "pending",
+      "firstSeenAt": 1792216413.2331903,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
