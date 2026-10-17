@@ -49354,9 +49354,33 @@
       "status": "pending",
       "firstSeenAt": 1792239007.7776036,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792240781.6026382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "provider": "The Guardian",
+      "title": "Nationwide protests in France against high prices and fraying of social security system",
+      "status": "pending",
+      "firstSeenAt": 1792240781.603144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/ukraine-kherson-richelievsky-displaced-drones-last-hotel-frontline",
+      "provider": "The Guardian",
+      "title": "‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline",
+      "status": "pending",
+      "firstSeenAt": 1792240781.6031895,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
