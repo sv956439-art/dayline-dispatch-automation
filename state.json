@@ -48970,9 +48970,65 @@
       "status": "pending",
       "firstSeenAt": 1792219354.252795,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw1l3dz2ppe0o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792221436.5660198,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792221436.9590592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792221436.9592116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792221436.9594772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/17/thailand-2026-vegetarian-festival-in-pictures",
+      "provider": "The Guardian",
+      "title": "From piercings to purification: Thailand’s 2026 vegetarian festival – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1792221436.9599156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/17/39-pictures-that-changed-the-way-we-see-men-for-good-and-for-bad",
+      "provider": "The Guardian",
+      "title": "Muscles, metrosexuals and male tears: the 39 pictures that changed the way we see men (for good and for bad)",
+      "status": "pending",
+      "firstSeenAt": 1792221436.960019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/half-yours-ohope-wins-caulfield-cup-fall/107279316",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup winner Half Yours suffers nasty fall in Caulfield Cup",
+      "status": "pending",
+      "firstSeenAt": 1792221437.20837,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
