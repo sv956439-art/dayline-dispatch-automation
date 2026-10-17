@@ -49042,9 +49042,25 @@
       "status": "pending",
       "firstSeenAt": 1792223092.8898695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crpdgz2nqe59o",
+      "provider": "BBC",
+      "title": "2 hrs ago The AI photo shortcut experts say parents should avoid Experts warn photos uploaded to AI may be stored, reused or expose children's data. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792224331.1336875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/women-report-sexual-offences-narrabeen-lagoon-walking-trails/107279134",
+      "provider": "ABC News Australia",
+      "title": "Police release e-bike rider image in 'sexual touching' case, increase patrols",
+      "status": "pending",
+      "firstSeenAt": 1792224331.6360328,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
