@@ -49602,9 +49602,41 @@
       "status": "pending",
       "firstSeenAt": 1792252181.284106,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6rryqq00yp4o",
+      "provider": "BBC",
+      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests' Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+      "status": "pending",
+      "firstSeenAt": 1792253201.2387528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792253201.597462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792253201.5977955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/17/hundreds-arrested-protests-across-france-in-pictures",
+      "provider": "The Guardian",
+      "title": "‘If we burn, you burn’: hundreds arrested at protests across France – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1792253201.5981474,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
