@@ -49450,9 +49450,65 @@
       "status": "pending",
       "firstSeenAt": 1792244104.4833758,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9lx54g7x9o",
+      "provider": "BBC",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned She and five staff members were found to have used the inedible paint in meals to make them look more appealing. 2 hrs ago China",
+      "status": "pending",
+      "firstSeenAt": 1792245505.411931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c34g180knv91o",
+      "provider": "BBC",
+      "title": "Harry Styles debuts new track in memory of Liam Payne The pop star performed the song on the second anniversary of Liam Payne's death. 2 hrs ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1792245505.4126427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c674pzzlz8zlo",
+      "provider": "BBC",
+      "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
+      "status": "pending",
+      "firstSeenAt": 1792245505.413714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmze4y9rjepro",
+      "provider": "BBC",
+      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+      "status": "pending",
+      "firstSeenAt": 1792245505.5175276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792245505.9653504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792245505.9659343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/ukraine-grapples-with-starlink-restrictions/107279672",
+      "provider": "ABC News Australia",
+      "title": "Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine",
+      "status": "pending",
+      "firstSeenAt": 1792245506.8948882,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
