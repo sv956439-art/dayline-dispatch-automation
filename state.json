@@ -48578,9 +48578,57 @@
       "status": "pending",
       "firstSeenAt": 1792197629.8057551,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crn4ej7vdwdno",
+      "provider": "BBC",
+      "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+      "status": "pending",
+      "firstSeenAt": 1792199650.4477603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3wjgdg05x9o",
+      "provider": "BBC",
+      "title": "3 hrs ago 'It's called a phone' - why young people don't need to be in the big smoke to work in fashion Creatives say they can thrive in the fashion industry without having to move to a big city. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792199650.4483175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m2d0n2xz1do",
+      "provider": "BBC",
+      "title": "3 hrs ago Hidden stained-glass masterpieces go on display in Glasgow A new museum recognising the work of artist Alf Webster is set to open in  Lansdowne Church next year. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792199650.4483469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wz879wxl2o",
+      "provider": "BBC",
+      "title": "3 hrs ago I hope Marvel fans accept my Scottish accent, says new star Ruaridh Mollica The Scottish actor plays the speedster Tommy Maximoff in the new Disney+ miniseries VisionQuest, based on the superhero comic book character Vision. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792199650.4483745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki",
+      "provider": "The Guardian",
+      "title": "Uncovering the secrets of New Zealand’s elusive ‘jungle penguins’",
+      "status": "pending",
+      "firstSeenAt": 1792199650.8846736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/desert-stars-rock-band-records-in-shed-in-outback/107167544",
+      "provider": "ABC News Australia",
+      "title": "Indigenous rockers record third album in outback shed",
+      "status": "pending",
+      "firstSeenAt": 1792199651.7235262,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
