@@ -49562,9 +49562,33 @@
       "status": "pending",
       "firstSeenAt": 1792248212.5753355,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792249385.0099192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting",
+      "provider": "The Guardian",
+      "title": "After the unimaginable happens, an Oregon town mourns: ‘You can’t stop thinking about the kids’",
+      "status": "pending",
+      "firstSeenAt": 1792249385.0103862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/pope-leo-leaves-hospital-after-surgery/107279894",
+      "provider": "ABC News Australia",
+      "title": "Pope Leo leaves hospital for Vatican four days after lung cancer surgery",
+      "status": "pending",
+      "firstSeenAt": 1792249385.5138884,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
