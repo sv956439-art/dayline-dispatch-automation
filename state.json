@@ -49650,9 +49650,49 @@
       "status": "pending",
       "firstSeenAt": 1792257123.122609,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwrky6y0gvd6o",
+      "provider": "BBC",
+      "title": "Seven-try Leinster too strong for Clermont",
+      "status": "pending",
+      "firstSeenAt": 1792258524.2208774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cm2ke179dvwdo",
+      "provider": "BBC",
+      "title": "Fatigued Zverev 'overachieved' by reaching Shanghai semis",
+      "status": "pending",
+      "firstSeenAt": 1792258524.2211237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cknv0mz64j16o",
+      "provider": "BBC",
+      "title": "Bristol beaten by Stormers in Champions Cup opener",
+      "status": "pending",
+      "firstSeenAt": 1792258524.2212532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cw203r3462lro",
+      "provider": "BBC",
+      "title": "Six-try Ulster secure bonus point against Zebre",
+      "status": "pending",
+      "firstSeenAt": 1792258524.2212884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/royalty-denmark-britain-christian-harry-william-crown-prince/107268784",
+      "provider": "ABC News Australia",
+      "title": "Can Denmark teach Britain how to raise royals?",
+      "status": "pending",
+      "firstSeenAt": 1792258525.5809195,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
