@@ -50018,9 +50018,41 @@
       "status": "pending",
       "firstSeenAt": 1792273775.115386,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy4xnyyg1lyo",
+      "provider": "BBC",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans. 17 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1792276112.517658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c6gelq3zdy8wo",
+      "provider": "BBC",
+      "title": "Dubois destroys Wardley in two rounds to retain title",
+      "status": "pending",
+      "firstSeenAt": 1792276112.51929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/tonga-getting-better-and-better-after-england-world-cup-win/107280336",
+      "provider": "ABC News Australia",
+      "title": "'Outstanding' Tonga puts England on the brink of World Cup elimination",
+      "status": "pending",
+      "firstSeenAt": 1792276112.9832025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/trebonne-heritage-listed-basque-handball-court/107217934",
+      "provider": "ABC News Australia",
+      "title": "Basque migrants transformed town and left behind heritage handball court",
+      "status": "pending",
+      "firstSeenAt": 1792276112.9832528,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
