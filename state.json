@@ -48666,9 +48666,41 @@
       "status": "pending",
       "firstSeenAt": 1792201208.3907156,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly3zd1r45ro",
+      "provider": "BBC",
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+      "status": "pending",
+      "firstSeenAt": 1792202761.6094935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792202762.3487194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/chickpea-prices-boom-as-buyers-lock-in-supply-ahead-of-ramadan/107273674",
+      "provider": "ABC News Australia",
+      "title": "The humble chickpea has just boomed in value",
+      "status": "pending",
+      "firstSeenAt": 1792202763.1858716,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/soy-beef-la-mian-noodle-stir-fry-recipe/107262496",
+      "provider": "ABC News Australia",
+      "title": "Learn to velvet your beef with this simple soy and mince stir fry",
+      "status": "pending",
+      "firstSeenAt": 1792202763.1874888,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
