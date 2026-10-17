@@ -49634,9 +49634,17 @@
       "status": "pending",
       "firstSeenAt": 1792253201.5981474,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g1d1xd029o",
+      "provider": "BBC",
+      "title": "Alligator kills 71-year-old man fishing in Florida The 3.7m (12ft) alligator reportedly dragged the man into the water where he was fishing near Orlando.",
+      "status": "pending",
+      "firstSeenAt": 1792256123.3545315,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
