@@ -50090,9 +50090,25 @@
       "status": "pending",
       "firstSeenAt": 1792278237.672319,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck054652mv07o",
+      "provider": "BBC",
+      "title": "Villa's Manzambi shows Newcastle what they missed out on Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park. 2 hrs ago Aston Villa",
+      "status": "pending",
+      "firstSeenAt": 1792279399.0197842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792279399.1512022,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
