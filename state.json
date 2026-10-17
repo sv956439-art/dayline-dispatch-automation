@@ -49426,9 +49426,33 @@
       "status": "pending",
       "firstSeenAt": 1792242629.4827523,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8qln0ydgpr3o",
+      "provider": "BBC",
+      "title": "Changes made to solar farm plans after opposition",
+      "status": "pending",
+      "firstSeenAt": 1792244104.2050762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckeq3gz0vwe1o",
+      "provider": "BBC",
+      "title": "Apple donations help cider festival go ahead",
+      "status": "pending",
+      "firstSeenAt": 1792244104.205109,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792244104.4833758,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
