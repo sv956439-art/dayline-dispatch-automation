@@ -49538,9 +49538,33 @@
       "status": "pending",
       "firstSeenAt": 1792246633.9183679,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/crwyqgjg5y8wo",
+      "provider": "BBC",
+      "title": "McDermott seeks fix as England fight to save their World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792248211.969114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792248212.248433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/france-protests-education-cost-of-living/107279688",
+      "provider": "ABC News Australia",
+      "title": "Burning buildings and tear gas mark 29th day of French student protests",
+      "status": "pending",
+      "firstSeenAt": 1792248212.5753355,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
