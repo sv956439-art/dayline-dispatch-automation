@@ -48722,9 +48722,65 @@
       "status": "pending",
       "firstSeenAt": 1792204276.3944957,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
+      "provider": "BBC",
+      "title": "Trump waives several Russia sanctions as new US law takes effect Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "status": "pending",
+      "firstSeenAt": 1792205953.5460513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8rzg6zl00o",
+      "provider": "BBC",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro. 25 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792205953.6246228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kgqjvdv4n2o",
+      "provider": "BBC",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "status": "pending",
+      "firstSeenAt": 1792205953.6247816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck62y33489zqo",
+      "provider": "BBC",
+      "title": "Why people who have never smoked are getting hooked on vaping More than one million people now vape who have never been smokers, according to the ONS. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792205953.6249707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792205953.786433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/jake-callum-robinson-mexico-murder-trial-sentence/107271152",
+      "provider": "ABC News Australia",
+      "title": "Mexican court sentences three men over murder of Jake and Callum Robinson",
+      "status": "pending",
+      "firstSeenAt": 1792205954.278329,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/dogs-captured-after-attacking-man-chermside/107279188",
+      "provider": "ABC News Australia",
+      "title": "Dogs captured after attack on Brisbane man",
+      "status": "pending",
+      "firstSeenAt": 1792205954.2798393,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
