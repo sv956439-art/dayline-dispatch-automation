@@ -49306,9 +49306,17 @@
       "status": "pending",
       "firstSeenAt": 1792235316.763461,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c83vqd73k0xlo",
+      "provider": "BBC",
+      "title": "England stunned by Tonga in World Cup opener",
+      "status": "pending",
+      "firstSeenAt": 1792236704.5729961,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
