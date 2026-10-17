@@ -48778,9 +48778,41 @@
       "status": "pending",
       "firstSeenAt": 1792205954.2798393,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3kgqjkzw29wo",
+      "provider": "BBC",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "status": "pending",
+      "firstSeenAt": 1792207281.5628078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792207281.7830856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40",
+      "provider": "The Guardian",
+      "title": "The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax",
+      "status": "pending",
+      "firstSeenAt": 1792207281.7833617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-17/larrimah-pink-panther-stuarts-well-shut-police-outlaw-bikie-raid/107279016",
+      "provider": "ABC News Australia",
+      "title": "Famous Larrimah pub shuts after bikies visit sister venue on 'charity run'",
+      "status": "pending",
+      "firstSeenAt": 1792207281.9777844,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
