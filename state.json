@@ -51546,9 +51546,33 @@
       "status": "pending",
       "firstSeenAt": 1792355955.3806493,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6073pmddk0ko",
+      "provider": "BBC",
+      "title": "'Maybe we became arrogant' - Sunderland struggles continue",
+      "status": "pending",
+      "firstSeenAt": 1792357254.857572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/c9e8l765gdmyo",
+      "provider": "BBC",
+      "title": "Selby out but Lisowski advances in NI Open defence",
+      "status": "pending",
+      "firstSeenAt": 1792357254.8579607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/magnitude-2-8-earthquake-reported-in-barossa-valley/107281702",
+      "provider": "ABC News Australia",
+      "title": "Magnitude-2.8 earthquake wakes Barossa residents up",
+      "status": "pending",
+      "firstSeenAt": 1792357255.5144691,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
