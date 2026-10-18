@@ -51138,9 +51138,17 @@
       "status": "pending",
       "firstSeenAt": 1792339287.4930964,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer",
+      "provider": "The Guardian",
+      "title": "Why are people protesting across Europe?",
+      "status": "pending",
+      "firstSeenAt": 1792340673.942223,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
