@@ -50306,9 +50306,65 @@
       "status": "pending",
       "firstSeenAt": 1792291073.7566278,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj64l74e48po",
+      "provider": "BBC",
+      "title": "The playground murder: Trauma, loss and a love that endured Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy. 4 hrs ago Glasgow & West Scotland",
+      "status": "pending",
+      "firstSeenAt": 1792292611.4743464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2375zqwwwo",
+      "provider": "BBC",
+      "title": "There's a crackdown on sports piracy - but is it already out of control? The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett. 3 hrs ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1792292611.474365,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3wp0175w9xo",
+      "provider": "BBC",
+      "title": "10 Boba tea company apologises over Canada Dragons' Den row",
+      "status": "pending",
+      "firstSeenAt": 1792292611.4745753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792292611.5928528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378",
+      "provider": "ABC News Australia",
+      "title": "Inside the Chinese city helping sustain hermit kingdom North Korea",
+      "status": "pending",
+      "firstSeenAt": 1792292612.119118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/global-whisky-downturn-distillery-impact-tasmania-industry/107237870",
+      "provider": "ABC News Australia",
+      "title": "Amid whisky's global gloom Tasmania is still seizing 'amazing opportunities'",
+      "status": "pending",
+      "firstSeenAt": 1792292612.1193497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/caulfield-cup-ohope-wins-death-calls-accountability/107280556",
+      "provider": "ABC News Australia",
+      "title": "Animal welfare group calls for accountability after latest racing death",
+      "status": "pending",
+      "firstSeenAt": 1792292612.119829,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
