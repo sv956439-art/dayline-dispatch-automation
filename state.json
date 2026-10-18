@@ -51354,9 +51354,49 @@
       "status": "pending",
       "firstSeenAt": 1792350007.9767098,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw240zl08dm5o",
+      "provider": "BBC",
+      "title": "Macron calls for calm in France and warns rioting must not escalate French President Emmanuel Macron made a national television address after rioting caused widespread damage. Just now Europe",
+      "status": "pending",
+      "firstSeenAt": 1792351127.452937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cw62ynq8jz2no",
+      "provider": "BBC",
+      "title": "Northampton beat Cardiff for first English win",
+      "status": "pending",
+      "firstSeenAt": 1792351127.4546657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792351127.6803143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/outer-suburbs-reflect-on-tree-removal-in-parklands/107280620",
+      "provider": "ABC News Australia",
+      "title": "In outer Adelaide, what do residents think of the MotoGP parklands redevelopment?",
+      "status": "pending",
+      "firstSeenAt": 1792351127.995991,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/victorian-labor-pledges-public-transport-fare-cap/107280670",
+      "provider": "ABC News Australia",
+      "title": "Victorian Labor pledges $30-a-week public transport fare cap",
+      "status": "pending",
+      "firstSeenAt": 1792351127.9960399,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
