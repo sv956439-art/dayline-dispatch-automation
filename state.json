@@ -50610,9 +50610,57 @@
       "status": "pending",
       "firstSeenAt": 1792310265.1229172,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlyl0jp206ro",
+      "provider": "BBC",
+      "title": "10 mins ago Metal detecting 'gives your brain a break' from screens Metal detecting enthusiasts say the hobby helps them escape the digital world and slow down. 10 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792311437.6609669,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ezwr675r8o",
+      "provider": "BBC",
+      "title": "2 hrs ago How wedding content creators take you from aisle to Insta A growing industry is helping newly weds post video content on social media 24 hours after their big day. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792311437.6609943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjkg770dgkvko",
+      "provider": "BBC",
+      "title": "2 hrs ago She started by peeling potatoes, now she is one of Britain's best-known online chefs Poppy O'Toole says the foundations of her success were laid much closer to home in the Midlands. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792311437.661017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c38xzvg7n4rxo",
+      "provider": "BBC",
+      "title": "2 hrs ago Test your news knowledge with our weekly quiz Travelling footie fans and a bungled ram raid. Try your hand at our North East and Cumbria quiz. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792311437.661036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694",
+      "provider": "ABC News Australia",
+      "title": "Fatalities as 'serious incident' causes fire at Canadian military base",
+      "status": "pending",
+      "firstSeenAt": 1792311438.4833896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/sa-two-teenagers-arrested-glenelg-brawl/107280878",
+      "provider": "ABC News Australia",
+      "title": "Two teenagers arrested after fight involving dozens of youth at Glenelg",
+      "status": "pending",
+      "firstSeenAt": 1792311438.4834228,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
