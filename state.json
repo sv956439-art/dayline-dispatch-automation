@@ -51786,9 +51786,41 @@
       "status": "pending",
       "firstSeenAt": 1792365975.3819969,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwdd8z6gyy96o",
+      "provider": "BBC",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "status": "pending",
+      "firstSeenAt": 1792367064.9842412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rl1xvjv89o",
+      "provider": "BBC",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "status": "pending",
+      "firstSeenAt": 1792367064.9842713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/18/oj-simpson-case-times-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792367065.1741502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/basketball-ben-simmons-achilles-injury-derails-nba-comeback/107282092",
+      "provider": "ABC News Australia",
+      "title": "Brutal injury derails Simmons's latest NBA comeback attempt",
+      "status": "pending",
+      "firstSeenAt": 1792367065.646162,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
