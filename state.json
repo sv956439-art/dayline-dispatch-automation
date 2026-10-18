@@ -51394,9 +51394,25 @@
       "status": "pending",
       "firstSeenAt": 1792351127.9960399,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/canadian-military-fire-mark-carney/107281574",
+      "provider": "ABC News Australia",
+      "title": "Deadly military base fire among Canada's worst peacetime tragedies, PM says",
+      "status": "pending",
+      "firstSeenAt": 1792352480.9587994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/environmental-and-workplace-factors-make-burnout-more-likely/107273764",
+      "provider": "ABC News Australia",
+      "title": "Feeling 'burnt out'? Research suggests your surroundings might be to blame",
+      "status": "pending",
+      "firstSeenAt": 1792352480.9591668,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
