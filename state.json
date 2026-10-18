@@ -50434,9 +50434,17 @@
       "status": "pending",
       "firstSeenAt": 1792299080.9508884,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2wvyv5j17o",
+      "provider": "BBC",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "status": "pending",
+      "firstSeenAt": 1792300324.43823,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
