@@ -50290,9 +50290,17 @@
       "status": "pending",
       "firstSeenAt": 1792288235.3385017,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/timor-leste-president-says-gas-deal-to-be-signed/107280310",
+      "provider": "ABC News Australia",
+      "title": "Timor-Leste president says stalled gas project 'finally happening'",
+      "status": "pending",
+      "firstSeenAt": 1792289531.7852757,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
