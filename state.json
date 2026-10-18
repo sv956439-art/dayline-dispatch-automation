@@ -50170,9 +50170,49 @@
       "status": "pending",
       "firstSeenAt": 1792281392.7486742,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792282436.5197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382",
+      "provider": "ABC News Australia",
+      "title": "Assistant treasurer knew about ATO's credit card ban plans months ago",
+      "status": "pending",
+      "firstSeenAt": 1792282436.8691902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434",
+      "provider": "ABC News Australia",
+      "title": "Thousands of surgery referrals missed in Sydney hospital email blunder",
+      "status": "pending",
+      "firstSeenAt": 1792282436.8692527,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/secret-meetings-over-gas-network-albany/107272216",
+      "provider": "ABC News Australia",
+      "title": "Gas company called 'rude' for not sharing decommissioning news earlier",
+      "status": "pending",
+      "firstSeenAt": 1792282436.8698723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/police-investigate-alleged-fatal-stabbing-st-albans/107280418",
+      "provider": "ABC News Australia",
+      "title": "Police investigate alleged stabbing death in Melbourne's west",
+      "status": "pending",
+      "firstSeenAt": 1792282436.8699055,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
