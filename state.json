@@ -50530,9 +50530,81 @@
       "status": "pending",
       "firstSeenAt": 1792307081.8061273,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cked3vl198eyo",
+      "provider": "BBC",
+      "title": "Martinez 'back in a few weeks' after operation",
+      "status": "pending",
+      "firstSeenAt": 1792308741.3548315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cmx2q94rppe9o",
+      "provider": "BBC",
+      "title": "New Zealand avoid World Cup shock against Fiji",
+      "status": "pending",
+      "firstSeenAt": 1792308741.4633741,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwn8dzjp41d1o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792308741.4635422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjly05yn12w5o",
+      "provider": "BBC",
+      "title": "Kirby 'stressed' by abrupt Vidosic exit from Brighton",
+      "status": "pending",
+      "firstSeenAt": 1792308741.4638858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792308741.6033883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792308741.6038055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792308741.603935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792308741.6043217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
+      "provider": "ABC News Australia",
+      "title": "Australia, South Africa set for second Test in drizzly Gqeberha",
+      "status": "pending",
+      "firstSeenAt": 1792308741.9787884,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
