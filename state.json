@@ -50858,9 +50858,17 @@
       "status": "pending",
       "firstSeenAt": 1792322587.3394654,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6dxwkd50d2zo",
+      "provider": "BBC",
+      "title": "Chin-up champion secures Guinness World Record title Former mixed marital artist Damien Rooney has broken the Guinness World Record for most chin-ups in an hour whilst wearing a 20lb weight. 6 hrs ago Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1792323953.8875668,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
