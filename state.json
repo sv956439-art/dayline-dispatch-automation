@@ -51026,9 +51026,41 @@
       "status": "pending",
       "firstSeenAt": 1792332702.3574462,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ckgelq18418eo",
+      "provider": "BBC",
+      "title": "Late tries give Pau bonus-point win over Leicester",
+      "status": "pending",
+      "firstSeenAt": 1792334117.9829776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/gymnastics/articles/c9zrd668n3yjo",
+      "provider": "BBC",
+      "title": "Olympic champion McClenaghan fails to make Worlds final",
+      "status": "pending",
+      "firstSeenAt": 1792334117.9830601,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck79plq5n08po",
+      "provider": "BBC",
+      "title": "Struggling Quins pick up welcome Challenge Cup win",
+      "status": "pending",
+      "firstSeenAt": 1792334117.9832003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138",
+      "provider": "ABC News Australia",
+      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "status": "pending",
+      "firstSeenAt": 1792334119.2059052,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
