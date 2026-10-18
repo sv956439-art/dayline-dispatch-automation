@@ -51002,9 +51002,33 @@
       "status": "pending",
       "firstSeenAt": 1792331712.2451081,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjx40x278zo",
+      "provider": "BBC",
+      "title": "9 Mum wants son with childhood dementia to 'experience life'",
+      "status": "pending",
+      "firstSeenAt": 1792332702.1094112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqm2411vp3dgo",
+      "provider": "BBC",
+      "title": "Britain's Kartal misses out on biggest title of her career Britain's Sonay Kartal misses out on the biggest title of her career as she fades in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska. 31 mins ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1792332702.1095176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792332702.3574462,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
