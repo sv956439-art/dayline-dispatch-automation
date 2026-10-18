@@ -50978,9 +50978,33 @@
       "status": "pending",
       "firstSeenAt": 1792330236.3856676,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv70pxe5j90eo",
+      "provider": "BBC",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "status": "pending",
+      "firstSeenAt": 1792331712.1812973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cly8q2rryejo",
+      "provider": "BBC",
+      "title": "Free clear-up has big engagement on social media",
+      "status": "pending",
+      "firstSeenAt": 1792331712.2450795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9lx01ynj8o",
+      "provider": "BBC",
+      "title": "Pony herd gathering raises money for air ambulance",
+      "status": "pending",
+      "firstSeenAt": 1792331712.2451081,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
