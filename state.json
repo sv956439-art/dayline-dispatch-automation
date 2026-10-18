@@ -51154,9 +51154,41 @@
       "status": "pending",
       "firstSeenAt": 1792342276.4815283,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp8gzj7jr8eo",
+      "provider": "BBC",
+      "title": "10 Smaller babies perform poorer as teens, study finds",
+      "status": "pending",
+      "firstSeenAt": 1792344704.1467047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792344704.3250737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792344704.3254936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/18/there-are-five-signs-that-someone-dislikes-you-but-its-best-to-ignore-them",
+      "provider": "The Guardian",
+      "title": "double quotation mark There are five signs that someone dislikes you – but it’s best to ignore them",
+      "status": "pending",
+      "firstSeenAt": 1792344704.3259954,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
