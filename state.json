@@ -51706,9 +51706,89 @@
       "status": "pending",
       "firstSeenAt": 1792364719.095156,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgxvkv54w1o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792365973.811924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj0ly1m3q81o",
+      "provider": "BBC",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "status": "pending",
+      "firstSeenAt": 1792365973.812556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792365974.2641282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792365974.2641523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792365974.2642634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792365974.2646904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
+      "provider": "The Guardian",
+      "title": "‘This is horrifying. This is madness’: the row over competitive yoga",
+      "status": "pending",
+      "firstSeenAt": 1792365974.2652378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
+      "provider": "The Guardian",
+      "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick",
+      "status": "pending",
+      "firstSeenAt": 1792365974.2652857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/alice-springs-crash-larapinta-drive-man-arrested-by-police/107280696",
+      "provider": "ABC News Australia",
+      "title": "NT Police find driver at crash scene with stab wounds, arrest 22yo suspect",
+      "status": "pending",
+      "firstSeenAt": 1792365975.381946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/coalition-promises-to-return-passenger-train-to-wimmera-mallee/107281650",
+      "provider": "ABC News Australia",
+      "title": "Victorian Liberal Nationals promise to return V/Line trains to Mildura",
+      "status": "pending",
+      "firstSeenAt": 1792365975.3819969,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
