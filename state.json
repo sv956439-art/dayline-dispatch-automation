@@ -51674,9 +51674,25 @@
       "status": "pending",
       "firstSeenAt": 1792361126.9024358,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8gz7zx4peo",
+      "provider": "BBC",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going The US president blocked numerous sanctions on Russia two days before they were due to take effect. 15 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1792362458.130778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/federal-politics-jacqui-lambie-one-nation-cartoon-pauline-hanson/107281792",
+      "provider": "ABC News Australia",
+      "title": "Jacqui Lambie slams 'nasty' One Nation cartoon mocking vaginal prolapse",
+      "status": "pending",
+      "firstSeenAt": 1792362459.4613376,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
