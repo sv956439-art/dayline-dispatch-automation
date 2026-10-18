@@ -50762,9 +50762,49 @@
       "status": "pending",
       "firstSeenAt": 1792320038.1596715,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l3ed21vz0o",
+      "provider": "BBC",
+      "title": "Man dies after being assaulted A man found with serious injuries near Blackhorse Avenue was later pronounced dead in hospital.",
+      "status": "pending",
+      "firstSeenAt": 1792321298.3934278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/cm0rl7504204o",
+      "provider": "BBC",
+      "title": "Finucane will 'come back fighting' after missing gold",
+      "status": "pending",
+      "firstSeenAt": 1792321298.4542446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm1j3nl91gg2o",
+      "provider": "BBC",
+      "title": "Rangers 'pop balloon' as Neil gift wastes chance to go top",
+      "status": "pending",
+      "firstSeenAt": 1792321298.4545474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/18/lib-dem-opposition-ed-davey-leadership-challenge-fails-to-materialise",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792321298.7990978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/oct/18/black-women-shakespeare-exhibit-washington-dc",
+      "provider": "The Guardian",
+      "title": "‘Shakespeare was a Black woman’: the playwright’s under-recognized connection to Black culture",
+      "status": "pending",
+      "firstSeenAt": 1792321298.7993987,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
