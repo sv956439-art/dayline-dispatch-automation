@@ -50298,9 +50298,17 @@
       "status": "pending",
       "firstSeenAt": 1792289531.7852757,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/rock-fishing-death-north-durras/107280396",
+      "provider": "ABC News Australia",
+      "title": "Woman dies while rock fishing on NSW far south coast",
+      "status": "pending",
+      "firstSeenAt": 1792291073.7566278,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
