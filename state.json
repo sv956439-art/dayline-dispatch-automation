@@ -50450,9 +50450,25 @@
       "status": "pending",
       "firstSeenAt": 1792301848.920119,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/ck3r59ywz99ro",
+      "provider": "BBC",
+      "title": "After Dubois' dominant win, what's next for heavyweight boxing? After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
+      "status": "pending",
+      "firstSeenAt": 1792303208.0085168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/greenpeace-protest-woodside-scarborough-gas-border-force/107280744",
+      "provider": "ABC News Australia",
+      "title": "Two people in custody after protest at offshore Woodside gas platform",
+      "status": "pending",
+      "firstSeenAt": 1792303208.6402838,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
