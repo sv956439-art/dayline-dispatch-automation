@@ -50362,9 +50362,17 @@
       "status": "pending",
       "firstSeenAt": 1792292612.119829,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr86z0w4lxdxo",
+      "provider": "BBC",
+      "title": "Deadly fire breaks out at Canada military base Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "status": "pending",
+      "firstSeenAt": 1792294086.994093,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
