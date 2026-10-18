@@ -50418,9 +50418,25 @@
       "status": "pending",
       "firstSeenAt": 1792297226.7948313,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/kelmscott-agricultural-show-lockdown-youths-fighting/107280674",
+      "provider": "ABC News Australia",
+      "title": "Violence forces lockdown, early closure of Perth agricultural show",
+      "status": "pending",
+      "firstSeenAt": 1792299080.9508364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500",
+      "provider": "ABC News Australia",
+      "title": "Labor pledges $30 toll cap as Coalition targets gas ban",
+      "status": "pending",
+      "firstSeenAt": 1792299080.9508884,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
