@@ -51226,9 +51226,49 @@
       "status": "pending",
       "firstSeenAt": 1792345976.9887352,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/women-allege-pregnancy-discrimination-in-public-service/107261040",
+      "provider": "ABC News Australia",
+      "title": "Women allege pregnancy discrimination inside government departments",
+      "status": "pending",
+      "firstSeenAt": 1792346813.9755156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/hunter-valley-wedding-bus-crash-survivors-recall-chaotic-night/107163850",
+      "provider": "ABC News Australia",
+      "title": "Survivors of 'bus trip from hell' break silence with a call for change",
+      "status": "pending",
+      "firstSeenAt": 1792346813.975652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "provider": "ABC News Australia",
+      "title": "Soaring AI stocks create lopsided US economy",
+      "status": "pending",
+      "firstSeenAt": 1792346813.9756987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/rental-applications-new-trend-group-applications/107274950",
+      "provider": "ABC News Australia",
+      "title": "Multi-family households now 20pc of rental applications, says realtor",
+      "status": "pending",
+      "firstSeenAt": 1792346813.975743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/economic-problems-crisis-procrastination-housing-aging-tax/107280264",
+      "provider": "ABC News Australia",
+      "title": "The cost of putting off an economic reckoning is looming",
+      "status": "pending",
+      "firstSeenAt": 1792346813.9757857,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
