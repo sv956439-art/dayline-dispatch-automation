@@ -50466,9 +50466,57 @@
       "status": "pending",
       "firstSeenAt": 1792303208.6402838,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1j3x66e1rno",
+      "provider": "BBC",
+      "title": "Heating oil customers face tough winter The government plans to regulate heating oil prices after increases.",
+      "status": "pending",
+      "firstSeenAt": 1792304752.350914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrwnzyv528o",
+      "provider": "BBC",
+      "title": "Seal pups spotted at nature reserve for 12th year",
+      "status": "pending",
+      "firstSeenAt": 1792304752.414785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9zrd8ej3lego",
+      "provider": "BBC",
+      "title": "Completion of roof on wildlife hospital marked",
+      "status": "pending",
+      "firstSeenAt": 1792304752.4148126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxly4qy1jez1o",
+      "provider": "BBC",
+      "title": "Beaver pair has new home at animal sanctuary",
+      "status": "pending",
+      "firstSeenAt": 1792304752.4148366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2dgl087lzo",
+      "provider": "BBC",
+      "title": "Corby metal pollution may harm people, says study",
+      "status": "pending",
+      "firstSeenAt": 1792304752.4148605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls",
+      "provider": "The Guardian",
+      "title": "There’s a lot of racism, a lot of hatred’: Far right gains predicted as Israel heads to the polls",
+      "status": "pending",
+      "firstSeenAt": 1792304752.7405276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
