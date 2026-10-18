@@ -51410,9 +51410,49 @@
       "status": "pending",
       "firstSeenAt": 1792352480.9591668,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwzrd6123jyyo",
+      "provider": "BBC",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27 Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "status": "pending",
+      "firstSeenAt": 1792353511.6935155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792353512.0274904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/australia-sa-quick-hits-boland-ackerman-rain/107280916",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Boland's rain-soaked brilliance and a touching family moment",
+      "status": "pending",
+      "firstSeenAt": 1792353512.4639602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/queensland-two-years-lnp-government-housing-construction/107249578",
+      "provider": "ABC News Australia",
+      "title": "Queensland's 'ambitious' plan for one million new homes leaves some feeling squeezed out",
+      "status": "pending",
+      "firstSeenAt": 1792353512.4645102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/man-arrested-investigation-gunman-sydney-dulwich-hill-lockdown/107281586",
+      "provider": "ABC News Australia",
+      "title": "Man arrested after gunman sparked Dulwich Hill lockdown in Sydney",
+      "status": "pending",
+      "firstSeenAt": 1792353512.464569,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
