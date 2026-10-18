@@ -50442,9 +50442,17 @@
       "status": "pending",
       "firstSeenAt": 1792300324.43823,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg47rwddpxko",
+      "provider": "BBC",
+      "title": "Church makes sainthood case for 'WW1 hero' priest Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
+      "status": "pending",
+      "firstSeenAt": 1792301848.920119,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
