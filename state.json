@@ -51450,9 +51450,57 @@
       "status": "pending",
       "firstSeenAt": 1792353512.464569,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3qjnyw8qe4do",
+      "provider": "BBC",
+      "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher' Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+      "status": "pending",
+      "firstSeenAt": 1792354470.676857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c62kezneyq8vo",
+      "provider": "BBC",
+      "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+      "status": "pending",
+      "firstSeenAt": 1792354470.6769173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/how-do-you-measure-productivity/107164704",
+      "provider": "ABC News Australia",
+      "title": "Wages can't rise until productivity does. But what if it already has?",
+      "status": "pending",
+      "firstSeenAt": 1792354471.7157893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/federal-politics-live-blog-jordon-steele-john/107281618",
+      "provider": "ABC News Australia",
+      "title": "Jordon Steele-John denies being on leave, says Greens leader 'let me and my team down'",
+      "status": "pending",
+      "firstSeenAt": 1792354471.7164495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/queensland-weather-showers-storms-unsettled-week/107280410",
+      "provider": "ABC News Australia",
+      "title": "Unsettled week for Queensland with storms and showers forecast",
+      "status": "pending",
+      "firstSeenAt": 1792354471.7164955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976",
+      "provider": "ABC News Australia",
+      "title": "ASX set to edge lower as oil keeps rising after Wall St slides on AI anxiety",
+      "status": "pending",
+      "firstSeenAt": 1792354471.716536,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
