@@ -50658,9 +50658,49 @@
       "status": "pending",
       "firstSeenAt": 1792311438.4834228,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm78pj867zxqo",
+      "provider": "BBC",
+      "title": "2 hrs ago How The Beatles found their drummer at Butlin's Ringo Starr was in a band at Butlin's Skegness in 1962 when Lennon and McCartney paid a visit. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792314482.1246715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy56wkl7dnyo",
+      "provider": "BBC",
+      "title": "2 hrs ago Artist honoured her surgeon with his portrait Ruth Swain tells the story of her breast cancer diagnosis and how she painted Dr Gerald Gui. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792314482.1247056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz7xvxz7nzwo",
+      "provider": "BBC",
+      "title": "3 hrs ago Indie band celebrates album's top 10 chart success The Howlers reached top 10 in the charts in several categories with its second album 'Heavy'. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792314482.124736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpqgnlv8erro",
+      "provider": "BBC",
+      "title": "3 hrs ago Artist uses show to address violence against women Prathiba Batley is taking her immersive performance 1,000 Papercuts to York University in October. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792314482.1247678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792314482.5467992,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
