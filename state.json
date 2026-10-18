@@ -50738,9 +50738,33 @@
       "status": "pending",
       "firstSeenAt": 1792318471.0393152,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/c64gr18jrvx3o",
+      "provider": "BBC",
+      "title": "How to see the Orionid meteor shower One of the best-known meteor showers peaks this week and will remain active until 7 November. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792320037.8931255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyrn9z9j3jo",
+      "provider": "BBC",
+      "title": "7 'The Queen told us off for riding tricycles indoors'",
+      "status": "pending",
+      "firstSeenAt": 1792320037.8933053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792320038.1596715,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
