@@ -51330,9 +51330,33 @@
       "status": "pending",
       "firstSeenAt": 1792348417.8866916,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792350007.3735173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792350007.3737762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/anz-suncorp-mortgage-repayments-to-rise/107274552",
+      "provider": "ABC News Australia",
+      "title": "Suncorp borrower's mortgage payments could spike amid transfer to ANZ",
+      "status": "pending",
+      "firstSeenAt": 1792350007.9767098,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
