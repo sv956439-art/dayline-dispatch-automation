@@ -51498,9 +51498,57 @@
       "status": "pending",
       "firstSeenAt": 1792354471.716536,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1kdzp093jwo",
+      "provider": "BBC",
+      "title": "Sage feels 'shame' at Palace thrashing with future in doubt Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job. 46 mins ago Crystal Palace",
+      "status": "pending",
+      "firstSeenAt": 1792355954.690267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmwyd05wj00do",
+      "provider": "BBC",
+      "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be. 2 hrs ago Brighton",
+      "status": "pending",
+      "firstSeenAt": 1792355954.69036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/cricket-smith-concussion-admission-anxiety-after-head-knock/107281648",
+      "provider": "ABC News Australia",
+      "title": "'Anxious' Smith's concussion admission after latest head knock",
+      "status": "pending",
+      "firstSeenAt": 1792355955.3798466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/legal-aid-nt-duty-lawyers-service-cuts-funding-limbo/107260510",
+      "provider": "ABC News Australia",
+      "title": "Man charged with attacking woman with iron bar has case shelved indefinitely",
+      "status": "pending",
+      "firstSeenAt": 1792355955.3805146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/lecc-town-hall-protest-public-examinations-nsw-police/107261744",
+      "provider": "ABC News Australia",
+      "title": "What to expect from police watchdog hearings into Herzog protest",
+      "status": "pending",
+      "firstSeenAt": 1792355955.3805993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/geelong-council-steps-in-to-prevent-coles-supermarket-opening/107279396",
+      "provider": "ABC News Australia",
+      "title": "Council moves to block Coles store near protected wetlands",
+      "status": "pending",
+      "firstSeenAt": 1792355955.3806493,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
