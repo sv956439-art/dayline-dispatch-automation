@@ -51266,9 +51266,73 @@
       "status": "pending",
       "firstSeenAt": 1792346813.9757857,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9m26kl5y7epo",
+      "provider": "BBC",
+      "title": "2 hrs ago Microsoft pulls out of UK's largest AI data centre Tech firm Nscale says it is still committed to building the site in Essex. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792348417.2001736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792348417.3548565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/this-week-in-history-quiz-october-19/107272654",
+      "provider": "ABC News Australia",
+      "title": "Get ready to go back in time with this week's history quiz",
+      "status": "pending",
+      "firstSeenAt": 1792348417.8864722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/cloudstreet-tim-winton-wins-top-100-australian-books/107275314",
+      "provider": "ABC News Australia",
+      "title": "35 years ago, Tim Winton was broke. Then he published Cloudstreet",
+      "status": "pending",
+      "firstSeenAt": 1792348417.8865223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/migrant-temporary-visas-family-violence-risk/106737340",
+      "provider": "ABC News Australia",
+      "title": "DV victim-survivors on temporary visas still 'at risk', advocates say",
+      "status": "pending",
+      "firstSeenAt": 1792348417.8865604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/native-orchid-conservation-photography/107254588",
+      "provider": "ABC News Australia",
+      "title": "Helping snap brilliant photos of orchids all part of conservation work",
+      "status": "pending",
+      "firstSeenAt": 1792348417.8866048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/economists-concerns-liberal-coalition-surplus-plan/107280322",
+      "provider": "ABC News Australia",
+      "title": "Economists question Victorian Liberal plan to deliver surplus while cutting taxes",
+      "status": "pending",
+      "firstSeenAt": 1792348417.8866487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/labor-albanese-election-victory-power-curse-purpose-agenda/107280798",
+      "provider": "ABC News Australia",
+      "title": "Winning the next election could be Labor's undoing",
+      "status": "pending",
+      "firstSeenAt": 1792348417.8866916,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
