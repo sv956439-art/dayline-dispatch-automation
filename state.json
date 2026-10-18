@@ -50802,9 +50802,65 @@
       "status": "pending",
       "firstSeenAt": 1792321298.7993987,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261016-the-shocking-truths-about-an-infamous-experiment-in-obedience",
+      "provider": "BBC",
+      "title": "The shocking lessons from an infamous 1960s experiment in obedience Modern-day replications of one of history's most disturbing social psychology experiments reveal what makes ordinary people obey an immoral order – and how to resist.",
+      "status": "pending",
+      "firstSeenAt": 1792322586.6786184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20231206-peeping-tom-the-1960-british-flop-that-invented-the-slasher-movie",
+      "provider": "BBC",
+      "title": "Peeping Tom: The flop that invented the slasher Michael Powell's daring 1960 British horror Peeping Tom disgusted critics and ended his career for nearly 20 years. It's often credited with inspiring the all-American \"slasher\" movie.",
+      "status": "pending",
+      "firstSeenAt": 1792322586.6794884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250616-the-darkest-childrens-film-ever-made",
+      "provider": "BBC",
+      "title": "How Return to Oz became one of the darkest children’s films ever made Released 40 years ago this week, The Wizard of Oz sequel was as scary as it was unconventional. It was a box office failure, but has since become a cult classic.",
+      "status": "pending",
+      "firstSeenAt": 1792322586.679517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20240515-the-terrifying-lost-1970s-horror-that-was-britains-answer-to-rosemarys-baby",
+      "provider": "BBC",
+      "title": "The 'lost' horror that's the UK's answer to Rosemary's Baby Little-remembered BBC film Robin Redbreast was a chilling parable – about a single, pregnant woman trapped in a sinister village – that was ahead of its time.",
+      "status": "pending",
+      "firstSeenAt": 1792322586.6795452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792322587.0021987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-how-we-do-it-marriage-counselling-sex-life",
+      "provider": "The Guardian",
+      "title": "This is how we do it: ‘After marriage counselling, she no longer wants the lights off and the covers on’",
+      "status": "pending",
+      "firstSeenAt": 1792322587.003089,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/leigh-hoffman-silver-medal-sprint-world-championships/107280954",
+      "provider": "ABC News Australia",
+      "title": "Australia claims second silver at track cycling world championships",
+      "status": "pending",
+      "firstSeenAt": 1792322587.3394654,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
