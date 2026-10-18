@@ -51634,9 +51634,41 @@
       "status": "pending",
       "firstSeenAt": 1792358451.793872,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792359989.5555997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792359989.5562773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/nsw-peptide-emergency-department-surge-prompts-warning/107281674",
+      "provider": "ABC News Australia",
+      "title": "'Very dangerous' unapproved peptide explosion hits NSW hospitals",
+      "status": "pending",
+      "firstSeenAt": 1792359990.6028626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/horror-movies-indonesia-regional-australia-toowoomba/107271162",
+      "provider": "ABC News Australia",
+      "title": "'Shared language of horror' uniting Aussie and Indonesian filmmakers",
+      "status": "pending",
+      "firstSeenAt": 1792359990.603732,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
