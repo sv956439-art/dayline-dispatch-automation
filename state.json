@@ -51570,9 +51570,73 @@
       "status": "pending",
       "firstSeenAt": 1792357255.5144691,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250512-the-horror-film-that-traumatised-millennials",
+      "provider": "BBC",
+      "title": "The horror film that traumatised millennials Twenty-five years ago, the first Final Destination terrified by making everyday scenarios into death traps. Now, after a 14-year break, a new sequel is tweaking the formula.",
+      "status": "pending",
+      "firstSeenAt": 1792358450.596076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250414-the-1950s-french-horror-that-inspired-psycho",
+      "provider": "BBC",
+      "title": "The 1950s French horror that inspired Psycho Seventy years old this year, Henri-Georges Clouzot's Les Diaboliques is a masterclass in macabre dread – and inspired Hitchcock's classic among others.",
+      "status": "pending",
+      "firstSeenAt": 1792358450.5961108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20251029-10-of-the-most-terrifying-moments-in-film",
+      "provider": "BBC",
+      "title": "10 of the most terrifying moments in film As people around the world mark Halloween, our editors pick the frightening scenes that have truly stayed with them.",
+      "status": "pending",
+      "firstSeenAt": 1792358450.5961413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/18/cbs-reporter-apologizes-abdul-el-sayed-post",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792358451.2746594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/france-reels-from-protest-violence-thousands-arrested/107281138",
+      "provider": "ABC News Australia",
+      "title": "Macron denounces 'unbridled' violence in France as 2,400 arrested",
+      "status": "pending",
+      "firstSeenAt": 1792358451.792494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646",
+      "provider": "ABC News Australia",
+      "title": "Trump endorses 'great warrior' Netanyahu ahead of Israeli election",
+      "status": "pending",
+      "firstSeenAt": 1792358451.79261,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/epl-diego-gomez-goal-halfway-line-david-beckham-brighton-win/107281698",
+      "provider": "ABC News Australia",
+      "title": "Brighton winger's long-range goal conjures decades-old memories of Beckham",
+      "status": "pending",
+      "firstSeenAt": 1792358451.7935371,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/man-charged-investigation-gunman-sydney-dulwich-hill-lockdown/107281586",
+      "provider": "ABC News Australia",
+      "title": "Man charged after gun lockdown in Sydney's Dulwich Hill",
+      "status": "pending",
+      "firstSeenAt": 1792358451.793872,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
