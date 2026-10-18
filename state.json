@@ -50514,9 +50514,25 @@
       "status": "pending",
       "firstSeenAt": 1792304752.7405276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/constellation-cup-netball-diamonds-silver-ferns/107280774",
+      "provider": "ABC News Australia",
+      "title": "Silver Ferns on top of Diamonds early in Constellation Cup opener",
+      "status": "pending",
+      "firstSeenAt": 1792307081.8057015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/teenager-rescued-from-brisbane-stormwater-drain/107280766",
+      "provider": "ABC News Australia",
+      "title": "Teenage boy rescued from Brisbane stormwater drain",
+      "status": "pending",
+      "firstSeenAt": 1792307081.8061273,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
