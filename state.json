@@ -50210,9 +50210,41 @@
       "status": "pending",
       "firstSeenAt": 1792282436.8699055,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2dgq8jljjo",
+      "provider": "BBC",
+      "title": "Three takeaways from Elon Musk's latest political donations New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
+      "status": "pending",
+      "firstSeenAt": 1792284862.027775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/dangerous-driving-police-assault/107280468",
+      "provider": "ABC News Australia",
+      "title": "Woman arrested after spate of hit-run crashes across Adelaide",
+      "status": "pending",
+      "firstSeenAt": 1792284862.8793075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/no-answers-for-family-of-missing-wa-man-five-years-on/107270862",
+      "provider": "ABC News Australia",
+      "title": "WA man likely met with foul play, but mystery tortures family five years on",
+      "status": "pending",
+      "firstSeenAt": 1792284862.879352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/tony-buti-public-university-mega-merger-wa/107275274",
+      "provider": "ABC News Australia",
+      "title": "Tony Buti's uni mega-merger faces opposition, controversy",
+      "status": "pending",
+      "firstSeenAt": 1792284862.8793926,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
