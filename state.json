@@ -50954,9 +50954,33 @@
       "status": "pending",
       "firstSeenAt": 1792328700.0193946,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/18/opposite-sex-marriages-end-after-20-years-divorce-england-wales-ons",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792330236.120162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792330236.120204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/constellation-cup-netball-diamonds-silver-ferns-game-one/107280774",
+      "provider": "ABC News Australia",
+      "title": "Diamonds centurions forced to the bench in Constellation Cup loss",
+      "status": "pending",
+      "firstSeenAt": 1792330236.3856676,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
