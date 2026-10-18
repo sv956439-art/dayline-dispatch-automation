@@ -50274,9 +50274,25 @@
       "status": "pending",
       "firstSeenAt": 1792286561.31849,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
+      "status": "pending",
+      "firstSeenAt": 1792288235.1232276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-18/australian-wildlife-conservancy-showcase-international-film/107269870",
+      "provider": "ABC News Australia",
+      "title": "Ten years of fighting against extinction brought to life on film",
+      "status": "pending",
+      "firstSeenAt": 1792288235.3385017,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
