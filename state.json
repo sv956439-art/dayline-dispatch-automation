@@ -53418,9 +53418,97 @@
       "status": "pending",
       "firstSeenAt": 1792426615.9390364,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr15jl7dd42vo",
+      "provider": "BBC",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling' Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "status": "pending",
+      "firstSeenAt": 1792428711.1336322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398rk4p3exo",
+      "provider": "BBC",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "status": "pending",
+      "firstSeenAt": 1792428711.1337087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv0ld6lrr2zeo",
+      "provider": "BBC",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "status": "pending",
+      "firstSeenAt": 1792428711.133726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c699zmz93nj5o",
+      "provider": "BBC",
+      "title": "'Walk away from drugs' urges family of Waterford arson victims",
+      "status": "pending",
+      "firstSeenAt": 1792428711.1337419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gel2dlyxvyo",
+      "provider": "BBC",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing The Saudi government did not immediately respond to BBC requests for comment.",
+      "status": "pending",
+      "firstSeenAt": 1792428711.1338518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792428711.6750638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792428711.675334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/19/farage-claim-that-5m-was-reward-for-brexit-was-not-press-office-line-close-aide-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792428711.6753628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792428711.6754165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/kansas-deaths-soccer-game-vehicle-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792428711.6754518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/russell-brand-woman-rape-allegations/107285830",
+      "provider": "ABC News Australia",
+      "title": "Woman tells court alleged rape by Russell Brand 'happened so fast'",
+      "status": "pending",
+      "firstSeenAt": 1792428712.1468322,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
