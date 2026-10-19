@@ -52650,9 +52650,57 @@
       "status": "pending",
       "firstSeenAt": 1792397993.297281,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxp8gdzj606zo",
+      "provider": "BBC",
+      "title": "Volunteers plant 109,000 trees in new woodlands",
+      "status": "pending",
+      "firstSeenAt": 1792400390.941496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm23zjqgvvvo",
+      "provider": "BBC",
+      "title": "Calls to phase out plastics in cemetery rejected",
+      "status": "pending",
+      "firstSeenAt": 1792400390.9415283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckwyq317l04wo",
+      "provider": "BBC",
+      "title": "'Major gas pipeline could be laid by our front door'",
+      "status": "pending",
+      "firstSeenAt": 1792400390.9415734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6q8nzqwzv30o",
+      "provider": "BBC",
+      "title": "'Handsome' ponies helping delicate flowers thrive",
+      "status": "pending",
+      "firstSeenAt": 1792400390.9416006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/brendan-hannam-funeral-australian-soldier-military-exercise-nt/107284388",
+      "provider": "ABC News Australia",
+      "title": "Funeral held for Australian soldier killed in military exercise",
+      "status": "pending",
+      "firstSeenAt": 1792400391.6566525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/regional-australia-migration-trend-queensland-sydney-melbourne/107282696",
+      "provider": "ABC News Australia",
+      "title": "Tropics attract city dwellers in regional migration trend",
+      "status": "pending",
+      "firstSeenAt": 1792400391.6578665,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
