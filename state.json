@@ -54050,9 +54050,73 @@
       "status": "pending",
       "firstSeenAt": 1792444391.098581,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792446091.795793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792446091.7961373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792446091.7962334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792446091.7962494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/australia-sa-quick-hits-day-two-reshaw-bavuma-hazlewood/107285064",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Renshaw floored by miracle grab as Bavuma's six stops traffic",
+      "status": "pending",
+      "firstSeenAt": 1792446092.39757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036",
+      "provider": "ABC News Australia",
+      "title": "New video of Sydney Town Hall protest shows excessive force, court told",
+      "status": "pending",
+      "firstSeenAt": 1792446092.3980362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/japan-launches-mission-to-collect-mars-moon-samples/107283312",
+      "provider": "ABC News Australia",
+      "title": "Japan launches first mission to collect samples from Martian moon",
+      "status": "pending",
+      "firstSeenAt": 1792446092.398067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/roe-8-rehabilitation-progressing-well-almost-decade-on/107266880",
+      "provider": "ABC News Australia",
+      "title": "Efforts to rehabilitate land damaged by Roe 8 works exceeding expectations",
+      "status": "pending",
+      "firstSeenAt": 1792446092.3981128,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
