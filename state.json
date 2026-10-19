@@ -53602,9 +53602,97 @@
       "status": "pending",
       "firstSeenAt": 1792431926.5213957,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
+      "provider": "BBC",
+      "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
+      "status": "pending",
+      "firstSeenAt": 1792433423.7843606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ez1334ed3o",
+      "provider": "BBC",
+      "title": "Airport set to be bought by mayor in landmark deal",
+      "status": "pending",
+      "firstSeenAt": 1792433423.8730392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjny5qwdx7o",
+      "provider": "BBC",
+      "title": "Hospitality leader praises work permit extension",
+      "status": "pending",
+      "firstSeenAt": 1792433423.87307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792433424.051522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792433424.0518076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/europe-protests-explained-as-demonstrations-grow/107285508",
+      "provider": "ABC News Australia",
+      "title": "Why protests are spreading across Europe, as France imposes first curfews",
+      "status": "pending",
+      "firstSeenAt": 1792433424.5077136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/rising-political-cost-of-growing-inequality/107284494",
+      "provider": "ABC News Australia",
+      "title": "The dark forces driving discontent across the developed world",
+      "status": "pending",
+      "firstSeenAt": 1792433424.5090816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/aged-care-migrant-workers-visa-safeguards/107261502",
+      "provider": "ABC News Australia",
+      "title": "Aged care providers warn migration cuts could worsen staff shortage",
+      "status": "pending",
+      "firstSeenAt": 1792433424.5091295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/removing-stamp-duty-could-improve-home-ownership/107276324",
+      "provider": "ABC News Australia",
+      "title": "Stamp duty is hundreds of years old and removing it could boost home ownership",
+      "status": "pending",
+      "firstSeenAt": 1792433424.5091767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/push-to-force-petrol-companies-to-buy-australian-biofuels/107269440",
+      "provider": "ABC News Australia",
+      "title": "While Australia scrambled for fuel, millions of litres were being exported offshore",
+      "status": "pending",
+      "firstSeenAt": 1792433424.5092027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/sense-and-sensibility-2026-adaptation-daisy-edgar-jones/107282896",
+      "provider": "ABC News Australia",
+      "title": "Sisterly sensibility in focus as Austen classic returns to big screen",
+      "status": "pending",
+      "firstSeenAt": 1792433424.5092483,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
