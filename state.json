@@ -53338,9 +53338,49 @@
       "status": "pending",
       "firstSeenAt": 1792423086.0952754,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq398rkpjljlo",
+      "provider": "BBC",
+      "title": "Uefa gives Infantino two-week deadline to release key documents European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November. 11 mins ago World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792425111.4278133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq8n7l0le11o",
+      "provider": "BBC",
+      "title": "In pictures: French landmarks damaged and destroyed by violent protesters France is used to protests but the violence and damage seen across the country is shocking many people.",
+      "status": "pending",
+      "firstSeenAt": 1792425111.4283407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8xzrljv72ro",
+      "provider": "BBC",
+      "title": "Vinted blocks French looters listing stolen goods for sale The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "status": "pending",
+      "firstSeenAt": 1792425111.5367196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792425111.6913614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792425111.691618,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
