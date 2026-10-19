@@ -52178,9 +52178,105 @@
       "status": "pending",
       "firstSeenAt": 1792384808.243079,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.0293944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.029539,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/chris-minns-bill-expansion-mount-pleasant-coalmine-high-court-decision",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.029669,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.0297978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.0301855,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/19/up-to-20-maternity-units-england-shut-nhs-warning-matthew-hopkins",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.0302076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792386858.0302305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/new-zealand-election-strained-healthcare-system",
+      "provider": "The Guardian",
+      "title": "‘You reach a tipping point’: New Zealand’s strained healthcare system at centre of election battle",
+      "status": "pending",
+      "firstSeenAt": 1792386858.0306122,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/gosnells-house-shooting-boy-charged-/107283624",
+      "provider": "ABC News Australia",
+      "title": "Boy, 13, charged over drive-by shooting at Perth home",
+      "status": "pending",
+      "firstSeenAt": 1792386858.4747505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/tinned-fish-recipes-for-weeknight-dinner/107267236",
+      "provider": "ABC News Australia",
+      "title": "Turn a tin of fish into an easy dinner with these budget-friendly recipes",
+      "status": "pending",
+      "firstSeenAt": 1792386858.4752457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/nuclear-agency-targeted-in-cyber-attack-infecting-devices/107283804",
+      "provider": "ABC News Australia",
+      "title": "Israeli company weaponised online advertising to track millions of devices",
+      "status": "pending",
+      "firstSeenAt": 1792386858.4757743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/resource-helps-idenifty-invisble-chains-of-modern-slavery-/107264278",
+      "provider": "ABC News Australia",
+      "title": "New tool to help GPs identify victims of modern slavery",
+      "status": "pending",
+      "firstSeenAt": 1792386858.4758563,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
