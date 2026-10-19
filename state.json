@@ -53762,9 +53762,97 @@
       "status": "pending",
       "firstSeenAt": 1792435549.3143535,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck9qznlywy8no",
+      "provider": "BBC",
+      "title": "Ronaldo handed 30-day suspension by Portuguese FA Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
+      "status": "pending",
+      "firstSeenAt": 1792437552.4389982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2wqwxvyxlo",
+      "provider": "BBC",
+      "title": "Kylie Jenner's debut at Victoria's Secret Fashion Show in $50m bra sparks mixed reaction The reality star's surprise appearance on the runway in the diamond encrusted piece has sparked mixed reaction. 6 hrs ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1792437552.4877815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792437552.649709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792437552.6500704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792437552.650086,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/main-group-fx-boss-with-possible-links-to-terrorism/107159102",
+      "provider": "ABC News Australia",
+      "title": "Inside the disappearing investment scheme with possible terrorism links",
+      "status": "pending",
+      "firstSeenAt": 1792437553.0342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/labor-trust-tax-60-per-cent-explained/107284622",
+      "provider": "ABC News Australia",
+      "title": "Could Labor's trust tax be as much as 60 per cent? Yes, but there's a reason",
+      "status": "pending",
+      "firstSeenAt": 1792437553.0343902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/tas-kunanyi-mountain-bike-harassment/107260762",
+      "provider": "ABC News Australia",
+      "title": "Ranger faces harassment after illegal mountain bike tracks shut down",
+      "status": "pending",
+      "firstSeenAt": 1792437553.0344493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/adelaide-caper-white-butterfly-migration/107282818",
+      "provider": "ABC News Australia",
+      "title": "'Extremely fortunate' conditions sees caper white butterflies flock to Adelaide",
+      "status": "pending",
+      "firstSeenAt": 1792437553.034968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/coalmine-site-chosen-for-train-manufacturing-facility/107283046",
+      "provider": "ABC News Australia",
+      "title": "Former Hunter coalmine site chosen for train manufacturing facility",
+      "status": "pending",
+      "firstSeenAt": 1792437553.0349975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ethical-fashion-report-australian-industry-stalling/107274548",
+      "provider": "ABC News Australia",
+      "title": "Ethical practices in Australian fashion industry stalling, report finds",
+      "status": "pending",
+      "firstSeenAt": 1792437553.0350266,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
