@@ -53242,9 +53242,105 @@
       "status": "pending",
       "firstSeenAt": 1792420957.05072,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwn8d48je057o",
+      "provider": "BBC",
+      "title": "Are free-scoring Brighton genuine title contenders? Brighton's start to the season has surprised many outsiders. But how high could they finish?",
+      "status": "pending",
+      "firstSeenAt": 1792423085.749578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck87zezvln97o",
+      "provider": "BBC",
+      "title": "Northampton 'security incident' believed to be a hoax",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8526602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq62yd157rjeo",
+      "provider": "BBC",
+      "title": "Everton legend Ferguson returns to management in Irish League",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8526807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr0qklk232w3o",
+      "provider": "BBC",
+      "title": "Ex-world champion boxer Liam Smith 'punched man on floor'",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8528414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwnv074l4nvyo",
+      "provider": "BBC",
+      "title": "Wales great Evans to leave role as Lions chairman",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8528616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6ev32zvzv01o",
+      "provider": "BBC",
+      "title": "Hearts humiliated - but would Vrancken do anything differently?",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8528829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/gymnastics/articles/c5pvgjp2ml7vo",
+      "provider": "BBC",
+      "title": "GB stars aim for Olympic spots at World Championships",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8530054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyr3rrxnrxo",
+      "provider": "BBC",
+      "title": "Morgan Gibbs-White fined after his car ran red light",
+      "status": "pending",
+      "firstSeenAt": 1792423085.8530912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792423086.094642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792423086.0949585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792423086.095156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/looting-french-cities-continues-second-night",
+      "provider": "The Guardian",
+      "title": "‘It looks like a war zone’: France reels as looting continues for second night",
+      "status": "pending",
+      "firstSeenAt": 1792423086.0952754,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
