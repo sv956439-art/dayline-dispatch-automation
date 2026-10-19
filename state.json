@@ -52490,9 +52490,89 @@
       "status": "pending",
       "firstSeenAt": 1792392991.358557,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792395560.0153456,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792395560.0154533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792395560.015782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/helen-haines-injured-in-incident-near-wangaratta-office/107284764",
+      "provider": "ABC News Australia",
+      "title": "Independent MP Helen Haines injured in incident near Wangaratta office",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4921362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/test-cricket-live-updates-south-africa-vs-australia/107282378",
+      "provider": "ABC News Australia",
+      "title": "Australia battles the weather on day two of second Test",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4925227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/navy-member-stood-down-with-pay-hmas-leeuwin/107284826",
+      "provider": "ABC News Australia",
+      "title": "Navy member stood down with pay after recording device found",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4925964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/sydney-councillor-resigns-hunters-hill-council/107282630",
+      "provider": "ABC News Australia",
+      "title": "Sydney councillor resigns from Hunter's Hill Council over 'toxic chamber'",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4932234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/whyalla-blast-furnace-fail-gupta-to-blame-safety-issues/107282744",
+      "provider": "ABC News Australia",
+      "title": "'Long decline': Billionaire's company refuses to take blame for Whyalla failure",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4932623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/qld-police-unable-rule-dogs-out-of-death-of-man/107284474",
+      "provider": "ABC News Australia",
+      "title": "Police 'unable to rule out' dogs' involvement in man's death after attack",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4933002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/darcie-brown-back-injury-ruled-out-of-wbbl/107284702",
+      "provider": "ABC News Australia",
+      "title": "Aussie seamer Darcie Brown cut down by back injury",
+      "status": "pending",
+      "firstSeenAt": 1792395560.4938123,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
