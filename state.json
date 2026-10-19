@@ -53186,9 +53186,65 @@
       "status": "pending",
       "firstSeenAt": 1792418939.7205634,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crd6dn63j2xwo",
+      "provider": "BBC",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game The game continued after the incident. The American Conference said the decision was made before his death was known. 28 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792420956.7235413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckd7qy12j148o",
+      "provider": "BBC",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation The two top tennis pros married in 2021 and have one child together.",
+      "status": "pending",
+      "firstSeenAt": 1792420956.7240417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx30ez03djyqo",
+      "provider": "BBC",
+      "title": "French PM calls for cities to impose curfews after violent weekend protests",
+      "status": "pending",
+      "firstSeenAt": 1792420956.724063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp9g43g2p07o",
+      "provider": "BBC",
+      "title": "Australian MP critically injured after apparent car attack",
+      "status": "pending",
+      "firstSeenAt": 1792420956.7240832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck98zlzyqle3o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792420956.7968304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/19/st-andrews-university-scotland-students-raisin-monday-foam-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792420957.0506895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792420957.05072,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
