@@ -53690,9 +53690,81 @@
       "status": "pending",
       "firstSeenAt": 1792433424.5092483,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmj47yx572z5o",
+      "provider": "BBC",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+      "status": "pending",
+      "firstSeenAt": 1792435548.1839278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
+      "provider": "BBC",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "status": "pending",
+      "firstSeenAt": 1792435548.1840699,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw7vplvjd3elo",
+      "provider": "BBC",
+      "title": "Capybara pups at Manx zoo draw record crowds",
+      "status": "pending",
+      "firstSeenAt": 1792435548.2424684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792435548.4802332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines remains critical as police investigation continues after 'attack'",
+      "status": "pending",
+      "firstSeenAt": 1792435549.3131819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/helen-haines-alleged-attack-spectre-of-political-violence/107285332",
+      "provider": "ABC News Australia",
+      "title": "We've watched policial violence grow overseas. Now it's arrived on our shores",
+      "status": "pending",
+      "firstSeenAt": 1792435549.3133292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/expeditioners-questioned-macquarie-island-evacuation-bird-flu/107282988",
+      "provider": "ABC News Australia",
+      "title": "Expeditioners questioned decision to evacuate Macquarie Island over bird flu risk",
+      "status": "pending",
+      "firstSeenAt": 1792435549.3142905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/dee-dee-bridgewater-on-jazz-love-and-leftover-dreams/107264376",
+      "provider": "ABC News Australia",
+      "title": "How an old song forced jazz legend Dee Dee Bridgewater to confront past regrets",
+      "status": "pending",
+      "firstSeenAt": 1792435549.314323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/nsw-uts-review-findings-complaints-handling-palestine-protests/107284820",
+      "provider": "ABC News Australia",
+      "title": "UTS 'poorly managed' Jewish student complaints after pro-Palestine protest",
+      "status": "pending",
+      "firstSeenAt": 1792435549.3143535,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
