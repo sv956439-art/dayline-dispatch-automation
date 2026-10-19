@@ -51874,9 +51874,33 @@
       "status": "pending",
       "firstSeenAt": 1792369785.607174,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792372315.870908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/wa-town-kununurra-loses-major-flower-supplier/107260084",
+      "provider": "ABC News Australia",
+      "title": "Small-scale florists hope to fill gap for romantics in Kununurra",
+      "status": "pending",
+      "firstSeenAt": 1792372316.472384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326",
+      "provider": "ABC News Australia",
+      "title": "Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber",
+      "status": "pending",
+      "firstSeenAt": 1792372316.4724329,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
