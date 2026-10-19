@@ -54242,9 +54242,81 @@
       "status": "pending",
       "firstSeenAt": 1792452359.610585,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqxn4gggdw4o",
+      "provider": "BBC",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "status": "pending",
+      "firstSeenAt": 1792454022.1551807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cq398r1gxw02o",
+      "provider": "BBC",
+      "title": "England coach should be English, suggests Fleming",
+      "status": "pending",
+      "firstSeenAt": 1792454022.1554403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqgm0zy4d23po",
+      "provider": "BBC",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "status": "pending",
+      "firstSeenAt": 1792454022.2502367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvze4w57746yo",
+      "provider": "BBC",
+      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
+      "status": "pending",
+      "firstSeenAt": 1792454022.2503538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crjwe6wyjeqwo",
+      "provider": "BBC",
+      "title": "Liverpool and Man Utd eye Nmecha - Tuesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792454022.250546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cw1l38g6lz88o",
+      "provider": "BBC",
+      "title": "How have Canada closed gap to world champions England?",
+      "status": "pending",
+      "firstSeenAt": 1792454022.250598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792454022.5612755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/wangaratta-barber-bystanders-driver-helen-haines-attack/107286296",
+      "provider": "ABC News Australia",
+      "title": "Barber denies heroism over Haines attack, hails person who sat in front of car",
+      "status": "pending",
+      "firstSeenAt": 1792454023.0927022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/con-man-noah-musingku-dies-bougainville-ponzi-scheme/107283884",
+      "provider": "ABC News Australia",
+      "title": "Con man who fleeced millions of dollars dies in self-declared 'kingdom'",
+      "status": "pending",
+      "firstSeenAt": 1792454023.0928044,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
