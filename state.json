@@ -52050,9 +52050,89 @@
       "status": "pending",
       "firstSeenAt": 1792380907.579904,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckd6d2l3dz4xo",
+      "provider": "BBC",
+      "title": "Judgement day for Kenya pastor accused of ordering parents to starve their children to death Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell. 25 mins ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1792383020.498731,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckn9wrr75dyeo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792383020.5917923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5y832v8ddo",
+      "provider": "BBC",
+      "title": "9 The portraits that helped bring the lost Aberfan children home",
+      "status": "pending",
+      "firstSeenAt": 1792383020.5921917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/david-shoebridge-jordon-steele-john-greens-emergency-meeting-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792383021.072837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792383021.0728934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792383021.073288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/elizabeth-struhs-inquest/107282646",
+      "provider": "ABC News Australia",
+      "title": "Elizabeth Struhs's mother trusted God would 'heal' 8yo, inquest hears",
+      "status": "pending",
+      "firstSeenAt": 1792383021.7845333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/vhs-tape-to-be-analysed-in-janine-vaughan-cold-case/107282090",
+      "provider": "ABC News Australia",
+      "title": "US expert contacted over VHS footage of missing woman's last sighting",
+      "status": "pending",
+      "firstSeenAt": 1792383021.7853186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/copper-theft-queen-victoria-gunpowder-magazine-hobart/107282994",
+      "provider": "ABC News Australia",
+      "title": "Copper thieves hit 175-year-old gunpowder storage site",
+      "status": "pending",
+      "firstSeenAt": 1792383021.7853568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/universal-outdoor-mobile-obligation-bill-is-now-law/107263116",
+      "provider": "ABC News Australia",
+      "title": "Basic mobile coverage is now law, but only Starlink can offer it",
+      "status": "pending",
+      "firstSeenAt": 1792383021.7853944,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
