@@ -53938,9 +53938,57 @@
       "status": "pending",
       "firstSeenAt": 1792439542.4958875,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/scott-boland-and-mitchell-starc-keep-australia-on-top-day-two/107285958",
+      "provider": "ABC News Australia",
+      "title": "One man down and on a flattening pitch, Boland and Starc continue to shine",
+      "status": "pending",
+      "firstSeenAt": 1792441219.8918386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/elina-svitolina-gael-monfils-end-marriage-cite-ukraine-war/107286014",
+      "provider": "ABC News Australia",
+      "title": "Toll of war in Ukraine cited as Svitolina, Monfils announce end of marriage",
+      "status": "pending",
+      "firstSeenAt": 1792441219.8923233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/cattle-stations-in-gulf-cape-to-become-national-parks/107284348",
+      "provider": "ABC News Australia",
+      "title": "'Crown jewels' of Australia's savannah tropics to become national parks",
+      "status": "pending",
+      "firstSeenAt": 1792441219.8923635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/fatal-bus-crash-phillip-island-engulfed-in-flames/107286018",
+      "provider": "ABC News Australia",
+      "title": "Driver killed, bus and car engulfed in flames on Phillip Island",
+      "status": "pending",
+      "firstSeenAt": 1792441219.8924015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/what-would-it-take-to-remove-act-labor-from-power-25-years/107283808",
+      "provider": "ABC News Australia",
+      "title": "'One election at a time': ACT Labor marks 25 years in power",
+      "status": "pending",
+      "firstSeenAt": 1792441219.892459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/queensland-two-years-lnp-government-youth-crime/107238492",
+      "provider": "ABC News Australia",
+      "title": "LNP says 'a long way to go to reverse' Queensland's youth crime crisis",
+      "status": "pending",
+      "firstSeenAt": 1792441219.8924959,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
