@@ -53506,9 +53506,57 @@
       "status": "pending",
       "firstSeenAt": 1792428712.1468322,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck8dz7pp4089o",
+      "provider": "BBC",
+      "title": "Araujo the stopgap solution fixing Liverpool's problems",
+      "status": "pending",
+      "firstSeenAt": 1792430200.7584414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c83vqzkrr9zeo",
+      "provider": "BBC",
+      "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+      "status": "pending",
+      "firstSeenAt": 1792430200.8424726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw33x6gzgdm0o",
+      "provider": "BBC",
+      "title": "Apu returns to The Simpsons with new voice after race row",
+      "status": "pending",
+      "firstSeenAt": 1792430200.8424973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm86z4l5l9eyo",
+      "provider": "BBC",
+      "title": "50 mins ago Inside the studio bringing Hollywood to Berkshire We sent Rich Clarke to see where some of the world's biggest films get made. 50 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792430200.8428826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2d925dx14o",
+      "provider": "BBC",
+      "title": "3 hrs ago Fans pay tribute to Liam Payne two years on Tributes from as far away as New Zealand are being left at a memorial in the singer's home city. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792430200.8429081,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792430201.3533735,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
