@@ -54194,9 +54194,57 @@
       "status": "pending",
       "firstSeenAt": 1792450881.7898574,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c98rzynj6e1yo",
+      "provider": "BBC",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+      "status": "pending",
+      "firstSeenAt": 1792452358.254563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ev30xwy8v2o",
+      "provider": "BBC",
+      "title": "2 'I started ketamine at 14 and needed nappies at 22' - the rise of young people going to rehab",
+      "status": "pending",
+      "firstSeenAt": 1792452358.34443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmglwnw2d3d8o",
+      "provider": "BBC",
+      "title": "4 Charging battery believed to have caused house fire",
+      "status": "pending",
+      "firstSeenAt": 1792452358.344486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792452358.7493272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/brendan-nugent-in-custody-attack-against-helen-haines/107286318",
+      "provider": "ABC News Australia",
+      "title": "Man in custody over attack against Helen Haines named",
+      "status": "pending",
+      "firstSeenAt": 1792452359.6092203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/toxic-sea-hares-eden-aislings-beach/107263052",
+      "provider": "ABC News Australia",
+      "title": "Toxic sea hares wash up on NSW beach, posing threat to pets",
+      "status": "pending",
+      "firstSeenAt": 1792452359.610585,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
