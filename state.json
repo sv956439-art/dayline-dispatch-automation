@@ -52274,9 +52274,49 @@
       "status": "pending",
       "firstSeenAt": 1792386858.4758563,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c68xz5lvnz0ro",
+      "provider": "BBC",
+      "title": "Inside British number one Kartal's remarkable comeback",
+      "status": "pending",
+      "firstSeenAt": 1792388621.7711706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c6eweg47wv11o",
+      "provider": "BBC",
+      "title": "How one rule change is altering the face of one-day cricket",
+      "status": "pending",
+      "firstSeenAt": 1792388621.7711978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck98z9n67gd3o",
+      "provider": "BBC",
+      "title": "38 mins ago Gig-going artist draws 'crazy crowds' from mosh pit Sam Joesbury draws pictures of crowds at concerts while dancing in the mosh pit himself. 38 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792388621.8455958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/sex-discrimination-report-urges-laws-to-protect-pregnant-workers/107269648",
+      "provider": "ABC News Australia",
+      "title": "Sex discrimination laws are failing mothers, commissioner says",
+      "status": "pending",
+      "firstSeenAt": 1792388622.9920366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/nsw-police-hunt-man-allegedly-masturbating-event-cinemas-burwood/107284060",
+      "provider": "ABC News Australia",
+      "title": "Mum describes man's alleged sex act at Sydney baby-friendly movie",
+      "status": "pending",
+      "firstSeenAt": 1792388622.9920738,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
