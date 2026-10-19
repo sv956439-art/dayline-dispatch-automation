@@ -52386,9 +52386,113 @@
       "status": "pending",
       "firstSeenAt": 1792390396.1107998,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8qln023grz3o",
+      "provider": "BBC",
+      "title": "1 hr ago Family to return home after five years at sea A visit by Logos Hope to Manx waters next month marks the start of a new journey for one family. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792392990.678796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw62y8z1jr80o",
+      "provider": "BBC",
+      "title": "2 hrs ago Call for artists to bring dragon trail to life Organsiers invite regional and national artists to submit designs for the nine-week trail. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792392990.6788285,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckqxn4xnnp1zo",
+      "provider": "BBC",
+      "title": "2 hrs ago 'My dad made monsters for the movies' Winchester hosts an exhibition dedicated to movie monster maker Ray Harryhausen. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792392990.6788633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/france-anti-narco-activist-amine-kessaci-defying-biggest-drug-cartel-murder-trial-brothers",
+      "provider": "The Guardian",
+      "title": "‘Narcos have one language – violence’: the activist defying France’s biggest drug cartel after his brothers’ murder",
+      "status": "pending",
+      "firstSeenAt": 1792392990.918417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/ghost-shark-fleet-aerial-drones-sea-mines-defence/107283746",
+      "provider": "ABC News Australia",
+      "title": "Ghost Sharks to be armed with aerial drones and advanced sea mines",
+      "status": "pending",
+      "firstSeenAt": 1792392991.3572493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/manunda-rape-trial-childrens-court-cairns/107282606",
+      "provider": "ABC News Australia",
+      "title": "Boy accused of detaining husband at knifepoint liable for rape, court told",
+      "status": "pending",
+      "firstSeenAt": 1792392991.357433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/st-kilda-player-charlie-banfield-friend-injured-in-car-accident/107283320",
+      "provider": "ABC News Australia",
+      "title": "St Kilda AFL player Charlie Banfield accidentally runs over friend with car",
+      "status": "pending",
+      "firstSeenAt": 1792392991.357998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/kumanjayi-little-baby-child-protection-review-tabled-parliament/107283738",
+      "provider": "ABC News Australia",
+      "title": "Report into department's handling of Kumanjayi Little Baby to be released",
+      "status": "pending",
+      "firstSeenAt": 1792392991.3580296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/man-trades-fake-gold-bullion-for-mountain-bike/107283812",
+      "provider": "ABC News Australia",
+      "title": "Man who traded fake gold bars for e-bike ordered to repay $7.5k",
+      "status": "pending",
+      "firstSeenAt": 1792392991.3580618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/vad-requests-exceed-predictions-in-wa/107284526",
+      "provider": "ABC News Australia",
+      "title": "Voluntary assisted dying uptake in WA far higher than predicted",
+      "status": "pending",
+      "firstSeenAt": 1792392991.3580935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/mount-pleasant-mine-nsw-government-legislation-jobs/107282908",
+      "provider": "ABC News Australia",
+      "title": "NSW government drafts law to allow Upper Hunter mine to increase output",
+      "status": "pending",
+      "firstSeenAt": 1792392991.3581405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/act-human-rights-commission-complaints-on-the-rise/107281948",
+      "provider": "ABC News Australia",
+      "title": "'They don't care about other people's feelings': Racism complaints rise",
+      "status": "pending",
+      "firstSeenAt": 1792392991.3584025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/victim-confronts-sydney-moore-park-rapist-in-nsw-court/107284370",
+      "provider": "ABC News Australia",
+      "title": "'I was terrified, you had a knife', victim tells 'Moore Park rapist' in court",
+      "status": "pending",
+      "firstSeenAt": 1792392991.358557,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
