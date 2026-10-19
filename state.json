@@ -54130,9 +54130,73 @@
       "status": "pending",
       "firstSeenAt": 1792447702.4135602,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwz0v8le7y3eo",
+      "provider": "BBC",
+      "title": "Maddison's magic moment for Spurs - 18 months in the making On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+      "status": "pending",
+      "firstSeenAt": 1792450880.2080443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792450880.6251123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792450880.625532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792450880.626019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/video/2026/oct/19/us-citizen-injured-by-ice-agents-in-california-video",
+      "provider": "The Guardian",
+      "title": "US citizen injured by ICE agents in California – video",
+      "status": "pending",
+      "firstSeenAt": 1792450880.6264062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/nab-slashes-jobs-in-massive-restructure/107286316",
+      "provider": "ABC News Australia",
+      "title": "NAB to slash up to 2,500 jobs in massive restructure",
+      "status": "pending",
+      "firstSeenAt": 1792450881.7889194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ten-songs-named-after-famous-people-nicole-kidman-elon-musk/107283250",
+      "provider": "ABC News Australia",
+      "title": "Ten songs named after famous people from Nicole Kidman to Elon Musk",
+      "status": "pending",
+      "firstSeenAt": 1792450881.7898204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/man-in-custody-alleged-attack-against-helen-haines-named/107286318",
+      "provider": "ABC News Australia",
+      "title": "Man in custody over alleged attack against Helen Haines named",
+      "status": "pending",
+      "firstSeenAt": 1792450881.7898574,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
