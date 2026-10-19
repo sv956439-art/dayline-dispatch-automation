@@ -51826,9 +51826,57 @@
       "status": "pending",
       "firstSeenAt": 1792368015.7426748,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pwgzkj8zzgo",
+      "provider": "BBC",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war. 23 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1792369784.6392686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89z008x7xdo",
+      "provider": "BBC",
+      "title": "People playing loud music on buses could face £100 fine Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+      "status": "pending",
+      "firstSeenAt": 1792369784.7315328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/indonesias-new-capital-nusantara-not-living-up-to-promise/107255734",
+      "provider": "ABC News Australia",
+      "title": "Inside the 'ghost city' designed to become Indonesia's new capital",
+      "status": "pending",
+      "firstSeenAt": 1792369785.6063094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/judges-reasons-on-mcphillamys-goldmine-court-case/107268788",
+      "provider": "ABC News Australia",
+      "title": "Judge finds Aboriginal protection order on goldmine 'fundamentally flawed'",
+      "status": "pending",
+      "firstSeenAt": 1792369785.60666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/bullara-station-rebuilds-after-cyclone-narelle/107275146",
+      "provider": "ABC News Australia",
+      "title": "Bullara Station finds 'silver linings' following Cyclone Narelle",
+      "status": "pending",
+      "firstSeenAt": 1792369785.6071312,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/susan-neill-fraser-television-interview-60-minutes/107278958",
+      "provider": "ABC News Australia",
+      "title": "Convicted killer Susan Neill-Fraser says she'll keep fighting to clear her name",
+      "status": "pending",
+      "firstSeenAt": 1792369785.607174,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
