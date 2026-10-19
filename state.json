@@ -53378,9 +53378,49 @@
       "status": "pending",
       "firstSeenAt": 1792425111.691618,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792426615.4545572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792426615.4550035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792426615.4553251,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792426615.4554553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ukraine-russia-early-warning-us-intelligence/107285706",
+      "provider": "ABC News Australia",
+      "title": "Ukraine receives 'no early warning' as missile barrage pounds Kyiv",
+      "status": "pending",
+      "firstSeenAt": 1792426615.9390364,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
