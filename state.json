@@ -52130,9 +52130,57 @@
       "status": "pending",
       "firstSeenAt": 1792383021.7853944,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crwyd02yz22vo",
+      "provider": "BBC",
+      "title": "France's government under pressure after weekend of widespread violence Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes. 22 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792384806.8437853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/shoebridge-insists-steele-john-should-take-leave/107282442",
+      "provider": "ABC News Australia",
+      "title": "Shoebridge insists Steele-John should take leave as Greens 'binfire' deepens",
+      "status": "pending",
+      "firstSeenAt": 1792384808.2421079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/melbourne-city-yarra-river-swim-water-access-2050/107282890",
+      "provider": "ABC News Australia",
+      "title": "Councils unite to make Yarra River swimmable by 2050",
+      "status": "pending",
+      "firstSeenAt": 1792384808.2429767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/hiep-tran-tells-family-he-never-crossed-border-into-vietnam/107282602",
+      "provider": "ABC News Australia",
+      "title": "Australian activist imprisoned in Vietnam tells family he is 'terrified'",
+      "status": "pending",
+      "firstSeenAt": 1792384808.2430062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/nacc-corruption-watchdog-robert-mcclelland-replace-paul-brereton/107140004",
+      "provider": "ABC News Australia",
+      "title": "Robert McClelland named new corruption watchdog chief after Brereton resignation",
+      "status": "pending",
+      "firstSeenAt": 1792384808.2430558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/emily-chancellor-announces-wallaroos-retirement/107283692",
+      "provider": "ABC News Australia",
+      "title": "Chancellor announces Wallaroos retirement ahead of Scotland Test",
+      "status": "pending",
+      "firstSeenAt": 1792384808.243079,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
