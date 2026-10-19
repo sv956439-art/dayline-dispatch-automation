@@ -52018,9 +52018,41 @@
       "status": "pending",
       "firstSeenAt": 1792379170.5828667,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/nsw-masood-zakaria-court-challenge-against-afp-deportation/107282964",
+      "provider": "ABC News Australia",
+      "title": "'Why all the secrecy?': Accused gangster begins challenge against AFP",
+      "status": "pending",
+      "firstSeenAt": 1792380907.5787294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/ukrainian-scientist-remains-in-russian-detention-conference-told/107283086",
+      "provider": "ABC News Australia",
+      "title": "Ukrainian scientist still in Russian detention one year on, conference told",
+      "status": "pending",
+      "firstSeenAt": 1792380907.5789945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/brooms-head-holiday-park-permanent-residents-win-case/107271462",
+      "provider": "ABC News Australia",
+      "title": "Tribunal quashes council's over-55s caravan park plans",
+      "status": "pending",
+      "firstSeenAt": 1792380907.5798595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/canberra-man-charged-allegedly-kicking-strangling-teenage-girl/107282686",
+      "provider": "ABC News Australia",
+      "title": "Man faces court after allegedly strangling 15-year-old girl",
+      "status": "pending",
+      "firstSeenAt": 1792380907.579904,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
