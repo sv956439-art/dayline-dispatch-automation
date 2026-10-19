@@ -54114,9 +54114,25 @@
       "status": "pending",
       "firstSeenAt": 1792446092.3981128,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792447702.086888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/philadelphia-eagles-qb-jalen-hurts-blood-clots-in-lungs/107286260",
+      "provider": "ABC News Australia",
+      "title": "NFL QB in hospital at 4am before London game due to blood clots",
+      "status": "pending",
+      "firstSeenAt": 1792447702.4135602,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
