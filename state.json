@@ -53554,9 +53554,57 @@
       "status": "pending",
       "firstSeenAt": 1792430201.3533735,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry83jz19v26o",
+      "provider": "BBC",
+      "title": "Trial hears Robinson 'intimidated' Daily Mail reporters The activist is accused of \"bully-boy tactics\" and denies harassment causing fear of violence. 20 mins ago Beds, Herts & Bucks",
+      "status": "pending",
+      "firstSeenAt": 1792431925.835612,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792431926.1458256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792431926.1458402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
+      "provider": "The Guardian",
+      "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
+      "status": "pending",
+      "firstSeenAt": 1792431926.1461396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-elizabeth-holmes-nathan-fielder-lance-oppenheim",
+      "provider": "The Guardian",
+      "title": "The reviews are in! Is You Can See Everything the greatest film ever?",
+      "status": "pending",
+      "firstSeenAt": 1792431926.1461728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/2010s-pop-culture-quiz/107234598",
+      "provider": "ABC News Australia",
+      "title": "How well do you remember the 2010s?",
+      "status": "pending",
+      "firstSeenAt": 1792431926.5213957,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
