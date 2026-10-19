@@ -53090,9 +53090,105 @@
       "status": "pending",
       "firstSeenAt": 1792416473.5296133,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvp8gzg4e143o",
+      "provider": "BBC",
+      "title": "Catalonia's former rebel president can return to Spain, court rules The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "status": "pending",
+      "firstSeenAt": 1792418939.3943598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5djv21rkekwo",
+      "provider": "BBC",
+      "title": "Haaland a doubt, Semenyo out - what are Man City's options? Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
+      "status": "pending",
+      "firstSeenAt": 1792418939.3947594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ly070p37d4o",
+      "provider": "BBC",
+      "title": "Volunteers help save one of London's rarest plants",
+      "status": "pending",
+      "firstSeenAt": 1792418939.4703622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c615jljzpyewo",
+      "provider": "BBC",
+      "title": "Major subsea cable factory opens in Highlands",
+      "status": "pending",
+      "firstSeenAt": 1792418939.4703865,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792418939.7196083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792418939.719628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/albania-accused-of-rushing-through-trump-linked-resort-in-formerly-protected-landscape",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792418939.719734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/19/the-canary-leftwing-news-website-closure",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792418939.7200568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792418939.7201712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/ice-broke-us-citizen-arm-california",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792418939.7201893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
+      "provider": "The Guardian",
+      "title": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
+      "status": "pending",
+      "firstSeenAt": 1792418939.7204382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
+      "provider": "The Guardian",
+      "title": "double quotation mark Saudi Arabia is learning the hard way: they can’t count on Trump for protection",
+      "status": "pending",
+      "firstSeenAt": 1792418939.7205634,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
