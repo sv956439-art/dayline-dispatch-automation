@@ -51986,9 +51986,41 @@
       "status": "pending",
       "firstSeenAt": 1792377408.388673,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c680zdmn100lo",
+      "provider": "BBC",
+      "title": "Threat forces Israel to Austria flight into emergency landing The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "status": "pending",
+      "firstSeenAt": 1792379169.6699917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2kez327gdko",
+      "provider": "BBC",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund' The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "status": "pending",
+      "firstSeenAt": 1792379169.6700995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/ukraine-relationship-with-us-and-trump-strained-amid-war/107273416",
+      "provider": "ABC News Australia",
+      "title": "Russia is attempting to demoralise Ukrainians, and it could backfire",
+      "status": "pending",
+      "firstSeenAt": 1792379170.5828025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/inside-flydubai-cockpit-copilot-alleged-terror-plot/107281782",
+      "provider": "ABC News Australia",
+      "title": "Flydubai captain describes co-pilot's axe attack and saving 170 passengers",
+      "status": "pending",
+      "firstSeenAt": 1792379170.5828667,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
