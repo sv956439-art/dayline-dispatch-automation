@@ -52858,9 +52858,57 @@
       "status": "pending",
       "firstSeenAt": 1792404513.0231984,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261015-the-men-who-averted-the-1962-cuban-missile-crisis",
+      "provider": "BBC",
+      "title": "How the Kennedys averted the 1962 Cuban missile crisis In October 1962, the world came to the brink of nuclear war. According to insiders who spoke to the BBC, the expertise of President John F Kennedy and his brother Robert saved the day.",
+      "status": "pending",
+      "firstSeenAt": 1792406287.5712347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn7323p0dxyo",
+      "provider": "BBC",
+      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
+      "status": "pending",
+      "firstSeenAt": 1792406287.5720332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c679plpvellgo",
+      "provider": "BBC",
+      "title": "England manager Wiegman signs contract extension Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
+      "status": "pending",
+      "firstSeenAt": 1792406287.5724144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792406288.1513343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792406288.151533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/19/police-officer-shot-in-foot-nottingham-arrests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792406288.151951,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
