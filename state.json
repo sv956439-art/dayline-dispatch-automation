@@ -52314,9 +52314,81 @@
       "status": "pending",
       "firstSeenAt": 1792388622.9920738,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm79plrvpl4vo",
+      "provider": "BBC",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million. 11 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1792390395.4991498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/crq5n8px34pwo",
+      "provider": "BBC",
+      "title": "Cardinals upset Rams as Eagles lose - five things from NFL week six",
+      "status": "pending",
+      "firstSeenAt": 1792390395.5008223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792390395.8797038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792390395.8804069,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank",
+      "provider": "The Guardian",
+      "title": "Britain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank",
+      "status": "pending",
+      "firstSeenAt": 1792390395.8811831,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/vanuatu-expects-reduction-in-china-police-presence/107283618",
+      "provider": "ABC News Australia",
+      "title": "Vanuatu says it expects fall in China police presence after deal with Australia",
+      "status": "pending",
+      "firstSeenAt": 1792390396.1106591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322",
+      "provider": "ABC News Australia",
+      "title": "UN World Food Programme slashes Gaza assistance amid funding shortfall",
+      "status": "pending",
+      "firstSeenAt": 1792390396.1107125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/glenelg-traders-reassure-visitors-safety-after-fights/107282422",
+      "provider": "ABC News Australia",
+      "title": "Beachside traders raise concerns after recent fights",
+      "status": "pending",
+      "firstSeenAt": 1792390396.110757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/australian-story-countdown-tofind-most-unforgettable-episodes/106086384",
+      "provider": "ABC News Australia",
+      "title": "Vote now for your favourite Australian Story episode",
+      "status": "pending",
+      "firstSeenAt": 1792390396.1107998,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
