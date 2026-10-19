@@ -51946,9 +51946,41 @@
       "status": "pending",
       "firstSeenAt": 1792374082.1801205,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdmy872r7vo",
+      "provider": "BBC",
+      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd. 18 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1792375808.5212722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yn098xz8lo",
+      "provider": "BBC",
+      "title": "China's economic growth picks up as AI boom boosts exports Exports have helped offset weak domestic spending, but trade tensions and AI doubts weigh on the outlook.",
+      "status": "pending",
+      "firstSeenAt": 1792375808.5218441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/ukraine-war-briefing-trump-accuses-zelenskyy-of-not-wanting-to-end-war-as-feud-rumbles-on",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
+      "status": "pending",
+      "firstSeenAt": 1792375808.9929488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/greenpeace-woodside-protestors-charged-scarborough-stunt/107282650",
+      "provider": "ABC News Australia",
+      "title": "Climate activists charged after Woodside offshore rig stunt",
+      "status": "pending",
+      "firstSeenAt": 1792375809.735588,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
