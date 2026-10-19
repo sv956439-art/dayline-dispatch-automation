@@ -54026,9 +54026,33 @@
       "status": "pending",
       "firstSeenAt": 1792442946.8205605,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crx23ndd337wo",
+      "provider": "BBC",
+      "title": "Maddison shines on return - Tottenham v Coventry ratings",
+      "status": "pending",
+      "firstSeenAt": 1792444389.9709601,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/mississippi-attorney-general-kohen-wiley-killing-justified",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792444390.5707717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/uefa-gives-fifa-deadline-on-world-cup-plan-documents/107286042",
+      "provider": "ABC News Australia",
+      "title": "FIFA given deadline to answer questions over failed World Cup sell-off",
+      "status": "pending",
+      "firstSeenAt": 1792444391.098581,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
