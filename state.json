@@ -53986,9 +53986,49 @@
       "status": "pending",
       "firstSeenAt": 1792441219.8924959,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/20/after-25-years-australian-dance-star-lucy-guerin-bows-out-of-the-company-she-founded",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792442946.4313648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/catherine-breed-ultra-endurance-swim-california-coast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792442946.4319782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/victorian-councils-crack-down-on-smart-glasses-at-pools/107239484",
+      "provider": "ABC News Australia",
+      "title": "Victorian councils 'acting early' and banning smart glasses from pools",
+      "status": "pending",
+      "firstSeenAt": 1792442946.8203743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924",
+      "provider": "ABC News Australia",
+      "title": "Local data centre giant suspends trading ahead of announcement",
+      "status": "pending",
+      "firstSeenAt": 1792442946.8205335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/royal-life-saving-many-remote-nt-communities-lack-pool-amenities/107282636",
+      "provider": "ABC News Australia",
+      "title": "Royal Life Saving warns more pools in remote NT communities could close",
+      "status": "pending",
+      "firstSeenAt": 1792442946.8205605,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
