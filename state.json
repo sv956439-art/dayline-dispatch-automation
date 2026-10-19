@@ -51818,9 +51818,17 @@
       "status": "pending",
       "firstSeenAt": 1792367065.646162,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw0k0zn0lkjgo",
+      "provider": "BBC",
+      "title": "'Four points is nothing' - O'Neill stays cool after statement win",
+      "status": "pending",
+      "firstSeenAt": 1792368015.7426748,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
