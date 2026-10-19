@@ -52930,9 +52930,57 @@
       "status": "pending",
       "firstSeenAt": 1792408071.459218,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9kwxxmxydo",
+      "provider": "BBC",
+      "title": "Meloni holds emergency meeting after weekend of violent clashes More than 200 people were detained during two days of rioting in the city, Italian media reports.",
+      "status": "pending",
+      "firstSeenAt": 1792409842.049571,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cm3elzgj5glzo",
+      "provider": "BBC",
+      "title": "Brook says he has 'learned a lot' from off-field issues",
+      "status": "pending",
+      "firstSeenAt": 1792409842.0499747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792409842.3993585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/first-thing-us-ambassador-mike-huckabee-israel-heidi-levine-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792409842.3997846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792409842.399806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/helen-haines-attack-threat-to-democracy/107285334",
+      "provider": "ABC News Australia",
+      "title": "After MP 'attacked' in the street, our democracy is facing its biggest test",
+      "status": "pending",
+      "firstSeenAt": 1792409842.7941625,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
