@@ -51898,9 +51898,57 @@
       "status": "pending",
       "firstSeenAt": 1792372316.4724329,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpdgj8z8v2do",
+      "provider": "BBC",
+      "title": "Australian Greens senator denies claims of misconduct towards women Jordon Steele-John says the timing of the claims motivated by \"nasty political games\" within the Greens.",
+      "status": "pending",
+      "firstSeenAt": 1792374081.3843427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792374081.6791565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/teenager-court-charged-over-crash-flinders-street/107282426",
+      "provider": "ABC News Australia",
+      "title": "Teen charged over Melbourne CBD crash wants to plead guilty, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792374082.1799836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/homeland-and-outstation-housing-damaged-by-storm/107274580",
+      "provider": "ABC News Australia",
+      "title": "Outstations and town camps struggle with damage from 'scary' storm",
+      "status": "pending",
+      "firstSeenAt": 1792374082.180031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/rugby-league-world-cup-quick-hits/107282480",
+      "provider": "ABC News Australia",
+      "title": "RLWC quick hits: Ponga's power, Tonga's triumph and Fiji's sunny day",
+      "status": "pending",
+      "firstSeenAt": 1792374082.1800754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/kenya-ebola-outbreak-hits-eight-continues-spread-in-congo/107282278",
+      "provider": "ABC News Australia",
+      "title": "Kenyan Ebola cases rise to eight in two weeks",
+      "status": "pending",
+      "firstSeenAt": 1792374082.1801205,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
