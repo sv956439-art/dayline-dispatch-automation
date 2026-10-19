@@ -52698,9 +52698,105 @@
       "status": "pending",
       "firstSeenAt": 1792400391.6578665,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261016-the-rejuvenating-secrets-of-the-immortal-jellyfish",
+      "provider": "BBC",
+      "title": "The rejuvenating secrets of the 'immortal jellyfish' The \"immortal jellyfish\" is capable of winding back its lifecycle to become young again. Scientists are unlocking its cellular secrets for new strategies to treat diseases of old age.",
+      "status": "pending",
+      "firstSeenAt": 1792402277.4381907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgd0ymgzgyo",
+      "provider": "BBC",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "status": "pending",
+      "firstSeenAt": 1792402277.4388695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq5n8x106jdo",
+      "provider": "BBC",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+      "status": "pending",
+      "firstSeenAt": 1792402277.4389434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde83w13p00o",
+      "provider": "BBC",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792402277.5064437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y80yxw9vo",
+      "provider": "BBC",
+      "title": "Companies exploiting UK welfare system by using residents as 'cash cows', BBC finds Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays. 5 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792402277.506499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3vqw4dxv32o",
+      "provider": "BBC",
+      "title": "9 Mural honours the forgotten force behind The Beatles",
+      "status": "pending",
+      "firstSeenAt": 1792402277.5066166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3elveky53eo",
+      "provider": "BBC",
+      "title": "'Not in our DNA' - will 3v3 change the future of English football? Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football? 4 hrs ago England Men",
+      "status": "pending",
+      "firstSeenAt": 1792402277.506692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792402277.6511729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792402277.6513526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792402277.651631,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/catholic-church-excommunication-appeal-louisiana",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792402277.6517115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/israel-police-arrest-suspects-over-settler-attacks-west-bank/107284922",
+      "provider": "ABC News Australia",
+      "title": "Israel police arrest suspects over settler attacks",
+      "status": "pending",
+      "firstSeenAt": 1792402277.9231083,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
