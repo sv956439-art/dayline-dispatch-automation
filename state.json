@@ -52570,9 +52570,89 @@
       "status": "pending",
       "firstSeenAt": 1792395560.4938123,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/cm3wjz3d1p66o",
+      "provider": "BBC",
+      "title": "The Welshman seeking NBA title with Timberwolves British-born assistant coach Tim Lewis is aiming to win the NBA title with the Minnesota Timberwolves after joining Chris Finch's staff.",
+      "status": "pending",
+      "firstSeenAt": 1792397992.3515701,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqm24nezmy23o",
+      "provider": "BBC",
+      "title": "Best images of F1 in the US through the years A selection of images from F1 races in the US, from Indianapolis, Watkins Glen and Long Beach to the streets of Dallas and the Caesars Palace car park.",
+      "status": "pending",
+      "firstSeenAt": 1792397992.3516052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjr4yndrz1kro",
+      "provider": "BBC",
+      "title": "Beer & Blackpool beach was how British players bonded - Pulis",
+      "status": "pending",
+      "firstSeenAt": 1792397992.3525367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792397992.8546352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/19/mother-assessed-as-posing-no-immediate-risk-to-others-three-weeks-before-elizabeth-struhs-manslaughter-inquest-hears-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792397992.8546774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/live-blog-victoria-indi-mp-helen-haines-injured-wangaratta/107285046",
+      "provider": "ABC News Australia",
+      "title": "PM says MP Helen Haines critically injured, suspect arrested",
+      "status": "pending",
+      "firstSeenAt": 1792397993.2956314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/city-beach-whale-removal-costs-180k/107284720",
+      "provider": "ABC News Australia",
+      "title": "Massive whale carcass leaves council with $180k bill, budget headache",
+      "status": "pending",
+      "firstSeenAt": 1792397993.2971432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/nt-public-housing-policy-three-strikes-evicted-karama-malak/107283852",
+      "provider": "ABC News Australia",
+      "title": "Problem NT public housing tenants to be evicted after 'three strikes'",
+      "status": "pending",
+      "firstSeenAt": 1792397993.2971911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/bushfire-alert-nunamara-fire-crews-tasmania-north/107284800",
+      "provider": "ABC News Australia",
+      "title": "Wind makes conditions tricky for fire crews in Tasmania's north",
+      "status": "pending",
+      "firstSeenAt": 1792397993.2972362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-19/moss-vale-plastics-factory-court-appeal-residents/107274112",
+      "provider": "ABC News Australia",
+      "title": "Six-year plastics factory fight takes toll on Moss Vale residents",
+      "status": "pending",
+      "firstSeenAt": 1792397993.297281,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
