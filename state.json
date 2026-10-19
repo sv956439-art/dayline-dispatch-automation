@@ -53850,9 +53850,97 @@
       "status": "pending",
       "firstSeenAt": 1792437553.0350266,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq2d6npjy9xlo",
+      "provider": "BBC",
+      "title": "Palace manager Sage facing fight to keep his job",
+      "status": "pending",
+      "firstSeenAt": 1792439541.5780628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g17d11zvwo",
+      "provider": "BBC",
+      "title": "Brentford contact police after rugby ball kicked into stadium",
+      "status": "pending",
+      "firstSeenAt": 1792439541.7108278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxyvrndz49v7o",
+      "provider": "BBC",
+      "title": "Guehi among players not to take knee - is it time to 'move campaign along'?",
+      "status": "pending",
+      "firstSeenAt": 1792439541.7110868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cm87ze97eq2wo",
+      "provider": "BBC",
+      "title": "O'Sullivan loses to Cheung in NI Open return",
+      "status": "pending",
+      "firstSeenAt": 1792439541.7112637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c893zd3rge3po",
+      "provider": "BBC",
+      "title": "I'll give Glentoran everything, vows new boss Ferguson",
+      "status": "pending",
+      "firstSeenAt": 1792439541.7113035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/crje5d2l0geyo",
+      "provider": "BBC",
+      "title": "Bradley Wiggins' son Ben signs first pro contract",
+      "status": "pending",
+      "firstSeenAt": 1792439541.7115781,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792439542.0169787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/china-laos-military-pilot-training-centre/107267324",
+      "provider": "ABC News Australia",
+      "title": "What we know about China's new joint training facility in Laos",
+      "status": "pending",
+      "firstSeenAt": 1792439542.4949553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/i-am-australian-conservative-conference-no-permission/107273934",
+      "provider": "ABC News Australia",
+      "title": "I Am Australian co-writer 'not happy' song used at conservative conference",
+      "status": "pending",
+      "firstSeenAt": 1792439542.495794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/kangaroos-island-sealink-ferry-shutdown-new-vessels/107282580",
+      "provider": "ABC News Australia",
+      "title": "KI ferries close temporarily as ramps upgraded for new vessels",
+      "status": "pending",
+      "firstSeenAt": 1792439542.4958422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/special-olympics-australia-national-games-melbourne/107282812",
+      "provider": "ABC News Australia",
+      "title": "Athletes out for gold at 'really important' Special Olympics Australia",
+      "status": "pending",
+      "firstSeenAt": 1792439542.4958875,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
