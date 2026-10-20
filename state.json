@@ -54362,9 +54362,57 @@
       "status": "pending",
       "firstSeenAt": 1792457433.1685688,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj0l72d5pygo",
+      "provider": "BBC",
+      "title": "Police used 'justified' force in fatal shooting of one-year-old, says Mississippi attorney general The boy was sitting in his mum's lap in the passenger seat of a car that police say was allegedly being driven at officers. 28 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792459360.2804902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792459360.8067439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/nab-bank-restructure-2500-jobs-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792459360.8067648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/helen-haines-mp-grandmother-crash-leg-injuries/107286008",
+      "provider": "ABC News Australia",
+      "title": "A runner, Nanna and trailblazing MP, Helen Haines's life changed in an instant",
+      "status": "pending",
+      "firstSeenAt": 1792459361.328951,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/isaac-humphries-retire-due-to-knee-injury/107286996",
+      "provider": "ABC News Australia",
+      "title": "First openly gay male NBL player Isaac Humphries announces retirement",
+      "status": "pending",
+      "firstSeenAt": 1792459361.3299873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ipswich-sexual-assault-ethan-bell-bail-denied/107287220",
+      "provider": "ABC News Australia",
+      "title": "Man denied bail after alleged sexual assault of 13yo west of Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1792459361.3300283,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
