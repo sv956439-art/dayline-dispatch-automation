@@ -55082,9 +55082,129 @@
       "status": "pending",
       "firstSeenAt": 1792484835.623104,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260826-the-grisly-american-werewolf-in-london-scene-that-took-horror-to-new-extremes",
+      "provider": "BBC",
+      "title": "The grisly American Werewolf scene that took horror to new extremes An American Werewolf in London won the first Oscar for best make-up - and its groundbreaking transformation went on to inspire Michael Jackson's Thriller.",
+      "status": "pending",
+      "firstSeenAt": 1792486968.7435415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20240510-siquijor-a-paradise-island-with-a-reputation-for-witchcraft",
+      "provider": "BBC",
+      "title": "A paradise island with a reputation for witchcraft The remote island of Siquijor is unique – not only in the Philippines, but the whole of South East Asia, renowned since ancient times as a centre of witchcraft, magic and folk healing.",
+      "status": "pending",
+      "firstSeenAt": 1792486968.7435598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20220303-nosferatu-the-monster-who-still-terrifies-100-years-on",
+      "provider": "BBC",
+      "title": "Why this iconic monster is so scary From his shadow to his gaunt face, the vampire Count Orlok in 1922's Nosferatu: A Symphony of Horror remains one of film's most spine-tingling creations. Nicholas Barber examines why.",
+      "status": "pending",
+      "firstSeenAt": 1792486968.7435749,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg632xgndeo",
+      "provider": "BBC",
+      "title": "Israel's far right find fertile ground among first-time voters More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "status": "pending",
+      "firstSeenAt": 1792486968.743708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+      "provider": "BBC",
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "status": "pending",
+      "firstSeenAt": 1792486968.7438068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c820vw7velvro",
+      "provider": "BBC",
+      "title": "PSG v Barcelona - Europe's most exciting match-up?",
+      "status": "pending",
+      "firstSeenAt": 1792486968.7439778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261015-what-can-i-eat-for-younger-skin",
+      "provider": "BBC",
+      "title": "What to eat for younger skin Plants, fats, and fermented foods can reduce wrinkles, boost collagen and improve the texture of our skin.",
+      "status": "pending",
+      "firstSeenAt": 1792486968.7440205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cr93z192e211o",
+      "provider": "BBC",
+      "title": "Lowry joins McIlroy in first ever TGL Trade",
+      "status": "pending",
+      "firstSeenAt": 1792486968.8253345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/cqe9lr3zr4k1o",
+      "provider": "BBC",
+      "title": "Reese stars as Dream win first WNBA Finals match",
+      "status": "pending",
+      "firstSeenAt": 1792486968.825376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g1er9vdvyo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792486968.8253946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cm5ynv7ze0dxo",
+      "provider": "BBC",
+      "title": "Stevenson 'granted' Zuffa release without fighting",
+      "status": "pending",
+      "firstSeenAt": 1792486968.8255455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9kwmkd7gwo",
+      "provider": "BBC",
+      "title": "The 'Teenage Dirtbags' sponsored by US rock band",
+      "status": "pending",
+      "firstSeenAt": 1792486968.8256693,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792486969.2032838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792486969.2035425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/brendan-nugent-charged-over-attack-against-helen-haines/107288126",
+      "provider": "ABC News Australia",
+      "title": "Police lay three charges against Brendan Nugent over Haines attack",
+      "status": "pending",
+      "firstSeenAt": 1792486973.585577,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
