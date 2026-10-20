@@ -56018,9 +56018,97 @@
       "status": "pending",
       "firstSeenAt": 1792520086.8341842,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly0qwnlgdvo",
+      "provider": "BBC",
+      "title": "Union attacks NatWest plans to get workers back to the office The bank says workers will be required to attend the office at least two days a week from February. 4 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792522285.9729445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn5vq6wqgxdo",
+      "provider": "BBC",
+      "title": "Specsavers founders get lifetime retail award Douglas and Dame Mary Perkins started the company in their spare bedroom in 1984. 4 hrs ago Guernsey",
+      "status": "pending",
+      "firstSeenAt": 1792522285.9729958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792522286.365537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792522286.3655503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792522286.3655624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/ohio-democrat-vivek-ramaswamy-ad",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792522286.3656218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/digger-film-oscar-contention-critic-pile-on-tall-poppy-syndrome/107287222",
+      "provider": "ABC News Australia",
+      "title": "What's behind the pile-on for 'Oscar contender' and stinging satire, Digger?",
+      "status": "pending",
+      "firstSeenAt": 1792522287.180942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/play-now-video-game-pitching-event/107277120",
+      "provider": "ABC News Australia",
+      "title": "Game developers pitch for funding at speed dating-style event in Melbourne",
+      "status": "pending",
+      "firstSeenAt": 1792522287.1809838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/travel-quiz-october-21/107209202",
+      "provider": "ABC News Australia",
+      "title": "Quiz: How well do you know travel trivia?",
+      "status": "pending",
+      "firstSeenAt": 1792522287.181012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/tasmania-government-advised-risk-loan-liberty-bell-bay/107286698",
+      "provider": "ABC News Australia",
+      "title": "Loan of $20m to troubled smelter deemed high risk, govt went ahead anyway",
+      "status": "pending",
+      "firstSeenAt": 1792522287.1812792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/seven-west-media-company-culture-diabolical-reports-says/107281626",
+      "provider": "ABC News Australia",
+      "title": "Seven West Media had 'diabolical' culture, secret review hears",
+      "status": "pending",
+      "firstSeenAt": 1792522287.1813424,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
