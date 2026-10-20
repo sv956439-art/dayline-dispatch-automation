@@ -56106,9 +56106,73 @@
       "status": "pending",
       "firstSeenAt": 1792522287.1813424,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn73z5gnnrro",
+      "provider": "BBC",
+      "title": "Ex-student says embattled Cornell University head doubted her gang-rape allegation As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "status": "pending",
+      "firstSeenAt": 1792524121.5153968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2l4xw7xpjgo",
+      "provider": "BBC",
+      "title": "Nigeria confirms Ebola case linked to East Africa A female patient is in isolation and receiving medical care after being admitted to a hospital in Abuja.",
+      "status": "pending",
+      "firstSeenAt": 1792524121.5154736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3697j58l91o",
+      "provider": "BBC",
+      "title": "Braille device could remove barriers to science A Bristol-made device displays complex data in braille, helping blind people study and work in STEM.",
+      "status": "pending",
+      "firstSeenAt": 1792524121.5839927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792524122.0079792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
+      "provider": "The Guardian",
+      "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+      "status": "pending",
+      "firstSeenAt": 1792524122.009057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/new-golden-north-factory-ice-cream-now-at-murray-bridge/107289376",
+      "provider": "ABC News Australia",
+      "title": "Golden North's ice cream factory starts production at new site",
+      "status": "pending",
+      "firstSeenAt": 1792524122.4754915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/australia-rsa-quick-hits-day-three-bavuma-jansen-starc/107289848",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Jansen hit where it hurts as Bavuma grinds Aussies into the dirt",
+      "status": "pending",
+      "firstSeenAt": 1792524122.4755275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/adl-parwana-kitchen-michelin-awards/107288578",
+      "provider": "ABC News Australia",
+      "title": "Adelaide restaurateurs say Michelin guide recognition 'a great honour'",
+      "status": "pending",
+      "firstSeenAt": 1792524122.475553,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
