@@ -56314,9 +56314,57 @@
       "status": "pending",
       "firstSeenAt": 1792530734.3146262,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cje362v35175o",
+      "provider": "BBC",
+      "title": "Carrick wants more clean sheets to turn season around",
+      "status": "pending",
+      "firstSeenAt": 1792532449.1121173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7vp1qdrp61o",
+      "provider": "BBC",
+      "title": "EA forces council to curb lake flood risk",
+      "status": "pending",
+      "firstSeenAt": 1792532449.1954153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wv59w3xq2o",
+      "provider": "BBC",
+      "title": "'We still feel unsafe in flood-prone town'",
+      "status": "pending",
+      "firstSeenAt": 1792532449.195448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792532449.3937533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/asx-markets-business-live-news-oct-22-2026/107290728",
+      "provider": "ABC News Australia",
+      "title": "ASX set to rise as SpaceX AI revenue surges",
+      "status": "pending",
+      "firstSeenAt": 1792532449.9625466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/abbey-ellis-fires-townsville-fire-to-win/107290798",
+      "provider": "ABC News Australia",
+      "title": "Ellis scores monster 47 points, most in WNBL game for over two decades",
+      "status": "pending",
+      "firstSeenAt": 1792532449.9625776,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
