@@ -55226,9 +55226,41 @@
       "status": "pending",
       "firstSeenAt": 1792488736.267668,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5yqqd7nlpo",
+      "provider": "BBC",
+      "title": "Alberta votes overwhelmingly to remain part of Canada, projections suggest The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+      "status": "pending",
+      "firstSeenAt": 1792490650.6720579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60me4lryvmpo",
+      "provider": "BBC",
+      "title": "2 hrs ago Broadband blackout for thousands after cable theft A police investigation is launched after the latest round of cable theft in South Yorkshire. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792490650.7596364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792490650.9910023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792490650.991132,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
