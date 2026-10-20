@@ -55658,9 +55658,57 @@
       "status": "pending",
       "firstSeenAt": 1792509687.9470406,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63eln34yle3o",
+      "provider": "BBC",
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
+      "status": "pending",
+      "firstSeenAt": 1792511698.4395332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry4xj0v24lno",
+      "provider": "BBC",
+      "title": "44 mins ago Tablets Romans used to curse others going on show The tablets, used by Romans to target those who had wronged them, are going on show for first time 44 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792511698.4398015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy4xj02ejz0o",
+      "provider": "BBC",
+      "title": "3 hrs ago BBC Scotland TV channel to close amid cuts to services The station, which started in February 2019, will move to BBC iPlayer in spring next year. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792511698.439817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792511698.895591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792511698.895994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/20/from-paris-to-milan-student-protests-across-europe-in-pictures",
+      "provider": "The Guardian",
+      "title": "From Paris to Porto, from Tirana to Milan: protests across Europe – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1792511698.896227,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
