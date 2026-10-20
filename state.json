@@ -56298,9 +56298,25 @@
       "status": "pending",
       "firstSeenAt": 1792529040.5819166,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm93z1xlgqxqo",
+      "provider": "BBC",
+      "title": "Audit regulator looking into Manchester City accounting No formal investigation has started, but the regulator is making inquiries into the case. 14 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792530733.9474187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/kyle-kennedy-dead-rfk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792530734.3146262,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
