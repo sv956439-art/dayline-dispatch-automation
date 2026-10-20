@@ -55706,9 +55706,65 @@
       "status": "pending",
       "firstSeenAt": 1792511698.896227,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry4xj79zxd1o",
+      "provider": "BBC",
+      "title": "Harry says he wants to 'reconcile' with his family Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month. 31 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792513294.7865796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2q5dw5p90o",
+      "provider": "BBC",
+      "title": "Tommy Robinson shared photos of reporter's family, court told The political activist is on trial after pleading not guilty to harassing two Daily Mail reporters. 2 hrs ago Beds, Herts & Bucks",
+      "status": "pending",
+      "firstSeenAt": 1792513294.7868571,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx297pxg1djo",
+      "provider": "BBC",
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "status": "pending",
+      "firstSeenAt": 1792513294.7873034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c962ylv3l334o",
+      "provider": "BBC",
+      "title": "Sloppy England start winter with Pakistan defeat",
+      "status": "pending",
+      "firstSeenAt": 1792513294.7876463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792513295.1861773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792513295.1868265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
+      "provider": "The Guardian",
+      "title": "double quotation mark Trump’s obsession with Ilhan Omar has reached a dangerous new level",
+      "status": "pending",
+      "firstSeenAt": 1792513295.1871288,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
