@@ -54594,9 +54594,65 @@
       "status": "pending",
       "firstSeenAt": 1792467750.8281064,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rryj7z0jzro",
+      "provider": "BBC",
+      "title": "King Charles sends Aung Sang Suu Kyi books - Myanmar government",
+      "status": "pending",
+      "firstSeenAt": 1792469612.3311498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792469612.568033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/wangaratta-helen-haines-loses-leg-mp-attack/107286420",
+      "provider": "ABC News Australia",
+      "title": "When horror came to Wangaratta, this is how locals rushed to help",
+      "status": "pending",
+      "firstSeenAt": 1792469613.068479,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/chambroad-approved-for-kangaroo-bay-development/107287768",
+      "provider": "ABC News Australia",
+      "title": "Contentious hotel development approved for Hobart's eastern shore",
+      "status": "pending",
+      "firstSeenAt": 1792469613.0699987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/spirit-of-tasmania-i-navigational-issue-under-investigation/107287856",
+      "provider": "ABC News Australia",
+      "title": "Spirit of Tasmania navigational issue under investigation",
+      "status": "pending",
+      "firstSeenAt": 1792469613.0700448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/protesters-challenge-removal-of-birthing-trees-for-highway/107286636",
+      "provider": "ABC News Australia",
+      "title": "Man arrested as protests reignite over tree removal for Victorian highway",
+      "status": "pending",
+      "firstSeenAt": 1792469613.07009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/sa-watch-on-astronaut-program/107286280",
+      "provider": "ABC News Australia",
+      "title": "SA remains committed to sending Australian of the Year to space",
+      "status": "pending",
+      "firstSeenAt": 1792469613.0701532,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
