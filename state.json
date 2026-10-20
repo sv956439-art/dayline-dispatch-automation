@@ -54530,9 +54530,49 @@
       "status": "pending",
       "firstSeenAt": 1792464268.7684746,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy4xjlpqgd3o",
+      "provider": "BBC",
+      "title": "Seventh day of violent clashes between Albanian protesters and police Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing. 27 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1792465978.1924531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398rjewd1jo",
+      "provider": "BBC",
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "status": "pending",
+      "firstSeenAt": 1792465978.1928506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/what-we-know-brendan-nugent-arrested-alleged-attack-helen-haines/107286654",
+      "provider": "ABC News Australia",
+      "title": "Man arrested over Haines attack previously complimented MP",
+      "status": "pending",
+      "firstSeenAt": 1792465979.4381173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/complainant-a-mother-gives-evidence-alan-jones-trial-sydney/107287760",
+      "provider": "ABC News Australia",
+      "title": "Mother says son's 'mood was different' after time at Alan Jones's farm",
+      "status": "pending",
+      "firstSeenAt": 1792465979.4385219,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/elizabeth-struhs-inquest-queensland-police/107287770",
+      "provider": "ABC News Australia",
+      "title": "Child Safety not told of parents' neglect charges, before 8yo's death",
+      "status": "pending",
+      "firstSeenAt": 1792465979.4394712,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
