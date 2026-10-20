@@ -55762,9 +55762,81 @@
       "status": "pending",
       "firstSeenAt": 1792513295.1871288,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/crx2d3y6gd80o",
+      "provider": "BBC",
+      "title": "Bavuma epic drags SA back into Test - have they time to beat Australia?",
+      "status": "pending",
+      "firstSeenAt": 1792515305.902325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c6r7y0jjvvm0o",
+      "provider": "BBC",
+      "title": "Swiatek ends 'most demanding' season of career",
+      "status": "pending",
+      "firstSeenAt": 1792515305.9023542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp8gzg96p9go",
+      "provider": "BBC",
+      "title": "National Geographic hails 'thrilling and overlooked' part of Scotland",
+      "status": "pending",
+      "firstSeenAt": 1792515305.9826074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792515306.104584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792515306.1049788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/prince-harry-says-he-wants-to-reconcile-with-charles-and-william",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792515306.105021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792515306.1051195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/russell-brand-trial-hears-more-evidence-in-week-two/107290296",
+      "provider": "ABC News Australia",
+      "title": "Brand assaulted woman at radio station in 'frenzied' attack, court told",
+      "status": "pending",
+      "firstSeenAt": 1792515306.5330179,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/prince-harry-wants-to-reconcile-with-family/107290562",
+      "provider": "ABC News Australia",
+      "title": "Prince Harry expresses hope of reconciling with family",
+      "status": "pending",
+      "firstSeenAt": 1792515306.5330586,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
