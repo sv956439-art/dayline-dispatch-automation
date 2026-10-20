@@ -54922,9 +54922,73 @@
       "status": "pending",
       "firstSeenAt": 1792478592.840687,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cx30ez4ge3z7o",
+      "provider": "BBC",
+      "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
+      "status": "pending",
+      "firstSeenAt": 1792481005.1930864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/oct/20/the-last-bastion-is-gone-the-us-right-idolised-orbans-hungary-can-they-recover-now-he-has-fallen",
+      "provider": "The Guardian",
+      "title": "‘The last bastion is gone’: the US right idolised Orbán’s Hungary. Can they recover now he has fallen?",
+      "status": "pending",
+      "firstSeenAt": 1792481005.5303464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/test-cricket-live-updates-south-africa-vs-australia/107287648",
+      "provider": "ABC News Australia",
+      "title": "Australian bowlers look to press home advantage on day three",
+      "status": "pending",
+      "firstSeenAt": 1792481006.2798946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/southern-highlands-data-centre-gas-plant-land-environment-court/107289002",
+      "provider": "ABC News Australia",
+      "title": "Cumulative impacts of data centre gas plants overlooked, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792481006.2803686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/wa-religious-schools-no-longer-able-to-discriminate/107289636",
+      "provider": "ABC News Australia",
+      "title": "New laws to prevent WA schools discriminating against LGBTQIA+ staff, students",
+      "status": "pending",
+      "firstSeenAt": 1792481006.2803948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/police-internal-affairs-investigates-geraldton-sudden-death/107289578",
+      "provider": "ABC News Australia",
+      "title": "Police probe WA woman's sudden death after random breath test",
+      "status": "pending",
+      "firstSeenAt": 1792481006.2804177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/wa-woman-stuck-in-bali-after-injury/107287686",
+      "provider": "ABC News Australia",
+      "title": "WA woman's 'harrowing' ordeal stranded in Bali hospital after fall",
+      "status": "pending",
+      "firstSeenAt": 1792481006.2804463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/mission-australia-lost-contact-former-yissa-residents-batchelor/107288672",
+      "provider": "ABC News Australia",
+      "title": "Batchelor homeless shelter concerned it has 'lost contact' with residents",
+      "status": "pending",
+      "firstSeenAt": 1792481006.2804701,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
