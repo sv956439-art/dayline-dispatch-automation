@@ -54754,9 +54754,17 @@
       "status": "pending",
       "firstSeenAt": 1792473041.510658,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cmd6d3gj2znxo",
+      "provider": "BBC",
+      "title": "England unchanged to face France after Tonga defeat",
+      "status": "pending",
+      "firstSeenAt": 1792474707.0170581,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
