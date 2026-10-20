@@ -55466,9 +55466,49 @@
       "status": "pending",
       "firstSeenAt": 1792499323.3247511,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm26zzl0k12o",
+      "provider": "BBC",
+      "title": "UK asks Apple to widen access to its payment tech Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
+      "status": "pending",
+      "firstSeenAt": 1792502069.1604538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/abdul-el-sayed-heckler",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792502069.5242164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792502069.524258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/oct/20/archive-john-baer-street-photography-1940s",
+      "provider": "The Guardian",
+      "title": "‘Unguarded moments’: a lost archive of street photography – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1792502069.5245657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/military-families-food-banks",
+      "provider": "The Guardian",
+      "title": "‘It’s the most heartbreaking thing’: the active-duty soldiers who have to visit Texas food banks",
+      "status": "pending",
+      "firstSeenAt": 1792502069.5246596,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
