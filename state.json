@@ -54314,9 +54314,33 @@
       "status": "pending",
       "firstSeenAt": 1792454023.0928044,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62y9dnd6pwo",
+      "provider": "BBC",
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL The BBC hears from people who think dating events are better value for money than dating apps.",
+      "status": "pending",
+      "firstSeenAt": 1792455080.3568616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck87ze7wl4qno",
+      "provider": "BBC",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "status": "pending",
+      "firstSeenAt": 1792455080.3568916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792455080.4872434,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
