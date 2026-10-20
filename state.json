@@ -55562,9 +55562,41 @@
       "status": "pending",
       "firstSeenAt": 1792504344.0868053,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dz704dp8eo",
+      "provider": "BBC",
+      "title": "Three more arrests after couple and two children killed in arson attack",
+      "status": "pending",
+      "firstSeenAt": 1792506001.459406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzrdpkm3g84o",
+      "provider": "BBC",
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises The government increased taxes on online casino and sports betting in last year's Budget.",
+      "status": "pending",
+      "firstSeenAt": 1792506001.5830107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/20/christina-applegate-ms-misdiagnosed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792506001.8007417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
+      "provider": "The Guardian",
+      "title": "‘Oh God, I can’t bear it’: Judi Dench says Cats film was ‘a waste of goodwill and talent’",
+      "status": "pending",
+      "firstSeenAt": 1792506001.8012273,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
