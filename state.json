@@ -54410,9 +54410,49 @@
       "status": "pending",
       "firstSeenAt": 1792459361.3300283,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/beau-lamarre-condon-surgery-hospital-after-alleged-double-murder-prior-disposing-bodies-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792461222.336458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+      "provider": "The Guardian",
+      "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+      "status": "pending",
+      "firstSeenAt": 1792461222.3373234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/kumanjayi-little-baby-independent-review-nt-child-protection/107285266",
+      "provider": "ABC News Australia",
+      "title": "Kumanjayi Little Baby review finds extensive failings",
+      "status": "pending",
+      "firstSeenAt": 1792461222.5617495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/kenyan-starvation-cult-leader-paul-mackenzie-guilty/107286796",
+      "provider": "ABC News Australia",
+      "title": "Kenyan death cult leader found guilty of 191 murder charges",
+      "status": "pending",
+      "firstSeenAt": 1792461222.5622318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/eyre-peninsula-fresh-water-remains-on-track-for-2027/106802584",
+      "provider": "ABC News Australia",
+      "title": "Desalination plant delayed, despite fears Eyre Peninsula could run out of water",
+      "status": "pending",
+      "firstSeenAt": 1792461222.5630126,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
