@@ -56466,9 +56466,33 @@
       "status": "pending",
       "firstSeenAt": 1792535704.6794572,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx2vjdnwkyyo",
+      "provider": "BBC",
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer? Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
+      "status": "pending",
+      "firstSeenAt": 1792537277.1559012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/victoria-police-and-afp-commissioners-on-helen-haines/107290926",
+      "provider": "ABC News Australia",
+      "title": "Police not ruling out further serious charges over Helen Haines attack",
+      "status": "pending",
+      "firstSeenAt": 1792537277.6883454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/kempsey-shire-council-asks-noel-selby-to-resign-for-bash-comment/107282114",
+      "provider": "ABC News Australia",
+      "title": "Councillor who told woman it was a 'pity' she wasn't bashed won't resign",
+      "status": "pending",
+      "firstSeenAt": 1792537277.6893787,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
