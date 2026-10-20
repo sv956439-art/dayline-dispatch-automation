@@ -55506,9 +55506,65 @@
       "status": "pending",
       "firstSeenAt": 1792502069.5246596,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjly016320q1o",
+      "provider": "BBC",
+      "title": "Huge setback for Alberta's separatist movement after decisive defeat Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult. 12 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792504343.8083382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2v800nnr2o",
+      "provider": "BBC",
+      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close The closurse are announced as the corporation continues to try to save £500m over two years.",
+      "status": "pending",
+      "firstSeenAt": 1792504343.8101087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c9vgrnnnz014o",
+      "provider": "BBC",
+      "title": "Boulter produces emphatic win at Japan Open",
+      "status": "pending",
+      "firstSeenAt": 1792504343.9211535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmx23n4qvnzeo",
+      "provider": "BBC",
+      "title": "What does Celtic's demolition of Hearts mean for Hogh?",
+      "status": "pending",
+      "firstSeenAt": 1792504343.9211957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cjn5vqq974epo",
+      "provider": "BBC",
+      "title": "Uncapped Dragons get Wales Nations Championship call",
+      "status": "pending",
+      "firstSeenAt": 1792504343.9215782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792504344.0866652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/north-carolina-police-officers-alleged-racist-texts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792504344.0868053,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
