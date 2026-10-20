@@ -55202,9 +55202,33 @@
       "status": "pending",
       "firstSeenAt": 1792486973.585577,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq327pzr53o",
+      "provider": "BBC",
+      "title": "Job vacancies fall as small firms cut back on recruitment Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+      "status": "pending",
+      "firstSeenAt": 1792488735.8919337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792488736.0209424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/alberta-votes-to-remain-part-of-canada/107289816",
+      "provider": "ABC News Australia",
+      "title": "Alberta voters reject move to separate from Canada",
+      "status": "pending",
+      "firstSeenAt": 1792488736.267668,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
