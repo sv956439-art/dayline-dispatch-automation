@@ -55322,9 +55322,49 @@
       "status": "pending",
       "firstSeenAt": 1792494127.430485,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c678pnn9mpgno",
+      "provider": "BBC",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "status": "pending",
+      "firstSeenAt": 1792495801.023249,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvrly550780po",
+      "provider": "BBC",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "status": "pending",
+      "firstSeenAt": 1792495801.0232794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792495801.2747843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792495801.275079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
+      "provider": "The Guardian",
+      "title": "double quotation mark Don’t be fooled. The AI that was supposed to save us time is doing just the opposite",
+      "status": "pending",
+      "firstSeenAt": 1792495801.2757027,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
