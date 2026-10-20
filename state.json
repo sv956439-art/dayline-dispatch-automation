@@ -55050,9 +55050,41 @@
       "status": "pending",
       "firstSeenAt": 1792483152.2512572,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/c6dx07dznpyyo",
+      "provider": "BBC",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "status": "pending",
+      "firstSeenAt": 1792484835.3229213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyexv93pkdo",
+      "provider": "BBC",
+      "title": "Can a simple photo of your face reveal how ill you are? AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers. 57 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792484835.3229673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60e325g7p87o",
+      "provider": "BBC",
+      "title": "10 My son has disappeared off the face of the earth fighting for Russia",
+      "status": "pending",
+      "firstSeenAt": 1792484835.3232658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/adf-opens-recruitment-to-papua-new-guineans-after-treaty/107288996",
+      "provider": "ABC News Australia",
+      "title": "Australian military opens its ranks to PNG university students",
+      "status": "pending",
+      "firstSeenAt": 1792484835.623104,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
