@@ -56418,9 +56418,57 @@
       "status": "pending",
       "firstSeenAt": 1792534145.4702182,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr62ylj832vxo",
+      "provider": "BBC",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "status": "pending",
+      "firstSeenAt": 1792535703.5289047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqdr86m4r36po",
+      "provider": "BBC",
+      "title": "Turkish FA bans 147 officials for breaching betting rules",
+      "status": "pending",
+      "firstSeenAt": 1792535703.6057916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck62yq0rd0vvo",
+      "provider": "BBC",
+      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+      "status": "pending",
+      "firstSeenAt": 1792535703.6059098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/michael-bloomberg-donation-democrats-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792535703.9368355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/making-wigs-for-a-living-with-wa-ballet/107290178",
+      "provider": "ABC News Australia",
+      "title": "Only a handful of wigmakers exist in Australia — meet one of them",
+      "status": "pending",
+      "firstSeenAt": 1792535704.6794326,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/concerns-for-goondiwindi-man-shane-danes-ndis-funding-changes/107154528",
+      "provider": "ABC News Australia",
+      "title": "Family fears there will be deaths as NDIS changes hit close to home",
+      "status": "pending",
+      "firstSeenAt": 1792535704.6794572,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
