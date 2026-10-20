@@ -54450,9 +54450,65 @@
       "status": "pending",
       "firstSeenAt": 1792461222.5630126,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792462457.6495697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792462457.649908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/ukraine-war-briefing-zelenskyy-claims-us-deliberately-delaying-interceptor-missile-deliveries-to-kyiv",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
+      "status": "pending",
+      "firstSeenAt": 1792462457.6502159,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/the-recurring-pain-of-childlessness/107206460",
+      "provider": "ABC News Australia",
+      "title": "How childlessness grief can reappear later in life",
+      "status": "pending",
+      "firstSeenAt": 1792462458.1370666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/hit-and-run-crash-leaves-cyclist-dead-in-bibra-lake-perth/107287372",
+      "provider": "ABC News Australia",
+      "title": "Hit-and-run crash leaves cyclist dead in Perth's south",
+      "status": "pending",
+      "firstSeenAt": 1792462458.1371522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/giant-tuna-fishing-lakes-entrance/107281986",
+      "provider": "ABC News Australia",
+      "title": "Giant tuna puts coastal town in global spotlight after 230kg catch",
+      "status": "pending",
+      "firstSeenAt": 1792462458.1372025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ozasia-final-festival-legacy/107282856",
+      "provider": "ABC News Australia",
+      "title": "After 20 years, Adelaide is losing its leading Asian arts event, OzAsia",
+      "status": "pending",
+      "firstSeenAt": 1792462458.1372378,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
