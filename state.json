@@ -55274,9 +55274,57 @@
       "status": "pending",
       "firstSeenAt": 1792492306.3953924,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck240rr10jdqo",
+      "provider": "BBC",
+      "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
+      "status": "pending",
+      "firstSeenAt": 1792494127.0946705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5nj8exxepo",
+      "provider": "BBC",
+      "title": "17 mins ago Councillors clash over Strabane's UK Town of Culture bid Independent councillor Paul Gallagher says including 'UK' in the title is problematic, but unionists disagree. 17 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792494127.0952666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdr86l81lvro",
+      "provider": "BBC",
+      "title": "3 hrs ago Rivals producer wants 'bonkbuster' shows to 'keep going forever' Production bosses say the popular author's works could help make shows forever. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792494127.0952976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792494127.2127125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/kim-leadbeater-helen-haines-attack-plibersek-reacts/107236274",
+      "provider": "ABC News Australia",
+      "title": "'Things don't happen in a vacuum': Sister of slain UK MP speaks on Haines attack",
+      "status": "pending",
+      "firstSeenAt": 1792494127.4301038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/google-cloud-failure-europe-banks/107290238",
+      "provider": "ABC News Australia",
+      "title": "Banks, websites offline as Google Cloud services fail across Europe",
+      "status": "pending",
+      "firstSeenAt": 1792494127.430485,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
