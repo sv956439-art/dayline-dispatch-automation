@@ -54570,9 +54570,33 @@
       "status": "pending",
       "firstSeenAt": 1792465979.4394712,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9vgr43l7pdpo",
+      "provider": "BBC",
+      "title": "I have a condition people are too embarrassed to talk about Women share their experience of lichen sclerosus. 5 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792467750.0220773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/beau-lamarre-condon-trial-celebrities-stalking-former-friend/107288066",
+      "provider": "ABC News Australia",
+      "title": "Beau Lamarre-Condon sent photos of celebrities he was 'stalking', jury told",
+      "status": "pending",
+      "firstSeenAt": 1792467750.8270962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/brisbane-council-dawn-economy-plan-for-early-risers/107287300",
+      "provider": "ABC News Australia",
+      "title": "Brisbane council to embrace early morning culture with new dawn plan",
+      "status": "pending",
+      "firstSeenAt": 1792467750.8281064,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
