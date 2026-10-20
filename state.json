@@ -54674,9 +54674,89 @@
       "status": "pending",
       "firstSeenAt": 1792471300.937245,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv98ze40jz18o",
+      "provider": "BBC",
+      "title": "How is the US economy really doing under President Trump? Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country. 8 mins ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1792473040.6039224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+      "provider": "BBC",
+      "title": "Just now How AI revealed 400 years of seafaring history A project using data from the Elizabethan Era to the Industrial Revolution analyses trade routes. Just now",
+      "status": "pending",
+      "firstSeenAt": 1792473040.6675231,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792473041.0945034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/20/royal-exchange-theatre-boss-selina-cartmell-new-plays-censorship-row",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792473041.0945978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/20/public-support-founding-principles-nhs-falling-across-uk-population",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792473041.0946133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792473041.0946286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/problem-gambler-kyle-hudson-death-coroner-findings/107288082",
+      "provider": "ABC News Australia",
+      "title": "Sportsbet slammed by coroner after young gambler's death",
+      "status": "pending",
+      "firstSeenAt": 1792473041.5098724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/teaching-watchdog-raids-fitzroy-community-school-campuses/107270290",
+      "provider": "ABC News Australia",
+      "title": "Victorian teaching watchdog raids alternative primary school",
+      "status": "pending",
+      "firstSeenAt": 1792473041.5099485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/nsw-bogong-moths-weather-radars-bom-sydney-canberra/107286624",
+      "provider": "ABC News Australia",
+      "title": "Bogong moths are making weather radars look like it's raining",
+      "status": "pending",
+      "firstSeenAt": 1792473041.5106292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/suspected-amelia-earhart-plane-wreckage-trees-debris/107287840",
+      "provider": "ABC News Australia",
+      "title": "Suspected Amelia Earhart plane wreckage identified as clump of trees",
+      "status": "pending",
+      "firstSeenAt": 1792473041.510658,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
