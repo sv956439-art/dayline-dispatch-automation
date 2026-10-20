@@ -54762,9 +54762,105 @@
       "status": "pending",
       "firstSeenAt": 1792474707.0170581,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/ck054n5nqlv5o",
+      "provider": "BBC",
+      "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
+      "status": "pending",
+      "firstSeenAt": 1792476437.3630648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx23nxk8733o",
+      "provider": "BBC",
+      "title": "47 mins ago Locals honoured in Notting Hill Frieze exhibition London street artist Endless's new installation, Endless Frieze, includes buildings and street scenes. 47 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792476437.445853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c59vz78kvgv9o",
+      "provider": "BBC",
+      "title": "53 mins ago 'Alice Cooper is a character, like Jekyll and Hyde' Alice Cooper reflects on faith, fame and addiction ahead of his Wolverhampton book tour appearance. 53 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792476437.4459064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792476437.7150857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792476437.7158947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/hanson-apologises-for-one-nation-cartoon-mocking-lambie/107288602",
+      "provider": "ABC News Australia",
+      "title": "Hanson apologises for cartoon mocking Lambie's vaginal prolapse",
+      "status": "pending",
+      "firstSeenAt": 1792476438.3969223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/liberal-politicians-ai-slop-posts-row-trevallyn-christmas-events/107286366",
+      "provider": "ABC News Australia",
+      "title": "Row over 'cancelled' Christmas deepens as ministers add to school 'pile on'",
+      "status": "pending",
+      "firstSeenAt": 1792476438.3982046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/sa-golf-course-redevelopment-legal-fees/107288118",
+      "provider": "ABC News Australia",
+      "title": "Tree protestors asked to pay $150k in government legal fees",
+      "status": "pending",
+      "firstSeenAt": 1792476438.3982506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/education-minister-defends-controversial-wa-university-mergers/107289084",
+      "provider": "ABC News Australia",
+      "title": "Education minister launches scathing attack on universities amid merger debate",
+      "status": "pending",
+      "firstSeenAt": 1792476438.39831,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/inquiry-recommends-moratorium-on-proposed-incinerators/107287646",
+      "provider": "ABC News Australia",
+      "title": "Inquiry urges halt to plan to burn Sydney's waste in regional towns",
+      "status": "pending",
+      "firstSeenAt": 1792476438.3983529,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/whyalla-football-clubs-uncertain-future-steelworks-jobs/107287144",
+      "provider": "ABC News Australia",
+      "title": "Steelworks job losses create uncertain future for Whyalla's football clubs",
+      "status": "pending",
+      "firstSeenAt": 1792476438.3983948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/izzy-borlase-angel-reese-atlanta-dream-wnba-finals/107289118",
+      "provider": "ABC News Australia",
+      "title": "Aussie Opal's block fires Dream to WNBA finals win",
+      "status": "pending",
+      "firstSeenAt": 1792476438.3993587,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
