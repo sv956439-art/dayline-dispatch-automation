@@ -54338,9 +54338,33 @@
       "status": "pending",
       "firstSeenAt": 1792455080.4872434,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/driver-pleads-not-guilty-to-crash-that-killed-canberra-cyclists/107286104",
+      "provider": "ABC News Australia",
+      "title": "Driver pleads not guilty over crash that killed two Canberra cyclists",
+      "status": "pending",
+      "firstSeenAt": 1792457433.1678894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ukraine-airlifts-wounded-soldier-with-drone-in-world-first/107286436",
+      "provider": "ABC News Australia",
+      "title": "Ukrainian drone flies wounded soldier from front line",
+      "status": "pending",
+      "firstSeenAt": 1792457433.168533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/collingwood-aflw-captain-ruby-schleicher-to-leave/107286994",
+      "provider": "ABC News Australia",
+      "title": "Collingwood AFLW captain to leave at end of season",
+      "status": "pending",
+      "firstSeenAt": 1792457433.1685688,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
