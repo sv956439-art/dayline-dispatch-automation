@@ -56274,9 +56274,33 @@
       "status": "pending",
       "firstSeenAt": 1792527197.2557514,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly3dlm0dr2o",
+      "provider": "BBC",
+      "title": "'Trash Island' or DC landmark? Golfers weigh in on Trump's plans to change course Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy. 40 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792529039.0064414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792529039.8655348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/regional-nightlife-experience-economy/107274404",
+      "provider": "ABC News Australia",
+      "title": "Nightlife venues embrace 'experience economy' as alcohol consumption falls",
+      "status": "pending",
+      "firstSeenAt": 1792529040.5819166,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
