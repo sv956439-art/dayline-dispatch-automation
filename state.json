@@ -56226,9 +56226,57 @@
       "status": "pending",
       "firstSeenAt": 1792525958.5318918,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckrey51jrgnro",
+      "provider": "BBC",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "status": "pending",
+      "firstSeenAt": 1792527196.040605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5n49ll9l90wo",
+      "provider": "BBC",
+      "title": "3 hrs ago The Trip's Rob Brydon originally against playing fictional version of himself Rob Brydon and Steve Coogan initially thought playing fictionalised versions of themselves was \"passé\". 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792527196.1084666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792527196.527112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/temba-bavuma-batting-masterclass-takes-test-away-from-australia/107285960",
+      "provider": "ABC News Australia",
+      "title": "Bavuma's batting masterclass takes control away from Australia",
+      "status": "pending",
+      "firstSeenAt": 1792527197.2549174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/australia-defeats-new-zealand-in-second-t20/107290720",
+      "provider": "ABC News Australia",
+      "title": "Gardner smashes 84 as Australia retains Rose Bowl over NZ",
+      "status": "pending",
+      "firstSeenAt": 1792527197.255699,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/qld-emobility-survey-non-compliant-devices/107284994",
+      "provider": "ABC News Australia",
+      "title": "About half of private e-mobility devices non-compliant, survey finds",
+      "status": "pending",
+      "firstSeenAt": 1792527197.2557514,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
