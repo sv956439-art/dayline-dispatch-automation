@@ -55258,9 +55258,25 @@
       "status": "pending",
       "firstSeenAt": 1792490650.991132,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261019-the-true-story-of-a-15th-century-sexual-assault-survivors-quest-for-justice",
+      "provider": "BBC",
+      "title": "The true story of a Medieval sexual assault survivor's quest for justice A new book gives a remarkable account of one woman's legal battle after suffering a brutal attack in 1472 in the French city of Dijon. It defies assumptions about women's lives then.",
+      "status": "pending",
+      "firstSeenAt": 1792492305.9735615,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792492306.3953924,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
