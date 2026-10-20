@@ -55362,9 +55362,57 @@
       "status": "pending",
       "firstSeenAt": 1792495801.2757027,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5yqe1r1llo",
+      "provider": "BBC",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region. 8 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792497568.250964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9qzn193lrlo",
+      "provider": "BBC",
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence. 28 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792497568.2509902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg6qv1jdydo",
+      "provider": "BBC",
+      "title": "A Chinese dissident falsely claims Kim Jong Un is dead - why is this rumour back? North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "status": "pending",
+      "firstSeenAt": 1792497568.2514873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkvrk5480ro",
+      "provider": "BBC",
+      "title": "Town 'should act early' to cash in on theme park",
+      "status": "pending",
+      "firstSeenAt": 1792497568.3183863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/storm-austen-named-uk-severe-weather-warning",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792497568.5882852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/20/that-piping-hot-new-tv-show-i-just-watched-i-cant-recall-a-thing-about-it",
+      "provider": "The Guardian",
+      "title": "double quotation mark That piping hot new TV show I just watched? I can’t recall a thing about it",
+      "status": "pending",
+      "firstSeenAt": 1792497568.588585,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
