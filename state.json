@@ -55834,9 +55834,57 @@
       "status": "pending",
       "firstSeenAt": 1792515306.5330586,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20231026-the-enfield-poltergeist-why-the-unexplained-mystery-that-shocked-1970s-britain-continues-to-disturb",
+      "provider": "BBC",
+      "title": "The 'poltergeist' that shocked the UK In 1977, reports of supposedly paranormal goings-on in a London house made headlines – and with a new TV series and play about events, they still confound, writes Natasha Tripney.",
+      "status": "pending",
+      "firstSeenAt": 1792516948.1416192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqze4wwzpxwjo",
+      "provider": "BBC",
+      "title": "Concerns raised over declining fish numbers",
+      "status": "pending",
+      "firstSeenAt": 1792516948.2022078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792516948.5220954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792516948.5221083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792516948.5221207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/troops-deployed-and-curfews-implemented-to-quell-france-riots/107290576",
+      "provider": "ABC News Australia",
+      "title": "Troops deployed and curfews enforced to quell France riots",
+      "status": "pending",
+      "firstSeenAt": 1792516948.9451027,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
