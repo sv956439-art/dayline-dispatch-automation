@@ -55882,9 +55882,81 @@
       "status": "pending",
       "firstSeenAt": 1792516948.9451027,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr3wv555ew6lo",
+      "provider": "BBC",
+      "title": "McCartney and Starr back new Beatles attraction",
+      "status": "pending",
+      "firstSeenAt": 1792518688.6915112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm26z110vzko",
+      "provider": "BBC",
+      "title": "Two re-arrested on suspicion of assisting Iran intelligence after UK military base incident",
+      "status": "pending",
+      "firstSeenAt": 1792518688.7414186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8040qgryqd3o",
+      "provider": "BBC",
+      "title": "Royals roll out red carpet for visiting Sultan The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit. 4 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792518688.741723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3vqz1de9lro",
+      "provider": "BBC",
+      "title": "Webb backs VAR over Botman challenge on Jackson Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card. 53 mins ago Premier League",
+      "status": "pending",
+      "firstSeenAt": 1792518688.7418792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792518689.0122583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792518689.0122898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792518689.0125473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792518689.0126472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/federal-mp-afp-threat-assessments-lacking/107287500",
+      "provider": "ABC News Australia",
+      "title": "'Unsettled' MPs say security measures meant to protect them are lacking",
+      "status": "pending",
+      "firstSeenAt": 1792518689.346776,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
