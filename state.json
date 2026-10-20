@@ -56490,9 +56490,97 @@
       "status": "pending",
       "firstSeenAt": 1792537277.6893787,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2wxnrpk78o",
+      "provider": "BBC",
+      "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027. 17 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792538644.333829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw203zx1x1rno",
+      "provider": "BBC",
+      "title": "Is Donald Trump ready to do business with Myanmar? There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah. Just now Asia",
+      "status": "pending",
+      "firstSeenAt": 1792538644.3338585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c370pzdkw77jo",
+      "provider": "BBC",
+      "title": "The tech helping crack decades-old cold cases Investigative genetic genealogy can help hunt down criminals but raises worries over privacy. 10 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1792538644.3338842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckg5je34l0q5o",
+      "provider": "BBC",
+      "title": "No jeopardy but loads of fun - Champions League sets new goals record It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season. 20 mins ago European Football",
+      "status": "pending",
+      "firstSeenAt": 1792538644.3338983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck0e0zydv33go",
+      "provider": "BBC",
+      "title": "The night 'ruthless' Ngumoha came of age for Liverpool Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+      "status": "pending",
+      "firstSeenAt": 1792538644.3344243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckge4vn2rnxgo",
+      "provider": "BBC",
+      "title": "Ali G is back. But is the character past its sell-by date? Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
+      "status": "pending",
+      "firstSeenAt": 1792538644.334524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792538644.7449145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/i-forgot-to-pay-victorian-premier-ben-carroll-drove-off-with-paying-for-petrol-sparking-police-inquiries-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792538644.7449386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792538644.7449498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/alabama-governor-commutes-death-row-sentence",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792538644.745248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-antisemitic-slur-anti-defamation-league",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792538644.745269,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
