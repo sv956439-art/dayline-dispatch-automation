@@ -55954,9 +55954,73 @@
       "status": "pending",
       "firstSeenAt": 1792518689.346776,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/c6rey5xxy3vqo",
+      "provider": "BBC",
+      "title": "Why O'Sullivan faces battle to stay in world's top 16",
+      "status": "pending",
+      "firstSeenAt": 1792520086.1230679,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cmn8w3zl0z4po",
+      "provider": "BBC",
+      "title": "Allen considers retirement after NI Open exit",
+      "status": "pending",
+      "firstSeenAt": 1792520086.123483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
+      "provider": "The Guardian",
+      "title": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
+      "status": "pending",
+      "firstSeenAt": 1792520086.5861385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates/107290276",
+      "provider": "ABC News Australia",
+      "title": "Brendan Nugent to face court over alleged attack on MP Helen Haines",
+      "status": "pending",
+      "firstSeenAt": 1792520086.8319457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/vic-election-campaign-security-helen-haines-attack/107286422",
+      "provider": "ABC News Australia",
+      "title": "Calls to beef up security for Victorian election in wake of Haines attack",
+      "status": "pending",
+      "firstSeenAt": 1792520086.8340318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/probe-into-nsw-coalmine-at-the-centre-of-climate-court-battle/107268146",
+      "provider": "ABC News Australia",
+      "title": "Retired judge lashes NSW decision to rewrite laws to support coalmine",
+      "status": "pending",
+      "firstSeenAt": 1792520086.8340943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/sydney-afsl-firm-probed-over-links-to-scammers-fears-138m-lost/107174522",
+      "provider": "ABC News Australia",
+      "title": "Firm linked to suspected investment scam investigated, $138m feared lost",
+      "status": "pending",
+      "firstSeenAt": 1792520086.834139,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/resource-rents-prosper-australia-report-wealth-giveaway-2026/107283490",
+      "provider": "ABC News Australia",
+      "title": "Australia could collect extra $45b a year through better resource taxes",
+      "status": "pending",
+      "firstSeenAt": 1792520086.8341842,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
