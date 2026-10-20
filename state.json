@@ -54506,9 +54506,33 @@
       "status": "pending",
       "firstSeenAt": 1792462458.1372378,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/caulfield-cup-ohope-wins-half-yours-fall-ruled-accidental/107287784",
+      "provider": "ABC News Australia",
+      "title": "Jockeys cleared over Ohope Wins's fatal Caulfield Cup fall",
+      "status": "pending",
+      "firstSeenAt": 1792464268.7677112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/diamonds-vice-captain-kate-moloney-return-constellation-cup/107287940",
+      "provider": "ABC News Australia",
+      "title": "Diamonds boosted by imminent return of vice-captain",
+      "status": "pending",
+      "firstSeenAt": 1792464268.7684004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/jacinta-nampijinpa-price-kumanjayi-little-baby-child-protection/107287734",
+      "provider": "ABC News Australia",
+      "title": "NT senator says child protection 'needs to change' after niece's alleged murder",
+      "status": "pending",
+      "firstSeenAt": 1792464268.7684746,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
