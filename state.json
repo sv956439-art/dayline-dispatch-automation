@@ -56578,9 +56578,33 @@
       "status": "pending",
       "firstSeenAt": 1792538644.745269,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c693z948px0jo",
+      "provider": "BBC",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed? The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people. Just now Africa",
+      "status": "pending",
+      "firstSeenAt": 1792540066.0182493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792540066.3859487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/brendan-nugent-faces-court-over-alleged-attack-on-helen-haines/107291248",
+      "provider": "ABC News Australia",
+      "title": "Lawyer tells court Brendan Nugent has rare neurological condition",
+      "status": "pending",
+      "firstSeenAt": 1792540067.07541,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
