@@ -56170,9 +56170,65 @@
       "status": "pending",
       "firstSeenAt": 1792524122.475553,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5ynkx3xy11o",
+      "provider": "BBC",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "status": "pending",
+      "firstSeenAt": 1792525957.8663113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c94g1502el58o",
+      "provider": "BBC",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination. 9 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1792525957.8668966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792525958.296814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/doj-non-citizens-la",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792525958.2973807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/firmus-yet-to-secure-full-funding-for-tasmania-centre/107289594",
+      "provider": "ABC News Australia",
+      "title": "Firmus yet to secure full funding for AI data centre project",
+      "status": "pending",
+      "firstSeenAt": 1792525958.5311124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/mother-of-child-who-fled-canberra-daycare-centre/107287414",
+      "provider": "ABC News Australia",
+      "title": "'Why wasn't he at childcare?': Mother of child who fled Canberra daycare",
+      "status": "pending",
+      "firstSeenAt": 1792525958.5318487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/nsw-travel-western-sydney-international-airport-flight-savings/106785424",
+      "provider": "ABC News Australia",
+      "title": "Weighing up if a trip from Sydney's new airport is for you",
+      "status": "pending",
+      "firstSeenAt": 1792525958.5318918,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
