@@ -54858,9 +54858,73 @@
       "status": "pending",
       "firstSeenAt": 1792476438.3993587,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5yn5e8mezvo",
+      "provider": "BBC",
+      "title": "French cities calm overnight after curfews imposed to quell violence, PM says Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary. 6 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792478591.7297618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792478592.2574897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/20/elizabeth-struhs-death-inquest-saints-religious-sect-coroner-evidence-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792478592.2575157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792478592.25788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792478592.2580135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/james-tedesco-returns-to-captain-kangaroos/107289522",
+      "provider": "ABC News Australia",
+      "title": "James Tedesco returns to captain Kangaroos in Rugby League World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792478592.8405714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/nab-layoffs-big-companies-axing-staff-closer-recession/107288940",
+      "provider": "ABC News Australia",
+      "title": "The more big companies axe staff, the closer we get to a recession",
+      "status": "pending",
+      "firstSeenAt": 1792478592.8406403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/ama-calls-for-commission-of-inquiry-into-tasmania-health-system/107286142",
+      "provider": "ABC News Australia",
+      "title": "Health system in 'perpetual crisis' demands inquiry, doctors say",
+      "status": "pending",
+      "firstSeenAt": 1792478592.840687,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
