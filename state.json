@@ -54986,9 +54986,73 @@
       "status": "pending",
       "firstSeenAt": 1792481006.2804701,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw1m4e3mrljxo",
+      "provider": "BBC",
+      "title": "The British island where red squirrels are thriving",
+      "status": "pending",
+      "firstSeenAt": 1792483151.603664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxzd6j5q0g7eo",
+      "provider": "BBC",
+      "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+      "status": "pending",
+      "firstSeenAt": 1792483151.603681,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87zyg4rrxro",
+      "provider": "BBC",
+      "title": "Record numbers apply to service after heath blaze",
+      "status": "pending",
+      "firstSeenAt": 1792483151.603695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr15jkgkqx55o",
+      "provider": "BBC",
+      "title": "Donations lift spirits of flood-hit craft shop",
+      "status": "pending",
+      "firstSeenAt": 1792483151.6037085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792483151.815646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792483151.8158607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/underworld-link-to-gosnells-drive-by-shooting-probed/107289494",
+      "provider": "ABC News Australia",
+      "title": "Police believe underworld gang gave gun to 13yo charged over drive-by shooting",
+      "status": "pending",
+      "firstSeenAt": 1792483152.2507656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-20/regional-voices-queensland-calls-for-landholder-protection/107289452",
+      "provider": "ABC News Australia",
+      "title": "Landholders and politicians push for tougher laws on renewable energy developments",
+      "status": "pending",
+      "firstSeenAt": 1792483152.2512572,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
