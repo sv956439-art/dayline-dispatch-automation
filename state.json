@@ -58426,9 +58426,49 @@
       "status": "pending",
       "firstSeenAt": 1792603119.8803532,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20240821-could-alien-life-survive-in-deep-lakes-below-mars-surface",
+      "provider": "BBC",
+      "title": "What life could survive in Mars' subsurface water? To understand the life that might survive deep below Mars' surface, we can look to some of the deepest, and oldest, forms of living organism on our own planet.",
+      "status": "pending",
+      "firstSeenAt": 1792604995.9102368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx29lk15nxxo",
+      "provider": "BBC",
+      "title": "Bush clan members back Democrat James Talarico in Texas Senate race The Bushes could potentially influence some disaffected Republicans when it comes to next month's vote.",
+      "status": "pending",
+      "firstSeenAt": 1792604995.9103317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g2rky498wo",
+      "provider": "BBC",
+      "title": "How much money does the UK government borrow, and why does it matter? The UK government borrows to fund day-to-day spending as well as long-term infrastructure projects.",
+      "status": "pending",
+      "firstSeenAt": 1792604996.0078444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792604996.22064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792604996.2217476,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
