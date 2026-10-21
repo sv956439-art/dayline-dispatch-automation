@@ -58898,9 +58898,57 @@
       "status": "pending",
       "firstSeenAt": 1792618901.0555105,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze414811jlo",
+      "provider": "BBC",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
+      "status": "pending",
+      "firstSeenAt": 1792620586.7261617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7vp17z7jv3o",
+      "provider": "BBC",
+      "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale India's second mega IPO in a month comes despite subdued equity markets and aims to raise $3.2bn. 17 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1792620586.8039885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792620587.197803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/experts-say-tesla-roadster-not-legal-in-australia/107277896",
+      "provider": "ABC News Australia",
+      "title": "Why Tesla's new flying car likely won't be seen in Australia any time soon",
+      "status": "pending",
+      "firstSeenAt": 1792620588.2186801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/wa-rental-reforms-rent-cap-financial-counsellor-kimberley/107154434",
+      "provider": "ABC News Australia",
+      "title": "Calls for rent cap to stop WA's spiralling rental market",
+      "status": "pending",
+      "firstSeenAt": 1792620588.219025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/queensland-nurse-complaints-cardiac-shortage-halts-surgeries/107293018",
+      "provider": "ABC News Australia",
+      "title": "Hospital halts heart surgeries for 10 days after nurse complaints",
+      "status": "pending",
+      "firstSeenAt": 1792620588.2190518,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
