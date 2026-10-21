@@ -58146,9 +58146,89 @@
       "status": "pending",
       "firstSeenAt": 1792595833.9222806,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "provider": "BBC",
+      "title": "Google experiences resignation backlash over AI military contracts The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+      "status": "pending",
+      "firstSeenAt": 1792597948.121099,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmy0ek8vnxzko",
+      "provider": "BBC",
+      "title": "Anderson, 44, not offered new Lancashire contract",
+      "status": "pending",
+      "firstSeenAt": 1792597948.1215177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck78p16750p0o",
+      "provider": "BBC",
+      "title": "Sinkhole revealed 50m mine shaft beneath road",
+      "status": "pending",
+      "firstSeenAt": 1792597948.2062178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792597948.3985147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792597948.3987293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/woman-told-russell-brand-he-treated-her-like-an-animal-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792597948.398879,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792597948.3989005,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792597948.3989995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/washington-anti-trans-sports-genital-exams",
+      "provider": "The Guardian",
+      "title": "‘Invasive and extreme’: doctors fight anti-trans measure requiring genital exams for student athletes",
+      "status": "pending",
+      "firstSeenAt": 1792597948.3994954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/russell-brand-trial-hears-from-sixth-accuser/107294572",
+      "provider": "ABC News Australia",
+      "title": "Russell Brand treated 21yo woman 'like an animal' after rape, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792597948.6989424,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
