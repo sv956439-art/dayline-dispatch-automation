@@ -57346,9 +57346,97 @@
       "status": "pending",
       "firstSeenAt": 1792565404.4988203,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6vg0n2v512ko",
+      "provider": "BBC",
+      "title": "Key questions as Farrell set to name Ireland squad",
+      "status": "pending",
+      "firstSeenAt": 1792567842.4848213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c8y5607px4z7o",
+      "provider": "BBC",
+      "title": "Tandy on copping flak and his tough Wales calls",
+      "status": "pending",
+      "firstSeenAt": 1792567842.4848845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqrky2rpkrz2o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792567842.4849656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck4g10n56jzqo",
+      "provider": "BBC",
+      "title": "How England hopeful Acheampong is giving Chelsea a big decision to make",
+      "status": "pending",
+      "firstSeenAt": 1792567842.485273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cv0ldne84eeyo",
+      "provider": "BBC",
+      "title": "'I've waited 34 years for this' - Viking's 'special' story",
+      "status": "pending",
+      "firstSeenAt": 1792567842.485408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792567842.722993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792567842.7234688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/australia-postpartum-psychosis-research/107292188",
+      "provider": "ABC News Australia",
+      "title": "Aussie mothers with postpartum psychosis 'falling through the cracks'",
+      "status": "pending",
+      "firstSeenAt": 1792567843.0487902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
+      "provider": "ABC News Australia",
+      "title": "Australia desperate for runs on fourth day of second Test",
+      "status": "pending",
+      "firstSeenAt": 1792567843.048971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/hate-crime-serious-villification-threats-granted-bail-monitoring/107294020",
+      "provider": "ABC News Australia",
+      "title": "Man who allegedly threatened to 'blow up' unit block given bail",
+      "status": "pending",
+      "firstSeenAt": 1792567843.0499268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/phil-haines-governor-general-speak-on-helen-haines-health/107293176",
+      "provider": "ABC News Australia",
+      "title": "Husband of Helen Haines says critically injured MP is a 'fighter'",
+      "status": "pending",
+      "firstSeenAt": 1792567843.0499763,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
