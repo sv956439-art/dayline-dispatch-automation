@@ -58602,9 +58602,41 @@
       "status": "pending",
       "firstSeenAt": 1792608702.4775157,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ly0k26xdpyo",
+      "provider": "BBC",
+      "title": "4 hrs ago Boy who doodles to host first solo art exhibition Joe Whale was commissioned to doodle on the walls of a local restaurant at the age of nine. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792610557.3108447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792610557.6049736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/elon-musk-super-pac-new-york-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792610557.6051059,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/helen-haines-live-updates-brendan-nugent/107293362",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines still critical, more than two days after car attack",
+      "status": "pending",
+      "firstSeenAt": 1792610558.3556106,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
