@@ -58026,9 +58026,113 @@
       "status": "pending",
       "firstSeenAt": 1792592112.2067914,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmx234p2xwpzo",
+      "provider": "BBC",
+      "title": "Andrews died of tear in artery around heart - autopsy Former Sale player Hyron Andrews - who was found dead at his new team's hotel base before a Champions Cup match - died of natural causes, an autopsy finds.",
+      "status": "pending",
+      "firstSeenAt": 1792594078.47866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvx28yk1j6z0o",
+      "provider": "BBC",
+      "title": "Why do Man City fans boo pre-match anthems?",
+      "status": "pending",
+      "firstSeenAt": 1792594078.4787066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2vpn4xy0yo",
+      "provider": "BBC",
+      "title": "Don't Stop Believin' - High school musical Glee set for reboot",
+      "status": "pending",
+      "firstSeenAt": 1792594078.5673368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmje5k3q9ello",
+      "provider": "BBC",
+      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+      "status": "pending",
+      "firstSeenAt": 1792594078.5673637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyd53yg9n1o",
+      "provider": "BBC",
+      "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
+      "status": "pending",
+      "firstSeenAt": 1792594078.5673933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck98z61l6n14o",
+      "provider": "BBC",
+      "title": "42 mins ago Unknown Canaletto work fetches £135,000 at auction The rare work by the revered Venetian artist sold at Mallams auction house in Oxford on Wednesday. 42 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792594078.567896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgqwl8z4wl2o",
+      "provider": "BBC",
+      "title": "2 hrs ago Extension plans for historic war tunnels site The plans include an extension to the visitor centre and the demolition of a single-storey building. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792594078.5679226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792594078.7133787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/europe-far-right-protest-violence-authoritarian-agenda",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792594078.7134206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792594078.7134411,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792594078.7135062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792594078.7137828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792594078.7139215,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
