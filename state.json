@@ -59146,9 +59146,41 @@
       "status": "pending",
       "firstSeenAt": 1792625268.7368543,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1zrl2nrqo",
+      "provider": "BBC",
+      "title": "The \"trillion pound\" oil fund the government believes Britain could have built For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds. 25 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792626784.3394494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792626785.0117989,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964",
+      "provider": "ABC News Australia",
+      "title": "Meta fined $25b in US for deceiving users about Facebook privacy",
+      "status": "pending",
+      "firstSeenAt": 1792626785.453418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084",
+      "provider": "ABC News Australia",
+      "title": "Outback giant yabby Australia's latest 'big thing'",
+      "status": "pending",
+      "firstSeenAt": 1792626785.454131,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
