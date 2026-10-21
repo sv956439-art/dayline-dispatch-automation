@@ -58130,9 +58130,25 @@
       "status": "pending",
       "firstSeenAt": 1792594078.7139215,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792595833.5224853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/macron-calls-trump-riot-comments-stupid/107294810",
+      "provider": "ABC News Australia",
+      "title": "Macron calls Trump's comments on French riots 'stupid'",
+      "status": "pending",
+      "firstSeenAt": 1792595833.9222806,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
