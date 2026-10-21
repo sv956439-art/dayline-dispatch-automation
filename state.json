@@ -56610,9 +56610,49 @@
       "status": "pending",
       "firstSeenAt": 1792541219.4314182,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g1qyvvkgvo",
+      "provider": "BBC",
+      "title": "'Burnham faces climate revolt' and 'Harry wants to fix feud' Several papers lead on remarks from the Duke of Sussex yesterday, where he said he hoped to reconcile with his family. 22 mins ago The Papers",
+      "status": "pending",
+      "firstSeenAt": 1792543457.6066535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792543457.8343632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+      "provider": "The Guardian",
+      "title": "After dark, these YouTubers watch over an unlikely charge – a shark stuck in a South Korean canal",
+      "status": "pending",
+      "firstSeenAt": 1792543457.8355258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/former-snooker-number-one-mark-allen-considers-retirement/107291400",
+      "provider": "ABC News Australia",
+      "title": "Snooker player in tears, hugged by presenter, after emotional and raw interview",
+      "status": "pending",
+      "firstSeenAt": 1792543458.1020265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/hereford-cattle-numbers-dropping-as-angus-breed-grows/107228426",
+      "provider": "ABC News Australia",
+      "title": "Black beats brown as marketing changes the makeup of Australian cattle herd",
+      "status": "pending",
+      "firstSeenAt": 1792543458.1020691,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
