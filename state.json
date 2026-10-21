@@ -58298,9 +58298,49 @@
       "status": "pending",
       "firstSeenAt": 1792599565.3808453,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c862y0ww1dl9o",
+      "provider": "BBC",
+      "title": "Investigation after man and woman found dead The bodies of a man in his 30s and a woman in her 40s are discovered at the same house in Bray.",
+      "status": "pending",
+      "firstSeenAt": 1792601669.8985932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c94g1pjmxg0ko",
+      "provider": "BBC",
+      "title": "Former UK MP being investigated over alleged rape inside Parliament",
+      "status": "pending",
+      "firstSeenAt": 1792601669.9789732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6r7y03e9m3ro",
+      "provider": "BBC",
+      "title": "Hackers steal children's data after company used 'Password1' to protect old account The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack. 6 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1792601669.9793246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/jeffrey-donaldson-investigated-alleged-rape-parliament",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792601670.3897173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792601670.3898163,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
