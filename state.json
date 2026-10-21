@@ -58634,9 +58634,73 @@
       "status": "pending",
       "firstSeenAt": 1792610558.3556106,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c62kepvg2x9lo",
+      "provider": "BBC",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say The wife of a diplomat based in Abuja travelled to Kampala for a vacation. 22 mins ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1792612390.8391228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792612391.162685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/former-hostage-daniella-gilboa-reflects-bondi-jewish-solidarity/107259066",
+      "provider": "ABC News Australia",
+      "title": "'We're unbreakable': Ex-Israeli hostage's message to Bondi attack survivors",
+      "status": "pending",
+      "firstSeenAt": 1792612391.5746183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/working-mum-lived-in-car-after-relationship-breakdown/107291182",
+      "provider": "ABC News Australia",
+      "title": "Working mum who lived in car left wondering how she would survive",
+      "status": "pending",
+      "firstSeenAt": 1792612391.574677,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/supacat-fatal-rollover-previous-incident-uk-jackal-military/107285370",
+      "provider": "ABC News Australia",
+      "title": "Military vehicle model involved in fatal rollover had previously flipped",
+      "status": "pending",
+      "firstSeenAt": 1792612391.5747337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/david-speers-helen-haines-compassion-politics/107291764",
+      "provider": "ABC News Australia",
+      "title": "How do we actually turn down the temperature in political debate?",
+      "status": "pending",
+      "firstSeenAt": 1792612391.575066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/australia-sa-quick-hits-second-test-day-four-smith-labuschagne/107294194",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Sore Smith doesn't return as Marnus throws it away on horror day",
+      "status": "pending",
+      "firstSeenAt": 1792612391.5750866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nsw-south-west-metro-opening-date-october-30/107294482",
+      "provider": "ABC News Australia",
+      "title": "NSW reveals opening date of long-awaited Southwest Metro line",
+      "status": "pending",
+      "firstSeenAt": 1792612391.5751061,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
