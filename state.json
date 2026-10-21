@@ -58754,9 +58754,73 @@
       "status": "pending",
       "firstSeenAt": 1792613620.94439,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrly2dg5xzzo",
+      "provider": "BBC",
+      "title": "Pope does not need further treatment after lung cancer surgery Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "status": "pending",
+      "firstSeenAt": 1792615450.2087843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg473555gzko",
+      "provider": "BBC",
+      "title": "New lab to become centre for investigating uplands",
+      "status": "pending",
+      "firstSeenAt": 1792615450.3048093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y8lvxzp59vo",
+      "provider": "BBC",
+      "title": "Fuel leak which killed fish in River Taff stopped",
+      "status": "pending",
+      "firstSeenAt": 1792615450.3048534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/21/the-guardian-view-on-the-republicans-midterms-struggle-trump-has-circuses-but-voters-also-want-bread",
+      "provider": "The Guardian",
+      "title": "double quotation mark The Guardian view on the Republicans’ midterms struggle: Trump has circuses, but voters also want bread",
+      "status": "pending",
+      "firstSeenAt": 1792615450.6676702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/australian-workers-criticise-ato-unpaid-superannuation-recovery/107288902",
+      "provider": "ABC News Australia",
+      "title": "Underpaid super affects one in four workers, with billions never recovered",
+      "status": "pending",
+      "firstSeenAt": 1792615451.416574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/federal-politics-live-blog-helen-haines/107294950",
+      "provider": "ABC News Australia",
+      "title": "Minister says threats against MPs are not new following Haines, WA incident",
+      "status": "pending",
+      "firstSeenAt": 1792615451.4168613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020",
+      "provider": "ABC News Australia",
+      "title": "ASX to open higher as Wall Street surges",
+      "status": "pending",
+      "firstSeenAt": 1792615451.4169645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/snail-shells-linked-to-extreme-weather-events/107291072",
+      "provider": "ABC News Australia",
+      "title": "Snail shell rings could hold prehistoric cyclone information",
+      "status": "pending",
+      "firstSeenAt": 1792615451.4177103,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
