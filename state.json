@@ -59050,9 +59050,105 @@
       "status": "pending",
       "firstSeenAt": 1792623779.8126924,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n049gg75r4o",
+      "provider": "BBC",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules The updated policy will apply to all reservations booked on the accommodation site on or after 20 November. 31 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792625268.1199472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj34j7dk771o",
+      "provider": "BBC",
+      "title": "Trump's green card curbs test Indian tech workers' American dream With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians. 20 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1792625268.12044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly3g0g371go",
+      "provider": "BBC",
+      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs. 22 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792625268.1204689,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmzxj4e8w44vo",
+      "provider": "BBC",
+      "title": "The grads ditching the UK for a fresh start abroad With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "status": "pending",
+      "firstSeenAt": 1792625268.1210425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck79p7qq1q9ro",
+      "provider": "BBC",
+      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+      "status": "pending",
+      "firstSeenAt": 1792625268.121522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrw03njgxzo",
+      "provider": "BBC",
+      "title": "The four locations in the running to be UK City of Culture 2029 The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+      "status": "pending",
+      "firstSeenAt": 1792625268.1216538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792625268.3340762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792625268.3341005,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792625268.3342373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nsw-beau-lamarre-condon-double-murder-trial-cctv/107294348",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon double murder trial shown five hours of CCTV",
+      "status": "pending",
+      "firstSeenAt": 1792625268.7356591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358",
+      "provider": "ABC News Australia",
+      "title": "Pope Leo will not need further cancer treatment, doctors say",
+      "status": "pending",
+      "firstSeenAt": 1792625268.7358427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/alleged-driver-charged-over-bibra-lake-fatal-hit-and-run-crash/107295464",
+      "provider": "ABC News Australia",
+      "title": "Alleged driver charged over hit-and-run that killed cyclist in Perth's south",
+      "status": "pending",
+      "firstSeenAt": 1792625268.7368543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
