@@ -58338,9 +58338,97 @@
       "status": "pending",
       "firstSeenAt": 1792601670.3898163,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw0541p65dyzo",
+      "provider": "BBC",
+      "title": "Burnham proposes plan to cut standing charges from gas bills The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+      "status": "pending",
+      "firstSeenAt": 1792603118.3837557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz981p0klvgo",
+      "provider": "BBC",
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+      "status": "pending",
+      "firstSeenAt": 1792603118.3838282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/ckzd6r577qvdo",
+      "provider": "BBC",
+      "title": "'Playing for their careers' - Australia reeling after extraordinary day Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+      "status": "pending",
+      "firstSeenAt": 1792603118.3840563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/ck62y977vm33o",
+      "provider": "BBC",
+      "title": "Former Open champion Oosthuizen quits LIV Golf",
+      "status": "pending",
+      "firstSeenAt": 1792603118.4666545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c3ewe42q4jqzo",
+      "provider": "BBC",
+      "title": "Kildunne drops to bench as England ring changes",
+      "status": "pending",
+      "firstSeenAt": 1792603118.466898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqrly237xlz3o",
+      "provider": "BBC",
+      "title": "Benson and McNabney handed first Ireland call-ups",
+      "status": "pending",
+      "firstSeenAt": 1792603118.4669323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cqe9ldzp9n73o",
+      "provider": "BBC",
+      "title": "MVP urges MMA fighters to form union over pay",
+      "status": "pending",
+      "firstSeenAt": 1792603118.4670398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/athletics/articles/cmewe4x4vnk5o",
+      "provider": "BBC",
+      "title": "Olympian Dobbin writes to Prime Minister over ME funding",
+      "status": "pending",
+      "firstSeenAt": 1792603118.467113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cqn49jxjg19eo",
+      "provider": "BBC",
+      "title": "Cancer campaigner Goodburn to deliver rugby match ball",
+      "status": "pending",
+      "firstSeenAt": 1792603118.4671428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/polling-fabricated-data-social-experiment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792603119.002726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/openai-agents-disable-safety-monitors/107294908",
+      "provider": "ABC News Australia",
+      "title": "OpenAI says its AI agents disabled their own safety monitors",
+      "status": "pending",
+      "firstSeenAt": 1792603119.8803532,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
