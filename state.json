@@ -57546,9 +57546,49 @@
       "status": "pending",
       "firstSeenAt": 1792574133.357081,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m24l9v3745o",
+      "provider": "BBC",
+      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "status": "pending",
+      "firstSeenAt": 1792576088.0734982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9wzvj0v4q9o",
+      "provider": "BBC",
+      "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
+      "status": "pending",
+      "firstSeenAt": 1792576088.1288688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261020-12-of-the-best-films-to-watch-in-november",
+      "provider": "BBC",
+      "title": "12 of the best films to watch in November From an awards-tipped role for Andrew Scott to another Hunger Games prequel, here are the films to watch at the cinema and stream at home this month.",
+      "status": "pending",
+      "firstSeenAt": 1792576088.1289482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde8r6e9dd0o",
+      "provider": "BBC",
+      "title": "4 hrs ago Sunny day? The book that catches children's feelings using weather A group of primary school pupils have turned their ideas about feelings and emotions into a book. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792576088.1292481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx5yn573ne29o",
+      "provider": "BBC",
+      "title": "5 hrs ago 'Success still seems unreal' says Gruffalo artist Axel Scheffler's illustrations helped turn The Gruffalo series into a global literary phenomenon. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792576088.1292667,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
