@@ -56954,9 +56954,41 @@
       "status": "pending",
       "firstSeenAt": 1792556170.3730798,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5yn4pky527o",
+      "provider": "BBC",
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem The plan would eliminate sewage spills into Windermere, blamed for turning the water green. Just now Science & Environment",
+      "status": "pending",
+      "firstSeenAt": 1792558030.7786217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792558031.2273512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/woman-allegedly-shackled-separated-from-newborn-after-c-section/107292396",
+      "provider": "ABC News Australia",
+      "title": "Prisoner allegedly shackled, separated from newborn after C-section",
+      "status": "pending",
+      "firstSeenAt": 1792558031.7617683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/ai-data-centre-company-cold-calling-land-sales-tasmania/107291938",
+      "provider": "ABC News Australia",
+      "title": "AI data centre company cold calling about buying land, inquiry told",
+      "status": "pending",
+      "firstSeenAt": 1792558031.7617936,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
