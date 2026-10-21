@@ -57266,9 +57266,89 @@
       "status": "pending",
       "firstSeenAt": 1792563137.2017958,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c30rln4pz58xo",
+      "provider": "BBC",
+      "title": "Lawyer caught offering to make illegal-worker fine go away Because of our investigation, the home secretary has ordered a review of how fines are issued and collected. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792565403.9957933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crlykxzxdw73o",
+      "provider": "BBC",
+      "title": "Improvements still needed at high-security hospital Inspectors said low-staffing levels continued to affect the care of patients at Rampton Hospital. Just now Nottinghamshire",
+      "status": "pending",
+      "firstSeenAt": 1792565403.9962184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/c6vgj4g913wyo",
+      "provider": "BBC",
+      "title": "LeBron James' 76ers beat Knicks on NBA opening night",
+      "status": "pending",
+      "firstSeenAt": 1792565403.9973378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6398rpv0mn8o",
+      "provider": "BBC",
+      "title": "8 Teen advised not to fell tree that killed him, inquest told",
+      "status": "pending",
+      "firstSeenAt": 1792565404.065353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/battle-meta-alleged-bolsonaro-bias-intensifies-days-before-brazil-presidential-runoff",
+      "provider": "The Guardian",
+      "title": "Battle over Meta’s alleged Bolsonaro bias intensifies days before Brazil presidential runoff",
+      "status": "pending",
+      "firstSeenAt": 1792565404.244819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/youth-radicalisation-crime-police-warning-ideological-violence/107292752",
+      "provider": "ABC News Australia",
+      "title": "Australia at 'crossroads' as police warn of 'tsunami' of radicalisation",
+      "status": "pending",
+      "firstSeenAt": 1792565404.497366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/commercial-helium-yorke-peninsula-gold-hydrogen/107291760",
+      "provider": "ABC News Australia",
+      "title": "Plans for commercial helium production on Yorke Peninsula",
+      "status": "pending",
+      "firstSeenAt": 1792565404.4986978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/man-fronts-hearing-alleged-beach-attack/107291584",
+      "provider": "ABC News Australia",
+      "title": "Man to face trial over alleged attack on woman after beach dog dispute",
+      "status": "pending",
+      "firstSeenAt": 1792565404.4987447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/kyneton-wildlife-taxidermy-charges/107292560",
+      "provider": "ABC News Australia",
+      "title": "Antiques dealer fined for possessing hundreds of frozen, stuffed animals",
+      "status": "pending",
+      "firstSeenAt": 1792565404.4987826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/joseph-paratore-identified-as-man-killed-bibra-lake-hit-run/107292274",
+      "provider": "ABC News Australia",
+      "title": "Father of two identified as cyclist killed in hit-and-run as police hunt driver",
+      "status": "pending",
+      "firstSeenAt": 1792565404.4988203,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
