@@ -58698,9 +58698,65 @@
       "status": "pending",
       "firstSeenAt": 1792612391.5751061,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm98zn5j89kdo",
+      "provider": "BBC",
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace Russia's President Putin does not feel under pressure right now to end the war.",
+      "status": "pending",
+      "firstSeenAt": 1792613620.1508029,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq74pjn80x4wo",
+      "provider": "BBC",
+      "title": "Fernandes rounds on Carrick after Man Utd humiliation Manchester United skipper Bruno Fernandes has blamed head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+      "status": "pending",
+      "firstSeenAt": 1792613620.1513186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/sydney-southwest-metro-extension-opening-friday-chris-minns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792613620.649919,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
+      "provider": "The Guardian",
+      "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+      "status": "pending",
+      "firstSeenAt": 1792613620.651021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/21/lessons-from-hospice-workers-life-death",
+      "provider": "The Guardian",
+      "title": "‘Don’t sweat the small stuff’: hospice workers share 12 lessons about life and death",
+      "status": "pending",
+      "firstSeenAt": 1792613620.6510882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/vanuatu-minister-says-no-plans-to-reduce-chinese-police-presence/107293920",
+      "provider": "ABC News Australia",
+      "title": "Vanuatu minister contradicts own government on Chinese police drawdown",
+      "status": "pending",
+      "firstSeenAt": 1792613620.943642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/ebike-injuries-rise-has-parents-worried/107293656",
+      "provider": "ABC News Australia",
+      "title": "Parents say illegal e-bikes are 'basically motorbikes' as injuries rise",
+      "status": "pending",
+      "firstSeenAt": 1792613620.94439,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
