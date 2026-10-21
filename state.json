@@ -57762,9 +57762,113 @@
       "status": "pending",
       "firstSeenAt": 1792583429.4607823,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261015-battle-harbour-canadas-ghost-island-where-guests-still-check-in",
+      "provider": "BBC",
+      "title": "No cars, no phone signal: Canada's ghost island where guests still check in Once the thriving heart of Labrador's fishing industry, Battle Harbour has found new life as an island retreat with barely a trace of modern life.",
+      "status": "pending",
+      "firstSeenAt": 1792585010.8927014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck98z6e4l725o",
+      "provider": "BBC",
+      "title": "Irish weather warning ahead of Storm Austen The Republic of Ireland's weather service warns of potential of flooding and travel disruption.",
+      "status": "pending",
+      "firstSeenAt": 1792585010.893638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
+      "provider": "BBC",
+      "title": "Cyber chiefs tell websites to make critical safety update or go offline Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+      "status": "pending",
+      "firstSeenAt": 1792585010.8938284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cxvgd73rg97qo",
+      "provider": "BBC",
+      "title": "Why has Lord's dug up its pitch and what comes next?",
+      "status": "pending",
+      "firstSeenAt": 1792585010.8942015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/c3ewe41dd0g5o",
+      "provider": "BBC",
+      "title": "Allen reveals mental health clinic stay before return",
+      "status": "pending",
+      "firstSeenAt": 1792585011.0040793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cj62y0l5ed1vo",
+      "provider": "BBC",
+      "title": "Overton would consider Ashes return if Root asks",
+      "status": "pending",
+      "firstSeenAt": 1792585011.0041192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmvg6vdggxvvo",
+      "provider": "BBC",
+      "title": "Saracens in talks over Itoje extension",
+      "status": "pending",
+      "firstSeenAt": 1792585011.0042036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cx4g17l00qmjo",
+      "provider": "BBC",
+      "title": "Boulter wins in under an hour to reach quarters",
+      "status": "pending",
+      "firstSeenAt": 1792585011.0042462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cm8ezyld9dn4o",
+      "provider": "BBC",
+      "title": "England forward Strange ruled out of World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792585011.004637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck62yq22j81lo",
+      "provider": "BBC",
+      "title": "Crawley Town sack head coach Kazim-Richards",
+      "status": "pending",
+      "firstSeenAt": 1792585011.0049148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792585011.5013947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792585011.501894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792585011.5019362,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
