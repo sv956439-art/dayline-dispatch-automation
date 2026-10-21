@@ -57098,9 +57098,97 @@
       "status": "pending",
       "firstSeenAt": 1792559699.3114727,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgqw44ely58o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792561474.0483916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx28pkn8p8yo",
+      "provider": "BBC",
+      "title": "Massive wasps' nest in wildlife office dismantled The insects lived in a nature reserve office for four months. 7 mins ago Norfolk",
+      "status": "pending",
+      "firstSeenAt": 1792561474.048459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw054907zmgjo",
+      "provider": "BBC",
+      "title": "Petition to stop fines for school absence handed in The campaign is supported by Motherland and Ludwig actor Anna Maxwell Martin. Just now England",
+      "status": "pending",
+      "firstSeenAt": 1792561474.0485096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8dx30l30zv7o",
+      "provider": "BBC",
+      "title": "Taekwondo 'important' for kids, says world champ Alan Collins says the martial arts sport is good for mental health, as well as self-defence. Just now Northamptonshire",
+      "status": "pending",
+      "firstSeenAt": 1792561474.0485559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck20rver1j31o",
+      "provider": "BBC",
+      "title": "Family of prison officer shot dead by IRA to get state apology Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "status": "pending",
+      "firstSeenAt": 1792561474.0490456,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmpwg17ev9xxo",
+      "provider": "BBC",
+      "title": "Fabregas and Como prepare for historic Man Utd tie",
+      "status": "pending",
+      "firstSeenAt": 1792561474.0496118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792561474.2591326,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466",
+      "provider": "ABC News Australia",
+      "title": "Sudanese drone strike on market kills more than 150",
+      "status": "pending",
+      "firstSeenAt": 1792561474.5884247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/fortescue-executive-sacked-sexual-harassment-bullying/107293046",
+      "provider": "ABC News Australia",
+      "title": "Fortescue senior executive sacked after sexual harassment probe",
+      "status": "pending",
+      "firstSeenAt": 1792561474.5887554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/christmas-school-rockliff-social-media-culture-war/107291008",
+      "provider": "ABC News Australia",
+      "title": "Christmas 'culture war' goes against premier's 'nice guy' image",
+      "status": "pending",
+      "firstSeenAt": 1792561474.5895977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/council-rejects-mcdonalds-phillip-island-proposal/107156522",
+      "provider": "ABC News Australia",
+      "title": "McDonald's bid for Phillip Island restaurant knocked back by council",
+      "status": "pending",
+      "firstSeenAt": 1792561474.5896676,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
