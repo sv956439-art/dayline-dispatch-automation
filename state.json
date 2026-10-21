@@ -57434,9 +57434,41 @@
       "status": "pending",
       "firstSeenAt": 1792567843.0499763,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckwyqdqxw6d0o",
+      "provider": "BBC",
+      "title": "Australian MP loses both legs after alleged car attack Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday. 12 mins ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1792570185.1100128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmx2302r04r4o",
+      "provider": "BBC",
+      "title": "Crystal Palace urged to retire bald eagle mascot Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\".",
+      "status": "pending",
+      "firstSeenAt": 1792570185.1107597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gel2xv4493o",
+      "provider": "BBC",
+      "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS). Just now Business",
+      "status": "pending",
+      "firstSeenAt": 1792570185.188273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/hundreds-march-parliament-to-protest-wa-university-merger-/107292936",
+      "provider": "ABC News Australia",
+      "title": "Hundreds rally at parliament against proposed university merger",
+      "status": "pending",
+      "firstSeenAt": 1792570186.3797197,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
