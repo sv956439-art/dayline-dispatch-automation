@@ -58818,9 +58818,41 @@
       "status": "pending",
       "firstSeenAt": 1792615451.4177103,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqrly2d6jnp7o",
+      "provider": "BBC",
+      "title": "Paz, Fabregas and Como teach Man Utd a lesson",
+      "status": "pending",
+      "firstSeenAt": 1792617114.0232635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq39870ypgl7o",
+      "provider": "BBC",
+      "title": "Holocaust school lessons in England to be improved after 'shocking' antisemitism review",
+      "status": "pending",
+      "firstSeenAt": 1792617114.0806305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792617114.2679894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/cricket-south-africa-vs-australia-day-four-analysis/107295048",
+      "provider": "ABC News Australia",
+      "title": "Scatterbrained Australian approach opens door to South African victory",
+      "status": "pending",
+      "firstSeenAt": 1792617114.6940432,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
