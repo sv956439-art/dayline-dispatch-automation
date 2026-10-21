@@ -56890,9 +56890,73 @@
       "status": "pending",
       "firstSeenAt": 1792554355.6128256,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93z1e87e0do",
+      "provider": "BBC",
+      "title": "Why does Elon Musk want to merge Tesla and SpaceX? Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history. Just now",
+      "status": "pending",
+      "firstSeenAt": 1792556169.8359346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792556170.0774968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792556170.0776606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/firefighters-growing-concerns-water-supplies-tackle-wildfires",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792556170.077943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/sanae-takaichi-took-on-japans-male-dominated-politics-and-won-can-she-survive-a-second-year-in-power",
+      "provider": "The Guardian",
+      "title": "Sanae Takaichi took on Japan’s male-dominated politics and won – can she survive a second year in power?",
+      "status": "pending",
+      "firstSeenAt": 1792556170.0784428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/kitty-flanagan-abc-2027-new-shows-hugo-weaving-the-great-white/107287040",
+      "provider": "ABC News Australia",
+      "title": "ABC unveils 2027 line-up with some fresh (and familiar) faces",
+      "status": "pending",
+      "firstSeenAt": 1792556170.3723435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/pregnant-woman-moved-hospitals-before-emergency-baby-delivery/107291862",
+      "provider": "ABC News Australia",
+      "title": "Review into why pregnant woman moved hospitals three times while in pain",
+      "status": "pending",
+      "firstSeenAt": 1792556170.3728888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/three-in-hospital-head-on-crash-at-kaarimba/107292116",
+      "provider": "ABC News Australia",
+      "title": "Three in hospital, two critical, after head-on crash in Victoria's north",
+      "status": "pending",
+      "firstSeenAt": 1792556170.3730798,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
