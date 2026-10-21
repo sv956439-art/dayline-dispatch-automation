@@ -58978,9 +58978,81 @@
       "status": "pending",
       "firstSeenAt": 1792622237.434956,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckg5j1zdn4m3o",
+      "provider": "BBC",
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "status": "pending",
+      "firstSeenAt": 1792623778.5736072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/nancy-pelosi-office-letter-white-powder",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792623779.2121525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+      "provider": "The Guardian",
+      "title": "Pope will not need further cancer treatment, doctors say",
+      "status": "pending",
+      "firstSeenAt": 1792623779.2124095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/video/2026/oct/21/vance-reacts-to-outrage-over-ramaswamy-campaign-ad-video",
+      "provider": "The Guardian",
+      "title": "'Stop whining': Vance doubles down over Ramaswamy campaign ad – video",
+      "status": "pending",
+      "firstSeenAt": 1792623779.212574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/man-arrested-axe-sydney-road-campbellfield/107295390",
+      "provider": "ABC News Australia",
+      "title": "Melbourne man arrested by passers-by after attempted carjacking with axe",
+      "status": "pending",
+      "firstSeenAt": 1792623779.8125322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/sydney-beaches-close-after-whale-carcass-found/107295288",
+      "provider": "ABC News Australia",
+      "title": "Eastern Sydney beaches close after whale carcass washes up",
+      "status": "pending",
+      "firstSeenAt": 1792623779.8125772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/victorian-public-schools-to-be-fully-funded-under-gonski-deal/107292858",
+      "provider": "ABC News Australia",
+      "title": "Victorian public schools to be fully funded — but only by 2034",
+      "status": "pending",
+      "firstSeenAt": 1792623779.812617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/south32-pump-mine-water-into-ocean/107286754",
+      "provider": "ABC News Australia",
+      "title": "Mine on tropical island plans to pump pit water into ocean",
+      "status": "pending",
+      "firstSeenAt": 1792623779.8126538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/football-man-united-captain-bruno-fernandes-michael-carrick-feud/107295234",
+      "provider": "ABC News Australia",
+      "title": "Man United captain branded 'disgrace' for comments following latest loss",
+      "status": "pending",
+      "firstSeenAt": 1792623779.8126924,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
