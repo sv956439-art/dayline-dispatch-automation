@@ -56986,9 +56986,121 @@
       "status": "pending",
       "firstSeenAt": 1792558031.7617936,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g1vw4r4w8o",
+      "provider": "BBC",
+      "title": "Overcrowded Romford A&E secures £42m for rebuild The department was built for 325 patients a day but regularly sees more than twice that number. Just now London",
+      "status": "pending",
+      "firstSeenAt": 1792559698.852469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9lvgr3zgdo",
+      "provider": "BBC",
+      "title": "Shop owner retires after 40 years at historic store Martin Coles-Evans has rarely had a weekend off since he started working at Hargreaves in Buxton. Just now Derbyshire",
+      "status": "pending",
+      "firstSeenAt": 1792559698.852524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly4r05g446o",
+      "provider": "BBC",
+      "title": "'Mr Spitfire' garage fuselage fetches over £20,000 His friends say the late Peter Arnold, known as \"Mr Spitfire\", kept it in his garage for decades. Just now Beds, Herts & Bucks",
+      "status": "pending",
+      "firstSeenAt": 1792559698.8525553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9935472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9937186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9938934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/21/wes-streeting-delays-defence-jobs-plan-young-people-union-pushback-mod-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9939103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9939244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/21/uk-watchdogs-urged-to-tackle-suicide-social-media-content-after-death-of-girl-14",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9939384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/hastings-british-museum-battle-for-bayeux-tapestry-tickets",
+      "provider": "The Guardian",
+      "title": "Residents of ‘1066 Country’ lose battle for Bayeux tapestry tickets",
+      "status": "pending",
+      "firstSeenAt": 1792559698.9941852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/plea-offer-reconsidered-for-man-accused-harassing-mp/107292322",
+      "provider": "ABC News Australia",
+      "title": "Plea offer rethink for man accused of harassing federal MP",
+      "status": "pending",
+      "firstSeenAt": 1792559699.309358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/cairns-home-invasion-rape-trial-judge-retires-consider-verdict/107289734",
+      "provider": "ABC News Australia",
+      "title": "Cairns rape trial judge retires to consider verdict",
+      "status": "pending",
+      "firstSeenAt": 1792559699.309979,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/elizabeth-struhs-coercive-control-saints-manslaughter-inquest/107289690",
+      "provider": "ABC News Australia",
+      "title": "Child safety failed to recognise coercive control in Struhs case, inquest hears",
+      "status": "pending",
+      "firstSeenAt": 1792559699.3100023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/bahn-mi-recipe-of-the-year/107177942",
+      "provider": "ABC News Australia",
+      "title": "Banh mi with grilled beef, pickled carrots, cucumber and coriander",
+      "status": "pending",
+      "firstSeenAt": 1792559699.3114727,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
