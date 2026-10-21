@@ -57722,9 +57722,49 @@
       "status": "pending",
       "firstSeenAt": 1792581442.578028,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr9dzpx2xl0lo",
+      "provider": "BBC",
+      "title": "60 years on: Wales' Aberfan disaster through the eyes of those who survived It was one of Wales' darkest days that changed a mining community forever. 6 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1792583429.3701186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe8lz018pe1o",
+      "provider": "BBC",
+      "title": "MNEK cancels tour over lack of ticket sales and high production costs The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month. 1 hr ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1792583429.37025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg0vjj5e2vo",
+      "provider": "BBC",
+      "title": "5 Missing German WW2 U-boat found 82 years on",
+      "status": "pending",
+      "firstSeenAt": 1792583429.3703182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c69wzvr14xlxo",
+      "provider": "BBC",
+      "title": "F1 races to return to standard distance in 2028 Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season. 7 mins ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1792583429.370425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792583429.4607823,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
