@@ -58850,9 +58850,57 @@
       "status": "pending",
       "firstSeenAt": 1792617114.6940432,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cme3xk2jkyv0o",
+      "provider": "BBC",
+      "title": "Chelsea eye Brighton's Ayari - Thursday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792618900.152427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c60qkp121xg1o",
+      "provider": "BBC",
+      "title": "Could Frawley earn Ireland fly-half starting spot?",
+      "status": "pending",
+      "firstSeenAt": 1792618900.1526394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/22/new-zealand-geographic-photographer-of-the-year-competition-2026-in-pictures",
+      "provider": "The Guardian",
+      "title": "New Zealand Geographic photographer of the year competition 2026 – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1792618900.4726276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994",
+      "provider": "ABC News Australia",
+      "title": "Putin agrees to resume three-way peace talks with Ukraine and US",
+      "status": "pending",
+      "firstSeenAt": 1792618901.0548959,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/regional-sa-hospital-overcrowding-data-concerns/107287704",
+      "provider": "ABC News Australia",
+      "title": "Calls for transparency as pressure builds on regional SA health system",
+      "status": "pending",
+      "firstSeenAt": 1792618901.055418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/queensland-south-east-storm-warning/107294406",
+      "provider": "ABC News Australia",
+      "title": "Motorists rescued by members of the public as rain hits parts of Qld",
+      "status": "pending",
+      "firstSeenAt": 1792618901.0555105,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
