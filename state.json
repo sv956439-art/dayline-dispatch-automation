@@ -57186,9 +57186,89 @@
       "status": "pending",
       "firstSeenAt": 1792561474.5896676,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckdd8m1z1z3yo",
+      "provider": "BBC",
+      "title": "Pakistan arrests man hunted by US over $126m postage fraud case Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "status": "pending",
+      "firstSeenAt": 1792563136.5117154,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgqw4lg3y83o",
+      "provider": "BBC",
+      "title": "Estate records 'abundance' of wildlife despite drought",
+      "status": "pending",
+      "firstSeenAt": 1792563136.5855114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qznp3gdvdo",
+      "provider": "BBC",
+      "title": "Farmer lost out by minutes in race for wildlife funding",
+      "status": "pending",
+      "firstSeenAt": 1792563136.5855393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jzmw0dk90o",
+      "provider": "BBC",
+      "title": "Wildfires are UK's 'new reality', MPs warn",
+      "status": "pending",
+      "firstSeenAt": 1792563136.58557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792563136.730353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792563136.7303777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/constellation-cup-netball-diamonds-silver-ferns-game-two/107293398",
+      "provider": "ABC News Australia",
+      "title": "Diamonds look to bounce back from Constellation Cup loss to NZ",
+      "status": "pending",
+      "firstSeenAt": 1792563137.2016804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/kangaroo-rescued-from-sea-boston-bay-port-lincoln/107291116",
+      "provider": "ABC News Australia",
+      "title": "Fishers make unlikely catch after kangaroo spotted 3km from shore",
+      "status": "pending",
+      "firstSeenAt": 1792563137.2017076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/queensland-breach-bail-go-to-jail-laws-crisafulli/107289694",
+      "provider": "ABC News Australia",
+      "title": "Qld's breach bail laws set to pass parliament next week",
+      "status": "pending",
+      "firstSeenAt": 1792563137.201753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/finexia-funded-shared-beginnings-falls-into-administration/107290080",
+      "provider": "ABC News Australia",
+      "title": "Childcare chain collapse highlights private credit risks",
+      "status": "pending",
+      "firstSeenAt": 1792563137.2017958,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
