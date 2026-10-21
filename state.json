@@ -57914,9 +57914,73 @@
       "status": "pending",
       "firstSeenAt": 1792587687.4603994,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqln9r5dvlro",
+      "provider": "BBC",
+      "title": "Zoo welcomes 'troublesome' trio of baby fossas Lakeland Wildlife Oasis says the triplets' arrival is a \"very big step towards fossa conservation\". 1 hr ago Cumbria",
+      "status": "pending",
+      "firstSeenAt": 1792589896.5214713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx98z65zj775o",
+      "provider": "BBC",
+      "title": "2 hrs ago Robot Arthur in UK-first for hand arthritis scans Royal Berkshire Hospital patients can get scans, discuss results and a treatment plan the same day. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792589896.5965552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792589896.739909,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792589896.7399826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/21/uk-cinemas-report-bonkers-demand-for-documentary-you-can-see-everything",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792589896.740184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792589896.7402766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/domain-house-price-september-quarter/107289400",
+      "provider": "ABC News Australia",
+      "title": "House prices across capitals post steepest quarterly decline ever: Domain",
+      "status": "pending",
+      "firstSeenAt": 1792589897.5604424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/e-scooter-and-e-bike-hospitalisations-on-the-rise-australia/107291604",
+      "provider": "ABC News Australia",
+      "title": "E-scooter hospitalisations more than tripled since 2019",
+      "status": "pending",
+      "firstSeenAt": 1792589897.560654,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
