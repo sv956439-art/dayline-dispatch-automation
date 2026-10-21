@@ -56650,9 +56650,49 @@
       "status": "pending",
       "firstSeenAt": 1792543458.1020691,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/ukraine-war-briefing-us-envoy-witkoff-to-meet-putin-after-constructive-talks-with-zelenskyy-in-norway",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway",
+      "status": "pending",
+      "firstSeenAt": 1792545600.619474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574",
+      "provider": "ABC News Australia",
+      "title": "RBA deputy warns inflation outlook 'materially worse' as next decision looms",
+      "status": "pending",
+      "firstSeenAt": 1792545600.8864458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/christina-applegate-says-she-was-misdiagnosed-with-ms/107291302",
+      "provider": "ABC News Australia",
+      "title": "Christina Applegate says she was misdiagnosed with MS",
+      "status": "pending",
+      "firstSeenAt": 1792545600.8869295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/chinese-student-deported-from-taiwan-or-pinching-video/107289352",
+      "provider": "ABC News Australia",
+      "title": "Chinese student deported from Taiwan after controversial 'pinching' video",
+      "status": "pending",
+      "firstSeenAt": 1792545600.8871834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/png-chiefs-unveil-new-logo-ahead-of-2028-nrl-entry/107291628",
+      "provider": "ABC News Australia",
+      "title": "PNG Chiefs unveil new logo ahead of 2028 NRL entry",
+      "status": "pending",
+      "firstSeenAt": 1792545600.888062,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
