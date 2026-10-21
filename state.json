@@ -56690,9 +56690,65 @@
       "status": "pending",
       "firstSeenAt": 1792545600.888062,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0me4g9p970o",
+      "provider": "BBC",
+      "title": "France is divided over who to blame for and what to learn from weekend riots In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history. 30 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792547618.3191757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/21/mariah-carey-brother-morgan-carey-defamation-lawsuit-dismissed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792547618.834961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/webb-shanahan-independent-review-nt-child-protection/107288844",
+      "provider": "ABC News Australia",
+      "title": "Authors of NT child safety review 'very confident' advice will be actioned quickly",
+      "status": "pending",
+      "firstSeenAt": 1792547619.4005244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/beau-lamarre-condon-deaths-friend-farm-van-cctv/107290748",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon told friend 'I don't want to involve you', jury told",
+      "status": "pending",
+      "firstSeenAt": 1792547619.4011192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/questions-over-tas-labor-leadership-shane-broad-social-posts/107291480",
+      "provider": "ABC News Australia",
+      "title": "Labor rumblings as Tasmanian MP calls for 'party that can win'",
+      "status": "pending",
+      "firstSeenAt": 1792547619.4011543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/tributes-tori-punch-death-from-rare-proteus-syndrome/107287506",
+      "provider": "ABC News Australia",
+      "title": "'Happy, bubbly' young woman celebrated after death from rare condition",
+      "status": "pending",
+      "firstSeenAt": 1792547619.401177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/backyard-ultra-world-team-championship-kembla-gorge-running/107283546",
+      "provider": "ABC News Australia",
+      "title": "Australians run 80 hours or more in 'crazy' race with no finish line",
+      "status": "pending",
+      "firstSeenAt": 1792547619.401199,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
