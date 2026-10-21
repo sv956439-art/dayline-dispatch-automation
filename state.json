@@ -58466,9 +58466,97 @@
       "status": "pending",
       "firstSeenAt": 1792604996.2217476,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm98zn3l2rn7o",
+      "provider": "BBC",
+      "title": "Ohio governor's race turns ugly as attack ad features candidate's estranged mother The Republican candidate released an ad featuring his opponent's mother calling her daughter \"a liar\". 25 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792606458.2511985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdr8zxrr3dxo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792606458.251454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgr8q88r5eqo",
+      "provider": "BBC",
+      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+      "status": "pending",
+      "firstSeenAt": 1792606458.2517352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792606458.778981,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792606458.7790458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/epstein-attorney-accountant-lawsuit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792606458.7792423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792606458.7792532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/helen-haines-accused-attacker-brendan-nugent/107294260",
+      "provider": "ABC News Australia",
+      "title": "What happens next in court case for Helen Haines's accused attacker?",
+      "status": "pending",
+      "firstSeenAt": 1792606459.5156016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/bushfires-costing-australia-6b-annually/107272000",
+      "provider": "ABC News Australia",
+      "title": "Supercharged fire seasons now threaten half Australia's homes: report",
+      "status": "pending",
+      "firstSeenAt": 1792606459.5156233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/threats-abuse-australian-politicians-mps-security/107294268",
+      "provider": "ABC News Australia",
+      "title": "Politicians urged to report threats and vary daily habits",
+      "status": "pending",
+      "firstSeenAt": 1792606459.5156465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/vodafone-aussie-broadband-company-symbio-carrying-scam-calls/107282346",
+      "provider": "ABC News Australia",
+      "title": "Telco goes public over scam calls it says flowed through rival network",
+      "status": "pending",
+      "firstSeenAt": 1792606459.5156648,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
