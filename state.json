@@ -56746,9 +56746,41 @@
       "status": "pending",
       "firstSeenAt": 1792547619.401199,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyz4g4ln4no",
+      "provider": "BBC",
+      "title": "I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath. 3 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792548958.5307033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792548958.9865916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-threats-to-politicians/107286670",
+      "provider": "ABC News Australia",
+      "title": "Threats against politicians have jumped fourfold this decade",
+      "status": "pending",
+      "firstSeenAt": 1792548959.5391567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/heavy-rain-hail-damage-crops-before-record-breaking-harvest/107290766",
+      "provider": "ABC News Australia",
+      "title": "Hail damages crops in a matter of minutes ahead of bumper harvest",
+      "status": "pending",
+      "firstSeenAt": 1792548959.5405784,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
