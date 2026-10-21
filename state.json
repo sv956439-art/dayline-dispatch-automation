@@ -56850,9 +56850,49 @@
       "status": "pending",
       "firstSeenAt": 1792552487.3335602,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines in critical but stable condition as police lay extra charges against alleged attacker",
+      "status": "pending",
+      "firstSeenAt": 1792554355.611013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/calls-for-action-on-violence-in-nt-communities/107291562",
+      "provider": "ABC News Australia",
+      "title": "'Do black girls' lives matter?' Special envoy calls for change in the NT",
+      "status": "pending",
+      "firstSeenAt": 1792554355.6119502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/melbourne-wholesale-market-epping-coalition-election-pledge/107291632",
+      "provider": "ABC News Australia",
+      "title": "Victorian election to decide future of the Melbourne wholesale market",
+      "status": "pending",
+      "firstSeenAt": 1792554355.6127136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/mt-pleasant-house-fire-driveway-threat/107292438",
+      "provider": "ABC News Australia",
+      "title": "Multi-million dollar Perth home set ablaze, vandalised with threat",
+      "status": "pending",
+      "firstSeenAt": 1792554355.612758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/tas-boags-launceston-last-beers-on-production-line/107282468",
+      "provider": "ABC News Australia",
+      "title": "Last drinks for Boag's as final Tasmanian beers roll off production line",
+      "status": "pending",
+      "firstSeenAt": 1792554355.6128256,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
