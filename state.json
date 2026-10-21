@@ -56778,9 +56778,49 @@
       "status": "pending",
       "firstSeenAt": 1792548959.5405784,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crp3gvpek8njo",
+      "provider": "BBC",
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate. 8 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792550780.9845943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/oct/21/fast-fashion-giant-shein-outperforms-several-australian-retailers-on-ethics",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792550781.2654645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792550781.265496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/west-footscray-data-centre-delays-nextdc-value-asx-vic/107291744",
+      "provider": "ABC News Australia",
+      "title": "Tech giant shares plunge 40pc after delays to Melbourne data centre",
+      "status": "pending",
+      "firstSeenAt": 1792550781.5885272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/north-west-regional-hospital-spencer-clinic-arson-guilty-plea/107292264",
+      "provider": "ABC News Australia",
+      "title": "Woman pleads guilty to arson at mental health unit",
+      "status": "pending",
+      "firstSeenAt": 1792550781.5894854,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
