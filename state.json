@@ -58226,9 +58226,81 @@
       "status": "pending",
       "firstSeenAt": 1792597948.6989424,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
+      "provider": "BBC",
+      "title": "Russia ready to resume talks with Ukraine and US to end war",
+      "status": "pending",
+      "firstSeenAt": 1792599564.335582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g1jwp9827o",
+      "provider": "BBC",
+      "title": "Barca condemn PSG tifo inciting 'violence and hatred'",
+      "status": "pending",
+      "firstSeenAt": 1792599564.3363948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy4zdgk081eo",
+      "provider": "BBC",
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+      "status": "pending",
+      "firstSeenAt": 1792599564.3774915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8e36xyw1yn0o",
+      "provider": "BBC",
+      "title": "'Much-loved' tapir dies following short illness",
+      "status": "pending",
+      "firstSeenAt": 1792599564.377515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g13pplyzzo",
+      "provider": "BBC",
+      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+      "status": "pending",
+      "firstSeenAt": 1792599564.3775272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792599564.651775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792599564.6520927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/alyssa-wilson-shooting-st-louis-charges",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792599564.6521506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/php-vulnerabilities-cyber-asd/107294812",
+      "provider": "ABC News Australia",
+      "title": "Australia’s cybersecurity site among those hit by ‘critical’ software flaw",
+      "status": "pending",
+      "firstSeenAt": 1792599565.3808453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
