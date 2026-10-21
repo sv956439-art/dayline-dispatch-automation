@@ -57466,9 +57466,49 @@
       "status": "pending",
       "firstSeenAt": 1792570186.3797197,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn8wx75l2n8o",
+      "provider": "BBC",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "status": "pending",
+      "firstSeenAt": 1792572138.1768985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-climate-campaigners-condemn-decision-north-sea-mining",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792572138.562646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/lino-atem-wyndham-vale-court-stabbing/107294288",
+      "provider": "ABC News Australia",
+      "title": "Seven people charged over deadly alleged pack attack in Melbourne's west",
+      "status": "pending",
+      "firstSeenAt": 1792572139.3671393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/man-charged-alice-springs-fatal-alleged-hit-and-run/107294162",
+      "provider": "ABC News Australia",
+      "title": "18yo charged over alleged Alice Springs hit-and-run that left man dead",
+      "status": "pending",
+      "firstSeenAt": 1792572139.3676398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/moss-vale-data-centre-gas-plant-court-appeal/107294066",
+      "provider": "ABC News Australia",
+      "title": "Data centre gas plant could be mothballed after two years, court told",
+      "status": "pending",
+      "firstSeenAt": 1792572139.3676648,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
