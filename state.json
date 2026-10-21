@@ -57866,9 +57866,57 @@
       "status": "pending",
       "firstSeenAt": 1792585011.5019362,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmze4w63ly42o",
+      "provider": "BBC",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days. 44 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792587686.862449,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wv9pn22e5o",
+      "provider": "BBC",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate UK chancellor's Budget challenge The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget. 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792587686.8624861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/21/woman-told-she-had-cancer-by-nhs-worker-who-inappropriately-accessed-her-records-royal-cornwall-hospital",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792587686.9979424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/zack-coughlan-stabbed-housemate-gloucestershire-jailed-for-life",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792587686.997988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792587686.9980142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-21/comedian-hit-with-car-after-criticising-xi-jinping/107294568",
+      "provider": "ABC News Australia",
+      "title": "Comedian hit with car in Taiwan after criticising Xi, prosecutors say",
+      "status": "pending",
+      "firstSeenAt": 1792587687.4603994,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
