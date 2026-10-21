@@ -57698,9 +57698,33 @@
       "status": "pending",
       "firstSeenAt": 1792579911.015075,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wv9pdj33zo",
+      "provider": "BBC",
+      "title": "Storm Austen to batter Wales coast with 70mph winds",
+      "status": "pending",
+      "firstSeenAt": 1792581442.3480988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792581442.577607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing",
+      "provider": "The Guardian",
+      "title": "double quotation mark Usha Vance is a closed book – but her Goodreads account is surprisingly revealing",
+      "status": "pending",
+      "firstSeenAt": 1792581442.578028,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
