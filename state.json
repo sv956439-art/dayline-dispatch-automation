@@ -56602,9 +56602,17 @@
       "status": "pending",
       "firstSeenAt": 1792540067.07541,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm2dzwdmmywo",
+      "provider": "BBC",
+      "title": "Borneo is burning - living on the frontline of Asia's toxic haze Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick. 14 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1792541219.4314182,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
