@@ -60546,9 +60546,105 @@
       "status": "pending",
       "firstSeenAt": 1792675784.6920772,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm75p1kxryl5o",
+      "provider": "BBC",
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
+      "status": "pending",
+      "firstSeenAt": 1792677982.9711158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw1m43y0zn5yo",
+      "provider": "BBC",
+      "title": "Woman dies after two-car collision The collision happened on the N2 at Broomfield, County Monaghan, on Thursday morning.",
+      "status": "pending",
+      "firstSeenAt": 1792677982.9712284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq3097rrzno",
+      "provider": "BBC",
+      "title": "This City Is Ours stars reject 'glamourising crime' claims Stars of the hit Liverpool crime drama This City Is Ours say the show doesn't  glamourise crime. 1 hr ago Liverpool",
+      "status": "pending",
+      "firstSeenAt": 1792677983.0714018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq23d1zdr9lzo",
+      "provider": "BBC",
+      "title": "3 hrs ago Celebrity Traitors producer 'amazed by reaction' Stephen Lambert, from Studio Lambert, speaks to the BBC ahead of a talk in Oxford on Thursday. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792677983.0723305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ezykd331eo",
+      "provider": "BBC",
+      "title": "4 hrs ago Jolly Fisherman art 'deteriorating' due to sea air The town council is spending £2,500 on conservation work to prevent further deterioration. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792677983.0723603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792677983.4425354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/23/victorian-mps-women-high-alert-safety-state-election-helen-haines-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792677983.44256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792677983.443092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/22/domestic-abuse-england-wales",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792677983.443115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "provider": "The Guardian",
+      "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "status": "pending",
+      "firstSeenAt": 1792677983.4436908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/22/christiane-amanpour-cnn-journalism-neutrality",
+      "provider": "The Guardian",
+      "title": "double quotation mark Christiane Amanpour’s parting advice to journalists is right on the mark",
+      "status": "pending",
+      "firstSeenAt": 1792677983.4437392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146",
+      "provider": "ABC News Australia",
+      "title": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
+      "status": "pending",
+      "firstSeenAt": 1792677984.6219833,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
