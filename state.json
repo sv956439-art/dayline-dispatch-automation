@@ -60498,9 +60498,57 @@
       "status": "pending",
       "firstSeenAt": 1792673248.317734,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvde8g40xx42o",
+      "provider": "BBC",
+      "title": "French weekend protests to be limited to union demos only, says Macron Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
+      "status": "pending",
+      "firstSeenAt": 1792675784.4230952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm1wvl5524rno",
+      "provider": "BBC",
+      "title": "Carrick carrying on as normal as Man Utd eye possible replacements",
+      "status": "pending",
+      "firstSeenAt": 1792675784.4233801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3n049y0dq84o",
+      "provider": "BBC",
+      "title": "Town to 'learn' from missing City of Culture list Leaders of the town said getting longlisted felt like a real win and they would learn for next time.",
+      "status": "pending",
+      "firstSeenAt": 1792675784.423472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg9vp3z1nyo",
+      "provider": "BBC",
+      "title": "Film studios given green light for expansion",
+      "status": "pending",
+      "firstSeenAt": 1792675784.423496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/22/judi-dench-sight-loss-macular-degeneration-shakespeares-sonnets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792675784.6919863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/florida-cop-identity-theft",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792675784.6920772,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
