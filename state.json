@@ -59994,9 +59994,73 @@
       "status": "pending",
       "firstSeenAt": 1792657341.729444,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62y0v7434yo",
+      "provider": "BBC",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say. 39 mins ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1792659654.0112188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmglwg02dgyeo",
+      "provider": "BBC",
+      "title": "3 hrs ago Happy Mondays boosted by Oasis return, says Bez The maracas player spoke of his love of touring, ahead of the band's upcoming show in Staffordshire. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792659654.0955887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ewe42kx57eo",
+      "provider": "BBC",
+      "title": "4 hrs ago Girl, 12, gets her own fashion show billboard Carmela, who has muscular dystrophy, says it was \"amazing\" to see herself on the billboard. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792659654.0956237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg7w35yp9wo",
+      "provider": "BBC",
+      "title": "4 hrs ago City 'on song' for international choir festival The festival brings together hundreds of local singers and community groups alongside international choirs. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792659654.0956752,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g17gvwd9no",
+      "provider": "BBC",
+      "title": "4 hrs ago Milton Keynes makes 2029 City of Culture shortlist The winning city, which will receive £10m to help develop cultural events, will be revealed in 2027. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792659654.0957115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792659654.2151322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/22/what-is-php-computer-language-flaw-causing-global-website-shutdowns",
+      "provider": "The Guardian",
+      "title": "What is PHP, and how bad is the computer language flaw causing website shutdowns globally?",
+      "status": "pending",
+      "firstSeenAt": 1792659654.2161527,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/act-affordable-home-scheme-went-disaster-buyers-say/107295946",
+      "provider": "ABC News Australia",
+      "title": "Affordable home scheme went from 'blessing' to 'disaster', buyers say",
+      "status": "pending",
+      "firstSeenAt": 1792659654.4622529,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
