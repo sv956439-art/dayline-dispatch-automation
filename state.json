@@ -60242,9 +60242,97 @@
       "status": "pending",
       "firstSeenAt": 1792665416.721663,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6reyx1d9ge9o",
+      "provider": "BBC",
+      "title": "First human case of Shamonda virus detected in France, officials say The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+      "status": "pending",
+      "firstSeenAt": 1792667359.1674523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
+      "provider": "BBC",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI The bank says it is using more AI leading to a 5% reduction in its workforce. 1 hr ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792667359.2328398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvp8gy1zwxxwo",
+      "provider": "BBC",
+      "title": "Retired decorator's Pokémon cards sell for £1.5m He says he found treasure in his attic where the collection had been stored for 15 years. 9 mins ago Surrey",
+      "status": "pending",
+      "firstSeenAt": 1792667359.2329044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9e8lz4mrg88o",
+      "provider": "BBC",
+      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\". 7 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792667359.2329319,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/snowy-hydro-2-0-blows-out-to-12-times-original-cost",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792667359.3547556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792667359.3548958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792667359.3549385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792667359.3551557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/first-thing-israel-using-us-made-electroshock-weapons-on-palestinian-detainees",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792667359.3554502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/cost-of-snowy-hydro-expansion-doubles/107276162",
+      "provider": "ABC News Australia",
+      "title": "Snowy 2.0 to cost 12 times more than initial budget with further delays",
+      "status": "pending",
+      "firstSeenAt": 1792667359.7070088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nt-kumanjayi-little-baby-review-parliament-motion-paech/107297474",
+      "provider": "ABC News Australia",
+      "title": "NT government accused of politicising Kumanjayi Little Baby's death",
+      "status": "pending",
+      "firstSeenAt": 1792667359.708763,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
