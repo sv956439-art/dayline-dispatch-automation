@@ -59418,9 +59418,49 @@
       "status": "pending",
       "firstSeenAt": 1792635398.3691726,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792637293.0063145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/ukraine-war-briefing-peace-proposals-lack-substance-witkoff-putin-meeting",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: New peace proposals lack ‘substance’, says Kremlin after Witkoff-Putin meeting in Russia",
+      "status": "pending",
+      "firstSeenAt": 1792637293.0073211,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/ceduna-farmer-concerned-about-stop-sign-before-train-truck-crash/107158642",
+      "provider": "ABC News Australia",
+      "title": "Train and truck crash follows warnings over road signage on SA's west coast",
+      "status": "pending",
+      "firstSeenAt": 1792637293.361999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/second-thylacine-head-found-in-uk-has-hit-auction-house/107295076",
+      "provider": "ABC News Australia",
+      "title": "Second thylacine head hits UK auction house after years stashed under bed",
+      "status": "pending",
+      "firstSeenAt": 1792637293.362049,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/south-cottesloe-beaches-shut-dead-whale-washed-up/107296454",
+      "provider": "ABC News Australia",
+      "title": "Cottesloe beaches shut as second dead whale washes ashore",
+      "status": "pending",
+      "firstSeenAt": 1792637293.3620944,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
