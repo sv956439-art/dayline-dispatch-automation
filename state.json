@@ -61066,9 +61066,57 @@
       "status": "pending",
       "firstSeenAt": 1792691004.4441018,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792692548.893409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792692548.8934238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792692548.8934364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792692548.893498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/clavicular-pleads-not-guilty-to-rape/107299308",
+      "provider": "ABC News Australia",
+      "title": "Influencer 'Clavicular' pleads not guilty to rape allegation",
+      "status": "pending",
+      "firstSeenAt": 1792692549.7521996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/helen-haines-lobbied-albanese-on-rural-health-before-attack/107298858",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines pressed PM on regional health days before car attack",
+      "status": "pending",
+      "firstSeenAt": 1792692549.7526536,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
