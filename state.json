@@ -60642,9 +60642,65 @@
       "status": "pending",
       "firstSeenAt": 1792677984.6219833,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvgrmzdzgr7o",
+      "provider": "BBC",
+      "title": "Teacher in Oregon shooting said she pretended to be dead to survive The teacher said she could not help children because she was badly injured by the attacker.",
+      "status": "pending",
+      "firstSeenAt": 1792679921.5284164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq8n3v94ql3o",
+      "provider": "BBC",
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "status": "pending",
+      "firstSeenAt": 1792679921.5284808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmg473p9vz6xo",
+      "provider": "BBC",
+      "title": "South Africa complete famous win over Australia",
+      "status": "pending",
+      "firstSeenAt": 1792679921.5287673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cq99z35zpgzmo",
+      "provider": "BBC",
+      "title": "The numbers behind Brook's record-breaking 202 for England",
+      "status": "pending",
+      "firstSeenAt": 1792679921.5287971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv36941yn1e9o",
+      "provider": "BBC",
+      "title": "Big Brother fans still not happy as housemate called out on behaviour Ofcom received thousands of complaints related to Omar El Mayer's behaviour in the Big Brother house.",
+      "status": "pending",
+      "firstSeenAt": 1792679921.528872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/serbia-election-student-protests-explainer-key-issues",
+      "provider": "The Guardian",
+      "title": "What is at stake in Serbia’s election? The key players, main issues and potential fallout",
+      "status": "pending",
+      "firstSeenAt": 1792679921.734637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204",
+      "provider": "ABC News Australia",
+      "title": "Hacking attempts surge as websites race to patch PHP issues",
+      "status": "pending",
+      "firstSeenAt": 1792679922.2085028,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
