@@ -61018,9 +61018,57 @@
       "status": "pending",
       "firstSeenAt": 1792689335.8322055,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwy71ldj3w9o",
+      "provider": "BBC",
+      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025. 20 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792691003.6802177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pwgve2lk5go",
+      "provider": "BBC",
+      "title": "40 mins ago Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies. 40 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792691003.7665823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/tommy-robinson-tells-court-he-had-photos-taken-of-journalists-homes-to-pressure-them",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792691003.9903822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792691003.990406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/clare-james-art-installation-the-place-for-lost-feelings/107259964",
+      "provider": "ABC News Australia",
+      "title": "An artist's answer to finding a place for uncomfortable feelings",
+      "status": "pending",
+      "firstSeenAt": 1792691004.444053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258",
+      "provider": "ABC News Australia",
+      "title": "Trump ordered to sit for deposition in his $14bn BBC lawsuit",
+      "status": "pending",
+      "firstSeenAt": 1792691004.4441018,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
