@@ -61738,9 +61738,25 @@
       "status": "pending",
       "firstSeenAt": 1792711807.6241422,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792713278.8025737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/helen-haines-police-inquiries-commissioner/107299604",
+      "provider": "ABC News Australia",
+      "title": "Family rift among lines of inquiry for police investigating Brendan Nugent",
+      "status": "pending",
+      "firstSeenAt": 1792713279.2600374,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
