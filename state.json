@@ -59498,9 +59498,73 @@
       "status": "pending",
       "firstSeenAt": 1792640886.727404,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr3wv99614deo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792642704.5585418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckzd6rjmlzvmo",
+      "provider": "BBC",
+      "title": "No purchase, no seats: Starbucks China rolls out new policy Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals. 15 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1792642704.5586536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
+      "provider": "BBC",
+      "title": "What is PHP and why did it spark a global cyber-security scramble? AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "status": "pending",
+      "firstSeenAt": 1792642704.5590293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792642705.4731576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792642705.4735906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/bukangi-shark-returns-to-south-korea-canal-busan",
+      "provider": "The Guardian",
+      "title": "Bukang-i is back: famous shark returns to canal in South Korea hours after being coaxed out to sea",
+      "status": "pending",
+      "firstSeenAt": 1792642705.4738476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366",
+      "provider": "ABC News Australia",
+      "title": "Putin seems to have Trump exactly where he wants him",
+      "status": "pending",
+      "firstSeenAt": 1792642705.7739902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/women-regional-mps-exhausted-from-fear/107295642",
+      "provider": "ABC News Australia",
+      "title": "Hypervigilant and isolated, rural female MPs exhausted from fear",
+      "status": "pending",
+      "firstSeenAt": 1792642705.774744,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
