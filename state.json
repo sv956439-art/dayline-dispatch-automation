@@ -61202,9 +61202,73 @@
       "status": "pending",
       "firstSeenAt": 1792694503.6782403,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmd93kw9q5v3o",
+      "provider": "BBC",
+      "title": "Brook underlines status as world's best all-format batter in run-fest",
+      "status": "pending",
+      "firstSeenAt": 1792696670.5866575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/christa-pike-failed-execution-lawyer-witness",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792696670.9690878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/child-suicide-data-out-of-home-care-calls-for-transparency/107282962",
+      "provider": "ABC News Australia",
+      "title": "Children in care are at high risk of suicide but national data is patchy",
+      "status": "pending",
+      "firstSeenAt": 1792696671.6488817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/family-court-data-breach-federal-court-ceo-sia-lagos/107295260",
+      "provider": "ABC News Australia",
+      "title": "Federal Court accused of 'obfuscation' as data breach crisis deepens",
+      "status": "pending",
+      "firstSeenAt": 1792696671.6489375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/nextdc-downgrade-sees-people-power-hit-for-multi-billion-firm/107293706",
+      "provider": "ABC News Australia",
+      "title": "People power in the suburbs exposes the fragility of the AI boom",
+      "status": "pending",
+      "firstSeenAt": 1792696671.6489875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/letter-to-helen-haines-wangaratta-mother-of-two/107296918",
+      "provider": "ABC News Australia",
+      "title": "A mother's heartfelt letter to Helen Haines",
+      "status": "pending",
+      "firstSeenAt": 1792696671.649095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/inside-occupied-ukraine-where-russia-is-indoctrinating-children/107294570",
+      "provider": "ABC News Australia",
+      "title": "In occupied Ukraine, Russia is trying to indoctrinate the children it stole",
+      "status": "pending",
+      "firstSeenAt": 1792696671.6493273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/nancy-bird-walton-western-sydney-international-airport/107289382",
+      "provider": "ABC News Australia",
+      "title": "New Sydney airport honours trailblazing pilot as first passengers welcomed",
+      "status": "pending",
+      "firstSeenAt": 1792696671.6500194,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
