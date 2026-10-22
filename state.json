@@ -60122,9 +60122,73 @@
       "status": "pending",
       "firstSeenAt": 1792661474.8116603,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry83vyw3y4lo",
+      "provider": "BBC",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\". 19 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1792663642.8969374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792663643.108406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-pennsylvania-state-deaths",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792663643.1084337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/minnesota-senate-race-peggy-flanagan-michele-tafoya",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792663643.1084585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/22/john-anderson-five-time-us-country-chart-topper-dies-aged-71",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792663643.1084833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix",
+      "provider": "The Guardian",
+      "title": "Nobody Wants This review – prepare to fall in love again … with a different couple",
+      "status": "pending",
+      "firstSeenAt": 1792663643.1089206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/man-charged-over-hannah-beazley-threats-appears-in-court/107297188",
+      "provider": "ABC News Australia",
+      "title": "Man charged over WA MP threats says weapon was musical instrument",
+      "status": "pending",
+      "firstSeenAt": 1792663643.539437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/woman-and-child-dead-box-hill/107298964",
+      "provider": "ABC News Australia",
+      "title": "Police investigating death of woman and child in Melbourne's east",
+      "status": "pending",
+      "firstSeenAt": 1792663643.5399623,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
