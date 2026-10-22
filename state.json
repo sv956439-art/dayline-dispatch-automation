@@ -59386,9 +59386,41 @@
       "status": "pending",
       "firstSeenAt": 1792634014.31508,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmj471wgpky7o",
+      "provider": "BBC",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region. 7 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1792635397.6546228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq3djn4mmypko",
+      "provider": "BBC",
+      "title": "'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs' Several of today's papers continue to follow the \"storm\" surrounding Andy Burnham's decision to approve a new gas field and what that will mean for future ones. 2 hrs ago Scotland Business",
+      "status": "pending",
+      "firstSeenAt": 1792635397.74871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792635398.0346303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/oven-mountain-pumped-hydro-scheme-abandoned/107295182",
+      "provider": "ABC News Australia",
+      "title": "Pumped hydro project scrapped after developer deems it unviable",
+      "status": "pending",
+      "firstSeenAt": 1792635398.3691726,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
