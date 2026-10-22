@@ -59330,9 +59330,65 @@
       "status": "pending",
       "firstSeenAt": 1792632045.967556,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792634013.628046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792634013.628719,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/bougainville-independence-referendum-papua-new-guinea-png",
+      "provider": "The Guardian",
+      "title": "‘Cut the umbilical cord’: Bougainville’s bid to break away from Papua New Guinea faces reckoning",
+      "status": "pending",
+      "firstSeenAt": 1792634013.6289833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/queensland-south-east-storm-warning-live-updates/107294406",
+      "provider": "ABC News Australia",
+      "title": "Roads and schools closed as flash flooding hits south-east Queensland",
+      "status": "pending",
+      "firstSeenAt": 1792634014.3140564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/bunbury-high-school-students-exhibit-art-gallery-west-australia/107260862",
+      "provider": "ABC News Australia",
+      "title": "High school students explore AI, humanity in exhibition",
+      "status": "pending",
+      "firstSeenAt": 1792634014.3144877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/dumped-victorian-liberal-candidate-grant-hutchinson/107296150",
+      "provider": "ABC News Australia",
+      "title": "Dumped Victorian Liberal candidate demands party brings him back",
+      "status": "pending",
+      "firstSeenAt": 1792634014.3150313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nsw-masood-zakaria-court-illegal-deportation-double-murder/107295950",
+      "provider": "ABC News Australia",
+      "title": "Prosecutors admit murder-accused illegally deported",
+      "status": "pending",
+      "firstSeenAt": 1792634014.31508,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
