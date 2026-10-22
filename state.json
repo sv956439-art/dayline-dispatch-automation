@@ -61450,9 +61450,97 @@
       "status": "pending",
       "firstSeenAt": 1792701865.586142,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cjr4y3y9zy2zo",
+      "provider": "BBC",
+      "title": "Antonelli to 'just have fun' as he aims for title",
+      "status": "pending",
+      "firstSeenAt": 1792703648.001023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/gymnastics/articles/cqm24l5nnvzro",
+      "provider": "BBC",
+      "title": "GB's Fraser wins all-around bronze at Worlds",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1110082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c34g1wenzg9jo",
+      "provider": "BBC",
+      "title": "Cordina agrees terms to fight Pacquiao, 47, on Fury-Joshua card",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1110613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c63elp2kz4exo",
+      "provider": "BBC",
+      "title": "Man Utd chief keen on Howe - Friday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1111045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq9vz19p41x8o",
+      "provider": "BBC",
+      "title": "Fernandes has home burgled while in Italy with Man Utd",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1114166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/athletics/articles/ckm23eqy595zo",
+      "provider": "BBC",
+      "title": "Aga banned for fake prescription from family member",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1115754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6kg7kejxvw5o",
+      "provider": "BBC",
+      "title": "Rugby's data revolution - can Moneyball be oval?",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1116607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6n9r7wgp9q0o",
+      "provider": "BBC",
+      "title": "US to host first Women's Club World Cup in 2028",
+      "status": "pending",
+      "firstSeenAt": 1792703648.1117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/c95ynp3dp8pvo",
+      "provider": "BBC",
+      "title": "Sherrock one of 24 'amateurs' taking on Littler",
+      "status": "pending",
+      "firstSeenAt": 1792703648.111819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/us-actor-tom-skerritt-top-gun-alien-dies-93/107299410",
+      "provider": "ABC News Australia",
+      "title": "US actor Tom Skerritt, who starred in Top Gun and Alien, dies aged 93",
+      "status": "pending",
+      "firstSeenAt": 1792703648.682182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/sa-ndis-care-worker-banned-after-children-taken-from-her-care/107297624",
+      "provider": "ABC News Australia",
+      "title": "Mother banned from working as NDIS support worker after children removed from her care",
+      "status": "pending",
+      "firstSeenAt": 1792703648.6833186,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
