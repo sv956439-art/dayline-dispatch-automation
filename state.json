@@ -59178,9 +59178,41 @@
       "status": "pending",
       "firstSeenAt": 1792626785.454131,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde8rr2d6eno",
+      "provider": "BBC",
+      "title": "The real reasons US politicians are getting older No country for young men and women: why do older politicians seem to have such a tight grip on the US political system? 16 mins ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1792627755.9352224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmzxlnd0z7rko",
+      "provider": "BBC",
+      "title": "Hotel expansion set for approval despite horse fall fears",
+      "status": "pending",
+      "firstSeenAt": 1792627756.0036697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/air-bnb-scraps-checkout-chores/107295458",
+      "provider": "ABC News Australia",
+      "title": "Airbnb scraps check-out chores for guests under new rules",
+      "status": "pending",
+      "firstSeenAt": 1792627757.5299628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nab-staff-speak-out-after-mass-redundancy-announcement/107292280",
+      "provider": "ABC News Australia",
+      "title": "Staff say jobs are moving offshore as NAB sheds workers",
+      "status": "pending",
+      "firstSeenAt": 1792627757.5305114,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
