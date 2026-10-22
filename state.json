@@ -60186,9 +60186,65 @@
       "status": "pending",
       "firstSeenAt": 1792663643.5399623,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261021-why-women-are-going-wild-for-freaky-film-romance-wicker",
+      "provider": "BBC",
+      "title": "A husband made from a basket? Why women are wild for freaky film romance Wicker The trailer for this romantic fantasy created an online frenzy thanks to its bizarre premise, about a woman who commissions a basketmaker to weave her the perfect husband.",
+      "status": "pending",
+      "firstSeenAt": 1792665416.3185203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98z6qlyvg3o",
+      "provider": "BBC",
+      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+      "status": "pending",
+      "firstSeenAt": 1792665416.319499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p9g8kj4lnpo",
+      "provider": "BBC",
+      "title": "Why do farmers want to build reservoirs and what's stopping them?",
+      "status": "pending",
+      "firstSeenAt": 1792665416.3726988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792665416.7211218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/22/uk-city-culture-2029-shortlist-blackpool-sheffield-milton-keynes-wrexham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792665416.7211428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792665416.721247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/korean-american-adoptees",
+      "provider": "The Guardian",
+      "title": "Adoptees from Korea say they were isolated and abused in the US. Were they also ‘stolen’ from their birth parents?",
+      "status": "pending",
+      "firstSeenAt": 1792665416.721663,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
