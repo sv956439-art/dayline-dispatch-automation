@@ -60058,9 +60058,73 @@
       "status": "pending",
       "firstSeenAt": 1792659654.4622529,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261021-what-animals-could-you-beat-in-a-race",
+      "provider": "BBC",
+      "title": "The animals you could beat in a race - and the ones you couldn't Ever wondered if you could beat a bear or a horse in a race? What about a rat or a rhino? The answers may surprise you.",
+      "status": "pending",
+      "firstSeenAt": 1792661474.4945233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjnwd1pgjxo",
+      "provider": "BBC",
+      "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+      "status": "pending",
+      "firstSeenAt": 1792661474.4951108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8dz75633vjo",
+      "provider": "BBC",
+      "title": "How do Israel's elections work and who are the main contenders? Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "status": "pending",
+      "firstSeenAt": 1792661474.4951835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwy71ww156ro",
+      "provider": "BBC",
+      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "status": "pending",
+      "firstSeenAt": 1792661474.4952013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792661474.8106406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/us-military-failed-to-notify-uk-police-of-drink-driving-allegation-against-airman-in-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792661474.8110049,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/22/prince-harry-david-brent-reboot-purpose",
+      "provider": "The Guardian",
+      "title": "double quotation mark Is this Prince Harry or David Brent in The Office? Either way, we’re watching a masterclass in awkwardness",
+      "status": "pending",
+      "firstSeenAt": 1792661474.8116264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+      "provider": "The Guardian",
+      "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+      "status": "pending",
+      "firstSeenAt": 1792661474.8116603,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
