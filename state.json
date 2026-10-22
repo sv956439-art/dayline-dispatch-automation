@@ -59890,9 +59890,73 @@
       "status": "pending",
       "firstSeenAt": 1792652709.3105302,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw30evp48pnro",
+      "provider": "BBC",
+      "title": "2 hrs ago 'Making people laugh has given us a purpose' A mother and daughter have turned their grief into a huge online following with uplifting videos. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792655184.232146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkgjz0z5kplo",
+      "provider": "BBC",
+      "title": "2 hrs ago Battery warning backed by family devastated by fire Humberside Fire and Rescue Service is urging people to buy batteries only from reputable retailers. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792655184.2321677,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qzgg5z89no",
+      "provider": "BBC",
+      "title": "3 hrs ago Is an 'AI war' complicating your job search? How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"? 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792655184.2321842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792655184.466239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792655184.4664824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/anthony-albanese-marrickville-golf-club-media-event/107298134",
+      "provider": "ABC News Australia",
+      "title": "PM was planning golf club photo-op when news of his membership broke",
+      "status": "pending",
+      "firstSeenAt": 1792655184.8443758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268",
+      "provider": "ABC News Australia",
+      "title": "Australia battling to avoid defeat in second Test",
+      "status": "pending",
+      "firstSeenAt": 1792655184.8445435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/elizabeth-struhs-inquest-final-day/107296858",
+      "provider": "ABC News Australia",
+      "title": "Relatives of Elizabeth Struhs speak at final day of inquest",
+      "status": "pending",
+      "firstSeenAt": 1792655184.8450017,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
