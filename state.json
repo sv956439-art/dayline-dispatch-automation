@@ -60826,9 +60826,137 @@
       "status": "pending",
       "firstSeenAt": 1792685711.9154773,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0ryjx7741o",
+      "provider": "BBC",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. 16 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792687647.2549357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5yn9z3vnego",
+      "provider": "BBC",
+      "title": "Crowd of 50 beats foreigner to death in South Africa The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year. 31 mins ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1792687647.2559316,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky83vwnyglno",
+      "provider": "BBC",
+      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax The Meta boss had said he would exit the state over a wealth tax that has not yet come into force. 30 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1792687647.2560802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6z981l59wnwo",
+      "provider": "BBC",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "status": "pending",
+      "firstSeenAt": 1792687647.2569277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqe8rglz8p90o",
+      "provider": "BBC",
+      "title": "Fernandes to remain Man Utd captain despite outburst",
+      "status": "pending",
+      "firstSeenAt": 1792687647.2581213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqe9ldmdpxzzo",
+      "provider": "BBC",
+      "title": "The rising French star whose dad won Rugby World Cup with England",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3630238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cmwy71d2yzz4o",
+      "provider": "BBC",
+      "title": "Titans release Elliott for pulling gun in car park",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3630662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqr7ymxn5ezyo",
+      "provider": "BBC",
+      "title": "Briton Slater, 18, to make practice debut in Mexico",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3631046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq70pj7p0ep6o",
+      "provider": "BBC",
+      "title": "What are Real's attacking options during Vinicius Jr ban?",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3631744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3elpw7yd25o",
+      "provider": "BBC",
+      "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
+      "status": "pending",
+      "firstSeenAt": 1792687647.363449,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck98z64qydd2o",
+      "provider": "BBC",
+      "title": "WRU loses Â£18m and says four regions unsustainable",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3634865,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/ck240lypjqvno",
+      "provider": "BBC",
+      "title": "Humphries withdraws from European Championship",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3635306,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/crly0lpgd659o",
+      "provider": "BBC",
+      "title": "French teenage rugby player dies after on-field injury",
+      "status": "pending",
+      "firstSeenAt": 1792687647.3636208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792687647.507593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792687647.507868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+      "provider": "The Guardian",
+      "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+      "status": "pending",
+      "firstSeenAt": 1792687647.5085034,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
