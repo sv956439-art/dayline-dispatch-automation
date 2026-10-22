@@ -61586,9 +61586,57 @@
       "status": "pending",
       "firstSeenAt": 1792705319.7725773,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq74pjpmx0e8o",
+      "provider": "BBC",
+      "title": "Trump says Musk has restored Ukraine's access after Starlink row Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "status": "pending",
+      "firstSeenAt": 1792707036.9665058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6z981p24q1eo",
+      "provider": "BBC",
+      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+      "status": "pending",
+      "firstSeenAt": 1792707036.966937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792707037.3759232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792707037.3766668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/qld-government-amanda-camm-steps-down/107299642",
+      "provider": "ABC News Australia",
+      "title": "Amanda Camm steps down as Qld child safety and domestic violence minister",
+      "status": "pending",
+      "firstSeenAt": 1792707037.83755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/large-methane-plumes-above-chevron-gorgon-project-investigation/107288658",
+      "provider": "ABC News Australia",
+      "title": "UN sends warning as satellite detects greenhouse gas plumes over Gorgon plant",
+      "status": "pending",
+      "firstSeenAt": 1792707037.8375826,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
