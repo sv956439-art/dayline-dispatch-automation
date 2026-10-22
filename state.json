@@ -59474,9 +59474,33 @@
       "status": "pending",
       "firstSeenAt": 1792638929.9007478,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+      "provider": "The Guardian",
+      "title": "Ilhan Omar says US agents seized 17 items in raid designed to ‘freak’ her out",
+      "status": "pending",
+      "firstSeenAt": 1792640886.41871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/seasonal-worker-jailed-for-crash-that-killed-colleague/107295448",
+      "provider": "ABC News Australia",
+      "title": "Seasonal worker to spend 8 months in jail for crash that killed colleague",
+      "status": "pending",
+      "firstSeenAt": 1792640886.727354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nsw-sydney-alan-jones-mother-web-of-dependency-court/107296702",
+      "provider": "ABC News Australia",
+      "title": "Mother trapped in 'web of dependency' with Alan Jones, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792640886.727404,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
