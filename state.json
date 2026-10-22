@@ -61634,9 +61634,25 @@
       "status": "pending",
       "firstSeenAt": 1792707037.8375826,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglwgwpgrlpo",
+      "provider": "BBC",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales The beauty giant's CEO says the use of GLP-1s was \"a very important phenomenon for us\".",
+      "status": "pending",
+      "firstSeenAt": 1792708575.3262434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw073mj02v72o",
+      "provider": "BBC",
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "status": "pending",
+      "firstSeenAt": 1792708575.3267124,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
