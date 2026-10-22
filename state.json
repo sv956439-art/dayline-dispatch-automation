@@ -60954,9 +60954,73 @@
       "status": "pending",
       "firstSeenAt": 1792687647.5085034,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx28y5e04ggo",
+      "provider": "BBC",
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "status": "pending",
+      "firstSeenAt": 1792689334.474948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9j34zgmkxx1o",
+      "provider": "BBC",
+      "title": "Race to update services' computer systems after cyber-security flaw found Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "status": "pending",
+      "firstSeenAt": 1792689334.4750557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj9k78gvgnxo",
+      "provider": "BBC",
+      "title": "All London minicabs could be electric by 2030 TfL says switching all private-hire vehicles to electric is \"vital\" in creating a \"healthier city\". 4 hrs ago London",
+      "status": "pending",
+      "firstSeenAt": 1792689334.5342717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx23dwp3qzro",
+      "provider": "BBC",
+      "title": "'I wasn't thinking straight' says five jobs civil servant Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+      "status": "pending",
+      "firstSeenAt": 1792689334.5345466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792689335.0321338,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792689335.0325084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792689335.032609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/tensions-rise-on-korea-border/107299192",
+      "provider": "ABC News Australia",
+      "title": "North and South Korea tensions rise as Pyongyang fortifies border",
+      "status": "pending",
+      "firstSeenAt": 1792689335.8322055,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
