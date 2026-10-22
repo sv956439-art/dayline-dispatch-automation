@@ -59458,9 +59458,25 @@
       "status": "pending",
       "firstSeenAt": 1792637293.3620944,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn06g29522lo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792638928.3738544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/comancheros-tonga-tiktok-12-years-jail-taumoefolau/107293722",
+      "provider": "ABC News Australia",
+      "title": "Tonga's TikTok Comancheros 'president' handed 12-year jail sentence",
+      "status": "pending",
+      "firstSeenAt": 1792638929.9007478,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
