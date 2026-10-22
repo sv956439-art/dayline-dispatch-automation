@@ -59954,9 +59954,49 @@
       "status": "pending",
       "firstSeenAt": 1792655184.8450017,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260508-on-the-hunt-for-chinas-most-famous-green-tea",
+      "provider": "BBC",
+      "title": "The prized Chinese green tea that can cost $8,800 per kilogram Longjing is one of China's most revered teas. But as its traditional production has dwindled, one of the best ways to taste the real thing is to head to the hills where it's harvested.",
+      "status": "pending",
+      "firstSeenAt": 1792657340.9767818,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/stage/2026/oct/22/west-end-alan-bennett-the-history-boys-nicholas-hytner-theatre",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792657341.4643226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792657341.4643486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro",
+      "provider": "The Guardian",
+      "title": "double quotation mark Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril",
+      "status": "pending",
+      "firstSeenAt": 1792657341.4649618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/anthony-scaramucci-donald-trump-putin-witkoff/107295812",
+      "provider": "ABC News Australia",
+      "title": "'Reprehensible': The Trump money grab that disgusts former adviser",
+      "status": "pending",
+      "firstSeenAt": 1792657341.729444,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
