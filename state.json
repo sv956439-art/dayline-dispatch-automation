@@ -59562,9 +59562,81 @@
       "status": "pending",
       "firstSeenAt": 1792642705.774744,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx23d0k57d3o",
+      "provider": "BBC",
+      "title": "UK working to identify exposure after global cyber-security warning Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public. 13 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1792644714.2336245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyrpj2pm8eo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792644714.2339427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm26705yvr2o",
+      "provider": "BBC",
+      "title": "Green light for new £3.5m health centre in town The Medi-Tech centre will offer minor surgeries and diagnostic tests when it opens. Just now Leicestershire",
+      "status": "pending",
+      "firstSeenAt": 1792644714.2340496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nsw-ben-roberts-smith-2gb-interview-ben-fordham/107295040",
+      "provider": "ABC News Australia",
+      "title": "Roberts-Smith says failed court case cost Kerry Stokes 'upwards of $30m'",
+      "status": "pending",
+      "firstSeenAt": 1792644714.9997442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024",
+      "provider": "ABC News Australia",
+      "title": "Man shot by police in Sydney's south-west",
+      "status": "pending",
+      "firstSeenAt": 1792644714.999855,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/aussie-borlase-on-winning-side-atlanta-dream-leads-wnba-finals/107297062",
+      "provider": "ABC News Australia",
+      "title": "Aussie Borlase on winning side as Atlanta Dream leads WNBA Finals",
+      "status": "pending",
+      "firstSeenAt": 1792644715.0005305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/out-of-home-care-manager-denies-raping-choking-colleagues/107296368",
+      "provider": "ABC News Australia",
+      "title": "Out-of-home care manager pleads not guilty to choking, raping colleagues",
+      "status": "pending",
+      "firstSeenAt": 1792644715.0005593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/tonga-tui-lolohea-world-cup-lebanon-england-samoa/107296870",
+      "provider": "ABC News Australia",
+      "title": "Amid the hunt for World Cup glory one of Tonga's greats is not done yet",
+      "status": "pending",
+      "firstSeenAt": 1792644715.0006077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/body-found-on-highway-after-suspected-hit-run-yarck/107296778",
+      "provider": "ABC News Australia",
+      "title": "Body found on highway after suspected hit-and-run in Victoria's north-east",
+      "status": "pending",
+      "firstSeenAt": 1792644715.000636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
