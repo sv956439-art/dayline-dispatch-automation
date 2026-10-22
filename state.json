@@ -59778,9 +59778,73 @@
       "status": "pending",
       "firstSeenAt": 1792648247.9771292,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkvz72vmjlo",
+      "provider": "BBC",
+      "title": "Battening down the hatches before Storm Austen Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West. Just now England",
+      "status": "pending",
+      "firstSeenAt": 1792649824.2057626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ckdd8re793zdo",
+      "provider": "BBC",
+      "title": "Vickery's journey from World Cup winner to bodybuilder at 50",
+      "status": "pending",
+      "firstSeenAt": 1792649824.3264303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq80zk12krmlo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792649824.3264773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6x2v8x7ry17o",
+      "provider": "BBC",
+      "title": "From Bury to AC Milan: Bournemouth's journey to 'dreamland'",
+      "status": "pending",
+      "firstSeenAt": 1792649824.326517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq073zrgv8vvo",
+      "provider": "BBC",
+      "title": "Leicester hit their lowest ebb - but is Martin turning things around?",
+      "status": "pending",
+      "firstSeenAt": 1792649824.3268867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/australian-bowler-megan-schutt-suspended-two-matches-medication/107297688",
+      "provider": "ABC News Australia",
+      "title": "Schutt banned for two matches after prescription medication failure",
+      "status": "pending",
+      "firstSeenAt": 1792649825.246279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/forced-adoption-survivors-criticise-secrecy-of-key-reforms/107289948",
+      "provider": "ABC News Australia",
+      "title": "Two years after promised change, forced adoption survivors are still waiting",
+      "status": "pending",
+      "firstSeenAt": 1792649825.2470715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/pat-miller-state-funeral-nt/107296040",
+      "provider": "ABC News Australia",
+      "title": "'Tireless advocate' Pat Miller to be honoured with state funeral",
+      "status": "pending",
+      "firstSeenAt": 1792649825.2471178,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
