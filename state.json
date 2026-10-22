@@ -61674,9 +61674,73 @@
       "status": "pending",
       "firstSeenAt": 1792710222.3915281,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54g1kxw4nvvo",
+      "provider": "BBC",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "status": "pending",
+      "firstSeenAt": 1792711806.4292533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj75p1xr7p7vo",
+      "provider": "BBC",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era. 13 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792711806.42929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5ynd1z6e83o",
+      "provider": "BBC",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
+      "status": "pending",
+      "firstSeenAt": 1792711806.4302893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792711806.9895935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/caricom-reparations-commission-king-charles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792711806.9900894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792711806.9901106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/basketball-donald-trump-accuses-lebron-james-anthem-disrespect/107300334",
+      "provider": "ABC News Australia",
+      "title": "'Total disgrace': LeBron blasted by Trump over perceived anthem disrespect",
+      "status": "pending",
+      "firstSeenAt": 1792711807.6240885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/cave-divers-search-for-ghost-bats-near-mount-isa/107296978",
+      "provider": "ABC News Australia",
+      "title": "Cave divers search for rare ghost bats after flooding",
+      "status": "pending",
+      "firstSeenAt": 1792711807.6241422,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
