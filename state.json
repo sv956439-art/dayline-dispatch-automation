@@ -60330,9 +60330,113 @@
       "status": "pending",
       "firstSeenAt": 1792667359.708763,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5ynl4v4wgwo",
+      "provider": "BBC",
+      "title": "At least four dead after storm brings flooding to southern France The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "status": "pending",
+      "firstSeenAt": 1792669142.6063356,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq5ynp67grjro",
+      "provider": "BBC",
+      "title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+      "status": "pending",
+      "firstSeenAt": 1792669142.6067047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/triathlon/articles/cmx23dvewq9po",
+      "provider": "BBC",
+      "title": "'Ten years of hate and abuse' - Schoeman on viral victory over Brownlees",
+      "status": "pending",
+      "firstSeenAt": 1792669142.7027168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c51kdwym8ej3o",
+      "provider": "BBC",
+      "title": "Weekly sports quiz: How much was Ronaldo fined by Portugal?",
+      "status": "pending",
+      "firstSeenAt": 1792669142.7027535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cycling/articles/cq1kd0z33r8ro",
+      "provider": "BBC",
+      "title": "Tour de France UK stages in detail",
+      "status": "pending",
+      "firstSeenAt": 1792669142.7030137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/ckr5ye4g7d9qo",
+      "provider": "BBC",
+      "title": "Futuristic eco cricket ground in Spain eyes Test match",
+      "status": "pending",
+      "firstSeenAt": 1792669142.703271,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792669142.9699166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792669142.9700375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792669142.9701188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792669142.9703052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/22/middleton-revival-mill-towns-steve-coogan-manchester",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792669142.9703498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/michelle-landry-retires-paving-way-for-matt-canavan/107299002",
+      "provider": "ABC News Australia",
+      "title": "Path clear for Canavan lower house move as Landry to announce retirement",
+      "status": "pending",
+      "firstSeenAt": 1792669143.5481036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/chalmers-hails-boom-in-business-investment/107298274",
+      "provider": "ABC News Australia",
+      "title": "Chalmers says investors feel good about Australia despite gloom at home",
+      "status": "pending",
+      "firstSeenAt": 1792669143.5483966,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
