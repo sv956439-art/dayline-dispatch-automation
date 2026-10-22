@@ -61266,9 +61266,49 @@
       "status": "pending",
       "firstSeenAt": 1792696671.6500194,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrkyly2p54xo",
+      "provider": "BBC",
+      "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93 The actor died on Wednesday of natural causes, his family said. 7 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792698619.5866587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792698620.0911386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/australia-sa-quick-hits-day-five-smith-bavuma-boland/107298586",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Bavuma hides from Smith implosion as Boland outgrits batters",
+      "status": "pending",
+      "firstSeenAt": 1792698620.53391,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/rugby-australia-wallaroos-emily-chancellor-scotland/107297400",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos great inspired by mantra 'you can't be what you can't see'",
+      "status": "pending",
+      "firstSeenAt": 1792698620.5348165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/villages-we-carry-south-lebanon-archive-in-parramatta-sydney/107283730",
+      "provider": "ABC News Australia",
+      "title": "Images are all this community has left of their ancestral villages",
+      "status": "pending",
+      "firstSeenAt": 1792698620.5348642,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
