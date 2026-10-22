@@ -61650,9 +61650,33 @@
       "status": "pending",
       "firstSeenAt": 1792708575.3267124,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqx287ekvvvpo",
+      "provider": "BBC",
+      "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+      "status": "pending",
+      "firstSeenAt": 1792710221.2459986,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqxn3133rdwo",
+      "provider": "BBC",
+      "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion The murder in plain sight victim was revealed ahead of another difficult round table.",
+      "status": "pending",
+      "firstSeenAt": 1792710221.2460651,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/australia-makes-offer-to-send-australian-of-the-year-to-space/107300194",
+      "provider": "ABC News Australia",
+      "title": "Commonwealth makes offer to send Australian of the Year to space",
+      "status": "pending",
+      "firstSeenAt": 1792710222.3915281,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
