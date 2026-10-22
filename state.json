@@ -59210,9 +59210,41 @@
       "status": "pending",
       "firstSeenAt": 1792627757.5305114,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvgjk3j0j9wo",
+      "provider": "BBC",
+      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+      "status": "pending",
+      "firstSeenAt": 1792630056.0974114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792630056.3263416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/nrl-cooper-bai-marcus-bai-rift-healed-amid-png-chiefs-signing/107295720",
+      "provider": "ABC News Australia",
+      "title": "Potential PNG signing helping to heal Cooper Bai's family rift",
+      "status": "pending",
+      "firstSeenAt": 1792630057.184334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/tas-stranded-sperm-whale-turners-beach-near-devonport/107295598",
+      "provider": "ABC News Australia",
+      "title": "Sperm whale stranded near Devonport in Tasmania's north-west",
+      "status": "pending",
+      "firstSeenAt": 1792630057.18436,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
