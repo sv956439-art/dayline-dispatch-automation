@@ -61538,9 +61538,57 @@
       "status": "pending",
       "firstSeenAt": 1792703648.6833186,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792705318.9224153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/22/raye-wins-2026-mercury-prize-for-this-music-may-contain-hope",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792705318.9224298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792705318.92247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/kilcoys-pink-man-lobbies-for-cancer-care-nurses-in-regions/107291912",
+      "provider": "ABC News Australia",
+      "title": "'Pink man' fights for better cancer care in regions",
+      "status": "pending",
+      "firstSeenAt": 1792705319.7724743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584",
+      "provider": "ABC News Australia",
+      "title": "Magnitude-7 earthquake hits China's Tibet region, killing 16 people",
+      "status": "pending",
+      "firstSeenAt": 1792705319.7725546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/cricket-awkward-questions-linger-after-australia-heavy-defeat/107299452",
+      "provider": "ABC News Australia",
+      "title": "Awkward questions linger as creaky Australia receives South African hiding",
+      "status": "pending",
+      "firstSeenAt": 1792705319.7725773,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
