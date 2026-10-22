@@ -61114,9 +61114,97 @@
       "status": "pending",
       "firstSeenAt": 1792692549.7526536,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8ezy37rgz6o",
+      "provider": "BBC",
+      "title": "Trump accuses LeBron James of disrespecting US anthem, demands apology The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed. 20 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1792694502.916182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2qpj72znwo",
+      "provider": "BBC",
+      "title": "Weekly quiz: How long did Katie Zacharia last as White House press secretary? How much attention did you pay to what happened in the world over the past seven days?",
+      "status": "pending",
+      "firstSeenAt": 1792694502.916686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9rkyl50l28lo",
+      "provider": "BBC",
+      "title": "2 hrs ago Map thief leads 'merry dance' with return promises The 1684 world map, cut from an atlas at the National Maritime Museum’s library, has not been found. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792694503.0061886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/video-kohen-wiley-shooting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792694503.4212093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/dollar-general-settlement-price-gouging",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792694503.4212542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
+      "provider": "The Guardian",
+      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
+      "status": "pending",
+      "firstSeenAt": 1792694503.421487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/superannuation-early-withdrawals-record-high/107295652",
+      "provider": "ABC News Australia",
+      "title": "Raiding super to pay medical bills leaves trail of 'financial damage'",
+      "status": "pending",
+      "firstSeenAt": 1792694503.676599,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/south-east-queensland-rain-forecast-friday/107298790",
+      "provider": "ABC News Australia",
+      "title": "Heavy rain forces south-east Qld school closures but falls set to ease",
+      "status": "pending",
+      "firstSeenAt": 1792694503.6781013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/new-zealand-election-communities-november/107232890",
+      "provider": "ABC News Australia",
+      "title": "Promised a better life, New Zealand voters are asking what went wrong",
+      "status": "pending",
+      "firstSeenAt": 1792694503.6781497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/october-23-news-quiz/107295500",
+      "provider": "ABC News Australia",
+      "title": "Friday news quiz: Royal reconciliation, muddled maps and an island evacuation",
+      "status": "pending",
+      "firstSeenAt": 1792694503.678215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/justene-williams-once-we-were-mudskippers-a-magical-hotstart/107235678",
+      "provider": "ABC News Australia",
+      "title": "Painted for the Archibald, collected by the Tate: Meet Justene Williams",
+      "status": "pending",
+      "firstSeenAt": 1792694503.6782403,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
