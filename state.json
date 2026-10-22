@@ -61306,9 +61306,81 @@
       "status": "pending",
       "firstSeenAt": 1792698620.5348642,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyrp29xdvmo",
+      "provider": "BBC",
+      "title": "South East prepares for impact of Storm Austen",
+      "status": "pending",
+      "firstSeenAt": 1792700100.6328418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1ex3ydy4qyo",
+      "provider": "BBC",
+      "title": "Shetland hit by flooding and landslide after 'biblical' rain",
+      "status": "pending",
+      "firstSeenAt": 1792700100.6328714,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckq6nz12mgg5o",
+      "provider": "BBC",
+      "title": "4 hrs ago I will make final decision on Rosebank oil field, energy secretary insists 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792700100.6330383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792700100.823873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792700100.8238933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792700100.8240166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/22/ben-jennings-on-donald-trumps-flattery-of-vladimir-putin-cartoon",
+      "provider": "The Guardian",
+      "title": "Ben Jennings on Donald Trump’s flattery of Vladimir Putin – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1792700100.824373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/federal-politics-live-blog-october-23/107297588",
+      "provider": "ABC News Australia",
+      "title": "More than $600k donated to Save the Children in Haines's honour",
+      "status": "pending",
+      "firstSeenAt": 1792700101.6009808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/ai-assisted-police-report-writing-dv-domestic-violence/107297138",
+      "provider": "ABC News Australia",
+      "title": "AI tool saves time but makes errors in police trial",
+      "status": "pending",
+      "firstSeenAt": 1792700101.601838,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
