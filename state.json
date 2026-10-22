@@ -59714,9 +59714,73 @@
       "status": "pending",
       "firstSeenAt": 1792646345.0199199,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8dzrp768j8o",
+      "provider": "BBC",
+      "title": "How Arab parties could hold critical balance of power in Israeli election Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition. 20 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1792648247.188999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6djvzmn4pv7o",
+      "provider": "BBC",
+      "title": "Failed City of Culture bid has 'raised aspiration' The town misses out in the running to win a £10m prize pot for 2029. Just now Suffolk",
+      "status": "pending",
+      "firstSeenAt": 1792648247.1895375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgel220j7nvo",
+      "provider": "BBC",
+      "title": "Woman 'scared to turn heating on' due to oil cost Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm.",
+      "status": "pending",
+      "firstSeenAt": 1792648247.1901124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c674p0xepljeo",
+      "provider": "BBC",
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi. 11 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1792648247.2666936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792648247.4374099,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/colombia-anti-drug-police-unaware-of-afp-taskforce/107283494",
+      "provider": "ABC News Australia",
+      "title": "Colombian frontline police unaware of new AFP anti-drug taskforce",
+      "status": "pending",
+      "firstSeenAt": 1792648247.975924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/audit-leaks-scandal-kpmg-ban-on-government-work-extends-to-2027/107297484",
+      "provider": "ABC News Australia",
+      "title": "KPMG ban on government work extended after 'serious ethical failings'",
+      "status": "pending",
+      "firstSeenAt": 1792648247.97599,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-22/jack-bowd-takes-stand-in-newell-highway-fatal-trial/107264520",
+      "provider": "ABC News Australia",
+      "title": "Accused 'dead set' he was not driving in crash that killed four",
+      "status": "pending",
+      "firstSeenAt": 1792648247.9771292,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
