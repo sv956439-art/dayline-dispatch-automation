@@ -60482,9 +60482,25 @@
       "status": "pending",
       "firstSeenAt": 1792671031.8533084,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792673248.3172383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+      "provider": "The Guardian",
+      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+      "status": "pending",
+      "firstSeenAt": 1792673248.317734,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
