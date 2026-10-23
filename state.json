@@ -63426,9 +63426,65 @@
       "status": "pending",
       "firstSeenAt": 1792771973.3761344,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250925-the-office-worker-who-became-the-first-person-ever-to-appear-on-tv",
+      "provider": "BBC",
+      "title": "The first person ever to appear on TV On 2 October 1925, John Logie Baird transmitted a moving image of a human face. Forty years later, the world's first television star told the BBC about that dramatic moment.",
+      "status": "pending",
+      "firstSeenAt": 1792773883.9912755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0ld94pl8z5o",
+      "provider": "BBC",
+      "title": "Andrew can be called to give evidence in High Court fraud trial The High Court trial involves allegations of fraud made by a wealthy Turkish woman against her former adviser.",
+      "status": "pending",
+      "firstSeenAt": 1792773883.9915202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck3r5792en7go",
+      "provider": "BBC",
+      "title": "Kompany taken to hospital after collapsing at training Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+      "status": "pending",
+      "firstSeenAt": 1792773883.9920564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lykzwjkj1eo",
+      "provider": "BBC",
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+      "status": "pending",
+      "firstSeenAt": 1792773884.0916145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792773884.2586403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792773884.2591078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792773884.2592404,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
