@@ -63370,9 +63370,65 @@
       "status": "pending",
       "firstSeenAt": 1792769772.7200081,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c678pv4krx37o",
+      "provider": "BBC",
+      "title": "Trump administration sues to block certification of upcoming Alaska election The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+      "status": "pending",
+      "firstSeenAt": 1792771972.8860679,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwg7xvz8e8dpo",
+      "provider": "BBC",
+      "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
+      "status": "pending",
+      "firstSeenAt": 1792771973.0125222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/ck9qzewgz1g3o",
+      "provider": "BBC",
+      "title": "England balancing points chase and discipline at World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792771973.0126398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6lylk1zyqd7o",
+      "provider": "BBC",
+      "title": "Cost of football regulator double initial estimate",
+      "status": "pending",
+      "firstSeenAt": 1792771973.0126772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cry4x7k0nkk4o",
+      "provider": "BBC",
+      "title": "Dvalishvili gains 19lb in five hours before title fight",
+      "status": "pending",
+      "firstSeenAt": 1792771973.0133312,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792771973.3757248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
+      "provider": "The Guardian",
+      "title": "The White House Farm massacre - exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent?",
+      "status": "pending",
+      "firstSeenAt": 1792771973.3761344,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
