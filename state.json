@@ -61866,9 +61866,49 @@
       "status": "pending",
       "firstSeenAt": 1792716877.929013,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c6vgxd2xyv7do",
+      "provider": "BBC",
+      "title": "Approach African GP with humility, says Hamilton",
+      "status": "pending",
+      "firstSeenAt": 1792718933.2237246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cm8xz10571lro",
+      "provider": "BBC",
+      "title": "Counties interested in Anderson after Lancashire exit",
+      "status": "pending",
+      "firstSeenAt": 1792718933.223757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c574pjyv2ly7o",
+      "provider": "BBC",
+      "title": "England boss McDermott calls for Super League to accept NRL investment",
+      "status": "pending",
+      "firstSeenAt": 1792718933.2240973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/23/embattled-qld-mininster-amanda-camm-quits-crisafulli-frontbench-citing-health-and-safety-reasons",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792718933.3535264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/football-wayne-rooney-blasts-man-united-babies-bruno-fernandes/107300696",
+      "provider": "ABC News Australia",
+      "title": "Man United legend lashes current players for behaving 'like babies'",
+      "status": "pending",
+      "firstSeenAt": 1792718933.5411928,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
