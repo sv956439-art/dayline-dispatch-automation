@@ -62418,9 +62418,89 @@
       "status": "pending",
       "firstSeenAt": 1792737617.3462067,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crp3gde84j4zo",
+      "provider": "BBC",
+      "title": "Flat-track bullies Celtic continue descent into European irrelevance",
+      "status": "pending",
+      "firstSeenAt": 1792740280.4268234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7vp8g38y7vo",
+      "provider": "BBC",
+      "title": "2 hrs ago Don't leave AI to tech bros and oligarchs, UK's AI minister says Kanishka Narayan tells the BBC that dealing with the technology requires not only regulation, but \"building capability and capacity\". 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792740280.4929154,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792740280.62055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
+      "provider": "The Guardian",
+      "title": "‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu",
+      "status": "pending",
+      "firstSeenAt": 1792740280.6209772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082",
+      "provider": "ABC News Australia",
+      "title": "Australia at the heart of 'transformational' cancer vaccine breakthrough",
+      "status": "pending",
+      "firstSeenAt": 1792740281.2497668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/qld-sam-wood-application-for-non-publication-order-denied/107299502",
+      "provider": "ABC News Australia",
+      "title": "Former Bachelor Sam Wood loses bid to block media from court files",
+      "status": "pending",
+      "firstSeenAt": 1792740281.2498174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/helen-haines-candle-vigil-critical-injuries-hospital-update/107302886",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines still critical in hospital ahead of national candlelight vigil",
+      "status": "pending",
+      "firstSeenAt": 1792740281.2498639,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/bruce-lehrmann-rape-trial-toowoomba-postponed/107302306",
+      "provider": "ABC News Australia",
+      "title": "Bruce Lehrmann's rape trial postponed to allow time to find barrister",
+      "status": "pending",
+      "firstSeenAt": 1792740281.2499716,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/nt-safe-air-bill-monitoring-darwin-harbour-inpex-santos/107300842",
+      "provider": "ABC News Australia",
+      "title": "'Safe air' bill passes NT parliament following Inpex, Santos scandals",
+      "status": "pending",
+      "firstSeenAt": 1792740281.250206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/tyrone-russell-sentenced-manslaughter/107299636",
+      "provider": "ABC News Australia",
+      "title": "Grieving sister will 'never understand' decisions made by brother's killer",
+      "status": "pending",
+      "firstSeenAt": 1792740281.2508485,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
