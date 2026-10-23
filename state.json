@@ -62634,9 +62634,49 @@
       "status": "pending",
       "firstSeenAt": 1792746498.659984,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g1p974wxko",
+      "provider": "BBC",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election. 12 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1792748265.9183657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyqn6ejyd4o",
+      "provider": "BBC",
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+      "status": "pending",
+      "firstSeenAt": 1792748265.919057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly417514zgo",
+      "provider": "BBC",
+      "title": "Headliners revealed for Isle of Wight Festival 2027",
+      "status": "pending",
+      "firstSeenAt": 1792748266.0242863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y43pw41vpro",
+      "provider": "BBC",
+      "title": "Clarity demanded from government on airline's purpose",
+      "status": "pending",
+      "firstSeenAt": 1792748266.0243084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792748266.484718,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
