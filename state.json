@@ -63554,9 +63554,49 @@
       "status": "pending",
       "firstSeenAt": 1792777456.0328496,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c862yv953x04o",
+      "provider": "BBC",
+      "title": "1 hr ago Glasgow museums remove mummified remains from public view Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792778903.1602502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/the-interview-tom-holloway-eliza-mtc-joseph-weizenbaum/107235700",
+      "provider": "ABC News Australia",
+      "title": "In the 60s, Weizenbaum tried to show the limitations of AI. No-one listened",
+      "status": "pending",
+      "firstSeenAt": 1792778903.825621,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/the-case-to-go-slow-on-ai-is-growing-louder/107303128",
+      "provider": "ABC News Australia",
+      "title": "When it comes to new technology, being first can come at a cost",
+      "status": "pending",
+      "firstSeenAt": 1792778903.8256772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/airbnb-checkout-chores-ban-backlash/107300484",
+      "provider": "ABC News Australia",
+      "title": "Airbnb host floats 'dishes and utensils fee' as guest chore ban sparks debate",
+      "status": "pending",
+      "firstSeenAt": 1792778903.8257291,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/israel-election-netanyahu-laura-tingle/107302248",
+      "provider": "ABC News Australia",
+      "title": "Israel's election could be a turning point for the entire Middle East",
+      "status": "pending",
+      "firstSeenAt": 1792778903.8257859,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
