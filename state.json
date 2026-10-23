@@ -62978,9 +62978,89 @@
       "status": "pending",
       "firstSeenAt": 1792757079.2509608,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c59vzjm118j1o",
+      "provider": "BBC",
+      "title": "Denmark to ban mink farming in government U-turn Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "status": "pending",
+      "firstSeenAt": 1792759039.7727046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmvg6j8jezn7o",
+      "provider": "BBC",
+      "title": "Conte plays down 'unfounded' Man Utd speculation",
+      "status": "pending",
+      "firstSeenAt": 1792759039.7731447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6zjx0np7y10o",
+      "provider": "BBC",
+      "title": "Bellingham holds positive talks over new Real deal",
+      "status": "pending",
+      "firstSeenAt": 1792759039.7731848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792759040.1445477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792759040.144873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792759040.1449926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/video/2026/oct/23/what-will-trump-do-if-republicans-lose-the-midterms-politics-weekly-america",
+      "provider": "The Guardian",
+      "title": "What will Trump do if Republicans lose the midterms? | Politics Weekly America",
+      "status": "pending",
+      "firstSeenAt": 1792759040.1453393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
+      "provider": "The Guardian",
+      "title": "‘I struggle to see myself as someone special’: Sandra Hüller on being the star of four - or, possibly, five - of the year’s biggest films",
+      "status": "pending",
+      "firstSeenAt": 1792759040.145445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774",
+      "provider": "ABC News Australia",
+      "title": "Shooter opens fire at church in Jordan",
+      "status": "pending",
+      "firstSeenAt": 1792759040.5617821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/france-investigating-possible-terror-link-paris-shooting/107303752",
+      "provider": "ABC News Australia",
+      "title": "One dead and four injured after gunman opens fire on Paris suburb",
+      "status": "pending",
+      "firstSeenAt": 1792759040.561808,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
