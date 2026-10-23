@@ -63130,9 +63130,49 @@
       "status": "pending",
       "firstSeenAt": 1792761501.016193,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x295kp2pr1o",
+      "provider": "BBC",
+      "title": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
+      "status": "pending",
+      "firstSeenAt": 1792763814.5890608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792763814.7302566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792763814.730725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792763814.730888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/gallery/2026/oct/23/week-in-wildlife-a-bookworm-bear-an-angelic-spider-and-a-bald-hedgehog",
+      "provider": "The Guardian",
+      "title": "Week in wildlife: a bookworm bear, an angelic spider and a bald hedgehog",
+      "status": "pending",
+      "firstSeenAt": 1792763814.7313502,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
