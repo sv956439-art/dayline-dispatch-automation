@@ -61802,9 +61802,73 @@
       "status": "pending",
       "firstSeenAt": 1792714340.6194193,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yez87qwvdo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792716877.3215642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63r5xpezz51o",
+      "provider": "BBC",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years. 2 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1792716877.3215892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm369kkg92x6o",
+      "provider": "BBC",
+      "title": "Call of Duty promises a return to form - but can it compete with GTA? Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans. 2 hrs ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1792716877.3216035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgjk1lp7njo",
+      "provider": "BBC",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry. 58 mins ago India",
+      "status": "pending",
+      "firstSeenAt": 1792716877.3216343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c8r4y3gpwkl2o",
+      "provider": "BBC",
+      "title": "Austin track bumps out of control - Verstappen Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\". 2 hrs ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1792716877.3218296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792716877.4633887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792716877.4636328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/robe-mayor-misconduct-complaints-bullying/107295796",
+      "provider": "ABC News Australia",
+      "title": "Mayor told staff member to 'lose some weight', misconduct probe finds",
+      "status": "pending",
+      "firstSeenAt": 1792716877.929013,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
