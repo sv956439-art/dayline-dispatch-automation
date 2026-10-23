@@ -63914,9 +63914,49 @@
       "status": "pending",
       "firstSeenAt": 1792789500.5910585,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/23/jesse-kelly-conservative-radio-trump",
+      "provider": "The Guardian",
+      "title": "Being pro-Trump has been ‘easy radio’ for conservative hosts like Jesse Kelly. Those days are ending.",
+      "status": "pending",
+      "firstSeenAt": 1792791126.8250048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/whale-burial-turners-beach-tasmania/107301942",
+      "provider": "ABC News Australia",
+      "title": "Large sperm whale buried near where it stranded",
+      "status": "pending",
+      "firstSeenAt": 1792791127.219614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/tasmania-proposed-ban-on-conversion-practices-explained/107297452",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's proposed ban on conversion practices explained",
+      "status": "pending",
+      "firstSeenAt": 1792791127.2197833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/one-time-minnows-tonga-and-samoa-now-star-world-cup-attractions/107296364",
+      "provider": "ABC News Australia",
+      "title": "One-time minnows Tonga and Samoa now star World Cup attractions",
+      "status": "pending",
+      "firstSeenAt": 1792791127.2198098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/qld-explainer-caravan-bankruptcy/107292106",
+      "provider": "ABC News Australia",
+      "title": "When a business suddenly collapses, how can customers get money back?",
+      "status": "pending",
+      "firstSeenAt": 1792791127.2198553,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
