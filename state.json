@@ -62938,9 +62938,49 @@
       "status": "pending",
       "firstSeenAt": 1792755423.4210088,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxnv025d8qpmo",
+      "provider": "BBC",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+      "status": "pending",
+      "firstSeenAt": 1792757079.047419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme3xz47vyedo",
+      "provider": "BBC",
+      "title": "Film studios given permission for major expansion The Royal Borough of Windsor and Maidenhead has approved plans for building six more sound stages.",
+      "status": "pending",
+      "firstSeenAt": 1792757079.0479512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261022-six-gestures-to-learn-before-travelling-to-japan",
+      "provider": "BBC",
+      "title": "The unspoken rules of Japanese body language From calling someone over to asking for the bill, learning common Japanese gestures can help you navigate social situations in Japan without saying a word. Our expert teaches you how.",
+      "status": "pending",
+      "firstSeenAt": 1792757079.0480592,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792757079.2508295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792757079.2509608,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
