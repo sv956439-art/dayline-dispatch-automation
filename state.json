@@ -63858,9 +63858,65 @@
       "status": "pending",
       "firstSeenAt": 1792787708.715068,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/documentary-shows-lower-organ-transplant-rate-indigenous-people/107300388",
+      "provider": "ABC News Australia",
+      "title": "New documentary spotlights 'silent killer' affecting First Nations people",
+      "status": "pending",
+      "firstSeenAt": 1792789500.59065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/charity-finds-battery-hens-new-homes/107292314",
+      "provider": "ABC News Australia",
+      "title": "Charity helps thousands of caged hens find new homes",
+      "status": "pending",
+      "firstSeenAt": 1792789500.5908039,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/bayern-munich-manager-kompany-hospitalised-after-collapse/107304286",
+      "provider": "ABC News Australia",
+      "title": "Bayern Munich manager Vincent Kompany hospitalised after training collapse",
+      "status": "pending",
+      "firstSeenAt": 1792789500.5908515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/nsw-government-new-biodiversity-offset-approach-protects-habitat/107260482",
+      "provider": "ABC News Australia",
+      "title": "Biodiversity offset scheme 'an enormous thing' for landowners to consider",
+      "status": "pending",
+      "firstSeenAt": 1792789500.5908964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/russell-brand-trial-week-two-evidence/107299066",
+      "provider": "ABC News Australia",
+      "title": "Brand trial ranges from backstage sex to alleged rape in his 'Gothic' home",
+      "status": "pending",
+      "firstSeenAt": 1792789500.5909398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/victoria-victim-of-crime-assistance-delays/107300402",
+      "provider": "ABC News Australia",
+      "title": "Victorian victims of crime face long delays getting help from state",
+      "status": "pending",
+      "firstSeenAt": 1792789500.5910122,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/backpacker-visa-changes-regional-work-less-attractive/107291720",
+      "provider": "ABC News Australia",
+      "title": "Backpackers say visa changes reduce incentive to do jobs many Aussies avoid",
+      "status": "pending",
+      "firstSeenAt": 1792789500.5910585,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
