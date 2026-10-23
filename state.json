@@ -62786,9 +62786,129 @@
       "status": "pending",
       "firstSeenAt": 1792751820.4448757,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx28en5wkypo",
+      "provider": "BBC",
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad This is President Peter Mutharika's fifth visit to South Africa this year.",
+      "status": "pending",
+      "firstSeenAt": 1792753640.5718846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cked3x8452pdo",
+      "provider": "BBC",
+      "title": "Should Man Utd boss Carrick drop captain Fernandes?",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6895278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmewejkdkk99o",
+      "provider": "BBC",
+      "title": "Australia call up Teddy Wilson - son of World Cup winner David",
+      "status": "pending",
+      "firstSeenAt": 1792753640.689572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c60qkpe0e54qo",
+      "provider": "BBC",
+      "title": "What is going on at 'chaotic' Newcastle?",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6896126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c6ly35rzdgxyo",
+      "provider": "BBC",
+      "title": "Boulter into Japan semi-finals and back as British No 1",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6896598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cv1j3zn9yjn2o",
+      "provider": "BBC",
+      "title": "What happens in Vegas, stays in Vegas for England",
+      "status": "pending",
+      "firstSeenAt": 1792753640.689699,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cwz0vnlpze2zo",
+      "provider": "BBC",
+      "title": "Samoa run in 14 tries to thrash Wales at World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792753640.690003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1m43jee9z5o",
+      "provider": "BBC",
+      "title": "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6901402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9gkvrkkjv0lo",
+      "provider": "BBC",
+      "title": "New Victor Moses? How Alonso has transformed Neto",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6902392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c3j47y0yy5e1o",
+      "provider": "BBC",
+      "title": "'That's what I do' - Wade keeps cool as history approaches",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6902838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw3djpg15045o",
+      "provider": "BBC",
+      "title": "Forest's start raises questions - but belief in Glasner remains",
+      "status": "pending",
+      "firstSeenAt": 1792753640.6903691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792753640.85525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792753640.8560805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/first-thing-corey-lewandowski-under-investigation-homeland-security",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792753640.8561046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754",
+      "provider": "ABC News Australia",
+      "title": "Meghan Markle 'disturbed' by allegations her father possessed child sexual abuse material",
+      "status": "pending",
+      "firstSeenAt": 1792753641.1627293,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
