@@ -62674,9 +62674,89 @@
       "status": "pending",
       "firstSeenAt": 1792748266.484718,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2wpgejjkjo",
+      "provider": "BBC",
+      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018 The Duchess of Sussex says she is \"deeply distressed\" following reports about her father. Just now",
+      "status": "pending",
+      "firstSeenAt": 1792750209.0649276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3x2wpyg18j7o",
+      "provider": "BBC",
+      "title": "Infantino re-election hopes boosted by Asia support",
+      "status": "pending",
+      "firstSeenAt": 1792750209.0665524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c65yng4x302jo",
+      "provider": "BBC",
+      "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
+      "status": "pending",
+      "firstSeenAt": 1792750209.0665889,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261022-the-15th-century-duchess-charged-with-treason-and-witchcraft",
+      "provider": "BBC",
+      "title": "The duchess charged with treason and witchcraft She seemed destined to become queen – then was convicted of witchcraft, a scandal that led to the Wars of the Roses. Was Eleanor Cobham a scheming satanist or a political pawn?",
+      "status": "pending",
+      "firstSeenAt": 1792750209.0667398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c50mep10dek7o",
+      "provider": "BBC",
+      "title": "Final James Bond screen tests to take place this weekend, reports say",
+      "status": "pending",
+      "firstSeenAt": 1792750209.0667682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg47n5v90x6o",
+      "provider": "BBC",
+      "title": "Storm Austen causes disruption in South East",
+      "status": "pending",
+      "firstSeenAt": 1792750209.1332915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5yn2ww6pg9o",
+      "provider": "BBC",
+      "title": "Disruption and flood warning as storm sweeps in",
+      "status": "pending",
+      "firstSeenAt": 1792750209.1333196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/detective-raped-by-fellow-officer-david-carrick-calls-on-met-chief-to-resign",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792750209.2557545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792750209.2558837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/donna-nelson-returns-to-perth-to-serve-out-sentence/107303550",
+      "provider": "ABC News Australia",
+      "title": "Donna Nelson returns to Perth in international prisoner transfer",
+      "status": "pending",
+      "firstSeenAt": 1792750209.5469031,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
