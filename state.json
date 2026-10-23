@@ -62066,9 +62066,57 @@
       "status": "pending",
       "firstSeenAt": 1792724698.4554505,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/23/alan-jones-trial-mother-of-alleged-victim-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792726429.7587776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+      "provider": "The Guardian",
+      "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
+      "status": "pending",
+      "firstSeenAt": 1792726429.7597768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/22/atlanta-falcons-throwback-logo-nazi-germany-comparisons-memes",
+      "provider": "The Guardian",
+      "title": "‘The Bird Reich’: Atlanta Falcons roasted over throwback logo with Nazi resemblance",
+      "status": "pending",
+      "firstSeenAt": 1792726429.7599936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/judi-dench-says-worsening-eyesight-means-she-can-no-longer-act/107301570",
+      "provider": "ABC News Australia",
+      "title": "Dame Judi Dench 'can't act anymore' as her eyesight worsens",
+      "status": "pending",
+      "firstSeenAt": 1792726430.0416737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/how-the-western-bulldogs-engineered-a-return-to-aflw-finals/107301312",
+      "provider": "ABC News Australia",
+      "title": "How the Western Bulldogs engineered a return to AFLW finals",
+      "status": "pending",
+      "firstSeenAt": 1792726430.0419846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/man-charged-alleged-knife-threat-facebook-marketplace-phone-sale/107301562",
+      "provider": "ABC News Australia",
+      "title": "Canberra man accused of strangling seller during Facebook Marketplace deal",
+      "status": "pending",
+      "firstSeenAt": 1792726430.04277,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
