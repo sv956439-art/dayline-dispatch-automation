@@ -63234,9 +63234,65 @@
       "status": "pending",
       "firstSeenAt": 1792765651.1695604,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly0dg453v8o",
+      "provider": "BBC",
+      "title": "US Justice Department investigating Corey Lewandowski over DHS role Trump's former campaign manager is reportedly being investigated over allegations that he used his adviser role for financial gain.",
+      "status": "pending",
+      "firstSeenAt": 1792767878.0904202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpqg4e08j3ro",
+      "provider": "BBC",
+      "title": "Staffordshire roads flooded as Storm Austen hits",
+      "status": "pending",
+      "firstSeenAt": 1792767878.1562936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr62ydqjvg9lo",
+      "provider": "BBC",
+      "title": "5 hrs ago Fund to help businesses switch to green vehicles Council leader Stephen Place says it will help businesses counter the rising cost of fuel. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792767878.156574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792767878.4215147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792767878.4215622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792767878.421664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792767878.4217048,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
