@@ -63290,9 +63290,89 @@
       "status": "pending",
       "firstSeenAt": 1792767878.4217048,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv98zn0ye4kpo",
+      "provider": "BBC",
+      "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.",
+      "status": "pending",
+      "firstSeenAt": 1792769772.4878428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rey3n974g5o",
+      "provider": "BBC",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "status": "pending",
+      "firstSeenAt": 1792769772.488106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dzrne574eo",
+      "provider": "BBC",
+      "title": "City of Culture win could 'put us on map', say locals Sheffield is in the running for a £10m prize fund to deliver a year of cultural events in 2029.",
+      "status": "pending",
+      "firstSeenAt": 1792769772.488705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cjp3g4nyv44lo",
+      "provider": "BBC",
+      "title": "Poulter leaves LIV as exodus of big names continues Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf. 54 mins ago Golf",
+      "status": "pending",
+      "firstSeenAt": 1792769772.5678494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5yz2pqqppo",
+      "provider": "BBC",
+      "title": "8 Burnham suggests stocking up on tinned food and bottled water",
+      "status": "pending",
+      "firstSeenAt": 1792769772.567994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/cwz0vn1yk235o",
+      "provider": "BBC",
+      "title": "World champion Jepchirchir fails drugs test Reigning world women's marathon champion Peres Jepchirchir is provisionally suspended by the Athletics Integrity Unit after a sample tests positive for EPO. 4 hrs ago Olympic Games",
+      "status": "pending",
+      "firstSeenAt": 1792769772.5681481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw8rz3eyn26po",
+      "provider": "BBC",
+      "title": "PSG v Lyon moved as Paris prepares for more protests Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests. 1 hr ago Football",
+      "status": "pending",
+      "firstSeenAt": 1792769772.5682433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792769772.718954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792769772.7193735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/23/texas-senate-ken-paxton-weakness",
+      "provider": "The Guardian",
+      "title": "double quotation mark A Democratic win in Texas is a long shot – but Ken Paxton’s weakness is obvious",
+      "status": "pending",
+      "firstSeenAt": 1792769772.7200081,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
