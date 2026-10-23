@@ -62754,9 +62754,41 @@
       "status": "pending",
       "firstSeenAt": 1792750209.5469031,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c875p1yy90ryo",
+      "provider": "BBC",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "status": "pending",
+      "firstSeenAt": 1792751820.1613288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/athletics/articles/cmgel5vd5gqno",
+      "provider": "BBC",
+      "title": "The World Treadmill Championship - pitching elite runners against amateurs Everyday runners are being given the chance to compete alongside elite athletes in the first World Treadmill Championship, a new global 5km competition. 5 hrs ago Athletics",
+      "status": "pending",
+      "firstSeenAt": 1792751820.241273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/finnish-24-hour-puppy-dog-newborn-livestream-tv-smash-hit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792751820.4441504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
+      "provider": "The Guardian",
+      "title": "double quotation mark America must reverse Trump’s moral squalor",
+      "status": "pending",
+      "firstSeenAt": 1792751820.4448757,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
