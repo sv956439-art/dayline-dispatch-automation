@@ -63594,9 +63594,65 @@
       "status": "pending",
       "firstSeenAt": 1792778903.8257859,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261022-the-norwegian-island-that-wanted-to-abolish-time",
+      "provider": "BBC",
+      "title": "The Norwegian island that wanted to abolish time Seven years after a bizarre plan to abolish time made headlines, what is life really like on this remote Arctic island?",
+      "status": "pending",
+      "firstSeenAt": 1792780865.1331732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792780865.5965817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792780865.5967412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/trump-third-term",
+      "provider": "The Guardian",
+      "title": "Trump again invokes claim he has the ‘right’ to run for third term as president",
+      "status": "pending",
+      "firstSeenAt": 1792780865.597158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/magda-szubanski-finding-acceptance/107264722",
+      "provider": "ABC News Australia",
+      "title": "Finding community saved a young Magda Szubanski's life",
+      "status": "pending",
+      "firstSeenAt": 1792780866.1082277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/abc-5050-quiz/107300724",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Testing your knowledge of Sense and Sensibility, Martian moons and whale parts",
+      "status": "pending",
+      "firstSeenAt": 1792780866.1082757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/127-year-old-sandstone-crest-restoration-darlinghurst-police-sta/107288600",
+      "provider": "ABC News Australia",
+      "title": "The Sydney workshop where hundred-year-old sculptures are made new",
+      "status": "pending",
+      "firstSeenAt": 1792780866.1083298,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
