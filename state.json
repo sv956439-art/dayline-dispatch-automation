@@ -63810,9 +63810,57 @@
       "status": "pending",
       "firstSeenAt": 1792786022.665783,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qk573yzz8o",
+      "provider": "BBC",
+      "title": "White House says the US is lifting tariffs on some Canadian goods Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+      "status": "pending",
+      "firstSeenAt": 1792787707.991006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7vpmn6qzmlo",
+      "provider": "BBC",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "status": "pending",
+      "firstSeenAt": 1792787707.991124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792787708.3142083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792787708.3142533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/victoria-brendan-nugent-helen-haines-attack/107302018",
+      "provider": "ABC News Australia",
+      "title": "How Brendan Nugent went from plant scientist to alleged attacker",
+      "status": "pending",
+      "firstSeenAt": 1792787708.713712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/sydney-marathon-champion-jepchirchir-provisional-ban-epo/107304266",
+      "provider": "ABC News Australia",
+      "title": "Sydney marathon champion Jepchirchir provisionally banned over EPO finding",
+      "status": "pending",
+      "firstSeenAt": 1792787708.715068,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
