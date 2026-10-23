@@ -62586,9 +62586,57 @@
       "status": "pending",
       "firstSeenAt": 1792744352.0922215,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98zn304zg7o",
+      "provider": "BBC",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say. 22 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1792746497.8699148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2wnk8ejq5o",
+      "provider": "BBC",
+      "title": "The small Indian town holding key to US energy needs US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
+      "status": "pending",
+      "firstSeenAt": 1792746497.871058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "provider": "BBC",
+      "title": "How birdwatching slows down brain ageing Birdwatching can help slow brain ageing and is increasingly being used as therapy for dementia patients.",
+      "status": "pending",
+      "firstSeenAt": 1792746497.871586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792746498.171376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576",
+      "provider": "ABC News Australia",
+      "title": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
+      "status": "pending",
+      "firstSeenAt": 1792746498.6593874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/aaron-kemp-denied-bail-alleged-hit-and-run-man-57-alice-springs/107301366",
+      "provider": "ABC News Australia",
+      "title": "Man allegedly bragged about having 'killed someone' after hit-and-run",
+      "status": "pending",
+      "firstSeenAt": 1792746498.659984,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
