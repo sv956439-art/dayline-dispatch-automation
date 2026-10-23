@@ -61978,9 +61978,97 @@
       "status": "pending",
       "firstSeenAt": 1792722711.0951684,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cke8r6543gplo",
+      "provider": "BBC",
+      "title": "Private care home investors a risk to public sector, regulator says US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service.",
+      "status": "pending",
+      "firstSeenAt": 1792724697.21254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/ukraine-war-briefing-uncertainty-over-kyivs-starlink-access-after-trump-claims-musk-restored-service",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service",
+      "status": "pending",
+      "firstSeenAt": 1792724697.6696732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/penny-wong-north-korea-company-sanctions/107301184",
+      "provider": "ABC News Australia",
+      "title": "Australia hits North Korean 'shadow bankers' with fresh sanctions",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4534116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/beau-lamarre-condon-trial-ex-cop-joked-about-shooting/107299482",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon told friend he'd 'killed people', court hears",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4535446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156",
+      "provider": "ABC News Australia",
+      "title": "Israelis are heading to the polls in their most seismic election in decades",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4536636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/michelle-landry-capricornia-retirement/107300492",
+      "provider": "ABC News Australia",
+      "title": "Nationals leader eyes lower house as Landry announces retirement",
+      "status": "pending",
+      "firstSeenAt": 1792724698.453724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/nsw-sydney-alan-jones-trial-court-mother-accuser/107299480",
+      "provider": "ABC News Australia",
+      "title": "Accuser's mother denies taking advantage of Jones's generosity",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4538474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/politics-forum-questions-young-voters-state-vic-election/107300674",
+      "provider": "ABC News Australia",
+      "title": "Forum offers peek behind political curtain ahead of election",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4547591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/no-concerns-before-alleged-hannah-beazley-threats-wa-police-say/107298992",
+      "provider": "ABC News Australia",
+      "title": "WA police chief says no concerns reported before alleged WA MP threats",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4548345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/inquest-finding-into-death-in-custody-nca-bomber-domenic-perre/107300588",
+      "provider": "ABC News Australia",
+      "title": "NCA bomber threatened to 'cough blood' onto doctors, coroner says",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4548812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/tt-line-writes-down-asset-value-spirit-tasmania-ferries/107299638",
+      "provider": "ABC News Australia",
+      "title": "Spirit ferries, terminals have millions wiped in major asset write-down",
+      "status": "pending",
+      "firstSeenAt": 1792724698.4554505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
