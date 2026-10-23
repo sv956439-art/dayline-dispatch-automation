@@ -63978,9 +63978,49 @@
       "status": "pending",
       "firstSeenAt": 1792794451.1388648,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60735zx137no",
+      "provider": "BBC",
+      "title": "How a fan's dying wish led a Dutch football team to a tartan kit FC Twente fans have made regular pilgrimages to Stranraer after a friendship formed by a terminally-ill supporter and two visiting Scots. 36 mins ago South Scotland",
+      "status": "pending",
+      "firstSeenAt": 1792796138.5193267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgj9ndwvj9jo",
+      "provider": "BBC",
+      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "status": "pending",
+      "firstSeenAt": 1792796138.519529,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdmrz00v7lo",
+      "provider": "BBC",
+      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams A newly earned special power left one contestant with a powerful decision to make in Friday's episode.",
+      "status": "pending",
+      "firstSeenAt": 1792796138.5199504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly093q3z2eo",
+      "provider": "BBC",
+      "title": "Six things to see and do in 'one of the most breathtaking places on Earth'",
+      "status": "pending",
+      "firstSeenAt": 1792796138.5199645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/fishing-competition-restricted-by-tides-at-port-hinchinbrook/107300824",
+      "provider": "ABC News Australia",
+      "title": "Barra Bonanza organisers eager for channel works after 15 years of silt",
+      "status": "pending",
+      "firstSeenAt": 1792796139.2565234,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
