@@ -62282,9 +62282,33 @@
       "status": "pending",
       "firstSeenAt": 1792731984.8095682,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxjk9yl82xo",
+      "provider": "BBC",
+      "title": "Graduates in their 60s say 'it's never too late' Angi Mariani, 60 and Angela Moss, 61, say age should not be a barrier to learning. Just now Suffolk",
+      "status": "pending",
+      "firstSeenAt": 1792733646.1539724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8dx3rkl131wo",
+      "provider": "BBC",
+      "title": "Slade star Dave Hill's debut album honours city Slade legend Dave Hill's first solo album celebrates Wolverhampton roots and personal stories.",
+      "status": "pending",
+      "firstSeenAt": 1792733646.155095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8rgp8g1k2o",
+      "provider": "BBC",
+      "title": "What books had people turning pages and turning up the volume this year?",
+      "status": "pending",
+      "firstSeenAt": 1792733646.1551206,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
