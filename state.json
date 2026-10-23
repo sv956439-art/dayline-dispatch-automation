@@ -63482,9 +63482,57 @@
       "status": "pending",
       "firstSeenAt": 1792773884.2592404,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6r7ylzp148eo",
+      "provider": "BBC",
+      "title": "Babydoll singer becomes first Welsh artist to top UK singles chart in 15 years Jamie Miller is the first Welsh artist since 2011 to earn a UK Number 1 single - after Sian Evans' feature on DJ Fresh's Louder.",
+      "status": "pending",
+      "firstSeenAt": 1792775736.5062416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89z8ppe8dgo",
+      "provider": "BBC",
+      "title": "2 hrs ago Plans for AI data centre approved by council There are concerns about water usage, but the company said it would be within suggested limits. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792775736.5729978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792775736.799174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792775736.7991877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792775736.7992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792775736.7992604,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
