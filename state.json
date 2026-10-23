@@ -63170,9 +63170,73 @@
       "status": "pending",
       "firstSeenAt": 1792763814.7313502,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgxkvl4w5eo",
+      "provider": "BBC",
+      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive. 14 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792765649.942792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qze4e1qe8o",
+      "provider": "BBC",
+      "title": "Cambridge professor lifts world tiddlywinks crown Prof Patrick Barrie has home advantage as he beats Dave \"The Dragon\" Lockwood of the US in a pub. 29 mins ago Cambridgeshire",
+      "status": "pending",
+      "firstSeenAt": 1792765649.943263,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq78pv0073dlo",
+      "provider": "BBC",
+      "title": "Carrick refuses to rule out dropping Fernandes in emotional address Manchester United boss Michael Carrick spoke for five minutes and 30 seconds without taking questions at the start of his media briefing to outline what the club means to him, then later refused to rule out dropping captain Bruno Fernandes.",
+      "status": "pending",
+      "firstSeenAt": 1792765649.9442182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmwyql6v5q82o",
+      "provider": "BBC",
+      "title": "Arsenal fear Saka could be out for two months",
+      "status": "pending",
+      "firstSeenAt": 1792765649.9442444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5ynqpg8j3go",
+      "provider": "BBC",
+      "title": "Health spending on Southampton taxis surges by 75%",
+      "status": "pending",
+      "firstSeenAt": 1792765650.027864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3r57wvy7ylo",
+      "provider": "BBC",
+      "title": "Airbnb host fined as guests put at 'serious' risk",
+      "status": "pending",
+      "firstSeenAt": 1792765650.0278926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8x23dyepd50o",
+      "provider": "BBC",
+      "title": "Douglas and Dublin mayors sign friendship agreement",
+      "status": "pending",
+      "firstSeenAt": 1792765650.0279176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/netanyahu-orders-major-attack-to-destroy-hebron/107303868",
+      "provider": "ABC News Australia",
+      "title": "Netanyahu orders major West Bank offensive after Hebron attack",
+      "status": "pending",
+      "firstSeenAt": 1792765651.1695604,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
