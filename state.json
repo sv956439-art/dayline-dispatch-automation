@@ -64082,9 +64082,65 @@
       "status": "pending",
       "firstSeenAt": 1792797278.8094592,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5zjxp1rjne8o",
+      "provider": "BBC",
+      "title": "Strictly's new presenters - after frosty reviews have they warmed up? Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
+      "status": "pending",
+      "firstSeenAt": 1792798853.2413144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792798853.788224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792798853.7888734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/helen-haines-condition-update/107304464",
+      "provider": "ABC News Australia",
+      "title": "Condition of Helen Haines has improved, hospital says",
+      "status": "pending",
+      "firstSeenAt": 1792798854.908161,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/shop-owner-finds-old-magnum-ego-ice-cream-in-freezer/107296604",
+      "provider": "ABC News Australia",
+      "title": "Nearly 30-year-old Magnum ice cream found in freezer",
+      "status": "pending",
+      "firstSeenAt": 1792798854.909015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/adelaide-echidnas-parks-and-reserves-suburbia-breeding/107302540",
+      "provider": "ABC News Australia",
+      "title": "Suburban echidnas on the prowl as breeding season stretches late",
+      "status": "pending",
+      "firstSeenAt": 1792798854.9096184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/wallaroos-send-retiring-pair-out-with-win-over-scotland/107304368",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos send retiring pair out with win over Scotland",
+      "status": "pending",
+      "firstSeenAt": 1792798854.909715,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
