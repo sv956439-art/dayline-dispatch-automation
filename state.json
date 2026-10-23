@@ -62202,9 +62202,89 @@
       "status": "pending",
       "firstSeenAt": 1792730151.422303,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq78pzdgk59mo",
+      "provider": "BBC",
+      "title": "Sadness as riverside tea rooms set to close The operator of Belper's Swiss Tea Rooms has decided not to continue with the lease. Just now Derbyshire",
+      "status": "pending",
+      "firstSeenAt": 1792731983.5692382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy4wlzqz3zo",
+      "provider": "BBC",
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say Officials say they both travelled through Entebbe International Airport on 3 October.",
+      "status": "pending",
+      "firstSeenAt": 1792731983.5697389,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792731983.7738645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792731983.7739983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/milan-unrest-italy-lost-generation-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792731983.7740216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792731983.7740443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792731983.7743976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/courtney-act-mosaic-revealed-national-portrait-gallery-canberra/107302258",
+      "provider": "ABC News Australia",
+      "title": "Discarded acrylic nails, beer can enshrined in mosaic of Aussie drag icon",
+      "status": "pending",
+      "firstSeenAt": 1792731984.8088737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/great-koala-national-park-legislation-passed/107296314",
+      "provider": "ABC News Australia",
+      "title": "NSW's second-largest national park created to protect koalas",
+      "status": "pending",
+      "firstSeenAt": 1792731984.8095188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/jury-delivers-verdict-in-cold-case-murder-johnson-jarvis/107251080",
+      "provider": "ABC News Australia",
+      "title": "Former cop found guilty of cold case murder of Warrnambool man",
+      "status": "pending",
+      "firstSeenAt": 1792731984.8095682,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
