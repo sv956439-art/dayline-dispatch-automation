@@ -62394,9 +62394,33 @@
       "status": "pending",
       "firstSeenAt": 1792735500.0623138,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792737616.8037632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/edward-james-mccoid-drunk-driving-tura-beach/107302120",
+      "provider": "ABC News Australia",
+      "title": "Man jailed for six years for killing friend in drunk driving crash",
+      "status": "pending",
+      "firstSeenAt": 1792737617.346175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/canberra-boy-sentenced-for-assaulting-bonner-jogger/107300272",
+      "provider": "ABC News Australia",
+      "title": "Teen jailed for sexually assaulting jogger while on bail",
+      "status": "pending",
+      "firstSeenAt": 1792737617.3462067,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
