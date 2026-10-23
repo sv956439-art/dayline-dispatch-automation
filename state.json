@@ -63058,9 +63058,81 @@
       "status": "pending",
       "firstSeenAt": 1792759040.561808,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260814-how-a-real-indiana-jones-claimed-he-had-found-the-ancient-lost-city-of-the-incas",
+      "provider": "BBC",
+      "title": "The 'real Indiana Jones' who found a lost city of the Incas In 1911, a US professor claimed he found the secret mountain stronghold of the last Incan king. Fifty-three years later, a new explorer proved him wrong – and the BBC followed in his footsteps.",
+      "status": "pending",
+      "firstSeenAt": 1792761500.6245239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+      "provider": "BBC",
+      "title": "The 27-year-old food scientist who became the first British person in space It's 35 years since Helen Sharman boarded a space capsule heading into orbit, all thanks to a job ad that she had stumbled upon.",
+      "status": "pending",
+      "firstSeenAt": 1792761500.6245532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck87zlpzny15o",
+      "provider": "BBC",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "status": "pending",
+      "firstSeenAt": 1792761500.62465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj6j98wgpn4o",
+      "provider": "BBC",
+      "title": "33 mins ago New rooftop bar plan to boost art gallery The proposed improvements are aimed at attracting more visitors to Hull's Humber Street Gallery. 33 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792761500.6917248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj0l12g6mlzo",
+      "provider": "BBC",
+      "title": "3 hrs ago Rare plaques discovered in hallway sell for £100k The plaques by Renaissance artist Francesco Xanto Avelli hung in a family home for years. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792761500.6917524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792761501.0158546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792761501.015868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
+      "provider": "The Guardian",
+      "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
+      "status": "pending",
+      "firstSeenAt": 1792761501.0161684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
+      "provider": "The Guardian",
+      "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
+      "status": "pending",
+      "firstSeenAt": 1792761501.016193,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
