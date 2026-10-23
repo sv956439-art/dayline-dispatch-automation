@@ -63962,9 +63962,25 @@
       "status": "pending",
       "firstSeenAt": 1792792901.2946346,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792794450.5271866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/succulent-boom-australia-online-plants-gardening/107282098",
+      "provider": "ABC News Australia",
+      "title": "Man with 10,000 succulents shares secrets to keeping them happy",
+      "status": "pending",
+      "firstSeenAt": 1792794451.1388648,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
