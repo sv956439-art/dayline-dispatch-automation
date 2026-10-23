@@ -62170,9 +62170,41 @@
       "status": "pending",
       "firstSeenAt": 1792728475.0722656,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/nsw-politicians-death-threats-helen-haines-attack/107300432",
+      "provider": "ABC News Australia",
+      "title": "MP always on guard after death threats made her feel 'physically sick'",
+      "status": "pending",
+      "firstSeenAt": 1792730151.4222083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/education-union-calls-on-politicians-stay-out-schools-christmas/107300834",
+      "provider": "ABC News Australia",
+      "title": "Union calls on MPs to stay out of schools unless premier apologises",
+      "status": "pending",
+      "firstSeenAt": 1792730151.4222448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/final-day-sa-police-commissioner-grant-stevens/107296016",
+      "provider": "ABC News Australia",
+      "title": "Grant Stevens ends four decades on the force in headquarters ceremony",
+      "status": "pending",
+      "firstSeenAt": 1792730151.422277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/anastasia-marshall-sentence/107300308",
+      "provider": "ABC News Australia",
+      "title": "Woman jailed for helping ex-wife's alleged murderer evade police",
+      "status": "pending",
+      "firstSeenAt": 1792730151.422303,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
