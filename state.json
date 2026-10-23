@@ -62514,9 +62514,81 @@
       "status": "pending",
       "firstSeenAt": 1792742502.3548028,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0ld9g9e913o",
+      "provider": "BBC",
+      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer. 43 mins ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792744350.494185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/cqn73kr2k284o",
+      "provider": "BBC",
+      "title": "James enjoys dream home debut in 76ers comeback win LeBron James says his home debut was \"everything that I dreamed of and more\" after the Philadelphia 76ers turned boos into cheers by overhauling a 29-point deficit to beat the Cleveland Cavaliers 114-106. 2 hrs ago Basketball",
+      "status": "pending",
+      "firstSeenAt": 1792744350.4947088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260724-the-british-double-agent-who-defected-to-russia-and-taught-enemy-spies",
+      "provider": "BBC",
+      "title": "Kim Philby: The British double agent who defected to Russia and taught enemy spies Kim Philby's defection to the Soviet Union was made public on 30 July 1963. In 2016, the BBC broadcast previously unseen footage of a lecture he gave to the Stasi.",
+      "status": "pending",
+      "firstSeenAt": 1792744350.4950302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260401-the-scientist-who-developed-the-polio-vaccine",
+      "provider": "BBC",
+      "title": "The scientist who developed the polio vaccine On 12 April 1955, Dr Jonas Salk announced that his vaccine was safe and effective – but he refused to profit from it.",
+      "status": "pending",
+      "firstSeenAt": 1792744350.4950628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260608-the-woman-who-sneaked-into-the-d-day-landings",
+      "provider": "BBC",
+      "title": "The woman who stowed away on a ship to report on D-Day US journalist Martha Gellhorn tricked officers so that she could write firsthand dispatches from Normandy in June 1944. In 1991, she told the BBC about her daring subterfuge.",
+      "status": "pending",
+      "firstSeenAt": 1792744350.4951117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
+      "provider": "BBC",
+      "title": "The Indian workers filming their work to train AI Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "status": "pending",
+      "firstSeenAt": 1792744350.4954004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crd6d7ey6v80o",
+      "provider": "BBC",
+      "title": "4 hrs ago New £15m museum charts history of Royal Marines The new exhibition in Portsmouth Historic Dockyard features artefacts and immersive displays. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792744350.6040144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/spain-floods-storm-adam-uk-storm-austen",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792744350.9159691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622",
+      "provider": "ABC News Australia",
+      "title": "Israel orders closure of West Bank following attack",
+      "status": "pending",
+      "firstSeenAt": 1792744352.0922215,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
