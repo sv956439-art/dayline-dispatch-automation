@@ -63714,9 +63714,81 @@
       "status": "pending",
       "firstSeenAt": 1792782927.115157,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
+      "provider": "BBC",
+      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+      "status": "pending",
+      "firstSeenAt": 1792784637.428894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5nq8g4q6do",
+      "provider": "BBC",
+      "title": "First storm of season brings day of disruption",
+      "status": "pending",
+      "firstSeenAt": 1792784637.428927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj0l193y0l8o",
+      "provider": "BBC",
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+      "status": "pending",
+      "firstSeenAt": 1792784637.428955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792784637.6380517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/storm-season-weather-intensifies-across-australia/107302350",
+      "provider": "ABC News Australia",
+      "title": "Weekend washout for most states as storm season intensifies",
+      "status": "pending",
+      "firstSeenAt": 1792784637.969858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/ukraine-latest/107304160",
+      "provider": "ABC News Australia",
+      "title": "Melania Trump brokers Oleshky ceasefire as Starshield row continues",
+      "status": "pending",
+      "firstSeenAt": 1792784637.9699209,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/advocates-react-to-kumanjayi-little-baby-report-findings/107301294",
+      "provider": "ABC News Australia",
+      "title": "'Full picture' missing from Kumanjayi Little Baby review, advocates say",
+      "status": "pending",
+      "firstSeenAt": 1792784637.969971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/watch-floodwaters-swallow-four-wheel-drive-in-six-minutes/107302040",
+      "provider": "ABC News Australia",
+      "title": "Gone in less than six minutes: Watch as floodwaters swallow four-wheel drive",
+      "status": "pending",
+      "firstSeenAt": 1792784637.970829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/tonga-lebanon-rugby-league-world-cup-blowouts/107303902",
+      "provider": "ABC News Australia",
+      "title": "In the wreckage of World Cup blowouts, hope is where you find it",
+      "status": "pending",
+      "firstSeenAt": 1792784637.970874,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
