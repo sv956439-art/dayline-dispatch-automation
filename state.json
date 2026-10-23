@@ -62306,9 +62306,97 @@
       "status": "pending",
       "firstSeenAt": 1792733646.1551206,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckdd83dz0153o",
+      "provider": "BBC",
+      "title": "Detective raped by colleague says Met handling of case 'like being raped again' Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women. 1 hr ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792735499.2306654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6y0ek284pdgo",
+      "provider": "BBC",
+      "title": "Have Man Utd become the unmanageable club?",
+      "status": "pending",
+      "firstSeenAt": 1792735499.232137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx4g179jvqp2o",
+      "provider": "BBC",
+      "title": "Malcolm Arnold 'should be better known' - Lloyd Webber The renowned cellist says the annual music festival is \"keeping Sir Malcolm's name alive\".",
+      "status": "pending",
+      "firstSeenAt": 1792735499.232291,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3y0eqkneze4o",
+      "provider": "BBC",
+      "title": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
+      "status": "pending",
+      "firstSeenAt": 1792735499.3333392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cre3x9e7gyq7o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792735499.33376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cmz98183w5zgo",
+      "provider": "BBC",
+      "title": "Brown out of NI Open after Donaldson defeat",
+      "status": "pending",
+      "firstSeenAt": 1792735499.3341398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792735499.4738362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792735499.4738598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792735499.4741929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/fortnite-epic-games-back-in-apple-app-store/107302160",
+      "provider": "ABC News Australia",
+      "title": "Fortnite returns to Apple's Australian app stores after landmark case",
+      "status": "pending",
+      "firstSeenAt": 1792735500.0622666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/wa-government-asks-for-answers-on-premier-coal-decision/107293050",
+      "provider": "ABC News Australia",
+      "title": "Coalmine's night operations shutdown 'disappointing' for government",
+      "status": "pending",
+      "firstSeenAt": 1792735500.0623138,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
