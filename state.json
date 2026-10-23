@@ -63954,9 +63954,17 @@
       "status": "pending",
       "firstSeenAt": 1792791127.2198553,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/masood-zakaria-afp-permanent-stay-hart-skytraders/107302232",
+      "provider": "ABC News Australia",
+      "title": "Spotlight on security contractor as $1m 'kidnapping' case heats up",
+      "status": "pending",
+      "firstSeenAt": 1792792901.2946346,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
