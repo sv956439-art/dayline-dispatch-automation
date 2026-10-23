@@ -61754,9 +61754,57 @@
       "status": "pending",
       "firstSeenAt": 1792713279.2600374,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
+      "provider": "BBC",
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "status": "pending",
+      "firstSeenAt": 1792714339.468433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkgjz3dpyj6o",
+      "provider": "BBC",
+      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "status": "pending",
+      "firstSeenAt": 1792714339.4684515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgd7d4p2vmo",
+      "provider": "BBC",
+      "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+      "status": "pending",
+      "firstSeenAt": 1792714339.468475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c30rlpkglkwpo",
+      "provider": "BBC",
+      "title": "3 hrs ago Gasps as Prince William makes surprise appearance on Graham Norton Show The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792714339.4685872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/dozens-arrested-over-illegal-casinos-drug-manufacturing/107300172",
+      "provider": "ABC News Australia",
+      "title": "Dozens arrested over illegal casino operations, drug trafficking",
+      "status": "pending",
+      "firstSeenAt": 1792714340.6193905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/deadly-fire-at-canadian-military-base-caused-by-grenade-exercise/107300328",
+      "provider": "ABC News Australia",
+      "title": "Deadly fire at Canadian military base caused by live grenade exercise",
+      "status": "pending",
+      "firstSeenAt": 1792714340.6194193,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
