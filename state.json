@@ -61954,9 +61954,33 @@
       "status": "pending",
       "firstSeenAt": 1792721012.1272507,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792722710.330383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910",
+      "provider": "ABC News Australia",
+      "title": "New York City bans horse-drawn carriages",
+      "status": "pending",
+      "firstSeenAt": 1792722711.095131,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-23/canberra-boy-in-court-for-alleged-knife-attack-on-peer/107300530",
+      "provider": "ABC News Australia",
+      "title": "Minister apologises for communication delay of alleged school knife attack",
+      "status": "pending",
+      "firstSeenAt": 1792722711.0951684,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
