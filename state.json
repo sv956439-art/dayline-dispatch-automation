@@ -63786,9 +63786,33 @@
       "status": "pending",
       "firstSeenAt": 1792784637.970874,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr7yz12g2vpo",
+      "provider": "BBC",
+      "title": "Monk on Welsh island gave naked photos of himself to visitors The monk denies sexually assaulting a visitor, who says he also gave her naked photos of himself. 15 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1792786022.0132313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/indian-citizen-slams-humilating-australian-visa-processes/107261012",
+      "provider": "ABC News Australia",
+      "title": "Indian citizen trying to settle brother's estate slams 'humiliating' visa process",
+      "status": "pending",
+      "firstSeenAt": 1792786022.6657097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/western-sydney-international-airport-80-years-of-protests-debate/107298012",
+      "provider": "ABC News Australia",
+      "title": "A flight leaving Sydney tomorrow was 80 years in the making",
+      "status": "pending",
+      "firstSeenAt": 1792786022.665783,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
