@@ -64018,9 +64018,73 @@
       "status": "pending",
       "firstSeenAt": 1792796139.2565234,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4g1jg4n9dno",
+      "provider": "BBC",
+      "title": "Are California voters about to impose world's first 'tax on billionaires'? Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "status": "pending",
+      "firstSeenAt": 1792797278.1871808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxyvrged14d0o",
+      "provider": "BBC",
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "status": "pending",
+      "firstSeenAt": 1792797278.1872141,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1dwz311476o",
+      "provider": "BBC",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "status": "pending",
+      "firstSeenAt": 1792797278.1872423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgx1ldvz5vo",
+      "provider": "BBC",
+      "title": "Britain's posh schools are heading to India for students and profits",
+      "status": "pending",
+      "firstSeenAt": 1792797278.1872683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj0leg7ng67o",
+      "provider": "BBC",
+      "title": "The artist dropping her debut album after a billion streams Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
+      "status": "pending",
+      "firstSeenAt": 1792797278.1879325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792797278.4218662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/darwin-home-owners-sell-property-possible-house-price-downturn/107295680",
+      "provider": "ABC News Australia",
+      "title": "Darwin home owners selling up in nation's 'strongest property market'",
+      "status": "pending",
+      "firstSeenAt": 1792797278.8093934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/drivers-celebrate-vintage-model-a-cars/107303644",
+      "provider": "ABC News Australia",
+      "title": "Vintage car rally celebrates the Ford Model A",
+      "status": "pending",
+      "firstSeenAt": 1792797278.8094592,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
