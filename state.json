@@ -63530,9 +63530,33 @@
       "status": "pending",
       "firstSeenAt": 1792775736.7992604,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm70p9r04r8wo",
+      "provider": "BBC",
+      "title": "Meghan statement offers answers after years of questions about her relationship with father Today, without exactly using the word, Meghan claimed vindication. 16 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792777455.7945707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqpvgdjrzx13o",
+      "provider": "BBC",
+      "title": "Celebrated Irish musician Dónal Lunny dies aged 79 A founding member of three renowned bands - The Bothy Band, Planxty and Moving Hearts - he was widely credited for the revival and growth of Irish traditional music.",
+      "status": "pending",
+      "firstSeenAt": 1792777455.7956405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792777456.0328496,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
