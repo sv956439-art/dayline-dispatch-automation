@@ -65850,9 +65850,97 @@
       "status": "pending",
       "firstSeenAt": 1792882879.303467,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg7w0x742do",
+      "provider": "BBC",
+      "title": "The bitter row over military service that could shape Israel's future The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government? 16 mins ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1792884027.52179,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw30ejqljl43o",
+      "provider": "BBC",
+      "title": "How one man became the unsung hero of the internet during a cyber-security scramble 14 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1792884027.5223377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx62y9j1zyjvo",
+      "provider": "BBC",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "status": "pending",
+      "firstSeenAt": 1792884027.5228083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65yn97xe7ypo",
+      "provider": "BBC",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "status": "pending",
+      "firstSeenAt": 1792884027.5228336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kg50nnj0x4o",
+      "provider": "BBC",
+      "title": "Why the charts are full of old songs - and so are your playlists The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "status": "pending",
+      "firstSeenAt": 1792884027.5235264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckzd6gvg1r2jo",
+      "provider": "BBC",
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign' The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy. 17 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792884027.5927017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry4x74987glo",
+      "provider": "BBC",
+      "title": "10 'Cancelling event was a hard decision but it was right'",
+      "status": "pending",
+      "firstSeenAt": 1792884027.5931013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792884027.9950325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792884027.9951649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/young-snooker-champion-angelo-tsakaris-8-ball-player-adam-grace/107291894",
+      "provider": "ABC News Australia",
+      "title": "Kids playing pool for Australia say there's not much time for homework",
+      "status": "pending",
+      "firstSeenAt": 1792884029.014935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/more-migrant-women-in-australia-in-jobs-overqualified-for/107303740",
+      "provider": "ABC News Australia",
+      "title": "Qualified migrant women forced into 'survival jobs' are paying price",
+      "status": "pending",
+      "firstSeenAt": 1792884029.0154626,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
