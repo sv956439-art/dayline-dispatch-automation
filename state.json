@@ -65042,9 +65042,57 @@
       "status": "pending",
       "firstSeenAt": 1792844147.1545787,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p3g9kle8pgo",
+      "provider": "BBC",
+      "title": "Sam Fender calls out ticket prices ahead of tour The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
+      "status": "pending",
+      "firstSeenAt": 1792846444.8865633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlylkkzl2neo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792846444.9678993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde869e8k34o",
+      "provider": "BBC",
+      "title": "10 What a spectre - Bond boys bounce around London",
+      "status": "pending",
+      "firstSeenAt": 1792846444.9680898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmvg6j9je3w4o",
+      "provider": "BBC",
+      "title": "Wales grind out frustrating WXV win against Japan Wales earn a three-try victory against Japan in tricky Tokyo conditions to secure a second win of their WXV campaign. 1 hr ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1792846444.968161,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792846445.3871987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/24/becky-barnicoat-on-scary-outfits-for-halloween-cartoon",
+      "provider": "The Guardian",
+      "title": "Becky Barnicoat on scary outfits for Halloween – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1792846445.387879,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
