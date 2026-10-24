@@ -65554,9 +65554,97 @@
       "status": "pending",
       "firstSeenAt": 1792872175.7484455,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6g7xy80e7m7o",
+      "provider": "BBC",
+      "title": "Strikers finding form as Rangers bounce back",
+      "status": "pending",
+      "firstSeenAt": 1792873497.0865335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4gv830j73do",
+      "provider": "BBC",
+      "title": "Hayen sacked by Burnley after just 14 games",
+      "status": "pending",
+      "firstSeenAt": 1792873497.0868442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cq62y3yr374yo",
+      "provider": "BBC",
+      "title": "Why winning ugly is just as important for Wales",
+      "status": "pending",
+      "firstSeenAt": 1792873497.086889,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmglw82kz4njo",
+      "provider": "BBC",
+      "title": "Huddersfield on top, but difficult days for Derby - Sam Parkin's EFL takeaways",
+      "status": "pending",
+      "firstSeenAt": 1792873497.0869868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/gymnastics/articles/cmly0dy8p370o",
+      "provider": "BBC",
+      "title": "Jarman wins historic men's floor silver at worlds",
+      "status": "pending",
+      "firstSeenAt": 1792873497.0870702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cjy56g5g6qw2o",
+      "provider": "BBC",
+      "title": "Leinster fight back to beat Munster in URC derby",
+      "status": "pending",
+      "firstSeenAt": 1792873497.087169,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm9dz97y5lv2o",
+      "provider": "BBC",
+      "title": "Ospreys thump Dragons on return to St Helen's",
+      "status": "pending",
+      "firstSeenAt": 1792873497.087226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784",
+      "provider": "ABC News Australia",
+      "title": "'Eyes moving west': Sydney's new airport opens to passengers today",
+      "status": "pending",
+      "firstSeenAt": 1792873497.9305031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/vic-labor-campaign-launch-health-hospital-investment/107304732",
+      "provider": "ABC News Australia",
+      "title": "Labor pitches $1.5 billion plan to slash emergency wait times",
+      "status": "pending",
+      "firstSeenAt": 1792873497.930544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/sa-sees-nations-largest-increase-in-regional-house-prices/107300928",
+      "provider": "ABC News Australia",
+      "title": "Some regions still climbing as nation sees record drop in house prices",
+      "status": "pending",
+      "firstSeenAt": 1792873497.9305818,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932",
+      "provider": "ABC News Australia",
+      "title": "Kim Jong Un crosses new bridge into China as trade ties warm",
+      "status": "pending",
+      "firstSeenAt": 1792873497.93062,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
