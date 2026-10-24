@@ -64906,9 +64906,89 @@
       "status": "pending",
       "firstSeenAt": 1792839866.1529963,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkg5md14j8go",
+      "provider": "BBC",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits The slowed Starlink connections had affected the Ukraine's military and drone operations for a week. 10 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792841309.7478523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm86z5n0yvy6o",
+      "provider": "BBC",
+      "title": "Mum dies after trying to rescue sons swept away at sea The children were subsequently rescued from the water, police say. 2 hrs ago Nottinghamshire",
+      "status": "pending",
+      "firstSeenAt": 1792841309.7479286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c5y43x20y0wjo",
+      "provider": "BBC",
+      "title": "Poor England suffer another Australia humiliation England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth.",
+      "status": "pending",
+      "firstSeenAt": 1792841309.7494118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck79p7zpwvx2o",
+      "provider": "BBC",
+      "title": "BBC and Netflix composer up for national award Guernsey's Thomas Farnon has been shortlisted for and award at the Ivors Composer Awards.",
+      "status": "pending",
+      "firstSeenAt": 1792841309.7496004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792841310.3230414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792841310.3233063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792841310.3233283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792841310.3234482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792841310.3234704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/tom-kean-new-jersey-rebecca-bennett",
+      "provider": "The Guardian",
+      "title": "Tom Kean had everything going for him. Then the Republican New Jersey congressman disappeared",
+      "status": "pending",
+      "firstSeenAt": 1792841310.323881,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
