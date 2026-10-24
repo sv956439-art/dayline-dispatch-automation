@@ -64226,9 +64226,105 @@
       "status": "pending",
       "firstSeenAt": 1792802590.8935049,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3gr84w85glyo",
+      "provider": "BBC",
+      "title": "How does the UK state pension compare with other countries? Do British pensioners have it better or worse than those in other countries?",
+      "status": "pending",
+      "firstSeenAt": 1792805045.5410614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqr7yeed1ed7o",
+      "provider": "BBC",
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "status": "pending",
+      "firstSeenAt": 1792805045.541096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792805045.660156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792805045.660181,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
+      "provider": "The Guardian",
+      "title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
+      "status": "pending",
+      "firstSeenAt": 1792805045.6612687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/wa-greens-senator-jordon-steele-john-will-not-attend-parliament/107304512",
+      "provider": "ABC News Australia",
+      "title": "WA Greens senator to miss parliament amid allegations",
+      "status": "pending",
+      "firstSeenAt": 1792805046.2863069,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/chermside-dog-attack-owner-elevated-fine-pitbull/107304420",
+      "provider": "ABC News Australia",
+      "title": "Owner of dogs that attacked man to face harsher state penalties",
+      "status": "pending",
+      "firstSeenAt": 1792805046.286545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/james-ashby-considers-one-nation-run-for-seat-of-capricornia/107304534",
+      "provider": "ABC News Australia",
+      "title": "Pauline Hanson's right-hand man weighs up Capricornia run",
+      "status": "pending",
+      "firstSeenAt": 1792805046.286674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/noodle-bar-induction-wok-demonstration-pitch-to-ditch-gas/107298694",
+      "provider": "ABC News Australia",
+      "title": "Free noodles lure Fremantle locals into a chat about ditching gas",
+      "status": "pending",
+      "firstSeenAt": 1792805046.2877588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/helen-haines-public-discourse-civility-respect-disagreeing/107301488",
+      "provider": "ABC News Australia",
+      "title": "Rediscovering civility, respect and the art of disagreeing well",
+      "status": "pending",
+      "firstSeenAt": 1792805046.2878492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/lauren-arnell-on-collingwood-magpies-standard-in-aflw/107304414",
+      "provider": "ABC News Australia",
+      "title": "Collingwood not the 'standard of AFLW that we expect to see', former coach says",
+      "status": "pending",
+      "firstSeenAt": 1792805046.2878742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/adelaide-film-festival-says-assault-was-homophobic-attack/107301804",
+      "provider": "ABC News Australia",
+      "title": "Assault on patron was homophobic attack, film festival says",
+      "status": "pending",
+      "firstSeenAt": 1792805046.2879195,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
