@@ -65146,9 +65146,33 @@
       "status": "pending",
       "firstSeenAt": 1792848102.7431695,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250917-why-the-most-controversial-queen-in-history-was-so-hated",
+      "provider": "BBC",
+      "title": "Why history's 'most controversial' queen was so hated Once the most despised woman in Europe, Marie Antoinette was vilified as a libertine, a conspirator and a spendthrift – then publicly executed. A new exhibition explores her story.",
+      "status": "pending",
+      "firstSeenAt": 1792849747.2524605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250714-why-the-virgin-queen-never-married",
+      "provider": "BBC",
+      "title": "Why the 'Virgin Queen' never married Elizabeth I is the only English queen never to have married. The iconic Tudor monarch's last visit to Kenilworth Castle 450 years ago may hold some clues.",
+      "status": "pending",
+      "firstSeenAt": 1792849747.2525153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/met-police-received-letter-about-meghan-markles-father/107305284",
+      "provider": "ABC News Australia",
+      "title": "Met Police received letter about Meghan Markle's father in 2019",
+      "status": "pending",
+      "firstSeenAt": 1792849747.9133356,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
