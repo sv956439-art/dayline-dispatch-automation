@@ -65002,9 +65002,49 @@
       "status": "pending",
       "firstSeenAt": 1792842948.3559635,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8g4060j6ko",
+      "provider": "BBC",
+      "title": "Halloween festival cancelled by storm after one night of macabre mayhem",
+      "status": "pending",
+      "firstSeenAt": 1792844146.8513958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5yz9z4vlyo",
+      "provider": "BBC",
+      "title": "Council charged after man killed by falling tree",
+      "status": "pending",
+      "firstSeenAt": 1792844146.8514137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9x28dgj2r0go",
+      "provider": "BBC",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "status": "pending",
+      "firstSeenAt": 1792844146.8514276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792844147.1545627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792844147.1545787,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
