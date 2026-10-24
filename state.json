@@ -65938,9 +65938,49 @@
       "status": "pending",
       "firstSeenAt": 1792884029.0154626,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cmy83yxw1jzgo",
+      "provider": "BBC",
+      "title": "Littler into Euros last eight, holder Van Veen out",
+      "status": "pending",
+      "firstSeenAt": 1792885327.1730824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqvgr87py7zvo",
+      "provider": "BBC",
+      "title": "Liverpool among clubs keen on Vuskovic - Sunday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792885327.1735346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckvg7j2p471lo",
+      "provider": "BBC",
+      "title": "Volkanovski stops Evloev for record ninth title win",
+      "status": "pending",
+      "firstSeenAt": 1792885327.1736183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/flood-warnings-queensland-braces-for-more-rain-storms/107306066",
+      "provider": "ABC News Australia",
+      "title": "Multiple flood warnings as Queensland braces for more wild weather",
+      "status": "pending",
+      "firstSeenAt": 1792885327.7183475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000",
+      "provider": "ABC News Australia",
+      "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+      "status": "pending",
+      "firstSeenAt": 1792885327.7192564,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
