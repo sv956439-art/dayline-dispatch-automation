@@ -64538,9 +64538,17 @@
       "status": "pending",
       "firstSeenAt": 1792820102.7155676,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm79p7x79wl9o",
+      "provider": "BBC",
+      "title": "Canada inflict back-to-back losses on England",
+      "status": "pending",
+      "firstSeenAt": 1792821692.9565632,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
