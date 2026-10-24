@@ -65090,9 +65090,65 @@
       "status": "pending",
       "firstSeenAt": 1792846445.387879,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ck4g15ql8gr8o",
+      "provider": "BBC",
+      "title": "New British number one Boulter loses Japan semi-final",
+      "status": "pending",
+      "firstSeenAt": 1792848102.3759942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
+      "provider": "BBC",
+      "title": "Plan for Northern Olympics to get Â£7m in Healey's Budget",
+      "status": "pending",
+      "firstSeenAt": 1792848102.3763943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cw5yn99z31elo",
+      "provider": "BBC",
+      "title": "Wales great Faletau suffers fresh injury blow",
+      "status": "pending",
+      "firstSeenAt": 1792848102.376506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cmy4x7zvv28ko",
+      "provider": "BBC",
+      "title": "Ferguson's first game as Glentoran boss postponed",
+      "status": "pending",
+      "firstSeenAt": 1792848102.377242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792848102.5211797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
+      "provider": "The Guardian",
+      "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
+      "status": "pending",
+      "firstSeenAt": 1792848102.5217328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276",
+      "provider": "ABC News Australia",
+      "title": "Ukraine says Starlink at normal speed after delays impede military",
+      "status": "pending",
+      "firstSeenAt": 1792848102.7431695,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
