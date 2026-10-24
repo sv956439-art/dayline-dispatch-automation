@@ -65354,9 +65354,49 @@
       "status": "pending",
       "firstSeenAt": 1792864116.4949176,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792865202.7994819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/women-cyclists-runners-stalking-exercise-apps/107295476",
+      "provider": "ABC News Australia",
+      "title": "Women report stalkers abusing exercise apps to harass them",
+      "status": "pending",
+      "firstSeenAt": 1792865203.5412521,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/helen-haines-mp-physical-and-mental-health-risks-study/107301126",
+      "provider": "ABC News Australia",
+      "title": "'Shouldn't have to wear a flak jacket': Haines spoke of risks to MPs before attack",
+      "status": "pending",
+      "firstSeenAt": 1792865203.5412972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/northern-territory-child-protection-review-report/107301678",
+      "provider": "ABC News Australia",
+      "title": "Ghosts of past reports linger for NT child protection review",
+      "status": "pending",
+      "firstSeenAt": 1792865203.541402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/kiwis-living-in-australia-set-to-vote-in-new-zealand-election/107256756",
+      "provider": "ABC News Australia",
+      "title": "Kiwi expats could prove crucial in New Zealand's 'knife edge' election",
+      "status": "pending",
+      "firstSeenAt": 1792865203.5414827,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
