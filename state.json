@@ -65170,9 +65170,33 @@
       "status": "pending",
       "firstSeenAt": 1792849747.9133356,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck4g14j85y9xo",
+      "provider": "BBC",
+      "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
+      "status": "pending",
+      "firstSeenAt": 1792850944.4686775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c6wyvpz0epywo",
+      "provider": "BBC",
+      "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
+      "status": "pending",
+      "firstSeenAt": 1792850944.4687076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792850944.852477,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
