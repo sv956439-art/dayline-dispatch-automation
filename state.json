@@ -65546,9 +65546,17 @@
       "status": "pending",
       "firstSeenAt": 1792871173.7832525,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/juukan-gorge-archaeological-dig-uncovering-ancient-secrets/107298466",
+      "provider": "ABC News Australia",
+      "title": "The extraordinary discoveries emerging from the ruins of Juukan Gorge",
+      "status": "pending",
+      "firstSeenAt": 1792872175.7484455,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
