@@ -64530,9 +64530,17 @@
       "status": "pending",
       "firstSeenAt": 1792818541.8327537,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck20rery78lro",
+      "provider": "BBC",
+      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+      "status": "pending",
+      "firstSeenAt": 1792820102.7155676,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
