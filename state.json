@@ -65770,9 +65770,33 @@
       "status": "pending",
       "firstSeenAt": 1792879013.38535,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cqn73k05xjx6o",
+      "provider": "BBC",
+      "title": "Britain's Smith retains title in split-decision win over Puello",
+      "status": "pending",
+      "firstSeenAt": 1792880040.3793077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/microforest-planted-with-1000-native-trees-at-broulee-school/107292384",
+      "provider": "ABC News Australia",
+      "title": "1,000 native trees planted to turn school playground into tiny forest",
+      "status": "pending",
+      "firstSeenAt": 1792880041.3096256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/boyer-lectures-louisa-lim-asian-australian-history/107302542",
+      "provider": "ABC News Australia",
+      "title": "Australia has an Asian history, too, you just have to look for it",
+      "status": "pending",
+      "firstSeenAt": 1792880041.3096535,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
