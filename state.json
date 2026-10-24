@@ -65482,9 +65482,41 @@
       "status": "pending",
       "firstSeenAt": 1792868579.0829728,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/tas-dementia-gardening-program-utas-wicking/107284502",
+      "provider": "ABC News Australia",
+      "title": "The Tasmanian garden helping people with dementia live well",
+      "status": "pending",
+      "firstSeenAt": 1792869903.386784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/cricketer-usman-khawaja-reveals-debilitating-illness/107163852",
+      "provider": "ABC News Australia",
+      "title": "Usman Khawaja reveals why he kept debilitating illness a secret",
+      "status": "pending",
+      "firstSeenAt": 1792869903.3870764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/mark-dennis-sent-disgusting-messages-to-cambodian-woman/107272778",
+      "provider": "ABC News Australia",
+      "title": "Accused paedophile barrister asked Cambodian woman to help find 'virgins'",
+      "status": "pending",
+      "firstSeenAt": 1792869903.3871634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/dreamworld-tragedy-witness-describes-sheer-panic-moment/107115330",
+      "provider": "ABC News Australia",
+      "title": "Dreamworld tragedy witness describes 'sheer panic' moment",
+      "status": "pending",
+      "firstSeenAt": 1792869903.3871973,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
