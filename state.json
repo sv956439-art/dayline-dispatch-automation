@@ -65514,9 +65514,41 @@
       "status": "pending",
       "firstSeenAt": 1792869903.3871973,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c95ynd587ynzo",
+      "provider": "BBC",
+      "title": "Clashes erupt in Paris after largely peaceful protests across France Officials have so far managed to avoid a repeat of last weekend's rioting and looting during renewed protests over the cost of living and school conditions.",
+      "status": "pending",
+      "firstSeenAt": 1792871173.082202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792871173.3091724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/us-midterm-elections-donald-trump-losing-support-among-young-men/107299276",
+      "provider": "ABC News Australia",
+      "title": "Trump's waning support among young men could hurt Republicans",
+      "status": "pending",
+      "firstSeenAt": 1792871173.7828982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824",
+      "provider": "ABC News Australia",
+      "title": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
+      "status": "pending",
+      "firstSeenAt": 1792871173.7832525,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
