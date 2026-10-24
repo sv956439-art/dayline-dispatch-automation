@@ -65394,9 +65394,81 @@
       "status": "pending",
       "firstSeenAt": 1792865203.5414827,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250226-edward-ii-did-a-gay-love-affair-spark-a-14th-century-royal-crisis",
+      "provider": "BBC",
+      "title": "Did a gay affair stir a 14th-Century royal crisis? A revival of Christopher Marlowe's pioneering play about the 14th-Century King of England puts the spotlight back on his relationship with his male \"favourite\" Piers Gaveston.",
+      "status": "pending",
+      "firstSeenAt": 1792866791.7895312,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king",
+      "provider": "BBC",
+      "title": "The forgotten first king of England In his lifetime, the first king of England was renowned throughout Europe. But over the centuries, he has been sidelined by history.",
+      "status": "pending",
+      "firstSeenAt": 1792866791.7895842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqwy7x6e672eo",
+      "provider": "BBC",
+      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+      "status": "pending",
+      "firstSeenAt": 1792866791.7903042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwgkv8yx4dg8o",
+      "provider": "BBC",
+      "title": "Leaving the technical area? Arteta has the receipts",
+      "status": "pending",
+      "firstSeenAt": 1792866791.7903488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792866791.9944735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/24/manhunt-under-way-to-find-prisoner-who-absconded-from-medical-facility",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792866791.9952621,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/muster-dogs-trainer-lures-farmers-across-country-for-school/107291488",
+      "provider": "ABC News Australia",
+      "title": "Farmers cross country for training tips from ABC Muster Dogs expert",
+      "status": "pending",
+      "firstSeenAt": 1792866792.3252301,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/bryn-terfel-bass-baritone-wales-opera/107289112",
+      "provider": "ABC News Australia",
+      "title": "Why Wales will always come first for Sir Bryn Terfel",
+      "status": "pending",
+      "firstSeenAt": 1792866792.3252783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/wordage-quiz-alcohol/107292056",
+      "provider": "ABC News Australia",
+      "title": "ABC Wordage quiz: It's time to raise a glass",
+      "status": "pending",
+      "firstSeenAt": 1792866792.3253243,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
