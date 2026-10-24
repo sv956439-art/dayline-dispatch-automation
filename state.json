@@ -65642,9 +65642,41 @@
       "status": "pending",
       "firstSeenAt": 1792873497.93062,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/1000-arrested-in-france-protests/107305868",
+      "provider": "ABC News Australia",
+      "title": "Almost 1,000 arrests in protests across France",
+      "status": "pending",
+      "firstSeenAt": 1792874924.329954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/bradman-best-rugby-league-world-cup-debut-childhood-dream/107301154",
+      "provider": "ABC News Australia",
+      "title": "Picture proves Best has been waiting for Aussie debut since year 6",
+      "status": "pending",
+      "firstSeenAt": 1792874924.3304048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/infantino-says-supported-vast-majority-soccer-fifa-elections/107305904",
+      "provider": "ABC News Australia",
+      "title": "Infantino claims support of 'vast majority' of soccer ahead of FIFA elections",
+      "status": "pending",
+      "firstSeenAt": 1792874924.3304408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/isaac-humphries-nbl-retirement-was-made-inevitable-by-injury/107300468",
+      "provider": "ABC News Australia",
+      "title": "36er knew his NBL days were numbered when he had the 'most pain ever'",
+      "status": "pending",
+      "firstSeenAt": 1792874924.3304653,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
