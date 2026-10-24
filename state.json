@@ -64434,9 +64434,25 @@
       "status": "pending",
       "firstSeenAt": 1792811713.6348724,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/modern-life-is-stuck-in-a-sea-of-sameness-the-pursuit-of-beauty-is-a-necessary-antidote",
+      "provider": "The Guardian",
+      "title": "double quotation mark Modern life is stuck in a sea of sameness. The pursuit of beauty is a necessary antidote",
+      "status": "pending",
+      "firstSeenAt": 1792813533.1992543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/former-port-adelaide-afl-player-daniel-stewart-dies-at-37/107304782",
+      "provider": "ABC News Australia",
+      "title": "Former Port Adelaide AFL player Daniel Stewart dies at 37",
+      "status": "pending",
+      "firstSeenAt": 1792813533.746646,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
