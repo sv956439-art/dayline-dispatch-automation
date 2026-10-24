@@ -65730,9 +65730,49 @@
       "status": "pending",
       "firstSeenAt": 1792877519.2202365,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c9ly0dxxgp7lo",
+      "provider": "BBC",
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "status": "pending",
+      "firstSeenAt": 1792879012.2992725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792879012.5041258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/valkyries-shut-down-dream-in-game-4-to-square-wnba-finals/107305956",
+      "provider": "ABC News Australia",
+      "title": "Valkyries shut down Borlase's Dream to square WNBA Finals",
+      "status": "pending",
+      "firstSeenAt": 1792879013.3852644,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/adelaide-youth-orchestra-southern-flinders-students-concert/107301252",
+      "provider": "ABC News Australia",
+      "title": "Regional students band together for unique performance",
+      "status": "pending",
+      "firstSeenAt": 1792879013.385304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
+      "provider": "ABC News Australia",
+      "title": "Authors paid hundreds to publish their books, but allege 'crap' service and AI art",
+      "status": "pending",
+      "firstSeenAt": 1792879013.38535,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
