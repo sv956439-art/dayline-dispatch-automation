@@ -65346,9 +65346,17 @@
       "status": "pending",
       "firstSeenAt": 1792862758.0031493,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/restaurant-bar-food-wine-eat-out-cost-of-living-independent/107293874",
+      "provider": "ABC News Australia",
+      "title": "'Did we do well today?': This is what it takes to keep an independent restaurant open",
+      "status": "pending",
+      "firstSeenAt": 1792864116.4949176,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
