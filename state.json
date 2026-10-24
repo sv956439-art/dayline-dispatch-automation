@@ -64826,9 +64826,49 @@
       "status": "pending",
       "firstSeenAt": 1792833923.9117076,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c317kxyknwp2o",
+      "provider": "BBC",
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "status": "pending",
+      "firstSeenAt": 1792835657.1098359,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv0ld9571511o",
+      "provider": "BBC",
+      "title": "Three released without charge after fatal arson attack",
+      "status": "pending",
+      "firstSeenAt": 1792835657.1098688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cv0ld9y3g426o",
+      "provider": "BBC",
+      "title": "No panic for England but Mitchell issues PWR warning",
+      "status": "pending",
+      "firstSeenAt": 1792835657.1104226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792835657.354696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792835657.3548324,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
