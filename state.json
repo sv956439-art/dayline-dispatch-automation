@@ -64658,9 +64658,33 @@
       "status": "pending",
       "firstSeenAt": 1792827694.6121635,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqev39xvmegeo",
+      "provider": "BBC",
+      "title": "The 'most haunted' pubs and hotels where guests cannot explain encounters",
+      "status": "pending",
+      "firstSeenAt": 1792829189.7227345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwy713z40kzo",
+      "provider": "BBC",
+      "title": "Air passenger numbers to August up by 12%",
+      "status": "pending",
+      "firstSeenAt": 1792829189.7227685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/jillaroos-england-rugby-league-world-cup-live/107305106",
+      "provider": "ABC News Australia",
+      "title": "Jillaroos to face England as World Cup demolitions continue",
+      "status": "pending",
+      "firstSeenAt": 1792829190.819683,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
