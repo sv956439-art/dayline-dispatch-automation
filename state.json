@@ -64714,9 +64714,65 @@
       "status": "pending",
       "firstSeenAt": 1792830812.1658585,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cr93zwx9pzv9o",
+      "provider": "BBC",
+      "title": "England thrash France to keep alive World Cup hopes",
+      "status": "pending",
+      "firstSeenAt": 1792832491.9729896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw80zx79nkvno",
+      "provider": "BBC",
+      "title": "How Brazil's changing working class is reshaping the presidential race Calls for change present a challenge to President Lula in the second round of the election on Sunday. 4 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792832492.069721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy83v286571o",
+      "provider": "BBC",
+      "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
+      "status": "pending",
+      "firstSeenAt": 1792832492.069862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cwe9ldpmeljyo",
+      "provider": "BBC",
+      "title": "Smith v Puello world title fight predictions Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello. 2 hrs ago Boxing",
+      "status": "pending",
+      "firstSeenAt": 1792832492.070439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck240l3n774zo",
+      "provider": "BBC",
+      "title": "Why Tottenham v Arsenal could define their seasons With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792832492.0705106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792832492.2660096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/donna-nelson-family-happy-return-home/107305034",
+      "provider": "ABC News Australia",
+      "title": "Daughters joyful to 'breathe same air' as Donna Nelson returns to Perth",
+      "status": "pending",
+      "firstSeenAt": 1792832492.8811445,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
