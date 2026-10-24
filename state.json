@@ -64770,9 +64770,65 @@
       "status": "pending",
       "firstSeenAt": 1792832492.8811445,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cq5ynjgkn68vo",
+      "provider": "BBC",
+      "title": "Volkanovski nears featherweight immortality as record beckons",
+      "status": "pending",
+      "firstSeenAt": 1792833922.601368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cknv01g9n27do",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1792833922.6014335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjx23d4p2v3go",
+      "provider": "BBC",
+      "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
+      "status": "pending",
+      "firstSeenAt": 1792833922.60162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqrkyl1gp4leo",
+      "provider": "BBC",
+      "title": "Latte Lath's journey from street games and Carrick to new start in Germany",
+      "status": "pending",
+      "firstSeenAt": 1792833922.6016526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c65ynq95xdw5o",
+      "provider": "BBC",
+      "title": "'Best team in the Championship' - Boro lay down marker",
+      "status": "pending",
+      "firstSeenAt": 1792833922.6019669,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792833923.0680842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190",
+      "provider": "ABC News Australia",
+      "title": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
+      "status": "pending",
+      "firstSeenAt": 1792833923.9117076,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
