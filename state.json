@@ -64354,9 +64354,49 @@
       "status": "pending",
       "firstSeenAt": 1792807003.1193595,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c670pr1ryxyno",
+      "provider": "BBC",
+      "title": "Australian MP's condition improves after alleged car attack The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "status": "pending",
+      "firstSeenAt": 1792808358.8518558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792808359.0596619,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792808359.060121,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/make-ahead-dessert-almost-no-baking-cheesecake-natalie-paull/107181848",
+      "provider": "ABC News Australia",
+      "title": "'It just takes time to set': An easy cheesecake recipe for summer",
+      "status": "pending",
+      "firstSeenAt": 1792808359.498942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/australian-cattle-prices-hit-record-highs-as-rain-tumbles-down/107303254",
+      "provider": "ABC News Australia",
+      "title": "Cattle prices hit 'a new gear' as rain tumbles down",
+      "status": "pending",
+      "firstSeenAt": 1792808359.499453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
