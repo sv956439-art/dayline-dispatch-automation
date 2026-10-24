@@ -64634,9 +64634,33 @@
       "status": "pending",
       "firstSeenAt": 1792825930.1357305,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn8w1ddg2x9o",
+      "provider": "BBC",
+      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
+      "status": "pending",
+      "firstSeenAt": 1792827694.2464178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/baseball/articles/cwe8lnp78jgko",
+      "provider": "BBC",
+      "title": "Fastest pitch in World Series history as Brewers win opener",
+      "status": "pending",
+      "firstSeenAt": 1792827694.246782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+      "provider": "The Guardian",
+      "title": "double quotation mark As Trump’s time runs out, this could be his most dangerous legacy: a world divided into three",
+      "status": "pending",
+      "firstSeenAt": 1792827694.6121635,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
