@@ -64490,9 +64490,49 @@
       "status": "pending",
       "firstSeenAt": 1792816883.695805,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61kd0r20gg7o",
+      "provider": "BBC",
+      "title": "Ghosts film was not the plan, says starring actor Mathew Baynton says the group had decided not to continue, until the cast met one more time.",
+      "status": "pending",
+      "firstSeenAt": 1792818540.9007647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792818541.321852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792818541.3219836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792818541.3219945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/final-fantasy-xiv-australian-oceania-server/107301548",
+      "provider": "ABC News Australia",
+      "title": "How a data centre united Australia's gaming community",
+      "status": "pending",
+      "firstSeenAt": 1792818541.8327537,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
