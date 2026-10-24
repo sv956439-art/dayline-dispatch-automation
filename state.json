@@ -64882,9 +64882,25 @@
       "status": "pending",
       "firstSeenAt": 1792836785.7522933,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6q8nd9g9n72o",
+      "provider": "BBC",
+      "title": "Infantino says he is backed by 'vast majority' Fifa President Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle. 9 mins ago Football",
+      "status": "pending",
+      "firstSeenAt": 1792838413.6371505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm2l4vq9k84yo",
+      "provider": "BBC",
+      "title": "Kompany recovery will take 'weeks' as tests continue",
+      "status": "pending",
+      "firstSeenAt": 1792838413.6381128,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
