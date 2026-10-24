@@ -65194,9 +65194,25 @@
       "status": "pending",
       "firstSeenAt": 1792850944.852477,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
+      "provider": "BBC",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "status": "pending",
+      "firstSeenAt": 1792853931.6290653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future",
+      "provider": "The Guardian",
+      "title": "‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price",
+      "status": "pending",
+      "firstSeenAt": 1792853931.8749173,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
