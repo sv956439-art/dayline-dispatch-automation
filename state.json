@@ -64450,9 +64450,41 @@
       "status": "pending",
       "firstSeenAt": 1792813533.746646,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
+      "provider": "BBC",
+      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany. 21 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792815220.4031944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62yv5k0w4yo",
+      "provider": "BBC",
+      "title": "France prepares for day of protest a week after nationwide riots More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+      "status": "pending",
+      "firstSeenAt": 1792815220.4041872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/bracknell-football-club-coach-rape-charges/107304822",
+      "provider": "ABC News Australia",
+      "title": "Tasmanian football club coach charged with rape",
+      "status": "pending",
+      "firstSeenAt": 1792815221.107221,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178",
+      "provider": "ABC News Australia",
+      "title": "Years of conflict splits voters in former Netanyahu stronghold",
+      "status": "pending",
+      "firstSeenAt": 1792815221.1080253,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
