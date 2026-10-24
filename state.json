@@ -64898,9 +64898,17 @@
       "status": "pending",
       "firstSeenAt": 1792838413.6381128,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g1k9p01g1o",
+      "provider": "BBC",
+      "title": "2 hrs ago Plea for funding for popular disabled dance school Kate Stanforth needs to raise £20,000  to keep academy running and make dance 'genuinely accessible'. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792839866.1529963,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
