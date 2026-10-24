@@ -65794,9 +65794,25 @@
       "status": "pending",
       "firstSeenAt": 1792880041.3096535,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqy7lvp7n57lo",
+      "provider": "BBC",
+      "title": "Antonelli takes US pole on weekend he can win title Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+      "status": "pending",
+      "firstSeenAt": 1792881602.428702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/adf-army-recruitment-rates-rising-despite-war",
+      "provider": "The Guardian",
+      "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up?",
+      "status": "pending",
+      "firstSeenAt": 1792881602.771903,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
