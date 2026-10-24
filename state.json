@@ -64138,9 +64138,41 @@
       "status": "pending",
       "firstSeenAt": 1792798854.909715,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g1eplpvddo",
+      "provider": "BBC",
+      "title": "Argentina drops investigation into President Milei over crypto fraud Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it. 3 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792800114.726813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/capel-mother-calls-for-longer-type-1-diabetes-school-support/107296556",
+      "provider": "ABC News Australia",
+      "title": "Education support limit frustrates parents with type 1 diabetic children",
+      "status": "pending",
+      "firstSeenAt": 1792800116.046603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442",
+      "provider": "ABC News Australia",
+      "title": "NSW rail timetable changes axed after backlash from commuters",
+      "status": "pending",
+      "firstSeenAt": 1792800116.0467408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/man-extradited-from-poland-to-face-murder-charge-in-australia/107304342",
+      "provider": "ABC News Australia",
+      "title": "Man extradited from Poland to face murder charge in Australia",
+      "status": "pending",
+      "firstSeenAt": 1792800116.046778,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
