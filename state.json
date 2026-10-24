@@ -64394,9 +64394,41 @@
       "status": "pending",
       "firstSeenAt": 1792808359.499453,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792810326.7692232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
+      "status": "pending",
+      "firstSeenAt": 1792810326.770322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/elon-musk-us-midterm-elections-donald-trump-republicans/107298614",
+      "provider": "ABC News Australia",
+      "title": "Elon Musk has a lot to lose at US midterms as pollsters tip blue wave",
+      "status": "pending",
+      "firstSeenAt": 1792810327.226026,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/premier-cabinet-change-amanda-stoker-camm-child-safety-dv/107304396",
+      "provider": "ABC News Australia",
+      "title": "Amanda Stoker to replace Amanda Camm as child safety and DV minister",
+      "status": "pending",
+      "firstSeenAt": 1792810327.2263744,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
