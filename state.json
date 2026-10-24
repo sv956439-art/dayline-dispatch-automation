@@ -64322,9 +64322,41 @@
       "status": "pending",
       "firstSeenAt": 1792805046.2879195,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyvjeke0g4o",
+      "provider": "BBC",
+      "title": "4 hrs ago Russell T Davies says he gets daily hate messages for supporting trans rights The Doctor Who writer says his latest mini-series TipToe has fuelled daily hate messages online. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792807002.456767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792807002.6090837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/north-korea-new-yalu-river-bridge-russia-china",
+      "provider": "The Guardian",
+      "title": "North Korea has opened up bridges to Russia and China – in which direction will it go?",
+      "status": "pending",
+      "firstSeenAt": 1792807002.6093013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/rescuers-search-for-survivors-after-earthquake-in-tibet/107304378",
+      "provider": "ABC News Australia",
+      "title": "Number of injured rises to 76 after deadly earthquake in Tibet",
+      "status": "pending",
+      "firstSeenAt": 1792807003.1193595,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
