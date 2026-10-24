@@ -65274,9 +65274,73 @@
       "status": "pending",
       "firstSeenAt": 1792859811.9526293,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6p9gkdzzpnro",
+      "provider": "BBC",
+      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2476127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm93zw44d33do",
+      "provider": "BBC",
+      "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2477245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cv5yn9nw17d0o",
+      "provider": "BBC",
+      "title": "'We had to change after Vegas' - but England suffer another humbling",
+      "status": "pending",
+      "firstSeenAt": 1792861375.247873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwj0ly57n62ro",
+      "provider": "BBC",
+      "title": "Resurgent Tigers overpower Saints in derby downpour",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2479348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ckz7xn4xep1go",
+      "provider": "BBC",
+      "title": "Monfils defends Svitolina after 'venomous' criticism",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2479525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6ly353442neo",
+      "provider": "BBC",
+      "title": "Six-try Ireland beat South Africa in Cape Town",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2479696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmd7q47dd0e7o",
+      "provider": "BBC",
+      "title": "Spurs boss Ho wants 'more support and training' for WSL referees",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2480402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cvx28ex38x7ko",
+      "provider": "BBC",
+      "title": "Erasmus' 156 not out helps Namibia defeat Ireland",
+      "status": "pending",
+      "firstSeenAt": 1792861375.2480824,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
