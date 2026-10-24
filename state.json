@@ -65698,9 +65698,41 @@
       "status": "pending",
       "firstSeenAt": 1792876054.4416971,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmj6jwe1j1gjo",
+      "provider": "BBC",
+      "title": "Obama hits campaign trail to stump for Democrats as midterm election nears Both Barack Obama and Donald Trump are hitting the campaign trail to stump for their party's candidates ahead of the 3 November midterm elections.",
+      "status": "pending",
+      "firstSeenAt": 1792877518.4658213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqev38dz34vxo",
+      "provider": "BBC",
+      "title": "Highest position since early January - are Spurs finally on way back?",
+      "status": "pending",
+      "firstSeenAt": 1792877518.4662786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464",
+      "provider": "ABC News Australia",
+      "title": "Four injured in drive-by shooting south of Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1792877519.2193315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/yakka-skink-fencing-project-increases-population/107300670",
+      "provider": "ABC News Australia",
+      "title": "Skink havens offer hope for Australia's struggling reptiles",
+      "status": "pending",
+      "firstSeenAt": 1792877519.2202365,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
