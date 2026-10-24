@@ -65266,9 +65266,17 @@
       "status": "pending",
       "firstSeenAt": 1792858234.526805,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rl9r59g0do",
+      "provider": "BBC",
+      "title": "Six Flags adding seat belts to Goliath rollercoaster following death The CEO of the amusement park chain said the company is evaluating its safety procedures at all of its 34 locations, including adding seat belts to some rides.",
+      "status": "pending",
+      "firstSeenAt": 1792859811.9526293,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
