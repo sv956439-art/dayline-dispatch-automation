@@ -65810,9 +65810,49 @@
       "status": "pending",
       "firstSeenAt": 1792881602.771903,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9zrdknlmpdlo",
+      "provider": "BBC",
+      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea? More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
+      "status": "pending",
+      "firstSeenAt": 1792882878.6885607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792882878.8889637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/love-story-it-started-with-a-blind-date/107285368",
+      "provider": "ABC News Australia",
+      "title": "We both overpromised our physical attributes in an email. It led to love",
+      "status": "pending",
+      "firstSeenAt": 1792882879.3033688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/sam-konstas-cracks-yet-another-century-one-day-cup/107306058",
+      "provider": "ABC News Australia",
+      "title": "Konstas crunches another ton for NSW, pushing case for Test recall",
+      "status": "pending",
+      "firstSeenAt": 1792882879.303419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/adelaide-built-patrol-ship-completes-freedom-ceremony/107302816",
+      "provider": "ABC News Australia",
+      "title": "Navigator steers home latest patrol ship in centuries-old ceremony",
+      "status": "pending",
+      "firstSeenAt": 1792882879.303467,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
