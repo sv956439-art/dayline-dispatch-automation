@@ -64986,9 +64986,25 @@
       "status": "pending",
       "firstSeenAt": 1792841310.323881,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wz740e0nyo",
+      "provider": "BBC",
+      "title": "Police confirm letter received in 2019 with claims about Meghan's father The Met said it passed information to the duchess but did not share it with other law enforcement agencies. 9 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792842948.355514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwq6n09qpy90o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792842948.3559635,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
