@@ -64586,9 +64586,57 @@
       "status": "pending",
       "firstSeenAt": 1792823400.856556,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0ld9nx5djjo",
+      "provider": "BBC",
+      "title": "54 mins ago Manx designer inspired by island's folklore and history Bethany Williams's latest fashion collection is inspired by Manx folklore and history. 54 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1792825929.967963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x234enjy32o",
+      "provider": "BBC",
+      "title": "1 hr ago Student's dresses get star treatment at awards Strictly dancer Lauren Oakley and singer Elle Exxe wore the designs at the Pride of Britain Awards. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792825929.967998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89zx1nyvwyo",
+      "provider": "BBC",
+      "title": "1 hr ago Last known sword maker hopes to pass craft on Frank Lee believes he is the only person making the swords so integral to the North East. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792825929.968028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792825930.1353266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792825930.1353521,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/24/violence-intimidation-and-fear-10-years-on-from-the-jungle-life-in-calais-migrant-camps-is-harsher-than-ever",
+      "provider": "The Guardian",
+      "title": "Violence, intimidation and fear: 10 years on from the ‘Jungle’, life in Calais migrant camps is harsher than ever",
+      "status": "pending",
+      "firstSeenAt": 1792825930.1357305,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
