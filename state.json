@@ -65466,9 +65466,25 @@
       "status": "pending",
       "firstSeenAt": 1792866792.3253243,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/24/major-protests-in-paris-and-other-french-cities-in-challenge-to-emmanuel-macron",
+      "provider": "The Guardian",
+      "title": "Major protests in Paris and other French cities in challenge to Macron – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1792868578.6749115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/tarrawingee-neighbours-helen-haines-brendan-nugent-attack/107299624",
+      "provider": "ABC News Australia",
+      "title": "Tarrawingee tries to make sense of attack on local member Helen Haines",
+      "status": "pending",
+      "firstSeenAt": 1792868579.0829728,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
