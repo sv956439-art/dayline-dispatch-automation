@@ -64866,9 +64866,25 @@
       "status": "pending",
       "firstSeenAt": 1792835657.3548324,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792836785.342113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-24/wa-premier-roger-cook-port-hedland-after-pressure/107292620",
+      "provider": "ABC News Australia",
+      "title": "WA premier confronted by South Hedland community members",
+      "status": "pending",
+      "firstSeenAt": 1792836785.7522933,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
