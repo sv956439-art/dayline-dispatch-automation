@@ -66890,9 +66890,33 @@
       "status": "pending",
       "firstSeenAt": 1792940971.1142862,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdmj1ej715o",
+      "provider": "BBC",
+      "title": "Early reports suggest record high turnout in Serbia elections Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić. 28 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792942505.0407908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e3xek2457wo",
+      "provider": "BBC",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "status": "pending",
+      "firstSeenAt": 1792942505.041282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/cmq5ny00gzy0o",
+      "provider": "BBC",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "status": "pending",
+      "firstSeenAt": 1792942505.1156719,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
