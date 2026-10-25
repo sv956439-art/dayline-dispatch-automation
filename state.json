@@ -67218,9 +67218,97 @@
       "status": "pending",
       "firstSeenAt": 1792955847.0044737,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6kg5jmrzd2jo",
+      "provider": "BBC",
+      "title": "Pressure grows on Sage as fans turn on Palace boss",
+      "status": "pending",
+      "firstSeenAt": 1792957310.7216089,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crwyd857p00yo",
+      "provider": "BBC",
+      "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
+      "status": "pending",
+      "firstSeenAt": 1792957310.7219977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmq5nyywq8n1o",
+      "provider": "BBC",
+      "title": "Marchant recalled by Borthwick for England training camp",
+      "status": "pending",
+      "firstSeenAt": 1792957310.7220702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/crjwe6j90p9lo",
+      "provider": "BBC",
+      "title": "Smith stars as Quins beat Saracens for first win",
+      "status": "pending",
+      "firstSeenAt": 1792957310.7221084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/gymnastics/articles/cmz7xynx81lwo",
+      "provider": "BBC",
+      "title": "Jarman claims historic second silver at Worlds",
+      "status": "pending",
+      "firstSeenAt": 1792957310.722205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6d93eeq27gqo",
+      "provider": "BBC",
+      "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
+      "status": "pending",
+      "firstSeenAt": 1792957310.7222443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr5ynv4pyw95o",
+      "provider": "BBC",
+      "title": "Dunfermline meet Queen of the South in Scottish Cup",
+      "status": "pending",
+      "firstSeenAt": 1792957310.7223186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792957310.8670795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792957310.8678625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792957310.8678854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/passengers-praise-western-sydney-airport-first-flights/107303722",
+      "provider": "ABC News Australia",
+      "title": "No toll and easy access: What first passengers say of new Sydney airport",
+      "status": "pending",
+      "firstSeenAt": 1792957311.2896354,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
