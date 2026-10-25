@@ -66834,9 +66834,33 @@
       "status": "pending",
       "firstSeenAt": 1792936653.843478,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623drpx31xzo",
+      "provider": "BBC",
+      "title": "Couple were celebrating anniversary before Bahamas tragedy Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea. 54 mins ago Nottinghamshire",
+      "status": "pending",
+      "firstSeenAt": 1792937861.1790707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792937861.48688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792937861.487235,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
