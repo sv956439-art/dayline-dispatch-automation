@@ -67354,9 +67354,57 @@
       "status": "pending",
       "firstSeenAt": 1792959518.9762769,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792961186.9884534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792961186.9885237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/federal-politics-live-blog-october-26/107307606",
+      "provider": "ABC News Australia",
+      "title": "Crossbenchers back call for MPs to sign civility pledge",
+      "status": "pending",
+      "firstSeenAt": 1792961187.6231956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/analysis-kumanjayi-little-baby-reivew-highlights-dv-crisis-nt/107306810",
+      "provider": "ABC News Australia",
+      "title": "The NT child protection review is another wake-up call on the DV crisis",
+      "status": "pending",
+      "firstSeenAt": 1792961187.6237228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/bournda-bird-olympics-2026-merimbula/107298364",
+      "provider": "ABC News Australia",
+      "title": "Dying art of bird calling roars back at 2026 Bournda Bird Olympics",
+      "status": "pending",
+      "firstSeenAt": 1792961187.6237485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/england-legend-jimmy-anderson-sad-over-lancashire-exit/107307692",
+      "provider": "ABC News Australia",
+      "title": "England legend Anderson disappointed over Lancashire exit",
+      "status": "pending",
+      "firstSeenAt": 1792961187.6237724,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
