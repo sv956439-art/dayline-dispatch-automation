@@ -66242,9 +66242,33 @@
       "status": "pending",
       "firstSeenAt": 1792905354.2561398,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y93ylpl5p2o",
+      "provider": "BBC",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "status": "pending",
+      "firstSeenAt": 1792907035.376145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792907035.6726265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/sorrento-beach-closed-whale-carcass/107306512",
+      "provider": "ABC News Australia",
+      "title": "Another Perth beach closed as more whale remains found",
+      "status": "pending",
+      "firstSeenAt": 1792907035.9180567,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
