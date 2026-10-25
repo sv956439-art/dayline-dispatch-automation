@@ -65986,9 +65986,41 @@
       "status": "pending",
       "firstSeenAt": 1792886324.6740544,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxp8g21j4648o",
+      "provider": "BBC",
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office. 29 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792887615.9748929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792887616.2772908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/georgia-ice-man-dies",
+      "provider": "The Guardian",
+      "title": "Man detained at Georgia immigration detention center dies as hunger strike continues",
+      "status": "pending",
+      "firstSeenAt": 1792887616.277633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/western-australia-young-women-politics-determined-despite-abuse/107297228",
+      "provider": "ABC News Australia",
+      "title": "WA's young female politicians will not give up despite rise in abuse",
+      "status": "pending",
+      "firstSeenAt": 1792887616.4773016,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
