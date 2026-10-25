@@ -67642,9 +67642,33 @@
       "status": "pending",
       "firstSeenAt": 1792969905.4351692,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmyl1mljppo",
+      "provider": "BBC",
+      "title": "Rapper Nikki Minaj joins Trump onstage at Michigan rally The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "status": "pending",
+      "firstSeenAt": 1792972460.322981,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/nt-solutions-led-boxing-program-gloves-of-hope-youth-wellbeing/107306828",
+      "provider": "ABC News Australia",
+      "title": "Youth boxing program fights off negativity, provides positive role models",
+      "status": "pending",
+      "firstSeenAt": 1792972461.6926646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/mary-fowler-manchester-city-held-to-end-wsl-winning-start/107308170",
+      "provider": "ABC News Australia",
+      "title": "Fowler's City draw to end winning start",
+      "status": "pending",
+      "firstSeenAt": 1792972461.6926801,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
