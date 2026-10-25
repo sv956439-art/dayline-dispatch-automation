@@ -67146,9 +67146,81 @@
       "status": "pending",
       "firstSeenAt": 1792954566.91714,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2qyd17eqvo",
+      "provider": "BBC",
+      "title": "Board of Deputies of British Jews declares Greens to be racist party The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion. 1 hr ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1792955846.487176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792955846.6838403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+      "provider": "The Guardian",
+      "title": "Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification",
+      "status": "pending",
+      "firstSeenAt": 1792955846.6847265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/why-us-government-battling-titanic-artefact-auction/107296170",
+      "provider": "ABC News Australia",
+      "title": "Jewellery, tableware and a cherub in fight over Titanic artefacts",
+      "status": "pending",
+      "firstSeenAt": 1792955847.0031092,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/sa-disproportionately-vulnerable-to-ndis-changes-report-warns/107306464",
+      "provider": "ABC News Australia",
+      "title": "SA 'disproportionately vulnerable' to NDIS changes, report warns",
+      "status": "pending",
+      "firstSeenAt": 1792955847.0041523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/motogp-fans-flock-to-phillip-island-for-one-last-time/107156524",
+      "provider": "ABC News Australia",
+      "title": "Weather ruins MotoGP but Phillip Island goes out on high",
+      "status": "pending",
+      "firstSeenAt": 1792955847.0042434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/obama-jokes-about-el-sayed-s-big-guns-as-he-rallies-detroit/107306918",
+      "provider": "ABC News Australia",
+      "title": "Obama jokes about El-Sayed's 'big guns' as he rallies Detroit",
+      "status": "pending",
+      "firstSeenAt": 1792955847.0043335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708",
+      "provider": "ABC News Australia",
+      "title": "Antonelli on pole with chance to become F1 world champion",
+      "status": "pending",
+      "firstSeenAt": 1792955847.0044134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/qld-caboolture-hospital-death-leo-barraclough/107256772",
+      "provider": "ABC News Australia",
+      "title": "Grandfather's death not reported to coroner despite hospital blunders",
+      "status": "pending",
+      "firstSeenAt": 1792955847.0044737,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
