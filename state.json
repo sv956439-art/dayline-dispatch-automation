@@ -66474,9 +66474,57 @@
       "status": "pending",
       "firstSeenAt": 1792917515.2868688,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz98plpjzplo",
+      "provider": "BBC",
+      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
+      "status": "pending",
+      "firstSeenAt": 1792919138.4942472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr15jpxdxyn7o",
+      "provider": "BBC",
+      "title": "1 hr ago Online trend driving break-ins, estate owner says A video filmed inside cottages near Leadenham House is blamed for sparking \"copycat\" incidents. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1792919138.5924125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792919139.321133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792919139.321156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792919139.3211782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful",
+      "provider": "The Guardian",
+      "title": "I gave my ex our house and half my savings, but now I feel resentful",
+      "status": "pending",
+      "firstSeenAt": 1792919139.3217707,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
