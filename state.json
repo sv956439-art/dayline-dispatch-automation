@@ -67330,9 +67330,33 @@
       "status": "pending",
       "firstSeenAt": 1792958412.893214,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792959518.2182112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820",
+      "provider": "ABC News Australia",
+      "title": "Wall Street retreats as oil prices continue to rise, ASX set to slip",
+      "status": "pending",
+      "firstSeenAt": 1792959518.976257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/butcher-skills-shortage-queensland/107301364",
+      "provider": "ABC News Australia",
+      "title": "Skills shortage puts retail butchers on the chopping block",
+      "status": "pending",
+      "firstSeenAt": 1792959518.9762769,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
