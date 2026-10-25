@@ -67402,9 +67402,57 @@
       "status": "pending",
       "firstSeenAt": 1792961187.6237724,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj0ln19j3jvo",
+      "provider": "BBC",
+      "title": "British Columbia's new premier lucks into the job in unexpected political turn An electoral gamble by the Canadian province's outgoing premier, David Eby,  backfired as the provincial Conservatives take power for the first time since 1928.",
+      "status": "pending",
+      "firstSeenAt": 1792962459.268609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
+      "provider": "BBC",
+      "title": "Serbia's Vučić concedes election defeat to student-led protest movement The country's populist right-wing leader of 12 years says it is \"clear\" hisb Serbian Progressive Party (SNS) has lost.",
+      "status": "pending",
+      "firstSeenAt": 1792962459.2687051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792962459.784065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/25/ella-baron-donald-trump-putin-cartoon",
+      "provider": "The Guardian",
+      "title": "Ella Baron on Trump’s admiration for Putin – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1792962459.7848923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/children-picture-books-online-safety/107283456",
+      "provider": "ABC News Australia",
+      "title": "Books aim to keep Indigenous children safe online",
+      "status": "pending",
+      "firstSeenAt": 1792962460.1772363,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/cape-town-test-provides-different-challenge-for-australia/107307732",
+      "provider": "ABC News Australia",
+      "title": "Smith will be 'fine' as Australia returns to Cape Town",
+      "status": "pending",
+      "firstSeenAt": 1792962460.1772788,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
