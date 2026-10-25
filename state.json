@@ -66186,9 +66186,33 @@
       "status": "pending",
       "firstSeenAt": 1792900365.632801,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckp8gzdj5m4eo",
+      "provider": "BBC",
+      "title": "How a California mansion filled with surrogate children became a 'House of Horrors' Guojun Xuan and Silvia Zhang have been charged with conspiracy to commit child abuse after police searched their stately mansion.",
+      "status": "pending",
+      "firstSeenAt": 1792901896.9416525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm24j9y9zn7o",
+      "provider": "BBC",
+      "title": "Budget to include £1bn for social and affordable housing The move will take funding for the 10-year programme to more than £40bn.",
+      "status": "pending",
+      "firstSeenAt": 1792901897.038995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792901897.2726054,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
