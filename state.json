@@ -66290,9 +66290,25 @@
       "status": "pending",
       "firstSeenAt": 1792908550.535125,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gel54940qno",
+      "provider": "BBC",
+      "title": "Budget 2026: No more fat to trim for 'squeezed middle' As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
+      "status": "pending",
+      "firstSeenAt": 1792910500.1028733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792910500.8424113,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
