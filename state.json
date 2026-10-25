@@ -66594,9 +66594,57 @@
       "status": "pending",
       "firstSeenAt": 1792925383.630127,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g10r00221o",
+      "provider": "BBC",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "status": "pending",
+      "firstSeenAt": 1792926623.3077435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n9rzde1n80o",
+      "provider": "BBC",
+      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+      "status": "pending",
+      "firstSeenAt": 1792926623.3077734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde8xde0p87o",
+      "provider": "BBC",
+      "title": "Storm leaves homes without power and cars wrecked",
+      "status": "pending",
+      "firstSeenAt": 1792926623.3077996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6dxwklr409eo",
+      "provider": "BBC",
+      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+      "status": "pending",
+      "firstSeenAt": 1792926623.3078237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792926623.5115042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792926623.51241,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
