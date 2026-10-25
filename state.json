@@ -66050,9 +66050,33 @@
       "status": "pending",
       "firstSeenAt": 1792890072.3812542,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080",
+      "provider": "ABC News Australia",
+      "title": "Federal police chief links threats against MPs directly to political debate",
+      "status": "pending",
+      "firstSeenAt": 1792891751.4489603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/bolsonaro-family-brazil-elections/107288900",
+      "provider": "ABC News Australia",
+      "title": "Bolsonaro heir could bring Brazil closer to Trump if elected president",
+      "status": "pending",
+      "firstSeenAt": 1792891751.4491253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/return-of-passenger-rail-perth-to-albany-to-be-considered/107296124",
+      "provider": "ABC News Australia",
+      "title": "WA government to consider return of Perth to Albany passenger rail service",
+      "status": "pending",
+      "firstSeenAt": 1792891751.4502497,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
