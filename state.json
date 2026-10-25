@@ -66914,9 +66914,41 @@
       "status": "pending",
       "firstSeenAt": 1792942505.1156719,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c3qjng48exxwo",
+      "provider": "BBC",
+      "title": "Anderson stops short of retiring after Lancashire exit",
+      "status": "pending",
+      "firstSeenAt": 1792944019.188342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq4g15392p4ro",
+      "provider": "BBC",
+      "title": "Sheffield Wednesday sack Pedersen after 15 months",
+      "status": "pending",
+      "firstSeenAt": 1792944019.1887667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cvlyd576g55xo",
+      "provider": "BBC",
+      "title": "Munster's Coombes backed after making groin grab allegation",
+      "status": "pending",
+      "firstSeenAt": 1792944019.1888514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792944019.51665,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
