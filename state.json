@@ -66210,9 +66210,17 @@
       "status": "pending",
       "firstSeenAt": 1792901897.2726054,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/constellation-cup-netball-diamonds-silver-ferns-game-three/107306516",
+      "provider": "ABC News Australia",
+      "title": "Diamonds play Constellation Cup on home soil",
+      "status": "pending",
+      "firstSeenAt": 1792903889.5576208,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
