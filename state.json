@@ -66138,9 +66138,33 @@
       "status": "pending",
       "firstSeenAt": 1792896963.4673636,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjxg7l19yxo",
+      "provider": "BBC",
+      "title": "Meghan broke contact with father in letter citing abuse claims Sources close to the duchess said she warned her father last year that he would never meet his grandchildren. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792898301.1356375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8e36kyk1qx5o",
+      "provider": "BBC",
+      "title": "UK PM open to 'honest discussion' on EU free movement",
+      "status": "pending",
+      "firstSeenAt": 1792898301.2039993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/young-snooker-champion-angelo-tsikouris-8-ball-player-adam-grace/107291894",
+      "provider": "ABC News Australia",
+      "title": "Australian 11yo brings home gold from snooker and eight ball championships",
+      "status": "pending",
+      "firstSeenAt": 1792898302.148363,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
