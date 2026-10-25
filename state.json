@@ -66578,9 +66578,25 @@
       "status": "pending",
       "firstSeenAt": 1792923608.7159338,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjx429dk4jo",
+      "provider": "BBC",
+      "title": "Building a rural business empire on the back of coffee beans",
+      "status": "pending",
+      "firstSeenAt": 1792925382.8437078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004",
+      "provider": "ABC News Australia",
+      "title": "Iran says resumption of war with US would not change its mind",
+      "status": "pending",
+      "firstSeenAt": 1792925383.630127,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
