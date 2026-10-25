@@ -67450,9 +67450,33 @@
       "status": "pending",
       "firstSeenAt": 1792962460.1772788,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+      "provider": "ABC News Australia",
+      "title": "Serbian president concedes defeat to student-led movement in election",
+      "status": "pending",
+      "firstSeenAt": 1792963879.231272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/manchester-united-humiliated-at-home-by-bournemouth/107307822",
+      "provider": "ABC News Australia",
+      "title": "Manchester United booed off pitch after calamitous defeat",
+      "status": "pending",
+      "firstSeenAt": 1792963879.2322674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/man-caves-evolve-into-backyard-social-hubs/107303270",
+      "provider": "ABC News Australia",
+      "title": "Man caves are evolving to become backyard social hubs — and pubs",
+      "status": "pending",
+      "firstSeenAt": 1792963879.2323163,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
