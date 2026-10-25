@@ -66458,9 +66458,25 @@
       "status": "pending",
       "firstSeenAt": 1792915885.0726285,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvx28ljp8n4xo",
+      "provider": "BBC",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity. 17 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1792917514.8796778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/25/greg-wise-on-how-he-and-emma-thompson-coped-with-failed-ivf-we-hit-an-existential-crisis-she-was-not-a-proper-woman-and-i-was-not-a-proper-man",
+      "provider": "The Guardian",
+      "title": "Greg Wise on how he and Emma Thompson coped with failed IVF: ‘We hit an existential crisis – she was not a proper woman and I was not a proper man’",
+      "status": "pending",
+      "firstSeenAt": 1792917515.2868688,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
