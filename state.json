@@ -66978,9 +66978,25 @@
       "status": "pending",
       "firstSeenAt": 1792947152.2281528,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crgj9wnpd1lvo",
+      "provider": "BBC",
+      "title": "Carrick future under major threat - can he survive? Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
+      "status": "pending",
+      "firstSeenAt": 1792948384.2413933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792948384.4685407,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
