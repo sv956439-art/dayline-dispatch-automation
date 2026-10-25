@@ -66962,9 +66962,25 @@
       "status": "pending",
       "firstSeenAt": 1792945382.6090534,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
+      "provider": "BBC",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro. 30 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792947152.2274284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cq0mek4de4xno",
+      "provider": "BBC",
+      "title": "England lose to Pakistan after stunning Shadab ton",
+      "status": "pending",
+      "firstSeenAt": 1792947152.2281528,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
