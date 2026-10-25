@@ -66394,9 +66394,41 @@
       "status": "pending",
       "firstSeenAt": 1792912835.0934489,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm238y872ejo",
+      "provider": "BBC",
+      "title": "'Our town is a good vibe - if you know where to look' Jack and Yannick have run the events as OPB Collective since 2024, and have helped platform a variety of creatives",
+      "status": "pending",
+      "firstSeenAt": 1792914770.8951445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65yn9p55np2o",
+      "provider": "BBC",
+      "title": "Four ways Labour could raise money in the UK Budget without hiking income tax",
+      "status": "pending",
+      "firstSeenAt": 1792914770.964835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck78p37y5508o",
+      "provider": "BBC",
+      "title": "What Man Utd need now is stability, not more changes - Pulis BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment. 1 hr ago Man Utd",
+      "status": "pending",
+      "firstSeenAt": 1792914770.9653301,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+      "provider": "The Guardian",
+      "title": "Ten days that could shake the world: democratic norms at stake in four pivotal elections",
+      "status": "pending",
+      "firstSeenAt": 1792914771.1180284,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
