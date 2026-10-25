@@ -66666,9 +66666,33 @@
       "status": "pending",
       "firstSeenAt": 1792928105.216014,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c60mekrgx4zvo",
+      "provider": "BBC",
+      "title": "Australia reach World Cup semis & New Zealand get back on track",
+      "status": "pending",
+      "firstSeenAt": 1792929553.0190828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cwg7xy5x3590o",
+      "provider": "BBC",
+      "title": "Osaka 'not far off' her best but often ponders future",
+      "status": "pending",
+      "firstSeenAt": 1792929553.019125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm5ynpjx170zo",
+      "provider": "BBC",
+      "title": "What have Man Utd changed to turn around WSL form?",
+      "status": "pending",
+      "firstSeenAt": 1792929553.0191436,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
