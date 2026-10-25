@@ -67002,9 +67002,57 @@
       "status": "pending",
       "firstSeenAt": 1792951180.9118826,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9vzxdmv8vmo",
+      "provider": "BBC",
+      "title": "Storm Boelo sees passenger plane leave runway",
+      "status": "pending",
+      "firstSeenAt": 1792952531.356147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778",
+      "provider": "ABC News Australia",
+      "title": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
+      "status": "pending",
+      "firstSeenAt": 1792952531.852207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/this-week-in-history-quiz-october-26/107298978",
+      "provider": "ABC News Australia",
+      "title": "The history quiz is back. Can you ace it, or will you be terminated?",
+      "status": "pending",
+      "firstSeenAt": 1792952531.8522353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/digital-detox-for-schools-in-australia-and-overseas/107300926",
+      "provider": "ABC News Australia",
+      "title": "Educators weighing pluses and minuses of a 'digital detox' in school",
+      "status": "pending",
+      "firstSeenAt": 1792952531.8522813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/albanese-quiet-on-iran-war-as-uncertainty-grows/107306234",
+      "provider": "ABC News Australia",
+      "title": "Albanese faces stark choice if Trump escalates Iran war",
+      "status": "pending",
+      "firstSeenAt": 1792952531.8523264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/homicides-psychosis-failings-mental-health-system/107291490",
+      "provider": "ABC News Australia",
+      "title": "One in three homicides fuelled by psychosis, as doctors fear growing crisis",
+      "status": "pending",
+      "firstSeenAt": 1792952531.8523707,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
