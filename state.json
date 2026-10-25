@@ -66858,9 +66858,33 @@
       "status": "pending",
       "firstSeenAt": 1792937861.487235,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2w0ngejneo",
+      "provider": "BBC",
+      "title": "Gabon says access to social media restored after eight-month ban The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "status": "pending",
+      "firstSeenAt": 1792939613.9176269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792939614.0972106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060",
+      "provider": "ABC News Australia",
+      "title": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
+      "status": "pending",
+      "firstSeenAt": 1792939614.5087907,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
