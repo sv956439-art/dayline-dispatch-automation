@@ -66162,9 +66162,33 @@
       "status": "pending",
       "firstSeenAt": 1792898302.148363,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1kdlm1ze7do",
+      "provider": "BBC",
+      "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+      "status": "pending",
+      "firstSeenAt": 1792900364.4395418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
+      "status": "pending",
+      "firstSeenAt": 1792900364.7988913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/waggarandall-farm-death/107306370",
+      "provider": "ABC News Australia",
+      "title": "Man dies after being crushed by ramp in northern Victoria",
+      "status": "pending",
+      "firstSeenAt": 1792900365.632801,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
