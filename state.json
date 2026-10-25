@@ -67634,9 +67634,17 @@
       "status": "pending",
       "firstSeenAt": 1792968944.8016121,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/crl5ge8dle4o",
+      "provider": "BBC",
+      "title": "What are 'papaya rules' in Formula 1? Our Ask Me Anything team explain what 'papaya rules' are for F1 team McLaren.",
+      "status": "pending",
+      "firstSeenAt": 1792969905.4351692,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
