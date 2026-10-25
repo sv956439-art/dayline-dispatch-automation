@@ -67474,9 +67474,25 @@
       "status": "pending",
       "firstSeenAt": 1792963879.2323163,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwm24jk9743yo",
+      "provider": "BBC",
+      "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+      "status": "pending",
+      "firstSeenAt": 1792965313.1071687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g14481n7qo",
+      "provider": "BBC",
+      "title": "Long queues after power surge at Stansted Airport",
+      "status": "pending",
+      "firstSeenAt": 1792965313.1728468,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
