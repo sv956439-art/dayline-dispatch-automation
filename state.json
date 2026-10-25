@@ -66642,9 +66642,33 @@
       "status": "pending",
       "firstSeenAt": 1792926623.51241,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ly097zw1xwo",
+      "provider": "BBC",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "status": "pending",
+      "firstSeenAt": 1792928105.21469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjzxlnrpp30zo",
+      "provider": "BBC",
+      "title": "'An IRA boss wanted me dead - my best mate was killed beside me' The survivor of a notorious knife murder speaks of his guilt over the way the attack unfolded and the failure to catch the killers. 12 hrs ago Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1792928105.2153795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crgqwzqz8zgwo",
+      "provider": "BBC",
+      "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run. 4 hrs ago Football",
+      "status": "pending",
+      "firstSeenAt": 1792928105.216014,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
