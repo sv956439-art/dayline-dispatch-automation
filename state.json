@@ -67306,9 +67306,33 @@
       "status": "pending",
       "firstSeenAt": 1792957311.2896354,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/essendon-aflw-coach-sacked/107307646",
+      "provider": "ABC News Australia",
+      "title": "Essendon sack coach after one-win AFLW season",
+      "status": "pending",
+      "firstSeenAt": 1792958412.8931315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/tasmanian-election-spending-caps-proposal/107307548",
+      "provider": "ABC News Australia",
+      "title": "Labor proposes Tasmanian election spending caps",
+      "status": "pending",
+      "firstSeenAt": 1792958412.89317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/australian-households-experienced-food-insecurity/107299796",
+      "provider": "ABC News Australia",
+      "title": "'Lucky country has become the hungry country': Foodbank Australia",
+      "status": "pending",
+      "firstSeenAt": 1792958412.893214,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
