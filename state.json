@@ -66114,9 +66114,33 @@
       "status": "pending",
       "firstSeenAt": 1792895085.3284855,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy8ljkle97ro",
+      "provider": "BBC",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "status": "pending",
+      "firstSeenAt": 1792896962.416604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/tasmania-west-coast-ambulance-wait-death/107306208",
+      "provider": "ABC News Australia",
+      "title": "Man dies on Tasmania's west coast while waiting for ambulance",
+      "status": "pending",
+      "firstSeenAt": 1792896963.4673145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/storm-sunday/107306150",
+      "provider": "ABC News Australia",
+      "title": "Car crushed by tree limb, lightning and 98 km winds in SA",
+      "status": "pending",
+      "firstSeenAt": 1792896963.4673636,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
