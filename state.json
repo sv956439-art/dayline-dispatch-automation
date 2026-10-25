@@ -67570,9 +67570,73 @@
       "status": "pending",
       "firstSeenAt": 1792967602.5416532,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1j3e889rg8o",
+      "provider": "BBC",
+      "title": "Howe open to Man Utd talks - Monday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1792968943.7952454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cv5yn4w8x378o",
+      "provider": "BBC",
+      "title": "Smith holds on to beat Schindler in Euros final",
+      "status": "pending",
+      "firstSeenAt": 1792968943.7955189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjvgx1xw7z9xo",
+      "provider": "BBC",
+      "title": "Weir would swap Ballon d'Or nods for World Cup",
+      "status": "pending",
+      "firstSeenAt": 1792968943.7956014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/snooker/articles/cqwyrgg0nylwo",
+      "provider": "BBC",
+      "title": "Wilson beats Jones to secure NI Open title",
+      "status": "pending",
+      "firstSeenAt": 1792968943.7956412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792968943.9468586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792968943.94693,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/police-hunt-for-logan-drive-by-shooting-suspects/107307774",
+      "provider": "ABC News Australia",
+      "title": "Police hunt for masked men after four injured in Logan drive-by shooting",
+      "status": "pending",
+      "firstSeenAt": 1792968944.8015883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/labor-promises-south-coast-rail-line-upgrade/107307726",
+      "provider": "ABC News Australia",
+      "title": "Labor promises $6.8b South Coast rail fix days after timetable backflip",
+      "status": "pending",
+      "firstSeenAt": 1792968944.8016121,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
