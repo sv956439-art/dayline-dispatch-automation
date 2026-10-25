@@ -66090,9 +66090,33 @@
       "status": "pending",
       "firstSeenAt": 1792893582.6777375,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792895084.908924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/kevin-morby-little-wide-open-australian-tour/107297450",
+      "provider": "ABC News Australia",
+      "title": "Midwest muso Kevin Morby is no longer America's best kept secret",
+      "status": "pending",
+      "firstSeenAt": 1792895085.3278375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/wa-politicians-fear-safety-haines-beazley/107304636",
+      "provider": "ABC News Australia",
+      "title": "'More and more challenging to do this job': MPs fear rising political tensions",
+      "status": "pending",
+      "firstSeenAt": 1792895085.3284855,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
