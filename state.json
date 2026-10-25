@@ -66266,9 +66266,33 @@
       "status": "pending",
       "firstSeenAt": 1792907035.9180567,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792908550.045548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792908550.0455663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/mud-crabs-wadeye-future-seafood-industry-indigenous-workers/107288406",
+      "provider": "ABC News Australia",
+      "title": "Fishermen racing crocs for crabs in Wadeye as new industry emerges",
+      "status": "pending",
+      "firstSeenAt": 1792908550.535125,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
