@@ -66018,9 +66018,41 @@
       "status": "pending",
       "firstSeenAt": 1792887616.4773016,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cvlyd5k776yyo",
+      "provider": "BBC",
+      "title": "Antonelli stands on brink of history in Austin",
+      "status": "pending",
+      "firstSeenAt": 1792890071.4579234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/vic-kayaker-found-dead-near-geelong/107306216",
+      "provider": "ABC News Australia",
+      "title": "Missing kayaker found dead near Geelong",
+      "status": "pending",
+      "firstSeenAt": 1792890072.3812072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/fremantle-cake-contest-reimagines-port-city/107298828",
+      "provider": "ABC News Australia",
+      "title": "Have your cake and eat Freo too at this sweet design event",
+      "status": "pending",
+      "firstSeenAt": 1792890072.3812335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/volkanovski-underscores-ufc-greatness-win-over-movsar-evloev/107306090",
+      "provider": "ABC News Australia",
+      "title": "Volkanovski underscores UFC greatness with record ninth title win",
+      "status": "pending",
+      "firstSeenAt": 1792890072.3812542,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
