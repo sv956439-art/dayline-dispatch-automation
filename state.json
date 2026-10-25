@@ -67538,9 +67538,41 @@
       "status": "pending",
       "firstSeenAt": 1792966273.8266788,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpdgy6pl7xlo",
+      "provider": "BBC",
+      "title": "Deeply divided Israel braces for pivotal election After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson. 18 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1792967602.0165575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c804013klnn0o",
+      "provider": "BBC",
+      "title": "Who has made Troy's Premier League team of the week? After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? 15 mins ago Premier League",
+      "status": "pending",
+      "firstSeenAt": 1792967602.1010485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762",
+      "provider": "ABC News Australia",
+      "title": "Police investigate bullet inscribed with 'RAT' found on Victorian MP's car",
+      "status": "pending",
+      "firstSeenAt": 1792967602.540586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/england-falls-to-second-incredible-odi-defeat-in-a-week/107307980",
+      "provider": "ABC News Australia",
+      "title": "England 'gutted' after second extraordinary ODI defeat in as many games",
+      "status": "pending",
+      "firstSeenAt": 1792967602.5416532,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
