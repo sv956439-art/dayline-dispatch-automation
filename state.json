@@ -66074,9 +66074,25 @@
       "status": "pending",
       "firstSeenAt": 1792891751.4502497,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218",
+      "provider": "ABC News Australia",
+      "title": "Antonelli on pole as he eyes record-setting world F1 title",
+      "status": "pending",
+      "firstSeenAt": 1792893582.6777031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944",
+      "provider": "ABC News Australia",
+      "title": "Israel presses ahead with West Bank army operation days before election",
+      "status": "pending",
+      "firstSeenAt": 1792893582.6777375,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
