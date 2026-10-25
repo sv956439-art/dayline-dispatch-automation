@@ -66882,9 +66882,17 @@
       "status": "pending",
       "firstSeenAt": 1792939614.5087907,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine",
+      "provider": "The Guardian",
+      "title": "The WNBA finals are a basketball wonderland – unless you’re part of the Maga machine",
+      "status": "pending",
+      "firstSeenAt": 1792940971.1142862,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
