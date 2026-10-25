@@ -66218,9 +66218,33 @@
       "status": "pending",
       "firstSeenAt": 1792903889.5576208,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/pennsylvania-us-measles-outbreak-impacts-amish-communities/107287196",
+      "provider": "ABC News Australia",
+      "title": "Measles-stricken Amish hit hard amid US vaccine misinformation fight",
+      "status": "pending",
+      "firstSeenAt": 1792905354.2551239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/nt-rdh-privacy-breach-medical-patient-info-posted-to-instagram/107304564",
+      "provider": "ABC News Australia",
+      "title": "Darwin patients' medical information posted to Instagram in privacy breach",
+      "status": "pending",
+      "firstSeenAt": 1792905354.2560897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532",
+      "provider": "ABC News Australia",
+      "title": "Final MotoGP race at Phillip Island washed out",
+      "status": "pending",
+      "firstSeenAt": 1792905354.2561398,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
