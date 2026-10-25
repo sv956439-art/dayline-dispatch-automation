@@ -67050,9 +67050,105 @@
       "status": "pending",
       "firstSeenAt": 1792952531.8523707,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qk44w9wglo",
+      "provider": "BBC",
+      "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018. 16 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1792954566.028504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmj47lq7e5e7o",
+      "provider": "BBC",
+      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+      "status": "pending",
+      "firstSeenAt": 1792954566.0292854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxdd8gr1vje0o",
+      "provider": "BBC",
+      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
+      "status": "pending",
+      "firstSeenAt": 1792954566.0928297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/cctv-captures-childcare-worker-assaulting-babies-four-corners/107274426",
+      "provider": "ABC News Australia",
+      "title": "Childcare worker's 'monstrous' assaults on kids captured on CCTV",
+      "status": "pending",
+      "firstSeenAt": 1792954566.916292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/helen-haines-parliament-returns-canberra-federal-politics/107306604",
+      "provider": "ABC News Australia",
+      "title": "Security increased as parliament returns without MP Helen Haines",
+      "status": "pending",
+      "firstSeenAt": 1792954566.916366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/global-alcohol-industry-in-decline-impact-on-local-business/106972596",
+      "provider": "ABC News Australia",
+      "title": "Wineries, breweries closing down as decline in alcohol consumption starts to bite",
+      "status": "pending",
+      "firstSeenAt": 1792954566.9164362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/queensland-weather-thunderstorms-flash-flooding/107302462",
+      "provider": "ABC News Australia",
+      "title": "Storms set to bring flash flooding, large hail to south-east Queensland",
+      "status": "pending",
+      "firstSeenAt": 1792954566.9164991,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/roads-and-traffic-driving-kalkallo-voters-in-victorian-election/107269420",
+      "provider": "ABC News Australia",
+      "title": "Voters call for new roads in booming Melbourne suburb ahead of election",
+      "status": "pending",
+      "firstSeenAt": 1792954566.916588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/what-to-watch-in-cinemas-in-october-verity/107299696",
+      "provider": "ABC News Australia",
+      "title": "Taika Waititi's latest film sucks the emotion out of a beloved story",
+      "status": "pending",
+      "firstSeenAt": 1792954566.9167113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/short-breaks-strategies-prevent-burnout-work/107300860",
+      "provider": "ABC News Australia",
+      "title": "Burnt out at work? Combining short breaks with these strategies may help",
+      "status": "pending",
+      "firstSeenAt": 1792954566.9167469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444",
+      "provider": "ABC News Australia",
+      "title": "Opposition leader Maria Corina Machado returns to Venezuela",
+      "status": "pending",
+      "firstSeenAt": 1792954566.917017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/irrigation-scheme-in-tasmania-northern-midlands/107297052",
+      "provider": "ABC News Australia",
+      "title": "Water from new irrigation scheme gives farmers new hope",
+      "status": "pending",
+      "firstSeenAt": 1792954566.91714,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
