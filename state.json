@@ -69386,9 +69386,105 @@
       "status": "pending",
       "firstSeenAt": 1793043345.4994063,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr4y5rq46p2o",
+      "provider": "BBC",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1793045308.7379735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgl82nm43po",
+      "provider": "BBC",
+      "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "status": "pending",
+      "firstSeenAt": 1793045308.7385821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjn29lg2vzo",
+      "provider": "BBC",
+      "title": "Will the public change its mind about Meghan? This complicated - and developing - story could prove to be a turning point for Meghan. 5 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793045308.8351376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3y0edlrnkzzo",
+      "provider": "BBC",
+      "title": "6 hrs ago RNLI statue will not be installed at popular beach The lifesaver sculpture will not be unveiled at Porthmeor after opposition from the town council. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793045308.8361814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793045309.2240183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793045309.2240868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/pensioners-who-need-to-keep-working-fear-financial-penalties/107259356",
+      "provider": "ABC News Australia",
+      "title": "Age pensioners who want to keep working say system punishes them",
+      "status": "pending",
+      "firstSeenAt": 1793045309.618257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/south-east-qld-weather-october-rainfall-nearing-records/107310704",
+      "provider": "ABC News Australia",
+      "title": "October rainfall records under threat across south-east Queensland",
+      "status": "pending",
+      "firstSeenAt": 1793045309.619139,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/flying-foxes-damage-banana-berry-crops-seeking-food/107301176",
+      "provider": "ABC News Australia",
+      "title": "Farmers wear cost as starving flying foxes damage banana, berry crops",
+      "status": "pending",
+      "firstSeenAt": 1793045309.6191888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/mildura-big-sultana-australias-latest-big-thing/107309216",
+      "provider": "ABC News Australia",
+      "title": "Mildura becomes home of the Big Sultana",
+      "status": "pending",
+      "firstSeenAt": 1793045309.619236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/act-memorial-drug-overdose-deaths/107308278",
+      "provider": "ABC News Australia",
+      "title": "Three decades on, stigma remains 'huge barrier' to care for drug users",
+      "status": "pending",
+      "firstSeenAt": 1793045309.6193118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/marnus-labuschagne-set-to-keep-spot-for-third-test/107312346",
+      "provider": "ABC News Australia",
+      "title": "Labuschagne must beat mental block to overcome the 30s in third Test",
+      "status": "pending",
+      "firstSeenAt": 1793045309.619358,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
