@@ -69042,9 +69042,97 @@
       "status": "pending",
       "firstSeenAt": 1793034319.771089,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn8d7g29vd9o",
+      "provider": "BBC",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "status": "pending",
+      "firstSeenAt": 1793036309.6304302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/ck78px63l923o",
+      "provider": "BBC",
+      "title": "McDowell becomes latest major champion to exit LIV",
+      "status": "pending",
+      "firstSeenAt": 1793036309.7189763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq5ynp680jm1o",
+      "provider": "BBC",
+      "title": "Will anyone end Spain's domination of women's Ballon d'Or?",
+      "status": "pending",
+      "firstSeenAt": 1793036309.7192376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck3wvl6dlw6vo",
+      "provider": "BBC",
+      "title": "First Scotland call-up for Newcastle's Leatherbarrow",
+      "status": "pending",
+      "firstSeenAt": 1793036309.719313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c5djvn1mkmzyo",
+      "provider": "BBC",
+      "title": "Derby day biff, real deal Glos & Christian wades in - Prem talking points",
+      "status": "pending",
+      "firstSeenAt": 1793036309.719363,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c6x29gmyz21ko",
+      "provider": "BBC",
+      "title": "Smotherman beats Power in Monday finish in Bermuda",
+      "status": "pending",
+      "firstSeenAt": 1793036309.7193801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/ck0546l2j4ppo",
+      "provider": "BBC",
+      "title": "Africa hosts first Olympic event as Youth Games head to Dakar",
+      "status": "pending",
+      "firstSeenAt": 1793036309.7195761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793036309.9686437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793036309.9686663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/cole-adrian-tribute-kansas-soccer",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793036309.9687169,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793036309.9687276,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
