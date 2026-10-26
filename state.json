@@ -69130,9 +69130,105 @@
       "status": "pending",
       "firstSeenAt": 1793036309.9687276,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv70pnw784x7o",
+      "provider": "BBC",
+      "title": "Independent review announced into murder of student Henry Nowak \"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793038485.376871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g1w1w1jjjo",
+      "provider": "BBC",
+      "title": "Coronation Street star returns to cobbles after 11 years The Welsh actor is back as Owen Armstrong and looking forward to a \"cracking\" storyline.",
+      "status": "pending",
+      "firstSeenAt": 1793038485.3779268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c84g14927651o",
+      "provider": "BBC",
+      "title": "Shoppers fill Oxford Street on first traffic-free day Almost 1km of the popular shopping destination is pedestrianised between Orchard Street and Great Portland Street. 3 hrs ago London",
+      "status": "pending",
+      "firstSeenAt": 1793038485.453407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793038485.698806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793038485.6988282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793038485.6991575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793038485.6995332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793038485.699692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/26/lula-supporters-celebrate-shock-election-victory-in-pictures",
+      "provider": "The Guardian",
+      "title": "Lula supporters celebrate shock election victory – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1793038485.699896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/the-state-of-man-young-men-on-the-manosphere/107256048",
+      "provider": "ABC News Australia",
+      "title": "Why the manosphere sees 'desperate young men as moneybags'",
+      "status": "pending",
+      "firstSeenAt": 1793038486.4820642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/australian-signals-directorate-ai-cybersecurity-hacking-threats/107309858",
+      "provider": "ABC News Australia",
+      "title": "Top cyber spy braces for more AI-powered hacking attacks",
+      "status": "pending",
+      "firstSeenAt": 1793038486.4821074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/labor-mps-turn-to-ai-to-combat-online-abuse-threats/107311412",
+      "provider": "ABC News Australia",
+      "title": "Almost half of all comments on MPs' social media flagged as abusive",
+      "status": "pending",
+      "firstSeenAt": 1793038486.482147,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
