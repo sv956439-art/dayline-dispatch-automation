@@ -67682,9 +67682,81 @@
       "status": "pending",
       "firstSeenAt": 1792973320.6916418,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574pvy82k0mo",
+      "provider": "BBC",
+      "title": "How a movement of students brought down Serbia's Vučić In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.",
+      "status": "pending",
+      "firstSeenAt": 1792976274.4562247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr3wvz20pglqo",
+      "provider": "BBC",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "status": "pending",
+      "firstSeenAt": 1792976274.4566207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792976274.6035957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792976274.6037838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792976274.6037998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/brazilian-president-luiz-inacio-lula-da-silva-wins/107308482",
+      "provider": "ABC News Australia",
+      "title": "Luiz Inácio Lula da Silva set to reclaim Brazilian presidency",
+      "status": "pending",
+      "firstSeenAt": 1792976274.9088037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200",
+      "provider": "ABC News Australia",
+      "title": "Antonelli is two points away from the F1 title, and can win it next week",
+      "status": "pending",
+      "firstSeenAt": 1792976274.9091175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/melbourne-demons-boss-named-as-melbourne-market-chair/107300542",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Market board quits over appointment of former Demons chief Paul Guerra",
+      "status": "pending",
+      "firstSeenAt": 1792976274.9096637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/victorian-liberals-to-ban-globalise-the-intifada-state-election/107308178",
+      "provider": "ABC News Australia",
+      "title": "Victorian Liberals to ban 'globalise the intifada' chant if elected",
+      "status": "pending",
+      "firstSeenAt": 1792976274.9097042,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
