@@ -69666,9 +69666,81 @@
       "status": "pending",
       "firstSeenAt": 1793052587.4178374,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0rljq0dzvxo",
+      "provider": "BBC",
+      "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
+      "status": "pending",
+      "firstSeenAt": 1793054369.7688954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c95yn672rx64o",
+      "provider": "BBC",
+      "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
+      "status": "pending",
+      "firstSeenAt": 1793054369.8967214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cj3vq7l22yk9o",
+      "provider": "BBC",
+      "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1793054369.8970108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793054370.3568518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793054370.3570604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793054370.3571682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793054370.3572025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/outback-mining-jobs-queensland-workforce-shortage/107308390",
+      "provider": "ABC News Australia",
+      "title": "Outback mining jobs are on the rise, with no workers to fill them",
+      "status": "pending",
+      "firstSeenAt": 1793054370.922457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/nsw-sydney-researchers-heart-disease-breakthrough/107291386",
+      "provider": "ABC News Australia",
+      "title": "Breakthrough in the fight to stop healthy people getting heart disease",
+      "status": "pending",
+      "firstSeenAt": 1793054370.9227605,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
