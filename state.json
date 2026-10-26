@@ -69314,9 +69314,81 @@
       "status": "pending",
       "firstSeenAt": 1793041158.5742257,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy4xwp22xyqo",
+      "provider": "BBC",
+      "title": "'Maxxing' selected as Dictionary.com word of the year The term \"maxxing\" is used as an adjective, adverb, noun and verb by many in Gen Z and Gen Alpha to describe an emphasis in optimisation. 19 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793043344.383444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck78px6glw3lo",
+      "provider": "BBC",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "status": "pending",
+      "firstSeenAt": 1793043344.3843386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793043345.0661125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/tga-to-overhaul-spf-testing-for-australian-sunscreen-brands/107308980",
+      "provider": "ABC News Australia",
+      "title": "Plans unveiled to tighten sunscreen testing after SPF scandal",
+      "status": "pending",
+      "firstSeenAt": 1793043345.498061,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/israel-election-military-netanyahu-feud/107312270",
+      "provider": "ABC News Australia",
+      "title": "Israeli military breaks silence on purported feud with Netanyahu",
+      "status": "pending",
+      "firstSeenAt": 1793043345.498228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/medical-centre-arson-moonee-ponds-brighton-cars-alight-vic/107312294",
+      "provider": "ABC News Australia",
+      "title": "Medical centre targeted in Melbourne arson attack",
+      "status": "pending",
+      "firstSeenAt": 1793043345.499279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/informal-removal-of-sa-children-against-mums-wishes/107310402",
+      "provider": "ABC News Australia",
+      "title": "Child protection 'informally' removed SA children against mothers' wishes",
+      "status": "pending",
+      "firstSeenAt": 1793043345.4993165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/nup-to-cup-labels-victoria-deadliest-state-for-racehorses/107282604",
+      "provider": "ABC News Australia",
+      "title": "Victoria crowned 'deadliest' state for racehorses by activists",
+      "status": "pending",
+      "firstSeenAt": 1793043345.499347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/failed-hobart-stadium-tender-bidder-webuild-costs-reimbursed/107310368",
+      "provider": "ABC News Australia",
+      "title": "Failed stadium bidder understood to get millions reimbursed",
+      "status": "pending",
+      "firstSeenAt": 1793043345.4994063,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
