@@ -68970,9 +68970,81 @@
       "status": "pending",
       "firstSeenAt": 1793031767.2682505,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crlykey9jywqo",
+      "provider": "BBC",
+      "title": "Israel and the US are both going to the polls - the consequences will be global The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale 34 mins ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1793034319.1079755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3rryxlkq5qro",
+      "provider": "BBC",
+      "title": "Trump faces backlash after invoking 9/11 in verbal assault on El-Sayed The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.",
+      "status": "pending",
+      "firstSeenAt": 1793034319.1087582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g175dgdx2o",
+      "provider": "BBC",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "status": "pending",
+      "firstSeenAt": 1793034319.1088586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmn8wzldd7q0o",
+      "provider": "BBC",
+      "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
+      "status": "pending",
+      "firstSeenAt": 1793034319.109282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cr78pxd66d47o",
+      "provider": "BBC",
+      "title": "Angry players urge ATP rethink over doubles cuts",
+      "status": "pending",
+      "firstSeenAt": 1793034319.109337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckm23y3mg1yyo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793034319.181293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793034319.7706282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/jacob-morley-murderer-tennessee-manhunt",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793034319.7710705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793034319.771089,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
