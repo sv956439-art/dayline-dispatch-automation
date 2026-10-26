@@ -69738,9 +69738,89 @@
       "status": "pending",
       "firstSeenAt": 1793054370.9227605,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqlye4jpzzxyo",
+      "provider": "BBC",
+      "title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
+      "status": "pending",
+      "firstSeenAt": 1793056141.3431175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqp9gky38lj3o",
+      "provider": "BBC",
+      "title": "Putellas wins record-equalling third Ballon d'Or",
+      "status": "pending",
+      "firstSeenAt": 1793056141.343151,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz98qg9k2w9o",
+      "provider": "BBC",
+      "title": "Trump's media bans 'deprive the public', press freedom groups argue The plaintiffs allege they are no longer able to do their work without reliable access to information delivered by the White House press. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793056141.4343684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx240dpzv009o",
+      "provider": "BBC",
+      "title": "Downing Street appears to backtrack on PM's freedom of movement referendum suggestion The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU. 5 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1793056141.4344008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d93gq1xdgno",
+      "provider": "BBC",
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "status": "pending",
+      "firstSeenAt": 1793056141.4348798,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793056141.7322724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/last-ditch-lesbian-bar-closing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793056141.7322967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/twelve-dead-in-png-after-car-rollover-and-police-shootout/107311548",
+      "provider": "ABC News Australia",
+      "title": "Twelve dead in PNG after car rollover and police shootout",
+      "status": "pending",
+      "firstSeenAt": 1793056142.0876913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/ken-bodinnar-ses-workers-compensation-claim-victoria/107138500",
+      "provider": "ABC News Australia",
+      "title": "Dying SES employee fights to have workers' compensation claim recognised",
+      "status": "pending",
+      "firstSeenAt": 1793056142.087741,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/nsw-abbotsford-suspected-arson-attack-police-balaclava-sydney/107312574",
+      "provider": "ABC News Australia",
+      "title": "Sydney house erupts in flames in suspected arson attack",
+      "status": "pending",
+      "firstSeenAt": 1793056142.087787,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
