@@ -68346,9 +68346,41 @@
       "status": "pending",
       "firstSeenAt": 1793002788.5593672,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqdr8e81xjy7o",
+      "provider": "BBC",
+      "title": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
+      "status": "pending",
+      "firstSeenAt": 1793005464.174728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c32l4kyk7gdeo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1793005464.1748445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/26/eric-bauza-award-winning-looney-tunes-voice-actor-dies-aged-46",
+      "provider": "The Guardian",
+      "title": "Eric Bauza, award-winning Looney Tunes voice actor, dies aged 46",
+      "status": "pending",
+      "firstSeenAt": 1793005464.3289616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/dr-redmayne-aims-to-lift-brisbane-heat-wbbl-fortunes/107311252",
+      "provider": "ABC News Australia",
+      "title": "Dr Redmayne aims to lift Brisbane Heat's WBBL fortunes",
+      "status": "pending",
+      "firstSeenAt": 1793005464.6410775,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
