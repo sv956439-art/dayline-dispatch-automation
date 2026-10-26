@@ -69554,9 +69554,57 @@
       "status": "pending",
       "firstSeenAt": 1793049024.5712333,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxj7dvxr5yo",
+      "provider": "BBC",
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "status": "pending",
+      "firstSeenAt": 1793050739.5065725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jzx9v9dw9o",
+      "provider": "BBC",
+      "title": "Renfrew flooded after council failed to activate barriers during Storm Boelo",
+      "status": "pending",
+      "firstSeenAt": 1793050739.506632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793050739.6403446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/nsw-jacinda-ardern-sydney-university-appointment/107312388",
+      "provider": "ABC News Australia",
+      "title": "Sydney University hires Jacinda Ardern as lecturer and mentor",
+      "status": "pending",
+      "firstSeenAt": 1793050740.0728912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/pest-koi-carp-in-river-torrens-120k-fines/107309868",
+      "provider": "ABC News Australia",
+      "title": "Fines of up to $120k for dumping pet fish in Adelaide river",
+      "status": "pending",
+      "firstSeenAt": 1793050740.073671,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/asx-markets-business-live-news-anthropic/107312526",
+      "provider": "ABC News Australia",
+      "title": "Anthropic to hit stock market with 'eye-popping' growth and massive losses",
+      "status": "pending",
+      "firstSeenAt": 1793050740.073709,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
