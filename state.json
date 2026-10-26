@@ -68546,9 +68546,169 @@
       "status": "pending",
       "firstSeenAt": 1793014615.8365474,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398p1wd1evo",
+      "provider": "BBC",
+      "title": "AI giant Anthropic unveils plans for blockbuster share listing The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI. 11 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7610981,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq3dje4g4d5jo",
+      "provider": "BBC",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle. 32 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7611175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/c6zjxgj83n80o",
+      "provider": "BBC",
+      "title": "Stunning photos capture October's Hunter's Moon around the world October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7611434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261022-when-is-premium-economy-worth-the-extra-cost-we-compare-five-of-the-worlds-best-rated-airlines",
+      "provider": "BBC",
+      "title": "When is premium economy worth the extra cost? Skytrax named these the world's five best premium economy airlines. We examine what sets their cabins apart and whether it's worth paying extra for them.",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7611687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky93gep3gyeo",
+      "provider": "BBC",
+      "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash Mary Peltola, who suffered minor injuries, is running in one of the most closely watched races in the upcoming elections.",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7616053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
+      "provider": "BBC",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973 The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7616584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/ck20wj7znqy8o",
+      "provider": "BBC",
+      "title": "Borthwick's autumn questions as World Cup looms",
+      "status": "pending",
+      "firstSeenAt": 1793023089.761918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4g1vgj6q39o",
+      "provider": "BBC",
+      "title": "Excitement grows for new ACOTAR book Dozens will be gathering at Wolverhampton Arts Centre to celebrate the series' newest release.",
+      "status": "pending",
+      "firstSeenAt": 1793023089.7619958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0632045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0635555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0635674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793023090.06362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
+      "provider": "The Guardian",
+      "title": "What you need to know about the most consequential election in Israel’s history",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0637555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/26/tipping-etiquette-takeout-food-delivery",
+      "provider": "The Guardian",
+      "title": "Should we tip on takeout? We weighed all angles and the answer is …",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0637767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america",
+      "provider": "The Guardian",
+      "title": "double quotation mark Donald Trump has been a disaster for rural America",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0637991,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/26/the-pet-ill-never-forget-clement-was-hit-by-a-car-and-left-to-die-in-a-ditch-then-found-his-beautiful-purpose",
+      "provider": "The Guardian",
+      "title": "The pet I’ll never forget: Clement was hit by a car and left to die in a ditch – then found his beautiful purpose",
+      "status": "pending",
+      "firstSeenAt": 1793023090.063824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
+      "provider": "The Guardian",
+      "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+      "status": "pending",
+      "firstSeenAt": 1793023090.0638368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/us-marine-charged-with-murder-in-japan/107311812",
+      "provider": "ABC News Australia",
+      "title": "US marine charged over Japanese woman's murder",
+      "status": "pending",
+      "firstSeenAt": 1793023090.3851833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848",
+      "provider": "ABC News Australia",
+      "title": "Jordan arrests three relatives over deadly church attack",
+      "status": "pending",
+      "firstSeenAt": 1793023090.385204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/chris-brown-sentenced-london-nightclub-brawl/107311850",
+      "provider": "ABC News Australia",
+      "title": "Chris Brown avoids jail time over London nightclub brawl",
+      "status": "pending",
+      "firstSeenAt": 1793023090.3852227,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
