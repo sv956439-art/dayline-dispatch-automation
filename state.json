@@ -68706,9 +68706,161 @@
       "status": "pending",
       "firstSeenAt": 1793023090.3852227,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8p3g73ep520o",
+      "provider": "BBC",
+      "title": "Fans prepare to say goodbye as anime series Bleach officially ends Twenty-two years after it first aired, one of the biggest animes of all time is coming to an end. 3 hrs ago Newsbeat",
+      "status": "pending",
+      "firstSeenAt": 1793028578.478505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwly02l45ny3o",
+      "provider": "BBC",
+      "title": "Russell Brand asked assistant for female fan phone numbers, court hears Helen Berger said she left her job working for Brand after she became \"sick of him.\" 32 mins ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1793028578.4785843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vgxjex1z9wo",
+      "provider": "BBC",
+      "title": "US Marine indicted for murder and robbery of woman in Japan Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports. 1 hr ago World",
+      "status": "pending",
+      "firstSeenAt": 1793028578.478638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c893zwyvde0wo",
+      "provider": "BBC",
+      "title": "Man released without charge after Waterford attack",
+      "status": "pending",
+      "firstSeenAt": 1793028578.4792144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/horse-racing/articles/c6lykg4l72xlo",
+      "provider": "BBC",
+      "title": "Racecourse fined after jockey taken to A&E in horsebox",
+      "status": "pending",
+      "firstSeenAt": 1793028578.479711,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwg5jn7845jdo",
+      "provider": "BBC",
+      "title": "Ireland prop Furlong cited over alleged groin grab",
+      "status": "pending",
+      "firstSeenAt": 1793028578.479765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgexgy4765o",
+      "provider": "BBC",
+      "title": "Couple campaigns to save their wedding venue",
+      "status": "pending",
+      "firstSeenAt": 1793028578.5592613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6867917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6872253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6872492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.687387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6875007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/26/russell-brand-trial-personal-assistant-evidence",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6877885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/oct/26/v-and-a-museum-unions-suspend-strike-after-improved-pay-offer-london",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6878283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.687957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793028578.6879845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+      "provider": "The Guardian",
+      "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws critcism",
+      "status": "pending",
+      "firstSeenAt": 1793028578.68843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/will-donald-trump-or-ai-blow-up-financial-markets-first/107311432",
+      "provider": "ABC News Australia",
+      "title": "Will Donald Trump or AI blow up financial markets first?",
+      "status": "pending",
+      "firstSeenAt": 1793028579.2794788,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/economic-pain-collides-with-regulatory-changes-small-business/107286660",
+      "provider": "ABC News Australia",
+      "title": "Economic pain collides with regulatory changes for small businesses",
+      "status": "pending",
+      "firstSeenAt": 1793028579.2795324,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
