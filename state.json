@@ -68018,9 +68018,41 @@
       "status": "pending",
       "firstSeenAt": 1792990790.43576,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792992470.5707152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792992470.5716898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/tasty-one-pot-pastas/107291606",
+      "provider": "ABC News Australia",
+      "title": "Our favourite one-pot pastas for busy weeknights",
+      "status": "pending",
+      "firstSeenAt": 1792992470.830631,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/canberra-health-services-letters-removing-patients-waitlists/107308630",
+      "provider": "ABC News Australia",
+      "title": "Patients removed from Canberra health waitlists via letter",
+      "status": "pending",
+      "firstSeenAt": 1792992470.8313441,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
