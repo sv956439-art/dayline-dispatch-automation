@@ -68090,9 +68090,97 @@
       "status": "pending",
       "firstSeenAt": 1792994507.028984,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde8g2510r0o",
+      "provider": "BBC",
+      "title": "Legally Blonde turns 25: Meet the lawyers inspired by Reese Witherspoon's Elle Woods Twenty five years after the release of Legally Blonde in the UK, lawyers discuss how the film inspired them",
+      "status": "pending",
+      "firstSeenAt": 1792996885.4931269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62yw4nxqg4o",
+      "provider": "BBC",
+      "title": "Theatres at risk and fighting back across the West",
+      "status": "pending",
+      "firstSeenAt": 1792996885.4931448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792996885.8389413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/europe-serbia-election-celebration-aleksandar-vucic-defeat-student-movement",
+      "provider": "The Guardian",
+      "title": "‘This is a symbol for Europe’: streets of Belgrade resound with joy after Vučić defeat",
+      "status": "pending",
+      "firstSeenAt": 1792996885.8391218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/we-built-this-land-descendants-of-enslaved-people-are-reclaiming-their-history-across-south-africas-vineyards",
+      "provider": "The Guardian",
+      "title": "‘We built this land’: descendants of enslaved people are reclaiming their history across South Africa’s vineyards",
+      "status": "pending",
+      "firstSeenAt": 1792996885.839146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/coalition-says-cuts-to-save-budget-31-billion/107310512",
+      "provider": "ABC News Australia",
+      "title": "Coalition says cuts to climate, housing and more would save $31 billion",
+      "status": "pending",
+      "firstSeenAt": 1792996886.3822792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850",
+      "provider": "ABC News Australia",
+      "title": "Man found dead in Queensland floodwaters",
+      "status": "pending",
+      "firstSeenAt": 1792996886.3825614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/benjamin-netanyahu-and-challengers-prepare-for-election/107300710",
+      "provider": "ABC News Australia",
+      "title": "Benjamin Netanyahu's biggest challenger gears up for high-stakes election",
+      "status": "pending",
+      "firstSeenAt": 1792996886.3829892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/murder-victim-may-have-died-from-broken-heart-lawyer-says/107309658",
+      "provider": "ABC News Australia",
+      "title": "Jury told alleged murder victim may have died from 'broken heart'",
+      "status": "pending",
+      "firstSeenAt": 1792996886.3830075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/allan-hopkins-extradited-to-sa-over-child-offences/107310642",
+      "provider": "ABC News Australia",
+      "title": "Convicted paedophile Allan Hopkins arrested and extradited to SA",
+      "status": "pending",
+      "firstSeenAt": 1792996886.3830311,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/perth-airport-upgrades-update-warning-of-delays-during-project/107309572",
+      "provider": "ABC News Australia",
+      "title": "As Sydney gets a brand new airport, will Perth's ever be upgraded?",
+      "status": "pending",
+      "firstSeenAt": 1792996886.3830485,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
