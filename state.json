@@ -67970,9 +67970,41 @@
       "status": "pending",
       "firstSeenAt": 1792986906.6955118,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvwy7wz9x12go",
+      "provider": "BBC",
+      "title": "Australian murderer loses bid to eat Vegemite in prison Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture. 18 mins ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1792988599.3983808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw80zk9k51j1o",
+      "provider": "BBC",
+      "title": "4 hrs ago From agriculture to AI-griculture: How tech is changing farming From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1792988599.4830701,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/hillcrest-jumping-castle-tragedy-inquest-us-expert/107308470",
+      "provider": "ABC News Australia",
+      "title": "Jumping castle inquest looks to NASA dust devil researcher",
+      "status": "pending",
+      "firstSeenAt": 1792988600.0346677,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/gold-nugget-discovered-in-outback/107306976",
+      "provider": "ABC News Australia",
+      "title": "Amateur prospector finds $150,000 gold nugget in outback",
+      "status": "pending",
+      "firstSeenAt": 1792988600.034718,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
