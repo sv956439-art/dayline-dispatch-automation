@@ -67922,9 +67922,57 @@
       "status": "pending",
       "firstSeenAt": 1792984682.1966016,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8g7e4k2xjo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792986906.1333616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792986906.3531964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy",
+      "status": "pending",
+      "firstSeenAt": 1792986906.3541393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/rugby-league-world-cup-rlwc-week-two-quick-hits-scores-crowds/107308904",
+      "provider": "ABC News Australia",
+      "title": "RLWC quick hits: Big crowds and bigger scorelines in week two",
+      "status": "pending",
+      "firstSeenAt": 1792986906.6947093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/three-game-bledisloe-cup-series-looms-as-new-deal-struck/107309132",
+      "provider": "ABC News Australia",
+      "title": "Three-game Bledisloe Cup series looms as new deal struck",
+      "status": "pending",
+      "firstSeenAt": 1792986906.6954677,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/two-deaths-linked-to-tasmanian-ambulance-delays-investigated/107308182",
+      "provider": "ABC News Australia",
+      "title": "Second death increases call for action on health system in 'crisis'",
+      "status": "pending",
+      "firstSeenAt": 1792986906.6955118,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
