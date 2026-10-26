@@ -67818,9 +67818,65 @@
       "status": "pending",
       "firstSeenAt": 1792980872.904619,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c6wyvnlx0erxo",
+      "provider": "BBC",
+      "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+      "status": "pending",
+      "firstSeenAt": 1792982840.0436766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq2e9we7w2ejo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792982840.1131625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlykvpdx4x0o",
+      "provider": "BBC",
+      "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks? Videos in which people claim to spot the signs of low iron have attracted millions of views online. 1 hr ago Health",
+      "status": "pending",
+      "firstSeenAt": 1792982840.1132648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck87z4ng2l03o",
+      "provider": "BBC",
+      "title": "UK Chancellor's Budget needs to sustain the stronger economy through gathering clouds The economic is positive now but come January things could become trickier for the Labour government 2 hrs ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1792982840.1133144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792982840.253056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/italy-protests-colosseum-cost-of-living/107308262",
+      "provider": "ABC News Australia",
+      "title": "Rome demonstrators storm Colosseum as Europe's youth protests spread",
+      "status": "pending",
+      "firstSeenAt": 1792982840.6329117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/nsw-beau-lamarre-condon-friend-told-he-misinterprated-confession/107308838",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon told friend he misinterpreted alleged confession, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792982840.6341453,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
