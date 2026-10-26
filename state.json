@@ -68050,9 +68050,49 @@
       "status": "pending",
       "firstSeenAt": 1792992470.8313441,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw073m0z0j89o",
+      "provider": "BBC",
+      "title": "'Why we think Milton Keynes can be a City of Culture' The spotlight is shining on the post-war city, after it made the UK City of Culture shortlist.",
+      "status": "pending",
+      "firstSeenAt": 1792994506.605712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792994506.791829,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/25/jalen-williams-injury-thunder-clippers-nba",
+      "provider": "The Guardian",
+      "title": "‘We’re not doing great’: Gilgeous-Alexander in tears after Williams suffers gruesome leg injury",
+      "status": "pending",
+      "firstSeenAt": 1792994506.792879,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/luke-gosling-darwin-court-breach-of-bail-charge-withdrawn/107309702",
+      "provider": "ABC News Australia",
+      "title": "Federal MP Luke Gosling's breach of bail charge dropped by prosecution",
+      "status": "pending",
+      "firstSeenAt": 1792994507.0280435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/act-sexual-assault-woman-held-captive-victim-impact-statement/107308086",
+      "provider": "ABC News Australia",
+      "title": "Woman 'stripped of dignity' by man who held her captive, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792994507.028984,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
