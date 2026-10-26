@@ -67786,9 +67786,41 @@
       "status": "pending",
       "firstSeenAt": 1792978592.36206,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6g7xn8p2n0ro",
+      "provider": "BBC",
+      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day' The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
+      "status": "pending",
+      "firstSeenAt": 1792980871.961557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/service-station-worker-dies-in-hospital-after-dragged-by-ute/107308122",
+      "provider": "ABC News Australia",
+      "title": "Worker dies in hospital after being dragged under ute at service station",
+      "status": "pending",
+      "firstSeenAt": 1792980872.9041028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/qld-woman-granted-bail-after-alleged-hijab-snatch-attempt/107308350",
+      "provider": "ABC News Australia",
+      "title": "Woman granted bail after allegedly trying to snatch teen's hijab",
+      "status": "pending",
+      "firstSeenAt": 1792980872.9045823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/zempilas-eyes-road-less-travelled-as-wa-liberals-face-two-paths/107306842",
+      "provider": "ABC News Australia",
+      "title": "Zempilas eyes 'road less travelled' as WA Liberals face two diverging paths",
+      "status": "pending",
+      "firstSeenAt": 1792980872.904619,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
