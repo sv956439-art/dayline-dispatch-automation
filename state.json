@@ -68002,9 +68002,25 @@
       "status": "pending",
       "firstSeenAt": 1792988600.034718,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792990789.1350899,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/robert-crawford-murder-trial-begins-brisbane-former-raaf-pilot/107308336",
+      "provider": "ABC News Australia",
+      "title": "Former RAAF pilot was living 'double life' before wife's death, court hears",
+      "status": "pending",
+      "firstSeenAt": 1792990790.43576,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
