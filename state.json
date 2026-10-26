@@ -69602,9 +69602,73 @@
       "status": "pending",
       "firstSeenAt": 1793050740.073709,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly0xqjnlwvo",
+      "provider": "BBC",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "status": "pending",
+      "firstSeenAt": 1793052586.7986841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c35yn2ye1x85o",
+      "provider": "BBC",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president. 10 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1793052586.8739579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793052587.154187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/british-politicians-among-international-delegates-barred-from-entering-west-bank",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793052587.1547322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/earthquake-reported-by-residents-around-adelaide/107312622",
+      "provider": "ABC News Australia",
+      "title": "Earthquake reported by residents around Adelaide",
+      "status": "pending",
+      "firstSeenAt": 1793052587.4168308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/sydney-dance-company-2027-season-rafael-bonachela-wild-order/107235698",
+      "provider": "ABC News Australia",
+      "title": "He choreographed Kylie at the grand final, now he's revealing his final work",
+      "status": "pending",
+      "firstSeenAt": 1793052587.4177413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/tadhg-furlong-cited-alleged-genital-grab-urc/107312616",
+      "provider": "ABC News Australia",
+      "title": "Veteran rugby prop cited for allegedly grabbing opponent's genitals",
+      "status": "pending",
+      "firstSeenAt": 1793052587.4177907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/wa-country-towns-paying-millions-to-keep-local-gps-doctors/107296980",
+      "provider": "ABC News Australia",
+      "title": "Country residents paying three times to keep local doctors",
+      "status": "pending",
+      "firstSeenAt": 1793052587.4178374,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
