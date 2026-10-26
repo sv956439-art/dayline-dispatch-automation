@@ -68474,9 +68474,81 @@
       "status": "pending",
       "firstSeenAt": 1793012470.3393428,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9203k1jrmpvo",
+      "provider": "BBC",
+      "title": "Five ways Trump has changed immigration in the US This is how the US president's signature policy has played out after promising a closed border and mass deportations.",
+      "status": "pending",
+      "firstSeenAt": 1793014615.2867315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g17qq8wz4o",
+      "provider": "BBC",
+      "title": "Jordan arrests three men suspected of deadly church attack after shootout No group has yet said it was behind Friday's shooting attack in the village of Hmoud, which left nine Christians dead.",
+      "status": "pending",
+      "firstSeenAt": 1793014615.2868307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0401q03eeno",
+      "provider": "BBC",
+      "title": "5 hrs ago Shopping centre to be turned into giant art canvas Hundreds of people will help turn Wolverhampton's Mander Centre into a giant public artwork. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793014615.3790183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g14ep1xjzo",
+      "provider": "BBC",
+      "title": "5 hrs ago Museum fees partly axed after drop in footfall City residents will no longer have to pay the £4 entry fee to the Museum of Oxford. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793014615.379048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793014615.8356335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793014615.8359756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793014615.8364108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793014615.836528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/vaccines-rfk-jr",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793014615.8365474,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
