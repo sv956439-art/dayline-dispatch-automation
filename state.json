@@ -69482,9 +69482,57 @@
       "status": "pending",
       "firstSeenAt": 1793045309.619358,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crwydxw0we8yo",
+      "provider": "BBC",
+      "title": "Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns The BBC says it did not uphold any of the allegations of antisemitism but accepted there were \"shortcomings\" in how it treated Lucie Kon.",
+      "status": "pending",
+      "firstSeenAt": 1793047143.1834729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793047143.3952947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/federal-politics-live-blog-oct-27/107312378",
+      "provider": "ABC News Australia",
+      "title": "Nine politicians get electorate office security upgrades after Haines attack",
+      "status": "pending",
+      "firstSeenAt": 1793047143.894738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/darren-cheeseman-mp-attendance-concerns/107308420",
+      "provider": "ABC News Australia",
+      "title": "MP claims Melbourne property allowance despite attendance concerns",
+      "status": "pending",
+      "firstSeenAt": 1793047143.8953273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/sydney-roosters-withdraw-contract-offer-to-halfback-sam-walker/107312396",
+      "provider": "ABC News Australia",
+      "title": "Roosters stunningly withdraw contract offer to halfback Sam Walker",
+      "status": "pending",
+      "firstSeenAt": 1793047143.8953507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/decomposed-whale-carcass-closes-malabar-beach/107312404",
+      "provider": "ABC News Australia",
+      "title": "Decomposing whale carcass reemerges on Sydney's Malabar Beach",
+      "status": "pending",
+      "firstSeenAt": 1793047143.8953724,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
