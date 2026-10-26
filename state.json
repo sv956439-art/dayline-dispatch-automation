@@ -67754,9 +67754,41 @@
       "status": "pending",
       "firstSeenAt": 1792976274.9097042,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "provider": "BBC",
+      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country. 50 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1792978592.085441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3elp3v7jkdo",
+      "provider": "BBC",
+      "title": "India's cartoonists built an audience online - now their posts are being restricted Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+      "status": "pending",
+      "firstSeenAt": 1792978592.0865533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792978592.3618915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/damning-investigation-labor-algorithm-tool-aged-care-assessment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1792978592.36206,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
