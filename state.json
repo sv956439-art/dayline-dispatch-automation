@@ -69530,9 +69530,33 @@
       "status": "pending",
       "firstSeenAt": 1793047143.8953724,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/queensland-prisons-human-rights-deaths-in-custody-fears/107277276",
+      "provider": "ABC News Australia",
+      "title": "Prison officers fear deaths in custody under Queensland bill",
+      "status": "pending",
+      "firstSeenAt": 1793049024.5711489,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/experts-warn-of-santos-gas-reservation-scheme-loopholes/107309946",
+      "provider": "ABC News Australia",
+      "title": "Experts warn gas scheme ripe for manipulation",
+      "status": "pending",
+      "firstSeenAt": 1793049024.5711942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/alex-de-minaur-comeback-win-at-vienna-open/107312384",
+      "provider": "ABC News Australia",
+      "title": "De Minaur pulls off massive comeback to improve ATP Finals hopes",
+      "status": "pending",
+      "firstSeenAt": 1793049024.5712333,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
