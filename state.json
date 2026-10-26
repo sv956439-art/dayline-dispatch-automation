@@ -68178,9 +68178,137 @@
       "status": "pending",
       "firstSeenAt": 1792996886.3830485,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwzd6q630vjeo",
+      "provider": "BBC",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46 Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1793000004.4763253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/c61wvzxjxnjxo",
+      "provider": "BBC",
+      "title": "Vikings are last unbeaten team as Chiefs lose - NFL week seven",
+      "status": "pending",
+      "firstSeenAt": 1793000004.4778652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgx5qyrl45o",
+      "provider": "BBC",
+      "title": "Plans to create a wildflower meadow take shape",
+      "status": "pending",
+      "firstSeenAt": 1793000004.5444698,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5x2v3ky1ek7o",
+      "provider": "BBC",
+      "title": "Fed-up driver builds AI litter tracker",
+      "status": "pending",
+      "firstSeenAt": 1793000004.5444982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn0694g244do",
+      "provider": "BBC",
+      "title": "Heatwaves lead to record-breaking fridge recycling",
+      "status": "pending",
+      "firstSeenAt": 1793000004.5445237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy0ry25y32wo",
+      "provider": "BBC",
+      "title": "The dump detectives on the trail of the fly-tippers",
+      "status": "pending",
+      "firstSeenAt": 1793000004.5445478,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793000004.7071567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793000004.707425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793000004.7074468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793000004.7076802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/one-nation-cartoon-political-jacqui-lambie-pauline-hanson/107308528",
+      "provider": "ABC News Australia",
+      "title": "Jacqui Lambie in disbelief after ONP cartoon creator doubles down",
+      "status": "pending",
+      "firstSeenAt": 1793000005.0265708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542",
+      "provider": "ABC News Australia",
+      "title": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
+      "status": "pending",
+      "firstSeenAt": 1793000005.0267684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/sydney-air-traffic-controller-high-fatigue-risk-report-says/107310362",
+      "provider": "ABC News Australia",
+      "title": "Air traffic worker had high fatigue risk during Sydney runway close call",
+      "status": "pending",
+      "firstSeenAt": 1793000005.0271258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/sydney-victoria-barracks-christmas-eviction-chris-minns/107309632",
+      "provider": "ABC News Australia",
+      "title": "Defence personnel begin packing as Sydney's Victoria Barracks sale looms",
+      "status": "pending",
+      "firstSeenAt": 1793000005.0271811,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/tyranny-of-distance-weighs-against-big-cycling-call/107310180",
+      "provider": "ABC News Australia",
+      "title": "'Tyranny of distance' weighs against big cycling call",
+      "status": "pending",
+      "firstSeenAt": 1793000005.0280766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/teen-in-court-over-gosnells-drive-by-shooting/107310500",
+      "provider": "ABC News Australia",
+      "title": "Boy, 13, stays behind bars after Perth drive-by shooting charges",
+      "status": "pending",
+      "firstSeenAt": 1793000005.0281212,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
