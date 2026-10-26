@@ -68450,9 +68450,33 @@
       "status": "pending",
       "firstSeenAt": 1793010126.826021,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261023-why-the-real-christopher-robin-resented-winnie-the-pooh",
+      "provider": "BBC",
+      "title": "Why the real Christopher Robin resented Pooh Bear AA Milne's first Pooh book was published a century ago. Its inspiration, the author's own son, told the BBC why he took to \"running away when people bring up the subject\".",
+      "status": "pending",
+      "firstSeenAt": 1793012470.14175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793012470.3389459,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793012470.3393428,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
