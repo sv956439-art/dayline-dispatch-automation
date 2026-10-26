@@ -68402,9 +68402,57 @@
       "status": "pending",
       "firstSeenAt": 1793007770.15286,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "provider": "BBC",
+      "title": "21 mins ago How solar became bigger than nuclear After defying projections, solar's dramatic growth means it is overtaking nuclear as a global power source. Here are seven reasons for solar's success, and where it might go from here. 21 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1793010125.9204216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn8wxy1z3qlo",
+      "provider": "BBC",
+      "title": "4 hrs ago 'A £12 dog toy bought from Amazon killed my dog' After losing her cane corso, Antonia Speariett wants to warn other dog owners about rope tug toys. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793010125.9204419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793010126.356934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793010126.3570745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793010126.3574216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/victorian-liberal-amanda-dow-husband-allegedly-assaulted/107311462",
+      "provider": "ABC News Australia",
+      "title": "Liberal candidate's husband allegedly assaulted over campaign sign",
+      "status": "pending",
+      "firstSeenAt": 1793010126.826021,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
