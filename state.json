@@ -68858,9 +68858,121 @@
       "status": "pending",
       "firstSeenAt": 1793028579.2795324,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwz0vg4v3ndeo",
+      "provider": "BBC",
+      "title": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around As polls pointed to defeat, millions joined a 'Lula's Army' channel \nthat is credited with helping transform online enthusiasm into real-world mobilisation. 44 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1793031766.4040658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8rz1d286v3o",
+      "provider": "BBC",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "status": "pending",
+      "firstSeenAt": 1793031766.4045665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpdg8vnv171o",
+      "provider": "BBC",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "status": "pending",
+      "firstSeenAt": 1793031766.404581,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqdr8zv5dg42o",
+      "provider": "BBC",
+      "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked BBC Sport takes a look at who could replace Michael Carrick at Manchester United if the head coach was sacked.",
+      "status": "pending",
+      "firstSeenAt": 1793031766.404861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck5yn5j37en0o",
+      "provider": "BBC",
+      "title": "Why is Wilcox in line of fire from Man Utd fans?",
+      "status": "pending",
+      "firstSeenAt": 1793031766.4048834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g15g4jk53o",
+      "provider": "BBC",
+      "title": "Shrine to Doctor Who spin-off character to be regenerated into piece of art Ianto's Shrine was removed from Mermaid Quay in Cardiff, but will be turned into a giant portrait.",
+      "status": "pending",
+      "firstSeenAt": 1793031766.4049587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgl8rlmvn2o",
+      "provider": "BBC",
+      "title": "Tributes paid to man killed by falling tree in Storm Boelo",
+      "status": "pending",
+      "firstSeenAt": 1793031766.4705493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2qgeld2rno",
+      "provider": "BBC",
+      "title": "Red weather warning issued for coastal overtopping",
+      "status": "pending",
+      "firstSeenAt": 1793031766.470573,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9lykm93jmo",
+      "provider": "BBC",
+      "title": "Electricity restored to all of NI after Storm Boelo",
+      "status": "pending",
+      "firstSeenAt": 1793031766.4705846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793031766.7877066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793031766.7880847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/trump-bill-maher-truth-social-rant",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793031766.7881608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793031766.7881715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/anthropic-claude-ipo-filing/107312096",
+      "provider": "ABC News Australia",
+      "title": "Anthropic files to list on stock market in potential $US1.5tn float",
+      "status": "pending",
+      "firstSeenAt": 1793031767.2682505,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
