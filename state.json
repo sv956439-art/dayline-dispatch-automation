@@ -67666,9 +67666,25 @@
       "status": "pending",
       "firstSeenAt": 1792972461.6926801,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/nsw-wsi-western-sydney-airport-confusion-travellers-open/107308302",
+      "provider": "ABC News Australia",
+      "title": "'Meant to be in Perth': New Sydney airport catches out travellers",
+      "status": "pending",
+      "firstSeenAt": 1792973320.6916118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-26/bushfire-training-women-prepare-for-fire-season-wa/107298236",
+      "provider": "ABC News Australia",
+      "title": "Women take bushfire preparation into their own hands",
+      "status": "pending",
+      "firstSeenAt": 1792973320.6916418,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
