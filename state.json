@@ -69834,9 +69834,33 @@
       "status": "pending",
       "firstSeenAt": 1793057671.3263116,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/greg-lynn-bail-denied-supreme-court-decision/107312570",
+      "provider": "ABC News Australia",
+      "title": "Alleged High Country killer Greg Lynn denied bail",
+      "status": "pending",
+      "firstSeenAt": 1793059285.395074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/yac-claims-qld-government-cut-budget-for-speaking-out/107312926",
+      "provider": "ABC News Australia",
+      "title": "Queensland youth advocate claims government cut budget in retaliation",
+      "status": "pending",
+      "firstSeenAt": 1793059285.396179,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/darwin-smith-street-mall-false-report-credible-threat/107312942",
+      "provider": "ABC News Australia",
+      "title": "Darwin city mall reopened after false report of 'credible threat'",
+      "status": "pending",
+      "firstSeenAt": 1793059285.396239,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
