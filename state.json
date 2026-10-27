@@ -70970,9 +70970,49 @@
       "status": "pending",
       "firstSeenAt": 1793103585.0918381,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr3wvl9qz3v2o",
+      "provider": "BBC",
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan The cycle of revenge attacks continue as the country heads towards its first  election since independence.",
+      "status": "pending",
+      "firstSeenAt": 1793106651.1286912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqvg01jyy84xo",
+      "provider": "BBC",
+      "title": "How Kane defied doubters to become world's best",
+      "status": "pending",
+      "firstSeenAt": 1793106651.129096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crd6dzzgp6d5o",
+      "provider": "BBC",
+      "title": "Toppled trees force football fixture postponement",
+      "status": "pending",
+      "firstSeenAt": 1793106651.201265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c62ke84qwl1vo",
+      "provider": "BBC",
+      "title": "Scotland's recycling rates fall to lowest level in five years",
+      "status": "pending",
+      "firstSeenAt": 1793106651.2012866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrryxnq05l9o",
+      "provider": "BBC",
+      "title": "Search halted after reports of person swept out to sea in Largs",
+      "status": "pending",
+      "firstSeenAt": 1793106651.2013178,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
