@@ -69898,9 +69898,57 @@
       "status": "pending",
       "firstSeenAt": 1793061303.708442,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c893zwlev2xpo",
+      "provider": "BBC",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "status": "pending",
+      "firstSeenAt": 1793064018.0576663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/meghan-markle-to-judge-junior-masterchef-australia/107313300",
+      "provider": "ABC News Australia",
+      "title": "Meghan Markle will return to Australia to co-host Junior MasterChef",
+      "status": "pending",
+      "firstSeenAt": 1793064018.8917823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/victoria-police-speeding-driver-baby-delivery-warrnambool/107310988",
+      "provider": "ABC News Australia",
+      "title": "Police who pull over speeding driver find themselves delivering baby",
+      "status": "pending",
+      "firstSeenAt": 1793064018.8918223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/sam-wright-to-end-stint-as-collingwood-aflw-coach/107313500",
+      "provider": "ABC News Australia",
+      "title": "Collingwood crisis deepens with coach to leave struggling club",
+      "status": "pending",
+      "firstSeenAt": 1793064018.8918605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/hobart-unveils-william-crowther-statue-replacement/107310812",
+      "provider": "ABC News Australia",
+      "title": "Should we replace controversial colonial statues? Hobart just did",
+      "status": "pending",
+      "firstSeenAt": 1793064018.8924465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/blind-woman-says-smart-glasses-have-replaced-her-guide-dog/107266650",
+      "provider": "ABC News Australia",
+      "title": "Blind woman says smart glasses replaced her guide dog",
+      "status": "pending",
+      "firstSeenAt": 1793064018.8924758,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
