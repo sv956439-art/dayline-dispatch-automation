@@ -70274,9 +70274,97 @@
       "status": "pending",
       "firstSeenAt": 1793079225.528875,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3j47l4kdez4o",
+      "provider": "BBC",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "status": "pending",
+      "firstSeenAt": 1793081221.2213957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg0ddz1z77o",
+      "provider": "BBC",
+      "title": "Donald Trump's biggest economic problem looks strangely familiar Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+      "status": "pending",
+      "firstSeenAt": 1793081221.222498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793081221.7039516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793081221.7043467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/cities/2026/oct/27/shoppers-praise-oxford-street-pedestrianisation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793081221.7043703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/king-charles-apology-slavery-commonwealth-caribbean",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793081221.7043922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/afl-abandons-opening-round-for-2027/107315040",
+      "provider": "ABC News Australia",
+      "title": "AFL abandons Opening Round for season 2027",
+      "status": "pending",
+      "firstSeenAt": 1793081222.0979342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/un-criticises-parliament-over-shackling-stripsearch-bills/107314010",
+      "provider": "ABC News Australia",
+      "title": "UN experts disappointed shackling and strip-searching bills blocked",
+      "status": "pending",
+      "firstSeenAt": 1793081222.0979846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/ai-photo-scam-targeting-pet-owners/107310844",
+      "provider": "ABC News Australia",
+      "title": "Owner of missing dog devastated by AI photo scam",
+      "status": "pending",
+      "firstSeenAt": 1793081222.09803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/auditor-general-tasmanian-government-businesses-gbe/107314290",
+      "provider": "ABC News Australia",
+      "title": "Bad report card for government businesses being propped up",
+      "status": "pending",
+      "firstSeenAt": 1793081222.0980682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/qld-robert-crawford-murder-trial-estate-value/107314776",
+      "provider": "ABC News Australia",
+      "title": "Former RAAF pilot stood to gain more than $5m from wife's death, court hears",
+      "status": "pending",
+      "firstSeenAt": 1793081222.0981135,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
