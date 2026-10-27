@@ -71010,9 +71010,73 @@
       "status": "pending",
       "firstSeenAt": 1793106651.2013178,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgj813mlelo",
+      "provider": "BBC",
+      "title": "Norway and Finland leaders hold rare call with Putin This is the first time European leaders have had direct communication with Russia's president in more than a year. 42 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793109317.8897886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx28de233r2o",
+      "provider": "BBC",
+      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "status": "pending",
+      "firstSeenAt": 1793109317.890908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c6pwg00nv9dvo",
+      "provider": "BBC",
+      "title": "England out of tri-series after Sri Lanka beat Pakistan",
+      "status": "pending",
+      "firstSeenAt": 1793109317.8914726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4g19vvmp59o",
+      "provider": "BBC",
+      "title": "My husband's death was hard enough - then came the admin Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\". 12 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793109317.9727936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqg7xenmde78o",
+      "provider": "BBC",
+      "title": "MPs and MSP detained by Israel and barred from entering West Bank SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces. 4 hrs ago Scotland Politics",
+      "status": "pending",
+      "firstSeenAt": 1793109317.973119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793109318.3066745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/prison-escape-tennessee-fence",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793109318.3068132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/first-thing-trump-targets-midterm-legitimacy-with-lawsuits-and-a-cash-bounty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793109318.3068354,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
