@@ -70474,9 +70474,89 @@
       "status": "pending",
       "firstSeenAt": 1793083436.556659,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv62yg0erp8zo",
+      "provider": "BBC",
+      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\". 14 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793086248.6972463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3dxwjx7xpj0o",
+      "provider": "BBC",
+      "title": "Tiny zebra-striped bee in West a 'huge surprise'",
+      "status": "pending",
+      "firstSeenAt": 1793086248.7498555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy4w84pez9o",
+      "provider": "BBC",
+      "title": "Prepper has 'enough food to last for 12 months'",
+      "status": "pending",
+      "firstSeenAt": 1793086248.749869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrwq3ql4vpo",
+      "provider": "BBC",
+      "title": "Storm-hit families keep 'brave face' without power",
+      "status": "pending",
+      "firstSeenAt": 1793086248.7498803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/27/asthma-deaths-reach-decade-high-australia-dementia-deaths-growing-abs-data",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793086249.7414649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793086249.7415297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793086249.7417114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/vv-disturbing-safety-failures-in-childcare-centres/107316026",
+      "provider": "ABC News Australia",
+      "title": "Disturbing safety failures in childcare centres",
+      "status": "pending",
+      "firstSeenAt": 1793086250.1287858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/northern-nsw-rescue-helicopter-culture-review/107314676",
+      "provider": "ABC News Australia",
+      "title": "Rescue helicopter gets 'pass mark' despite workplace concerns",
+      "status": "pending",
+      "firstSeenAt": 1793086250.1292174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/walsh-back-at-full-back-in-kangaroos-team-to-face-cook-islands/107315464",
+      "provider": "ABC News Australia",
+      "title": "Walsh back at fullback in Kangaroos team to face Cook Islands",
+      "status": "pending",
+      "firstSeenAt": 1793086250.1292388,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
