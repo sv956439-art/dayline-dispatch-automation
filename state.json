@@ -70746,9 +70746,57 @@
       "status": "pending",
       "firstSeenAt": 1793093052.5341046,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261023-how-we-can-exercise-more-without-trying",
+      "provider": "BBC",
+      "title": "How we can exercise more without even trying Incidental activity can reduce our risk of cardiovascular disease and even death. You can try some simple forms of it in a meeting, on a flight or while reading this article.",
+      "status": "pending",
+      "firstSeenAt": 1793095400.06153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c699zj38k9ero",
+      "provider": "BBC",
+      "title": "Sir Tom Jones 'truly sorry' as he cancels two shows due to illness Sir Tom has pushed back two concerts in the US on doctor's advice, due to \"a bad case of the flu\".",
+      "status": "pending",
+      "firstSeenAt": 1793095400.0616086,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g1k7m0mlpo",
+      "provider": "BBC",
+      "title": "1 hr ago Girl asks council to 'fight' in data centre row About 100 people protest against plans for a data centre and battery energy storage site. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1793095400.1181557,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793095400.2638578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793095400.2639463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793095400.2640219,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
