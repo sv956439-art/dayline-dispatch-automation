@@ -69858,9 +69858,49 @@
       "status": "pending",
       "firstSeenAt": 1793059285.396239,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw78pe7vlej5o",
+      "provider": "BBC",
+      "title": "India's largest share sale could end cheap mobile internet for millions Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+      "status": "pending",
+      "firstSeenAt": 1793061302.9009857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793061303.2136223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793061303.2136488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/randa-abdel-fattah-adelaide-writers-week-program/107311612",
+      "provider": "ABC News Australia",
+      "title": "Randa Abdel-Fattah to appear at Adelaide Writers' Week",
+      "status": "pending",
+      "firstSeenAt": 1793061303.7083917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/metro-north-south-indigenous-roles-empty-despite-act/107310958",
+      "provider": "ABC News Australia",
+      "title": "Brisbane hospital boards lack Indigenous voices despite legal requirements",
+      "status": "pending",
+      "firstSeenAt": 1793061303.708442,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
