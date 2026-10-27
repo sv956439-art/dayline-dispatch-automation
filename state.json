@@ -70834,9 +70834,89 @@
       "status": "pending",
       "firstSeenAt": 1793097399.7696738,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261026-12-of-the-best-tv-shows-to-watch-this-november",
+      "provider": "BBC",
+      "title": "12 of the best TV shows to watch this November From a drama about Muhammad Ali's early years to Amy Poehler's latest sitcom and a Blade Runner small-screen spin-off – these are the best series to watch and stream.",
+      "status": "pending",
+      "firstSeenAt": 1793099650.2570822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d93gn1pdl8o",
+      "provider": "BBC",
+      "title": "5 hrs ago Sports 'geo-blocking' can't be stopped, says regulator The UK media regulator has said the geo-blocking of Irish sporting events in Northern Ireland could get worse. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793099650.3141468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7vpjer1v45o",
+      "provider": "BBC",
+      "title": "5 hrs ago Astley Hall fully reopens after £400k restoration Restored bedrooms show what life was like in 1852, while historic artwork returns to display. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793099650.31418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr86zyq30dddo",
+      "provider": "BBC",
+      "title": "5 hrs ago Volunteers aim to sew town's 1,200-year history The Friends of St Cuthbert’s Church are recreating Billingham's timeline in embroidery. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793099650.3142025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3kgqngpx92ko",
+      "provider": "BBC",
+      "title": "5 hrs ago Shopkeeper immortalised by royal portrait artist Artist Nick Bashall depicts Kaual Patel, owner of Torridon Convenience Store in Catford. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793099650.3142242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793099650.4290977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793099650.4291143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/bilingual-healthcare-workers-us-casa-de-salud",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793099650.4291294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/27/neil-young-lawsuit-trump-rockin-in-the-free-world",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793099650.4291441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/melania-trump-russia-ukraine-oleshky-ceasefire/107316202",
+      "provider": "ABC News Australia",
+      "title": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
+      "status": "pending",
+      "firstSeenAt": 1793099650.6599808,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
