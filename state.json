@@ -70186,9 +70186,17 @@
       "status": "pending",
       "firstSeenAt": 1793073615.9917932,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/borlase-wnba-dream-fading-after-game-5-finals-loss/107314598",
+      "provider": "ABC News Australia",
+      "title": "Borlase's WNBA dream fading after Game 5 finals loss to Valkyries",
+      "status": "pending",
+      "firstSeenAt": 1793075355.401901,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
