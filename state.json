@@ -70794,9 +70794,49 @@
       "status": "pending",
       "firstSeenAt": 1793095400.2640219,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793097399.5115921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793097399.5117419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/afp-data-shatters-youth-radicalisation-assumptions/107316300",
+      "provider": "ABC News Australia",
+      "title": "AFP boss warns boys as young as 12 being radicalised at home",
+      "status": "pending",
+      "firstSeenAt": 1793097399.7692652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/greens-leader-proposes-tax-cut-and-welfare-boost/107315572",
+      "provider": "ABC News Australia",
+      "title": "Greens launch $21-a-week tax cut in bid to 'replace Labor'",
+      "status": "pending",
+      "firstSeenAt": 1793097399.7695396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522",
+      "provider": "ABC News Australia",
+      "title": "Men charged with national security offences over incident at US base in England",
+      "status": "pending",
+      "firstSeenAt": 1793097399.7696738,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
