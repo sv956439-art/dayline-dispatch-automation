@@ -70234,9 +70234,49 @@
       "status": "pending",
       "firstSeenAt": 1793077435.783423,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793079224.8881066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793079224.888157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/rms-holiday-booking-software-hacked/107315194",
+      "provider": "ABC News Australia",
+      "title": "Scammers target major holiday parks across Australia in cybersecurity breach",
+      "status": "pending",
+      "firstSeenAt": 1793079225.528068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/wa-regulators-investigate-methane-plumes-chevron-gorgon-project/107313078",
+      "provider": "ABC News Australia",
+      "title": "After days of delay, WA regulators confirm probe into methane emissions at Chevron",
+      "status": "pending",
+      "firstSeenAt": 1793079225.5281374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/cobar-high-school-students-perform-in-cobar-sound-chapel/107288604",
+      "provider": "ABC News Australia",
+      "title": "Echoes from disused water tower become music for 'magical' performance",
+      "status": "pending",
+      "firstSeenAt": 1793079225.528875,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
