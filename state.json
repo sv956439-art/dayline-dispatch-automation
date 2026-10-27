@@ -70010,9 +70010,81 @@
       "status": "pending",
       "firstSeenAt": 1793067872.6262417,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ezg4364epo",
+      "provider": "BBC",
+      "title": "Jay-Z to perform at Super Bowl half-time show Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "status": "pending",
+      "firstSeenAt": 1793069920.3748143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ezg6dy6xlo",
+      "provider": "BBC",
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "status": "pending",
+      "firstSeenAt": 1793069920.374923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgx3pvdeq1o",
+      "provider": "BBC",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "status": "pending",
+      "firstSeenAt": 1793069920.4518106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6pqgwzjql0lo",
+      "provider": "BBC",
+      "title": "9 Killed baby's funeral 'important moment' for family",
+      "status": "pending",
+      "firstSeenAt": 1793069920.4523368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cme8rw2gkd9go",
+      "provider": "BBC",
+      "title": "Lancashire consider Anderson farewell amid fan unrest Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club. 4 hrs ago County Cricket",
+      "status": "pending",
+      "firstSeenAt": 1793069920.4524174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793069921.000971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/27/beau-lamarre-condon-claims-friend-lied-to-police-first-statement-to-trial-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793069921.001125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/beau-lamarre-condon-trial-police-assistance-line-call/107313748",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon reported work-related trauma on way to handing himself in",
+      "status": "pending",
+      "firstSeenAt": 1793069921.322222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/craig-williams-melbourne-cup-james-j-braddock/107314078",
+      "provider": "ABC News Australia",
+      "title": "Williams eyes Melbourne Cup success with horse he'll meet in the yard",
+      "status": "pending",
+      "firstSeenAt": 1793069921.3222947,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
