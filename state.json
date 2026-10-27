@@ -70362,9 +70362,121 @@
       "status": "pending",
       "firstSeenAt": 1793081222.0981135,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89zkdq1dkno",
+      "provider": "BBC",
+      "title": "Australian sunscreen brands face stricter rules after safety scandal The reforms come after a report found some popular sunscreens were far less effective than advertised.",
+      "status": "pending",
+      "firstSeenAt": 1793083435.4661171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cm3el5dnpxp2o",
+      "provider": "BBC",
+      "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+      "status": "pending",
+      "firstSeenAt": 1793083435.4663863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crly0z4gpddwo",
+      "provider": "BBC",
+      "title": "'A way to escape': Fan excitement as new ACOTAR book hits shelves About 40 fans of A Court of Thorns and Roses series celebrated at a \"lock-in\" event in Carrickfergus.",
+      "status": "pending",
+      "firstSeenAt": 1793083435.4664671,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm75pelykq63o",
+      "provider": "BBC",
+      "title": "Expansion plans lodged for landmark theatre",
+      "status": "pending",
+      "firstSeenAt": 1793083435.4664793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckm23e9d3gr6o",
+      "provider": "BBC",
+      "title": "Budget hopes as hospitality faces 'uphill battle'",
+      "status": "pending",
+      "firstSeenAt": 1793083435.5284956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-admits-6m-marrickville-golf-club-grant-not-to-fix-raw-sewage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793083435.8642232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/jaysley-beck-grieving-mother-turned-detective-sexually-assault-suicide-millitary",
+      "provider": "The Guardian",
+      "title": "The fight for Jaysley Beck: how her grieving mother turned detective – and took on the military",
+      "status": "pending",
+      "firstSeenAt": 1793083435.864667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694",
+      "provider": "ABC News Australia",
+      "title": "Music mogul Jay-Z picks himself to perform at next Super Bowl",
+      "status": "pending",
+      "firstSeenAt": 1793083436.5561376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/queensland-hail-stones-thunderstorm/107315704",
+      "provider": "ABC News Australia",
+      "title": "Giant, spiked hail falls as 'very dangerous' storms hit Queensland",
+      "status": "pending",
+      "firstSeenAt": 1793083436.5562072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/four-people-charged-in-connection-to-cobden-arson-/107315858",
+      "provider": "ABC News Australia",
+      "title": "Four charged over suspected arson attack on home with family inside",
+      "status": "pending",
+      "firstSeenAt": 1793083436.5565794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/un-commission-finds-israel-continued-gaza-genocide-after-truce/107313402",
+      "provider": "ABC News Australia",
+      "title": "Gaza ceasefire hasn't stopped Israel committing genocide, UN inquiry finds",
+      "status": "pending",
+      "firstSeenAt": 1793083436.5566008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/grieving-mother-tamworth-court-fatal-crash-sentencing/107313556",
+      "provider": "ABC News Australia",
+      "title": "Mother grieves for son killed in 'skid car' crash as driver is jailed",
+      "status": "pending",
+      "firstSeenAt": 1793083436.5566232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/hannah-louise-glover-gives-evidence-tara-morrison-murder-trial/107315422",
+      "provider": "ABC News Australia",
+      "title": "Chilling final moments of murdered WA woman revealed in court",
+      "status": "pending",
+      "firstSeenAt": 1793083436.5566416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/tasmania-devils-vfl-captain-robbie-fox-parting-ways-with-club/107315300",
+      "provider": "ABC News Australia",
+      "title": "Tasmania Devils' inaugural VFL captain axed after pub incident",
+      "status": "pending",
+      "firstSeenAt": 1793083436.556659,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
