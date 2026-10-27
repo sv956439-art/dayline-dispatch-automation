@@ -70922,9 +70922,57 @@
       "status": "pending",
       "firstSeenAt": 1793101626.1058216,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crlykgeqzypyo",
+      "provider": "BBC",
+      "title": "Carrick to stay in charge of Man Utd for Chelsea game Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
+      "status": "pending",
+      "firstSeenAt": 1793103584.8663287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cvlyd05g6wypo",
+      "provider": "BBC",
+      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
+      "status": "pending",
+      "firstSeenAt": 1793103584.8663821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793103585.0912063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793103585.0913322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
+      "provider": "The Guardian",
+      "title": "double quotation mark Defund Elon Musk",
+      "status": "pending",
+      "firstSeenAt": 1793103585.091741,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/27/vivek-ramaswamy-ad-midterms-opinion",
+      "provider": "The Guardian",
+      "title": "double quotation mark Vivek Ramaswamy’s Amy Acton ad makes a false – and sickening – argument",
+      "status": "pending",
+      "firstSeenAt": 1793103585.0918381,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
