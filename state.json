@@ -70194,9 +70194,49 @@
       "status": "pending",
       "firstSeenAt": 1793075355.401901,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgqwg3ll1v1o",
+      "provider": "BBC",
+      "title": "Meghan to co-host Junior MasterChef Australia The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "status": "pending",
+      "firstSeenAt": 1793077434.700941,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793077434.9454262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/act-woman-mawson-fatal-crash-4yo-boy-parents-speak-court/107312808",
+      "provider": "ABC News Australia",
+      "title": "Parents of 4yo killed in Canberra crash call for 'lightest possible sentence'",
+      "status": "pending",
+      "firstSeenAt": 1793077435.7826786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/brazil-election-lulas-army-whatsapp-group-flipped-result/107313166",
+      "provider": "ABC News Australia",
+      "title": "How WhatsApp 'army' flipped Brazil election and halted Trumpian trend",
+      "status": "pending",
+      "firstSeenAt": 1793077435.7834005,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/community-opposes-proposed-data-centre-near-dark-sky-reserve/107312876",
+      "provider": "ABC News Australia",
+      "title": "Community opposes proposed data centre near dark sky reserve",
+      "status": "pending",
+      "firstSeenAt": 1793077435.783423,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
