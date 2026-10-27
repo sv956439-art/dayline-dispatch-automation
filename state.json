@@ -70658,9 +70658,97 @@
       "status": "pending",
       "firstSeenAt": 1793091110.8671591,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqly3v5vz4kko",
+      "provider": "BBC",
+      "title": "Two men charged under National Security Act after RAF Fairford incident Two men have been charged with national security offences after an incident near RAF Fairford last month, the Crown Prosecution Service has said. 8 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1793093051.8410046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20251121-how-to-embrace-an-ageing-face",
+      "provider": "BBC",
+      "title": "Wrinkles as 'badges of honour': How to embrace an ageing face Much like our other organs, our skin begins to age from the moment we are born. Here's how you can look after your skin while embracing an ageing face.",
+      "status": "pending",
+      "firstSeenAt": 1793093051.8415678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250908-the-simple-test-to-check-how-old-your-lungs-are",
+      "provider": "BBC",
+      "title": "The simple test to check how old your lungs are The condition of our lungs can reveal a great deal about our wider health. Luckily, you can also get them into better shape.",
+      "status": "pending",
+      "firstSeenAt": 1793093051.8415873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/27/abc-to-take-legal-action-after-right-wing-one-nation-party-used-bluey-in-shocking-and-disrespectful-cartoon-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793093051.995075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793093051.9954476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793093051.9954772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793093051.9955454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+      "provider": "The Guardian",
+      "title": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
+      "status": "pending",
+      "firstSeenAt": 1793093051.9958863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/kylian-mbappe-mao-meme-backlash-china/107315566",
+      "provider": "ABC News Australia",
+      "title": "Chinese sponsors cut ties with Kylian Mbappé after Mao meme backlash",
+      "status": "pending",
+      "firstSeenAt": 1793093052.5333023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/anthony-bell-sydney-to-hobart-comanche-tribeca-loyal/107316394",
+      "provider": "ABC News Australia",
+      "title": "Loyal back to reclaim Sydney to Hobart record",
+      "status": "pending",
+      "firstSeenAt": 1793093052.5340574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/company-director-charged-east-pilbara-corruption-allegations/107314960",
+      "provider": "ABC News Australia",
+      "title": "Company director charged over alleged kickbacks in Pilbara corruption scandal",
+      "status": "pending",
+      "firstSeenAt": 1793093052.5341046,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
