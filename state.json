@@ -69970,9 +69970,49 @@
       "status": "pending",
       "firstSeenAt": 1793066326.3292003,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87zl3jej81o",
+      "provider": "BBC",
+      "title": "I'm one of a growing number of Gen Z birdwatchers - it helps my mental health",
+      "status": "pending",
+      "firstSeenAt": 1793067871.4126985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
+      "provider": "BBC",
+      "title": "New weather warnings as third storm set to hit Scotland",
+      "status": "pending",
+      "firstSeenAt": 1793067871.4129295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm264jxxnxzo",
+      "provider": "BBC",
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "status": "pending",
+      "firstSeenAt": 1793067871.4129553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/dwarfism-awareness-month-questions-and-answers/107295460",
+      "provider": "ABC News Australia",
+      "title": "Five things I'm asked about dwarfism, and my honest responses",
+      "status": "pending",
+      "firstSeenAt": 1793067872.6241536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/anthropic-eyes-biggest-ever-ipo-as-ai-funding-dries-up/107312804",
+      "provider": "ABC News Australia",
+      "title": "This could be the biggest investment bet in the history of global capitalism",
+      "status": "pending",
+      "firstSeenAt": 1793067872.6262417,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
