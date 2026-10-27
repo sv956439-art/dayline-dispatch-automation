@@ -70914,9 +70914,17 @@
       "status": "pending",
       "firstSeenAt": 1793099650.6599808,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmr4y5dvlzneo",
+      "provider": "BBC",
+      "title": "Netherlands makes U-turn over Eurovision 2027 participation A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "status": "pending",
+      "firstSeenAt": 1793101626.1058216,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
