@@ -70594,9 +70594,73 @@
       "status": "pending",
       "firstSeenAt": 1793088809.6050975,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cmde8xjl3xpwo",
+      "provider": "BBC",
+      "title": "How much of Antonelli's success is down to his ability? - F1 Q&A",
+      "status": "pending",
+      "firstSeenAt": 1793091110.036404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw5ynr87jdr0o",
+      "provider": "BBC",
+      "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
+      "status": "pending",
+      "firstSeenAt": 1793091110.146697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm62y818j9gjo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1793091110.1467457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/crz65e9dng0wo",
+      "provider": "BBC",
+      "title": "Litten and Knowles in for England as O'Neill drops out",
+      "status": "pending",
+      "firstSeenAt": 1793091110.1470745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckx2qdxgzzz7o",
+      "provider": "BBC",
+      "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+      "status": "pending",
+      "firstSeenAt": 1793091110.1471832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm20wjxq14qvo",
+      "provider": "BBC",
+      "title": "Townsend never felt he could beat All Blacks as a player, but as a coach...",
+      "status": "pending",
+      "firstSeenAt": 1793091110.147252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/man-charged-with-murder-over-alleged-stabbing-partner-rdh/107316154",
+      "provider": "ABC News Australia",
+      "title": "Man charged with murder over alleged fatal stabbing of partner",
+      "status": "pending",
+      "firstSeenAt": 1793091110.867095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/dion-ashley-paulsen-charged-with-historical-child-sex-offences/107315850",
+      "provider": "ABC News Australia",
+      "title": "Former Qld education worker charged with historical child sex offences",
+      "status": "pending",
+      "firstSeenAt": 1793091110.8671591,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
