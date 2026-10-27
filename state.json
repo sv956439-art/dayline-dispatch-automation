@@ -70554,9 +70554,49 @@
       "status": "pending",
       "firstSeenAt": 1793086250.1292388,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rmy84np001o",
+      "provider": "BBC",
+      "title": "7 Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+      "status": "pending",
+      "firstSeenAt": 1793088808.7592583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/27/g-flip-and-chrishell-stause-split-queer-community-in-mourning",
+      "provider": "The Guardian",
+      "title": "double quotation mark G Flip and Chrishell Stause have broken up, and like many in the queer community, I’m in mourning",
+      "status": "pending",
+      "firstSeenAt": 1793088809.0275068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/one-in-10-deaths-dementia-australia-leading-cause-of-death/107313318",
+      "provider": "ABC News Australia",
+      "title": "Dementia deaths in Australia surpass one in 10 of all fatalities",
+      "status": "pending",
+      "firstSeenAt": 1793088809.6040418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/test-cricket-live-updates-south-africa-vs-australia/107308494",
+      "provider": "ABC News Australia",
+      "title": "Inglis replaces injured Smith as Australia elects to field first",
+      "status": "pending",
+      "firstSeenAt": 1793088809.6041954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/greater-sunrise-timor-leste-china-woodside/107315832",
+      "provider": "ABC News Australia",
+      "title": "China tipped to 'step forward' as Woodside exits Timor-Leste gas project",
+      "status": "pending",
+      "firstSeenAt": 1793088809.6050975,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
