@@ -69946,9 +69946,33 @@
       "status": "pending",
       "firstSeenAt": 1793064018.8924758,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62yg6rggj0o",
+      "provider": "BBC",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "status": "pending",
+      "firstSeenAt": 1793066325.182976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793066326.007395,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346",
+      "provider": "ABC News Australia",
+      "title": "Department sinks PM's claim $6m golf club grant was to fix sewage issues",
+      "status": "pending",
+      "firstSeenAt": 1793066326.3292003,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
