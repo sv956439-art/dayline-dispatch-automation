@@ -73370,9 +73370,337 @@
       "status": "pending",
       "firstSeenAt": 1793216545.2905457,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p3g84kjqjlo",
+      "provider": "BBC",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "status": "pending",
+      "firstSeenAt": 1793230408.6481383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lylxjkkp0vo",
+      "provider": "BBC",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793230408.648235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8jzkpjr28vo",
+      "provider": "BBC",
+      "title": "Details of thousands of US immigration agents leaked in major hack A group called the Department of Peace released information on more than 41,000 DHS staff. 21 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1793230408.6482856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9x28350ly07o",
+      "provider": "BBC",
+      "title": "What we now know about the UK economy in four charts The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth. 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793230408.6487787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckzd670vpj09o",
+      "provider": "BBC",
+      "title": "King Charles shows off dance moves on second day of Caribbean tour Earlier in the day, the King paid his respects to fallen members of the Royal Bahamas Defence Force. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793230408.6488123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574pj3zljvjo",
+      "provider": "BBC",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+      "status": "pending",
+      "firstSeenAt": 1793230408.6493707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c678prm55gzzo",
+      "provider": "BBC",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "status": "pending",
+      "firstSeenAt": 1793230408.649398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qzd47ng98o",
+      "provider": "BBC",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "status": "pending",
+      "firstSeenAt": 1793230408.6494226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqz0ve94ygpjo",
+      "provider": "BBC",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "status": "pending",
+      "firstSeenAt": 1793230408.649447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7vpjq81mjpo",
+      "provider": "BBC",
+      "title": "Award-winning farming attraction put up for sale",
+      "status": "pending",
+      "firstSeenAt": 1793230408.7431102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8kge11xvr5eo",
+      "provider": "BBC",
+      "title": "Airport relies on £8 drop-off fees, says boss",
+      "status": "pending",
+      "firstSeenAt": 1793230408.7431376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62y78mv870o",
+      "provider": "BBC",
+      "title": "M25 at 40: Keeping UK's busiest motorway moving",
+      "status": "pending",
+      "firstSeenAt": 1793230408.7431655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4029408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.402965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4032233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4032447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4034543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/russell-brand-trial-testimony",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4037168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.403739,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.403761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.403905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4039266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4039474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793230409.4039683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/spain-train-crash-urda-village-supports-victims/107321724",
+      "provider": "ABC News Australia",
+      "title": "Crash survivors recount chaos in Europe's worst train disaster since 2013",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8001275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/secret-inquiry-into-afghanistan-special-forces-slams-sas/107321098",
+      "provider": "ABC News Australia",
+      "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war",
+      "status": "pending",
+      "firstSeenAt": 1793230409.800264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/csiro-transparency-santos-lng-gas-leak/107317740",
+      "provider": "ABC News Australia",
+      "title": "CSIRO criticised over handling of gas leak",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8003213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/federal-politics-live-blog-oct-29/107320104",
+      "provider": "ABC News Australia",
+      "title": "Albanese warns inflation challenges 'won't be solved overnight'",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8005378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622",
+      "provider": "ABC News Australia",
+      "title": "US staring down December and March rate hikes as Fed leaves rates on hold",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8006415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/australian-batters-take-control-of-cape-town-test-south-africa/107321570",
+      "provider": "ABC News Australia",
+      "title": "A three-ball statement gives Australia hope of a flourishing future",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8008304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/steve-smith-neck-injury-confirmed-by-scans/107321994",
+      "provider": "ABC News Australia",
+      "title": "Scans reveal extent of Steve Smith's neck injury ahead of Test summer",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8009257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/australia-sa-quick-hits-day-two-green-labuschagne-jansen/107320872",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Green survives Rorschach test as Aussies put Cape Town to sleep",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8009603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/energy-minister-says-local-government-must-fund-wa-ev-chargers/107318968",
+      "provider": "ABC News Australia",
+      "title": "Councils left to pay for WA's aging EV charging network",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8015895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/santos-warned-over-barossa-non-compliance-flaring/107284152",
+      "provider": "ABC News Australia",
+      "title": "Leaked letter reveals regulator's 'concerns' about gas giant Santos",
+      "status": "pending",
+      "firstSeenAt": 1793230409.801634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/bega-group-request-more-milk-for-far-north-queensland-farmers/107317502",
+      "provider": "ABC News Australia",
+      "title": "Bega Group requests more milk from FNQ farmers",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8017004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/man-seriously-injured-broome-dog-attack/107314262",
+      "provider": "ABC News Australia",
+      "title": "Couple rattled after using car to rescue man being savaged by pit bulls",
+      "status": "pending",
+      "firstSeenAt": 1793230409.801743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/illegal-poison-sunshine-coast-beachfront-council/107317464",
+      "provider": "ABC News Australia",
+      "title": "Dozens of trees poisoned along valuable and beloved Sunshine Coast beachfront",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8019128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/man-arrested-over-fatal-satbbing-armidale/107321580",
+      "provider": "ABC News Australia",
+      "title": "Man arrested after woman dies in Armidale stabbing",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8019648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/police-fatally-shoot-woman-at-firle-in-adelaide/107321572",
+      "provider": "ABC News Australia",
+      "title": "Police fatally shoot woman allegedly armed with axe in Adelaide's east",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8020184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/us-midterms-daily-news-briefing-trump-obama/107318004",
+      "provider": "ABC News Australia",
+      "title": "Trump expands hunt for voter fraud ahead of midterms",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8022394,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/footage-sheep-bendigo-livestock-exchange/107306276",
+      "provider": "ABC News Australia",
+      "title": "Footage allegedly reveals 'sickening' abuse at country saleyard",
+      "status": "pending",
+      "firstSeenAt": 1793230409.8027558,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
