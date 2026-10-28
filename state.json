@@ -72554,9 +72554,425 @@
       "status": "pending",
       "firstSeenAt": 1793172873.5728753,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglwg033027o",
+      "provider": "BBC",
+      "title": "Four investigations Democrats could launch if they win control of Congress Democrats have promised a wave of probes into the Trump administration if they win back the House. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793197549.167929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgxl5kdgrzo",
+      "provider": "BBC",
+      "title": "Russell Brand tells court allegations had devastating impact on him The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court. 1 hr ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1679697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai",
+      "provider": "BBC",
+      "title": "A painting went missing 20 years ago. Police tracked it down with the help of AI Art theft is a global problem and police forces are struggling to keep on top of it. Now they are turning to AI software that snoop out the most cleverly hidden artworks.",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1680272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261027-10-images-of-19th-century-parisian-women-who-rebelled-against-the-trouser-ban",
+      "provider": "BBC",
+      "title": "The 19th-Century Parisian women who defied the 1800 trouser ban In Paris, women were banned from wearing trousers in 1800 – many flouted the law and bravely fought for their sartorial freedom. Here are 10 images capturing their distinctive style.",
+      "status": "pending",
+      "firstSeenAt": 1793197549.16806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckeq3vezxlx1o",
+      "provider": "BBC",
+      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims. 17 hrs ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1793197549.168512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3vq7nkzr0qo",
+      "provider": "BBC",
+      "title": "India and China were easing tensions - then a border official spoke out India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities. 14 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1685889,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cm0qk37933nno",
+      "provider": "BBC",
+      "title": "Why Hurts played with blood clot and what it means for NFL Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition which developed after he was cleared to play with a blood clot and board a long-haul flight.",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1688526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5m2dry2xwwvo",
+      "provider": "BBC",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1692114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5ynj4eeyj2o",
+      "provider": "BBC",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "status": "pending",
+      "firstSeenAt": 1793197549.16924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly073ql392o",
+      "provider": "BBC",
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1692672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr0j05vxlwjzo",
+      "provider": "BBC",
+      "title": "Your pay, energy bills and savings: How the Budget affects you Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1693199,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cje36dn5nx36o",
+      "provider": "BBC",
+      "title": "Carrick and Fernandes hold clear-the-air talks Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
+      "status": "pending",
+      "firstSeenAt": 1793197549.169776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm369r0n0zk5o",
+      "provider": "BBC",
+      "title": "Henry defends himself after Ballon d'Or criticism",
+      "status": "pending",
+      "firstSeenAt": 1793197549.169827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3dxwdnjqj17o",
+      "provider": "BBC",
+      "title": "Arsenal to appeal against Dowman red card",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1698544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkglwy3nd7zo",
+      "provider": "BBC",
+      "title": "Government minister calls for review of 'unacceptable' BBC Scotland channel closure",
+      "status": "pending",
+      "firstSeenAt": 1793197549.170019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw3djl5vk3v3o",
+      "provider": "BBC",
+      "title": "Sam Fender pre-sale moved after 'bot attack'",
+      "status": "pending",
+      "firstSeenAt": 1793197549.1700454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3r53wjq05jo",
+      "provider": "BBC",
+      "title": "2 hrs ago What to expect as city's light festival returns Organisers promise an \"immersive\" experience as they prepare for the event's second showing. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.2622514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cme36ggy26y5o",
+      "provider": "BBC",
+      "title": "6 hrs ago Chippy owner honoured with painting by royal artist Pindy Kaur, who runs Monk Bretton's Ocean Fish Bar, is immortalised by Nicky Philipps. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.2622888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c85ynk50gdxyo",
+      "provider": "BBC",
+      "title": "8 hrs ago Work begins to turn derelict courthouse into museum The listed building in Devizes is expected to reopen in 2030 as the new home of Wiltshire Museum. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.262321,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm0l7x3mzmo",
+      "provider": "BBC",
+      "title": "8 hrs ago 'Exciting' to see Stonehenge artefacts go on loan About 600 artefacts have been loaned to a Munich museum as part of a special new exhibition. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.262353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckd7q0wrxwl2o",
+      "provider": "BBC",
+      "title": "8 hrs ago Sheffield music 'really healthy', says Cabaret Voltaire veteran The band, pioneers of electronic and industrial music in the 1970s and 80s, says farewell. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.2624261,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62ygw1e99xo",
+      "provider": "BBC",
+      "title": "8 hrs ago 6 Music Festival 2027 heads to Newcastle The station's flagship festival will return to Tyneside after 12 years. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.2624574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv98zgg1z2ypo",
+      "provider": "BBC",
+      "title": "8 hrs ago Nineties theme bar Wannabe planned in city centre The bar, named after a Spice Girls hit, will celebrate \"the best decade ever\", say its developers. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.2624943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw146mrenz75o",
+      "provider": "BBC",
+      "title": "1 day ago RAF museum seeks volunteers to pack up collection The RAF Museum at Cosford is preparing to transfer over 50,000 items from a base in Stafford. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793197549.2625499,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5450706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5451014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5452452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5452712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.545545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5455706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5457146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5457392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.546232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5462577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5462818,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.546373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/rfk-jr-michigan-arabs-comment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5463967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5464258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5464504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures",
+      "provider": "The Guardian",
+      "title": "Sea of crimson: vivid ‘red beach’ transforms China’s wetlands and marshes – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5466332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/28/psychopatriarchy-politics-opinion",
+      "provider": "The Guardian",
+      "title": "double quotation mark We are seeing the rise of psychopatriarchy everywhere",
+      "status": "pending",
+      "firstSeenAt": 1793197549.546709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/28/airbnb-feels-like-a-soulless-rip-off-and-its-hosts-are-revolting",
+      "provider": "The Guardian",
+      "title": "double quotation mark Airbnb feels like a soulless rip-off – and its hosts are revolting",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5467756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
+      "provider": "The Guardian",
+      "title": "‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise",
+      "status": "pending",
+      "firstSeenAt": 1793197549.546805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/trump-fox-news-truth-social",
+      "provider": "The Guardian",
+      "title": "Loves me, loves me not: Trump and allies target Fox News over coverage",
+      "status": "pending",
+      "firstSeenAt": 1793197549.5469098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/deadly-high-speed-train-collision-spain/107320916",
+      "provider": "ABC News Australia",
+      "title": "At least 64 dead as high-speed trains collide in Spain",
+      "status": "pending",
+      "firstSeenAt": 1793197549.9285445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/defence-official-flagged-plans-for-social-media-ban-request/107320790",
+      "provider": "ABC News Australia",
+      "title": "Defence official claimed she flagged plans for social media ban request",
+      "status": "pending",
+      "firstSeenAt": 1793197549.928631,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/flavio-bolsonaro-arrives-in-florida/107321346",
+      "provider": "ABC News Australia",
+      "title": "Flavio Bolsonaro arrives in Miami after fleeing Brazil",
+      "status": "pending",
+      "firstSeenAt": 1793197549.928753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/constellation-cup-netball-diamonds-silver-ferns-game-four/107319776",
+      "provider": "ABC News Australia",
+      "title": "Diamonds avoid clean sweep in Constellation Cup",
+      "status": "pending",
+      "firstSeenAt": 1793197549.92911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/cruise-passengers-stranded-after-fuel-prices-tanks-operator/107320706",
+      "provider": "ABC News Australia",
+      "title": "Hundreds stranded as 'cruise for life' operator goes bust over fuel costs",
+      "status": "pending",
+      "firstSeenAt": 1793197549.9293258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/screen-music-awards-winners-2026/107289982",
+      "provider": "ABC News Australia",
+      "title": "Tales from Outer Suburbia and Addition among Screen Music winners",
+      "status": "pending",
+      "firstSeenAt": 1793197549.9294746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/we-havent-got-it-right-collingwood-to-review-aflw/107320818",
+      "provider": "ABC News Australia",
+      "title": "'We haven't got it right': Collingwood to review AFLW",
+      "status": "pending",
+      "firstSeenAt": 1793197549.9302523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/fa-socceroos-friendlies-middle-east/107319810",
+      "provider": "ABC News Australia",
+      "title": "FA expecting Socceroos friendlies in Middle East to go ahead",
+      "status": "pending",
+      "firstSeenAt": 1793197549.932293,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
