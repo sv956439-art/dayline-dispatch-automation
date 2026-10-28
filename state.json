@@ -71898,9 +71898,249 @@
       "status": "pending",
       "firstSeenAt": 1793141711.52815,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr20wzwyzl1qo",
+      "provider": "BBC",
+      "title": "China's families are now supporting more old people than kids The latest figures mark a major milestone as Beijing grapples with an ageing population. 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793152433.693681,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1exgejq3xvo",
+      "provider": "BBC",
+      "title": "'An annoying buzz': The search for stealthier drones As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "status": "pending",
+      "firstSeenAt": 1793152433.6948147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmg47g7dngxlo",
+      "provider": "BBC",
+      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far? A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+      "status": "pending",
+      "firstSeenAt": 1793152433.695221,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqgkv2vxeengo",
+      "provider": "BBC",
+      "title": "'Biggest night in the club's history' for fearless Fleetwood",
+      "status": "pending",
+      "firstSeenAt": 1793152433.6952448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq62y7yzjdmzo",
+      "provider": "BBC",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "status": "pending",
+      "firstSeenAt": 1793152433.6952682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gelgxjwzdzo",
+      "provider": "BBC",
+      "title": "51 mins ago A bust-up between mathematicians is fuelling fears that AI could undermine science AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy 51 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1793152433.7914171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwz0vggknmyko",
+      "provider": "BBC",
+      "title": "11 hrs ago 'We got a day off work thanks to Erling Haaland' A prank challenge sparked millions of views online and a surprise response from the footballer. 11 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793152433.7914674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2wrpr47njo",
+      "provider": "BBC",
+      "title": "13 hrs ago Ex-Britain First leader arrested in HMO attacks investigation Ashlea Simon says she was arrested at Manchester Airport in connection with her identifying HMOs. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793152433.7914963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m2dx2jpglvo",
+      "provider": "BBC",
+      "title": "15 hrs ago These Storm Boelo images were not AI - but some people thought they were Vehicles were damaged near Whitby Abbey, but dozens of online comments claimed the photos were fake. 15 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793152433.7915232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.409663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.4096873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.409971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.4099934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.4100144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.41061,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.4106529,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793152434.4107125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role",
+      "provider": "The Guardian",
+      "title": "Federal judge disqualifies Trump-appointed prosecutor for ‘unlawfully serving’ in role",
+      "status": "pending",
+      "firstSeenAt": 1793152434.4109902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
+      "provider": "The Guardian",
+      "title": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
+      "status": "pending",
+      "firstSeenAt": 1793152434.411052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382",
+      "provider": "ABC News Australia",
+      "title": "Inflation surges more than expected ahead of RBA interest rates meeting",
+      "status": "pending",
+      "firstSeenAt": 1793152434.944048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/asx-markets-business-live-news/107316614",
+      "provider": "ABC News Australia",
+      "title": "ASX gives back some gains as inflation comes in hot",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9441311,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384",
+      "provider": "ABC News Australia",
+      "title": "Star Casino fined $260m for money laundering violations",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9442563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/fisherman-lost-at-sea-for-41-days-rescued-off-kiribati/107316560",
+      "provider": "ABC News Australia",
+      "title": "Kiribati fishermen find man alone, dehydrated and lost at sea",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9447045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/access-uti-treatment-the-pill-access-policy-evidence/107317620",
+      "provider": "ABC News Australia",
+      "title": "Access to the pill and UTI treatment is changing. Is it a win for women?",
+      "status": "pending",
+      "firstSeenAt": 1793152434.944824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/emergency-fund-delays/107313760",
+      "provider": "ABC News Australia",
+      "title": "Councils struggle to access millions in flood recovery funding",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9457211,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/claims-royal-darwin-hospital-staff-exposed-to-dead-bodies-odour/107315994",
+      "provider": "ABC News Australia",
+      "title": "NT hospital staff exposed to smell of decomposing bodies, left sick, union says",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9457672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/stan-wawrinka-ends-illustrious-tennis-career/107318162",
+      "provider": "ABC News Australia",
+      "title": "Former Australian Open champ Stan Wawrinka ends illustrious career",
+      "status": "pending",
+      "firstSeenAt": 1793152434.94581,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/water-park-proposal-divides-bundaberg-community/107317888",
+      "provider": "ABC News Australia",
+      "title": "Residents declare war over proposed water park",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9458914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/adelaide-city-council-bans-oil-coal-and-gas-ads/107317088",
+      "provider": "ABC News Australia",
+      "title": "Fossil fuel ad ban could 'jeopardise' TDU village, SA government says",
+      "status": "pending",
+      "firstSeenAt": 1793152434.9463372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/arsenal-eliminated-efl-league-cup-fleetwood-town/107317536",
+      "provider": "ABC News Australia",
+      "title": "Arsenal knocked out of League Cup by fourth-tier minnow in all-time upset",
+      "status": "pending",
+      "firstSeenAt": 1793152434.947617,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
