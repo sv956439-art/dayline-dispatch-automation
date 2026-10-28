@@ -72138,9 +72138,425 @@
       "status": "pending",
       "firstSeenAt": 1793152434.947617,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjy561y4pl56o",
+      "provider": "BBC",
+      "title": "Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory The two main blocs appear to have too few seats to form the next government without reliance on Arab parties. 40 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8107452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly0xpxp243o",
+      "provider": "BBC",
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities. 5 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8107805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y43wkln1k2o",
+      "provider": "BBC",
+      "title": "Analysis: UK Budget needs to go some way towards delivering PM's promises Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget. 9 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1793172872.810824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj342k62exyo",
+      "provider": "BBC",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\". 4 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8113036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqr7y3d0dvm5o",
+      "provider": "BBC",
+      "title": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8117568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1kdgxw302zo",
+      "provider": "BBC",
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8118296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/crlykgp51ej4o",
+      "provider": "BBC",
+      "title": "Goodbye to the everyman who gatecrashed the greats",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8123531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8rwj353l1o",
+      "provider": "BBC",
+      "title": "Mum quits job as lawyer to voice Netflix cartoon Emily McGonagle, 42, says she decided to change careers while watching Peppa Pig and Paw Patrol.",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8124747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgv5mv3034o",
+      "provider": "BBC",
+      "title": "Rugby honours 'Mr Music' with plaque by park bandstand",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8124955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz7xrg4wrv0o",
+      "provider": "BBC",
+      "title": "The blind musician singing in the face of adversity",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8125157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0ldjel3816o",
+      "provider": "BBC",
+      "title": "Plans to reopen theatre overcome major hurdle",
+      "status": "pending",
+      "firstSeenAt": 1793172872.8125367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1503537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1503751,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1503954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1504166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.150586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1508062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.150825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1508439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+      "provider": "The Guardian",
+      "title": "Israel election: what we know so far",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1511385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "provider": "The Guardian",
+      "title": "Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1511614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1512227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
+      "provider": "The Guardian",
+      "title": "‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers",
+      "status": "pending",
+      "firstSeenAt": 1793172873.1513946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/chalmers-downplays-further-fuel-discounts-amid-high-inflation/107319372",
+      "provider": "ABC News Australia",
+      "title": "Chalmers lowers expectations for fuel discounts after high inflation result",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5703921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/chair-of-childcare-operator-at-centre-of-abuse-scandal-quits/107318616",
+      "provider": "ABC News Australia",
+      "title": "Chair of childcare operator quits after Four Corners exposes abuse scandal",
+      "status": "pending",
+      "firstSeenAt": 1793172873.570529,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/brk-bluey-senate-estimates-one-nation-cartoon/107317644",
+      "provider": "ABC News Australia",
+      "title": "ABC tells One Nation to remove cartoon depicting Bluey running over a politician",
+      "status": "pending",
+      "firstSeenAt": 1793172873.570581,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/israel-elections-netanyahu-eisenkot-deadlock/107317018",
+      "provider": "ABC News Australia",
+      "title": "Netanyahu and opposition on equal footing in Israeli election with no clear winner",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5706317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/two-ironies-emerge-out-of-israel-deadlocked-election/107317804",
+      "provider": "ABC News Australia",
+      "title": "Two ironies emerge out of Israel's deadlocked election",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5706987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/us-democrats-electability-question-sanders/107042160",
+      "provider": "ABC News Australia",
+      "title": "Voters 'sick and tired' of establishment reshaping Democratic Party",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5707476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/erin-patterson-appeal-decision-to-be-handed-down-on-friday/107319736",
+      "provider": "ABC News Australia",
+      "title": "Mushroom killer Erin Patterson's appeal decision set for Friday",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5707955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/social-media-peptides-misuse-of-safe-injecting-resources/107319518",
+      "provider": "ABC News Australia",
+      "title": "Peptide users seeking free syringes overwhelm harm-minimisation charities",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5708427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/tayla-lee-brailey-sentencing/107318292",
+      "provider": "ABC News Australia",
+      "title": "Former teacher Tayla Lee Brailey jailed for sex acts with students",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5708888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/ebola-latest-10000-cases/107318116",
+      "provider": "ABC News Australia",
+      "title": "Ebola outbreak passes 10,000 cases in DRC after nurse killed, another injured",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5709414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/camp-sovereignty-incident-thomas-sewell-court-guilty-plea/107317606",
+      "provider": "ABC News Australia",
+      "title": "Neo-Nazi Thomas Sewell pleads guilty to Camp Sovereignty violence",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5710387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/fl%C3%A1vio-bolsonaro-escape-timeline-from-brazil-to-us-explained/107317880",
+      "provider": "ABC News Australia",
+      "title": "After election loss, Bolsonaro vanished. Days later he surfaced in the US",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5710797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/kurtley-beale-recalled-for-wallabies-tour-in-world-cup-pointer/107320246",
+      "provider": "ABC News Australia",
+      "title": "Beale called up for Wallabies Spring Tour ahead of Rugby World Cup",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5711102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/two-cows-found-tropical-snapper-island-national-park-fnq/107316622",
+      "provider": "ABC News Australia",
+      "title": "Cows found on tropical island national park months after major flood",
+      "status": "pending",
+      "firstSeenAt": 1793172873.571158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/whipped-ricotta-honey-roasted-grape-crostini/107292304",
+      "provider": "ABC News Australia",
+      "title": "Whipped ricotta and hot honey-roasted grape crostini",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5712347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/how-to-talk-to-your-kids-about-the-ultra-thinness-trend/107283568",
+      "provider": "ABC News Australia",
+      "title": "How Libby Trickett is talking to her kids about the ultra-thinness trend",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5712647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/cricket-south-africa-vs-australia-third-test-day-two-live-blog/107320620",
+      "provider": "ABC News Australia",
+      "title": "Australia begins day two at crease after Starc blitz flattens South Africa",
+      "status": "pending",
+      "firstSeenAt": 1793172873.571749,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/essential-caravans-victorian-company-voluntary-administration/107318630",
+      "provider": "ABC News Australia",
+      "title": "Victorian caravan maker Essential Caravans enters voluntary administration",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5717688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/perth-man-jailed-as-magistrate-calls-for-end-to-puppy-farming/107319468",
+      "provider": "ABC News Australia",
+      "title": "Perth man jailed as magistrate calls for end to puppy farming",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5718052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/alexander-brothers-sentenced-for-sex-trafficking/107319246",
+      "provider": "ABC News Australia",
+      "title": "Alexander brothers sentenced over 'monstrous' sex trafficking",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5718846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/lancet-study-counts-three-million-climate-change-related-deaths/107315006",
+      "provider": "ABC News Australia",
+      "title": "Hundreds of scientists across the globe declare 'climate health emergency'",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5720036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/sa-mps-lucy-hood-and-ella-shaw-stalking-experiences/107318454",
+      "provider": "ABC News Australia",
+      "title": "SA MP recounts 'non-stop' messages and being followed to her car",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5720503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/preliminary-results-for-tasmanian-local-council-elections/107318290",
+      "provider": "ABC News Australia",
+      "title": "Ex-60 Minutes reporter frontrunner for Hobart mayor",
+      "status": "pending",
+      "firstSeenAt": 1793172873.572098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/nsw-beau-lamarre-condon-met-former-colleague-murder-trial/107318356",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon told ex-colleague 'goodbye' before handing self in, jury told",
+      "status": "pending",
+      "firstSeenAt": 1793172873.572145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/nsw-alan-jones-complainant-says-broadcaster-was-generous/107318038",
+      "provider": "ABC News Australia",
+      "title": "Jones accuser admits lying to police over assault by different person",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5726044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/australia-supporting-icc-amid-trump-sanctions-official-says/107317510",
+      "provider": "ABC News Australia",
+      "title": "Australia providing 'extraordinary' support to ICC staff amid Trump sanctions",
+      "status": "pending",
+      "firstSeenAt": 1793172873.572691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/13yo-alleged-extremist-a-victim-of-big-tech-court-hears/107318580",
+      "provider": "ABC News Australia",
+      "title": "13yo alleged extremist a victim of 'big tech', court hears",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5727398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/tas-conversion-ban-debate-in-parliament/107317480",
+      "provider": "ABC News Australia",
+      "title": "Rockliff voices support for ban on conversion practices as debate starts",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5728278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-28/outback-pools-to-open-without-lifeguards/107309646",
+      "provider": "ABC News Australia",
+      "title": "Outback pools to open unsupervised after struggling to find lifeguards",
+      "status": "pending",
+      "firstSeenAt": 1793172873.5728753,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
