@@ -72970,9 +72970,409 @@
       "status": "pending",
       "firstSeenAt": 1793197549.932293,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kglwe4lxwzo",
+      "provider": "BBC",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports. 57 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793216544.638458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdx3knq1xexo",
+      "provider": "BBC",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset. 3 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1793216544.638498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp8gdk3rzn3o",
+      "provider": "BBC",
+      "title": "US civil rights leader Dolores Huerta dies aged 96 Huerta fought for farm workers' rights in the 1960s and 1970s and had continued to work addressing immigration and voting issues. 51 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793216544.6385336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y46d97wwo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.638834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63djl148n3eo",
+      "provider": "BBC",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss The Russian President praised Musk and said they are in \"close\" contact. 24 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793216544.6388621,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg039x08g2o",
+      "provider": "BBC",
+      "title": "Clock ticks down for Canada lotto winner to claim massive prize It's rare for such a large lottery jackpot to go unclaimed - this one is worth C$40m (£21.4m). 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793216544.6389205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgy3pq5ywyo",
+      "provider": "BBC",
+      "title": "What could EU associate member status mean for Canada? Mark Carney says he is seeking a \"unique\" relationship with the bloc, but currently there is no such thing as an associate member.",
+      "status": "pending",
+      "firstSeenAt": 1793216544.6392982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cxyvr1my94m4o",
+      "provider": "BBC",
+      "title": "Labuschagne's form hits record low but Australia hint at future",
+      "status": "pending",
+      "firstSeenAt": 1793216544.6396856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjn849ydlno",
+      "provider": "BBC",
+      "title": "Babydoll singer says life will 'never be the same again' after UK number one The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+      "status": "pending",
+      "firstSeenAt": 1793216544.639791,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999581,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.9996047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.9996192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.9996817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.9998364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/oanne-young-sexual-assault-trial-ex-husband-court-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.9998965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999979,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216544.999993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/peptides-fda-health-human-services-department",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793216545.0000095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+      "provider": "The Guardian",
+      "title": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
+      "status": "pending",
+      "firstSeenAt": 1793216545.0001466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis",
+      "provider": "The Guardian",
+      "title": "The bottomless depths of Donald Trump’s midterm rally bigotry",
+      "status": "pending",
+      "firstSeenAt": 1793216545.0002022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs",
+      "provider": "The Guardian",
+      "title": "Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles",
+      "status": "pending",
+      "firstSeenAt": 1793216545.0002458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/28/voting-felony-disguise-minneapolis",
+      "provider": "The Guardian",
+      "title": "Conservative influencers charged with unlawful voting after ‘Muslim garb’ election stunt",
+      "status": "pending",
+      "firstSeenAt": 1793216545.0002627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney",
+      "provider": "The Guardian",
+      "title": "The pro-Trump prosecutor trying to stop California ballots from being counted",
+      "status": "pending",
+      "firstSeenAt": 1793216545.0002902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/spain-train-crash-inexplicable-order-high-speed-rail/107321318",
+      "provider": "ABC News Australia",
+      "title": "The 'inexplicable' order that put two trains on a collision course in Spain",
+      "status": "pending",
+      "firstSeenAt": 1793216545.288265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/bad-inflation-result-political-pressure/107318484",
+      "provider": "ABC News Australia",
+      "title": "Inflation figures show it's going to get worse before it gets better",
+      "status": "pending",
+      "firstSeenAt": 1793216545.288311,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590",
+      "provider": "ABC News Australia",
+      "title": "Actor's death may be first confirmed fatality linked to unapproved peptide use",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2883518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/bathla-land-deals-a-warning-sign-years-before-collapse/107283434",
+      "provider": "ABC News Australia",
+      "title": "Bathla was tied up in Supreme Court battles long before it collapsed",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2883914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/prices-cost-of-living-inflation-tracker/107296304",
+      "provider": "ABC News Australia",
+      "title": "See how the price of everything has changed with inflation",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2884288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/russia-jet-powered-shahed-geran-drones-ukraine-war-kyiv-attacks/107232266",
+      "provider": "ABC News Australia",
+      "title": "Faster, deadlier Russian drones shift warfare into horrifying new phase",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2885165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/how-ice-immigration-crackdown-could-impact-midterms/107315220",
+      "provider": "ABC News Australia",
+      "title": "Trump's immigration policies helped him win but now threaten to backfire",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2885544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/herzog-netanyahu-israel-election/107321418",
+      "provider": "ABC News Australia",
+      "title": "Israel's president urges 'open mind' as election rivals struggle for majority",
+      "status": "pending",
+      "firstSeenAt": 1793216545.288613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/how-the-mongrel-mob-became-an-nz-election-issue/107315046",
+      "provider": "ABC News Australia",
+      "title": "How the Mongrel Mob became an issue in the NZ election",
+      "status": "pending",
+      "firstSeenAt": 1793216545.288645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/russell-brand-defence-case-begins/107321010",
+      "provider": "ABC News Australia",
+      "title": "Russell Brand tells jury friends won't defend him over sex crime allegations",
+      "status": "pending",
+      "firstSeenAt": 1793216545.28867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/primetime-review-lance-oppenheim-robert-pattinson/107313684",
+      "provider": "ABC News Australia",
+      "title": "Robert Pattinson is on the hunt for predators in gripping new thriller",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2887838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/national-indigenous-culinary-institute-chef-training-program/107318392",
+      "provider": "ABC News Australia",
+      "title": "Indigenous culinary school serving up talent to top restaurants",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2888212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/halloween-horror-quiz/107317598",
+      "provider": "ABC News Australia",
+      "title": "Test your Halloween movie knowledge with our spooky quiz",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2888584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/queensland-child-safety-workers-strike/107309876",
+      "provider": "ABC News Australia",
+      "title": "Qld child safety workers walk off the job amid crushing workloads",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2892625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/indi-mp-helen-haines-offices-reopen-after-attack/107313698",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines's offices reopen after attack that shocked nation",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2892923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/inquiry-into-domestic-violence-and-suicide-victim-survival-story/107283316",
+      "provider": "ABC News Australia",
+      "title": "Woman ended up in mental health facility after leaving abusive ex",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2893214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/tas-federal-group-hotels-caught-up-in-rms-booking-data-breach/107317758",
+      "provider": "ABC News Australia",
+      "title": "'Convincing' scam email used real booking number, check-in dates",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2893662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/surgeon-james-ian-spark-banned-deceptive-overtime-claims/107316164",
+      "provider": "ABC News Australia",
+      "title": "Surgeon disqualified for fraudulent overtime pay claims",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2893949,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/cyclone-arnab-hits-india-east-coast/107321328",
+      "provider": "ABC News Australia",
+      "title": "At least three killed as powerful Cyclone Arnab hits India's east coast",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2894316,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/tommy-robinson-court-harassing-journalists/107321444",
+      "provider": "ABC News Australia",
+      "title": "Far-right activist Tommy Robinson found guilty of harassing journalists",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2894685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/melbourne-truck-parking-bay-fenced-off-illegal-dumping/107313032",
+      "provider": "ABC News Australia",
+      "title": "Fence constructed in bid to stop illegal dumping in Melbourne's south-east",
+      "status": "pending",
+      "firstSeenAt": 1793216545.289502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/bayley-mckenna-leading-wheelaroos-world-cup-charge/107310772",
+      "provider": "ABC News Australia",
+      "title": "The 'stigma' of being a non-disabled player in elite wheelchair sport",
+      "status": "pending",
+      "firstSeenAt": 1793216545.2905457,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
