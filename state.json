@@ -74506,9 +74506,537 @@
       "status": "pending",
       "firstSeenAt": 1793264163.5459352,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8gdlz1p2ko",
+      "provider": "BBC",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy. 1 hr ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793288689.094699,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5ynw94k7kzo",
+      "provider": "BBC",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say. 3 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0947227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3x2w4109pj8o",
+      "provider": "BBC",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss The defeated presidential candidate says he will lead the opposition from the US. 45 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0947428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgx0zrpk6no",
+      "provider": "BBC",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan. 29 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0947745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261028-why-are-so-many-thai-restaurants-hidden-inside-london-pubs",
+      "provider": "BBC",
+      "title": "Why are so many Thai restaurants hidden in London pubs? Pints and pad Thai may seem like an unlikely pairing. But tucked away in London's backstreets is a culinary tradition with a surprising history.",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0947933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
+      "provider": "BBC",
+      "title": "The AI bubble could expose your deepest secrets Character.AI's collapse uncovers a little-discussed risk of AI: when tech companies go bankrupt, they can sell your private data.",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0948105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8ezj7jylrzo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0950553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0j06y3pn75o",
+      "provider": "BBC",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines. 2 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0951207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky93127nyepo",
+      "provider": "BBC",
+      "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father' Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\". 3 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0951385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm79pjg2l57yo",
+      "provider": "BBC",
+      "title": "Doordash to buy Instacart in $17bn deal it says will expand customer options Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said. 38 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793288689.095158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cvkgkx496e0ko",
+      "provider": "BBC",
+      "title": "'Hungrier than ever' - Paul to return on 24 December Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December. 5 hrs ago Boxing",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0951753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261028-why-stunning-assisted-dying-novel-switzy-caused-a-booker-prize-controversy",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0953481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckn9rq8204l0o",
+      "provider": "BBC",
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0954843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgq90yxg7ko",
+      "provider": "BBC",
+      "title": "US convicts Rwandan man who hid genocide role for decades",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0955088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cknv08nvzld4o",
+      "provider": "BBC",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0955234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw78pry0788no",
+      "provider": "BBC",
+      "title": "President Tinubu to 'pray for Nigeria' during Saudi Arabia trip",
+      "status": "pending",
+      "firstSeenAt": 1793288689.095538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckz7x8z1e9y9o",
+      "provider": "BBC",
+      "title": "'Fully committed' Fernandes to remain Man Utd captain",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0958526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cv2d6ze63gk2o",
+      "provider": "BBC",
+      "title": "Is the double drop from the Premier League becoming more common?",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0958815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg9k4vl70eo",
+      "provider": "BBC",
+      "title": "Boy's joy at getting lead role in play aged nine Atlas Johnson-Dutfield, from Bristol, shares the leading role with 10-year-old Lucian Thomas.",
+      "status": "pending",
+      "firstSeenAt": 1793288689.0959713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjvgx0ek6rz2o",
+      "provider": "BBC",
+      "title": "Sometimes managers need sacking for own good - Neville",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1639924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c6x2qr1v11xyo",
+      "provider": "BBC",
+      "title": "'Amazing achievement' as Rybakina clinches year-end number one ranking",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1640468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cm8xz7we02dyo",
+      "provider": "BBC",
+      "title": "England boss McDermott urges patience in PNG points chase",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1641183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cmrly1jy31p1o",
+      "provider": "BBC",
+      "title": "Weekly sports quiz: Which league are Fleetwood in?",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1641417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6dxwzpeydk5o",
+      "provider": "BBC",
+      "title": "Is the Ulster forward with farmer's strength Ireland's next big star?",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1642814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqr7y1218vjvo",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1643872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c804032de6yyo",
+      "provider": "BBC",
+      "title": "Wales make five changes as Lynn rewards bench",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1644351,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmp3glnle0wdo",
+      "provider": "BBC",
+      "title": "Fleetwood to face Everton or Newcastle in last eight",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1644638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cmd93vlz4k11o",
+      "provider": "BBC",
+      "title": "Djokovic celebrates 'big win' on return to Basel",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1644876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckyvr1q72v84o",
+      "provider": "BBC",
+      "title": "Sancho rejects Getafe - Thursday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1645212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c933xlpernreo",
+      "provider": "BBC",
+      "title": "Tetchy handshake typifies McInnes' 'topsy-turvy' Tynecastle return",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1645486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwn738elr6nvo",
+      "provider": "BBC",
+      "title": "Do Dundee United have Scotland's best midfield three?",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1645758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cmzxlrwn27eyo",
+      "provider": "BBC",
+      "title": "Meet the Welsh teenager hoping to beat Littler",
+      "status": "pending",
+      "firstSeenAt": 1793288689.164603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqde852ww04ko",
+      "provider": "BBC",
+      "title": "Perez signs multi-year extension with Cadillac",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1646523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c8wy9wenqd01o",
+      "provider": "BBC",
+      "title": "How unbeaten Chelsea are getting back to their best",
+      "status": "pending",
+      "firstSeenAt": 1793288689.16468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c678prmye8xvo",
+      "provider": "BBC",
+      "title": "Kompany discharged from hospital following collapse",
+      "status": "pending",
+      "firstSeenAt": 1793288689.164727,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crgj902p68gno",
+      "provider": "BBC",
+      "title": "All Spanish cup matches suspended after Madrid train collision",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1647503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cqn8denld133o",
+      "provider": "BBC",
+      "title": "Serrano to end career in Puerto Rico in January",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1647782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/cwp8grl5xypjo",
+      "provider": "BBC",
+      "title": "Scots women lose before men's side take on Germany",
+      "status": "pending",
+      "firstSeenAt": 1793288689.1648014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2618906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/30/study-of-100000-australians-seeks-causes-of-mental-health-disorders-and-early-onset-cancer",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2619767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2619917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/30/marist-brothers-law-firm-carroll-and-odea-abuse-case-act-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2620058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2620337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.262082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2620964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/pragmatic-or-pointless-europe-rift-over-pick-up-phone-putin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2621102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2621374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/29/reform-uk-launches-newspaper-publishing-the-reformer-farage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.262401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2624152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2624686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/south-carolina-senate-tied-race",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2624826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/29/cornell-rape-no-confidence-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2625132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2625282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/bolsonaro-defeat-trump-orange-wave",
+      "provider": "The Guardian",
+      "title": "Flávio Bolsonaro’s defeat is a major blow to Trump and his orange wave",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2626078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
+      "provider": "The Guardian",
+      "title": "double quotation mark It’s easy to see through Trump’s Ukraine ploy",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2626922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections",
+      "provider": "The Guardian",
+      "title": "Was Ralph Nader right about (almost) everything? His challenge to Democrats ahead of the midterm elections",
+      "status": "pending",
+      "firstSeenAt": 1793288689.262722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/29/pat-mcafee-college-gameday-espn",
+      "provider": "The Guardian",
+      "title": "Everybody hates Pat: is a cabal of college kids really trying to bring down ESPN’s star meathead?",
+      "status": "pending",
+      "firstSeenAt": 1793288689.262738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/alaska-investigation-mary-peltola-dan-sullivan",
+      "provider": "The Guardian",
+      "title": "Alaska governor orders investigation into Democrat Mary Peltola’s Senate campaign",
+      "status": "pending",
+      "firstSeenAt": 1793288689.2627761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/israel-election-foreign-interference-allegations-investigation/107325606",
+      "provider": "ABC News Australia",
+      "title": "Israeli election official demands probe into foreign interference claims",
+      "status": "pending",
+      "firstSeenAt": 1793288689.7315917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-to-be-handed-down-today/107320498",
+      "provider": "ABC News Australia",
+      "title": "Triple-murderer Erin Patterson to learn her appeal fate today",
+      "status": "pending",
+      "firstSeenAt": 1793288689.7317429,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/russell-brand-wife-gives-evidence-in-his-defence/107325686",
+      "provider": "ABC News Australia",
+      "title": "Russell Brand's wife tells court actor's promiscuity left her 'heartbroken'",
+      "status": "pending",
+      "firstSeenAt": 1793288689.7317805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816",
+      "provider": "ABC News Australia",
+      "title": "Russian drone strike on Ukrainian train platform kills 14",
+      "status": "pending",
+      "firstSeenAt": 1793288689.731814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/jags-krishnan-vows-to-defend-position-us-1m-lawsuit/107325210",
+      "provider": "ABC News Australia",
+      "title": "WA Labor MP vows to 'vigorously defend' US lawsuit over $1m loan",
+      "status": "pending",
+      "firstSeenAt": 1793288689.7326636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/katie-zacharia-on-short-lived-white-house-press-secretary-role/107323442",
+      "provider": "ABC News Australia",
+      "title": "Zacharia blames media for troubled stint as White House press secretary",
+      "status": "pending",
+      "firstSeenAt": 1793288689.732709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/hong-kong-wang-fuk-court-fire-disaster-report/107325160",
+      "provider": "ABC News Australia",
+      "title": "Cigarette likely cause of catastrophic Hong Kong fire, report finds",
+      "status": "pending",
+      "firstSeenAt": 1793288689.7327871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-29/christopher-morley-jailed-for-running-over-partner-in-darwin/107323014",
+      "provider": "ABC News Australia",
+      "title": "Darwin man who ran over partner during argument to spend five months in jail",
+      "status": "pending",
+      "firstSeenAt": 1793288689.7330687,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
