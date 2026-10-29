@@ -75034,9 +75034,497 @@
       "status": "pending",
       "firstSeenAt": 1793288689.7330687,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckdd8qdl9e0eo",
+      "provider": "BBC",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority. 16 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1793306318.535424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c30rlxkjv2yko",
+      "provider": "BBC",
+      "title": "More than 43 million ballots cast so far in midterms early voting surge Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties. 48 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5354595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l393pyrylo",
+      "provider": "BBC",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes. 32 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5354886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cred3e7yj8wqo",
+      "provider": "BBC",
+      "title": "Man pleads guilty to federal hate crimes charges over fatal Colorado Molotov cocktail attack Mohamed Sabry Soliman, who is already serving a life sentence for firebombing a group of protesters, has changed his plea in the federal case.",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5364223,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l4w8gq0y1o",
+      "provider": "BBC",
+      "title": "Canadian 'Crypto King' found guilty of fraud",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5364475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd7qjq13prpo",
+      "provider": "BBC",
+      "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says Kevin T has been charged with murder and attempted murder in connection with a terrorist enterprise.",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5365324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmwy4vyl9nplo",
+      "provider": "BBC",
+      "title": "Grealish dropped by Everton after 'breach of club discipline'",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5370505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm20v3029p5xo",
+      "provider": "BBC",
+      "title": "Star Trek actor Sir Patrick Stewart dies aged 86 The actor passed away in Los Angeles following a \"a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia\".",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5371995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkv05r34e3o",
+      "provider": "BBC",
+      "title": "Littlewoods project backed despite studios pull-out",
+      "status": "pending",
+      "firstSeenAt": 1793306318.5372236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr15jxzv4w24o",
+      "provider": "BBC",
+      "title": "US interest rates held steady and economy grows - what it means for you The Federal Reserve's interest rate decisions affect everything from mortgages to car loans 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793306318.65579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrky1p4dlm7o",
+      "provider": "BBC",
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+      "status": "pending",
+      "firstSeenAt": 1793306318.656411,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx283zynnv3o",
+      "provider": "BBC",
+      "title": "Faisal Islam: This Budget was micro and that was deliberate Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+      "status": "pending",
+      "firstSeenAt": 1793306318.6564374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6z7x8214np7o",
+      "provider": "BBC",
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall Budget forecasts show growth in living standards grinding almost to a halt.",
+      "status": "pending",
+      "firstSeenAt": 1793306318.656481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60e05yn3w9zo",
+      "provider": "BBC",
+      "title": "What the Budget offers for under 25s - and what it leaves out The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "status": "pending",
+      "firstSeenAt": 1793306318.6565256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9l4px0yzxo",
+      "provider": "BBC",
+      "title": "1 day ago Healey provides some breathing space but things still set to get worse for most The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793306318.656804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/clydn7r5pn1o",
+      "provider": "BBC",
+      "title": "1 day ago Tax thresholds remain unchanged - here's what it means for your pay The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793306318.6568305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c35yn8x748e9o",
+      "provider": "BBC",
+      "title": "1 day ago Will I get the £100 energy payment and when will I receive it? Here is what you need to know about the payment that millions will receive from January. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793306318.6568618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq8nwvj92jdo",
+      "provider": "BBC",
+      "title": "1 day ago You may get the right to find out what your colleagues earn - here's why Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793306318.6568887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8228164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8228455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8229609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8232334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8232956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8233871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8234284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8236477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8236692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.823691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-subpoenas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8237875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8238084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8238487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/trump-norway-shithouse-toilets",
+      "provider": "The Guardian",
+      "title": "Visit Norway makes shithouses ‘great again’ after Trump insult",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8239627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2018/nov/17/an-apocalyptic-cult-900-dead-remembering-the-jonestown-massacre-40-years-on",
+      "provider": "The Guardian",
+      "title": "An apocalyptic cult, 900 dead: remembering the Jonestown massacre, 40 years on",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8241067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
+      "provider": "The Guardian",
+      "title": "double quotation mark The low-budget Brewers won the World Series – and exposed baseball’s biggest lie",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8241487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/29/jimmy-kimmel-trump-rallies-midterms",
+      "provider": "The Guardian",
+      "title": "Jimmy Kimmel on Trump’s racist remarks at rallies: ‘really takes you back about 200 years’",
+      "status": "pending",
+      "firstSeenAt": 1793306318.8241735,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/labor-moves-to-fix-student-visa-crackdown/107325422",
+      "provider": "ABC News Australia",
+      "title": "Labor's student visa crackdown creates unintended problem",
+      "status": "pending",
+      "firstSeenAt": 1793306319.236993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/actor-sir-patrick-stewart-dies-aged-86/107326458",
+      "provider": "ABC News Australia",
+      "title": "Patrick Stewart, Star Trek and X-Men actor, dies at 86",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2370763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/could-more-rate-rises-tip-us-into-recession/107322554",
+      "provider": "ABC News Australia",
+      "title": "Economist reveals worst-case scenario on interest rates as inflation fails to cool",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2371352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/ice-impacts-texan-latino-vote-to-democrats-us-midterms/107312888",
+      "provider": "ABC News Australia",
+      "title": "Texan voters once believed Trump's 'lies' but they're now ready to vote Democrat",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2371926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/claims-of-catastrophic-risks-as-aemo-pay-talks-turn-nasty/107290274",
+      "provider": "ABC News Australia",
+      "title": "Blackout fears as unrest spreads among people on the power button",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2372708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/australia-sa-quick-hits-day-three-labuschagne-drs-bavuma/107325486",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Marnus caught in ugly exchange after all-time send off",
+      "status": "pending",
+      "firstSeenAt": 1793306319.237424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/michelle-grattan-one-nation-nsw-election/107323786",
+      "provider": "ABC News Australia",
+      "title": "One Nation might not win Victoria, but NSW is where the real fight is",
+      "status": "pending",
+      "firstSeenAt": 1793306319.23746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/ato-asic-viq-solutions-data-breach-2025/107317532",
+      "provider": "ABC News Australia",
+      "title": "ATO and ASIC feared data was sent offshore in 2025, internal emails reveal",
+      "status": "pending",
+      "firstSeenAt": 1793306319.237515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/retirees-call-for-age-pension-increase/107322008",
+      "provider": "ABC News Australia",
+      "title": "Australians priced out of comfortable retirement call for higher pension",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2376118,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/europe-trains-safe-spain-tragedies/107324128",
+      "provider": "ABC News Australia",
+      "title": "Trains in Europe are getting safer despite recent tragedies in Spain",
+      "status": "pending",
+      "firstSeenAt": 1793306319.237664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/brk-spain-train-updated/107325814",
+      "provider": "ABC News Australia",
+      "title": "Spain begins three days of mourning as train crash death toll reaches 69",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2377203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/meghan-markle-father-child-abuse-allegations-letter-and-police/107326392",
+      "provider": "ABC News Australia",
+      "title": "UK police refer themselves to watchdog over Markle child abuse allegations letter",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2378047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/how-sea-drones-could-even-playing-field-in-drug-crisis/107297868",
+      "provider": "ABC News Australia",
+      "title": "Bluebottle drones that never sleep level playing field in Pacific drug war",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2378576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/powderfinger-2027-reunion-tour-tickets-new-shows-interview/107323078",
+      "provider": "ABC News Australia",
+      "title": "Powderfinger announce more shows, discuss split and joyful reunion",
+      "status": "pending",
+      "firstSeenAt": 1793306319.237917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/guide-to-listening-ausmusic-month-on-abc-classic-2026/107313856",
+      "provider": "ABC News Australia",
+      "title": "The best young performers to legends like Joan Sutherland this Ausmusic Month",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2379894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/oct-30-news-quiz/107322594",
+      "provider": "ABC News Australia",
+      "title": "Friday news quiz: Duchess back on TV, an oversized sultana and eels in the mood for love",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2380424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/csu-launches-research-into-transparent-solar-panels/107318734",
+      "provider": "ABC News Australia",
+      "title": "As farm fuel costs rise, clear solar might offer a solution",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2384984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/jillian-segal-antisemitism-report-ban-face-coverings/107325604",
+      "provider": "ABC News Australia",
+      "title": "Mask ban, visa review measures proposed by antisemitism envoy",
+      "status": "pending",
+      "firstSeenAt": 1793306319.238577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/wilcannia-cafe-employment-and-tourism-opportunities-/107269816",
+      "provider": "ABC News Australia",
+      "title": "It's the only cafe in town, but it's changing lives and Tripadvisor loves it",
+      "status": "pending",
+      "firstSeenAt": 1793306319.23862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/data-centre-moratorium-called-by-municipal-association-victor/107324748",
+      "provider": "ABC News Australia",
+      "title": "Council body demands data centre moratorium as planning approvals rise",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2389784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/nsw-sydney-metro-southwest-line-opens-disruption/107310342",
+      "provider": "ABC News Australia",
+      "title": "Sydney's new metro stations open after two years of disruption",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2390335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/sharp-rise-in-deaths-of-children-in-state-care-reported/107325568",
+      "provider": "ABC News Australia",
+      "title": "SA child protection authority reports sharp rise in deaths in past year",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2391193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/adelaide-restaurant-negative-review-extortion-scam-google/107319834",
+      "provider": "ABC News Australia",
+      "title": "Restaurateurs fend off fake online review 'extortion' attempt",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2392259,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/qld-breach-bail-go-to-jail-pass-despite-concerns/107324160",
+      "provider": "ABC News Australia",
+      "title": "Vyleen White’s family welcome new bail laws as advocates raise concerns",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2393541,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/fire-ants-rafting-spread-wet-weather-eradication-nfaep/107318644",
+      "provider": "ABC News Australia",
+      "title": "'Last resort' fire ant rafting behaviour raises alarms as wet season begins",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2394085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/australian-deaf-rugby-wallabies-jack-charlie-cale/107315626",
+      "provider": "ABC News Australia",
+      "title": "Wallaby 'incredibly proud' as brother represents Australian Deaf Rugby",
+      "status": "pending",
+      "firstSeenAt": 1793306319.2395036,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
