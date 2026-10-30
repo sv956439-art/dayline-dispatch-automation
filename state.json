@@ -76714,9 +76714,345 @@
       "status": "pending",
       "firstSeenAt": 1793362113.5488973,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe8lp7zy07zo",
+      "provider": "BBC",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0553944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck62ydn7dj9eo",
+      "provider": "BBC",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution It is Pike's first public statement since she survived an execution attempt by lethal injection in September. 52 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0554302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwdd8q8e9e9yo",
+      "provider": "BBC",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts. 58 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0555522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd6dp2y576do",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0559368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvwy72e0n72yo",
+      "provider": "BBC",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months. 12 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0559785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx4g1ve5ylg7o",
+      "provider": "BBC",
+      "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says. 2 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0560067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/ice-hockey/articles/cm87zqjrr9dno",
+      "provider": "BBC",
+      "title": "Russia's international ice hockey ban overturned The Court of Arbitration for Sport overturns the ban on Russia by ice hockey's global governing body. 6 hrs ago Ice Hockey",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0560348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckwyq2509p7xo",
+      "provider": "BBC",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793383163.056063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqglwp088532o",
+      "provider": "BBC",
+      "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits The force said it had received information and stressed its inquiries were at \"an early stage\". 2 hrs ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0561116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo",
+      "provider": "BBC",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people. 3 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0561397,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261030-what-boteros-rotund-remakes-of-classical-masterpieces-tell-us-about-art-history",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0563998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyq2gg1yzzo",
+      "provider": "BBC",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0565078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63r529wn2vzo",
+      "provider": "BBC",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "status": "pending",
+      "firstSeenAt": 1793383163.056642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgj9plnlxdeo",
+      "provider": "BBC",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0566885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr74pd99vwq3o",
+      "provider": "BBC",
+      "title": "What Howe could bring to Man Utd - and what are the challenges? Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0571246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c6n8dpvyyy71o",
+      "provider": "BBC",
+      "title": "Cape Town set for classic finale – what does history suggest could happen?",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0571494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c875p940g5v2o",
+      "provider": "BBC",
+      "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+      "status": "pending",
+      "firstSeenAt": 1793383163.057174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmy832jv00p1o",
+      "provider": "BBC",
+      "title": "From Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0571976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp8gpw15e8yo",
+      "provider": "BBC",
+      "title": "Party Rock Anthem singer took own life, inquest finds Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0573297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8p3gpkd1pdeo",
+      "provider": "BBC",
+      "title": "'RSC was where Sir Patrick Stewart felt at home'",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0573535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6e3xp9j4zgpo",
+      "provider": "BBC",
+      "title": "Young Gun out to beat Littler for £501k darts prize",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0573761,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze42lxdexwo",
+      "provider": "BBC",
+      "title": "Original Traitors star became film actor after show",
+      "status": "pending",
+      "firstSeenAt": 1793383163.0573993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.249537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2496839,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2498124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2499452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2500074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.250029,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2500777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2503355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/30/iopc-watchdog-investigate-met-police-meghan-warning-letter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2503574,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2505052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2505655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2505877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2506087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez",
+      "provider": "The Guardian",
+      "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2507977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/christa-pike-statement-tennessee-execution",
+      "provider": "The Guardian",
+      "title": "Christa Pike makes first public comments since failed execution: ‘There is pain in my mind and in my soul’",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2508526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/video/2026/oct/30/trump-blows-up-at-reuters-reporter-when-asked-about-canceled-events-video",
+      "provider": "The Guardian",
+      "title": "'You look like hell': Trump blows up at reporter when asked about canceled events – video",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2508774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/30/seth-meyers-trump-vances",
+      "provider": "The Guardian",
+      "title": "Seth Meyers on Trump and Vance’s tactics: ‘No one’s buying your fake folksy bullshit’",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2509017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/30/60-minutes-correspondent-cecilia-vega-cbs-news",
+      "provider": "The Guardian",
+      "title": "Ousted 60 Minutes correspondent Cecilia Vega on overhaul at CBS News: ‘It hurts to watch’",
+      "status": "pending",
+      "firstSeenAt": 1793383163.250946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/oberlin-college-professor-shooting",
+      "provider": "The Guardian",
+      "title": "Son in custody after Oberlin professor dad and stepmother shot dead in Ohio",
+      "status": "pending",
+      "firstSeenAt": 1793383163.2510443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/australian-of-the-year-awards-for-wa-2027/107330440",
+      "provider": "ABC News Australia",
+      "title": "Mother whose son lost sight named WA's Australian of the Year",
+      "status": "pending",
+      "firstSeenAt": 1793383163.5967567,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
