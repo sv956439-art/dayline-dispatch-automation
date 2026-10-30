@@ -75858,9 +75858,393 @@
       "status": "pending",
       "firstSeenAt": 1793319506.2833788,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+      "provider": "BBC",
+      "title": "Crypto giant Binance hit by hack suspected to be largest in history Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor. 41 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6222625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck8dz8j5n993o",
+      "provider": "BBC",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all. 4 hrs ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6222944,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cknv08980d3vo",
+      "provider": "BBC",
+      "title": "Democrats have an identity crisis - it won't be an easy fix Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them. 4 hrs ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6223207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck054d5mnzreo",
+      "provider": "BBC",
+      "title": "Venezuela opposition leader María Machado calls for elections upon return Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be  \"irreversible, organised, pacific\". 9 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6227055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2dwzp0z0vo",
+      "provider": "BBC",
+      "title": "Student-backed election winners demand sweeping resignations in Serbia Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down. 6 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6227446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574p7z1xm8wo",
+      "provider": "BBC",
+      "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant. 5 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6227674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy42j9wewlo",
+      "provider": "BBC",
+      "title": "New York police will now investigate Cornell sex complaints, governor says The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus.",
+      "status": "pending",
+      "firstSeenAt": 1793339899.623081,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cked3p81303yo",
+      "provider": "BBC",
+      "title": "Three dead after two helicopters collide midair near Oregon airport",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6231022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj04032rp5wro",
+      "provider": "BBC",
+      "title": "Gruffalo illustrator considering legal action against AI firms Axel Scheffler believes firms breach copyright by reproducing his work in AI-generated Gruffalo images.",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6236768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgkvedkvvr5o",
+      "provider": "BBC",
+      "title": "Film buff brings community cinema back to town",
+      "status": "pending",
+      "firstSeenAt": 1793339899.6236968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.017852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0178745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0180917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0181103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0182104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0182269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0182433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0182593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0182984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/30/british-council-debt-should-mostly-be-written-off-say-mps",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0186045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0186222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.018639,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0187464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0189204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/why-is-north-korea-fortifying-its-border-with-south-korea",
+      "provider": "The Guardian",
+      "title": "Why is North Korea fortifying its border with South Korea?",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0189543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/oct/30/donald-trumps-texas-troubles-podcast",
+      "provider": "The Guardian",
+      "title": "Donald Trump’s Texas Troubles – podcast",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0190647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns",
+      "provider": "The Guardian",
+      "title": "California high-speed rail chief quits amid billowing expenses scandal",
+      "status": "pending",
+      "firstSeenAt": 1793339900.0190854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
+      "provider": "ABC News Australia",
+      "title": "Billions of dollars stolen in largest cryptocurrency hack in history",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6944294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/sam-wood-bail-hearing/107325072",
+      "provider": "ABC News Australia",
+      "title": "Former Bachelor Sam Wood denied bail on strangulation charges",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6945248,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/odyssey-residential-cruise-ship-passengers-forced-off-cambodia/107326756",
+      "provider": "ABC News Australia",
+      "title": "Australians stranded in Cambodia after cruise ship suspends operations",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6945732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/journalists-accuse-indian-pm-modi-of-crackdown-over-protests/107313104",
+      "provider": "ABC News Australia",
+      "title": "India's PM cracks down on journalists 'to stamp out the protests'",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6947162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/sir-patrick-stewart-dies-aged-86-tributes-obit/107326708",
+      "provider": "ABC News Australia",
+      "title": "From Picard to Professor X: Sir Patrick Stewart remembered",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/jarryd-hayne-civil-court-case/107308890",
+      "provider": "ABC News Australia",
+      "title": "Hefty legal bill predicted in civil claim against ex-NRL star Jarryd Hayne",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6949353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/wallaby-found-swimming-off-portland-coast/107327332",
+      "provider": "ABC News Australia",
+      "title": "Boater rescues tired wallaby swimming out to sea",
+      "status": "pending",
+      "firstSeenAt": 1793339900.694996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/schoolies-to-pay-to-party-on-gold-coast-beach/107327518",
+      "provider": "ABC News Australia",
+      "title": "Schoolies-goers will pay to party on the beach for the first time",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6950953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/how-to-prepare-your-garden-for-summer-heat/107128620",
+      "provider": "ABC News Australia",
+      "title": "How mowing and mulching now can prevent a crispy garden this summer",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6951392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/before-i-forget-kamarra-bell-wykes/107160810",
+      "provider": "ABC News Australia",
+      "title": "Loving someone with dementia is hilarious and heartbreaking in new show",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6951993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/retiring-sydney-swans-dane-rampe-admits-hurt-pullman-hotel-saga/107329700",
+      "provider": "ABC News Australia",
+      "title": "Retiring Swan Rampe 'hurt' over Pullman Hotel saga",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6956537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/charles-wooley-hobart-lord-mayor-council-elections/107326748",
+      "provider": "ABC News Australia",
+      "title": "City's lord mayor-elect explains 'Hobart for Hobartians' slogan",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6956875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/brumby-advocate-carmen-jackson-loses-case-in-court/107314708",
+      "provider": "ABC News Australia",
+      "title": "Brumby advocate loses bid to stop aerial culling in NSW national park",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6957445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/dustin-higgs-rape-verdict-albany-speedway/106966002",
+      "provider": "ABC News Australia",
+      "title": "Jail term for speedway driver after grooming and raping teenager",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6957757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/nsw-toddler-murder-killer-family-hearing-court-mother/107323242",
+      "provider": "ABC News Australia",
+      "title": "Mother will 'never forgive' her toddler's killer, court hears",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6958015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/vic-budget-update-property-market-fall-debt/107327810",
+      "provider": "ABC News Australia",
+      "title": "Cooling property market delivers $5 billion blow to Victorian budget",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6959035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/melbourne-man-donates-blood-across-australia/107319322",
+      "provider": "ABC News Australia",
+      "title": "Melbourne man gives blood at all 85 donation centres across Australia",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6959517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/unqualified-fake-assistance-dogs-causing-distress-handlers/107323422",
+      "provider": "ABC News Australia",
+      "title": "'Unqualified' assistance animals causing distress, handlers say",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6960728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/perth-man-charged-with-allegedly-planning-terrorist-attack/107327348",
+      "provider": "ABC News Australia",
+      "title": "Alleged terrorist plot mastermind researched explosives, Perth police say",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6962337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/act-coronial-inquest-into-alexander-maconochie-centre-suicide/107327482",
+      "provider": "ABC News Australia",
+      "title": "Failures in supervision led to suicide in Canberra's jail, coroner says",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6965637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/physical-disability-rugby-league-world-cup-bryce-crane/107318854",
+      "provider": "ABC News Australia",
+      "title": "Player prepares for World Cup after career reshaped by injury",
+      "status": "pending",
+      "firstSeenAt": 1793339900.6966076,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
