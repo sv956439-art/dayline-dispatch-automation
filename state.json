@@ -77050,9 +77050,385 @@
       "status": "pending",
       "firstSeenAt": 1793383163.5967567,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c693zxw11x1wo",
+      "provider": "BBC",
+      "title": "King visits Guyanese slave rebellion site on Caribbean tour Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed. 1 hr ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1793397552.9145715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20241029-five-of-the-most-haunted-places-in-britain",
+      "provider": "BBC",
+      "title": "Five of the most haunted places in Britain Every country has its ghost stories, its mythical monsters and its ghoulish urban legends. But the UK may stake a claim to being the most haunted country on Earth.",
+      "status": "pending",
+      "firstSeenAt": 1793397552.9147007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmj6jpn8px28o",
+      "provider": "BBC",
+      "title": "Judge investigating whether Trump administration lied about golf course renovations A judge grilled Trump lawyers about what they knew of plans to close the golf course next month and said .",
+      "status": "pending",
+      "firstSeenAt": 1793397552.9150476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz9824d5e88o",
+      "provider": "BBC",
+      "title": "Police deployed during stand-off over control of top Poland court The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "status": "pending",
+      "firstSeenAt": 1793397552.915151,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr4ypw5v9n6o",
+      "provider": "BBC",
+      "title": "How Bristol shaped Maya Jama before her TV fame The Love Island host's journey from leaving Bristol as a teenager to reaching the BBC show's finale.",
+      "status": "pending",
+      "firstSeenAt": 1793397552.9158177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx240dn6j4v1o",
+      "provider": "BBC",
+      "title": "Children's laureates to donate to Sally Rooney after UK sales halted over Palestine Action support",
+      "status": "pending",
+      "firstSeenAt": 1793397552.915843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8lp758zl0o",
+      "provider": "BBC",
+      "title": "'Surreal' for singer to hear song on Celebrity Traitors",
+      "status": "pending",
+      "firstSeenAt": 1793397552.9158866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6g7x5zelz8yo",
+      "provider": "BBC",
+      "title": "Cotswold tourism, is it a blessing or a burden?",
+      "status": "pending",
+      "firstSeenAt": 1793397553.019056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkv0m1vxmvo",
+      "provider": "BBC",
+      "title": "Mum pilots daughter and classmates on Iceland flight",
+      "status": "pending",
+      "firstSeenAt": 1793397553.0190835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793397553.3219247,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/30/men-accused-of-sexually-assaulting-woman-drugged-by-husband-describe-being-invited-to-couples-home",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793397553.322722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/30/russell-brand-trial-accusers-nothing-to-gain-media-court-told",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793397553.3227453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/rick-ross-felony-charge-dropped-domestic-violence",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793397553.3228674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793397553.3228898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/texas-ice-agent-suv-charged",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793397553.32293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+      "provider": "The Guardian",
+      "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
+      "status": "pending",
+      "firstSeenAt": 1793397553.3233206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/inquests-reveal-mental-health-care-failures-in-nsw-prisons/107098090",
+      "provider": "ABC News Australia",
+      "title": "A coroner wept as she pleaded for change, but Bailey's mother is still waiting",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9067538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/us-midterms-elections-dan-sullivans-alaska-donald-trump/107323036",
+      "provider": "ABC News Australia",
+      "title": "Ahead of the midterms, Trump attempts to intervene in 'decoy Dan' Alaska case",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9068203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/snowy-scheme-has-place-in-world-of-batteries/107313340",
+      "provider": "ABC News Australia",
+      "title": "The world has changed since Snowy 2.0 was born on a pub coaster",
+      "status": "pending",
+      "firstSeenAt": 1793397553.906884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/israel-election-netanyahu-ultra-orthodox-palestinian-vote-bloc/107327994",
+      "provider": "ABC News Australia",
+      "title": "Netanyahu seeks to turn defeat into a debate over Palestinian-Israeli votes",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9069626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/online-fashion-brands-moving-into-physical-stores/107313958",
+      "provider": "ABC News Australia",
+      "title": "'Changing of the guard' as fashion retailers return to physical stores",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9070225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/question-time-albanese-chalmers-jacob-greber/107327714",
+      "provider": "ABC News Australia",
+      "title": "Politics is an image game, and the government needs to find better visuals",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9070997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/qld-sam-wood-denied-bail-what-happens-next/107328044",
+      "provider": "ABC News Australia",
+      "title": "What happens next for Sam Wood after his bail has been denied",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9071577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/erin-patterson-murder-life-sentence-no-parole/107328638",
+      "provider": "ABC News Australia",
+      "title": "Erin Patterson one of few Australians sentenced to die in prison",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9071956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/wall-street-drops-to-its-worst-day-since-june/107331332",
+      "provider": "ABC News Australia",
+      "title": "Wall Street drops to worst day since June after tech stocks sell-off deepens",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9073217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/patrick-stewart-theatre-obituary-macbeth-godot-christmas-carol/107327188",
+      "provider": "ABC News Australia",
+      "title": "Before captain, a king: The dramatic life of Patrick Stewart",
+      "status": "pending",
+      "firstSeenAt": 1793397553.907376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/kaz-cooke-new-book-spooky-ladies-women-world-of-magic/107328160",
+      "provider": "ABC News Australia",
+      "title": "Misunderstood spooky women are at the heart of this new book",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9074736,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/gift-helps-victorian-man-escape-homelessness/107328410",
+      "provider": "ABC News Australia",
+      "title": "How a 'kickstart' gift helped a Victorian man escape homelessness",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9075294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966",
+      "provider": "ABC News Australia",
+      "title": "Brand used fame to 'facilitate' sex but consent was key, he tells jury",
+      "status": "pending",
+      "firstSeenAt": 1793397553.907584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/new-tennis-number-one-as-zverev-finally-reaches-the-top/107331266",
+      "provider": "ABC News Australia",
+      "title": "New tennis number one as Zverev finally reaches the top",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9076388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/teenage-boss-molly-took-over-family-budget/107210636",
+      "provider": "ABC News Australia",
+      "title": "This teen took over her family's budget and saved $2,000",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9076939,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/abc-5050-quiz/107326696",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Test your knowledge of Back to the Future, Marvin Gaye and Marmite vs Vegemite",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9077673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/best-new-books-2026-barbara-kingsolver-min-jin-lee-hernan-diaz/107290988",
+      "provider": "ABC News Australia",
+      "title": "The eight books our critics couldn't put down this month",
+      "status": "pending",
+      "firstSeenAt": 1793397553.907854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/england-papua-new-guinea-rugby-league-world-/107330502",
+      "provider": "ABC News Australia",
+      "title": "England's World Cup fate is resting on a miracle",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9083564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/series-set-for-epic-finale-as-aussie-batters-must-stand-up/107331288",
+      "provider": "ABC News Australia",
+      "title": "Series set for epic finale as Aussie batters must stand up",
+      "status": "pending",
+      "firstSeenAt": 1793397553.908383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/queensland-parliament-conduct-analysis/107329670",
+      "provider": "ABC News Australia",
+      "title": "Can anyone rein in the rabble of Queensland parliament?",
+      "status": "pending",
+      "firstSeenAt": 1793397553.908428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/nsw-teen-charged-over-marsden-park-alleged-stabbing/107331370",
+      "provider": "ABC News Australia",
+      "title": "Teenager charged over alleged stabbing at Sydney house party",
+      "status": "pending",
+      "firstSeenAt": 1793397553.908473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/jason-rigby-australian-death-fiji-investigation/107317684",
+      "provider": "ABC News Australia",
+      "title": "Family criticise lack of communication as authorities consider Fiji death",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9085166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/australia-sa-quick-hits-day-four-rickleton-cummmins-mulder/107330472",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: Mix-up ends schoolmates' mammoth stand, Breetzke brings the fight",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9085832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/treaty-scrap-victoria-coalition-vic-election-jess-wilson/107322868",
+      "provider": "ABC News Australia",
+      "title": "Liberal plan to scrap Treaty risks 'sending us back', Aboriginal leader warns",
+      "status": "pending",
+      "firstSeenAt": 1793397553.908695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/kat-brown-road-safety-plea-as-sa-road-toll-climbs/107322702",
+      "provider": "ABC News Australia",
+      "title": "Mother shares 'forever' grief of losing daughter in crash while driving",
+      "status": "pending",
+      "firstSeenAt": 1793397553.90882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/locals-near-southwest-metro-angry-increase-noise-levels/107328818",
+      "provider": "ABC News Australia",
+      "title": "Locals near new Sydney metro can hear blaring chimes from inside homes",
+      "status": "pending",
+      "firstSeenAt": 1793397553.908927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/european-protest-france-italy-spain/107313320",
+      "provider": "ABC News Australia",
+      "title": "Why protests in Europe could bring change or completely backfire",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9089868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/blue-whale-decline-signals-shift-in-victorian-bonney-upwelling/107309462",
+      "provider": "ABC News Australia",
+      "title": "Fears blue whale decline signals changes in Bonney Upwelling ocean current",
+      "status": "pending",
+      "firstSeenAt": 1793397553.909036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/unsw-students-fake-election-ai-bots/107326784",
+      "provider": "ABC News Australia",
+      "title": "Students use 'rage bait' and AI bots to sway fictional election",
+      "status": "pending",
+      "firstSeenAt": 1793397553.909128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/pelvic-pain-clinic-encourages-school-students-to-seek-support/107070884",
+      "provider": "ABC News Australia",
+      "title": "Pelvic pain clinic teaches school students not to suffer in silence",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9092042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/christa-pike-first-statement-constant-pain/107331034",
+      "provider": "ABC News Australia",
+      "title": "Christa Pike speaks of constant pain after botched execution",
+      "status": "pending",
+      "firstSeenAt": 1793397553.9092588,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
