@@ -75522,9 +75522,345 @@
       "status": "pending",
       "firstSeenAt": 1793306319.2395036,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "provider": "BBC",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue. 2 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0098307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wv36d603yo",
+      "provider": "BBC",
+      "title": "China made Mbappé apologise - but many people don't know exactly what he said The footballer's comments about a \"Chinese leader\" sparked outrage but censorship left many wondering what exactly happened. 1 hr ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0104804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gr8l15k744o",
+      "provider": "BBC",
+      "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash. 1 hr ago World",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0105166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c893zev54341o",
+      "provider": "BBC",
+      "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success' As the King left the Bahamas his spokesman said the islands had \"a special place in the King's heart\". 4 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0105505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260717-the-lonely-road-to-the-edge-of-western-europe",
+      "provider": "BBC",
+      "title": "The lonely road to Europe's Arctic edge This Arctic journey takes travellers further east than St Petersburg, through a landscape of empty beaches, seabirds and forgotten villages where Europe finally runs out.",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0106218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkgjem016r4o",
+      "provider": "BBC",
+      "title": "Dramatic clifftop rescue of bride and groom-to-be A romantic walk after agreeing to tie the knot turns into a 150m rope rescue off the Irish coast.",
+      "status": "pending",
+      "firstSeenAt": 1793319505.011088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2qr4rp1xeo",
+      "provider": "BBC",
+      "title": "Worried Indians turn to start-ups to help care for ageing parents",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0111098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr78plp1p9yvo",
+      "provider": "BBC",
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "status": "pending",
+      "firstSeenAt": 1793319505.011145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cwz0vevng3n0o",
+      "provider": "BBC",
+      "title": "Careless dismissals give Australia route to series win",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0115347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5y12r081zo",
+      "provider": "BBC",
+      "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw Could the faithfuls finally come good in Thursday's penultimate episode?",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0116508,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj1dw9dynn2xo",
+      "provider": "BBC",
+      "title": "Sir Patrick Stewart: A life in pictures",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0116727,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg03xl0751o",
+      "provider": "BBC",
+      "title": "1 hr ago Scottish police to target online gangs forcing children to self-harm Officers are hunting members of loose online networks of sadists who mainly targets girls on gaming platforms and social media. 1 hr ago",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0863183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm78ply52dqdo",
+      "provider": "BBC",
+      "title": "13 hrs ago Calls for better network after village goes offline One man said he was forced to drive to neighbouring towns to carry out online tasks. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0863597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4g14e35rrko",
+      "provider": "BBC",
+      "title": "18 hrs ago New data centres must bring 'local benefits' As \"strict tests\" are floated, Northumberland waits to see if three data centres will spring up. 18 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0863962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2qggrdxqeo",
+      "provider": "BBC",
+      "title": "2 days ago Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0864713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy56qy0ddexo",
+      "provider": "BBC",
+      "title": "2 days ago Jo Malone donates £100k for cancer-detecting 'nose' Scientists say the device could help the NHS identify cancer in patients earlier. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793319505.086492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cknv06prz91mo",
+      "provider": "BBC",
+      "title": "2 days ago Study to investigate harmful adult-child messaging About 1,500 youngsters aged 12-18 years old will take part in the university-led survey. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793319505.0865135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793319505.5246267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793319505.5250037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793319505.525022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793319505.5251155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793319505.52515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793319505.5251653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2009/nov/27/patrick-stewart-domestic-violence",
+      "provider": "The Guardian",
+      "title": "Patrick Stewart: the legacy of domestic violence",
+      "status": "pending",
+      "firstSeenAt": 1793319505.525398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/mississippi-scott-colom-democrats",
+      "provider": "The Guardian",
+      "title": "Why Trump is fighting to keep reliably red Mississippi in his control",
+      "status": "pending",
+      "firstSeenAt": 1793319505.5254571,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086",
+      "provider": "ABC News Australia",
+      "title": "Erin Patterson loses appeal, harsher sentence imposed",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2810805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+      "provider": "ABC News Australia",
+      "title": "Mushroom murderer likely to die in jail after failed appeal",
+      "status": "pending",
+      "firstSeenAt": 1793319506.281189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/erin-patterson-mushroom-murder-appeal-what-next/107315286",
+      "provider": "ABC News Australia",
+      "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2812195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558",
+      "provider": "ABC News Australia",
+      "title": "ASX set to edge up despite $US500b Alphabet share slump overnight",
+      "status": "pending",
+      "firstSeenAt": 1793319506.281432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/federal-politics-live-blog-oct-30/107324978",
+      "provider": "ABC News Australia",
+      "title": "Federal government launches probe into future of Australia Post",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2814598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/first-guardian-investors-dealt-a-blow-after-liquidator-update/107324738",
+      "provider": "ABC News Australia",
+      "title": "First Guardian investors dealt another 'utterly devastating' blow",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2816243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/nt-hector-thunderstorm-at-tiwi-islands-top-end-wet-season/107319826",
+      "provider": "ABC News Australia",
+      "title": "The thunderstorm that arrives like clockwork at 3pm every day",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2816694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/shopfront-arts-co-op-50-years-act-a-thon-paul-capsis/107314116",
+      "provider": "ABC News Australia",
+      "title": "Youth theatre raises more than $68k to carry forward 50-year legacy",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2819045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/former-childcare-worker-ashley-griffith-child-abuse-offences-nsw/107326918",
+      "provider": "ABC News Australia",
+      "title": "Ex-Sydney childcare worker charged with 200 more abuse offences",
+      "status": "pending",
+      "firstSeenAt": 1793319506.282272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/western-nsw-mobile-childrens-hearing-clinic-faces-closure/107295888",
+      "provider": "ABC News Australia",
+      "title": "Free hearing bus helping 2,000 kids faces closure as funding ends",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2823012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/wnba-finals-game-six-izzy-borlase-angel-reese/107326500",
+      "provider": "ABC News Australia",
+      "title": "Dream shakes off scheduling controversy to force WNBA Finals decider",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2823422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/limestone-coast-mining-fracking-youth-future/107016874",
+      "provider": "ABC News Australia",
+      "title": "Youth want a voice amid controversial fracking and mining proposals",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2823913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/cape-town-test-set-up-for-thrilling-finale/107326410",
+      "provider": "ABC News Australia",
+      "title": "Australia's Cape Town desperation evident on another pulsating Test day",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2824378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/us-midterms-daily-news-briefing-trump-economy/107321896",
+      "provider": "ABC News Australia",
+      "title": "Trump spruiks economy as farmer-funded ads attack cost-of-living record",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2827551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/buried-mining-tyres-going-to-waste-amid-global-rubber-shortfall/107322306",
+      "provider": "ABC News Australia",
+      "title": "Australia sitting on unused goldmine of old gigantic tyres",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2830255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/mcphillamys-goldmine-aboriginal-protection-order/107319472",
+      "provider": "ABC News Australia",
+      "title": "Controversial goldmine subject of new Aboriginal protection application",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2831113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/samoa-tonga-rugby-league-world-cup-2026/107324378",
+      "provider": "ABC News Australia",
+      "title": "For the fans who became heroes, Samoa vs Tonga is bigger than a grand final",
+      "status": "pending",
+      "firstSeenAt": 1793319506.2833788,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
