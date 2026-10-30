@@ -76242,9 +76242,481 @@
       "status": "pending",
       "firstSeenAt": 1793339900.6966076,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60me298k1yeo",
+      "provider": "BBC",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water. 50 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793362112.721456,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261028-predatory-birds-the-size-of-a-small-aircraft-once-flocked-the-skies-some-of-them-ate-humans",
+      "provider": "BBC",
+      "title": "Giant eagles once ruled the skies. They snatched human children, and shaped our evolution After the dinosaur-killing asteroid hit, giant birds became apex predators for tens of millions of years – and humans were among their prey.",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7215688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjn5v3pl0159o",
+      "provider": "BBC",
+      "title": "How talking about Man Utd's cycle of doom became an industry Manchester United's struggles are pored over more than ever before - not least by former players. 6 hrs ago Man Utd",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7220166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cmvg9z1v33keo",
+      "provider": "BBC",
+      "title": "F1 has never had anyone like me - Hamilton Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties. 5 hrs ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7220635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxddv1vygpvmo",
+      "provider": "BBC",
+      "title": "We went on holiday with our neighbours and swapped families - it tore us apart Rachel Stone tells how her parents swapped partners, the chaos it caused and how she came to forgive them. 6 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7220912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm78pxxe55v0o",
+      "provider": "BBC",
+      "title": "I didn't know I was lacking in vitamin D until I collapsed at work Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed. 12 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7221186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20180611-why-frankenstein-is-the-story-that-defined-our-fears",
+      "provider": "BBC",
+      "title": "Why Mary Shelley's chilling horror story Frankenstein is so misunderstood A classic of the horror genre that has inspired generations, why is the message of Shelley's 19th-Century novel still overshadowed by its success, more than two centuries on?",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7221646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmewepdr109do",
+      "provider": "BBC",
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7226028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgdzpy7241o",
+      "provider": "BBC",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7226274,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5nplyvlg8o",
+      "provider": "BBC",
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7226512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn4egvez1yzo",
+      "provider": "BBC",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7226741,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qz428nnljo",
+      "provider": "BBC",
+      "title": "How video game remakes tap the power of nostalgia",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7227364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yn8eqg3npo",
+      "provider": "BBC",
+      "title": "What we know so far about the Binance hack Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+      "status": "pending",
+      "firstSeenAt": 1793362112.722818,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy5w2k5k5ylo",
+      "provider": "BBC",
+      "title": "From Bitcoin to Binance: Crypto terms and what they mean",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7228422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cx30e28vn5r4o",
+      "provider": "BBC",
+      "title": "England edge towards World Cup exit despite PNG win",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7231593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqn73pxx8vr5o",
+      "provider": "BBC",
+      "title": "Afcon to return to two-year cycle after Caf U-turn",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7232032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly0pnreqvqo",
+      "provider": "BBC",
+      "title": "Paul Heaton set for beautiful south Shropshire The Beautiful South and The Housemartins singer is the latest act to be announced for next summer.",
+      "status": "pending",
+      "firstSeenAt": 1793362112.72336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c94g172744ndo",
+      "provider": "BBC",
+      "title": "Sir Patrick Stewart 'used his stage on behalf of others'",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7233846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261029-the-new-trail-leading-to-irelands-mythical-gate-to-hell",
+      "provider": "BBC",
+      "title": "The new trail leading to Ireland's 'Gate to Hell' Rathcroghan is one of Europe's oldest unexcavated royal sites. Now, a new walking path is giving travellers access to ancient landmarks – including the cave that inspired Halloween.",
+      "status": "pending",
+      "firstSeenAt": 1793362112.7234576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck30e91r9z0jo",
+      "provider": "BBC",
+      "title": "Met refers itself to police watchdog over letter about Meghan's father The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father. 18 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8032348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr62yjvgql9go",
+      "provider": "BBC",
+      "title": "Ex-Traitors players talk tactics and celebrity final predictions",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cye0l23lx15o",
+      "provider": "BBC",
+      "title": "Versatile actor moved effortlessly between Star Trek and Shakespeare",
+      "status": "pending",
+      "firstSeenAt": 1793362112.803625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm15jdj7xzj5o",
+      "provider": "BBC",
+      "title": "Weekly quiz: What was wrong with the Spotify listing of Dolly Parton's Jolene?",
+      "status": "pending",
+      "firstSeenAt": 1793362112.803649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq70p5g6ex39o",
+      "provider": "BBC",
+      "title": "6 hrs ago 'We put Middlesbrough on the map for dance music' The Middlesbrough Empire will close next month after 33 years as a music venue and nightclub. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8042195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmy17yp8pwo",
+      "provider": "BBC",
+      "title": "6 hrs ago Hourly chime artwork aims to celebrate city A different chime capturing Sunderland's identity will be played at Culture House every hour. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8042476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq23d9mj05rko",
+      "provider": "BBC",
+      "title": "6 hrs ago 'Unknown' spy thriller shortlisted for annual award Ben Macintyre speaks of crafting spy thriller Redwood - a true story that is stranger than fiction. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8042755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm24x9x7vx0o",
+      "provider": "BBC",
+      "title": "6 hrs ago Former Traitors star reviews season before final Joe Scott reveals who he thinks is the best Traitor and why he has gone \"to the dark side\". 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8043213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp8g45egkpdo",
+      "provider": "BBC",
+      "title": "6 hrs ago Slave memorial sculptures need recasting in bronze Sokari Douglas Camp has planning permission for the work in Southwark but needs money to recast the steel figures in bronze. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8043523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr3wv301ddvxo",
+      "provider": "BBC",
+      "title": "6 hrs ago Foot artist's work chosen for Christmas card collection The artist, who was born without arms, also keeps rare pigs. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793362112.8043988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0989096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0990582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0993657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0993881,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.09941,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0994794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0995018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0997536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0997963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0998185,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0998402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0999014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/measles-outbreak-vaccination",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0999236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0999455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/abdul-el-sayed-michigan-senate-tump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0999672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/29/a-rare-red-line-in-deeply-cynical-times",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793362113.0999885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/30/erin-patterson-appeal-australia-mushroom-murders-case-ntwnfb",
+      "provider": "The Guardian",
+      "title": "Erin Patterson began the day with hope. Now Australia’s mushroom murderer knows she’s likely to die in jail",
+      "status": "pending",
+      "firstSeenAt": 1793362113.1002407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/30/louisiana-justice-of-the-peace-courts-lawmaker-reaction",
+      "provider": "The Guardian",
+      "title": "Lawmakers call to reform Louisiana’s ‘blatantly unconstitutional’ justice of the peace system",
+      "status": "pending",
+      "firstSeenAt": 1793362113.1003184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
+      "provider": "The Guardian",
+      "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
+      "status": "pending",
+      "firstSeenAt": 1793362113.1003652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/dfat-confirming-welfare-of-2-australians-in-spain/107330458",
+      "provider": "ABC News Australia",
+      "title": "Two Australians unaccounted-for after Spain rail disaster",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5469472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/test-cricket-live-updates-south-africa-vs-australia-cape-town/107330346",
+      "provider": "ABC News Australia",
+      "title": "South Africa dig in after crucial Cummins breakthrough",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5470104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/prince-andrew-jeffrey-epstein-balmoral-castle-police-inquiry/107330624",
+      "provider": "ABC News Australia",
+      "title": "Police probe Andrew's stay with Epstein at king's castle",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5472007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/google-data-centre-land-clearance-ai-finland-criminal-probe/107327336",
+      "provider": "ABC News Australia",
+      "title": "Finnish police launch investigation over Google data centre site",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5472484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
+      "provider": "ABC News Australia",
+      "title": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5472848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/sa-vv-patrick-stewart-tributes/107330144",
+      "provider": "ABC News Australia",
+      "title": "Fans reflect on the legacy of Patrick Stewart",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5475304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/tas-premier-jeremy-rockliff-christmas-trevallyn-primary-school/107327066",
+      "provider": "ABC News Australia",
+      "title": "Christmas remained key part of school event, premier told by department",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5476062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/christian-group-darwin-christmas-parade-rejection-dispute/107329402",
+      "provider": "ABC News Australia",
+      "title": "War of words erupts over Christian group's omission from NT Christmas pageant",
+      "status": "pending",
+      "firstSeenAt": 1793362113.547661,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/whitehaven-coalmine-expansion-approval-qld-land-court/107328464",
+      "provider": "ABC News Australia",
+      "title": "Queensland Land Court approves proposed $1b coal mine",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5485127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/maya-joints-promising-run-in-japan-ends-with-quarterfinal-exit/107330478",
+      "provider": "ABC News Australia",
+      "title": "Joint's promising run in Japan ends with QF exit",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5485575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-30/josh-worrell-adelaide-crows-guilty-plea/107327056",
+      "provider": "ABC News Australia",
+      "title": "Adelaide Crows star avoids jail for running red light and hitting pedestrian",
+      "status": "pending",
+      "firstSeenAt": 1793362113.5488973,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
