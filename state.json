@@ -78234,9 +78234,401 @@
       "status": "pending",
       "firstSeenAt": 1793430961.229923,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2818elrnzo",
+      "provider": "BBC",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4853432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261030-people-will-be-counting-what-a-german-expert-wants-you-to-know-about-buying-drinks-in-germany",
+      "provider": "BBC",
+      "title": "Why Germans won't buy a round of beer From Berlin bars to Bavarian beer gardens, who pays for what is taken seriously in Germany. Here's why splitting the bill can actually be a sign of friendship.",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4854918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261030-why-humans-maybe-ran-hotter-two-centuries-ago",
+      "provider": "BBC",
+      "title": "Scientists think our recent ancestors may have run hotter – but why? 150 years ago, average human body temperatures appear to have been higher than now. Scientists are still exploring exactly why.",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4855227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20251027-sleepy-hollow-the-town-that-renamed-itself-for-halloween",
+      "provider": "BBC",
+      "title": "How Sleepy Hollow brought its own legend to life Two centuries after Washington Irving wrote The Legend of Sleepy Hollow, North Tarrytown has rebranded itself around its most famous ghost – and discovered that the myth still sells.",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4861598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxnv0p4l7rjlo",
+      "provider": "BBC",
+      "title": "Starmer tells Dublin crowd Europe can no longer rely on US to 'bankroll' its defence Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies.",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4866068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmdx3p354v04o",
+      "provider": "BBC",
+      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4871337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g1j4vkrdlo",
+      "provider": "BBC",
+      "title": "Filmmaker performs live soundtrack to new movie Mark Jenkin says playing the score live \"heightens the emotion\" felt by the audience.",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4873066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly09y5l0r0o",
+      "provider": "BBC",
+      "title": "How city became home of drum and bass and jungle",
+      "status": "pending",
+      "firstSeenAt": 1793454025.4873495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c84g15r12xn3o",
+      "provider": "BBC",
+      "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+      "status": "pending",
+      "firstSeenAt": 1793454025.620318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmzxj2e2e5p2o",
+      "provider": "BBC",
+      "title": "Britain's first Â£100m man facing defining moment",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6203632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq1m4j79x50jo",
+      "provider": "BBC",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "status": "pending",
+      "firstSeenAt": 1793454025.620404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3el25ez88yo",
+      "provider": "BBC",
+      "title": "Why has Caf abandoned plans to hold Afcon every four years?",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6204429,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck3r52vn758xo",
+      "provider": "BBC",
+      "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1793454025.62049,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqwyr2r3jggno",
+      "provider": "BBC",
+      "title": "Briton Dart reaches first WTA Tour singles final",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6207347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cqp9gv3mr8myo",
+      "provider": "BBC",
+      "title": "Set up to fail? Where England's World Cup campaign went wrong",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6207733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwx281x2p28do",
+      "provider": "BBC",
+      "title": "Can Robinson work Hampden magic against McInnes' Rangers?",
+      "status": "pending",
+      "firstSeenAt": 1793454025.620848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c3x2wrp97dqdo",
+      "provider": "BBC",
+      "title": "Leicester dominate Bristol to go top of the Prem",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6209402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm0e02xn583go",
+      "provider": "BBC",
+      "title": "Olsen-Baker named Women's World Player of the Year",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6210475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqy0r31kwne0o",
+      "provider": "BBC",
+      "title": "Why managers must put their own health first - Pulis",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6211042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmkgkpexjzneo",
+      "provider": "BBC",
+      "title": "Fears Chelsea's Lacroix could be out until January",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6211448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmly0pq7435lo",
+      "provider": "BBC",
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6211889,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cm0ld27ew5lyo",
+      "provider": "BBC",
+      "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+      "status": "pending",
+      "firstSeenAt": 1793454025.621226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/c6qxnpdr7ezxo",
+      "provider": "BBC",
+      "title": "Cox sets world record to win gold at Worlds",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6212919,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/olympics/articles/c6ewe794nd2do",
+      "provider": "BBC",
+      "title": "Dog walker, babysitter, teacher, lifeguard... world champion",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6213357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmkgqprr44gzo",
+      "provider": "BBC",
+      "title": "Ronaldo closes in on 1,000th goal with hat-trick",
+      "status": "pending",
+      "firstSeenAt": 1793454025.621399,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cwe8lpmn2ly1o",
+      "provider": "BBC",
+      "title": "Shock Basel loss dents Djokovic's ATP Finals hopes",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6214352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cq70p7lx04eeo",
+      "provider": "BBC",
+      "title": "UFC champion Makhachev confirms retirement plans",
+      "status": "pending",
+      "firstSeenAt": 1793454025.6215162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8185823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8186483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8189821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/31/fallon-sherrock-shock-defeat-luke-littler-darts-live-tv-battle-netflix",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8190038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8190258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.819047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8190854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8191512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/31/jamaicans-beach-access-fight-court-victory-hope",
+      "provider": "The Guardian",
+      "title": "‘Plantation tourism’: court victory signals hope in Jamaica’s fight to keep beaches public",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8194027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/oct/31/manhood-movie-penis-enlargement-industry",
+      "provider": "The Guardian",
+      "title": "‘Never big enough’: inside the booming penis enlargement industry",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8195293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/louisiana-wrongful-death-lawsuit-catholic-school",
+      "provider": "The Guardian",
+      "title": "Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving school bully",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8195896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/31/jeremy-nguyen-arty-pumpkin-yayoi-kusama-cartoon",
+      "provider": "The Guardian",
+      "title": "Jeremy Nguyen on a very arty pumpkin – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8196142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
+      "provider": "The Guardian",
+      "title": "He was one of the NFL’s most feared runners. Now Larry Johnson fears what football did to his brain",
+      "status": "pending",
+      "firstSeenAt": 1793454025.8196545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/test-cricket-live-updates-south-africa-vs-australia/107282350",
+      "provider": "ABC News Australia",
+      "title": "Australia slumps to horror defeat as Warner decries 'deplorable' batting",
+      "status": "pending",
+      "firstSeenAt": 1793454026.306401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/joanna-wietrzyk-wins-first-race-back-after-incontinence-incident/107332052",
+      "provider": "ABC News Australia",
+      "title": "Joanna Wietrzyk wins first HYROX race after incontinence controversy",
+      "status": "pending",
+      "firstSeenAt": 1793454026.3066778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/melbourne-cup-2026-field-horses-form-guide-and-betting/107158416",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup 2026: Field, barrier draw, form guide and betting",
+      "status": "pending",
+      "firstSeenAt": 1793454026.3067577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/ice-officer-charged-over-striking-man-with-car/107332326",
+      "provider": "ABC News Australia",
+      "title": "Bodycam video shows ICE agent's car swerving toward man in Texas",
+      "status": "pending",
+      "firstSeenAt": 1793454026.307032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/four-tankers-strike-mines-in-strait-of-hormuz/107332392",
+      "provider": "ABC News Australia",
+      "title": "'Supertanker' strikes mine in Hormuz, losing two million barrels of oil",
+      "status": "pending",
+      "firstSeenAt": 1793454026.307191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/canada-eyeing-eu-associate-membership-by-june/107332384",
+      "provider": "ABC News Australia",
+      "title": "Canada hoping to become EU’s first 'associate member' in deal",
+      "status": "pending",
+      "firstSeenAt": 1793454026.3072467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/rugby-league-world-cup-live-kangaroos-vs-cook-islands/107332224",
+      "provider": "ABC News Australia",
+      "title": "Kangaroos pile on the points in World Cup thrashing of Cook Islands",
+      "status": "pending",
+      "firstSeenAt": 1793454026.3072958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222",
+      "provider": "ABC News Australia",
+      "title": "Locals protest against proposed AI data centre in Adelaide Hills",
+      "status": "pending",
+      "firstSeenAt": 1793454026.3081017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/north-melbourne-seals-aflw-minor-premiership/107332290",
+      "provider": "ABC News Australia",
+      "title": "Roos make AFLW history with three straight minor premierships",
+      "status": "pending",
+      "firstSeenAt": 1793454026.3081706,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
