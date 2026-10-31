@@ -79066,9 +79066,209 @@
       "status": "pending",
       "firstSeenAt": 1793479657.7866962,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq5npz5l5geo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793490451.1642728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8qln1539y37o",
+      "provider": "BBC",
+      "title": "Judge orders Trump administration to stop threatening US election officials The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "status": "pending",
+      "firstSeenAt": 1793490451.1647458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c6reyl8zp3jwo",
+      "provider": "BBC",
+      "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+      "status": "pending",
+      "firstSeenAt": 1793490451.1652553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6n04v897qe4o",
+      "provider": "BBC",
+      "title": "Are De Zerbi's Spurs finding elusive consistency?",
+      "status": "pending",
+      "firstSeenAt": 1793490451.165277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793490451.7610717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+      "provider": "The Guardian",
+      "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+      "status": "pending",
+      "firstSeenAt": 1793490451.7618008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
+      "provider": "The Guardian",
+      "title": "‘We freed Patrick Stewart!’ Star Trek’s Marina Sirtis on breaking in her beloved but very serious co-star",
+      "status": "pending",
+      "firstSeenAt": 1793490451.7619054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948",
+      "provider": "ABC News Australia",
+      "title": "Liberal MP calls for fundamental shift in how his party views super",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1650372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/one-nation-melbourne-candidate-matthew-collins-steps-down/107333132",
+      "provider": "ABC News Australia",
+      "title": "One Nation candidate apologises for 'unacceptable' comments, steps down",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1653705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/violent-storm-tears-roof-from-buildings-toppled-tree-near-yass/107333182",
+      "provider": "ABC News Australia",
+      "title": "Tornado-like storm hits NSW Southern Tablelands",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1655176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/de-minaur-stuns-new-world-number-one-zverev-in-vienna/107333118",
+      "provider": "ABC News Australia",
+      "title": "De Minaur stuns new number one Zverev in Vienna",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1655648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
+      "provider": "ABC News Australia",
+      "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1656108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/rugby-league-world-cup-jillaroos-dominance/107328024",
+      "provider": "ABC News Australia",
+      "title": "Time to make lopsided international women's rugby league a fair fight",
+      "status": "pending",
+      "firstSeenAt": 1793490452.165657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/love-story-robert-yeomans-heidy-perez-stillbirth/107288004",
+      "provider": "ABC News Australia",
+      "title": "Losing our baby shaped us in ways we never expected",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1657689,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/new-albums-avalanches-fontaines-dc-troye-sivan-qotsa-sampa-sycco/107318012",
+      "provider": "ABC News Australia",
+      "title": "The 10 albums we couldn't stop playing last month",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1658738,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/passengers-give-their-verdicts-on-new-spirit-of-tasmania/107333176",
+      "provider": "ABC News Australia",
+      "title": "Passengers give their verdicts on new Spirit of Tasmania",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1663234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/eric-the-emu-terrorising-pensioner/107288146",
+      "provider": "ABC News Australia",
+      "title": "The unexpected neighbourhood pest terrorising this pensioner",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1663451,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/boyer-lectures-australia-indonesia-neighbours-by-choice/107315382",
+      "provider": "ABC News Australia",
+      "title": "Australia and Indonesia are neighbours, but can they become good friends?",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1664917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/cricket-test-decisions-needed-australia-south-africa-cape-town/107332350",
+      "provider": "ABC News Australia",
+      "title": "Strategy, succession planning needed for Australia after Cape Town collapse",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1666074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/eating-disorder-experts-warn-against-online-wellness-trends/107274390",
+      "provider": "ABC News Australia",
+      "title": "Eating disorder experts warn against online wellness trends",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1667793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/tas-complaints-over-tasbuild-independent-chair-appointment/107327060",
+      "provider": "ABC News Australia",
+      "title": "Housing industry body complains over TasBuild appointment",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1669173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/nt-great-desert-skink-brink-extinction-indigenous-rangers/107328880",
+      "provider": "ABC News Australia",
+      "title": "Indigenous rangers, scientists work to save culturally significant lizard",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1669633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/orange-wineries-export-grapes-amid-changing-tastes-climate/107246582",
+      "provider": "ABC News Australia",
+      "title": "Changing tastes, warming climate push winemakers to extinct volcano",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1670496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/show-rides-cost-challenges/107300944",
+      "provider": "ABC News Australia",
+      "title": "Sideshow operators offer cash discounts for rides amid soaring costs",
+      "status": "pending",
+      "firstSeenAt": 1793490452.1673737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/country-womens-association-marble-cake-recipe-of-the-year/107284418",
+      "provider": "ABC News Australia",
+      "title": "Can you nail this picture-perfect CWA marble cake?",
+      "status": "pending",
+      "firstSeenAt": 1793490452.168271,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
