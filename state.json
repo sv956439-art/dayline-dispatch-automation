@@ -78626,9 +78626,177 @@
       "status": "pending",
       "firstSeenAt": 1793454026.3081706,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
+      "provider": "BBC",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit. 1 hr ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1793469325.21656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyv2y7g9l8o",
+      "provider": "BBC",
+      "title": "Ethiopian PM puts ministers through military training The prime minister has previously emphasised military preparedness as central to his government's ambitions. 3 hrs ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2165816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5ynryyep2yo",
+      "provider": "BBC",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak Government data shows that more than 10,000 people have contracted the rare virus. 3 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2168927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqlnplzneeyo",
+      "provider": "BBC",
+      "title": "Irish police assaulted in Dublin and threatened with 'imitation' gun Commissioner Justin Kelly said the incident \"demonstrates once again the potential dangers that our members face every day\".",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2171655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckvg64xp1e1eo",
+      "provider": "BBC",
+      "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2174406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwnv0p143qzyo",
+      "provider": "BBC",
+      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2174535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g18l8l4wgo",
+      "provider": "BBC",
+      "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2175198,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c98rz4pxm4ymo",
+      "provider": "BBC",
+      "title": "City of London chief tops UK Black Powerlist Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2860398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckzd623pldqgo",
+      "provider": "BBC",
+      "title": "Yorkshire Water boss resigns after firm downgraded Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+      "status": "pending",
+      "firstSeenAt": 1793469325.286055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy9qe5r1z3o",
+      "provider": "BBC",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes A new generation is embracing eye-catching patching and visible mends.",
+      "status": "pending",
+      "firstSeenAt": 1793469325.2860763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793469325.716481,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7164931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7165048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793469325.716553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7165635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7165732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/31/brazil-lula-social-media",
+      "provider": "The Guardian",
+      "title": "The secret behind Lula’s win in Brazil may be an ‘army’ – of social media creators",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7166772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections",
+      "provider": "The Guardian",
+      "title": "How Trump and his allies seek to interfere in the US midterm elections",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7167618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/oct/29/algorithms-make-everything-predictable-music-fans-opting-buy-cds",
+      "provider": "The Guardian",
+      "title": "‘Algorithms make everything predictable’: why the CD is making a comeback",
+      "status": "pending",
+      "firstSeenAt": 1793469325.7167912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-31/attacks-on-iran-should-be-met-without-restraint-khamenei-orders/107332392",
+      "provider": "ABC News Australia",
+      "title": "Iranian military ordered to counter any attack swiftly and without restraint",
+      "status": "pending",
+      "firstSeenAt": 1793469326.3641403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/evacuees-from-russian-occupied-oleshky-arrive-in-ukraine/107332470",
+      "provider": "ABC News Australia",
+      "title": "Evacuees from Russian-occupied Oleshky reach Ukraine amid ceasefire",
+      "status": "pending",
+      "firstSeenAt": 1793469326.3643787,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
