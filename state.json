@@ -80522,9 +80522,233 @@
       "status": "pending",
       "firstSeenAt": 1793565478.501799,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c51kdy1ew7zvo",
+      "provider": "BBC",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9496136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm369yy7lw73o",
+      "provider": "BBC",
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\". 36 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9496772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cv62y1e6wly6o",
+      "provider": "BBC",
+      "title": "Antonelli becomes world champion as Verstappen wins in Mexico Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix. 31 mins ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9497106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv4g1y02jejro",
+      "provider": "BBC",
+      "title": "Judge dismisses Trump administration's  lawsuit over two Dan Sullivans in Alaska election The Department of Justice had sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses.",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9508553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crpdgp4y017go",
+      "provider": "BBC",
+      "title": "Don't get caught out by new Buy Now Pay Later rules New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9510517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c0rdvxdwwwwo",
+      "provider": "BBC",
+      "title": "Kimi Antonelli: The boy 'born in a garage' who started driving on dad's lap Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9514678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cmwy7dl879gzo",
+      "provider": "BBC",
+      "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+      "status": "pending",
+      "firstSeenAt": 1793577132.951495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvp8grpjk4leo",
+      "provider": "BBC",
+      "title": "I'll tell my players to dive in future - Iraola",
+      "status": "pending",
+      "firstSeenAt": 1793577132.9515202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/weather/articles/c3pwge119lnvo",
+      "provider": "BBC",
+      "title": "Northern Lights dance across UK sky on Halloween night Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night. 14 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793577133.0215323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cmrlyw2y0gxzo",
+      "provider": "BBC",
+      "title": "How Dart revived career with help of Wimbledon champion Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career. 8 hrs ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1793577133.021801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793577133.22988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/01/bbc-young-musician-teenage-violinist-sofia-demetriades",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793577133.2304049,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793577133.2305644,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793577133.2305896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/nov/02/the-c-word-australian-culture-identity",
+      "provider": "The Guardian",
+      "title": "Love the C word? You might be Australian. Hate it? You might be American",
+      "status": "pending",
+      "firstSeenAt": 1793577133.230968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/federal-politics-nationals-leader-matt-canavan-capricornia/107335062",
+      "provider": "ABC News Australia",
+      "title": "Matt Canavan enters Capricornia race to set up One Nation showdown",
+      "status": "pending",
+      "firstSeenAt": 1793577133.545079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/business-jet-carrying-9-people-crashes-in-florida-neighbourhood/107335094",
+      "provider": "ABC News Australia",
+      "title": "Nine die as business jet crashes on Florida roadside",
+      "status": "pending",
+      "firstSeenAt": 1793577133.545797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/israeli-strikes-kill-eight-people-in-gaza-medics-say/107334984",
+      "provider": "ABC News Australia",
+      "title": "Israeli strikes kill eight people in Gaza, medics say",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5459194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/five-rescued-after-three-months-adrift-at-sea/107334486",
+      "provider": "ABC News Australia",
+      "title": "Five people rescued in Kiribati after three months at sea",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5464976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/woorabinda-woman-leads-indigenous-community-in-workshops/107260116",
+      "provider": "ABC News Australia",
+      "title": "Indigenous women connect to culture through traditional crafts",
+      "status": "pending",
+      "firstSeenAt": 1793577133.546558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/wa-man-adrian-pindan-released-prison-december/107330278",
+      "provider": "ABC News Australia",
+      "title": "Serial rapist to be released despite 'high risk' to WA community",
+      "status": "pending",
+      "firstSeenAt": 1793577133.546606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/ciara-mageean-dead-at-34-after-cancer-battle/107335242",
+      "provider": "ABC News Australia",
+      "title": "Irish 1,500m champion remembered as inspiration after death at 34",
+      "status": "pending",
+      "firstSeenAt": 1793577133.546648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/australias-first-indigenous-owned-water-lab-opens-in-queensland/107327630",
+      "provider": "ABC News Australia",
+      "title": "Australia's first Indigenous-owned water testing lab opens in regional Qld",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5467145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/phar-lap-goes-unnoticed-ahead-of-his-1930-melbourne-cup-win/107170546",
+      "provider": "ABC News Australia",
+      "title": "Phar Lap's little-known pre-cup trip to the country",
+      "status": "pending",
+      "firstSeenAt": 1793577133.547068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/experts-warn-crocodiles-territorial-hot-weather-breeding-season/107331590",
+      "provider": "ABC News Australia",
+      "title": "Crocodile climbs onto NT fisherman's boat",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5471551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/ingham-hinchinbrook-insurance-premium-unaffordable-expensive/107323438",
+      "provider": "ABC News Australia",
+      "title": "Insurance unaffordable for flooded homes almost two years on from disaster",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5472093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/football-carpenter-stars-chelsea-arsenal-wsl-wrap/107335080",
+      "provider": "ABC News Australia",
+      "title": "Matildas star continues remarkable WSL goalscoring run in huge win",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5474563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/deadly-melbourne-cup-weekend-victoria-roads-fatal/107334862",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup weekend crashes on Victorian roads leave eight people dead",
+      "status": "pending",
+      "firstSeenAt": 1793577133.5475888,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
