@@ -79442,9 +79442,297 @@
       "status": "pending",
       "firstSeenAt": 1793500767.7431836,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0r2y6zeddo",
+      "provider": "BBC",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide? The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress. 4 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5489287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv369266644lo",
+      "provider": "BBC",
+      "title": "Healey risks breaking minimum wage promise for younger workers The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election. 16 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1793526115.549194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20251024-how-daylight-saving-time-affects-our-health",
+      "provider": "BBC",
+      "title": "How does changing the clocks affect our health? Changing the clocks is linked to a plethora of health impacts – from heart attacks to car crashes.",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5492334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260306-the-wake-up-tricks-people-used-before-alarm-clocks",
+      "provider": "BBC",
+      "title": "How people woke up before alarm clocks From candles that drop metal nails to the knocker uppers of industrial Britain, people devised plenty of cunning ways to ensure a timely wake-up before alarm clocks came along.",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5492473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20250306-the-bizarre-quantum-paradox-of-negative-time",
+      "provider": "BBC",
+      "title": "The bizarre quantum paradox of 'negative time' Cause is usually followed by effect, but in the quantum world, time's sequencing is not so straightforward.",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5492597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckzd6217j7pgo",
+      "provider": "BBC",
+      "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5496964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cm1j3yd6994yo",
+      "provider": "BBC",
+      "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5497162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1exyj525d9o",
+      "provider": "BBC",
+      "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5497797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c94g1pg334dko",
+      "provider": "BBC",
+      "title": "Special locations are 'holy grail' for film makers",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5497904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8dzlzeggq3o",
+      "provider": "BBC",
+      "title": "'My cattle don't care I'm in Clarkson's choir'",
+      "status": "pending",
+      "firstSeenAt": 1793526115.5498002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.876263,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8763266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.876399,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.876409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8764188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.876523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8765984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
+      "provider": "The Guardian",
+      "title": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8767364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket",
+      "provider": "The Guardian",
+      "title": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8767552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/anger-over-johannesburgs-run-down-infrastructure-elections",
+      "provider": "The Guardian",
+      "title": "Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure",
+      "status": "pending",
+      "firstSeenAt": 1793526115.876767,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures",
+      "provider": "The Guardian",
+      "title": "‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8768075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
+      "provider": "The Guardian",
+      "title": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8768287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds",
+      "provider": "The Guardian",
+      "title": "‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds?",
+      "status": "pending",
+      "firstSeenAt": 1793526115.8768485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/powerhouse-ceo-lisa-havilah-statement-conflict-of-interests/107325552",
+      "provider": "ABC News Australia",
+      "title": "Suspended Powerhouse CEO denies wrongdoing as 14 disclosures revealed",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4924657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
+      "provider": "ABC News Australia",
+      "title": "Tonga and Samoa ignite World Cup after Lebanon's stunning extra-time win",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4924955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
+      "provider": "ABC News Australia",
+      "title": "Australia's latest World Cup smash-up helps nobody",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4925144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/two-teenage-boys-dead-bullsbrook-crash/107333718",
+      "provider": "ABC News Australia",
+      "title": "Two boys, 16, killed in stolen car crash in Perth's north-east",
+      "status": "pending",
+      "firstSeenAt": 1793526116.492577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/lisa-phillips-epstein-survivor-message-for-young-australians/107328002",
+      "provider": "ABC News Australia",
+      "title": "Epstein survivor thinks serial sex offender would be 'proud'",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4926636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/katy-gallagher-wont-promise-myefo-net-savings/107333248",
+      "provider": "ABC News Australia",
+      "title": "Government will not promise net savings in budget update, despite inflation pressure",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4927406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/tribute-to-bioware-studios-mass-effect-and-dragon-age/107316482",
+      "provider": "ABC News Australia",
+      "title": "BioWare studio shuttered by EA after more than 30 years of video games",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4928193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/mine-rescue-comp-biggest-in-decades-as-new-equipment-rolls-out/107318774",
+      "provider": "ABC News Australia",
+      "title": "Mine rescue teams compete underground in biggest competition in a decade",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4931457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/salisbury-north-fatal-pedestrian/107333956",
+      "provider": "ABC News Australia",
+      "title": "Driver charged after pedestrian's death in Adelaide's north",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4931653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/suns-miss-top-four-by-a-whisker-despite-win-over-giants/107333824",
+      "provider": "ABC News Australia",
+      "title": "Suns miss top four by a whisker despite win over Giants",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4931931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/new-queensland-governor-thomas-bradley-sworn-in/107333322",
+      "provider": "ABC News Australia",
+      "title": "Queensland's 28th governor sworn in at parliament house",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4932122,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/v8-superboats-elmore-victoria/107333452",
+      "provider": "ABC News Australia",
+      "title": "V8 Superboats's Victorian return a roaring success, says organiser",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4935608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/agony-and-ecstasy-for-australian-duo-in-wnba-finals-game-seven/107333884",
+      "provider": "ABC News Australia",
+      "title": "Agony and ecstasy for Australian duo in WNBA Finals game seven",
+      "status": "pending",
+      "firstSeenAt": 1793526116.4936032,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
