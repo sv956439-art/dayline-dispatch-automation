@@ -79266,9 +79266,185 @@
       "status": "pending",
       "firstSeenAt": 1793490452.168271,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
+      "provider": "BBC",
+      "title": "Shops looted as German cost of living protests turn violent Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne. 39 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9829617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr5yj2lj9myo",
+      "provider": "BBC",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9829814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c893z699q401o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9832246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
+      "provider": "BBC",
+      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour. 4 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9832458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60qk92dvlwgo",
+      "provider": "BBC",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls. 2 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9832783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cje36degrgv5o",
+      "provider": "BBC",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9836204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c8g47wl06vkqo",
+      "provider": "BBC",
+      "title": "Are Manchester United really at risk of a relegation scrap? Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9837732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2qg0nezrgo",
+      "provider": "BBC",
+      "title": "Who are the real winners of Celebrity Traitors? Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+      "status": "pending",
+      "firstSeenAt": 1793500765.9838667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmypy1vnego",
+      "provider": "BBC",
+      "title": "14 hrs ago Rare Sir Grayson Perry work joins centenary exhibition The ceramic piece, created in 1986, will be on show at Portsmouth Museum and Art Gallery. 14 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793500766.9719906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x2vp7xg29ko",
+      "provider": "BBC",
+      "title": "20 hrs ago The childhood promise that brought professional ballet to a post-industrial town Ballet Cymru's founder reflects on the path that led to 40 years of the professional dance company. 20 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793500766.972044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793500767.1514134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/ot-critical-infrastructure-hacking-cyber-security/107288694",
+      "provider": "ABC News Australia",
+      "title": "From fridges to nuclear power plants, hackers are gaining control",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7422593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/judge-dismisses-trump-lawsuit-against-wsj-over-epstein-cartoon/107333268",
+      "provider": "ABC News Australia",
+      "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein cartoon",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7424128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
+      "provider": "ABC News Australia",
+      "title": "FBI accuses North Korea of Binance hack",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7424304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/russia-responds-to-us-intelligence-moscow-terrorist-attack/107333516",
+      "provider": "ABC News Australia",
+      "title": "Russia responds to US warning of Moscow attack plan",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7424746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/missing-man-found-dead-near-santa-teresa-central-australia-flood/107333434",
+      "provider": "ABC News Australia",
+      "title": "Man swept away by remote NT floodwater found dead after three-day search",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7426584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/australian-indigenous-rapper-kayps-family-culture-noonkanbah/107057398",
+      "provider": "ABC News Australia",
+      "title": "WA rapper pays tribute to family's land rights battle, defends lyrics",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7426982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/should-all-australian-workers-get-reproductive-leave/107329210",
+      "provider": "ABC News Australia",
+      "title": "Should every Australian worker get paid reproductive leave?",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7429202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/noosa-triathlon-swim-cancelled-shark-sightings/107290942",
+      "provider": "ABC News Australia",
+      "title": "Shark sightings force Noosa Triathlon to scrap swim leg",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7429817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/gladstone-gaol-reopens/107333388",
+      "provider": "ABC News Australia",
+      "title": "SA's historic Gladstone Gaol reopens with ghost tours",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7430007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/rob-hirst-book-midnight-oil-drummer-songwriter/107314400",
+      "provider": "ABC News Australia",
+      "title": "Rob Hirst's family and friends help finish book honouring Midnight Oil songwriter",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7430563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
+      "provider": "ABC News Australia",
+      "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+      "status": "pending",
+      "firstSeenAt": 1793500767.7431836,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
