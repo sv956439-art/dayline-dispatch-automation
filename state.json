@@ -79994,9 +79994,537 @@
       "status": "pending",
       "firstSeenAt": 1793550206.833329,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g1y90p71eo",
+      "provider": "BBC",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0421526,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c95ynzv88n68o",
+      "provider": "BBC",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote. 26 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0421913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqln14rrzxvo",
+      "provider": "BBC",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say. 4 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0422244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9kgj7k7ry0ro",
+      "provider": "BBC",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival. 3 hrs ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0428786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3r5z3pw928o",
+      "provider": "BBC",
+      "title": "Lindsay Clancy is back in court - where will her case go next? The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0429883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c39wz2epven4o",
+      "provider": "BBC",
+      "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+      "status": "pending",
+      "firstSeenAt": 1793565478.044003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmvg7d1xl8epo",
+      "provider": "BBC",
+      "title": "Are Celtic club in regression amid run of six defeats in 10?",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0440292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/ck30ey1ezmyqo",
+      "provider": "BBC",
+      "title": "Referee accidentally fractures college football player's leg",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0440547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgq0v87z8zo",
+      "provider": "BBC",
+      "title": "Gavin and Stacey actor hopes his band will be 'the next Stereophonics' Oscar Hartland, who played Neil the Baby, says he's on a \"mission to create a new modern sound for Wales\".",
+      "status": "pending",
+      "firstSeenAt": 1793565478.0442214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g18lkz0kno",
+      "provider": "BBC",
+      "title": "Aquarium shark that helped 'dispel myths' dies",
+      "status": "pending",
+      "firstSeenAt": 1793565478.111657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrkypljk526o",
+      "provider": "BBC",
+      "title": "Rhino siblings celebrate first birthday with cake",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1116843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6zjx7rzwmyzo",
+      "provider": "BBC",
+      "title": "Charities warn of bonfire danger for hedgehogs",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1117096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c64g14ene2epo",
+      "provider": "BBC",
+      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1117392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry8317pdp5yo",
+      "provider": "BBC",
+      "title": "3 hrs ago 'Fascinating' rare beetle found in Wales again after 60 years It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1119468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwyrewp3drwo",
+      "provider": "BBC",
+      "title": "9 hrs ago Noise complaint sees rescue cockerel returned Laura-Jane Wain says was threatened with a £1,500 fine over Bruce Almighty's crowing. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1119745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2d17lw0p3o",
+      "provider": "BBC",
+      "title": "13 hrs ago Motorists urged to slow down for red squirrels The JSPCA says it has been called to rescue seven squirrels injured on the roads in one day. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1120203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c933xjk5n6zeo",
+      "provider": "BBC",
+      "title": "14 hrs ago Emu's failed romance leads to massive egg dilemma Eyeleen the one-eyed emu and her feathered paramour, Dexy, do not completely hit it off. 14 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1120455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjp3glwwe443o",
+      "provider": "BBC",
+      "title": "14 hrs ago 'Why were 50 cameras pointing at my window?' Teenager says \"at least 50\" cameras were pointed towards the house he was staying in. 14 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1120708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c617kvqjd81jo",
+      "provider": "BBC",
+      "title": "14 hrs ago Rare damselfly spotted by restored chalk river The Herts and Middlesex Trust says it is \"thrilled\" the new wetlands are helping species thrive. 14 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1120963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd93py0ggn4o",
+      "provider": "BBC",
+      "title": "1 day ago Skipper who champions Cornish sardines gets award Tom Lambourn is praised by judges for his efforts to ensure stocks remain healthy. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1121216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9rkypk1g7k0o",
+      "provider": "BBC",
+      "title": "1 day ago Bute House protested by environmental campaigners A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.112147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l32d9l967o",
+      "provider": "BBC",
+      "title": "2 days ago Spider discovery like uncovering 'hidden treasure' The new species of trapdoor spider is discovered by scientists from Durrell working in Mauritius. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.112194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw77pmrdel8lo",
+      "provider": "BBC",
+      "title": "2 days ago Are the autumns we remember disappearing? As autumn colours emerge more slowly, experts say changing weather conditions are having an impact. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1122212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq8nw0q7d5ko",
+      "provider": "BBC",
+      "title": "2 days ago Rewilding project aims to restore peatland Cumbria Wildlife Trust starts work repairing damage to Skiddaw Forest's peatland. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.1122646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.247415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2478256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2478583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2478802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2479503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2482197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2482598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2482872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2483103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.248395,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2484367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2484584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793565478.2484791,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/01/the-guardian-view-on-the-us-midterms-and-election-interference-trumps-attempted-heist-is-already-under-way",
+      "provider": "The Guardian",
+      "title": "double quotation mark The Guardian view on the US midterms and election interference: Trump’s attempted heist is already under way",
+      "status": "pending",
+      "firstSeenAt": 1793565478.248762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/01/ella-baron-donald-trump-us-midterms-cartoon",
+      "provider": "The Guardian",
+      "title": "Ella Baron on Donald Trump and the US midterms – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1793565478.248885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/trump-could-interfere-in-us-midterm-elections-warn-ex-spy-chiefs/107283800",
+      "provider": "ABC News Australia",
+      "title": "Ex US spy chiefs say Trump 'willing to go beyond limits' at midterms",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4980514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/us-midterms-democrats-michigan-campaign-haley-stevens-backs-gop/107334852",
+      "provider": "ABC News Australia",
+      "title": "'Despicable betrayal': Democrat backs GOP candidate in key midterms race",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4981797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/brutal-redistribution-rba-interest-rate-policy/107333262",
+      "provider": "ABC News Australia",
+      "title": "The brutal redistribution at the heart of the RBA's interest rate policy",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4983428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/disunity-federal-government-blame-game-analysis/107333830",
+      "provider": "ABC News Australia",
+      "title": "Chalmers's criticism of Morrison coming back to bite him",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4985533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/superannuation-funds-failing-members-retirement-savings-asic/107319026",
+      "provider": "ABC News Australia",
+      "title": "Watchdog says super funds are failing their members",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4987295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686",
+      "provider": "ABC News Australia",
+      "title": "DV survivor told to pay child support to abuser she says earns $300k",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4988067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/protests-europe-germany-frankfurt/107334774",
+      "provider": "ABC News Australia",
+      "title": "Protesters loot shops, 100 officers injured as riots spread to Germany",
+      "status": "pending",
+      "firstSeenAt": 1793565478.498894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/israel-president-isaac-herzog-calls-for-calm-in-election/107334602",
+      "provider": "ABC News Australia",
+      "title": "Israeli President Isaac Herzog calls for calm ahead of election mediations",
+      "status": "pending",
+      "firstSeenAt": 1793565478.499031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/what-to-expect-nsw-gun-buyback-begins-for-one-year/107330518",
+      "provider": "ABC News Australia",
+      "title": "From today NSW gun owners can return their weapons. Here's how it will work",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4991887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/queensland-gold-coast-tom-tate-trump-invoice/107320816",
+      "provider": "ABC News Australia",
+      "title": "FOI says Gold Coast mayor took Mar-a-Lago invoice out of the office",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4992812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/federal-politics-live-blog-albanese-chogm-nov-2/107334912",
+      "provider": "ABC News Australia",
+      "title": "Albanese to seek tighter rules for British backpackers in meeting with UK PM",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4993496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/f1-live-mexico-city-grand-prix-oscar-piastri-kimi-antonelli/106998720",
+      "provider": "ABC News Australia",
+      "title": "Penalties handed down for lap one chaos as Antonelli avoids carnage",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4994216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/experts-back-nsw-push-pen-paper-naplan-tests/107333202",
+      "provider": "ABC News Australia",
+      "title": "NSW push to revert to pen-and-paper NAPLAN tests backed by experts",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4994805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/wicker-eleanor-wilson-interview-olivia-colman/107323194",
+      "provider": "ABC News Australia",
+      "title": "The Australian weaving magic with sexy basket movie Wicker",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4996004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/can-your-employer-force-you-to-take-leave-over-christmas-/107286202",
+      "provider": "ABC News Australia",
+      "title": "The best way to discuss Christmas leave options at work",
+      "status": "pending",
+      "firstSeenAt": 1793565478.499713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/this-week-in-history-quiz-november-2/107322916",
+      "provider": "ABC News Australia",
+      "title": "Grab the keys to the DeLorean, it's time for a history quiz",
+      "status": "pending",
+      "firstSeenAt": 1793565478.4997776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/football-arsenal-ends-anfield-drought-liverpool-var-drama/107334968",
+      "provider": "ABC News Australia",
+      "title": "'We have 50 cameras': Arsenal's drought-breaking win marred by VAR drama",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5004742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/us-midterms-daily-news-briefing-trump-alaska-michigan/107326672",
+      "provider": "ABC News Australia",
+      "title": "Trump rallies for embattled Senate seats after Halloween bash detour",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5005443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/theft-victim-asks-judge-to-spare-former-employee/107318370",
+      "provider": "ABC News Australia",
+      "title": "Sports journalist with gambling addiction shown sympathy by ex-boss",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5006015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/queensland-weather-storms-heatwave/107333928",
+      "provider": "ABC News Australia",
+      "title": "More storms looming for SEQ as 'extreme' heatwave hits Gulf country",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5006695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/asx-markets-business-live-news-nov-2/107334212",
+      "provider": "ABC News Australia",
+      "title": "Wall Street sinks on AI fears, ASX on edge ahead of RBA meeting",
+      "status": "pending",
+      "firstSeenAt": 1793565478.500758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/saintly-melbourne-cup-win-30-years-ago/107315230",
+      "provider": "ABC News Australia",
+      "title": "How Saintly, the 'horse from heaven', won the Melbourne Cup 30 years ago",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5008178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/melbourne-cup-time-how-to-watch-weather-forecast/107333664",
+      "provider": "ABC News Australia",
+      "title": "What time is the Melbourne Cup? How to watch and the weather forecast",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5009234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/tennis-de-minaur-beaten-vienna-open-final-alcaraz/107334926",
+      "provider": "ABC News Australia",
+      "title": "'Annoying' Alcaraz denies de Minaur Vienna Open title in final",
+      "status": "pending",
+      "firstSeenAt": 1793565478.501068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/citizen-science-shows-8000-sharks-rays-killed-by-algal-bloom/107327852",
+      "provider": "ABC News Australia",
+      "title": "Algal bloom killed more than 8,000 sharks",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5013425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/street-to-home-service-searches-for-rough-sleepers-hobart/107327032",
+      "provider": "ABC News Australia",
+      "title": "Southern Tasmania's only homeless outreach service at maximum capacity",
+      "status": "pending",
+      "firstSeenAt": 1793565478.5016077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-02/cows-moved-and-milked-by-ai-and-robots-in-australian-first/107327042",
+      "provider": "ABC News Australia",
+      "title": "How the AI 'cow-gorithm' is helping this dairy couple get the job done",
+      "status": "pending",
+      "firstSeenAt": 1793565478.501799,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
