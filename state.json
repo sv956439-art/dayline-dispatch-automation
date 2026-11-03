@@ -82586,9 +82586,617 @@
       "status": "pending",
       "firstSeenAt": 1793672413.7511172,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq2d6k4r5n9ro",
+      "provider": "BBC",
+      "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9761083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx240mrm3g8vo",
+      "provider": "BBC",
+      "title": "US strikes Iranian island ahead of midterm elections US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner. 6 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9761324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3grwre9xdo",
+      "provider": "BBC",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far. 28 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9761524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck62yvz046pjo",
+      "provider": "BBC",
+      "title": "Tenerife striker De Miguel dies after on-field collision Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match. 33 mins ago Football",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9761703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5pvgxkkv4dzo",
+      "provider": "BBC",
+      "title": "Scientists detect signals at the smallest scale ever explored Researchers have detected signals from the smallest distances ever probed. 4 hrs ago Science & Environment",
+      "status": "pending",
+      "firstSeenAt": 1793698951.976188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq20321y2nlyo",
+      "provider": "BBC",
+      "title": "When will we know the US midterms results? Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9763727,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cj3vq29y10qyo",
+      "provider": "BBC",
+      "title": "A world champion but 'one of us' - a city's pride in Antonelli As Kimi Antonelli becomes F1 world champion, the people of Bologna hail their hometown hero. 22 hrs ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1793698951.976489,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9dzg5eq926o",
+      "provider": "BBC",
+      "title": "How to follow the US midterm elections on the BBC Whether you plan to follow the US midterms on TV, radio or online, the BBC has you covered.",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9766781,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5ynekkn5qko",
+      "provider": "BBC",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "status": "pending",
+      "firstSeenAt": 1793698951.976691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq398ep2lzd0o",
+      "provider": "BBC",
+      "title": "Uganda arrests former army deputy chief stripped of military rank Military spokesman says security forces recently recovered 15 guns in Elwelu's possession.",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9767325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp8genleg2ro",
+      "provider": "BBC",
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9767544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c63dj3zpl85go",
+      "provider": "BBC",
+      "title": "West Ham sack head coach Nuno Espirito Santo West Ham United sack head coach Nuno Espirito Santo after their disappointing start to the Championship season.",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9769945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cdj4z0lwjzlo",
+      "provider": "BBC",
+      "title": "The referee who became a role model after bouncing back from Diaz error",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9770079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5ev3m9ddzgmo",
+      "provider": "BBC",
+      "title": "Emery looks to show Villa can compete with elite",
+      "status": "pending",
+      "firstSeenAt": 1793698951.977031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3kgq41jkrp0o",
+      "provider": "BBC",
+      "title": "Can a photo capture London's cultural appetite?",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9771109,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0ld5zw3eg3o",
+      "provider": "BBC",
+      "title": "Jack Lowden says James Bond speculation is 'flattering'",
+      "status": "pending",
+      "firstSeenAt": 1793698951.9771354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg7l8p0ezgo",
+      "provider": "BBC",
+      "title": "James Blunt on Traitors: I tried - and failed - to get banished",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0578744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx23vqy3qq7o",
+      "provider": "BBC",
+      "title": "2 hrs ago Christmas ad 'shock' for Fender's old school choir Sam Fender's chance meet with an old teacher gives North Shield's pupils the ultimate Christmas gig. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0581632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c674pg8jm4nmo",
+      "provider": "BBC",
+      "title": "19 hrs ago Rare Salvador Dali lithograph collection to go under the hammer The artworks are being sold by a private collector who is moving abroad and are expected to fetch as much as £120,000. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.058225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz654jn390vo",
+      "provider": "BBC",
+      "title": "19 hrs ago Shania Twain to headline Blenheim Palace Festival The country-pop icon will bring her hits to the Unesco World Heritage site next summer. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0582469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck30e4lpe2yro",
+      "provider": "BBC",
+      "title": "23 hrs ago Shania Twain to headline Essex festival next year The Grammy award-winning star is to perform at an Americana festival which made its debut this year. 23 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0582688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmeweq8rlqxxo",
+      "provider": "BBC",
+      "title": "1 day ago 'Successful year' as museum visitor numbers rise Heritage bosses on the island say events held at some of the venues have boosted figures. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0582817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrlyp06016yo",
+      "provider": "BBC",
+      "title": "1 day ago Song urges builders to talk about mental health A Somerset builder has written a song to raise awareness and money for mental health charities. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0582945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmypddvnzno",
+      "provider": "BBC",
+      "title": "1 day ago Performing arts school marks 75 years in showbiz Its alumni include a Hamilton star whose mum still gets a lump in her throat watching him perform. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0583062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx5yngj43v56o",
+      "provider": "BBC",
+      "title": "1 day ago How one musician turned disability and isolation into a song Nikki Rous says music has become a way of processing the challenges of disability and illness. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1793698952.0583189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.406812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4068255,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4068382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4068549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.406898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.406909,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.406952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4070199,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4070861,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/03/mogging-crowned-collins-word-of-the-year",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4070961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.407117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4071271,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4071662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4071765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4071972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise",
+      "provider": "The Guardian",
+      "title": "‘Men know they won’t face consequences’: rise of street sex work in Tokyo is fuelling calls for change",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4072547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/03/our-aim-is-that-children-are-protected-besieged-west-bank-school-fortifies-its-defences-against-settler-violence",
+      "provider": "The Guardian",
+      "title": "‘Our aim is that children are protected’: besieged West Bank school fortifies its defences against settler violence",
+      "status": "pending",
+      "firstSeenAt": 1793698952.407278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/nov/03/farm-workers-falling-sick-kenya-horticultural-town-timau-pesticides",
+      "provider": "The Guardian",
+      "title": "Farm workers are falling sick in a Kenyan horticultural town. Were they poisoned by pesticides?",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4072907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/03/tuesday-briefing-britain-is-moving-the-goalposts-for-its-migrant-workers",
+      "provider": "The Guardian",
+      "title": "Tuesday briefing: Britain is moving the goalposts for its migrant workers",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4073286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/03/dustin-hoffman-memoir-look-at-me-the-graduate-mike-nichols",
+      "provider": "The Guardian",
+      "title": "Dustin Hoffman says filming The Graduate was ‘a terrible experience’ due to Mike Nichols’ ‘sadism’",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4073582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/nov/03/my-secret-life-as-a-relapsed-alcoholic-addiction-sober",
+      "provider": "The Guardian",
+      "title": "‘I perfected deception’: My secret life as a relapsed alcoholic",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4074032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians",
+      "provider": "The Guardian",
+      "title": "UK and European peacekeepers in Ukraine would be allowed to fire back at Russians",
+      "status": "pending",
+      "firstSeenAt": 1793698952.4074268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050",
+      "provider": "ABC News Australia",
+      "title": "Interest rates highest since 2008 as inflation forecast to stay high",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4426024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/chalmers-promises-helpful-role-on-inflation-after-rate-hike/107342610",
+      "provider": "ABC News Australia",
+      "title": "Chalmers promises to be 'helpful' on inflation but rejects blame for rate hike",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4426453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/tough-christmas-looms-amid-inflation-interest-rate-rise/107340208",
+      "provider": "ABC News Australia",
+      "title": "Tough Christmas looms as rates and inflation hit household budgets",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4426656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/what-november-cash-rate-hike-means-for-australians-money/107324538",
+      "provider": "ABC News Australia",
+      "title": "What another rate hike means for your mortgage, savings and travel",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4426837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/us-midterm-elections-2026-live-updates/107335552",
+      "provider": "ABC News Australia",
+      "title": "Polls set to open in midterms as US strikes Iran",
+      "status": "pending",
+      "firstSeenAt": 1793698953.442702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/us-midterms-polling-dire-for-donald-trump-republican-party/107326276",
+      "provider": "ABC News Australia",
+      "title": "Polls show Trump's party could lose control of Congress but they may be wrong",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4427707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/papua-new-guinea-artillery-shell-wine-bottle/107342264",
+      "provider": "ABC News Australia",
+      "title": "Chinese embassy suggests military-grade explosive is actually a wine bottle",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4428048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-point-of-law-wins-for-ciaron-maher/107341548",
+      "provider": "ABC News Australia",
+      "title": "Star trainer Maher claims second Melbourne Cup as Point of Law storms to win",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4428868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-quick-hits-robbie-williams-jamie-foxx-king-charles/107341802",
+      "provider": "ABC News Australia",
+      "title": "Quick hits: A-listers, mistakes and the king's Melbourne Cup connection",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4429324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-2026-finishing-order-from-first-to-last/107340766",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup 2026 finishing order from first to last",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4429495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/beaconsfield-miner-todd-russell-last-days-health-battle/107343156",
+      "provider": "ABC News Australia",
+      "title": "Beaconsfield miner Todd Russell to 'see out' last days at home amid health battle",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4429667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-not-a-bad-person/107342440",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon asked police not to judge him, jury told",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4429924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/us-official-confirms-strikes-on-iran/107341252",
+      "provider": "ABC News Australia",
+      "title": "US has hit Iranian targets in Strait of Hormuz, US official says",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4430182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/nepal-helicopter-crash/107342964",
+      "provider": "ABC News Australia",
+      "title": "Indian national killed, New Zealander injured in Mount Everest helicopter crash",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4430404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/craig-silvey-s-online-apology-fails-to-address-victims/107342544",
+      "provider": "ABC News Australia",
+      "title": "'Horrified and aghast': Craig Silvey pens 9,000 word apology",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4430969,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/farmers-blindsided-by-approval-of-155-turbine-wind-farm/107341552",
+      "provider": "ABC News Australia",
+      "title": "Victorian farmers blindsided by approval of 155-turbine wind farm ahead of election",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4431221,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/supermarket-owner-escape-after-car-reverses-through-wall/107342586",
+      "provider": "ABC News Australia",
+      "title": "Car slams through supermarket wall 'like a sonic boom'",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4431472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/pressure-d-day-movie-anthony-maras-andrew-scott-brendan-fraser/107334124",
+      "provider": "ABC News Australia",
+      "title": "Andrew Scott and Brendan Fraser butt heads in this stormy WWII drama",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4432063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/mum-of-inmate-says-son-worse-after-ashley-youth-prison/107341512",
+      "provider": "ABC News Australia",
+      "title": "Mum of inmate says son worse after Tasmanian youth prison experience",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4434063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/bid-to-stop-cane-toads-entering-the-pilbara/107336504",
+      "provider": "ABC News Australia",
+      "title": "Scientists hope $28m 'waterless barrier' will stop the spread of cane toads",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4434917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/hillcrest-inquest-jumping-castle-teacher-evidence/107339744",
+      "provider": "ABC News Australia",
+      "title": "Teacher tells of career-ending grief after jumping castle tragedy",
+      "status": "pending",
+      "firstSeenAt": 1793698953.443551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/nsw-nathalie-matthews-mark-latham-court-hearing-guilty/107340610",
+      "provider": "ABC News Australia",
+      "title": "Mark Latham's ex-girlfriend found guilty over photo of naked selfie",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4436173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/socceroos-matildas-launch-court-action-against-football-austalia/107341718",
+      "provider": "ABC News Australia",
+      "title": "Socceroos, Matildas take Football Australia to court",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4436398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/perth-property-price-slump-provides-glimmer-of-hope/107336590",
+      "provider": "ABC News Australia",
+      "title": "Hope for house hunters amid slump as realtor warns optimism premature",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4436655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/asian-cup-postponed-due-to-unrest-in-saudi-arabia/107342724",
+      "provider": "ABC News Australia",
+      "title": "Saudi Arabia Asian Cup postponed due to conflict in Middle East",
+      "status": "pending",
+      "firstSeenAt": 1793698953.443725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/nsw-evidence-smh-kate-mcclymont-alan-jones-court-sydney/107340216",
+      "provider": "ABC News Australia",
+      "title": "Journalist denies 'profit motive' for running Alan Jones stories",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4437664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/one-year-since-voluntary-assisted-dying-came-into-effect-in-act/107341570",
+      "provider": "ABC News Australia",
+      "title": "'He was surrounded by love': One year of voluntary assisted dying in the ACT",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4438107,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/barambah-organics-ian-hannah-campbell-fatal-plane-crash-report/107341312",
+      "provider": "ABC News Australia",
+      "title": "Aviation watchdog delivers early report into double fatal Logan plane crash",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4439158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-03/ronald-volkman-samoa-rugby-league-world-cup-australia/107340748",
+      "provider": "ABC News Australia",
+      "title": "This Samoan superman is the World Cup's greatest comeback story",
+      "status": "pending",
+      "firstSeenAt": 1793698953.4443982,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
