@@ -84610,9 +84610,585 @@
       "status": "pending",
       "firstSeenAt": 1793759280.3034308,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6073l9y15xxo",
+      "provider": "BBC",
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+      "status": "pending",
+      "firstSeenAt": 1793785061.9991252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmr4y92rgd9po",
+      "provider": "BBC",
+      "title": "Defining moments from a night of midterm election firsts",
+      "status": "pending",
+      "firstSeenAt": 1793785061.9991572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwz0v5lv30lyo",
+      "provider": "BBC",
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "status": "pending",
+      "firstSeenAt": 1793785061.99918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n8dnn09jg7o",
+      "provider": "BBC",
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988 \"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "status": "pending",
+      "firstSeenAt": 1793785061.9992175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cred3jj69jvqo",
+      "provider": "BBC",
+      "title": "Republican Susan Collins loses seat to Democrat, ending nearly 30 years in the Senate Maine's Senate race was mired in controversy after Democratic nominee Graham Planter withdrew following multiple scandals.",
+      "status": "pending",
+      "firstSeenAt": 1793785061.9992507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9146d88pl32o",
+      "provider": "BBC",
+      "title": "Florida Republicans fend off Democrats as state elects first black governor Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "status": "pending",
+      "firstSeenAt": 1793785061.9992726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2dlz8574jo",
+      "provider": "BBC",
+      "title": "Amy Acton wins Ohio governor race after bitter race with billionaire Ramaswamy The raced heated up in its final weeks after the Republican contender released an ad featuring Acton's mother.",
+      "status": "pending",
+      "firstSeenAt": 1793785061.999293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0qkxzv3j99o",
+      "provider": "BBC",
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\". 6 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793785061.9993749,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c699z8792n7ro",
+      "provider": "BBC",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category. 2 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1793785061.999398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6djv011mzlyo",
+      "provider": "BBC",
+      "title": "Football world mourns Tenerife striker De Miguel Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch. 10 hrs ago Football",
+      "status": "pending",
+      "firstSeenAt": 1793785061.999419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d934npl9y8o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785061.999696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y8lz73vmv7o",
+      "provider": "BBC",
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials. 3 hrs ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1793785061.999748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjy56z440nl9o",
+      "provider": "BBC",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0001154,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1j0n92qdo",
+      "provider": "BBC",
+      "title": "How America voted in maps and charts",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0001333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cq62y9yzgzgeo",
+      "provider": "BBC",
+      "title": "Death threats for Briton Burrage on WTA Tour return",
+      "status": "pending",
+      "firstSeenAt": 1793785062.00056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/ck054q3g5jnpo",
+      "provider": "BBC",
+      "title": "Ocon dropped by Haas for rest of season after row",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0005963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y93pgydvzdo",
+      "provider": "BBC",
+      "title": "Tiktoker 'super excited' to co-host BBC nature show Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0007007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwr5y9647d77o",
+      "provider": "BBC",
+      "title": "Sterts fan offers cash to keep the doors open",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0007186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmyrjv3wzxo",
+      "provider": "BBC",
+      "title": "Teen musician is flying the flag for the recorder",
+      "status": "pending",
+      "firstSeenAt": 1793785062.000737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq74pexm44elo",
+      "provider": "BBC",
+      "title": "Celebrations and selfies: US midterms in pictures Hugs, cheers and smiles broke out as the Democrats picked up a string of victories in Republican strongholds.",
+      "status": "pending",
+      "firstSeenAt": 1793785062.090551,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cdx8080nq74o",
+      "provider": "BBC",
+      "title": "Scammers using AI-generated images of missing pets to demand reward money Owners say threats to kill their cats unless they sent money left them angry and terrified. 9 hrs ago Birmingham & Black Country",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0907066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qz93ew22no",
+      "provider": "BBC",
+      "title": "'Multi-cancer' blood tests coming to 200 English GP surgeries soon The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner. 10 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1793785062.090895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g1jx8ylveo",
+      "provider": "BBC",
+      "title": "Why is it going so wrong for Le Bris at Sunderland? Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season? 1 hr ago Sunderland",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0910635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c6n047870jzeo",
+      "provider": "BBC",
+      "title": "Retiring Serrano wants to end as a 'game-changer' Amanda Serrano said she wants to be remembered as a \"game-changer\" as she prepares for her farewell fight on home soil next year. 2 hrs ago Boxing",
+      "status": "pending",
+      "firstSeenAt": 1793785062.091085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c9kgj3elgmkzo",
+      "provider": "BBC",
+      "title": "Why rugby league needs Tonga-Samoa World Cup final Tonga will face New Zealand after winning all three group matches, before Samoa face Australia in a repeat of the 2022 final. 3 hrs ago Rugby League",
+      "status": "pending",
+      "firstSeenAt": 1793785062.0911381,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4462986,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4466028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.446621,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4466374,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4466531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4466686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.446722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.447013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4471173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4471328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4471486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/04/midterm-election-takeaways-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4471638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president",
+      "provider": "The Guardian",
+      "title": "Wednesday briefing: What the Democrat midterms victory tells us about Trump’s future as president",
+      "status": "pending",
+      "firstSeenAt": 1793785062.447267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
+      "provider": "The Guardian",
+      "title": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4472907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+      "provider": "The Guardian",
+      "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4474292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/03/midterms-trump-era-lame-duck",
+      "provider": "The Guardian",
+      "title": "double quotation mark The death knell of Trumpism has finally sounded",
+      "status": "pending",
+      "firstSeenAt": 1793785062.447462,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/04/robert-garcia-trump-oversight",
+      "provider": "The Guardian",
+      "title": "Top Democrat tells Trump and Republicans to ‘lawyer up’ after US midterm defeats",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4474814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-republicans-democrats-unpopular",
+      "provider": "The Guardian",
+      "title": "double quotation mark Red and blue America have united in their hatred for Donald Trump",
+      "status": "pending",
+      "firstSeenAt": 1793785062.447501,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/02/democrats-midterms-congress-win-power",
+      "provider": "The Guardian",
+      "title": "What can Democrats actually do now they have won Congress?",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4475188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
+      "provider": "The Guardian",
+      "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
+      "status": "pending",
+      "firstSeenAt": 1793785062.4475367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/donald-trump-no-lame-duck-despite-us-midterm-results/107339272",
+      "provider": "ABC News Australia",
+      "title": "Midterm results a defeat for Trump, but he is no lame duck",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2185698,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/us-midterms-democrats-win-majority-what-happens-next/107335330",
+      "provider": "ABC News Australia",
+      "title": "What could the Democrats do now that they have won Congress?",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2186208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/democrats-claim-victory-over-republicans-2026-midterm-elections/107338138",
+      "provider": "ABC News Australia",
+      "title": "Democrats gain control of Congress in rebuke to Trump",
+      "status": "pending",
+      "firstSeenAt": 1793785063.21865,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858",
+      "provider": "ABC News Australia",
+      "title": "Australian banks lift interest rates",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2187183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/israeli-election-commission-fraud-investigation/107347454",
+      "provider": "ABC News Australia",
+      "title": "No evidence of fraud in Israeli election, commission finds",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2187643,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/david-jones-possible-collapse-consumer-explainer/107347080",
+      "provider": "ABC News Australia",
+      "title": "David Jones is on shaky ground. Here's what consumers should know",
+      "status": "pending",
+      "firstSeenAt": 1793785063.218809,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/david-jones-could-collapse-behind-on-westfield-rent/107345094",
+      "provider": "ABC News Australia",
+      "title": "David Jones on brink of collapse and behind on rent to Westfield",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2188585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/swans-tom-papley-returns-positive-drug-test-during-roadside-stop/107347338",
+      "provider": "ABC News Australia",
+      "title": "Swans star returns positive drug test during roadside stop",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2188869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/nsw-australian-of-the-year-2027-nominees-announced/107345830",
+      "provider": "ABC News Australia",
+      "title": "Marine scientist awarded 2027 Australian of the Year for NSW",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2189286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/taswater-tells-resident-orange-water-safe-to-drink/107347420",
+      "provider": "ABC News Australia",
+      "title": "'Thick, orange water' safe to drink, woman told",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2189703,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/dennis-mckenna-serial-paedophile-freed-within-weeks/107345760",
+      "provider": "ABC News Australia",
+      "title": "Paedophile McKenna to be released despite being declared high risk offender",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2190263,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/alan-jones-trial-kate-mcclymont-messages/107344988",
+      "provider": "ABC News Australia",
+      "title": "Journalist quizzed over 'nail in the coffin' remark at Jones trial",
+      "status": "pending",
+      "firstSeenAt": 1793785063.219104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/one-nation-volunteer-assault-torquary-not-politically-motivated/107345346",
+      "provider": "ABC News Australia",
+      "title": "Assault on One Nation volunteer not being treated as politically motivated",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2191458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/torrens-to-darlington-controversy-engulfs-sa-government/107344672",
+      "provider": "ABC News Australia",
+      "title": "SA transport minister forced to take back seat at own press conference",
+      "status": "pending",
+      "firstSeenAt": 1793785063.219186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/one-pan-chicken-fiesta-weeknight-meal-recipe-of-the-year/107287206",
+      "provider": "ABC News Australia",
+      "title": "This easy one-pan chicken fiesta is packed with flavour",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2194018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/nsw-matthew-michael-mcsweeney-tas-court-drug-allegations/107344368",
+      "provider": "ABC News Australia",
+      "title": "NSW man in court over alleged ice seizure at Tasmanian beach car park",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2196894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/geraldton-woman-jailed-partner-manslaughter/107346470",
+      "provider": "ABC News Australia",
+      "title": "WA woman jailed for fatally stabbing partner during argument",
+      "status": "pending",
+      "firstSeenAt": 1793785063.219783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/binance-released-details-of-largest-crypto-heist/107345208",
+      "provider": "ABC News Australia",
+      "title": "Fake jobs and malicious code used by hackers in largest crypto-heist",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2199452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/rugby-league-kotoni-staggs-addresses-anthem-refusal/107345282",
+      "provider": "ABC News Australia",
+      "title": "Staggs says he means no harm by refusing to sing Australian anthem",
+      "status": "pending",
+      "firstSeenAt": 1793785063.219993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/alice-springs-murder-committal-defence-argues-man-self-harmed/107342702",
+      "provider": "ABC News Australia",
+      "title": "Judge rules CCTV footage in murder case does not show 'self-harm stabbing'",
+      "status": "pending",
+      "firstSeenAt": 1793785063.220073,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/kempsey-shire-councillor-noel-selby-resigns/107346226",
+      "provider": "ABC News Australia",
+      "title": "Councillor resigns after probe into domestic violence comment",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2201645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/united-nations-blocked-from-queenlsand-northern-territory-jails/107344806",
+      "provider": "ABC News Australia",
+      "title": "Queensland, NT governments block UN youth detention visits",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2202945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/former-esperance-councillor-gemma-johnston-faces-court/107340756",
+      "provider": "ABC News Australia",
+      "title": "Former councillor pleads not guilty to stalking senior shire staff",
+      "status": "pending",
+      "firstSeenAt": 1793785063.22039,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/china-southern-airline-backs-out-of-darwin-after-one-year/107345298",
+      "provider": "ABC News Australia",
+      "title": "China Southern Airlines suspends direct Darwin to China route after one year",
+      "status": "pending",
+      "firstSeenAt": 1793785063.220465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/lobster-fishers-against-tas-salmon-industry-antibiotic-plans/107344468",
+      "provider": "ABC News Australia",
+      "title": "Lobster fishers rail against salmon industry's antibiotic plans",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2205067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/indonesian-police-detained-over-alleged-wiretapping-of-president/107344464",
+      "provider": "ABC News Australia",
+      "title": "Indonesia detains police generals suspected of wire-tapping president's phones",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2206216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/former-nrl-player-trent-merrin-peptide-charges/107345862",
+      "provider": "ABC News Australia",
+      "title": "Former NRL player charged with manufacturing illegal peptides",
+      "status": "pending",
+      "firstSeenAt": 1793785063.2212896,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
