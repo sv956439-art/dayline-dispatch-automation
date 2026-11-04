@@ -84130,9 +84130,489 @@
       "status": "pending",
       "firstSeenAt": 1793744521.2127888,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwyrmm2k4mpo",
+      "provider": "BBC",
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4120717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wz0970eypo",
+      "provider": "BBC",
+      "title": "US voters name economy and state of democracy as top issues, poll says A major election day survey suggests voters are the most unhappy with the economy.",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4121492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy7ljkprvjko",
+      "provider": "BBC",
+      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4121974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq8nj23v8qqo",
+      "provider": "BBC",
+      "title": "Killer who escaped Tennessee prison captured after week-long manhunt Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence. 16 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793759279.412288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg0y44ym7vo",
+      "provider": "BBC",
+      "title": "No more rice grains in Kellogg's Rice Krispies in the UK due to changing weather The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning. 51 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4127724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxvgd4drmevro",
+      "provider": "BBC",
+      "title": "Why Kim Kardashian came back to 'the worst TV drama ever' The media personality and businesswoman says she's worked on her acting for series two of All's Fair. 2 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4128392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69qz9jzq4jro",
+      "provider": "BBC",
+      "title": "Code cracked for shipwreck padlock solving 400-year-old mystery The brass lock, found in the sand near Port Talbot, forms part of a 1583 shipwreck treasure hoard. 3 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4128854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c820vz6wyp65o",
+      "provider": "BBC",
+      "title": "Graduates are managing AI - but are they learning much else? Graduates are spending more time managing AI, but are they missing out on other work experience? 2 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4129126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn5vndlgdgdo",
+      "provider": "BBC",
+      "title": "Democrat Roy Cooper flips key North Carolina Senate seat from Republicans It's the first time the state has elected a Democratic senator since 2008.",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4132984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4g1x6l77xyo",
+      "provider": "BBC",
+      "title": "ANC under pressure to reverse South Africa decline As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4134011,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw77pg7neydmo",
+      "provider": "BBC",
+      "title": "Canva announces major job cuts after 'our hardest year yet' CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4135013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6q8n98y4023o",
+      "provider": "BBC",
+      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job? At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4139411,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjwy9496qe7ko",
+      "provider": "BBC",
+      "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4139676,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqkg5dgvygr1o",
+      "provider": "BBC",
+      "title": "Fernandes critical of media 'lies' about Carrick relationship",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4139931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c64g1dg0d84ko",
+      "provider": "BBC",
+      "title": "Man Utd beat Roma - the other great Champions League comebacks",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4140182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr62yv02zwxwo",
+      "provider": "BBC",
+      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4787405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck62ygn70212o",
+      "provider": "BBC",
+      "title": "Ecologist fights for custody of badger he rescued as a cub",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4789686,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr20w49x77e3o",
+      "provider": "BBC",
+      "title": "Council launches review after flood barriers not used during Storm Boelo",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4789937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8wy94ewzw03o",
+      "provider": "BBC",
+      "title": "Action needed to tackle 'biodiversity crisis'",
+      "status": "pending",
+      "firstSeenAt": 1793759279.479037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckly05578xdeo",
+      "provider": "BBC",
+      "title": "9 hrs ago Free film screening to explore climate change The National Emergency Briefing, presented by Chris Packham, will be shown at Hull's Guildhall. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4792504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckj0l3qj3ng1o",
+      "provider": "BBC",
+      "title": "11 hrs ago 'An unlit bonfire to a hedgehog is a five-star hotel' People should carefully check for hedgehogs before lighting bonfires, say charities. 11 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4792786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvx285w1l6rno",
+      "provider": "BBC",
+      "title": "13 hrs ago How a reservoir is helping to save UK's fastest declining bird Staff at Tittesworth Reservoir are helping to protect the UK's fastest declining resident bird. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.479306,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j47k0rpzz4o",
+      "provider": "BBC",
+      "title": "13 hrs ago Hunt on for 'exceptional' nature island manager The new manager will start each workday surrounded by nature at the island wildlife reserve. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4793339,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrw5j7n4dlo",
+      "provider": "BBC",
+      "title": "15 hrs ago Charity warns about damage of over-foraging fungi It says over-foraging, particularly in protected areas, damages habitats and wildlife. 15 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.479361,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y97z2n71o",
+      "provider": "BBC",
+      "title": "17 hrs ago Welsh public sector unlikely to meet net zero plans by 2030, say auditors A watchdog has criticised the lack of progress made by organisations in tackling climate change. 17 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4793882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvgrvx6ekl2o",
+      "provider": "BBC",
+      "title": "20 hrs ago AI data centres could undermine UK's emissions goals Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs. 20 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4794142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgx8w59wp1o",
+      "provider": "BBC",
+      "title": "20 hrs ago Firework displays cancelled over concerns for animals Displays by a college and primary school are cancelled after concerns for the welfare of wildlife and pets. 20 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.479441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw7vpgep56q5o",
+      "provider": "BBC",
+      "title": "20 hrs ago 'Campsite ban could be the end of our business' The Lake District National Park Authority wants to tighten rules around pop-up campsites. 20 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4794712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck0j0lwd330qo",
+      "provider": "BBC",
+      "title": "2 days ago Group collects two tonnes of marine litter The group recycles netting, plastic and other rubbish picked up on the coastline. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4795198,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg69w1xg04o",
+      "provider": "BBC",
+      "title": "2 days ago Help needed to solve mystery of starling murmurations People are invited to take part in research into why starlings form murmurations before they roost. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4795482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgr8lgz5kd1o",
+      "provider": "BBC",
+      "title": "2 days ago How is climate change affecting Bristol's trees? The collapse of a 166-year-old copper beech raises concerns over Bristol's landmark trees. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4795744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqly0r3kp1mlo",
+      "provider": "BBC",
+      "title": "2 days ago Woman who flew with swans warns of lead danger Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793759279.4796007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7874794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7876086,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7880123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7881489,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/roy-cooper-michael-whatley-north-carolina-senate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7881894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/florida-governor-byron-donalds-david-jolly-desantis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7882104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz-night-sky-satellites-accused-of-being-ai-brendan-larsen",
+      "provider": "The Guardian",
+      "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7883303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
+      "provider": "The Guardian",
+      "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
+      "status": "pending",
+      "firstSeenAt": 1793759279.7886007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-candidates-swing-states",
+      "provider": "The Guardian",
+      "title": "The candidates who will decide the US midterm elections",
+      "status": "pending",
+      "firstSeenAt": 1793759279.788625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
+      "provider": "ABC News Australia",
+      "title": "See live results from the 2026 US midterm elections",
+      "status": "pending",
+      "firstSeenAt": 1793759280.299904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/high-court-rules-on-uber-81-million-tax-bill/107344014",
+      "provider": "ABC News Australia",
+      "title": "Uber to pay $81m in payroll tax after High Court ruling",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3002155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/federal-police-five-charged-ndis-welfare-fraud/107344388",
+      "provider": "ABC News Australia",
+      "title": "Five arrested in probe of $235m rorted from federal agencies including NDIA",
+      "status": "pending",
+      "firstSeenAt": 1793759280.300274,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/hongkongers-struggle-to-start-new-life-after-protests/107222132",
+      "provider": "ABC News Australia",
+      "title": "Freed Hong Kong activists face 'punishment with no end date'",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3004327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/final-moments-aboard-learjet-flight/107344066",
+      "provider": "ABC News Australia",
+      "title": "Learjet tail part found kilometres from deadly Florida plane crash",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3005126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304",
+      "provider": "ABC News Australia",
+      "title": "Canva restructure to affect a fifth of its workforce ahead of Christmas",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3005688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/what-is-cortisol-and-myths-about-high-levels/107322414",
+      "provider": "ABC News Australia",
+      "title": "Cortisol being 'wrongly blamed' for health issues, experts say",
+      "status": "pending",
+      "firstSeenAt": 1793759280.30082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/diana-ross-sydney-2027-groove-armada-centennial-park-mardi-gras/107342834",
+      "provider": "ABC News Australia",
+      "title": "Diana Ross announces first Australian show in more than 20 years",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3008785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/parramatta-powerhouse-artwork-recovers-first-nations-words/107337824",
+      "provider": "ABC News Australia",
+      "title": "Search for First Nations botanical work recovers new words for eucalyptus",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3009408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/queensland-mater-jobs-union-calls-for-intervention/107343032",
+      "provider": "ABC News Australia",
+      "title": "Mater staff in disbelief over hundreds of job cuts as union calls for intervention",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3014617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/truck-crash-emergency-on-great-eastern-highway-in-meckering/107344998",
+      "provider": "ABC News Australia",
+      "title": "Trucks engulfed in flames after crash on WA highway",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3015075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/alice-springs-pride-at-jockey-ethan-brown-melbourne-cup-win/107343362",
+      "provider": "ABC News Australia",
+      "title": "Alice Springs beams with pride after local Ethan Brown's win at Melbourne Cup",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3015575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/tas-harness-trainer-conor-crook-banned-for-20-years/107344574",
+      "provider": "ABC News Australia",
+      "title": "Horse trainer who commited blood doping, placed bets banned for 20 years",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3016016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/rugby-league-world-cup-kalyn-ponga-miracle-return-broken-arm/107344704",
+      "provider": "ABC News Australia",
+      "title": "NZ teammates stunned as Ponga eyes return 22 days after breaking arm",
+      "status": "pending",
+      "firstSeenAt": 1793759280.301645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438",
+      "provider": "ABC News Australia",
+      "title": "Spain's transport minister resigns after deadly high-speed train crash",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3018544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/afp-arrest-second-nt-teenager-terrorism-offences/107344606",
+      "provider": "ABC News Australia",
+      "title": "Teenage girl allegedly busted with documents glorifying mass school casualties",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3022032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/football-champions-league-wrap-man-united-wins-after-protest/107344354",
+      "provider": "ABC News Australia",
+      "title": "Man United claims comeback win after fans launch tennis balls in protest",
+      "status": "pending",
+      "firstSeenAt": 1793759280.302362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/gold-coast-suns-surf-lifesaving-backgrounds-aflw-players/107301564",
+      "provider": "ABC News Australia",
+      "title": "How the 'gruelling sport' of surf lifesaving helped shape Suns AFLW players",
+      "status": "pending",
+      "firstSeenAt": 1793759280.30273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-04/critically-endangered-bonville-leafless-orchid-discovered-in-new/107330036",
+      "provider": "ABC News Australia",
+      "title": "Treasure hunt for rare orchid discovers thriving new cluster",
+      "status": "pending",
+      "firstSeenAt": 1793759280.3034308,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
