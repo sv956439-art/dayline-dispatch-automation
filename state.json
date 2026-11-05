@@ -86682,9 +86682,481 @@
       "status": "pending",
       "firstSeenAt": 1793847040.785957,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx2qzv835pgo",
+      "provider": "BBC",
+      "title": "France gears up for strikes and protests as unions promise national mobilisation Five of France's unions have joined a wave of strikes and protests in a national day of action. 20 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6969488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp9g3rlp8jlo",
+      "provider": "BBC",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law. 2 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6969905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx4g1qy6gq9mo",
+      "provider": "BBC",
+      "title": "Italian chef fired after refusing to put pineapple on pizza He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture. 2 hrs ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6970463,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm93zv62v1n7o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6974354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmy0rz7741ywo",
+      "provider": "BBC",
+      "title": "World record 53 red cards shown in Brazilian youth game A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil. 3 hrs ago Football",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6975217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmjweqpv8vj1o",
+      "provider": "BBC",
+      "title": "England captain Kane signs new Bayern contract England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
+      "status": "pending",
+      "firstSeenAt": 1793872513.698578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5yndvqy1y6o",
+      "provider": "BBC",
+      "title": "Country legend Garth Brooks returns to Belfast with 2027 gigs Brooks will play two outdoor concerts at Boucher Road Playing Fields on 21 and 22 May 2027.",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6987777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69vz91lvp1ko",
+      "provider": "BBC",
+      "title": "Free community library 'unrecognisable' after fire",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6988032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vgxzpw9y74o",
+      "provider": "BBC",
+      "title": "Bike from Batman film could sell for £900,000",
+      "status": "pending",
+      "firstSeenAt": 1793872513.6988285,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgk6252p1go",
+      "provider": "BBC",
+      "title": "Star backs city project to showcase musical talent",
+      "status": "pending",
+      "firstSeenAt": 1793872513.698855,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9729419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9729683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9729924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.973152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.973176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9732687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/met-settles-claim-brought-by-palestine-activist-treated-like-a-criminal-during-arrest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.973653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9736955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9737175,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9737391,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9738219,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.973844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9738662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793872513.973888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/has-britain-finally-pulled-off-a-diplomatic-victory-in-the-row-over-reparations",
+      "provider": "The Guardian",
+      "title": "Has Britain finally pulled off a diplomatic victory in the row over reparations?",
+      "status": "pending",
+      "firstSeenAt": 1793872513.974023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe",
+      "provider": "The Guardian",
+      "title": "double quotation mark The Czech government’s new culture war shows the Maga spirit is still alive in Europe",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9741058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years",
+      "provider": "The Guardian",
+      "title": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison",
+      "status": "pending",
+      "firstSeenAt": 1793872513.974163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party",
+      "provider": "The Guardian",
+      "title": "New Zealand heads for election cliffhanger with minor party cast as kingmaker",
+      "status": "pending",
+      "firstSeenAt": 1793872513.974197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
+      "provider": "The Guardian",
+      "title": "The Pitt and ER are similar enough for Michael Crichton’s widow’s lawsuit to proceed, court rules",
+      "status": "pending",
+      "firstSeenAt": 1793872513.9743705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/us-midterms-may-change-world-views-on-donald-trump/107348926",
+      "provider": "ABC News Australia",
+      "title": "Trump's tendency to lash out after losing has some observers nervous",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4645236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/data-centres-ai-australia-us-midterms/107349238",
+      "provider": "ABC News Australia",
+      "title": "The data centre industry is one of the biggest losers of the US midterms",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4645889,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/trump-us-midterms-maga-marjorie-taylor-greene/107351240",
+      "provider": "ABC News Australia",
+      "title": "'Completely dead': How Trump himself 'killed' the MAGA movement",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4647148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-airbus-a320-plane-flying-from-dublin-to-rome/107352984",
+      "provider": "ABC News Australia",
+      "title": "Bomb threat diverts Aer Lingus plane flying from Dublin to Rome",
+      "status": "pending",
+      "firstSeenAt": 1793872522.464766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/beau-lamarre-condon-speaks-at-double-murder-court-trial/107350364",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon tells jury he tried going through Baird's phone as he slept",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4648228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/deep-forest-sweet-lullaby-solomon-islands-afunakwa/107324780",
+      "provider": "ABC News Australia",
+      "title": "The 90s anthem that used a 'stolen' lullaby to make millions",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4648795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/customers-rush-to-spend-david-jones-gift-cards/107350168",
+      "provider": "ABC News Australia",
+      "title": "Stock already being cleared as David Jones goes into administration",
+      "status": "pending",
+      "firstSeenAt": 1793872522.464979,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/albanese-chogm-week-in-politics/107336024",
+      "provider": "ABC News Australia",
+      "title": "Distance isn't making anyone fonder of Albanese after interest rate rise",
+      "status": "pending",
+      "firstSeenAt": 1793872522.465034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/jordon-steele-john-woman-charged-stalking-senator/107349262",
+      "provider": "ABC News Australia",
+      "title": "Woman alleged to have stalked Greens senator appears in court",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4651098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/rba-andrew-hauser-trust-in-the-rba-is-deteriorating/107351696",
+      "provider": "ABC News Australia",
+      "title": "Deputy governor concedes RBA is losing Australians' trust to manage inflation",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4651682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/pauline-hanson-racial-discrimination-high-court-appeal/107139002",
+      "provider": "ABC News Australia",
+      "title": "Pauline Hanson to appeal racial discrimination finding in High Court",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4653168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/wegovy-pill-tablet-weight-loss-australia-peptide-safe-cheaper/107349394",
+      "provider": "ABC News Australia",
+      "title": "How the Wegovy pill compares to weight-loss injections",
+      "status": "pending",
+      "firstSeenAt": 1793872522.465365,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/brendan-nugent-linked-dog-incident-victoria-police-helen-haines/107349240",
+      "provider": "ABC News Australia",
+      "title": "Police 'aware' of allegation dog lost leg in incident involving alleged Helen Haines attacker",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4654014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/bradley-knoesen-kelpie-animal-cruelty-sentence/107233406",
+      "provider": "ABC News Australia",
+      "title": "Deportation likely after Brit sentenced for animal cruelty in WA",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4654577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/new-bandicoot-subspecies-south-australia/107350712",
+      "provider": "ABC News Australia",
+      "title": "Bandicoot research uncovers new subspecies amid conservation calls",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4655051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/calvary-confirms-cuts-to-servics-at-two-newcastle-hospitals/107350832",
+      "provider": "ABC News Australia",
+      "title": "IVF, abortion and more set to cease at Newcastle private hospitals",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4660385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/police-union-pushes-for-mandatory-jail-terms-alleged-assault/107348932",
+      "provider": "ABC News Australia",
+      "title": "Union pushes for mandatory sentences after alleged assault on Mount Isa police",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4662082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/popular-canola-varities-leading-to-crop-losses-western-australia/107295904",
+      "provider": "ABC News Australia",
+      "title": "WA farmers say reported canola crop failures could cost millions",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4662933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/frances-crawford-murder-trial/107348514",
+      "provider": "ABC News Australia",
+      "title": "Murder trial hears claims Frances Crawford wanted husband to leave RAAF",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4663365,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/indonesia-ambassador-wants-feral-banteng-cattle-protected-in-nt/107345070",
+      "provider": "ABC News Australia",
+      "title": "Indonesia's ambassador wants feral banteng cattle protected in NT",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4663844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/nt-health-issues-ban-on-meta-glasses-after-privacy-breach-at-rdh/107349740",
+      "provider": "ABC News Australia",
+      "title": "Smart glasses present 'elevated risk' to patients, says NT Health",
+      "status": "pending",
+      "firstSeenAt": 1793872522.466458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/woman-dies-of-leptospirosis-death-in-nt-top-end/107350400",
+      "provider": "ABC News Australia",
+      "title": "Woman dies from leptospirosis after hunting near Top End billabong",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4665666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/netball-blindsided-by-leak-of-likely-inclusion-at-olympics/107351498",
+      "provider": "ABC News Australia",
+      "title": "Netball blindsided by leak of likely inclusion at Brisbane Olympics",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4666243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/qld-bartholomew-dornbusch-sentence/107351588",
+      "provider": "ABC News Australia",
+      "title": "Man who drove stolen truck into police officers jailed for 10 years",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4667387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/woodside-energy-to-slash-more-than-500-jobs/107349938",
+      "provider": "ABC News Australia",
+      "title": "Woodside to axe 500 jobs, sparking fears for WA workers",
+      "status": "pending",
+      "firstSeenAt": 1793872522.466795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/paul-gallen-nelson-asofa-solomona-fight-when-and-where/107351828",
+      "provider": "ABC News Australia",
+      "title": "NAS weighs in more than 33kg heavier than Paul Gallen",
+      "status": "pending",
+      "firstSeenAt": 1793872522.466851,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/hong-kong-democracy-activist-joshua-wong-jailed-for-10-years/107350986",
+      "provider": "ABC News Australia",
+      "title": "Hong Kong democracy activist Joshua Wong jailed for 10 more years",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4669054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/alleged-drink-driver-followed-home-police-vigilantism-warning/107349272",
+      "provider": "ABC News Australia",
+      "title": "Tradies film, follow alleged drink driver as police urge against vigilantism",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4670908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/sydney-swans-investigate-poor-culture-after-tom-papley-incident/107350782",
+      "provider": "ABC News Australia",
+      "title": "Swans 'need to be better' as club launches investigation in culture",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4681034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/ricky-stuart-upset-over-hudson-young-money-move/107352580",
+      "provider": "ABC News Australia",
+      "title": "Raiders 'couldn't have offered any more' to want-away Hudson Young",
+      "status": "pending",
+      "firstSeenAt": 1793872522.4681625,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
