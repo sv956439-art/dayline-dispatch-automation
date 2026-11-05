@@ -86354,9 +86354,337 @@
       "status": "pending",
       "firstSeenAt": 1793832374.1484902,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvgry8k5d01o",
+      "provider": "BBC",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793847040.1725895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw33kgj7nkemo",
+      "provider": "BBC",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever' Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather. 4 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1793847040.172615,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0rlxq08ejko",
+      "provider": "BBC",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine. 2 hrs ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1793847040.1728942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky93z5y0171o",
+      "provider": "BBC",
+      "title": "Australia's oldest department store David Jones folds after 188 years The brand's 38 physical stores and online site will continue to operate while receivers review its operations. 2 hrs ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1793847040.172913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw62yq9vp7yyo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.173082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260703-how-j-paul-getty-became-the-worlds-richest-man",
+      "provider": "BBC",
+      "title": "How J Paul Getty became the world's richest man The US oil billionaire's 16th-Century English mansion was home to a stunning art collection and a lion named Nero. In 1963, the BBC visited him there to discuss his \"great success\".",
+      "status": "pending",
+      "firstSeenAt": 1793847040.173167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260724-how-king-charles-saved-scotlands-forgotten-treasure",
+      "provider": "BBC",
+      "title": "King Charles's grand Scottish estate hidden in plain sight A last-minute royal rescue transformed a forgotten Scottish estate into one of Britain's most rewarding visitor attractions.",
+      "status": "pending",
+      "firstSeenAt": 1793847040.1731849,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz98zqkz7z0o",
+      "provider": "BBC",
+      "title": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "status": "pending",
+      "firstSeenAt": 1793847040.1732152,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0e035n13ylo",
+      "provider": "BBC",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "status": "pending",
+      "firstSeenAt": 1793847040.1732812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5ynw45jrgqo",
+      "provider": "BBC",
+      "title": "Interest rates expected to rise for first time in over three years Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "status": "pending",
+      "firstSeenAt": 1793847040.173349,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwx28z712rd8o",
+      "provider": "BBC",
+      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+      "status": "pending",
+      "firstSeenAt": 1793847040.1736357,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn068j9z4w3o",
+      "provider": "BBC",
+      "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film A Hollywood giant and singing superstars caused a stir after arriving in a Welsh seaside town.",
+      "status": "pending",
+      "firstSeenAt": 1793847040.173755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8x23zqxwdlro",
+      "provider": "BBC",
+      "title": "8 hrs ago EU rules on Artificial Intelligence devices will apply in NI Some EU rules on Artificial Intelligence will apply in Northern Ireland, the UK government says. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793847040.235906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyqjx4267zo",
+      "provider": "BBC",
+      "title": "2 days ago Scotland needs to embrace AI for its potential to be realised, minister says The Scottish government has said AI could generate an additional £23bn in annual GDP for Scotland by 2035 with the right investment and leadership. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793847040.2359898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.5928566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.5929375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.5932038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.5933125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.593327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793847040.5933416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/04/abdul-el-sayed-opinion-sharia-law-islamophobia",
+      "provider": "The Guardian",
+      "title": "double quotation mark Get ready habibis, Abdul El-Sayed’s ‘shawarma law’ is coming to the US",
+      "status": "pending",
+      "firstSeenAt": 1793847040.593531,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/us-midterm-election-results-swing-maps/107347894",
+      "provider": "ABC News Australia",
+      "title": "The swing maps bathed in blue that show how voters turned on Trump",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7841156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/beau-lamarre-condon-gives-evidence-in-murder-trial-live-blog/107348876",
+      "provider": "ABC News Australia",
+      "title": "Beau Lamarre-Condon gives evidence in double murder trial",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7842238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878",
+      "provider": "ABC News Australia",
+      "title": "David Jones's future in doubt as retailer calls in administrators",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7842488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/australian-motor-racing-icon-alan-jones-dies-aged-80/107350036",
+      "provider": "ABC News Australia",
+      "title": "Australian racing icon and F1 world champion Alan Jones dies",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7843406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/greens-senator-jordon-steele-john-ex-partner-charged-stalking/107348424",
+      "provider": "ABC News Australia",
+      "title": "Greens senator Jordon Steele-John's ex-partner charged with stalking",
+      "status": "pending",
+      "firstSeenAt": 1793847040.784476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/brazil-soccer-match-sets-world-record-for-most-red-cards/107349416",
+      "provider": "ABC News Australia",
+      "title": "Brazil soccer match sets world record for most red cards after mass brawl",
+      "status": "pending",
+      "firstSeenAt": 1793847040.784513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/rugby-league-great-paul-langmack-dies-aged-61/107348920",
+      "provider": "ABC News Australia",
+      "title": "Rugby league great Paul Langmack dies aged 61",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7845824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/nasa-telescope-plummets-to-earth-after-decades-long-mission/107348488",
+      "provider": "ABC News Australia",
+      "title": "NASA Swift telescope plummets to Earth over Indonesia",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7846646,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/chlamydia-free-koalas-discovered-newcastle/107344308",
+      "provider": "ABC News Australia",
+      "title": "Thriving koala population near major NSW city could be chlamydia-free",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7847004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/booker-prize-shortlist-2026-elizabeth-strout-marlon-james/107322872",
+      "provider": "ABC News Australia",
+      "title": "Our critics review the six books vying for the $95,000 Booker Prize",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7847414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/what-does-it-mean-to-be-a-glass-child/107344566",
+      "provider": "ABC News Australia",
+      "title": "'They look right through us': Explaining the term 'glass child'",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7847888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/infants-diagnosed-with-peanut-allergy-may-not-be-study-shows/107348650",
+      "provider": "ABC News Australia",
+      "title": "Research could reverse peanut allergy diagnosis for some infants",
+      "status": "pending",
+      "firstSeenAt": 1793847040.785048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/mother-and-daughter-killed-in-bear-attack-in-canada/107349256",
+      "provider": "ABC News Australia",
+      "title": "Canadian police find remains of mother and daughter killed by grizzly bears",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7851503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/corruption-watchdog-queensland-police-building/107349896",
+      "provider": "ABC News Australia",
+      "title": "'Combined failure' behind $116m for Queensland police building",
+      "status": "pending",
+      "firstSeenAt": 1793847040.785194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/nsw-sydney-mardi-gras-party-2027-announcement/107346014",
+      "provider": "ABC News Australia",
+      "title": "Sydney Mardi Gras party to return in 2027 after financial woes",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7853146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/dv-youth-crime-data-domestic-violence-remote-nt-support-gap/107341866",
+      "provider": "ABC News Australia",
+      "title": "More than 140 NT youths charged with domestic violence crimes in six months",
+      "status": "pending",
+      "firstSeenAt": 1793847040.785359,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/federal-court-challenge-to-adelaide-motogp-circuit-falls-over/107349314",
+      "provider": "ABC News Australia",
+      "title": "Federal Court challenge to Adelaide MotoGP circuit falls over",
+      "status": "pending",
+      "firstSeenAt": 1793847040.785565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/spirit-of-tasmania-iv-delayed-journey-to-geelong/107348698",
+      "provider": "ABC News Australia",
+      "title": "New Spirit of Tasmania ferry delayed in Geelong after steering 'fault'",
+      "status": "pending",
+      "firstSeenAt": 1793847040.7855957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/political-sign-shot-with-bullets-victorian-election/107348202",
+      "provider": "ABC News Australia",
+      "title": "Victorian election candidate finds bullet holes in campaign sign",
+      "status": "pending",
+      "firstSeenAt": 1793847040.785782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-05/mount-fyans-sale-expected-to-break-farmland-record/107348504",
+      "provider": "ABC News Australia",
+      "title": "Speculation Victorian farm could sell for close to $100 million",
+      "status": "pending",
+      "firstSeenAt": 1793847040.785957,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
