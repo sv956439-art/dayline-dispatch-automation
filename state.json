@@ -87610,9 +87610,505 @@
       "status": "pending",
       "firstSeenAt": 1793900678.5774987,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrkyyd2j8mvo",
+      "provider": "BBC",
+      "title": "California governor commutes sentences for state's 548 death row inmates California has historically had the largest population of people on death row in the US. 22 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1793919216.329781,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg0y2nr445o",
+      "provider": "BBC",
+      "title": "Boebert, billionaires' tax and other midterms races still to watch Democrats have taken control of the House and Senate, and are eyeing some more with several key races still too close to call.",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3299904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8dzzjg3g9zo",
+      "provider": "BBC",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "status": "pending",
+      "firstSeenAt": 1793919216.330501,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy9z5423p2o",
+      "provider": "BBC",
+      "title": "Henry Nowak killer has sentence increased to 25 years Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut. 4 hrs ago Hampshire & Isle of Wight",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3305311,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvj6jj21pd2ko",
+      "provider": "BBC",
+      "title": "Eight killed in series of shootings in western Turkey Victims are found in several locations in three separate vehicles, according to local reports. 3 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3306367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwdr87r8pjlvo",
+      "provider": "BBC",
+      "title": "Canada's federal budget includes billions for sovereignty and tackling homelessness Prime Minister Mark Carney plans to use an oil revenue windfall to bolster Canada's economic and cultural sovereignty and address cost of living concerns.",
+      "status": "pending",
+      "firstSeenAt": 1793919216.331045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8rzzx46jd5o",
+      "provider": "BBC",
+      "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling? The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "status": "pending",
+      "firstSeenAt": 1793919216.33115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy0rzz0w9wlo",
+      "provider": "BBC",
+      "title": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3311746,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9p8g085mz07o",
+      "provider": "BBC",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3311992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cmq8nn2q01wdo",
+      "provider": "BBC",
+      "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3317075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c63r5e42wdggo",
+      "provider": "BBC",
+      "title": "Bonnie Tyler's hometown pays tribute with new mural Artist Steve Jenkins painted the \"important\" piece at Skewen Memorial Park, in Neath Port Talbot.",
+      "status": "pending",
+      "firstSeenAt": 1793919216.3318522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5625424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5631144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5633817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.563404,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5634263,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5634484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/05/salon-website-shuts-down",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5635724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5636156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/05/anti-trans-attacks-midterm-elections-republicans",
+      "provider": "The Guardian",
+      "title": "‘Sick to my stomach’: trans Americans on politicians who spent $183m attacking them for votes",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5638442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+      "provider": "The Guardian",
+      "title": "Gavin Newsom commutes more than 500 death sentences in California",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5638885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/05/ben-jennings-billionaires-bent-the-knee-donald-trump-cartoon",
+      "provider": "The Guardian",
+      "title": "Ben Jennings on the billionaires who bent the knee to Trump – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5639148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
+      "provider": "The Guardian",
+      "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
+      "status": "pending",
+      "firstSeenAt": 1793919216.5640388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/us-midterm-elections-2026-live-updates/107351586",
+      "provider": "ABC News Australia",
+      "title": "Hegseth praises Trump and war in Iran after mass Republican midterms defeat",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0475287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/asx-markets-business-live-news/107353758",
+      "provider": "ABC News Australia",
+      "title": "Tech stocks nosedive as Wall Street suffers mass sell-off following midterms",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0478313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/midterms-put-trump-maga-movement-future-in-question/107348864",
+      "provider": "ABC News Australia",
+      "title": "Trump's endorsement now a political poisoned chalice after midterms",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0478907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/david-jones-what-now-under-administration/107350708",
+      "provider": "ABC News Australia",
+      "title": "Cash-strapped shoppers could be only winners in David Jones administration",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0479412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/david-jones-suppliers-unpaid-invoices/107347028",
+      "provider": "ABC News Australia",
+      "title": "David Jones suppliers report months of unpaid invoices, unanswered phone calls",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0480385,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/michelle-grattan-are-nationals-on-life-support/107352856",
+      "provider": "ABC News Australia",
+      "title": "One Nation is taking the Nationals back in time",
+      "status": "pending",
+      "firstSeenAt": 1793919217.048076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/federal-politics-live-blog-chalmers-productivity-nov-6/107353708",
+      "provider": "ABC News Australia",
+      "title": "Marles says suburbs are not the right place for data centre development",
+      "status": "pending",
+      "firstSeenAt": 1793919217.048134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/israel-president-coalition-talks/107353572",
+      "provider": "ABC News Australia",
+      "title": "Israel's president set to hand Netanyahu rival first chance to form government",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0482235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-inflation-wages-economy/107350046",
+      "provider": "ABC News Australia",
+      "title": "What matters to NZ voters? Economy, living costs, and then daylight",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0482793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-treaty-of-waitangi-and-maori-rights/107346020",
+      "provider": "ABC News Australia",
+      "title": "What will the NZ election mean for the future of Māori rights?",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0483866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/cancer-treatment-genomic-profiling-funding/107248844",
+      "provider": "ABC News Australia",
+      "title": "New cancer treatment adding years to patients' lives",
+      "status": "pending",
+      "firstSeenAt": 1793919217.048424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/china-to-fine-employers-not-paying-social-insurance/107326738",
+      "provider": "ABC News Australia",
+      "title": "China wants workers to pay 'social insurance' but many can't afford it",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0484812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/qld-government-land-court-traditional-owners-mining/107346356",
+      "provider": "ABC News Australia",
+      "title": "Government flips to side with mining company to scrap Indigenous heritage zone",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0485296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/rinky-hijikata-into-paris-masters-quarterfinals/107353766",
+      "provider": "ABC News Australia",
+      "title": "Aussie Hijikata backs up Djokovic triumph with another big win in Paris",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0485783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/cristiano-ronaldo-announces-retirement-international-football/107353704",
+      "provider": "ABC News Australia",
+      "title": "Superstar Cristiano Ronaldo retires from international football",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0486338,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/michael-parkinson-documentary-parky/107350726",
+      "provider": "ABC News Australia",
+      "title": "Interviewing pop stars and prime ministers, Parky avoided revealing himself",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0487077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/powerhouse-parramatta-opening-es-devlin-exhibition/107351232",
+      "provider": "ABC News Australia",
+      "title": "British artist's immersive works on display as Parramatta Powerhouse opens",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0488045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/november-6-news-quiz/107349442",
+      "provider": "ABC News Australia",
+      "title": "Friday news quiz: Midterms blame, Melbourne Cup also-rans and boy vs bird",
+      "status": "pending",
+      "firstSeenAt": 1793919217.048862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/whale-carcass-removals-wa-beaches/107345996",
+      "provider": "ABC News Australia",
+      "title": "Researchers call for rethink on disposal of washed-up whale carcasses",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0493243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/10-year-old-dies-in-bass-highway-crash-tasmania/107353928",
+      "provider": "ABC News Australia",
+      "title": "Child dies, woman in serious condition after two-car Bass Highway crash",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0493689,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/nyah-west-missing-fisherman-murray-river-police/107353968",
+      "provider": "ABC News Australia",
+      "title": "Police divers and helicopters search for missing fisherman",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0494115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/aboriginal-brothers-open-ceduna-barber-shop/107344916",
+      "provider": "ABC News Australia",
+      "title": "Brothers open Ceduna's first barber shop in 50 years",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0494537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/vic-police-expand-arson-extortion-taskforce-phoenix/107353740",
+      "provider": "ABC News Australia",
+      "title": "Police expand operation targeting Melbourne arsons and extortion",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0494974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/wa-cricket-lance-morris-back-surgery-test-matches/107222308",
+      "provider": "ABC News Australia",
+      "title": "WA quick Lance 'Wild Thing' Morris hopes to be even faster after surgery",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0495412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/40-tonnes-of-dead-carp-cleared-from-victorian-creek/107349494",
+      "provider": "ABC News Australia",
+      "title": "Council clears 40,000kg of dead carp from creek",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0495963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/qld-woman-found-dead-palmview/107353754",
+      "provider": "ABC News Australia",
+      "title": "Woman found dead in Sunshine Coast home",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0497117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/nurse-allegedly-sexually-assaulted-thomas-embling-staff-concerns/107351782",
+      "provider": "ABC News Australia",
+      "title": "Alleged sex assault of nurse at Thomas Embling Hospital",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0498016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/liv-golf-to-wind-down-after-bc-partners-withdraw-support/107353732",
+      "provider": "ABC News Australia",
+      "title": "LIV Golf to wind down after five years of rebel league",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0498571,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/wallaroos-australia-caitlyn-halse-pwr-england-leicester-tigers/107350610",
+      "provider": "ABC News Australia",
+      "title": "Wallaroos wunderkind eager to tackle 'world's leading' club comp in England",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0499232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/regional-queensland-property-market-slump/107345528",
+      "provider": "ABC News Australia",
+      "title": "Regional areas suffer from 'buyer's market with no buyers'",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0500407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/rental-dispute-resolution-victoria-wait-times/107323684",
+      "provider": "ABC News Australia",
+      "title": "Demand surges for new Victorian rental dispute service",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0501306,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/tasmania-new-online-camping-booking-system/107350442",
+      "provider": "ABC News Australia",
+      "title": "Tasmania's new camping system: what's changing and how much it costs",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0501854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/business-says-government-inquiry-into-struggles-misses-point/107351996",
+      "provider": "ABC News Australia",
+      "title": "Business says inquiry into sector's struggles ignores key issue of tax",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0502224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/snake-bite-warning-after-nsw-dog-death/107344942",
+      "provider": "ABC News Australia",
+      "title": "Family mourns loss of beloved pet dog after eastern brown snake bite",
+      "status": "pending",
+      "firstSeenAt": 1793919217.050278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/hail-storm-in-mallee-devastates-crops-just-before-harvest/107349870",
+      "provider": "ABC News Australia",
+      "title": "Golf ball-sized hail thwarts farmers anticipating bumper harvest",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0504014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/nt-top-end-swelters-through-hot-build-up-before-delayed-monsoon/107351308",
+      "provider": "ABC News Australia",
+      "title": "You're not imagining it, the NT's build-up is worse than normal",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0504568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/sa-pine-scale-residents-question-impact-of-pine-tree-removals/107340578",
+      "provider": "ABC News Australia",
+      "title": "Once-green SA landscape now 'barren' in efforts to stop pest",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0505762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/millions-paid-for-scrapped-power-plan-macquarie-point-stadium/107350818",
+      "provider": "ABC News Australia",
+      "title": "Nearly $2m to scrap Hobart stadium thermal power plant",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0506384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/champion-of-remote-education-jan-heaslip-oam-dies-age-87/107340082",
+      "provider": "ABC News Australia",
+      "title": "Education advocate Jan Heaslip OAM dies at age 87",
+      "status": "pending",
+      "firstSeenAt": 1793919217.0506945,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
