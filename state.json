@@ -88482,9 +88482,481 @@
       "status": "pending",
       "firstSeenAt": 1793933695.9512968,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crvg9yyz5437o",
+      "provider": "BBC",
+      "title": "Did a data centre revolt affect the US mid-term election results? BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry. 4 hrs ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1793959322.181661,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmly00l4p3lwo",
+      "provider": "BBC",
+      "title": "'Several victims' after bus crashes in France, officials say The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved. Just now Europe",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1817298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq99zd93ryvko",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1819851,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq2e9v3030gyo",
+      "provider": "BBC",
+      "title": "Tempted by snacks before bed? Here's why - and what you can do about it There are biological reasons why you may reach for sweet treats before bed, but you can change the habit. 9 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1820831,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260708-which-is-the-oldest-english-accent",
+      "provider": "BBC",
+      "title": "Which English accent sounds closest to the original? Two BBC journalists go on a quest to find out whose accent is older – and uncover a dramatic history filled with hidden twists and surprises.",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1822674,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260630-how-america-reinvented-english",
+      "provider": "BBC",
+      "title": "A language split in two: How America reinvented English America's linguistic independence has transformed the English language with a wealth of new words and phrases – shaping its own cultural identity in the process.",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1822882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+      "provider": "BBC",
+      "title": "What's the best way to learn a new language? Journalist Krupa Padhy uncovers how we really learn foreign languages – in a dual challenge involving both Portuguese and Mandarin.",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1823192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckp8g4pm0y4lo",
+      "provider": "BBC",
+      "title": "Tanzanian opposition leader found guilty of incitement The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1824584,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yne5984l0o",
+      "provider": "BBC",
+      "title": "Kenyan court sentencing doomsday cult leader who murdered 191 people",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1824756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c977ppnezep6o",
+      "provider": "BBC",
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "status": "pending",
+      "firstSeenAt": 1793959322.182492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c33zdz2m1e2o",
+      "provider": "BBC",
+      "title": "How does it affect me if share prices fall? Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1825378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1j33w7d232o",
+      "provider": "BBC",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "status": "pending",
+      "firstSeenAt": 1793959322.1826024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c9y7lln8vyglo",
+      "provider": "BBC",
+      "title": "Australia recruit Hussey for Ashes build-up",
+      "status": "pending",
+      "firstSeenAt": 1793959322.182868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx1l36y2d941o",
+      "provider": "BBC",
+      "title": "Investigation into 'major fish kill' after pollution incident",
+      "status": "pending",
+      "firstSeenAt": 1793959322.227934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq78p3p35d09o",
+      "provider": "BBC",
+      "title": "New aerial shots show size of devastating wildfire",
+      "status": "pending",
+      "firstSeenAt": 1793959322.2280877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx23zzlezp8o",
+      "provider": "BBC",
+      "title": "'Extra special' tamarin twins born at zoo",
+      "status": "pending",
+      "firstSeenAt": 1793959322.228104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3vq4wyeld1o",
+      "provider": "BBC",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "status": "pending",
+      "firstSeenAt": 1793959322.22812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5ev3wm3ng42o",
+      "provider": "BBC",
+      "title": "23 hrs ago Google refused 54K-name petition, say campaigners Campaigners oppose the development of a large data centre on a wildlife site at Thurrock. 23 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1793959322.2282794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60me7jg9e8do",
+      "provider": "BBC",
+      "title": "2 days ago Sightings of Asian hornet nests double in a year The nests are treated so populations of the insect are kept \"as low as possible\", experts say. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1793959322.2282977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3349452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.33504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.335127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.335142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3351748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3352387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.335523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3355384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3355536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3355684,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1793959322.33561,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3357675,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island",
+      "provider": "The Guardian",
+      "title": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3358371,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/06/experience-i-helped-jail-the-teacher-who-groomed-me",
+      "provider": "The Guardian",
+      "title": "Experience: I helped jail the teacher who groomed me",
+      "status": "pending",
+      "firstSeenAt": 1793959322.3358662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/victoria-michelle-payne-jockey-alleged-stalker-bail-court/107357952",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup winner Michelle Payne speaks on receiving death threats",
+      "status": "pending",
+      "firstSeenAt": 1793959323.231672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/kumanjayi-little-baby-father-raphael-granites-jailed-for-dv/107357838",
+      "provider": "ABC News Australia",
+      "title": "Kumanjayi Little Baby's father jailed for more than three years for DV",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2318168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/paul-gallen-vs-nelson-asofa-solomona-live-heavyweight-boxing/107346162",
+      "provider": "ABC News Australia",
+      "title": "Aokuso delivers statement KO, Paul Gallen takes on Nelson Asofa-Solomona",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2318509,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/qld-sam-wood-sureties-offered-bail-application/107355576",
+      "provider": "ABC News Australia",
+      "title": "Multimillionaire friend of Sam Wood offered surety in his bail application",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2318757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/craig-silvey-ex-partner-clare-testoni-speaks-of-betrayal/107357996",
+      "provider": "ABC News Australia",
+      "title": "Ex-partner of disgraced author Craig Silvey speaks of 'great betrayal'",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2319078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/queensland-pineapple-pizza-firing/107357058",
+      "provider": "ABC News Australia",
+      "title": "'We're not in Italy, we're in Australia': The story behind the firing of a pizza chef who rejected pineapple",
+      "status": "pending",
+      "firstSeenAt": 1793959323.231946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/threatening-sexist-messages-on-balloons-target-mp-jayne-stinson/107357628",
+      "provider": "ABC News Australia",
+      "title": "Threatening, sexist messages scrawled on balloons left at MP's office",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2319932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/koala-rescue-from-snake-brisbane/107357818",
+      "provider": "ABC News Australia",
+      "title": "Woman rescues baby koala from grips of python in Brisbane",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2320313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/indonesia-alleged-wire-tapping-widodo-subianto-political-drama/107354636",
+      "provider": "ABC News Australia",
+      "title": "'Treason' claims and military deployments: The political drama unfolding in Indonesia",
+      "status": "pending",
+      "firstSeenAt": 1793959323.232068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/seasonal-produce-to-make-the-most-of-this-november/107345128",
+      "provider": "ABC News Australia",
+      "title": "Seasonal produce to make the most of this November",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2322006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/teens-18yo-arrested-over-calder-highway-pursuit/107357262",
+      "provider": "ABC News Australia",
+      "title": "18yo, teenagers arrested over Calder Highway pursuit",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2326555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/garment-workers-protest-bangladesh-australian-reaction/107343132",
+      "provider": "ABC News Australia",
+      "title": "Protests in south east Asia over fast fashion workers' rights prompt warning for Australians",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2326934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/afp-search-sydney-flight-after-european-airline-bomb-threats/107354870",
+      "provider": "ABC News Australia",
+      "title": "Sydney passengers marched off flight after airport 'threat'",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2327957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/gamble-jumping-castle-owner-inquest-evidence/107354686",
+      "provider": "ABC News Australia",
+      "title": "Not guilty finding didn't bring comfort or closure, jumping castle owner says",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2328327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/man-jailed-for-albury-crash-premature-baby-death/107355348",
+      "provider": "ABC News Australia",
+      "title": "Drug driver jailed for crash that resulted in premature baby death",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2329884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/conor-o-neill-charged-with-dv-murder-denied-bail-nt-court/107355128",
+      "provider": "ABC News Australia",
+      "title": "Alleged murderer denied bail after revealing self-defence argument",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2330234,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/natasha-lawton-tribute-after-rosemont-hotel-fatal-fall/107356942",
+      "provider": "ABC News Australia",
+      "title": "Young victim of hotel fall died in 'tragic' accident, parents say",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2330549,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/frances-crawford-injuries-murder-trial-robert-crawford/107356202",
+      "provider": "ABC News Australia",
+      "title": "Murder trial hears woman's injuries 'consistent with strangulation'",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2330863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/banking-crisis-plunges-paraguay-into-political-disarray/107355316",
+      "provider": "ABC News Australia",
+      "title": "Paraguay's president tangled up in Ueno banking crisis",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2331812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/qantas-jetstar-fare-increases-fuel-prices/107355602",
+      "provider": "ABC News Australia",
+      "title": "Qantas flags fare increases and flight cuts as fuel prices surge",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2332182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/victoria-john-setka-court-cfmeu-afl-umpiring/107356362",
+      "provider": "ABC News Australia",
+      "title": "Ex-CFMEU boss admits to illegal tirade against AFL umpiring boss",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2332559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/transport-safety-bureau-expands-probe-spirit-iv-ferry-failure/107354880",
+      "provider": "ABC News Australia",
+      "title": "Probe widens after steering failure on Spirit of Tasmania ferry",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2332888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/lisa-anne-silson-pleads-not-guilty-murder-mark-akers/107355300",
+      "provider": "ABC News Australia",
+      "title": "Woman pleads not guilty to DV murder of man found dead on Newell Highway",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2333708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/dion-prestia-steven-may-sued-victoria-court-alleged-brawl/107356188",
+      "provider": "ABC News Australia",
+      "title": "Man sues former AFL players Dion Prestia and Steven May",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2334023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/adelaide-baseballer-loses-sight-in-eye-in-onfield-accident/107356100",
+      "provider": "ABC News Australia",
+      "title": "Baseballer loses sight in one eye in 'horrific freak accident'",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2334335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-06/wall-of-tears-gaza-exhibition-on-show-nsw-south-coast/107350408",
+      "provider": "ABC News Australia",
+      "title": "Artwork honouring children killed in Gaza on show after being dropped by council",
+      "status": "pending",
+      "firstSeenAt": 1793959323.2343874,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
