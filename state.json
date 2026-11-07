@@ -89946,9 +89946,329 @@
       "status": "pending",
       "firstSeenAt": 1794003104.3414397,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crp3gg2z171go",
+      "provider": "BBC",
+      "title": "With Stephen Miller pick, Trump readies for a battle The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794016442.075379,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
+      "provider": "BBC",
+      "title": "Paraguay's President Santiago Peña impeached and arrested Peña was ousted due to a banking crisis which left millions of people unable to access their money. 45 mins ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0754187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c933xxl8yv0go",
+      "provider": "BBC",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0759962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0k0lg48705o",
+      "provider": "BBC",
+      "title": "The young Somali woman changing how the world sees Mogadishu For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0760648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
+      "provider": "BBC",
+      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0761929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
+      "provider": "BBC",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0764403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmde88ppx39go",
+      "provider": "BBC",
+      "title": "Six tries and a big win - but were Ireland ruthless?",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0764568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr15jj0yy8xeo",
+      "provider": "BBC",
+      "title": "Lampard feels hair pull should have led to Coventry penalty",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0764728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9dzwd85235o",
+      "provider": "BBC",
+      "title": "Gladiator II stuntman sues over injuries from on-set explosion Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
+      "status": "pending",
+      "firstSeenAt": 1794016442.076567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98zzkl8982o",
+      "provider": "BBC",
+      "title": "Franz Ferdinand turning to art at Glasgow Print Studio",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0765822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly334rem5do",
+      "provider": "BBC",
+      "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
+      "status": "pending",
+      "firstSeenAt": 1794016442.0765972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd9343z3zw2o",
+      "provider": "BBC",
+      "title": "Firms told to publish salaries in job adverts ahead of new UK law The government argues the change will help jobseekers and could help to prevent pay discrimination. 10 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794016442.138056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmze4zk4d789o",
+      "provider": "BBC",
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+      "status": "pending",
+      "firstSeenAt": 1794016442.1385403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5y0y37gv3o",
+      "provider": "BBC",
+      "title": "Faisal Islam: How high will interest rates go? The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "status": "pending",
+      "firstSeenAt": 1794016442.1385572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lykq0kqwn7o",
+      "provider": "BBC",
+      "title": "2 days ago Second buyer makes rescue bid for Poundland as retailer faces collapse A little-known investment group has made a bid to buy the business. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794016442.138765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794016442.4161792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794016442.4161968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794016442.4166932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794016442.416708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794016442.416722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
+      "provider": "The Guardian",
+      "title": "Boy, six, becomes fifth member of family to die after suspected arson in Ireland",
+      "status": "pending",
+      "firstSeenAt": 1794016442.416784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/06/paige-bueckers-azzi-fudd-breakup-dallas-wings-wnba-draft",
+      "provider": "The Guardian",
+      "title": "‘We’re still cool’: Paige Bueckers and Azzi Fudd confirm split and reject WNBA draft speculation",
+      "status": "pending",
+      "firstSeenAt": 1794016442.416999,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/alan-jones-succeeded-in-deadly-f1-era/107354066",
+      "provider": "ABC News Australia",
+      "title": "Triumph, tragedy and Alan Jones's drive to survive F1's deadliest era",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9678147,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/essential-rentals-seven-moves-eighteen-months-no-home/107349602",
+      "provider": "ABC News Australia",
+      "title": "Moving house seven times in 18 months the reality for many renters",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9679952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/david-jones-stores-set-to-close-amid-mixed-picture-for-retail/107355738",
+      "provider": "ABC News Australia",
+      "title": "Mixed picture for retail as three David Jones Perth stores set to close",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9680994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/tesla-to-pull-the-plug-on-cybertruck/107359058",
+      "provider": "ABC News Australia",
+      "title": "Musk axes Tesla's Cybertruck in favour of self-driving taxis",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9681323,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/kingscliff-schoolgirl-fighting-cancer-meets-idol-benson-boone/107355016",
+      "provider": "ABC News Australia",
+      "title": "Schoolgirl fighting cancer meets her idol Benson Boone",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9685469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/planning-for-wa-bicentenary-underway/107357844",
+      "provider": "ABC News Australia",
+      "title": "Inclusion and education on agenda for marking WA's bicentenary in 2029",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9686487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/tributes-flow-for-11yo-yorta-yorta-boy-dre-cooper/107359066",
+      "provider": "ABC News Australia",
+      "title": "'Strong, cheeky' Shepparton boy remembered after tragic river death",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9686728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/demersal-fishing-ban-what-happened-wa-parliament/107341266",
+      "provider": "ABC News Australia",
+      "title": "Trust hard to come by as WA's demersal fishing ban faces scrutiny",
+      "status": "pending",
+      "firstSeenAt": 1794016442.968701,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/gladstone-teen-charged-with-planning-to-cause-death/107359128",
+      "provider": "ABC News Australia",
+      "title": "Qld teen charged in terrorism investigation",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9687467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/thomas-markle-charged-with-possessing-child-sex-abuse-material/107358744",
+      "provider": "ABC News Australia",
+      "title": "Meghan Markle's father charged with possessing child sexual abuse material",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9688292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/wool-classers-graduate-to-plug-trade-shortage/107354064",
+      "provider": "ABC News Australia",
+      "title": "Wool trade shortage sees producers, shearers become wool classers",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9688647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/nashos-reunite-at-singleton-army-barracks/107354054",
+      "provider": "ABC News Australia",
+      "title": "'Forgotten' veterans conscripted for Vietnam return to army barracks",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9690733,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/new-crime-data-shows-increase-despite-nt-government-claims/107356742",
+      "provider": "ABC News Australia",
+      "title": "NT government accused of cherrypicking data to support crime claims",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9691098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/tradesmen-down-tools-to-save-life-of-93yo-gracemere-man/107347170",
+      "provider": "ABC News Australia",
+      "title": "Tradies down tools to save man's life with makeshift tourniquet",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9691458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/victorian-liberals-unveil-plan-designed-to-end-tobacco-wars/107358958",
+      "provider": "ABC News Australia",
+      "title": "Victoria's Liberals unveil plan designed to end tobacco wars",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9692667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812",
+      "provider": "ABC News Australia",
+      "title": "Indigenous people 'very rarely' sit on a jury in SA, report finds",
+      "status": "pending",
+      "firstSeenAt": 1794016442.969437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/paris-masters-rinky-hijikata-loses-to-rising-french-star/107358980",
+      "provider": "ABC News Australia",
+      "title": "Aussie's heroic Paris Masters run ends at the hands of rising French star",
+      "status": "pending",
+      "firstSeenAt": 1794016442.9694731,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/call-for-funding-to-support-community-music-programs/107259628",
+      "provider": "ABC News Australia",
+      "title": "Call for funding for 'lifesaving' community music programs",
+      "status": "pending",
+      "firstSeenAt": 1794016442.969591,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
