@@ -90594,9 +90594,257 @@
       "status": "pending",
       "firstSeenAt": 1794037901.7912717,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9kgjj206nzpo",
+      "provider": "BBC",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\". 1 hr ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9779403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx5ynly549njo",
+      "provider": "BBC",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez. 13 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9779732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261106-why-the-300-year-old-novel-gullivers-travels-is-so-misunderstood",
+      "provider": "BBC",
+      "title": "Why Gulliver's Travels is still misunderstood - 300 years on First published in 1726, Jonathan Swift's adventure novel has been chopped, changed and adapted ever since. Is it a \"misanthropic satire\" or a \"fantastical nursery tale\"?",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9780238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1nq8158po",
+      "provider": "BBC",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week. 2 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9786596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260319-isometric-exercise-the-most-efficient-fitness-regime",
+      "provider": "BBC",
+      "title": "A short and sweet exercise regime to protect your heart Many of us think keeping fit means spending hours in the gym – but recent research shows you don't need to put in an enormous effort. In fact, you barely need to move at all.",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9786885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260605-how-to-trick-yourself-into-eating-better",
+      "provider": "BBC",
+      "title": "Seven ways to trick yourself into eating better We might believe we are in control of what we choose to eat, but our senses are constantly manipulating what we buy and how much we consume. Here's how to turn them to your advantage.",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9787362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rmyymw1zz1o",
+      "provider": "BBC",
+      "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan' The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9791296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/cj20vqpk2z33o",
+      "provider": "BBC",
+      "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9796815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wyrrwj9xlro",
+      "provider": "BBC",
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9798608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wzzyxnerjo",
+      "provider": "BBC",
+      "title": "Johnny Marr guitar could fetch £30k at auction",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9798853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261106-where-to-get-the-best-fish-and-chips-in-london",
+      "provider": "BBC",
+      "title": "Where to get the best fish and chips in London Stephen Peel of The Chippy Tour is on a mission to protect the nation's traditional fish and chip shops. He's rated 260, but here are five of his favourites in London.",
+      "status": "pending",
+      "firstSeenAt": 1794061488.9799414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx4g114r0d2do",
+      "provider": "BBC",
+      "title": "Under-16s could be banned from buying energy drinks in Wales Young people in Cardiff told BBC Wales they supported the proposed ban.",
+      "status": "pending",
+      "firstSeenAt": 1794061489.0579922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.471003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4712932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4713213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4713447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.471728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.471772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.471795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4718778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4719,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4719212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4719417,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4719625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+      "provider": "The Guardian",
+      "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4720676,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+      "provider": "The Guardian",
+      "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4720998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+      "provider": "The Guardian",
+      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4721963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/el-savador-war-on-gangs-haiti",
+      "provider": "The Guardian",
+      "title": "‘Potentially ugly’: taking war on gangs to Haiti poses risks for El Salvador’s leader",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4722228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
+      "provider": "The Guardian",
+      "title": "double quotation mark Flip voters discovered that Trump’s racism and xenophobia are expensive",
+      "status": "pending",
+      "firstSeenAt": 1794061489.472296,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
+      "provider": "The Guardian",
+      "title": "Steve Jones on dangerous tech innovations – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1794061489.4723825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-07/new-zealand-defeat-fetu-samoa-rugby-league-world-cup-semi/107359678",
+      "provider": "ABC News Australia",
+      "title": "Cross-code star scores hat-trick as Kiwi Ferns make another final",
+      "status": "pending",
+      "firstSeenAt": 1794061490.0616126,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
