@@ -90842,9 +90842,281 @@
       "status": "pending",
       "firstSeenAt": 1794061490.0616126,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
+      "provider": "BBC",
+      "title": "What we know about Krakow mass shooting so far At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city. 33 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9913466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
+      "provider": "BBC",
+      "title": "No clear winner after tight New Zealand general election Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament. 3 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1794077758.991384,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d091ev3p0jo",
+      "provider": "BBC",
+      "title": "US offers $20m reward for information about Iran's nuclear programme Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities. 41 mins ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9914362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx240e5py64jo",
+      "provider": "BBC",
+      "title": "Tens of thousands of tents flooded after heavy rains in Gaza Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas. 2 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9914904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65yn1v99ypmo",
+      "provider": "BBC",
+      "title": "Houthis say at least 25 killed in Saudi air strike Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented. 2 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9921272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr20wvge32j3o",
+      "provider": "BBC",
+      "title": "Italian foreign minister says hackers leaked his personal data Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online. 2 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794077758.992157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo",
+      "provider": "BBC",
+      "title": "Title race hots up before Chelsea-Man City showdown",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9931612,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5yn14m973go",
+      "provider": "BBC",
+      "title": "'We don't take George Michael seriously enough' Sathnam Sanghera, from Wolverhampton, says the Faith singer is one of the all-time pop music greats.",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9933457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgekz0r0v9o",
+      "provider": "BBC",
+      "title": "Dolly Parton's manager drops lawsuit against her nephew",
+      "status": "pending",
+      "firstSeenAt": 1794077758.9933715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8p3gg2ex4wlo",
+      "provider": "BBC",
+      "title": "Harry and five others seek to challenge Mail publisher privacy ruling The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday. 23 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794077759.097688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crje55yzjw47o",
+      "provider": "BBC",
+      "title": "Olivia Rodrigo's Christmas song sounds familiar... on purpose The pop star sought permission from cult 80s band The Waitresses before releasing her festive single. 1 day ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1794077759.0977201,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyeel12mdyo",
+      "provider": "BBC",
+      "title": "Claudia and Alison Hammond get the cake treatment at major show Celebrities and royals are among the intricate designs on show at Cake International in Birmingham. 1 day ago Birmingham & Black Country",
+      "status": "pending",
+      "firstSeenAt": 1794077759.0977907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg7ly3105qo",
+      "provider": "BBC",
+      "title": "11 hrs ago 'Holy grail' long lost board game found in attic The Stop or Go game is now on display at the Museum of Board Games in Newent. 11 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794077759.0988348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3ellze0w5po",
+      "provider": "BBC",
+      "title": "1 day ago Plans unveiled to modernise 100-year-old museum Proposals for Abbey House Museum in Kirkstall include an upgrade to its Victorian streets. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794077759.09896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g1jqwylvgo",
+      "provider": "BBC",
+      "title": "1 day ago How 2000s lad culture helped Russell Brand to hide in plain sight The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794077759.0990071,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5ynn3pd41jo",
+      "provider": "BBC",
+      "title": "1 day ago DJ Vagrant Real Estate wins Scottish Album of Year 2026 A moniker for DJ and producer Nick Cronin, he triumphed with \"Neither Collar Nor Crown\" and won £20,000. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794077759.0990365,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.4943447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.4947324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.494775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.494797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.4948192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.4948792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794077759.4949007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/trump-administration-altered-translation-request-extradite-fergie-chambers",
+      "provider": "The Guardian",
+      "title": "Trump administration accused of altering translation of request to extradite wealthy leftwing activist",
+      "status": "pending",
+      "firstSeenAt": 1794077759.495382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
+      "provider": "The Guardian",
+      "title": "double quotation mark Will Pete Hegseth be the blue tsunami’s next victim?",
+      "status": "pending",
+      "firstSeenAt": 1794077759.4954102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/inside-thriving-black-market-trading-demerit-points-for-cash/107320430",
+      "provider": "ABC News Australia",
+      "title": "Inside the thriving black market that sells demerit points for cash",
+      "status": "pending",
+      "firstSeenAt": 1794077760.4997358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778",
+      "provider": "ABC News Australia",
+      "title": "New Zealand may not know its government for weeks",
+      "status": "pending",
+      "firstSeenAt": 1794077760.4998243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360",
+      "provider": "ABC News Australia",
+      "title": "At least six killed in shooting at Krakow's main square",
+      "status": "pending",
+      "firstSeenAt": 1794077760.4998868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/us-midterms-election-end-of-trump-democrats-republicans-gop/107354404",
+      "provider": "ABC News Australia",
+      "title": "Has the curtain come down on the age of Trump?",
+      "status": "pending",
+      "firstSeenAt": 1794077760.4999454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/data-centres-australia-community-objection/107356606",
+      "provider": "ABC News Australia",
+      "title": "When it comes to data centres, politics is getting very local",
+      "status": "pending",
+      "firstSeenAt": 1794077760.5000265,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858",
+      "provider": "ABC News Australia",
+      "title": "Who Gives A Crap confirms customer data exposed in third party software breach",
+      "status": "pending",
+      "firstSeenAt": 1794077760.5002122,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582",
+      "provider": "ABC News Australia",
+      "title": "Prisons psychiatrist says NSW Corrections failing mentally ill inmates",
+      "status": "pending",
+      "firstSeenAt": 1794077760.5011225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/off-and-bracing-the-rates-decision-that-stopped-the-nation/107354058",
+      "provider": "ABC News Australia",
+      "title": "Race to tame inflation more tricky that one that stops the nation",
+      "status": "pending",
+      "firstSeenAt": 1794077760.5013108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/david-jones-the-death-of-the-department-store/107346298",
+      "provider": "ABC News Australia",
+      "title": "There is no other store like David Jones and this might be the reason why",
+      "status": "pending",
+      "firstSeenAt": 1794077760.5013568,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
