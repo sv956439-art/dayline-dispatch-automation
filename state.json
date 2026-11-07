@@ -91114,9 +91114,289 @@
       "status": "pending",
       "firstSeenAt": 1794077760.5013568,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze47p9jeexo",
+      "provider": "BBC",
+      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary The BBC has asked the White House and UFC whether the president's job offer is genuine. 1 hr ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794090397.337241,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n9r01d2709o",
+      "provider": "BBC",
+      "title": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home Police said the attacker drove onto Main Market Square and began randomly firing at people.",
+      "status": "pending",
+      "firstSeenAt": 1794090397.3384285,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
+      "provider": "BBC",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "status": "pending",
+      "firstSeenAt": 1794090397.3384562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5yyg2nj9eo",
+      "provider": "BBC",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "status": "pending",
+      "firstSeenAt": 1794090397.3384812,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckd6d15432y2o",
+      "provider": "BBC",
+      "title": "Fine Gael proposes unity forum to consider Ireland's constitutional future",
+      "status": "pending",
+      "firstSeenAt": 1794090397.3385065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+      "provider": "BBC",
+      "title": "Maresca's dream start turns into nightmare as title hopes hit Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+      "status": "pending",
+      "firstSeenAt": 1794090397.3389916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
+      "provider": "BBC",
+      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+      "status": "pending",
+      "firstSeenAt": 1794090397.3390176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794090397.6562977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794090397.656324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794090397.656566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794090397.6569924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794090397.6570163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/nepal-tibet-floods-australians-still-missing-families",
+      "provider": "The Guardian",
+      "title": "They have gone 10 weeks without answers. Will these families ever know what happened to loved ones missing after Nepal’s floods?",
+      "status": "pending",
+      "firstSeenAt": 1794090397.6572907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+      "provider": "The Guardian",
+      "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+      "status": "pending",
+      "firstSeenAt": 1794090397.6574183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472",
+      "provider": "ABC News Australia",
+      "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5090017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/dana-white-press-secretary-trump-announcement/107360444",
+      "provider": "ABC News Australia",
+      "title": "Trump offers press secretary role to UFC chief Dana White",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5091965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/labor-royal-commission-ben-carroll-vic-election-campaign/107351126",
+      "provider": "ABC News Australia",
+      "title": "Victoria's royal commission likely to be very uncomfortable for Labor",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5095124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/cameron-bancroft-backed-to-keep-calm-after-sandpaper-revel/107360442",
+      "provider": "ABC News Australia",
+      "title": "Coach says Bancroft will 'let bat do the talking' after Khawaja bombshell",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5095716,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/queensland-pitch-drop-experiment/107337784",
+      "provider": "ABC News Australia",
+      "title": "The world's longest running science experiment is about to turn 100",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5096288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/new-zealand-tonga-world-cup-kalyn-ponga/107359742",
+      "provider": "ABC News Australia",
+      "title": "After taming Tonga, the World Cup is New Zealand's to lose",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5096853,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/ella-thompson-triumph-and-sadness-album-soul-music-renee-geyer/107350826",
+      "provider": "ABC News Australia",
+      "title": "What Renée Geyer taught soul protégé Ella Thompson about authenticity",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5098085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/abc-wordage-quiz-work/107328912",
+      "provider": "ABC News Australia",
+      "title": "ABC Wordage quiz: It's time to get to work",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5098865,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/australian-stockman-hall-of-fame-outback-poet-jim-oconnor/107291852",
+      "provider": "ABC News Australia",
+      "title": "At 94, cowboy Jim O'Connor is an outback poet and legend",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5099523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/federal-politics-pm-scraps-sale-of-victoria-barracks-defence/107360530",
+      "provider": "ABC News Australia",
+      "title": "Controversial sale of Sydney's Victoria Barracks scrapped",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5104623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/council-calls-to-reject-plans-for-mernda-town-centre/107357130",
+      "provider": "ABC News Australia",
+      "title": "Council wants government to reject 'ugly, out-of-date' town centre plan",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5105083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/artist-brings-first-nations-language-and-culture-to-gold-coins/107349684",
+      "provider": "ABC News Australia",
+      "title": "The artist keeping Indigenous language alive on Aussie coins",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5105538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/moesha-johnson-gold-mexico-world-cup-open-water/107360522",
+      "provider": "ABC News Australia",
+      "title": "Moesha Johnson's Open Water World Cup winning streak continues",
+      "status": "pending",
+      "firstSeenAt": 1794090398.510599,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/labor-youth-rehabilitation-detention-liberal-major-events/107359596",
+      "provider": "ABC News Australia",
+      "title": "Youth crime policy rejig, UFC return among Victorian party pledges",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5106437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/feral-pigs-farms-prompts-nsw-government-plan-walgett/107349386",
+      "provider": "ABC News Australia",
+      "title": "Guns, traps and baits to target 'ballistic' NSW feral pig problem",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5106878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/melbourne-rovers-stuart-bonner-life-saving-football/107260068",
+      "provider": "ABC News Australia",
+      "title": "For queer people, community sport can be life-saving",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5109298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/playford-residents-want-fix-curtis-road-congestion/107337464",
+      "provider": "ABC News Australia",
+      "title": "Residents demand traffic fix for 'horrendous' SA road",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5109885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/f1-s%C3%A3o-paulo-brazil-grand-prix-qualifying/106998738",
+      "provider": "ABC News Australia",
+      "title": "Wet-weather chaos in qualifying for Brazilian Grand Prix",
+      "status": "pending",
+      "firstSeenAt": 1794090398.511045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/wallabies-set-for-england-challenge/107360476",
+      "provider": "ABC News Australia",
+      "title": "Wilson backs Wallabies to overpower mutinous England",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5111225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/henderson-lagoon-tasmania-water-falmouth-rural/107337768",
+      "provider": "ABC News Australia",
+      "title": "This was once a favourite swimming spot, but locals fear it may never return",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/classic-country-womens-assocation-anzac-biscuit-recipe/107282526",
+      "provider": "ABC News Australia",
+      "title": "Want to bake the perfect Anzac biscuits? Try this classic CWA recipe",
+      "status": "pending",
+      "firstSeenAt": 1794090398.5127373,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
