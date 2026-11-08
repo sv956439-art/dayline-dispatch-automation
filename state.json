@@ -91618,9 +91618,369 @@
       "status": "pending",
       "firstSeenAt": 1794102004.5149543,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmwyqzy934lxo",
+      "provider": "BBC",
+      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "status": "pending",
+      "firstSeenAt": 1794124667.0746844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckr5ygezr0m9o",
+      "provider": "BBC",
+      "title": "Messi makes history with MLS Golden Boot",
+      "status": "pending",
+      "firstSeenAt": 1794124667.0747073,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61wvxwpj2l3o",
+      "provider": "BBC",
+      "title": "Parkinson's film 'gently ribs monster of an illness' Onwards and Sideways is written by Paul Mayhew-Archer, who was diagnosed with the disease in 2011.",
+      "status": "pending",
+      "firstSeenAt": 1794124667.0748153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c93d59d4zy1o",
+      "provider": "BBC",
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "status": "pending",
+      "firstSeenAt": 1794124667.140128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx238yyr40qo",
+      "provider": "BBC",
+      "title": "What is net zero and is the UK on track to achieve it?",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1401484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9w15nggj58o",
+      "provider": "BBC",
+      "title": "A really simple guide to climate change",
+      "status": "pending",
+      "firstSeenAt": 1794124667.140167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87zz45zj2no",
+      "provider": "BBC",
+      "title": "Weekly round-up: Five stories you may have missed",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1402926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ewe99dzdlpo",
+      "provider": "BBC",
+      "title": "Countryside managers prepare for climate change",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1403081,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wvx3r9rgeo",
+      "provider": "BBC",
+      "title": "Hundreds of seagrass shoots found in estuary",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1403236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0rzz2g774o",
+      "provider": "BBC",
+      "title": "Solar farm could harm food security, council says",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1403387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8dz3z1zq6mo",
+      "provider": "BBC",
+      "title": "43 mins ago The ducks so colourful they look like a 'painting' Expert say the birds are now an increasingly common sight, with numbers continuing to rise. 43 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1404886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c617kj49lkzjo",
+      "provider": "BBC",
+      "title": "1 day ago Christmas trees warning after summer heatwave Oxfordshire farmer warns summer drought could affect Christmas tree production for years to come 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1405194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw98zzn7z04vo",
+      "provider": "BBC",
+      "title": "1 day ago New Forest wildfire restoration work begins Work begins to restore nature to part of the New Forest destroyed by a summer wildfire. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1405375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crn4engenw9ko",
+      "provider": "BBC",
+      "title": "1 day ago Birds, love notes and silver - what sweeps find in chimneys Jaw-dropping objects, dirty secrets and trapped wildlife are among the items found up chimneys. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1405568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvlydd1wrjx7o",
+      "provider": "BBC",
+      "title": "1 day ago Snake in a drain gives workers a fright Water company engineers get \"the shock of our lives\" after hearing a hissing noise while on a job. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1405742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm20vvdp5dw6o",
+      "provider": "BBC",
+      "title": "2 days ago Badger rescuer criticised by wildlife welfare charities Three charities say the case of Harriet the badger raises serious animal welfare concerns. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1405916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cy4dgp1p3p1o",
+      "provider": "BBC",
+      "title": "2 days ago How climate change worsens heatwaves, droughts, wildfires and floods Rising global temperatures mean extreme weather events are becoming more common and more intense. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1406097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm26m2l4p7eo",
+      "provider": "BBC",
+      "title": "2 days ago Wales scraps controversial Uganda tree-planting scheme The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.1406286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgxkekxer4o",
+      "provider": "BBC",
+      "title": "2 days ago Turtle returns to sea after 22 years recovering in Irish aquarium After two decades in the care of Dingle Oceanworld Aquarium the turtle rescued in 2004 is finally well enough to return to the wild. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.140647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c977pmgzlxeko",
+      "provider": "BBC",
+      "title": "2 days ago Record sightings of rare moth in Glen Affric The Affric Twitcher is found almost exclusively in the Highland glen. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.140667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qjnnednx0go",
+      "provider": "BBC",
+      "title": "2 days ago Dog fight trainer banned from owning animals for 15 years Sean Alexander Mullen's Patterdale terrier was found with serious facial injuries by the Scottish SPCA. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794124667.140685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6964653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6965594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.696651,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6967413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.69677,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6969204,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6970165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6971507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
+      "provider": "The Guardian",
+      "title": "Who won New Zealand’s photo-finish election and why special votes could change everything",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6972923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/nz-election-2026-national-labour-rejection-by-voters",
+      "provider": "The Guardian",
+      "title": "double quotation mark New Zealand’s two major parties are flatlining as dispirited voters seek transformational change",
+      "status": "pending",
+      "firstSeenAt": 1794124667.697348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks, Zelenskyy says",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6973948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/08/willie-nelson-interview-country-music-legend-memoir",
+      "provider": "The Guardian",
+      "title": "Willie Nelson: ‘I drank too much, I smoked too much. I took too many pills’",
+      "status": "pending",
+      "firstSeenAt": 1794124667.6975074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/us-midterms-the-kansas-farmers-who-turned-on-trump/107358824",
+      "provider": "ABC News Australia",
+      "title": "The farmers who turned on Donald Trump",
+      "status": "pending",
+      "firstSeenAt": 1794124668.558136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/analysis-new-zealand-election-numbers/107360924",
+      "provider": "ABC News Australia",
+      "title": "Two statistics jump out after New Zealand's elections",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5582173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/collapsed-bathla-property-projects-risk-becoming-wastelands/107358154",
+      "provider": "ABC News Australia",
+      "title": "Fears unfinished Bathla sites could turn into 'horror story' for locals",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5582569,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/palestinians-return-to-hebron-west-bank-after-idf-siege/107354948",
+      "provider": "ABC News Australia",
+      "title": "Palestinians return to destroyed West Bank homes after IDF siege",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5582952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/live-kangaroos-and-jillaroos-rugby-league-world-cup-semifinals/107361250",
+      "provider": "ABC News Australia",
+      "title": "Fiji threatening sensational semifinal upset against stunned Jillaroos",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5584483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592",
+      "provider": "ABC News Australia",
+      "title": "Cancelled AI data centre 'victory for people power' after backlash",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5586197,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/delivery-driver-death-jianming-feng/107360706",
+      "provider": "ABC News Australia",
+      "title": "Safety a top priority for Vic premier after food delivery driver stabbing",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5586567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/life-inside-ukraines-oleshky-before-evacuation/107348714",
+      "provider": "ABC News Australia",
+      "title": "Ukrainians 'suffered forced starvation' in Oleshky before escape",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5587273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014",
+      "provider": "ABC News Australia",
+      "title": "Snow blankets parts of NSW just weeks away from summer",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5587933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/ticketless-parking-fines-to-be-banned-in-south-australia/107360976",
+      "provider": "ABC News Australia",
+      "title": "SA government plans to ban ticketless parking fines",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5592983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/aflw-elimination-finals-swans-bulldogs-suns-hawks/107361122",
+      "provider": "ABC News Australia",
+      "title": "Swans, Hawks prevail in AFLW elimination finals",
+      "status": "pending",
+      "firstSeenAt": 1794124668.559352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/nt-catholic-schools-increased-police-terrorism-related-charges/107359480",
+      "provider": "ABC News Australia",
+      "title": "NT Catholic school parents warned of police presence amid terror probe",
+      "status": "pending",
+      "firstSeenAt": 1794124668.5596516,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
