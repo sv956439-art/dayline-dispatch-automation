@@ -92330,9 +92330,425 @@
       "status": "pending",
       "firstSeenAt": 1794149051.3476982,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvgr20mmmevo",
+      "provider": "BBC",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza. 2 hrs ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1794165021.61566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwrkygrxp11mo",
+      "provider": "BBC",
+      "title": "South Africa's ANC records worst-ever results in local elections President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6164656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c9rkyg1gl7rgo",
+      "provider": "BBC",
+      "title": "England swat aside Wallabies to back up Borthwick",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6168225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5m2ddz437nzo",
+      "provider": "BBC",
+      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6995583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c35yn19r7zkvo",
+      "provider": "BBC",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6996126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwj34k7k54veo",
+      "provider": "BBC",
+      "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6996424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ck9qz8d2znl5o",
+      "provider": "BBC",
+      "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
+      "status": "pending",
+      "firstSeenAt": 1794165021.699694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/c6y0exdrp2xeo",
+      "provider": "BBC",
+      "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6997192,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq2d698j5gxgo",
+      "provider": "BBC",
+      "title": "Chengdu lose four in a row to blow 12-point lead & miss out on Chinese title",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6998649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck0j0x2e49j7o",
+      "provider": "BBC",
+      "title": "Fan injured after falling through hole in stand",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6999688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmwyq8x6nx5lo",
+      "provider": "BBC",
+      "title": "England await Guehi scan results after injury concern",
+      "status": "pending",
+      "firstSeenAt": 1794165021.6999917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqev3rdvyvm1o",
+      "provider": "BBC",
+      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+      "status": "pending",
+      "firstSeenAt": 1794165021.7000148,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/motorsport/articles/cqy0re6xjg4wo",
+      "provider": "BBC",
+      "title": "Qatar runner-up Marquez must wait for eighth title",
+      "status": "pending",
+      "firstSeenAt": 1794165021.700038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr20wvgx2q27o",
+      "provider": "BBC",
+      "title": "Who am I? Plus today's other quizzes",
+      "status": "pending",
+      "firstSeenAt": 1794165021.7001524,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6dxw1k2x4kno",
+      "provider": "BBC",
+      "title": "Is there something missing despite Rangers' impressive form?",
+      "status": "pending",
+      "firstSeenAt": 1794165021.7002442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c6vg02klk084o",
+      "provider": "BBC",
+      "title": "Australia reach World Cup final after Fiji scare",
+      "status": "pending",
+      "firstSeenAt": 1794165021.7002711,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c6y8l1318k8zo",
+      "provider": "BBC",
+      "title": "I want to face Baumgardner, it will be boxing's next great rivalry - Dubois",
+      "status": "pending",
+      "firstSeenAt": 1794165021.7002933,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c54g1nepgr28o",
+      "provider": "BBC",
+      "title": "Liverpool considering Verbruggen move - Sunday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1794165021.7003207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9228375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9234872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.923517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9235442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9236546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9240046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9240313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.924057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9240835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9241545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9241784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/nov/08/cctv-footage-shows-police-shootout-after-krakow-attack-video",
+      "provider": "The Guardian",
+      "title": "CCTV footage shows police shootout after Kraków attack – video",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9244177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/nov/08/israelis-and-palestinians-react-as-eisenkot-given-mandate-to-form-government-video",
+      "provider": "The Guardian",
+      "title": "Israelis and Palestinians react as Eisenkot given mandate to form government – video",
+      "status": "pending",
+      "firstSeenAt": 1794165021.924519,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
+      "provider": "The Guardian",
+      "title": "Abdul El-Sayed’s Oxford years: PhD, political influences and sporting distinction",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9246554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/09/the-kindness-of-strangers-i-was-crying-on-a-sofa-in-ikea-then-a-small-gesture-reminded-me-that-love-is-possible",
+      "provider": "The Guardian",
+      "title": "The kindness of strangers: I was crying on a sofa in Ikea. Then a small gesture reminded me that love is possible",
+      "status": "pending",
+      "firstSeenAt": 1794165021.924683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
+      "provider": "The Guardian",
+      "title": "New drug could be cure for common cause of high blood pressure",
+      "status": "pending",
+      "firstSeenAt": 1794165021.9247918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/victoria-police-culture-exposed-officers-sucide-four-corners/107342438",
+      "provider": "ABC News Australia",
+      "title": "Police officer’s suicide exposes sexism, bullying in the force",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1883595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/whats-in-our-weekly-shop/107286868",
+      "provider": "ABC News Australia",
+      "title": "This is what a weekly shop looks like for seven households in 2026",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1884174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892",
+      "provider": "ABC News Australia",
+      "title": "It could be a matter of when, not if Andrew Hastie becomes opposition leader",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1884665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716",
+      "provider": "ABC News Australia",
+      "title": "When it comes to cooling inflation, interest rates are still the best bet",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1885045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/tony-abbott-julia-gillard-misogyny-speech-unjustified-attack/107181260",
+      "provider": "ABC News Australia",
+      "title": "Abbott says Gillard's misogyny speech an 'unjustified attack'",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1885424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
+      "provider": "ABC News Australia",
+      "title": "Left without wages or answers, workers break silence on Bathla collapse",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1885805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974",
+      "provider": "ABC News Australia",
+      "title": "Trump 'would get ratings bump for firing Hegseth', like on The Apprentice",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1886313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/iran-conflict-strengthens-case-or-electrification/107351224",
+      "provider": "ABC News Australia",
+      "title": "Trump's war in Iran driving shift from fossil fuels",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1886694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030",
+      "provider": "ABC News Australia",
+      "title": "Aged care bed crisis hits boiling point for families waiting years",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1887689,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/global-emissions-footprint-overshadows-australias-image/107329288",
+      "provider": "ABC News Australia",
+      "title": "Australia's export emissions under scrutiny ahead of climate talks",
+      "status": "pending",
+      "firstSeenAt": 1794165022.188807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/f1-live-s%C3%A3o-paulo-grand-prix-oscar-piastri-lando-norris/106998734",
+      "provider": "ABC News Australia",
+      "title": "New world champion in a spin as Norris survives wet-dry-wet F1 Brazil GP",
+      "status": "pending",
+      "firstSeenAt": 1794165022.188843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/kerry-greenwood-just-desserts-david-greagg-interview/107348618",
+      "provider": "ABC News Australia",
+      "title": "Kerry Greenwood's final novel published 18 months after her death",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1890612,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/classrooms-are-getting-a-digital-detox/107359784",
+      "provider": "ABC News Australia",
+      "title": "Classrooms are getting a 'digital detox'. What does this mean for schools?",
+      "status": "pending",
+      "firstSeenAt": 1794165022.189111,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/this-week-in-history-quiz-november-9/107353132",
+      "provider": "ABC News Australia",
+      "title": "Hooked on the history quiz? It's time to test yourself again",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1891353,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/archaeology-students-traditional-owners-pilot-program/107359186",
+      "provider": "ABC News Australia",
+      "title": "Traditional owners and uni students work together to unearth history",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1894841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
+      "provider": "ABC News Australia",
+      "title": "Firms using telemarketers to spruik super switches could lose licences",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1895123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/calls-for-next-victorian-government-to-invest-in-prisons/107361304",
+      "provider": "ABC News Australia",
+      "title": "Calls for next Victorian government to invest in prisons",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1896129,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/feral-cats-trowunna-wildlife-sanctuary-conservation/107264208",
+      "provider": "ABC News Australia",
+      "title": "Roaming cats 'split' town as concerns grow for native wildlife",
+      "status": "pending",
+      "firstSeenAt": 1794165022.1896493,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
