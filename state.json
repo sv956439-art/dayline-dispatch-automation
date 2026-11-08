@@ -91394,9 +91394,233 @@
       "status": "pending",
       "firstSeenAt": 1794090398.5127373,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3r5gnxqz3jo",
+      "provider": "BBC",
+      "title": "The Trump coalition is shattered - what will Republicans do now? Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush. 47 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5485888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5x2v78wprglo",
+      "provider": "BBC",
+      "title": "Thousands to celebrate Diwali across North West Worshippers are marking the Hindu Diwali festival in temples across the region. 18 hrs ago Lancashire",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5486405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c81dwllzv113o",
+      "provider": "BBC",
+      "title": "My parents chose to die together and I was left to grieve alone Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child. 29 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5486743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm74pk1g51nko",
+      "provider": "BBC",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5489953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg652l927lo",
+      "provider": "BBC",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "status": "pending",
+      "firstSeenAt": 1794102003.549065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
+      "provider": "BBC",
+      "title": "Can the Zelda remake capture the magic of the original? Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5491333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
+      "provider": "BBC",
+      "title": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5493886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cqx2vw8demexo",
+      "provider": "BBC",
+      "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
+      "status": "pending",
+      "firstSeenAt": 1794102003.549405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rmy9jvgwleo",
+      "provider": "BBC",
+      "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
+      "status": "pending",
+      "firstSeenAt": 1794102003.5494974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87zv70jg9no",
+      "provider": "BBC",
+      "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+      "status": "pending",
+      "firstSeenAt": 1794102003.549514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y0e2jweqw8o",
+      "provider": "BBC",
+      "title": "Airbnb cleaning rule changes will 'absolutely' hit Wales harder, says host",
+      "status": "pending",
+      "firstSeenAt": 1794102003.6303625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqzjxl1zjy3zo",
+      "provider": "BBC",
+      "title": "Rising airport drone alerts raise safety concerns",
+      "status": "pending",
+      "firstSeenAt": 1794102003.6303816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794102003.9355445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
+      "provider": "The Guardian",
+      "title": "Wisconsin state patrol trooper detained by ICE released from custody",
+      "status": "pending",
+      "firstSeenAt": 1794102003.9362442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+      "provider": "ABC News Australia",
+      "title": "Explosions in Strait of Hormuz as Iran reviews de-escalation proposals",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5130882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/usman-khawaja-defends-timing-of-sandpaper-revelations/107360744",
+      "provider": "ABC News Australia",
+      "title": "Khawaja says he has thrown nobody 'under the bus'",
+      "status": "pending",
+      "firstSeenAt": 1794102004.513259,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/wa-cyclist-calls-for-safe-passing-law-enforcement/107347600",
+      "provider": "ABC News Australia",
+      "title": "Cyclist records dangerously close calls with drivers after six deaths",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5133822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/groote-eylandt-broadcaster-percy-bishop-remote-nt-weather-radio/107347462",
+      "provider": "ABC News Australia",
+      "title": "On an NT island threatened by regular cyclones, radio coverage gaps pose risk",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5134554,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/notts-county-altrincham-fa-cup-penalties-fog/107360612",
+      "provider": "ABC News Australia",
+      "title": "Extraordinary scenes as fog descends on 'farcical' FA Cup tie",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5135295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/meeting-the-love-of-your-life-at-school-pick-up/107347082",
+      "provider": "ABC News Australia",
+      "title": "'I'm going to marry that guy': Meeting the love of your life at school pick-up",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5135977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/federal-politics-matt-canavan-insiders-paris-eu-free-trade/107360586",
+      "provider": "ABC News Australia",
+      "title": "Canavan supports Paris Agreement but says EU trade deal goes too far",
+      "status": "pending",
+      "firstSeenAt": 1794102004.514063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/pars-stabilisation-surgery-saving-crickets-best-fast-bowlers/107272126",
+      "provider": "ABC News Australia",
+      "title": "Meet the surgeon saving the careers of cricket's best fast bowlers",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5140877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/serial-paedophile-dennis-mckenna-banned-katanning/107351448",
+      "provider": "ABC News Australia",
+      "title": "Serial rapist banned from return to scene of his crimes",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5141613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/princess-margaret-rose-cave/107348986",
+      "provider": "ABC News Australia",
+      "title": "Spectacular cave site 'neglected' after five years closed to tourists",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5144465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/ranchlands-riding-school-closes-after-50-years/107247194",
+      "provider": "ABC News Australia",
+      "title": "Riding school to close after teaching thousands of students over 50 years",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5146415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/missing-teenager-william-camping-walhalla-east/107360636",
+      "provider": "ABC News Australia",
+      "title": "Search continues for teenager missing in Victoria's east",
+      "status": "pending",
+      "firstSeenAt": 1794102004.514691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/giant-southern-burrowing-frogs-released/107138502",
+      "provider": "ABC News Australia",
+      "title": "Critically endangered frogs returned six years after Black Summer",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5148354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
+      "provider": "ABC News Australia",
+      "title": "Socceroos wary of Jordan friendly due to security threats",
+      "status": "pending",
+      "firstSeenAt": 1794102004.5149543,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
