@@ -93018,9 +93018,145 @@
       "status": "pending",
       "firstSeenAt": 1794178285.501952,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d6kk0wzw4o",
+      "provider": "BBC",
+      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted. 1 hr ago Scotland",
+      "status": "pending",
+      "firstSeenAt": 1794189944.887101,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7vppll151mo",
+      "provider": "BBC",
+      "title": "Doing these things now will help you save money at Christmas Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "status": "pending",
+      "firstSeenAt": 1794189944.888381,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c6gr8e822kzqo",
+      "provider": "BBC",
+      "title": "Norris sparkles in Sao Paulo despite firework mishap",
+      "status": "pending",
+      "firstSeenAt": 1794189944.888867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmdxw0xn0k80o",
+      "provider": "BBC",
+      "title": "2 days ago AI in property listings is false advertising, house-hunters say One prospective buyer says it is like going to buy a new Mercedes but ending up with an old Skoda. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794189944.9815388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794189945.1652396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794189945.1652648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794189945.1657972,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794189945.165945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/thefilter-us/2026/nov/08/best-coffee-at-home-essentials",
+      "provider": "The Guardian",
+      "title": "Caffeine off the clock: six ways baristas make coffee at home (and one they all hate)",
+      "status": "pending",
+      "firstSeenAt": 1794189945.1664555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/beau-lamarre-condon-trial-live-blog-cross-examination/107362572",
+      "provider": "ABC News Australia",
+      "title": "'I never executed Jesse Baird': Beau Lamarre-Condon faces cross-examination",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3824134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/teenage-boy-stabbed-outside-casula-high-school-in-sydney/107362694",
+      "provider": "ABC News Australia",
+      "title": "15yo boy stabbed multiple times outside Sydney high school",
+      "status": "pending",
+      "firstSeenAt": 1794189945.382602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/donald-trump-says-he-was-kidding-about-dana-white-job-offer/107362886",
+      "provider": "ABC News Australia",
+      "title": "Trump says he was 'kidding' about offering Dana White press secretary job",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3826609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/survivors-of-indonesia-helicopter-crash-named/107362534",
+      "provider": "ABC News Australia",
+      "title": "Two survivors of fatal helicopter crash in Indonesia named",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3829181,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/cricket-marnus-labuschagne-axed-from-australian-test-squad/107363356",
+      "provider": "ABC News Australia",
+      "title": "Labuschagne axed from Aussie squad for New Zealand Tests",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3831878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/16yo-rj-brown-hits-buzzer-beater-in-debut-adelaide-36er-game/107363130",
+      "provider": "ABC News Australia",
+      "title": "Arena 'electric' as 36ers debutant hits buzzer beater",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3839648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/vic-election-blog-big-build-royal-commission/107357514",
+      "provider": "ABC News Australia",
+      "title": "CFMEU's 'unprecedented' political links aired at Victoria's Big Build hearing",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3841765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-09/police-search-for-missing-boatie-on-gold-coast/107362434",
+      "provider": "ABC News Australia",
+      "title": "Body found in search for Gold Coast boatie",
+      "status": "pending",
+      "firstSeenAt": 1794189945.3842137,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
