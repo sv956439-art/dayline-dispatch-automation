@@ -96450,9 +96450,457 @@
       "status": "pending",
       "firstSeenAt": 1794350966.2544215,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxly4y5jzl0qo",
+      "provider": "BBC",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "status": "pending",
+      "firstSeenAt": 1794363479.213422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3rryrryk59zo",
+      "provider": "BBC",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces. 1 hr ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2134435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c687z7g4xr97o",
+      "provider": "BBC",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy. 2 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2137237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1l3lzg3y79o",
+      "provider": "BBC",
+      "title": "Oxford museum returns ancestral  Naga skulls to India The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial. 20 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2137377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm93rpy6lx0do",
+      "provider": "BBC",
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2139273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm26mmpp2p1o",
+      "provider": "BBC",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2139769,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8wy9y37z30vo",
+      "provider": "BBC",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2139885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj5yn24llxd6o",
+      "provider": "BBC",
+      "title": "Robot vessels take on the dangerous work of mine hunting The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2140281,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx5ynyg6j375o",
+      "provider": "BBC",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "status": "pending",
+      "firstSeenAt": 1794363479.2140393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cvglwllpxddro",
+      "provider": "BBC",
+      "title": "Brilliant Noskova dismantles Gauff to reach WTA Finals last four",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3135052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cq9vw88v8p80o",
+      "provider": "BBC",
+      "title": "Injured Feyi-Waboso is our Robinson - Sinfield",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3135617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c53989e97lxwo",
+      "provider": "BBC",
+      "title": "Formula 1 to finish season in Middle East",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3135846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmde8e8wjyzgo",
+      "provider": "BBC",
+      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3136237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq8jzjz9x23jo",
+      "provider": "BBC",
+      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3136415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm3696yy9z64o",
+      "provider": "BBC",
+      "title": "Dortmund fans' group criticises Nmecha celebration",
+      "status": "pending",
+      "firstSeenAt": 1794363479.313768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckjrwrggjlryo",
+      "provider": "BBC",
+      "title": "Hill gets first England call-up as Konsa cover",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3137882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cmwy9y0r1gp3o",
+      "provider": "BBC",
+      "title": "Khawaja alleges racial abuse by MCC member",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3138363,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmq8nnddpllqo",
+      "provider": "BBC",
+      "title": "How Germany's greatest goalscorer is guiding the next generation",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3138678,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c674p4el33wno",
+      "provider": "BBC",
+      "title": "Kompany back at Bayern training after collapse",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3138878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwj343pep7zdo",
+      "provider": "BBC",
+      "title": "Wenger considers standing against Infantino",
+      "status": "pending",
+      "firstSeenAt": 1794363479.313904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c615je0lgleqo",
+      "provider": "BBC",
+      "title": "Birthdays and broken lamps - at home with the Charles brothers",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3139398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/horse-racing/articles/c933x3yjk530o",
+      "provider": "BBC",
+      "title": "Jockey Neale, 22, dies after fall during race",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3139615,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/ckzd6dmm5z19o",
+      "provider": "BBC",
+      "title": "World Cup finalists England still feel short of best",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3139813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c58jzj8k08lzo",
+      "provider": "BBC",
+      "title": "Johnson says definitely more to come after 50 caps",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3140104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cq5yn477mn51o",
+      "provider": "BBC",
+      "title": "Vote for your greatest all-British boxing fight",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3140318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/crvg6gzg59d1o",
+      "provider": "BBC",
+      "title": "Wainwright gives Wales injury scare for All Blacks",
+      "status": "pending",
+      "firstSeenAt": 1794363479.314066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c3rryr85v874o",
+      "provider": "BBC",
+      "title": "Who are the main candidates for the Aberdeen job?",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3140893,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmd6d63vegd4o",
+      "provider": "BBC",
+      "title": "Brady ends association with Birmingham City",
+      "status": "pending",
+      "firstSeenAt": 1794363479.3141088,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwnv0v1yj585o",
+      "provider": "BBC",
+      "title": "Real Madrid legend Raul named Real Oviedo manager",
+      "status": "pending",
+      "firstSeenAt": 1794363479.314129,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6081467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6081595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6082144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.60841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.608421,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6084318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.608452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6084924,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6085024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6085124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "status": "pending",
+      "firstSeenAt": 1794363479.6086268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854",
+      "provider": "ABC News Australia",
+      "title": "Significant number of David Jones stores set to close",
+      "status": "pending",
+      "firstSeenAt": 1794363480.225585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/how-much-bracket-creep-costs-you-based-on-your-income/107372442",
+      "provider": "ABC News Australia",
+      "title": "Wage earners near top and at bottom hardest hit by bracket creep",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2256072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/cricket-usman-khawaja-book-tour-adjustments-sandpaper-interview/107371958",
+      "provider": "ABC News Australia",
+      "title": "Usman Khawaja makes changes to book tour after intense 7.30 TV interview",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2256906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/david-warner-backs-chris-broad-comments-over-darren-lehmann/107372218",
+      "provider": "ABC News Australia",
+      "title": "Warner jabs former Australian coach Lehmann over Sandpapergate sanctions",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2257214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/china-trade-surpasses-1-trillion-for-second-straight-year/107372090",
+      "provider": "ABC News Australia",
+      "title": "China hits $US1 trillion trade surplus as exports to US surge",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2258048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/remembrance-day-services-held-across-australia/107137596",
+      "provider": "ABC News Australia",
+      "title": "Australians mark 108th Remembrance Day with services honouring fallen soldiers",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2259567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/leah-shelton-keep-sleeping-beauty-melt-festival-brisbane/107364098",
+      "provider": "ABC News Australia",
+      "title": "A remake of Sleeping Beauty is taking on the manosphere",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2260365,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/alternative-education-flexible-school-enrolments-soar-queensland/107369620",
+      "provider": "ABC News Australia",
+      "title": "Flexible school enrolments soar as families consider classroom alternatives",
+      "status": "pending",
+      "firstSeenAt": 1794363480.22629,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/golf-minjee-lee-out-lpga-tour-championship-ends-season/107372514",
+      "provider": "ABC News Australia",
+      "title": "Minjee Lee set to end horror 2026 season with Tour Championship absence",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2263176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/donor-conceived-woman-push-to-alert-half-sister-to-cancer-risk/107371778",
+      "provider": "ABC News Australia",
+      "title": "Minister's moral dilemma as sister pleads to make cancer risk known",
+      "status": "pending",
+      "firstSeenAt": 1794363480.226339,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/animal-rights-high-court-appeal-video-footage-copyright/107369644",
+      "provider": "ABC News Australia",
+      "title": "Advocacy group ordered to destroy abattoir video footage by High Court",
+      "status": "pending",
+      "firstSeenAt": 1794363480.22636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/victoria-election-blog-november-11/107371790",
+      "provider": "ABC News Australia",
+      "title": "One Nation's Victorian leader deems free abortion policies 'stupid'",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2264333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/bears-euthanased-following-attack-in-canada/107372022",
+      "provider": "ABC News Australia",
+      "title": "Four bears put down after fatal mauling of mother and daughter in Canada",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2265775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/melbourne-aged-care-facility-under-police-guard-after-shooting/107372242",
+      "provider": "ABC News Australia",
+      "title": "Melbourne aged care facility under police guard after shooting",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2266228,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/major-search-for-missing-boy-william-enters-fifth-day/107371578",
+      "provider": "ABC News Australia",
+      "title": "Police divers to search rivers as hunt for missing boy enters fifth day",
+      "status": "pending",
+      "firstSeenAt": 1794363480.226794,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/berry-hospital-aboriginal-engagement-report/107362854",
+      "provider": "ABC News Australia",
+      "title": "Report into hospital's history finds Aboriginal women forced to give birth on verandah",
+      "status": "pending",
+      "firstSeenAt": 1794363480.2268198,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 1,
+  "section_index": 2,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
