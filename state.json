@@ -97434,9 +97434,489 @@
       "status": "pending",
       "firstSeenAt": 1794389522.5752583,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg25nypmrvo",
+      "provider": "BBC",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2575963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwz0k79pr8z2o",
+      "provider": "BBC",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked. 5 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2576184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck792we7zrz4o",
+      "provider": "BBC",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday. 2 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2576358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqr7gr0010r2o",
+      "provider": "BBC",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats Bessent is now one of several Trump administration officials to live on military bases due to safety concerns. 38 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2576516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261111-the-moving-inside-story-of-how-ian-charleson-played-hamlet-on-stage-while-dying-of-aids",
+      "provider": "BBC",
+      "title": "The moving inside story of how Ian Charleson played Hamlet while dying of Aids Oscar-tipped film Elsinore centres on the Chariots of Fire star's final acting feat before his death aged 40. Those closest to him then recall his extraordinary swansong.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.257696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261110-grand-theft-auto-video-games-are-being-harnessed-to-make-real-roads-safer",
+      "provider": "BBC",
+      "title": "Humans cause most accidents. Is Grand Theft Auto the key to safer roads? Smashing and crashing their way around the fictional cities of Grand Theft Auto is all part of the fun for players. But researchers have other ideas.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.257713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqde1yddwk17o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2578907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwg5r8zrm11mo",
+      "provider": "BBC",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month. 4 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2579308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
+      "provider": "BBC",
+      "title": "This metro stop is Ancient Rome's new attraction Construction on Rome's Metro C has uncovered spectacular Roman ruins, and its new \"archaeo-stations\" are giving visitors a whole new way to experience the city's ancient past.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2579873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvgxgz87qqro",
+      "provider": "BBC",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2582026,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg2xqjlxzvo",
+      "provider": "BBC",
+      "title": "Man charged after unrest following visit from former US President Biden",
+      "status": "pending",
+      "firstSeenAt": 1794417850.258215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gnq2pw2kro",
+      "provider": "BBC",
+      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2582266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkg5jr59835o",
+      "provider": "BBC",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "status": "pending",
+      "firstSeenAt": 1794417850.258239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c87470q4w21o",
+      "provider": "BBC",
+      "title": "What are cold weather payments and who can get them? Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2582617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwzd9pvjy426o",
+      "provider": "BBC",
+      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2584708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c60qkdj4lp34o",
+      "provider": "BBC",
+      "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2584841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cw30e0yz0p04o",
+      "provider": "BBC",
+      "title": "Assessing the reasons for Man City's decline in form under Maresca",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2584965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/articles/ckx28eww18g2o",
+      "provider": "BBC",
+      "title": "Vonn has ninth operation after Olympic crash",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2585115,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqm2l304w0x9o",
+      "provider": "BBC",
+      "title": "Toby Jones stars in film about UK Mars mission Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2585795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62prjl7p2no",
+      "provider": "BBC",
+      "title": "'You makes Barry proud' - Gavin & Stacey star Joanna Page to enter I'm a Celeb jungle",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2585917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr4g0n9d1g5o",
+      "provider": "BBC",
+      "title": "Dua Lipa to become first female British headliner at Coachella 2027",
+      "status": "pending",
+      "firstSeenAt": 1794417850.258603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj3462yz21lo",
+      "provider": "BBC",
+      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+      "status": "pending",
+      "firstSeenAt": 1794417850.2586145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj9kp3gj8rwo",
+      "provider": "BBC",
+      "title": "'We all need data, but do we need the largest data centre in Europe here?' Green belt land in North Ockenden is the proposed site for a huge data centre campus, one of the largest in Europe.",
+      "status": "pending",
+      "firstSeenAt": 1794417850.3342617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c54gne3plvrxo",
+      "provider": "BBC",
+      "title": "6 hrs ago New Indian mega library rocked by scandal over 'AI-generated books' The Tamil Nadu government has ordered an internal audit of library collections across the state. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794417850.3344798,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw0k0klz2x37o",
+      "provider": "BBC",
+      "title": "17 hrs ago Students passing university assessments in minutes using AI, regulator warns The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\". 17 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794417850.334495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0e04ll8w0o",
+      "provider": "BBC",
+      "title": "1 day ago Amazon drone deliveries granted huge extension Amazon drones are now allowed to fly to 8,000 properties in Darlington, up from an initial 600. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794417850.3345182,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5yndd6190eo",
+      "provider": "BBC",
+      "title": "1 day ago 'How AI helped me remember my grandad' Lancaster pilot Anthony Southwell was killed during a mine-laying exercise in 1942. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794417850.3345523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwyvydp2vz8o",
+      "provider": "BBC",
+      "title": "2 days ago Ioan Gruffudd in AI warning after fan claimed they had been in year-long affair The Aberdare actor urged fans not to send money, saying \"explicit and disturbing\" images are \"not me\". 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794417850.3346143,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqpvgvmrndnno",
+      "provider": "BBC",
+      "title": "2 days ago Clients 'cautious' on use of AI, says software firm boss Brendan Mooney was speaking as Kainos announced a record half-year performance. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794417850.3346279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5788438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.578859,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-australian-film-cameo-cut-sexual-harassment-allegations-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5789943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/12/first-covid-lockdowns-then-alcohol-to-your-door-rise-in-young-victorians-with-liver-diseases-prompts-fears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5790064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/11/we-were-quite-surprised-finlands-embassy-goes-viral-with-staff-training-day-post-on-instagram",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5790176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.57903,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5790665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5790904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5791008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5791113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/11/kemi-badenoch-pmqs-unfunny-jokes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5792894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5793138,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/11/morgan-mcsweeney-calls-for-rethink-of-cabinet-ministers-quasi-judicial-powers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5793245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5793352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5793755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.579387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.579398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/11/coachella-lineup-2027-dua-lipa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5794084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2008/may/01/gender.comedy",
+      "provider": "The Guardian",
+      "title": "Johnny Vegas at the Bloomsbury theatre*",
+      "status": "pending",
+      "firstSeenAt": 1794417850.579488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration",
+      "provider": "The Guardian",
+      "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5795052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+      "provider": "The Guardian",
+      "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5795264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/new-orleans-lawyer-abusive-priest",
+      "provider": "The Guardian",
+      "title": "New Orleans attorney fined $400,000 after exposing abusive priest says it was ‘worth it’",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5795588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/11/female-perversions-review-tilda-swinton-searches-for-erotic-adventures-in-rework-of-madame-bovary",
+      "provider": "The Guardian",
+      "title": "Female Perversions review – Tilda Swinton searches for erotic adventures in rework of Madame Bovary",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5795937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/providence-rhode-island-israel-divestment",
+      "provider": "The Guardian",
+      "title": "How a small, newly socialist US city became the second to cut ties with Israel",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5796063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration",
+      "provider": "The Guardian",
+      "title": "Project 2025 had a plan to target federal data. The Trump administration obeyed",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5796297,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
+      "provider": "The Guardian",
+      "title": "A moment that changed me: a failed date led to one of the greatest friendships of my life",
+      "status": "pending",
+      "firstSeenAt": 1794417850.5796425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/ng-interactive/2026/nov/11/jane-wiedlin-go-gos-fame-sexuality",
+      "provider": "The Guardian",
+      "title": "‘My partners would all tell you I was a nut job’: Jane Wiedlin on the Go-Go’s, fame and the freedom of sex dungeons",
+      "status": "pending",
+      "firstSeenAt": 1794417850.579663,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/regional-airfare-costs-subsidise-routes/107367592",
+      "provider": "ABC News Australia",
+      "title": "Regional flights cost 173pc more per km than city routes, inquiry finds",
+      "status": "pending",
+      "firstSeenAt": 1794417850.992791,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742",
+      "provider": "ABC News Australia",
+      "title": "Hoax bomb alerts sent to schools in Italy, UK and Ireland",
+      "status": "pending",
+      "firstSeenAt": 1794417850.9930174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
+      "provider": "ABC News Australia",
+      "title": "Ukraine and Russia agree to large prisoner swap after US-mediated talks",
+      "status": "pending",
+      "firstSeenAt": 1794417850.993047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-11/singapore-airlines-emergency-landing-queensland/107375388",
+      "provider": "ABC News Australia",
+      "title": "Singapore Airlines flight makes emergency landing in regional Queensland",
+      "status": "pending",
+      "firstSeenAt": 1794417850.9931347,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
