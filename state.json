@@ -98458,9 +98458,393 @@
       "status": "pending",
       "firstSeenAt": 1794439898.8100398,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg25zmppglo",
+      "provider": "BBC",
+      "title": "Australian teen missing in bush for six days rescued alive The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\". 1 hr ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1794456243.181511,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo",
+      "provider": "BBC",
+      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says. 31 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1794456243.1815848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm89ze7qepvyo",
+      "provider": "BBC",
+      "title": "From Paris to DC - why offices are being turned into apartments Office buildings with low occupancy rates are being transformed into flats.",
+      "status": "pending",
+      "firstSeenAt": 1794456243.1816082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5ynyw527wdo",
+      "provider": "BBC",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust? For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "status": "pending",
+      "firstSeenAt": 1794456243.1823657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3egj20v5x4o",
+      "provider": "BBC",
+      "title": "Government could force media industry to improve safeguards after Walliams allegations Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.",
+      "status": "pending",
+      "firstSeenAt": 1794456243.1828935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx282zrlyrgo",
+      "provider": "BBC",
+      "title": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance. 18 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1794456243.263354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2kekq88ygwo",
+      "provider": "BBC",
+      "title": "21 hrs ago Huge mural celebrates Stoke-on-Trent's clubbing heritage Artist Tom Edwards is starting work on a large mural to celebrate the city's clubbing heritage. 21 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794456243.264072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqev3vwekee4o",
+      "provider": "BBC",
+      "title": "22 hrs ago Chumbawamba star writes new 'Anthem for Burnley' Boff Whalley, a founding member of the Burnley band, wrote the song for the town's Year of Culture 2027. 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794456243.2640939,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw78p8y05k00o",
+      "provider": "BBC",
+      "title": "22 hrs ago New push to turn island into screen destination Filmmakers are calling for a screen commission to help attract more productions to Jersey. 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794456243.2641149,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx282m3dlm1o",
+      "provider": "BBC",
+      "title": "22 hrs ago What's in store now the Big Burns Supper is no more? The festival brought some big names to Dumfries but a new \"winter extravaganza\" is taking its place. 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794456243.2641356,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3wvvp5d1qzo",
+      "provider": "BBC",
+      "title": "22 hrs ago Artist creates world's biggest soil painting Phil Lambert used four types of soil, including some collected from his mother, to create his work. 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794456243.2641563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4729545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4729757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.473009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4731655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4733682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4733844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.473512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4735298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4736955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+      "provider": "The Guardian",
+      "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+      "status": "pending",
+      "firstSeenAt": 1794456243.4737797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518",
+      "provider": "ABC News Australia",
+      "title": "Joyful mum says teen found after six days missing in the bush is 'grounded for life'",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9864411,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/marrickville-golf-club-albanese-membership-worth-thousand/107377472",
+      "provider": "ABC News Australia",
+      "title": "Marrickville Golf Club confirms Albanese's member rights worth $1,100",
+      "status": "pending",
+      "firstSeenAt": 1794456243.986495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/nsw-crime-boss-safety-threats-forced-afp-officers-out-of-turkiye/107373570",
+      "provider": "ABC News Australia",
+      "title": "AFP officers forced to flee Türkiye over crime boss threats",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9865673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/secret-erin-patterson-evidence-remains-suppressed/107376964",
+      "provider": "ABC News Australia",
+      "title": "Secret Erin Patterson evidence could cause 'massive publicity'",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9866111,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/beau-lamarre-condon-trial-live-blog-cross-examination-thursday/107374518",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon denies message was designed to 'hurt or damage Jesse'",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9866517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/david-jones-suppliers-react-to-store-closures/107374298",
+      "provider": "ABC News Australia",
+      "title": "David Jones suppliers say store closures could be good news",
+      "status": "pending",
+      "firstSeenAt": 1794456243.986762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812",
+      "provider": "ABC News Australia",
+      "title": "Why several Trump officials are now living at military bases",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9868045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/new-york-brooklyn-building-collapse-rescue/107376940",
+      "provider": "ABC News Australia",
+      "title": "New York mayor says at least two people dead in 'devastating' building collapse",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9868317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/disability-advocates-lose-funding-amid-ndis-cuts/107376400",
+      "provider": "ABC News Australia",
+      "title": "Disability funding changes labelled 'a win for every dodgy provider'",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9868727,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/jobs-moving-overseas-to-gcc-tech-centres-in-india-asia/107374082",
+      "provider": "ABC News Australia",
+      "title": "How India is marketing its skilled workforce to Australian businesses",
+      "status": "pending",
+      "firstSeenAt": 1794456243.986913,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/pat-cummins-to-respond-properly-to-usman-khawaja/107377786",
+      "provider": "ABC News Australia",
+      "title": "Cummins to 'respond properly' to Khawaja claims tomorrow",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9869883,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/usman-khawaja-and-sandpaper-whats-in-the-book/107376576",
+      "provider": "ABC News Australia",
+      "title": "What is in Usman Khawaja's book Sabr and what did he actually say about Sandpapergate?",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9870434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826",
+      "provider": "ABC News Australia",
+      "title": "Teen critical after falling off train on Sydney Harbour Bridge",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9871454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/princess-of-wales-talks-about-recovery-from-cancer/107376352",
+      "provider": "ABC News Australia",
+      "title": "'Good and bad days': Princess Catherine describes her journey of recovery from cancer",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9871728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/the-true-cost-of-ivf-financially-emotionally/107339748",
+      "provider": "ABC News Australia",
+      "title": "Natalie spent more than $200k on IVF and didn't get her baby",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9872868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/australian-defence-force-remediation-stokes-hill-wharf-darwin/107377144",
+      "provider": "ABC News Australia",
+      "title": "No answers on contaminated Defence site being remediated before hand-back",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9876153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/jana-armstrong-dharminder-singh-murder-case-toowoomba/107374188",
+      "provider": "ABC News Australia",
+      "title": "Defence tries to separate DV allegations in Jana Armstrong case",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9876506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/nrl-parramatta-eels-wont-extend-josh-addo-carr-contract/107378652",
+      "provider": "ABC News Australia",
+      "title": "Addo-Carr free to leave Eels as club rejects extension opportunity",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9876997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/first-person-to-swim-entire-darling-river-for-mnd-parkinsons-nsw/107376254",
+      "provider": "ABC News Australia",
+      "title": "Farmer who's 'not a great swimmer' hopes to be first to swim the Darling",
+      "status": "pending",
+      "firstSeenAt": 1794456243.987734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/nsw-community-preschool-funding-fears/107355938",
+      "provider": "ABC News Australia",
+      "title": "Community preschools in NSW oppose move towards more children, fewer staff",
+      "status": "pending",
+      "firstSeenAt": 1794456243.987766,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/floreat-murders-inquest-questions-police-triple-zero-response/107376180",
+      "provider": "ABC News Australia",
+      "title": "Shooting murder Triple Zero call not given top priority, inquest told",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9879904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/roger-cook-scolds-labor-mps-who-blocked-jags-krishnan-from-media/107377778",
+      "provider": "ABC News Australia",
+      "title": "Roger Cook chides Labor MPs after fracas at parliament door",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9881823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/mid-north-coast-storm-damage-hail/107376122",
+      "provider": "ABC News Australia",
+      "title": "Wild spring storm blankets NSW town in hail that looks like snow",
+      "status": "pending",
+      "firstSeenAt": 1794456243.988284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/man-dies-boy-critical-after-fishing-accident-mid-north-coast/107377842",
+      "provider": "ABC News Australia",
+      "title": "Man dies and toddler critical after being pulled from water",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9883108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/qld-womans-turtle-obsession-leads-to-guinness-world-record/107369632",
+      "provider": "ABC News Australia",
+      "title": "A 50-year obsession leads to largest turtle collection record",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9883869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/qld-cfmeu-inquiry-report-response/107376800",
+      "provider": "ABC News Australia",
+      "title": "Labor apologises after CFMEU inquiry finds construction policy drove up costs",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9884603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/aflw-darcy-vescio-legacy-ahead-of-100th-game-carlton/107377710",
+      "provider": "ABC News Australia",
+      "title": "Vescio won't quit this habit even if 'it's uncomfortable to watch'",
+      "status": "pending",
+      "firstSeenAt": 1794456243.9893603,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
