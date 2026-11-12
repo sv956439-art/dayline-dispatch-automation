@@ -98842,9 +98842,465 @@
       "status": "pending",
       "firstSeenAt": 1794456243.9893603,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1ewpd95d21o",
+      "provider": "BBC",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "status": "pending",
+      "firstSeenAt": 1794486724.915457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8zx964glvwxo",
+      "provider": "BBC",
+      "title": "New York City building collapse kills several people A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon. 14 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9155262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261110-cancelled-star-johnny-depp-is-making-a-comeback",
+      "provider": "BBC",
+      "title": "'Cancelled' star Johnny Depp is making a Hollywood comeback – will it succeed? The long-time A-lister is appearing as Scrooge in new A Christmas Carol adaptation Ebenezer. It's his first studio film since his court battles with ex-wife Amber Heard.",
+      "status": "pending",
+      "firstSeenAt": 1794486724.915585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261111-ice-covered-oceans-and-bleak-craters-where-alien-life-might-be-heading",
+      "provider": "BBC",
+      "title": "The unusual places we're searching for alien life If life exists elsewhere, it might not be on worlds like Earth. Here are some of the more peculiar places scientists are looking.",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9156065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm37dv20e8o",
+      "provider": "BBC",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive? As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors. 1 hr ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9158843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
+      "provider": "BBC",
+      "title": "Trying Tourette's device was the best day of my life Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms. 11 hrs ago Nottinghamshire",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9159594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjkgep4rgngro",
+      "provider": "BBC",
+      "title": "Are max strength cold and flu pills worth the money? Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen. 12 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9159815,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260512-how-the-ugly-shoe-took-over-fashion",
+      "provider": "BBC",
+      "title": "Why 'ugly shoes' have taken 2026 by storm Odd-looking shoes that are hybrids of the practical and the fashionable are everywhere. From the five-toed sneaker to the snoafer, footwear never looked so awkward. What's the appeal?",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9160423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwrkgmymk55zo",
+      "provider": "BBC",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9163237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9d71wyn7wwo",
+      "provider": "BBC",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9163537,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm0rl4kwn8vqo",
+      "provider": "BBC",
+      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9166882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c6879g5z0v0wo",
+      "provider": "BBC",
+      "title": "England legend Anderson, 44, joins Surrey",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9167058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cv5y18lkk87do",
+      "provider": "BBC",
+      "title": "Crystal Palace sack boss Sage after 16 games",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9167218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cq0l38rw2w7ro",
+      "provider": "BBC",
+      "title": "Nurmagomedov slaps Dvalishvili to spark hotel brawl",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9167387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm1dv7v4x0z2o",
+      "provider": "BBC",
+      "title": "Irish star CMAT joins Philomena Begley on stage in surprise appearance Philomena Begley was honoured with the Lifetime Achievement Award in recognition of her 64-year career.",
+      "status": "pending",
+      "firstSeenAt": 1794486724.91683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3qj5lnee5n0o",
+      "provider": "BBC",
+      "title": "King Charles appears on Sir Elton John's radio show",
+      "status": "pending",
+      "firstSeenAt": 1794486724.9168594,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq7023p7pxl1o",
+      "provider": "BBC",
+      "title": "Garth Brooks adds extra Belfast date as two shows sell out",
+      "status": "pending",
+      "firstSeenAt": 1794486724.916876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1415036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1416256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1416416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.141657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1417208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1417358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1417994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1419938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/12/tim-westwood-in-court-to-deny-two-more-sexual-offence-charges",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1420236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/12/far-right-activist-daniel-thomas-admits-criminal-damage-slashing-dinghy-channel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1420398,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1420555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/12/democratic-socialists-historic-election-wins",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1421268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1421423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1421576,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/nov/12/how-namdaemun-scarf-man-became-seouls-biggest-attraction",
+      "provider": "The Guardian",
+      "title": "‘He’s the hottest thing right now’: how a $1 scarf seller became Seoul’s biggest attraction",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1422336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/12/taliban-ban-male-doctors-treating-women-afghanistan",
+      "provider": "The Guardian",
+      "title": "Afghan women told to ‘go home’ after de facto ban on male doctors treating them",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1423488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/12/years-of-onscreen-jokes-suggest-walliams-reputation-was-in-plain-sight-within-industry-insider-says",
+      "provider": "The Guardian",
+      "title": "Years of onscreen jokes suggest Walliams’ reputation was ‘in plain sight’ within industry, insider says",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1423821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump",
+      "provider": "The Guardian",
+      "title": "‘Maga is dead, Maga is effeminate’: why has the manosphere rejected Trump?",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/11/coyote-los-angeles",
+      "provider": "The Guardian",
+      "title": "Coyote officials thought they had killed after child attack seen alive in LA neighborhood",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1424434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/nov/12/postwar-japan-met-museum-photos",
+      "provider": "The Guardian",
+      "title": "Punks, sex workers and society in transition: documenting postwar Japan – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1794486725.1424649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/evan-gershkovich-on-his-arrest-russian-prison-and-putin/107377230",
+      "provider": "ABC News Australia",
+      "title": "Putin kills many enemies, one convicted of espionage has a different story",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5970516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722",
+      "provider": "ABC News Australia",
+      "title": "With Jensen Huang under pressure, Nvidia finds itself with no succession plan",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5970986,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392",
+      "provider": "ABC News Australia",
+      "title": "ANZ boss warns global markets in 'dangerous situation' as interest rates rise",
+      "status": "pending",
+      "firstSeenAt": 1794486725.59718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926",
+      "provider": "ABC News Australia",
+      "title": "Surgeon among six killed in Israeli air strike on Gaza hospital",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5972226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/michael-carrick-sacked-as-manchester-united-manager/107380482",
+      "provider": "ABC News Australia",
+      "title": "Carrick sacked as Manchester United manager after horror run",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5972803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/floreat-shooting-inquest-hears-gunman-recorded-himself/107380368",
+      "provider": "ABC News Australia",
+      "title": "Floreat gunman inadvertently recorded himself during shooting, inquest hears",
+      "status": "pending",
+      "firstSeenAt": 1794486725.597322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802",
+      "provider": "ABC News Australia",
+      "title": "Absence of high school diploma brings down Indonesia's vice-president",
+      "status": "pending",
+      "firstSeenAt": 1794486725.597363,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/why-did-indonesia-vp-gibran-rakabuming-raka-resign/107377964",
+      "provider": "ABC News Australia",
+      "title": "What went wrong for Indonesia's VP Gibran Rakabuming Raka?",
+      "status": "pending",
+      "firstSeenAt": 1794486725.597418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/coffee-cart-finnish-embassy-more-traction-albanese/107367932",
+      "provider": "ABC News Australia",
+      "title": "A coffee cart and the Finnish embassy gain more traction than Albanese",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5974445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/beau-lamarre-condon-break-up-text-to-jesse-baird-probed/107378442",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon told Baird he 'won't exist' after break-up, trial hears",
+      "status": "pending",
+      "firstSeenAt": 1794486725.597485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/cricket-mitch-marsh-refuses-sandpaper-questions-press-conference/107380282",
+      "provider": "ABC News Australia",
+      "title": "Marsh dodges Sandpapergate questions in testy press conference exchange",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5975726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/kalyn-ponga-stacey-waaka-win-rugby-league-golden-boot-awards/107379252",
+      "provider": "ABC News Australia",
+      "title": "Kiwi duo Ponga and Waaka claim Golden Boot awards after stunning seasons",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5976126,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/football-australia-searches-jordan-alternative-for-socceroos/107379826",
+      "provider": "ABC News Australia",
+      "title": "FA scrambles for Jordan alternative with Socceroos reluctant to travel",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5981932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/royal-commission-big-build-redactions-infrastructure-authority/107376556",
+      "provider": "ABC News Australia",
+      "title": "Victorian Big Build inquiry rebukes agency on redactions",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5983007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/data-centre-industry-butts-up-against-community-challenges/107379250",
+      "provider": "ABC News Australia",
+      "title": "Data centre industry butts up against community challenges",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5983427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/nsw-police-prosecutor-domestic-violence-assault-mz/107379212",
+      "provider": "ABC News Australia",
+      "title": "Ex-wife of police prosecutor tells court of assault just after C-section",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5983844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/stephen-roche-fugitive-hussein-chamas-drug-trafficking-driver/107375264",
+      "provider": "ABC News Australia",
+      "title": "Lawyer argues drug trafficker's driver should be spared more jail time",
+      "status": "pending",
+      "firstSeenAt": 1794486725.5986803,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/man-dies-boy-hospitalisedafter-pulled-from-water-mid-north-coast/107377842",
+      "provider": "ABC News Australia",
+      "title": "Man dies and toddler hospitalised after being pulled from water",
+      "status": "pending",
+      "firstSeenAt": 1794486725.598755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/koonibba-star-observatory-paves-way-for-indigenous-storytelling/107372096",
+      "provider": "ABC News Australia",
+      "title": "Ancient stories in the stars revealed at Indigenous-owned observatory",
+      "status": "pending",
+      "firstSeenAt": 1794486725.599035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-12/schools-drop-senior-drama-subjects-as-students-chase-high-scores/107373436",
+      "provider": "ABC News Australia",
+      "title": "Queensland schools dropping senior drama subjects as enrolments fall",
+      "status": "pending",
+      "firstSeenAt": 1794486725.6000493,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
