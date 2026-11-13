@@ -100434,9 +100434,473 @@
       "status": "pending",
       "firstSeenAt": 1794532323.95183,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgdw24l1kdo",
+      "provider": "BBC",
+      "title": "Firms help migrants pose as artists and tech experts for UK 'Global Talent' visas, BBC finds Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794556486.955364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckn80j9jv3jxo",
+      "provider": "BBC",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU. 6 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9554431,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556486.955707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2l5n07l87vo",
+      "provider": "BBC",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016. 7 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9557405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vgxjevv5v7o",
+      "provider": "BBC",
+      "title": "Ankle injuries are more common than you think - here's how to protect yours Performance physiotherapist Genevieve Taiwah shares her top tips for looking after your ankles. 8 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1794556486.955777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg238zrnm5o",
+      "provider": "BBC",
+      "title": "What we know about the global Microsoft outage Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9562135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cklyw3neqg2wo",
+      "provider": "BBC",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9562333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/c60735md0jrpo",
+      "provider": "BBC",
+      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "status": "pending",
+      "firstSeenAt": 1794556486.956623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck4gnd2pgd06o",
+      "provider": "BBC",
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9566433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62pd078kk7o",
+      "provider": "BBC",
+      "title": "Blink-182 to make Download debut as 2027 festival headliners Evanescence and Bring Me The Horizon will also top the bill at the rock and metal festival.",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9567583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0l38304kjgo",
+      "provider": "BBC",
+      "title": "Two festivals get permission to increase numbers",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9567773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpwgl4rkw02o",
+      "provider": "BBC",
+      "title": "Aphasia group write song about their experiences",
+      "status": "pending",
+      "firstSeenAt": 1794556486.9567957,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y0wrnz9zo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.020469,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c98r7dlj6v2go",
+      "provider": "BBC",
+      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation The BBC exposed how the security service had lied to three courts concerning Agent X. 7 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794556487.0206566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jdmdzv25r9o",
+      "provider": "BBC",
+      "title": "6 Handwritten 200-year-old P45 found on roof tile",
+      "status": "pending",
+      "firstSeenAt": 1794556487.0207891,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3428974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.342919,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3430212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3430395,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3430724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.343091,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3431306,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3431485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3432317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3435938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/germany-expected-to-elect-ilse-aigner-first-female-president",
+      "provider": "The Guardian",
+      "title": "‘The time is ripe’: ex-helicopter engineer poised to be Germany’s first female president",
+      "status": "pending",
+      "firstSeenAt": 1794556487.343691,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3437521,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/indonesia-el-nino-wildfires",
+      "provider": "The Guardian",
+      "title": "‘El Niño turned off the taps’: factors behind Indonesia’s wildfires revealed",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3438034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/13/global-microsoft-outage-what-happened-and-why",
+      "provider": "The Guardian",
+      "title": "A global Microsoft 365 outage has hit millions – what happened and when will it be fixed?",
+      "status": "pending",
+      "firstSeenAt": 1794556487.3438878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-australians-hit/107381378",
+      "provider": "ABC News Australia",
+      "title": "How the Microsoft outage is affecting Australia",
+      "status": "pending",
+      "firstSeenAt": 1794556487.832562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-cost-to-businesses/107381570",
+      "provider": "ABC News Australia",
+      "title": "Outlook outage expected to cost Australian businesses billions of dollars",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8325973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100",
+      "provider": "ABC News Australia",
+      "title": "Top national security adviser warned of Microsoft risks months ago",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8326542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/ex-nsw-liberal-mp-rory-amon-guilty-sexual-assault-13yo-boy/107384336",
+      "provider": "ABC News Australia",
+      "title": "Ex-NSW Liberal MP guilty of raping 13yo boy",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8326945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/david-warner-slams-pat-cummins-over-sandpapergate-denial/107383074",
+      "provider": "ABC News Australia",
+      "title": "David Warner slams Pat Cummins over Sandpapergate denial",
+      "status": "pending",
+      "firstSeenAt": 1794556487.83274,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/pat-cummins-press-conference-sandpaper-civil-war/107382866",
+      "provider": "ABC News Australia",
+      "title": "Cummins hopes his answers ended the sandpaper war. He is sadly mistaken",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8328233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/mahli-beardman-australia-england-first-odi/107384130",
+      "provider": "ABC News Australia",
+      "title": "Australia's next fast bowling star blows England away on ODI debut",
+      "status": "pending",
+      "firstSeenAt": 1794556487.832904,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/beau-lamarre-condon-purchases-searches-prior-to-alleged-murders/107381002",
+      "provider": "ABC News Australia",
+      "title": "Lamarre-Condon pressed on 'lies' as prosecutor claims 'murder plain and simple'",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8329415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/nvidia-scandal-china-spy-network/107381704",
+      "provider": "ABC News Australia",
+      "title": "Nvidia's Jensen Huang scandal brings China's spy networks into view",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8329985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/trump-quest-for-rare-earths-brings-us-closer-to-myanmar-regime/107376926",
+      "provider": "ABC News Australia",
+      "title": "The US has been holding secretive talks with a regime it accused of genocide",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8331387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/arrernte-elder-asks-wheres-respect-anzac-hill-bulldozers/107379928",
+      "provider": "ABC News Australia",
+      "title": "Chief minister says 'we don't have to' consult elders on new build",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8332624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/scramble-for-materials-shelter-gaza-flood-storms/107377866",
+      "provider": "ABC News Australia",
+      "title": "Gazans desperate to create shelter from rubble in 'miserable' conditions",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8333054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/how-best-to-deal-with-weeds/107367100",
+      "provider": "ABC News Australia",
+      "title": "Inexpensive ways to approach weeding your garden",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8333793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/teens-committed-to-trial-over-alleged-murder-of-zdravko-bilic/107383044",
+      "provider": "ABC News Australia",
+      "title": "Teens committed to trial over alleged murder of Sunshine Coast soccer coach",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8338132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/queensland-crawford-trial-november-13/107384256",
+      "provider": "ABC News Australia",
+      "title": "Accused killer allegedly used phone while he said he was sleeping, jury hears",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8338408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/michael-john-davis-fined-2025-stieglitz-bushfire/107383010",
+      "provider": "ABC News Australia",
+      "title": "Man who burned shoebox of tax records fined for resulting bushfire",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8338854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/jury-unable-to-make-decision-in-busselton-murder-trial/107373662",
+      "provider": "ABC News Australia",
+      "title": "Hung jury in trial of man accused of Busselton 'love triangle' murder",
+      "status": "pending",
+      "firstSeenAt": 1794556487.833912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/backpacker-working-holiday-visa-immigration-uk-rethink/107381884",
+      "provider": "ABC News Australia",
+      "title": "Government back to the drawing board on backpacker crackdown",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8340697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804",
+      "provider": "ABC News Australia",
+      "title": "Coal protest to go ahead on harbour after court rejects police objections",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8341146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/tasmanian-data-centres-to-run-own-community-benefit-fund/107383452",
+      "provider": "ABC News Australia",
+      "title": "AI data centres to self-administer funds in Tasmanian community deal",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8341575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/binna-burra-lodge-welcomes-guests-after-seven-year-rebuild/107373152",
+      "provider": "ABC News Australia",
+      "title": "Historic lodge destroyed in blaze reopens after seven-year rebuild",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8341997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/lorikeets-wipe-out-perth-cherry-orchard/107383644",
+      "provider": "ABC News Australia",
+      "title": "'They absolutely destroy a cherry': Lorikeets wipe out Perth orchard",
+      "status": "pending",
+      "firstSeenAt": 1794556487.834268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/locusts-wreak-havoc-across-south-australia-pastoral-land/107381398",
+      "provider": "ABC News Australia",
+      "title": "Locusts wreaking havoc across South Australia's pastoral land",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8343098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/kalyn-ponga-reece-walsh-australia-new-zealand-golden-boot/107381702",
+      "provider": "ABC News Australia",
+      "title": "The Rugby League World Cup final should have solved the Golden Boot battle",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8343472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/atsb-preliminary-report-bob-bramley-nt-plane-crash/107379616",
+      "provider": "ABC News Australia",
+      "title": "ATSB releases preliminary report into young pilot's NT crash",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8343892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/two-arrested-over-town-square-copper-theft/107383072",
+      "provider": "ABC News Australia",
+      "title": "Police arrest two men behind nine-day copper theft heist",
+      "status": "pending",
+      "firstSeenAt": 1794556487.834544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/nt-teenager-seeks-bail-youth-court-terror-charges/107380412",
+      "provider": "ABC News Australia",
+      "title": "NT teenage girl charged with terror offence makes bid for bail",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8345728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/isa-critical-minerals-hub-government-backing/107379288",
+      "provider": "ABC News Australia",
+      "title": "Mount Isa's $145 million critical minerals pitch one step closer",
+      "status": "pending",
+      "firstSeenAt": 1794556487.834711,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/hoda-afshar-exhibition-a-part-buxton-contemporary-melbourne/107377504",
+      "provider": "ABC News Australia",
+      "title": "Award-winning photographer lets once-incarcerated teens tell their own story",
+      "status": "pending",
+      "firstSeenAt": 1794556487.8357546,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
