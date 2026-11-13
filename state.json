@@ -99898,9 +99898,545 @@
       "status": "pending",
       "firstSeenAt": 1794514769.8302307,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o",
+      "provider": "BBC",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9296985,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3egjgvp794o",
+      "provider": "BBC",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over? The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back. 51 mins ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1794532322.92978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5gm3g9ldz8xo",
+      "provider": "BBC",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\". 5 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9298108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cwq6e4y9525mo",
+      "provider": "BBC",
+      "title": "'Wrong' and 'nonsense' - Cummins on Khawaja claims Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”. 13 mins ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1794532322.929841,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c30rkwpxdx50o",
+      "provider": "BBC",
+      "title": "Was Delhi pollution data during Diwali misleading? BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be. 16 hrs ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9302433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck7v25pp19m8o",
+      "provider": "BBC",
+      "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault. 56 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9302711,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8kgkw7dr5rko",
+      "provider": "BBC",
+      "title": "Five new miniature frog species found in eastern Himalayas Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape. 14 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1794532322.930337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250404-fur-is-back-in-fashion-and-even-more-divisive",
+      "provider": "BBC",
+      "title": "Fur is back in fashion - and even more divisive It's having a moment with celebrities and Gen Z. But wearing any kind of fur, from vintage to faux, poses some difficult questions. Could a new plant-based variety be the way forward?",
+      "status": "pending",
+      "firstSeenAt": 1794532322.930443,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqly4ljvr4pjo",
+      "provider": "BBC",
+      "title": "A 'really complicated job': Why midterm votes counting is taking so long in America's largest state Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9307888,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckregjwr7njqo",
+      "provider": "BBC",
+      "title": "Sydney Swans players will not be charged after hotel incident, police say Four players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9308908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgk0w34lkpo",
+      "provider": "BBC",
+      "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+      "status": "pending",
+      "firstSeenAt": 1794532322.930915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxj0lvqpn94qo",
+      "provider": "BBC",
+      "title": "Where does Kane rank among all-time England greats?",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9314218,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6e9kjne5y8vo",
+      "provider": "BBC",
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "status": "pending",
+      "firstSeenAt": 1794532322.931447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cr3wgp8e2ljxo",
+      "provider": "BBC",
+      "title": "Grealish apologises for absence after breach of discipline",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9314709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqly4lnxn031o",
+      "provider": "BBC",
+      "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "status": "pending",
+      "firstSeenAt": 1794532322.931609,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq36gngnk09do",
+      "provider": "BBC",
+      "title": "Bond producer first female president of film school",
+      "status": "pending",
+      "firstSeenAt": 1794532322.9316723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe8r8ngjepjo",
+      "provider": "BBC",
+      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0499024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c0re545l8jdo",
+      "provider": "BBC",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "status": "pending",
+      "firstSeenAt": 1794532323.04993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69vzv93744po",
+      "provider": "BBC",
+      "title": "Victorian gasworks turned into heat pump network",
+      "status": "pending",
+      "firstSeenAt": 1794532323.049956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq4n5xq572o",
+      "provider": "BBC",
+      "title": "Rescuer admits defeat in battle to keep Harriet the badger",
+      "status": "pending",
+      "firstSeenAt": 1794532323.049981,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckzd9p0lj815o",
+      "provider": "BBC",
+      "title": "8 hrs ago Animal owners call for more firework restrictions One sheep farmer says their animal was singed by what was thought to be firework rocket remnants. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0501995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9305305lv8o",
+      "provider": "BBC",
+      "title": "10 hrs ago Cow rescued after falling into swimming pool It is believed the cow wandered into the garden and then walked on to the pool cover which gave way. 10 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0502276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cgewp315480o",
+      "provider": "BBC",
+      "title": "13 hrs ago Young people feel 'hopeless' about climate change With a record summer this year in the UK, many people may be feeling anxious about climate change. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0502565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg46y7wev42o",
+      "provider": "BBC",
+      "title": "14 hrs ago Burnham says climate consensus 'gone' but pledges 'new era of leadership' PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey. 14 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0502844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wzv2vqgxvo",
+      "provider": "BBC",
+      "title": "19 hrs ago Art trail celebrates arrival of black bears at zoo Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0503128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgev3ldl9ro",
+      "provider": "BBC",
+      "title": "19 hrs ago 'Summer was a wake-up call, winter could be dire' warning over food supplies Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0503414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6gqx23levzwo",
+      "provider": "BBC",
+      "title": "1 day ago Butterfly's 900% boom as larvae 'turbo-charged' The number of Wood Whites spotted in area where it has been reintroduced rockets from 73 to 746. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0503874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwj3k5jvne78o",
+      "provider": "BBC",
+      "title": "2 days ago Heatwaves predicted to cost London £25bn in decade Mayor Lord Khan will ask global leaders at COP31 to do more to tackle extreme temperatures. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.050437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwnv0v8nr0dqo",
+      "provider": "BBC",
+      "title": "2 days ago New seasonal path gives access to seal spectacle It is designed to protect pups at Donna Nook Nature Reserve, near Louth, during breeding season. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0504653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn8w8n5ynq2o",
+      "provider": "BBC",
+      "title": "2 days ago Bid to restore rare Atlantic rainforest secures £6m lottery grant Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0504928,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c83vqv241zdlo",
+      "provider": "BBC",
+      "title": "2 days ago Duck attackers expose their bottoms to volunteer The three men were seen throwing objects at the ducks before the patrol volunteer stopped them. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0505254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw23d3xx833eo",
+      "provider": "BBC",
+      "title": "2 days ago Dog gatecrashes wedding as bride and groom watch on Simon and Amy were about to tie the knot when a passing Jack Russell interrupted the wedding 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794532323.0505528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3869019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3870606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3871024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3871918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3875666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.387589,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.387611,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.387634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.387777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3877995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3878212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/leonardo-bertulazzi-escape-argentina",
+      "provider": "The Guardian",
+      "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3879275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/indonesia-vice-president-diploma-resignation-explained",
+      "provider": "The Guardian",
+      "title": "Did Indonesia’s vice-president just resign because he didn’t have a high school diploma?",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3879688,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit",
+      "provider": "The Guardian",
+      "title": "Pope Leo gets rapturous welcome in Peru: ‘This visit is like a big party’",
+      "status": "pending",
+      "firstSeenAt": 1794532323.3880486,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+      "provider": "ABC News Australia",
+      "title": "Microsoft begins restoring services, 'gradual recovery' expected",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9486449,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-teams-outlook-copilot/107381196",
+      "provider": "ABC News Australia",
+      "title": "'No indication' Outlook outage caused by cyber attack, Microsoft says",
+      "status": "pending",
+      "firstSeenAt": 1794532323.948798,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/sydney-swans-players-cleared-by-police-over-pullman/107372082",
+      "provider": "ABC News Australia",
+      "title": "Sydney Swans players will not face charges over sex assault investigation",
+      "status": "pending",
+      "firstSeenAt": 1794532323.948872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096",
+      "provider": "ABC News Australia",
+      "title": "Cummins says Khawaja's ball-tampering claims '100 per cent wrong'",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9489322,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770",
+      "provider": "ABC News Australia",
+      "title": "Cummins hits out at Khawaja in passionate hour-long press conference",
+      "status": "pending",
+      "firstSeenAt": 1794532323.949078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/teen-william-recovers-in-hospital-after-six-days-lost-in-bush/107381438",
+      "provider": "ABC News Australia",
+      "title": "Teen missing for six days recounts ordeal from hospital",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9493124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/beau-lamarre-condon-trial-live-blog-cross-examination-friday/107379430",
+      "provider": "ABC News Australia",
+      "title": "Beau Lamarre-Condon says phone and car tracing questions were for work",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9496171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368",
+      "provider": "ABC News Australia",
+      "title": "ASX down, Nvidia shares tumble after CEO Jensen Huang's exit",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9496539,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/victoria-election-campaign-live-blog-november-13/107381434",
+      "provider": "ABC News Australia",
+      "title": "Victorian election campaign rolls on as parties appeal to regions",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9498696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/ben-miller-actor-common-thread-to-career-austin/107367222",
+      "provider": "ABC News Australia",
+      "title": "From Paddington to physics, there's a common thread to Ben Miller's career",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9499063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/fifo-bare-minimum-standards-not-being-enforced/107341422",
+      "provider": "ABC News Australia",
+      "title": "Advocates warn FIFO standards are slipping on mine sites",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9505768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/australian-green-steel-race/107378754",
+      "provider": "ABC News Australia",
+      "title": "Race to Australia's first green steel entering final stages",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9506214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/first-trees-felled-in-adelaide-parklands-for-motogp-circuit/107381082",
+      "provider": "ABC News Australia",
+      "title": "Celebrity chef says tree chop in Adelaide parklands 'inexcusable'",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9508922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/queensland-supercell-thunderstorm-explainer/107378700",
+      "provider": "ABC News Australia",
+      "title": "Why do supercell thunderstorms form and what makes them so dangerous?",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9510064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/hegseth-awards-soldier-who-scolded-him/107381222",
+      "provider": "ABC News Australia",
+      "title": "Hegseth gives top award to soldier who scolded him at war cemetery",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9511127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/high-regional-airfares-hurting-country-patients-wa/107379642",
+      "provider": "ABC News Australia",
+      "title": "Skyrocketing regional airfares hurting patients needing specialist care",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9511676,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/anthony-albanese-middle-arm-royal-darwin-hospital-funding-letter/107379440",
+      "provider": "ABC News Australia",
+      "title": "PM urged to redirect funding for gas hub to new Royal Darwin Hospital",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9513862,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/snail-farm-otways-french-lean-protein-restaurant-supply/107353084",
+      "provider": "ABC News Australia",
+      "title": "Victorian woman aims to grow 300,000 snails for restaurants",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9514327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/victorian-farmers-spared-emergency-services-levy-hike/107379618",
+      "provider": "ABC News Australia",
+      "title": "Victorian farmers spared emergency services levy hike",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9516587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/hyperfest-youth-hq-perth-young-live-music-audience-festivals/107349954",
+      "provider": "ABC News Australia",
+      "title": "Youth music scene concerned as popular venue flagged for demolition",
+      "status": "pending",
+      "firstSeenAt": 1794532323.9517233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-13/giant-corpse-flower-about-to-bloom-in-geelong/107378284",
+      "provider": "ABC News Australia",
+      "title": "Giant corpse flower 'Pete' set to bloom in regional Victoria",
+      "status": "pending",
+      "firstSeenAt": 1794532323.95183,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
