@@ -101450,9 +101450,537 @@
       "status": "pending",
       "firstSeenAt": 1794584730.830591,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxzd9171m51qo",
+      "provider": "BBC",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech Microsoft has apologised for the issue, which it said was due to a technical failure. 24 mins ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4992712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jd75geegzyo",
+      "provider": "BBC",
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening. 7 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4992974,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq39glwprknjo",
+      "provider": "BBC",
+      "title": "Analysis: Uncompromising Putin ups demands for peace with Ukraine The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says. 5 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4993153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9mlldgpgjo",
+      "provider": "BBC",
+      "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4993315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckregdgnl0xpo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.499585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmr4gx6d9vp0o",
+      "provider": "BBC",
+      "title": "Black Mississippians celebrate a victory almost no one saw coming Scott Colom is the first black man to sit in the Senate for Mississippi in 145 years. 4 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4996207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwg7l8n7dx5mo",
+      "provider": "BBC",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer. 3 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4996705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy4930jq749o",
+      "provider": "BBC",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4996872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20250424-how-aldrich-ames-became-the-uss-most-damaging-double-agent",
+      "provider": "BBC",
+      "title": "The most damaging double agent in US history The CIA officer, who has died, aged 84, sold secrets to the Soviet Union, leading to the deaths of at least 10 Western agents. In 1994, the BBC spoke to one of the spies Aldrich Ames betrayed.",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4997268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4gn0ky2pgdo",
+      "provider": "BBC",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "status": "pending",
+      "firstSeenAt": 1794606009.499955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp9d58eldlro",
+      "provider": "BBC",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "status": "pending",
+      "firstSeenAt": 1794606009.4999785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqz0k4e00v0mo",
+      "provider": "BBC",
+      "title": "Ronaldinho, 46, to play first game since 2015",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5002613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
+      "provider": "BBC",
+      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5002797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm3gn4k7dno",
+      "provider": "BBC",
+      "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5003712,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx2emg4xe72o",
+      "provider": "BBC",
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5003846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn70yjnvgn3o",
+      "provider": "BBC",
+      "title": "Jilly Cooper memorial bench unveiled at racecourse",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5003965,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rrg51rkz09o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.555918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg2d1eg7zro",
+      "provider": "BBC",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\". 2 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5559564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62p32k90wyo",
+      "provider": "BBC",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient The UK is seeing impressive growth, but will it last?",
+      "status": "pending",
+      "firstSeenAt": 1794606009.556359,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3rgd429zd5o",
+      "provider": "BBC",
+      "title": "UK economy grows at fastest rate for more than two years ﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "status": "pending",
+      "firstSeenAt": 1794606009.5563867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6468315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6468585,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6468713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6470542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.647066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6470778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6470912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6471033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6471508,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6471734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6471846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
+      "provider": "The Guardian",
+      "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6473687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+      "provider": "The Guardian",
+      "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6473846,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/nov/13/late-night-roundup-kimmel-meyers-trump-huang-hegseth",
+      "provider": "The Guardian",
+      "title": "Jimmy Kimmel on Trump accusing Democrats of wrongdoing: ‘His mantra is corruption’",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6474373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
+      "provider": "The Guardian",
+      "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+      "status": "pending",
+      "firstSeenAt": 1794606009.6474516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540",
+      "provider": "ABC News Australia",
+      "title": "Microsoft 'deeply sorry' for global outage, reports 'broad recovery' of services",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7904725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/microsoft-outage-and-cloud-providers-tech-risk-in-australia/107383316",
+      "provider": "ABC News Australia",
+      "title": "Australia must develop digital resilience, experts warn, but it will cost",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7904978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702",
+      "provider": "ABC News Australia",
+      "title": "US aviation administration orders grounding of all flights",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7905428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/universal-medicine-cult-registered-health-professionals/107313996",
+      "provider": "ABC News Australia",
+      "title": "Registered psychologist accused of recruiting for Universal Medicine cult",
+      "status": "pending",
+      "firstSeenAt": 1794606009.790578,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/how-nvidia-scandal-could-undermine-ai-boom-verrender/107382722",
+      "provider": "ABC News Australia",
+      "title": "Why you will pay for Jensen Huang's indiscretions",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7906125,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/government-floundering-albanese-salad-days-wilted/107382680",
+      "provider": "ABC News Australia",
+      "title": "Albanese's salad days have wilted into a long list of woe",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7906466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/lightning-ridge-battles-for-true-opal-mining-history/107212872",
+      "provider": "ABC News Australia",
+      "title": "Town where dust never settles over 'true' history of elusive black opals",
+      "status": "pending",
+      "firstSeenAt": 1794606009.790679,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/beau-lamarre-condon-murder-trial-cross-examination/107384268",
+      "provider": "ABC News Australia",
+      "title": "‘Murder plain and simple’ or manslaughter? Lamarre-Condon’s court grilling",
+      "status": "pending",
+      "firstSeenAt": 1794606009.790743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/tanker-collides-with-cruise-ship-new-orleans/107385650",
+      "provider": "ABC News Australia",
+      "title": "Tanker and cruise ship collide in the US",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7907753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/sydney-swans-culture-review-shows-saga-not-over/107384692",
+      "provider": "ABC News Australia",
+      "title": "Police are done with the Swans, but the saga is far from over",
+      "status": "pending",
+      "firstSeenAt": 1794606009.790882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510",
+      "provider": "ABC News Australia",
+      "title": "Trump to rule on tariffs for Australian lamb after trade commissioners disagree",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7909145,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/cop31-35-by-35-climate-change-target/107384386",
+      "provider": "ABC News Australia",
+      "title": "As the world's calamities converge climate talks tread water",
+      "status": "pending",
+      "firstSeenAt": 1794606009.790946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/big-build-cfmeu-royal-commission-gap-road-hearings/107385614",
+      "provider": "ABC News Australia",
+      "title": "The moment Melbourne builders were made to 'bend the knee' to the CFMEU",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7909782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/found-teenager-william-survival-instincts/107385646",
+      "provider": "ABC News Australia",
+      "title": "Missing teen 'kept his wits' in the bush and saved his own life",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7910106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/boots-riley-interview-trump-unions-i-love-boosters/107377408",
+      "provider": "ABC News Australia",
+      "title": "Boots Riley is ready for the working class to rise up",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7910533,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/abc-5050-quiz/107381088",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Testing your knowledge of 90s Aussie bands and cat people vs dog people",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7910953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/three-artworks-to-see-clarice-beckett/107335304",
+      "provider": "ABC News Australia",
+      "title": "The must-see artworks at the Clarice Beckett exhibition",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7911441,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/tasmanian-volunteers-find-flightless-pandani-moth/107354720",
+      "provider": "ABC News Australia",
+      "title": "Tracking down Tasmania's rare, flightless pandani moth",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7914119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/act-mother-maiden-crone-exhibition-national-portrait-gallery/107383094",
+      "provider": "ABC News Australia",
+      "title": "Exhibition celebrating 'unbridled messiness' of womanhood opens in Canberra",
+      "status": "pending",
+      "firstSeenAt": 1794606009.791439,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/electric-trailers-cut-diesel-costs/107377776",
+      "provider": "ABC News Australia",
+      "title": "Battery-powered trailers could slash diesel costs for truck operators",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7914722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/analysis-salmon-industry-impact-fisheries-antibiotics/107383076",
+      "provider": "ABC News Australia",
+      "title": "Is Tasmania's salmon industry willing to 'play by the rules'?",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7915075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
+      "provider": "ABC News Australia",
+      "title": "Australia, Philippines to ink defence deal amid South China Sea tensions",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7915392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/six-more-women-accuse-russell-brand-of-sexual-offences/107385408",
+      "provider": "ABC News Australia",
+      "title": "Six more women accuse Russell Brand of sexual offences",
+      "status": "pending",
+      "firstSeenAt": 1794606009.79159,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/uk-police-launch-investigation-into-david-walliams/107385506",
+      "provider": "ABC News Australia",
+      "title": "UK police launch investigation into children's author David Walliams",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7916224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/pattern-book-homes-near-completion-in-corrimal/107383868",
+      "provider": "ABC News Australia",
+      "title": "Homes with architectural designs that cost just $1 near completion",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7916882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/sport-carter-gordon-returns-as-wallabies-look-to-bounce-back-aga/107385576",
+      "provider": "ABC News Australia",
+      "title": "Wallabies ring changes ahead of Scotland Test",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7918272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/socceroos-crush-qatar/107385558",
+      "provider": "ABC News Australia",
+      "title": "Socceroos crush Qatar in Doha demolition",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7918572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/victoria-largest-bushfire-black-thursday-1851/106472898",
+      "provider": "ABC News Australia",
+      "title": "How 1851's Black Thursday helped shape Victoria",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7918866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/victoria-2026-state-election-independent-party-explainer/107342014",
+      "provider": "ABC News Australia",
+      "title": "Your guide to minor parties in the 2026 Victorian state election",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7919216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/brisbane-aircraft-noise-airservices-australia-consultation/107371844",
+      "provider": "ABC News Australia",
+      "title": "Switching runways, flying higher proposed in bid to reduce Brisbane aircraft noise",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7919514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/nsw-farmers-harvest-after-dry-start-to-season/107356750",
+      "provider": "ABC News Australia",
+      "title": "NSW growers reveal the tough calls made before this year's harvest",
+      "status": "pending",
+      "firstSeenAt": 1794606009.7920213,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
