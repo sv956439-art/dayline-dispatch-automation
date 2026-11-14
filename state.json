@@ -101978,9 +101978,409 @@
       "status": "pending",
       "firstSeenAt": 1794606009.7920213,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw20xmy0m5yyo",
+      "provider": "BBC",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8971837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1exevgql4qo",
+      "provider": "BBC",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade. 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794620735.897244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq99e0z4vg1eo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8977127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm98xy2j8k1ko",
+      "provider": "BBC",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel. 3 hrs ago Football",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8978608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260423-the-wealthy-english-heiress-who-stole-art-for-the-ira",
+      "provider": "BBC",
+      "title": "The English heiress who masterminded 'one of the largest art heists in history' Rose Dugdale rejected her privileged background and joined the IRA. In April 1974, reported the BBC, she took part in \"one of the largest art heists in history\".",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8979335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20260522-the-tragic-story-of-martha-mitchell",
+      "provider": "BBC",
+      "title": "Watergate whistleblower Martha Mitchell was gaslit and ridiculed. She was right Martha Mitchell was a flamboyant Washington socialite whose husband was embroiled in the Watergate scandal. Her shocking claims of a \"dirty business\" were dismissed as delusional.",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8979628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20251107-the-tragic-murder-of-forgotten-us-president-james-garfield",
+      "provider": "BBC",
+      "title": "The tragic murder of a forgotten US president In the late 19th Century, James Garfield promised progress and reform – but four months after his inauguration he was shot. New series Death by Lightning explores his life and legacy.",
+      "status": "pending",
+      "firstSeenAt": 1794620735.897994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwm2mn272nqlo",
+      "provider": "BBC",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion? Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "status": "pending",
+      "firstSeenAt": 1794620735.898416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlydy0xw45wo",
+      "provider": "BBC",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "status": "pending",
+      "firstSeenAt": 1794620735.898442,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jd7k5ryl1mo",
+      "provider": "BBC",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6 The next title in the series is expected to be the biggest video game release ever.",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8986254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr894ln9kk04o",
+      "provider": "BBC",
+      "title": "Are we too reliant on big tech companies?",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8986497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c85y13pv69xwo",
+      "provider": "BBC",
+      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino? What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8990045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqm2j810r2m2o",
+      "provider": "BBC",
+      "title": "France hold nerve to edge past South Africa in thriller",
+      "status": "pending",
+      "firstSeenAt": 1794620735.899034,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6y0xl71w2r4o",
+      "provider": "BBC",
+      "title": "Tough watch as Scotland again battle against their own limitations",
+      "status": "pending",
+      "firstSeenAt": 1794620735.899061,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cw30gl912vq9o",
+      "provider": "BBC",
+      "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8990874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn70lz71lg8o",
+      "provider": "BBC",
+      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry? These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8992367,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmgwkv7kjxo",
+      "provider": "BBC",
+      "title": "'I never thought I'd make it as an actor but now I'm up for a Bafta'",
+      "status": "pending",
+      "firstSeenAt": 1794620735.8992617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gn5p1vykgo",
+      "provider": "BBC",
+      "title": "6 hrs ago How Microsoft outage affected South East NHS trusts, councils and police South East Coast Ambulance Service says its 999 and 111 services remained fully operational. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.9995337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1j6d8x7rjjo",
+      "provider": "BBC",
+      "title": "8 hrs ago Hospital disruption easing after Microsoft outage Hospital trusts in Bristol, Gloucestershire, Somerset and Wiltshire are issuing guidance to patients. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.9996066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgqx8l7ngqlo",
+      "provider": "BBC",
+      "title": "9 hrs ago Global Microsoft outage affects NI schools, councils and other services The outage started on Thursday, with monitoring website Downdetector seeing problems reported in more than 70 countries. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.999636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m2lywnpmy7o",
+      "provider": "BBC",
+      "title": "10 hrs ago Guernsey: Microsoft outage causes disruption The States of Guernsey and Aurigny said they were affected by the global outage. 10 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.9996655,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkg52ekg1zeo",
+      "provider": "BBC",
+      "title": "10 hrs ago Wales' public services impacted by global Microsoft outage Schools, GPs and businesses across the globe have been hit with the outage affecting Outlook and Teams. 10 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.999694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe87d47598eo",
+      "provider": "BBC",
+      "title": "10 hrs ago How Microsoft outage is affecting police, airports and hospitals in the north-west of England Hospital emails, police reporting systems, airports corporate teams and university services are affected. 10 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.999723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg2ljjpj32o",
+      "provider": "BBC",
+      "title": "12 hrs ago NHS, schools and police forces hit by Microsoft outage Major airports and intelligence services are unaffected, while the government is still assessing the impact. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.9997516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw0k6je4vr1xo",
+      "provider": "BBC",
+      "title": "12 hrs ago Microsoft outage: Yorkshire councils and police hit The issue has meant councils, police services and many NHS services have no access to emails. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.9997988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv1j6d9kg98po",
+      "provider": "BBC",
+      "title": "13 hrs ago Manx government systems hit by Microsoft outage People on the Isle of Man are urged to telephone or visit public counters as email systems are down. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794620735.9998298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2705355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2705615,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2706764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2708304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2712932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2713163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2713387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+      "provider": "The Guardian",
+      "title": "double quotation mark What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2716956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/nov/14/can-porn-help-save-tasmania-rainforests-kirsha-kaechele-onlyferns",
+      "provider": "The Guardian",
+      "title": "Can pornography help save Tasmania’s rainforests? Kirsha Kaechele hopes so",
+      "status": "pending",
+      "firstSeenAt": 1794620736.2717886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742",
+      "provider": "ABC News Australia",
+      "title": "Aussies stranded in US airports as more than 10,000 flights disrupted",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6440036,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
+      "provider": "ABC News Australia",
+      "title": "Questions left to answer in wake of Huang's departure",
+      "status": "pending",
+      "firstSeenAt": 1794620736.644922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/missed-opportunities-floreat-shooting-inquest-jennifer-petelczyc/107384594",
+      "provider": "ABC News Australia",
+      "title": "Litany of missed opportunities in Floreat murder tragedy",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6449828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674",
+      "provider": "ABC News Australia",
+      "title": "Australian cricket urged to stop 'eating itself' as Sandpapergate rolls on",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6450408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/wa-police-serious-incident-keysbrook-perth/107386030",
+      "provider": "ABC News Australia",
+      "title": "Major police incident south of Perth, public urged to stay away",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6458697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964",
+      "provider": "ABC News Australia",
+      "title": "Albanese and Bowen in hot mic gaffe at COP31",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6458962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/youth-olympic-games-2026-senegal-six-medals/107385766",
+      "provider": "ABC News Australia",
+      "title": "Australia wins six Youth Olympics medals as African Games hailed",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6459682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/remote-flight-prices-nt-bands-yothu-yindi-king-stingray-touring/107381634",
+      "provider": "ABC News Australia",
+      "title": "Regional bands say it's now cheaper to do a gig in London than interstate",
+      "status": "pending",
+      "firstSeenAt": 1794620736.646014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/jags-krishnan-don-punch-woes-distract-wa-government/107382896",
+      "provider": "ABC News Australia",
+      "title": "Rope barriers at parliament round out prickly week for government",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6460595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/former-nt-administrator-hugh-heggie-on-being-groomed-as-a-child/107372262",
+      "provider": "ABC News Australia",
+      "title": "At 14, Hugh Heggie's youth group drive-in trip took a dark turn",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6462271,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/qld-cfmeu-inquiry-report-analysis/107377580",
+      "provider": "ABC News Australia",
+      "title": "Qld's CFMEU inquiry has delivered a sobering warning ahead of 2032 Olympics",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6465256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/wheelchair-rugby-league-athletes/107378686",
+      "provider": "ABC News Australia",
+      "title": "'Playing with injury' par for course at Wheelchair Rugby League World Cup",
+      "status": "pending",
+      "firstSeenAt": 1794620736.646649,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/blueberry-grower-looks-to-ai-and-automation-worker-shortages/107373922",
+      "provider": "ABC News Australia",
+      "title": "Family-run berry farm looks to AI and automation to ease workforce challenges",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6468844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/melbourne-crime-fears-challenge-liveability-reputation/107381360",
+      "provider": "ABC News Australia",
+      "title": "Melbourne's 'liveable city' reputation questioned after fatal stabbing",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6469743,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/annual-eastern-bird-survey-monitors-bird-flu-impacts/107372532",
+      "provider": "ABC News Australia",
+      "title": "Bird experts cover 38,000km looking for signs of H5 bird flu",
+      "status": "pending",
+      "firstSeenAt": 1794620736.6472678,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
