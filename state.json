@@ -103210,9 +103210,241 @@
       "status": "pending",
       "firstSeenAt": 1794685217.4688745,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmkg57rz2re9o",
+      "provider": "BBC",
+      "title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time. 4 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1794698555.3443093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20260225-the-nostalgic-winter-drink-dividing-germany",
+      "provider": "BBC",
+      "title": "The nostalgic winter drink dividing Germany The Lumumba cocktail is one of Northern Europe's most popular winter drinks, but its name – borrowed from a Congolese politician – is now sparking a cultural controversy.",
+      "status": "pending",
+      "firstSeenAt": 1794698555.344373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe89y2r5j20o",
+      "provider": "BBC",
+      "title": "New Orleans port sues tanker owners over cruise ship collision for $1m All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision.",
+      "status": "pending",
+      "firstSeenAt": 1794698555.344544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cq0l3pn5z20xo",
+      "provider": "BBC",
+      "title": "Comeback kid Joseph thrills as England eye All Blacks Will Joseph's comeback after four years off the Test scene was worth waiting for. And there was plenty elsewhere to buoy England in a rout of Japan.",
+      "status": "pending",
+      "firstSeenAt": 1794698555.3448596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/ck5y1xdrne28o",
+      "provider": "BBC",
+      "title": "Nerveless Andreeva reaches WTA Finals showpiece",
+      "status": "pending",
+      "firstSeenAt": 1794698555.3448958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm93rple92pno",
+      "provider": "BBC",
+      "title": "Lodge used as holiday home for 12 years without planning permission",
+      "status": "pending",
+      "firstSeenAt": 1794698555.415763,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794698555.5689497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794698555.569321,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
+      "provider": "The Guardian",
+      "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+      "status": "pending",
+      "firstSeenAt": 1794698555.5695171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit",
+      "provider": "The Guardian",
+      "title": "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
+      "status": "pending",
+      "firstSeenAt": 1794698555.5695446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
+      "provider": "The Guardian",
+      "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
+      "status": "pending",
+      "firstSeenAt": 1794698555.5695775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/nsw-bondi-terror-attack-hero-ahmed-al-ahmed-one-year-on/107379802",
+      "provider": "ABC News Australia",
+      "title": "Bondi terror attack hero Ahmed Al Ahmed left with permanent disability",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3801239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/annabel-crabb-international-mens-day-russell-brand/107383138",
+      "provider": "ABC News Australia",
+      "title": "The parade of high-profile men doing wrong is getting exhausting",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3801906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/youth-unemployment-could-rise-as-economy-softens/107382888",
+      "provider": "ABC News Australia",
+      "title": "A slowing economy could mean higher youth unemployment, economist warns",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3803403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
+      "provider": "ABC News Australia",
+      "title": "SpaceX rocket orbits Earth then returns to launch pad in breakthrough for Musk",
+      "status": "pending",
+      "firstSeenAt": 1794698556.380371,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/qld-woman-gives-birth-to-surrogate-baby/107350062",
+      "provider": "ABC News Australia",
+      "title": "Nurse offers 'out of the blue' to have surrogate baby for colleague",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3804207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/eurovision-asia-2026-song-contest-debuts-in-bangkok-thailand/107381792",
+      "provider": "ABC News Australia",
+      "title": "Philippines wins Eurovision Asia, making history",
+      "status": "pending",
+      "firstSeenAt": 1794698556.380451,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094",
+      "provider": "ABC News Australia",
+      "title": "All Blacks suffer 73-year first in defeat to Wales",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3805158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/love-story-kirsty-was-untouchable-then-she-gave-amber-a-rose/107354952",
+      "provider": "ABC News Australia",
+      "title": "How distance and old-fashioned phone calls grew love for Amber and Kirsty",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3805466,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/cwa-light-fruit-cake-recipe-of-the-year/107300580",
+      "provider": "ABC News Australia",
+      "title": "This CWA light fruit cake is a slice of Australian baking history",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3806188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-22/thousands-of-us-flights-disrupted-as-cable-is-cut/107179606",
+      "provider": "ABC News Australia",
+      "title": "US flights in chaos as communications fail and cable accidentally cut",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3807154,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/exmouth-gascoyne-gateway-deep-sea-port-proposal-sparks-backlash/107382166",
+      "provider": "ABC News Australia",
+      "title": "Author Tim Winton says Exmouth wrong place for a port",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3808613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/ellie-carpenter-helps-chelsea-get-win-over-mary-fowler-man-city/107387146",
+      "provider": "ABC News Australia",
+      "title": "Carpenter leads Chelsea to victory against Manchester City",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3809044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008",
+      "provider": "ABC News Australia",
+      "title": "Ocean that once covered Flinders Ranges preserved Earth's earliest life",
+      "status": "pending",
+      "firstSeenAt": 1794698556.380947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/qld-dinosaur-footprints-sandstone-buildings/107370156",
+      "provider": "ABC News Australia",
+      "title": "Brisbane buildings made from sandstone touched by dinosaurs",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3809884,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/victorian-election-disillusionment-optimism-young-voters/107319232",
+      "provider": "ABC News Australia",
+      "title": "Young Victorian voters torn between disillusionment, optimism",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3811224,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/victorian-election-big-issues-crime-rate-focus-mental-health/107384002",
+      "provider": "ABC News Australia",
+      "title": "Questions remain whether Victoria's election is tackling the big issues",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3811522,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/open-source-ai-like-nazi-coach-un-backed-anti-terror-group-says/107368512",
+      "provider": "ABC News Australia",
+      "title": "Open-source AI like 'a Nazi coach', UN-backed anti-terror group says",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3812504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/madison-hoffman-fis-world-cup-levi-eighth-place-slalom/107387056",
+      "provider": "ABC News Australia",
+      "title": "Hoffman delivers best Alpine World Cup finish in 27 years",
+      "status": "pending",
+      "firstSeenAt": 1794698556.3813457,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
