@@ -102378,9 +102378,281 @@
       "status": "pending",
       "firstSeenAt": 1794620736.6472678,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz74jzpy18do",
+      "provider": "BBC",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0757875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2wyvyr3zzo",
+      "provider": "BBC",
+      "title": "What we know about the US ground stop and what to do if you're affected US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0764613,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdr1j4z66lgo",
+      "provider": "BBC",
+      "title": "Harris asks politicians for feedback on Irish unity 'blueprint' Simon Harris' party Fine Gael published proposals on how to prepare for Irish unity last week.",
+      "status": "pending",
+      "firstSeenAt": 1794643425.076532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c59vwpv4rxjeo",
+      "provider": "BBC",
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0769067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/c9ly4lerj8m3o",
+      "provider": "BBC",
+      "title": "England boxer missed Worlds over sex-test mix-up",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0769243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm20v67jp0ezo",
+      "provider": "BBC",
+      "title": "The rare guitar that starred on U2's defining album How the Bond Electraglide, played by the Edge on the Joshua Tree, was invented in Dorset.",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0770352,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm04w9evwlrpo",
+      "provider": "BBC",
+      "title": "Film aims to show 'Christmas isn't all tinsel and gingerbread'",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0770528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65y1jjlq1qjo",
+      "provider": "BBC",
+      "title": "Why so much love between Ireland and Garth Brooks?",
+      "status": "pending",
+      "firstSeenAt": 1794643425.0770693,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c962y743y458o",
+      "provider": "BBC",
+      "title": "'You're triggering me': How to understand your therapy-speak teen Words most often heard in the therapist's chair have made their way into day-to-day conversation - here's a parents' guide to understanding it.",
+      "status": "pending",
+      "firstSeenAt": 1794643425.135212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2459607,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2460372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2460525,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794643425.246304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2463186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2464275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+      "provider": "The Guardian",
+      "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+      "status": "pending",
+      "firstSeenAt": 1794643425.246588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/drones-redefining-warfare-sudan-massacring-civilians",
+      "provider": "The Guardian",
+      "title": "Terror from the skies: drones are redefining warfare in Sudan, and massacring its civilians",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2466137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "status": "pending",
+      "firstSeenAt": 1794643425.246632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/help/insideguardian/2026/sep/02/an-update-on-guardian-jobs",
+      "provider": "The Guardian",
+      "title": "An update on Guardian Jobs",
+      "status": "pending",
+      "firstSeenAt": 1794643425.2466493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/david-warner-cricket-australia-ball-tampering-investigation/107386252",
+      "provider": "ABC News Australia",
+      "title": "David Warner's claims about ball-tampering investigation rubbished",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8020954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/do-australians-actually-want-cheaper-housing/107378812",
+      "provider": "ABC News Australia",
+      "title": "Do Australians actually want cheaper housing? We're finding out fast",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8021567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
+      "provider": "ABC News Australia",
+      "title": "What we know so far about why US flights were grounded",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8022375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
+      "provider": "ABC News Australia",
+      "title": "'The line-up is huge': Australians caught up in US flight chaos",
+      "status": "pending",
+      "firstSeenAt": 1794643425.802279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-resumes-all-flights/107385702",
+      "provider": "ABC News Australia",
+      "title": "US aviation administration resumes flights after grounding",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8023055,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/geelong-cats-piper-dunlop-stretchered-off-aflw-semifinals/107386422",
+      "provider": "ABC News Australia",
+      "title": "Geelong ruck stretchered off in concerning scenes in AFLW semifinal",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8023336,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/plastic-farmers-in-indonesia-unaware-of-waste-burning-dangers/107274506",
+      "provider": "ABC News Australia",
+      "title": "'Plastic farmers' in Indonesia unaware of the dangers of burning waste",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8024116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226",
+      "provider": "ABC News Australia",
+      "title": "Newcastle climate protest goes ahead, no arrests made",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8026536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/slow-roast-tamarind-beef-chuck-baos-with-quick-pickled-cucumber/107379522",
+      "provider": "ABC News Australia",
+      "title": "These slow-roasted beef bao buns are an easy meal to prep ahead of time",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8028238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/father-christmas-arrives-in-adelaide-at-annual-christmas-pageant/107385880",
+      "provider": "ABC News Australia",
+      "title": "Father Christmas greeted by estimated 335,000 at Adelaide pageant",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8032665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/mahli-beardman-junior-cricket-celebration/107386108",
+      "provider": "ABC News Australia",
+      "title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8032968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/campers-personal-data-compromised-via-bookeasy-platform-hack/107386186",
+      "provider": "ABC News Australia",
+      "title": "Camping, sightseeing booking portal disabled while data breach investigated",
+      "status": "pending",
+      "firstSeenAt": 1794643425.80334,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/pearlbone-receives-us-fda-clearance-wa-research-milestone/107355146",
+      "provider": "ABC News Australia",
+      "title": "PearlBone gets FDA clearance for world's largest orthopaedic market",
+      "status": "pending",
+      "firstSeenAt": 1794643425.803713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/matt-hauser-silver-world-triathlon-championship-series-abu-dhabi/107386078",
+      "provider": "ABC News Australia",
+      "title": "Hauser ends stunning triathlon season with silver",
+      "status": "pending",
+      "firstSeenAt": 1794643425.8047757,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/swim-gp-kaylee-mckeown-returns-lani-pallister/107385602",
+      "provider": "ABC News Australia",
+      "title": "McKeown returns, Pallister stars at Swim GP",
+      "status": "pending",
+      "firstSeenAt": 1794643425.804814,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
