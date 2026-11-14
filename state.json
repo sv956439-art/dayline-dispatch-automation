@@ -102986,9 +102986,233 @@
       "status": "pending",
       "firstSeenAt": 1794668247.3585067,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrlgnx9dx6eo",
+      "provider": "BBC",
+      "title": "Philippines wins first Eurovision Song Contest Asia Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra. 1 hr ago World",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9668093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy05gg75lvo",
+      "provider": "BBC",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress' Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution. 2 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9669015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c63dgev0p8pgo",
+      "provider": "BBC",
+      "title": "Magnificent Wales end 73-year New Zealand hoodoo Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff. 3 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9669325,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn83gxemk35o",
+      "provider": "BBC",
+      "title": "Italy fines Meta €805m over accessing users' photos The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9681127,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmz6qjpdy2wqo",
+      "provider": "BBC",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9681582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmvg208nlw04o",
+      "provider": "BBC",
+      "title": "Joseph scores record-equalling five tries as England rout Japan Will Joseph marked his comeback after four years out the Test game with a record-equalling five tries as England tore through Japan.",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9686172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmvg25w18q9qo",
+      "provider": "BBC",
+      "title": "Bompastor's risks pay off as Chelsea go top of WSL",
+      "status": "pending",
+      "firstSeenAt": 1794685216.9686832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.195123,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.195257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.195284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1953943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1957848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1958067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1958756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1959226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1959882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794685217.1960106,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+      "provider": "The Guardian",
+      "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
+      "status": "pending",
+      "firstSeenAt": 1794685217.196252,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/sex-spies-silicon-valley-nvidia-saga-highlights-risks-for-tech/107386438",
+      "provider": "ABC News Australia",
+      "title": "Sex, spies and Silicon Valley: Nvidia scandal highlights risks for big tech",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4670203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/true-crime-festival-victor-harbor-cold-cases/107354812",
+      "provider": "ABC News Australia",
+      "title": "Can these true crime sleuths solve Australia's most infamous cold cases?",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4672005,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/climate-ambition-political-reality-cop31-albanese/107383424",
+      "provider": "ABC News Australia",
+      "title": "Albanese is caught between climate ambition and political reality at COP31",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4672608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/australia-criticised-over-indigenous-rheumatic-heart-disease/107377218",
+      "provider": "ABC News Australia",
+      "title": "Experts say Australia appears 'willing to tolerate' rheumatic heart disease",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4673202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/inside-crew-rescuing-sailors-from-black-sea-drone-attacks/107380692",
+      "provider": "ABC News Australia",
+      "title": "Cargo ships are being sunk here and some say it's all part of Russia's plan",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4673772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/solar-battery-installation-expert-explainer/107365122",
+      "provider": "ABC News Australia",
+      "title": "Don't just take the cheapest and other expert tips to find the best solar installer",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4675076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452",
+      "provider": "ABC News Australia",
+      "title": "US travellers face more flight disruptions ahead of holiday period",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4675446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/bidyadanga-artists-a-hit-broome-exhibition/107336512",
+      "provider": "ABC News Australia",
+      "title": "Artists relish flying the flag for WA's biggest remote community",
+      "status": "pending",
+      "firstSeenAt": 1794685217.468038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/wordage-quiz-body-parts/107364154",
+      "provider": "ABC News Australia",
+      "title": "ABC Wordage quiz: Sort out these body parts",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4681902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/dobby-kobie-dee-hear-me-out-music-behind-bars-acmf/107374608",
+      "provider": "ABC News Australia",
+      "title": "Two rappers went into youth detention. What they heard surprised them",
+      "status": "pending",
+      "firstSeenAt": 1794685217.4688745,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
