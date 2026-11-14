@@ -102650,9 +102650,345 @@
       "status": "pending",
       "firstSeenAt": 1794643425.804814,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
+      "provider": "BBC",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7506845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjwj03w4w0qo",
+      "provider": "BBC",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April. 4 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7507427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261113-an-ice-age-cave-bear-graveyard-discovered-in-hidden-alpine-cave",
+      "provider": "BBC",
+      "title": "'Hundreds and hundreds of bones': In a hidden Alpine cave, a mountaineer discovers an Ice Age cave bear graveyard The BBC reveals exclusive images from inside a previously uncharted cave in the Dolomites, containing a trove of skeletons from huge, long-extinct cave bears.",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7508543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20251205-why-travellers-keep-queueing-for-viral-food",
+      "provider": "BBC",
+      "title": "Why travellers keep queueing for viral food Experts explain how FOMO, social proof and performance culture have turned ordinary snacks into global must-queue experiences.",
+      "status": "pending",
+      "firstSeenAt": 1794668246.751511,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy9lynq4qno",
+      "provider": "BBC",
+      "title": "US grounds all flights for hours over tech issues, prompting travel chaos Officials blame \"antiquated equipment\" as longest ground stop since 9/11 is expected to have knock-on effects for days.",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7518196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj05jr299n6o",
+      "provider": "BBC",
+      "title": "Body found on French beach after attempted Channel crossing The man was found after authorities stopped and overloaded dinghy leaving the beach overnight.",
+      "status": "pending",
+      "firstSeenAt": 1794668246.751921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw808ll7x093o",
+      "provider": "BBC",
+      "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7526343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6y493wzkxgko",
+      "provider": "BBC",
+      "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7526598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck0jx8pxxx6eo",
+      "provider": "BBC",
+      "title": "King jokes with Elton John as he marks 78th birthday with radio show",
+      "status": "pending",
+      "firstSeenAt": 1794668246.7527027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckvg25g323ymo",
+      "provider": "BBC",
+      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+      "status": "pending",
+      "firstSeenAt": 1794668246.8356822,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvkg5jkpl2pno",
+      "provider": "BBC",
+      "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+      "status": "pending",
+      "firstSeenAt": 1794668246.8357341,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3174gxrdpj2o",
+      "provider": "BBC",
+      "title": "5 hrs ago 'Cold' museum reopens after £400k heating refit Curator Áine McKenny says staying open all year will allow up to 15,000 more people to visit annually. 5 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794668246.8362863,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0e04eez09o",
+      "provider": "BBC",
+      "title": "6 hrs ago Big Issue's most iconic moments explored in show George Michael coming out in a Big Issue interview is among a number of exclusives in its 35-year history. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794668246.8363163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3qj5l5e7p1do",
+      "provider": "BBC",
+      "title": "6 hrs ago Ruins and restorations: New archive chronicles Scotland's castles The collection provides a snapshot of the structures and whether or not they are beyond repair. 6 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794668246.8363445,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqkgkg8e5krno",
+      "provider": "BBC",
+      "title": "8 hrs ago Life of trans trailblazer celebrated in show of her personal possessions April Ashley be became only the second Briton to undergo male-to-female gender reassignment in 1960. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794668246.83641,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6rrg5e0pw2po",
+      "provider": "BBC",
+      "title": "1 day ago Museum team 'over the moon' at national award win It is the second year running the museum has won a Gold accolade at the VisitEngland awards. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794668246.836552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg46qy44e7go",
+      "provider": "BBC",
+      "title": "1 day ago Plea for vets to keep animal mural painted in 1985 The owners of the vet surgery say they will be covering up the artwork but it will be preserved. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794668246.836579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.0996375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.100496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.10052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1005428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1005652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1005864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1006494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1006718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1006975,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.100721,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1007423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
+      "provider": "The Guardian",
+      "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1008358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor",
+      "provider": "The Guardian",
+      "title": "The abortion doctor who leads with her faith: ‘God is forgiving’",
+      "status": "pending",
+      "firstSeenAt": 1794668247.101004,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/14/how-i-survived-being-forced-into-pornography-i-died-in-that-hotel-room-i-was-a-walking-corpse",
+      "provider": "The Guardian",
+      "title": "How I survived being forced into pornography: ‘I died in that hotel room. I was a walking corpse’",
+      "status": "pending",
+      "firstSeenAt": 1794668247.101057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
+      "provider": "The Guardian",
+      "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1010864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+      "provider": "The Guardian",
+      "title": "double quotation mark Corporate Democrats are weaponizing identity politics to smear progressives",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1011503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/14/2000s-pop-culture-women-david-walliams-russell-brand",
+      "provider": "The Guardian",
+      "title": "Is it finally OK to be frank about 2000s pop culture? ‘It was profoundly, cheerfully horrible to women’",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1011753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/14/madeline-horwath-complexity-modern-politics-cartoon",
+      "provider": "The Guardian",
+      "title": "Madeline Horwath on the complexity of modern politics – cartoon",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1012008,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
+      "provider": "The Guardian",
+      "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+      "status": "pending",
+      "firstSeenAt": 1794668247.101226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon",
+      "provider": "The Guardian",
+      "title": "Experience: I was disembowelled by a hippo on my honeymoon",
+      "status": "pending",
+      "firstSeenAt": 1794668247.1012514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
+      "provider": "ABC News Australia",
+      "title": "US floated NATO membership for Ukraine, Zelenskyy says",
+      "status": "pending",
+      "firstSeenAt": 1794668247.356424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/king-charles-jokes-with-elton-john-in-birthday-clip/107386532",
+      "provider": "ABC News Australia",
+      "title": "'We're still standing': King Charles jokes with Elton John in birthday clip",
+      "status": "pending",
+      "firstSeenAt": 1794668247.3567133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/vescio-stars-dunlop-injury-blues-hawks-swans-cats-aflw/107386422",
+      "provider": "ABC News Australia",
+      "title": "Vescio stars in milestone game as Blues and Swans reach preliminary finals",
+      "status": "pending",
+      "firstSeenAt": 1794668247.3570144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442",
+      "provider": "ABC News Australia",
+      "title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+      "status": "pending",
+      "firstSeenAt": 1794668247.3579414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-14/townsville-creatives-queer-community-writing/107106238",
+      "provider": "ABC News Australia",
+      "title": "The Townsville creatives making their own queer community",
+      "status": "pending",
+      "firstSeenAt": 1794668247.3585067,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
