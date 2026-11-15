@@ -103618,9 +103618,425 @@
       "status": "pending",
       "firstSeenAt": 1794711090.079086,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jd7k7g57x5o",
+      "provider": "BBC",
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4799867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrkg4r6mg7xo",
+      "provider": "BBC",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade. 2 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1794736714.480059,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmrlgn4x2xw8o",
+      "provider": "BBC",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4806168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9mn7l14y0o",
+      "provider": "BBC",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4806566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm782dxxzjw2o",
+      "provider": "BBC",
+      "title": "Star-studded MacGowan tribute album gave grieving wife purpose Three years after her husband's death, Victoria Mary Clarke's idea to put together a tribute album for her late husband came to fruition.",
+      "status": "pending",
+      "firstSeenAt": 1794736714.480694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c9ly4jm8djy7o",
+      "provider": "BBC",
+      "title": "Australia's Sayers 'took sandpaper from field'",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4810097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw3dg9d5k333o",
+      "provider": "BBC",
+      "title": "How Kent may have inspired Orwell's Animal Farm The county should be proud of its links to the famous author, a local historian tells the BBC.",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4810908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm879005nz5no",
+      "provider": "BBC",
+      "title": "Residents join Hollywood stars in Parkinson's film",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4811044,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr0qkqk8k4plo",
+      "provider": "BBC",
+      "title": "Black women's swimming documentary Oscar-longlisted",
+      "status": "pending",
+      "firstSeenAt": 1794736714.4811172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3rgx9p583zo",
+      "provider": "BBC",
+      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+      "status": "pending",
+      "firstSeenAt": 1794736714.519604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw62p4n3n1xyo",
+      "provider": "BBC",
+      "title": "Mathematician and presenter Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+      "status": "pending",
+      "firstSeenAt": 1794736714.5196502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm3g7ge1xlo",
+      "provider": "BBC",
+      "title": "How to shake hands and make eye contact - the lessons preparing UK pupils for the world of work Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\". 10 hrs ago Family & Education",
+      "status": "pending",
+      "firstSeenAt": 1794736714.5197327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn83l442724o",
+      "provider": "BBC",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money? Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers. 10 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794736714.5197494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr4gnz0lv2vlo",
+      "provider": "BBC",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023. 7 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1794736714.5198302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8n50w445zgpo",
+      "provider": "BBC",
+      "title": "Thousands turn out in Edinburgh to protest against AI data centres Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament. 17 hrs ago Edinburgh, Fife & East",
+      "status": "pending",
+      "firstSeenAt": 1794736714.519852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6wy41738nv7o",
+      "provider": "BBC",
+      "title": "England are favourites against All Blacks, and fearless Wales are an inspiration In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's emphatic 78-15 thrashing of Japan and looks ahead to their match against New Zealand next weekend. 1 hr ago Rugby Union",
+      "status": "pending",
+      "firstSeenAt": 1794736714.5200207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqvg23nv0jw2o",
+      "provider": "BBC",
+      "title": "How Spain's humble superstar Simon became world's best keeper As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794736714.5200543,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6075814,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.607599,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.607677,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6076906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6079006,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6079886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.608001,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794736714.608014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/15/ukraine-war-briefing-us-proposes-kyiv-cede-land-to-russia-for-nato-membership-zelenskyy-says",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
+      "status": "pending",
+      "firstSeenAt": 1794736714.608159,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/15/we-need-to-get-back-to-class-some-teachers-lose-patience-as-france-enters-its-eighth-week-of-student-protests",
+      "provider": "The Guardian",
+      "title": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6081765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+      "provider": "The Guardian",
+      "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6082876,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+      "provider": "The Guardian",
+      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6083019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/15/at-17-i-dated-a-36-year-old-that-decision-looks-very-different-to-me-now",
+      "provider": "The Guardian",
+      "title": "double quotation mark At 17, I dated a 36-year-old. That decision looks very different to me now",
+      "status": "pending",
+      "firstSeenAt": 1794736714.6083498,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/kangaroos-jillaroos-live-rugby-league-world-cup-finals/107376474",
+      "provider": "ABC News Australia",
+      "title": "Red-hot Roos overwhelming sloppy Kiwis in Rugby League World Cup final",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7937648,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/womens-rugby-league-world-cup-final-australia-new-zealand/107387716",
+      "provider": "ABC News Australia",
+      "title": "Jillaroos' World Cup win is more of the same old story",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7938802,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/chapman-hat-trick-jillaroos-win-rugby-league-world-cup/107387698",
+      "provider": "ABC News Australia",
+      "title": "Chapman hat-trick fires Jillaroos to Rugby League World Cup glory",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7939162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814",
+      "provider": "ABC News Australia",
+      "title": "Albanese stands by Ukraine but won't rule out photo with Putin",
+      "status": "pending",
+      "firstSeenAt": 1794736714.793938,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/illicit-tobacco-market-shrinks/107387590",
+      "provider": "ABC News Australia",
+      "title": "Volume of illegal tobacco shrinks after years of rapid growth",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7940013,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/tim-winton-cloudstreet-new-memoir-rage-climate-change/107380054",
+      "provider": "ABC News Australia",
+      "title": "The 'sliding doors' moment that changed Australian literary history",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7940657,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/russell-brand-alleged-victim-speaks-out/107387312",
+      "provider": "ABC News Australia",
+      "title": "Mia Latter alleges Russell Brand raped her as a 16-year-old",
+      "status": "pending",
+      "firstSeenAt": 1794736714.794108,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/wa-police-charge-man-murder-incident-keysbrook/107388014",
+      "provider": "ABC News Australia",
+      "title": "Perth man charged with murder after rural shooting death",
+      "status": "pending",
+      "firstSeenAt": 1794736714.79414,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/nsw-police-investigate-homophobic-graffiti-alex-greenwich-office/107387850",
+      "provider": "ABC News Australia",
+      "title": "Homophobic graffiti sprayed on Sydney MP's office under investigation",
+      "status": "pending",
+      "firstSeenAt": 1794736714.794171,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/australia-cricket-sandpaper-claims-chadd-sayers-david-warner/107387424",
+      "provider": "ABC News Australia",
+      "title": "Aussie quick says 'everyone knew' about sandpaper, as Warner doubles down",
+      "status": "pending",
+      "firstSeenAt": 1794736714.79423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/health-anxiety-fuelled-by-social-media/107315716",
+      "provider": "ABC News Australia",
+      "title": "Australian doctors say health anxiety is being fuelled by social media",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7942715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/shark-attack-hero-charlie-verco-iron-series-win/107387616",
+      "provider": "ABC News Australia",
+      "title": "Shark attack hero breaks through for Iron Series win",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7947376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/floreat-shooting-mark-bombara-dv-advocates/107386412",
+      "provider": "ABC News Australia",
+      "title": "Fix failings that led to Floreat murders, DV advocates say",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7947838,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/golfer-lucas-herbert-advertising-small-business-at-nsw-open/107387488",
+      "provider": "ABC News Australia",
+      "title": "After tragically losing a mate, Herbert is helping businesses with his shirt",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7948105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/australia-vs-england-second-odi-at-adelaide-oval/107387540",
+      "provider": "ABC News Australia",
+      "title": "England sets Australia big run chase after opener's century",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7948813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/wa-road-toll-rises-record-high/107387756",
+      "provider": "ABC News Australia",
+      "title": "Weekend deaths push WA road toll to grim record high",
+      "status": "pending",
+      "firstSeenAt": 1794736714.794911,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
+      "provider": "ABC News Australia",
+      "title": "Rival promises as parties rally at Victorian election campaign launches",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7949452,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/ettalong-lightning-strike-man-in-critical-condition/107387304",
+      "provider": "ABC News Australia",
+      "title": "Central coast man in critical condition after 'blue sky' lightning strike",
+      "status": "pending",
+      "firstSeenAt": 1794736714.794988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/ai-data-centre-quantum-dc-adelaide-hills-protest/107387568",
+      "provider": "ABC News Australia",
+      "title": "Protesters drive home message to data centre company",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7950776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/lorella-springs-wilderness-park-tourism-permit-invalid/107385958",
+      "provider": "ABC News Australia",
+      "title": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
+      "status": "pending",
+      "firstSeenAt": 1794736714.795258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/three-people-school-boy-injured-scenic-rim-crash/107387618",
+      "provider": "ABC News Australia",
+      "title": "Woman killed and two other people seriously injured in Scenic Rim crash",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7952886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/bushwalkers-rescued-from-western-arthur-range-tasmania/107387554",
+      "provider": "ABC News Australia",
+      "title": "Two South Australian bushwalkers rescued from Tasmania's south-west",
+      "status": "pending",
+      "firstSeenAt": 1794736714.7954125,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
