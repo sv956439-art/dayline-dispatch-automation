@@ -103442,9 +103442,185 @@
       "status": "pending",
       "firstSeenAt": 1794698556.3813457,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6dj1e8wyykmo",
+      "provider": "BBC",
+      "title": "Judo champion shakes up French  presidential race with surprise candidacy Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him. 3 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794711089.0874786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg2e2q28w1o",
+      "provider": "BBC",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "status": "pending",
+      "firstSeenAt": 1794711089.0880203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq2d9l3e313zo",
+      "provider": "BBC",
+      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+      "status": "pending",
+      "firstSeenAt": 1794711089.0882747,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw77p7yj42k5o",
+      "provider": "BBC",
+      "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished' The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+      "status": "pending",
+      "firstSeenAt": 1794711089.0883694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6qj5r2qzqpwo",
+      "provider": "BBC",
+      "title": "Extreme weather leaves gardeners hedging their bets",
+      "status": "pending",
+      "firstSeenAt": 1794711089.146567,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv62pr837zryo",
+      "provider": "BBC",
+      "title": "13 hrs ago Salmon leap back after stream bends restored The rewiggling was aimed at restoring Atlantic salmon's habitat, and reducing flood risk. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794711089.1466935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r4gx5e7lw5o",
+      "provider": "BBC",
+      "title": "19 hrs ago Free trees given out to grow butterfly population Community project Butterfly City wants to increase the number of Brimstone butterflies in Hull. 19 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794711089.1467073,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg257kl440o",
+      "provider": "BBC",
+      "title": "2 days ago National Trust takes back land for nature restoration The trust hopes to restore the site, create new wildlife habitats and improve access to green space. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794711089.146722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy0enwnw459o",
+      "provider": "BBC",
+      "title": "2 days ago Cat brings dead extremely rare songbird into home The dead and underweight Siberian rubythroat, scarcely seen in the UK, is found in a Cumbrian house. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794711089.1467345,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794711089.407653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794711089.4076664,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794711089.4079022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/catholic-provider-calvary-healthcare-ivf-vad-reproductive-health/107380082",
+      "provider": "ABC News Australia",
+      "title": "IVF, VAD and abortion off the table as Catholic company takes over hospital",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0780005,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/swim-gp-boost-for-para-swimming/107387140",
+      "provider": "ABC News Australia",
+      "title": "How Swim GP may have given a glimpse of the future of para-sport",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0781105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/jacqui-lambie-childcare-subsidy-cuts/107387182",
+      "provider": "ABC News Australia",
+      "title": "Lambie suggests change to childcare subsidies to cut spending",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0781586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/tanker-cruise-ship-collison-investigation-new-orleans/107387198",
+      "provider": "ABC News Australia",
+      "title": "US investigators say too soon to know what caused tanker-cruise ship collision",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0782354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/ndis-families-bear-brunt-of-care-support-needs/107217942",
+      "provider": "ABC News Australia",
+      "title": "Carers of people with disability left exhausted navigating NDIS",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0783012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/murray-mclaughlin-book-release-the-nt-a-litany-of-failure/107381238",
+      "provider": "ABC News Australia",
+      "title": "Journalist urges federal government to intervene in NT 'social catastrophe'",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0783842,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/tasmania-unveils-neil-the-seal-management-plan/107387180",
+      "provider": "ABC News Australia",
+      "title": "Neil the seal has new management plan unveiled",
+      "status": "pending",
+      "firstSeenAt": 1794711090.0786257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/qld-government-reveals-brisbane-arena-gabba-olympics-tender/107387252",
+      "provider": "ABC News Australia",
+      "title": "Qld government reveals successful tenderer for $1.4b Brisbane Arena",
+      "status": "pending",
+      "firstSeenAt": 1794711090.07867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/suspected-fatal-stabbing-overnight-frankston/107387222",
+      "provider": "ABC News Australia",
+      "title": "Police investigate suspected fatal stabbing of man in Melbourne's south-east",
+      "status": "pending",
+      "firstSeenAt": 1794711090.07894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-15/swim-gp-absentees-will-be-back-for-la28/107387120",
+      "provider": "ABC News Australia",
+      "title": "Swimming stars tipped for big 2027 despite illness, injury hiccups",
+      "status": "pending",
+      "firstSeenAt": 1794711090.079086,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
