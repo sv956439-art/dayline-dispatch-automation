@@ -104474,9 +104474,337 @@
       "status": "pending",
       "firstSeenAt": 1794761306.9317524,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6m25zg88k45o",
+      "provider": "BBC",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "status": "pending",
+      "firstSeenAt": 1794777661.276208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw1mdlv0k2r4o",
+      "provider": "BBC",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide The US transport secretary says that normal air-traffic operations may not be restored until Monday. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794777661.2762825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckregz4g823xo",
+      "provider": "BBC",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "status": "pending",
+      "firstSeenAt": 1794777661.2771542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmd91np3pqk0o",
+      "provider": "BBC",
+      "title": "Final whistle a blessing as Scotland edge dull Test against Australia",
+      "status": "pending",
+      "firstSeenAt": 1794777661.2771692,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.6999314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.699997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7001302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7001405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.700151,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.700162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7002022,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7002134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7002242,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7002347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7002447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/e-bikes-queensland-cycle-assurance-scheme-state-laws",
+      "provider": "The Guardian",
+      "title": "The Queensland ebike scheme keeping regional riders off the road: ‘If you live north of Rockhampton, bad luck’",
+      "status": "pending",
+      "firstSeenAt": 1794777661.7003324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+      "provider": "The Guardian",
+      "title": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+      "status": "pending",
+      "firstSeenAt": 1794777661.700477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/one-nation-ai-slop-group-joh-bauch/107383340",
+      "provider": "ABC News Australia",
+      "title": "Victorian One Nation candidate linked to AI-slop Facebook page",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1698468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/regional-healthcare-in-crisis-victoria-election/107308520",
+      "provider": "ABC News Australia",
+      "title": "Regional Victorians look for health funding ahead of election",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1698978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/one-nation-victorian-election-where-is-pauline-hanson/107387414",
+      "provider": "ABC News Australia",
+      "title": "Hanson's absence in Victoria says a lot about One Nation's election chances",
+      "status": "pending",
+      "firstSeenAt": 1794777662.169921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/is-super-serving-its-members-in-retirement/107387284",
+      "provider": "ABC News Australia",
+      "title": "Australia's super nest egg to top $5 trillion. How well is it serving us?",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1699538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/anti-fascist-economics-isabella-weber-cost-of-living-essentials/107382064",
+      "provider": "ABC News Australia",
+      "title": "The cost of basics keeps rising but 'anti-fascist economics' could lower them",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1699858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/key-issues-on-agenda-at-asean-summit-2026/107384284",
+      "provider": "ABC News Australia",
+      "title": "Oil, smoke and Myanmar: The key issues facing South-East Asia",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1700165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/stuart-diver-thredbo-landslide-survivor-reflects-thing-saved-him/107349102",
+      "provider": "ABC News Australia",
+      "title": "Thredbo landslide survivor shares split-second decision that saved his life",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1700373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810",
+      "provider": "ABC News Australia",
+      "title": "Data centres become dirty word as rollout faces rising opposition",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1700907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656",
+      "provider": "ABC News Australia",
+      "title": "Unions, industry join forces to call for passage of gas reservation scheme",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1701205,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134",
+      "provider": "ABC News Australia",
+      "title": "Wall Street slides as Nvidia pulls down tech stocks, ASX treading water",
+      "status": "pending",
+      "firstSeenAt": 1794777662.170141,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/nsw-wsi-airport-heat-impact-summer-western-sydney/107297220",
+      "provider": "ABC News Australia",
+      "title": "Western Sydney airport to become a 'heat sink', expert warns",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1701598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/andrew-liveris-brisbane-olympics-profile/107379516",
+      "provider": "ABC News Australia",
+      "title": "Pickleball, 'woke' ideas: Tensions surrounding the Brisbane 2032 Olympics president",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1701891,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/wallabies-attack-limited-scotland-defeat-murrayfield/107388620",
+      "provider": "ABC News Australia",
+      "title": "Worrying signs as Wallabies leave it too late to fire in Scotland defeat",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1702623,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/bluey-allen-ludo-studios-daley-pearson/107377452",
+      "provider": "ABC News Australia",
+      "title": "The studio behind Bluey delivers a new creature to adore",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1703973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/this-week-in-history-quiz-november-16/107380370",
+      "provider": "ABC News Australia",
+      "title": "You'd be bananas to miss this week's history quiz",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1704512,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/nt-kakadu-artist-ivan-namarnyilk-solo-exhibition/107381784",
+      "provider": "ABC News Australia",
+      "title": "Kakadu artist's 'rock art' paintings in high demand",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1704907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/passenger-dies-others-injured-at-ballarat-car-crash/107388692",
+      "provider": "ABC News Australia",
+      "title": "Ballarat crash leaves one dead and three injured",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1707454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/geelong-council-wrote-to-government-over-fire-station-blaze/107387752",
+      "provider": "ABC News Australia",
+      "title": "Labor urged to address fire station delays months before fatal blaze",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1708019,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/sexual-abuse-victim-survivors-shut-out/107322456",
+      "provider": "ABC News Australia",
+      "title": "Nari told adults she was being groomed but then she was shut out",
+      "status": "pending",
+      "firstSeenAt": 1794777662.170914,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/severe-storms-south-east-qld-heatwave-north/107387434",
+      "provider": "ABC News Australia",
+      "title": "Giant hail, heavy rain and damaging winds possible for south-east Qld",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1709433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/vanuatu-women-using-light-to-reduce-male-violence/107316976",
+      "provider": "ABC News Australia",
+      "title": "Vanuatu woman internationally recognised for solar scheme tackling violence",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1709967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/oberon-sewage-epa/107381580",
+      "provider": "ABC News Australia",
+      "title": "Council to pay $75k for releasing raw sewage into river over nine days",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1710942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/early-designs-for-new-north-canberra-hospital/107387498",
+      "provider": "ABC News Australia",
+      "title": "Designs offer first look at new North Canberra Hospital",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1711206,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/medication-errors-investigated-at-sa-youth-detention-centre/107378808",
+      "provider": "ABC News Australia",
+      "title": "SA Health investigates medication errors at youth detention centre",
+      "status": "pending",
+      "firstSeenAt": 1794777662.1711562,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
