@@ -105594,9 +105594,617 @@
       "status": "pending",
       "firstSeenAt": 1794815717.0470786,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw5y1v8de35go",
+      "provider": "BBC",
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict. 18 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4535725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cry49plv8v3go",
+      "provider": "BBC",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back. 29 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4535992,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw987343352go",
+      "provider": "BBC",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers. 1 hr ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4536188,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq9vwkggpx73o",
+      "provider": "BBC",
+      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death. 3 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1794850726.453661,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261112-friselle-the-ingenious-italian-bread-that-can-last-for-a-year",
+      "provider": "BBC",
+      "title": "The Italian bread that can last for a year As governments urge households to stock up on emergency supplies, a traditional bread from southern Italy offers a centuries-old lesson in making food last.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4536796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261113-the-preacher-behind-the-1978-jonestown-massacre",
+      "provider": "BBC",
+      "title": "The preacher behind the 1978 Jonestown massacre Once courted by the US's political elite, Jim Jones caused the deaths of more than 900 of his followers. Some of those who witnessed the tragedy spoke to the BBC.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4536967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60evn992jq8o",
+      "provider": "BBC",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit He has been showing support for injured veterans in Ukraine and praising the country's resilience. 8 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794850726.453887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr0qj0nzwj34o",
+      "provider": "BBC",
+      "title": "Man sentenced over 'horrific' attempted murder of three children Riad Bouchaker was sentenced after the attempted murder of three children in November 2023. 5 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4539244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62pl6lglvwo",
+      "provider": "BBC",
+      "title": "'I'd throw up in the car park': How school anxiety is harming children's futures As a landmark report about youth unemployment is about to be published, the BBC speaks to school avoiders and those trying to fix the issue. 12 hrs ago Family & Education",
+      "status": "pending",
+      "firstSeenAt": 1794850726.453946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c51k9nkwrndxo",
+      "provider": "BBC",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80 Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation. 14 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1794850726.453966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cmjre22gz0wwo",
+      "provider": "BBC",
+      "title": "49ers stun Cowboys, Chiefs and Bengals impress - NFL week 10 The NFL's brightest stars lit up week 10 of the 2026 season with some astonishing plays as the San Francisco 49ers, Kansas City Chiefs and Cincinnati Bengals all won on Sunday.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4540038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c61740145y7wo",
+      "provider": "BBC",
+      "title": "Teenager Andreeva caps stunning week with WTA Finals title French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4540358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261113-turkeys-ancient-underground-city-has-lessons-for-escaping-extreme-temperatures",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4541707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx20pyew3zxo",
+      "provider": "BBC",
+      "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced.\n\nBahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4543424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckx27v6dpjz0o",
+      "provider": "BBC",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "status": "pending",
+      "firstSeenAt": 1794850726.454358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp83nk673reo",
+      "provider": "BBC",
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "status": "pending",
+      "firstSeenAt": 1794850726.454372,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm20vexye1d0o",
+      "provider": "BBC",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4543858,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq99exy89dngo",
+      "provider": "BBC",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital 21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4544642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmvg2r752ykzo",
+      "provider": "BBC",
+      "title": "Has Trafford replaced Pickford as England No 1? James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4546402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmge3y2qjlyro",
+      "provider": "BBC",
+      "title": "How Frank can restore reputation and save Crystal Palace",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4546542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjr4gr2k41dxo",
+      "provider": "BBC",
+      "title": "Klopp says Infantino worse than Blatter",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4546673,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmqx584jwwpvo",
+      "provider": "BBC",
+      "title": "Vinicius says transfer interest affected Real form",
+      "status": "pending",
+      "firstSeenAt": 1794850726.45468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9d7pe8y559o",
+      "provider": "BBC",
+      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4547627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4gn204qjjxo",
+      "provider": "BBC",
+      "title": "James Blunt to headline Silverstone festival in 2027",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4547768,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvde1klewg88o",
+      "provider": "BBC",
+      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4547908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm15e3xg9njeo",
+      "provider": "BBC",
+      "title": "The Scouse actor reaching new heights in Liverpool drama This City Is Ours",
+      "status": "pending",
+      "firstSeenAt": 1794850726.4548047,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c574290jvk8wo",
+      "provider": "BBC",
+      "title": "Robert Pattinson: How the Twilight star became 007",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5056808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm7024p1ded3o",
+      "provider": "BBC",
+      "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast The convicted rapist has been moved to HMP Littlehey, which houses sex offenders. 8 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5057135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmg46qnlr03ko",
+      "provider": "BBC",
+      "title": "Rick Wakeman plays Life on Mars? on red planet test site Wakeman says it was a \"career first\" and his close friend David Bowie would have \"loved it\". 5 hrs ago Beds, Herts & Bucks",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5057302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65y13z1d8eyo",
+      "provider": "BBC",
+      "title": "Charlotte Church closes wellness retreat after five 'beautiful' years Church previously said she blew \"pretty much all my life savings\" on the £1.5m home. 23 hrs ago Wales",
+      "status": "pending",
+      "firstSeenAt": 1794850726.505758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmj47jrjn2q7o",
+      "provider": "BBC",
+      "title": "4 hrs ago Father and son turn crafts evening into children's book Dan Ojari and his eight-year-old son Finn sparked the idea during a routine arts and crafts evening. 4 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5063348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy0ekwj959o",
+      "provider": "BBC",
+      "title": "12 hrs ago Actor's rise from Wolverhampton to the big screen Sunjay Midda, from All Saints, says there has not been a better time in film for South Asian talent. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5064082,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq3dgv2719pmo",
+      "provider": "BBC",
+      "title": "12 hrs ago Beatles show keeps music promoter's legacy alive Mike Lloyd wrote The Rise of the Beatles as part of Stoke-on-Trent's centenary celebrations in 2025. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5064254,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6evry1rxp17o",
+      "provider": "BBC",
+      "title": "1 day ago 'Incredible' island women celebrated in exhibition The display features the stories of 60 women who live in the Isles of Scilly. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.506454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy4lv32r70o",
+      "provider": "BBC",
+      "title": "1 day ago Why is so little council-owned art out on display? Freedom of information figures show north-east council display less than 15% of the art they own. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5064702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp9g9ey10dko",
+      "provider": "BBC",
+      "title": "1 day ago 'It's like you're in one of his paintings' Kyffin Williams' art brought to life Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5064871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjy5x46x5zx6o",
+      "provider": "BBC",
+      "title": "1 day ago 'I want to keep classical Indian dance alive' Sruthy Mahima Sanalkumar is nurturing the next generation of dancers at her dance school in Preston. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794850726.5065174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.749461,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7494774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7494905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7495437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7496178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7496312,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7496436,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.749694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7497063,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7497177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7497306,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7497425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.74977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.749783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.749843,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.749929,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/16/two-charged-man-run-over-by-van-midlands",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7500167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/16/mushroom-lovers-uk-told-to-avoid-grow-kits-invasive-species-golden-oyster",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.750029,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.750041,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.750053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7501009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7501144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7501287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7501407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/visceral-response-flag-campaigns-inspire-anti-racism-organising-across-england",
+      "provider": "The Guardian",
+      "title": "‘Visceral response’: flag campaigns inspire anti-racism organising across England",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7502308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
+      "provider": "The Guardian",
+      "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7503421,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
+      "provider": "The Guardian",
+      "title": "DoJ warns Elizabeth Warren of ‘consequences’ unless she preserves Trump records",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7503805,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/17/doctor-thank-you-notes-from-patients",
+      "provider": "The Guardian",
+      "title": "double quotation mark As an oncologist, I’ve received my fair share of thank you notes, but nothing like this",
+      "status": "pending",
+      "firstSeenAt": 1794850726.750396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message",
+      "provider": "The Guardian",
+      "title": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
+      "status": "pending",
+      "firstSeenAt": 1794850726.7504215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/conjoined-twins-born-in-remote-png/107392288",
+      "provider": "ABC News Australia",
+      "title": "Pilot shocked at second case of rare conjoined twins",
+      "status": "pending",
+      "firstSeenAt": 1794850727.2117376,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/robert-pattinson-named-as-new-james-bond/107392892",
+      "provider": "ABC News Australia",
+      "title": "British actor Robert Pattinson named as the new James Bond",
+      "status": "pending",
+      "firstSeenAt": 1794850727.211775,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/benjamin-netanyahu-gadi-eisenkot-call-for-investigation/107392590",
+      "provider": "ABC News Australia",
+      "title": "Netanyahu rival demands probe into PM's office over election fraud claims",
+      "status": "pending",
+      "firstSeenAt": 1794850727.2118418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/robert-irwin-named-2027-australian-of-the-year-for-queensland/107391896",
+      "provider": "ABC News Australia",
+      "title": "Robert Irwin named Queenslander of the year",
+      "status": "pending",
+      "firstSeenAt": 1794850727.2118742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/raye-and-rosalia-lead-nominations-for-music-s-grammy-awards-/107392254",
+      "provider": "ABC News Australia",
+      "title": "Tame Impala and Baz Luhrmann earn Grammy nods as Raye leads nominations",
+      "status": "pending",
+      "firstSeenAt": 1794850727.211906,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/grand-theft-auto-6-gta6-explainer/107384556",
+      "provider": "ABC News Australia",
+      "title": "What is GTA6 and why is everyone talking about it?",
+      "status": "pending",
+      "firstSeenAt": 1794850727.2126124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/neonatal-death-inquest-nsw/107391564",
+      "provider": "ABC News Australia",
+      "title": "Inquest examines what led to deaths of four babies born at home",
+      "status": "pending",
+      "firstSeenAt": 1794850727.21268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/flight-delays-cancellations-at-sydney-airport/107392306",
+      "provider": "ABC News Australia",
+      "title": "104 flights cancelled due to weather conditions at Sydney Airport",
+      "status": "pending",
+      "firstSeenAt": 1794850727.2127113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/flight-cancellations-leaves-remote-island-students-stranded/107389662",
+      "provider": "ABC News Australia",
+      "title": "Qantas strands Christmas Island students on mainland after cancellations",
+      "status": "pending",
+      "firstSeenAt": 1794850727.212971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/stephen-noga-appeal-dismissed-supreme-court-social-media-posts/107388804",
+      "provider": "ABC News Australia",
+      "title": "Judge's Facebook activity not enough to undo decision against teacher",
+      "status": "pending",
+      "firstSeenAt": 1794850727.2131717,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
