@@ -105098,9 +105098,505 @@
       "status": "pending",
       "firstSeenAt": 1794791333.7305586,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg2xgyvnjpo",
+      "provider": "BBC",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "status": "pending",
+      "firstSeenAt": 1794815716.3314302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crp3e1n5kezpo",
+      "provider": "BBC",
+      "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday. 58 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1794815716.331471,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5lyk0e3n1jxo",
+      "provider": "BBC",
+      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded. 35 mins ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794815716.3315215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpqr9j81888o",
+      "provider": "BBC",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago. 5 hrs ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1794815716.3319857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw62p42p288do",
+      "provider": "BBC",
+      "title": "Investors sue chip giant Intel after 29% stock plunge A proposed class action says Intel hid the impact of slowing sales, inflating its shares. 5 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794815716.3320053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20190920-friends-the-show-that-changed-our-idea-of-family",
+      "provider": "BBC",
+      "title": "Why the key message of Friends endures 30 years on First broadcast 30 years ago this week, the hugely popular show Friends became much more than a sitcom – it brought a new way of living into the mainstream.",
+      "status": "pending",
+      "firstSeenAt": 1794815716.332079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj93rggenq4xo",
+      "provider": "BBC",
+      "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport Anti-drugs agency said the American attempted to leave the airport, abandoning his luggage with the drugs.",
+      "status": "pending",
+      "firstSeenAt": 1794815716.3324065,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqp9dr4kedd3o",
+      "provider": "BBC",
+      "title": "Formula 1's one-race wonders",
+      "status": "pending",
+      "firstSeenAt": 1794815716.332796,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c617ked5wn9po",
+      "provider": "BBC",
+      "title": "Homophobia on the rise in football - what is your club doing about it?",
+      "status": "pending",
+      "firstSeenAt": 1794815716.332813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6153977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.615491,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6155062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6155882,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6156156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6156304,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.615645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6156776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6156921,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.615706,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/nov/16/dougie-wallace-ma-wee-tin-oshortbreid-highlands-tourism-scotland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6159616,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6159756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6159897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6160035,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+      "provider": "The Guardian",
+      "title": "Will Spain’s snap election in November bring a far-right party into government?",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6161628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/ukraine-war-briefing-energy-attacks-made-possible-by-continuing-starshield-restrictions-says-zelenskyy",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Energy attacks made possible by continuing Starshield restrictions, says Zelenskyy",
+      "status": "pending",
+      "firstSeenAt": 1794815716.616235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch",
+      "provider": "The Guardian",
+      "title": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
+      "status": "pending",
+      "firstSeenAt": 1794815716.6162848,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/foi-reveal-nsw-police-sexual-harassment-misconduct-allegations/107381728",
+      "provider": "ABC News Australia",
+      "title": "Sexual misconduct inside the NSW Police Force exposed",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0444453,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/makybe-diva-melbourne-cup-trophies-stolen/107391010",
+      "provider": "ABC News Australia",
+      "title": "'Tradies' in high-vis steal Makybe Diva trophies",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0445032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/helen-haines-discharged-from-hospital-wangaratta-attack/107389928",
+      "provider": "ABC News Australia",
+      "title": "Helen Haines says she is in next stage of recovery after alleged attack",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0445435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/microsoft-outlook-teams-outage-compensation-productivity-loss/107389312",
+      "provider": "ABC News Australia",
+      "title": "Microsoft unlikely to compensate for loss of productivity",
+      "status": "pending",
+      "firstSeenAt": 1794815717.044591,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/puberty-blockers-interim-advice-health-medical-research-council/107376484",
+      "provider": "ABC News Australia",
+      "title": "Advice panel gives conditional OK to controversial puberty blockers",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0446293,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/hells-angels-bikie-kane-montebello-charged-threat-journalist/107390122",
+      "provider": "ABC News Australia",
+      "title": "Hells Angels bikie charged with threatening journalist",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0446668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/south-east-queensland-severe-thunderstorms/107379998",
+      "provider": "ABC News Australia",
+      "title": "Hail as heavy as snow seen as severe thunderstorms hit southern Queensland",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0447037,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/-at-best-you-re-being-bullied-black-friday-sales-tactics-explain/107383358",
+      "provider": "ABC News Australia",
+      "title": "Think before buying on Black Friday, experts warn",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0447407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/usman-khawaja-speaks-out-mental-health-racism/107390656",
+      "provider": "ABC News Australia",
+      "title": "'They cut a bit different': Khawaja opens up on facing racism growing up",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0447564,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/beau-lamarre-condon-wraps-witness-box-time-double-murder-trial/107389970",
+      "provider": "ABC News Australia",
+      "title": "'I wasn't hiding anything': Lamarre-Condon's time in witness box ends",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0447936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/inquest-into-teen-shot-dead-by-police-willetton-bunnings/107389926",
+      "provider": "ABC News Australia",
+      "title": "Teen threatened 'jihad' minutes before fatal police shooting at Bunnings",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0448313,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/nt-teenage-boy-charged-with-terrorism-offences-refused-bail/107383978",
+      "provider": "ABC News Australia",
+      "title": "14yo terror accused wrote 'a massacre needs to happen', court hears",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0448685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/todd-russell-beaconsfield-mine-survivor-remembered-in-memorial/107388798",
+      "provider": "ABC News Australia",
+      "title": "Beaconsfield miner Todd Russell remembered for his life and legacy",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0449078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
+      "provider": "ABC News Australia",
+      "title": "Coles investigates cyber attack but provides little detail",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0449936,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/atong-atem-first-african-australian-artist-solo-ngv-show/107383772",
+      "provider": "ABC News Australia",
+      "title": "The artist subverting colonial history in her new photography show",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0450408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/merle-thornton-honoured-with-statue-brisbane/107390608",
+      "provider": "ABC News Australia",
+      "title": "Woman who chained herself to Brisbane bar in protest honoured with statue",
+      "status": "pending",
+      "firstSeenAt": 1794815717.045099,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/four-of-our-favourite-potato-recipes/107362442",
+      "provider": "ABC News Australia",
+      "title": "Four of our favourite potato recipes",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0451355,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/calvary-health-care-transition-delay-darwin-private-hospital/107390974",
+      "provider": "ABC News Australia",
+      "title": "Darwin Private Hospital to run 'as usual' after Calvary flags delays",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0455031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/thousands-of-people-protest-ai-data-centre-proposals/107389678",
+      "provider": "ABC News Australia",
+      "title": "Small regional town fights back against proposed AI data centre",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0455744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/author-biddulph-lashes-rockliff-trevallyn-christmas-school/107390464",
+      "provider": "ABC News Australia",
+      "title": "Biddulph lashes Rockliff over Christmas social media pile-on",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0456038,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/commissioner-criticises-police-action-on-labour-hire-syndicates/107382860",
+      "provider": "ABC News Australia",
+      "title": "Labour hire syndicates have 'little fear of consequence', watchdog says",
+      "status": "pending",
+      "firstSeenAt": 1794815717.045633,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/hero-intervenes-as-man-suffers-medical-episode-driving/107389706",
+      "provider": "ABC News Australia",
+      "title": "'Absolute hero' intervenes as man suffers stroke while driving",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0456774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/russell-brand-wife-issues-statement-saying-he-is-not-guilty/107389440",
+      "provider": "ABC News Australia",
+      "title": "Russell Brand issues statement from prison saying he is not guilty",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0457637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/qld-logan-drive-by-shooting-cctv/107391630",
+      "provider": "ABC News Australia",
+      "title": "Police release CCTV footage that could help solve fatal drive-by shooting",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0458016,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/nsw-house-price-advertising-underquoting-laws/107390420",
+      "provider": "ABC News Australia",
+      "title": "NSW real estate laws shelved day before coming into effect",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0458388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/indonesian-ghost-barge-nelly-112-rusts-torres-strait/107390228",
+      "provider": "ABC News Australia",
+      "title": "Tug of war continues over mysterious foreign barge",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0459116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/russell-island-house-fire-five-boys-man-killed-inquest/107389450",
+      "provider": "ABC News Australia",
+      "title": "Mother of five children killed in house fire tells inquest 'fire was everywhere'",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0459626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/ken-wyatt-named-as-wa-s-first-indigenous-governor/107391360",
+      "provider": "ABC News Australia",
+      "title": "Former federal minister Ken Wyatt named as WA's first Indigenous governor",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0459948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/hailstorm-blankets-mudgee-storm-warning-issued/107390400",
+      "provider": "ABC News Australia",
+      "title": "Hailstorm blankets Mudgee as giant hail warning issued for north-east NSW",
+      "status": "pending",
+      "firstSeenAt": 1794815717.046031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/report-into-outer-perth-council-details-internal-trouble/107390368",
+      "provider": "ABC News Australia",
+      "title": "Report into Serpentine Jarrahdale council details dysfunction",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0460804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/artem-vasilyev-strict-supervision-conditions-high-risk-offender/107390208",
+      "provider": "ABC News Australia",
+      "title": "Former defence employee with guns cache deemed high risk offender",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0461164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/mid-north-coast-homes-abandoned-to-coastal-erosion/107378756",
+      "provider": "ABC News Australia",
+      "title": "Coastal council decides 'managed retreat' is way to deal with erosion",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0461495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/paedophile-sterling-mervyn-free-released/107389620",
+      "provider": "ABC News Australia",
+      "title": "Judge rejects bid to keep Kmart child sex offender behind bars",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0462003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/two-people-left-stranded-on-skyvista-perth-ferris-wheel/107390134",
+      "provider": "ABC News Australia",
+      "title": "Two left stuck on Perth ferris wheel in the dark after ride turned off",
+      "status": "pending",
+      "firstSeenAt": 1794815717.046233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/14-year-old-byron-bay-surfer-wins-world-surfing-games-in-peru/107388968",
+      "provider": "ABC News Australia",
+      "title": "Byron Bay girl stuns surfing world just days after turning 14",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0462694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-16/racehorse-so-you-are-dies-of-colic-13-days-after-melbourne-cup/107390932",
+      "provider": "ABC News Australia",
+      "title": "Racehorse So You Are dies of colic 13 days after running in Melbourne Cup",
+      "status": "pending",
+      "firstSeenAt": 1794815717.0470786,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
