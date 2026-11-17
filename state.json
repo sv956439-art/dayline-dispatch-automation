@@ -107298,9 +107298,633 @@
       "status": "pending",
       "firstSeenAt": 1794906020.8330035,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crz9dgz28zwdo",
+      "provider": "BBC",
+      "title": "How the attack on Putin's prized Crimean Bridge unfolded One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv. 3 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4976032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwx2en2vrxmdo",
+      "provider": "BBC",
+      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return. 34 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4976282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c977p71jx0xxo",
+      "provider": "BBC",
+      "title": "US loses measles elimination status after 26 years amid record case numbers States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s. 1 hr ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4976475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5vlxxx32no",
+      "provider": "BBC",
+      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\". 5 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4976878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261116-why-the-bloomsbury-group-artists-still-spark-debate",
+      "provider": "BBC",
+      "title": "Radical or snobby? Virginia Woolf’s bohemian British artists still stirring debate The Bloomsbury Group was a famously forward-thinking coterie of early-20th-Century artists and writers, and is the subject of a new exhibition in London. Why are they still divisive?",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4977057,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261116-five-ways-to-boost-your-iron-that-have-nothing-to-do-with-meat-or-supplements",
+      "provider": "BBC",
+      "title": "Five surprising ways to boost your iron - that have nothing to do with meat Ferment it, boil it, or sprinkle it with lemon. When it comes to iron absorption, it's not just what you eat, but how you eat it that matters.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.497724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq808vzd3nnpo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4979184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98xlz09ye0o",
+      "provider": "BBC",
+      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1794939429.497943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx1l0n3v003eo",
+      "provider": "BBC",
+      "title": "Rooney says he considered taking his own life at Man Utd Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\". 4 hrs ago Football",
+      "status": "pending",
+      "firstSeenAt": 1794939429.497961,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg27zyrd99o",
+      "provider": "BBC",
+      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting' Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction. 8 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4979782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrlg377638yo",
+      "provider": "BBC",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked. 3 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4979947,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8x2r6gyy2pzo",
+      "provider": "BBC",
+      "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007 What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond? 5 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1794939429.498021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn504nq5033o",
+      "provider": "BBC",
+      "title": "US government confirms investigation into tech firm Megaspeed The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules. 7 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4980364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20251128-how-to-boost-your-calorie-crunching-brown-fat-in-the-cold-winter-months",
+      "provider": "BBC",
+      "title": "The special fat that burns calories when it's cold Brown fat burns energy when we are cold. Now scientists are trying to harness its powers to fight obesity and type 2 diabetes.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4980638,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c051mdgd1ddo",
+      "provider": "BBC",
+      "title": "Three easy ways to help you beat the winter blues It's easy to feel gloomy in winter, but here are three ways to help you manage the darker days and even embrace them.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4980793,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxr5g4lyp94no",
+      "provider": "BBC",
+      "title": "Who to watch in Spain's election race Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4983401,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqlykve012d1o",
+      "provider": "BBC",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4983535,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq7825234lgmo",
+      "provider": "BBC",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4983668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwq6e2qgvmlgo",
+      "provider": "BBC",
+      "title": "How new US chip restrictions on South East Asia will hit China The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.498402,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr1ewlqjn694o",
+      "provider": "BBC",
+      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4984636,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cj752w5q7z90o",
+      "provider": "BBC",
+      "title": "South Africa head coach Erasmus banned for six matches South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4986277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cm93080ep703o",
+      "provider": "BBC",
+      "title": "Woods set to return next month after two years out",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4986413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5742x4xldmpo",
+      "provider": "BBC",
+      "title": "FA wants to host Nations League finals in England",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4986541,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c63eg3ekxnpyo",
+      "provider": "BBC",
+      "title": "Arsenal Double winner Storey dies aged 81",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4986665,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9vg2xgn0xe5o",
+      "provider": "BBC",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong' Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4987457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4gnpgl0zkxo",
+      "provider": "BBC",
+      "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+      "status": "pending",
+      "firstSeenAt": 1794939429.4987586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg2xvdpy2ro",
+      "provider": "BBC",
+      "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+      "status": "pending",
+      "firstSeenAt": 1794939429.498771,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x29yznxxq8o",
+      "provider": "BBC",
+      "title": "Hot weather delays park maintenance projects",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5708203,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqp83n253xvno",
+      "provider": "BBC",
+      "title": "9 hrs ago Seal back in pool after successful eye surgery Jarvis is back with his friends at the seal sanctuary near Gweek after getting the all-clear. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5709403,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9vg2ldlm045o",
+      "provider": "BBC",
+      "title": "10 hrs ago 'Antarctic Christmas will be incredible' Shrewsbury adventurer Oli Wilde's wild life takes another turn as he prepares to spend Christmas in Antarctica. 10 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5709548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98xl5zn63xo",
+      "provider": "BBC",
+      "title": "12 hrs ago 'Hogspital' founder saddened by intake pause Val Saunders says she is looking after 24 very ill hoglets when she would normally limit it to 16. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5709782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c962pzdmjeljo",
+      "provider": "BBC",
+      "title": "12 hrs ago How moves to 'de-pave' town could cut flash floods Work is being done around Oswestry to use natural solutions to help combat the effects of flooding. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5709908,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwy09gejr08o",
+      "provider": "BBC",
+      "title": "12 hrs ago Dog suffering severe infection saved by rescue But rescue owner says that dog abandonments are on the rise and \"out of hand\" 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5710046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp9dn4jzvxzo",
+      "provider": "BBC",
+      "title": "12 hrs ago Former gin distillery cleared for use as exotic animal sanctuary A lynx, wolfdog and turkey vulture are among the creatures to be kept at the site in southern Scotland. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5710173,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crd610g24j20o",
+      "provider": "BBC",
+      "title": "12 hrs ago Reservoirs get boost but water-saving plea remains Storms brought the first rise in reservoir levels since June, adding 100 million litres. 12 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.571031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8e0rx3egx4o",
+      "provider": "BBC",
+      "title": "1 day ago Trust secures cash for 'hidden gem' nature reserve Lincolnshire Wildlife Trust reaches its funding target to buy grassland habitat near Hawthorpe. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5710542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3rglzqjl90o",
+      "provider": "BBC",
+      "title": "1 day ago Experts explore returning beavers to River Waveney A trust says the river-dwelling mammals could improve the health of the waterway. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5710695,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9x2elzm047po",
+      "provider": "BBC",
+      "title": "1 day ago Gas starts flowing from Jackdaw after government green light Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5710835,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpqrdwzrlj7o",
+      "provider": "BBC",
+      "title": "2 days ago No people or animals hurt in fire, says attraction Chobham Adventure Farm says its Christmas experience \"has suffered damage\" in Saturday's blaze. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5710964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6n0le9pzr8qo",
+      "provider": "BBC",
+      "title": "2 days ago Weekly round-up: Five stories you may have missed Queen Mary 2's 450th crossing and a wedding-crashing dog feature in our most-read stories this week. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1794939429.5711102,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7258878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7259645,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7259777,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7260375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/18/chris-minns-labor-backflips-are-adding-up-is-he-clearing-the-runway-or-panicking-nsw-state-election",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7260528,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7260654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7260895,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7261164,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7261274,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7261388,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7261593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7261958,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7262075,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.72622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/17/helping-neets-into-work-project",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7263515,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7263637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7263756,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/17/scammed-migrant-workers-modern-slavery-home-office",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7263873,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726432,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/17/grand-canyon-plane-crash-arizona-wreckage-found",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7264435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726455,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/polar-vortex-flipped-uk-snow-explainer",
+      "provider": "The Guardian",
+      "title": "What is the polar vortex, why has it flipped and will it bring the UK snow?",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726536,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/17/jd-vance-democrats-trans-sports-flight-stoppage",
+      "provider": "The Guardian",
+      "title": "JD Vance blames Democrats for flight stoppage, claiming ‘obsession with men in women’s sports’",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726605,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
+      "provider": "The Guardian",
+      "title": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7266278,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/17/evangelical-church-exorcism-demons-charismatic-worship",
+      "provider": "The Guardian",
+      "title": "‘I know I sound crazy’: the creep of demons into American evangelical churches",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7266424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/nov/17/edward-hopper-sexual-problems-melancholy-wife-lighthouses",
+      "provider": "The Guardian",
+      "title": "‘His wife was horrified’: did Edward Hopper paint his sexual problems?",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7266562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
+      "provider": "The Guardian",
+      "title": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
+      "status": "pending",
+      "firstSeenAt": 1794939429.7266774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/17/should-jd-vance-run-for-president-2028",
+      "provider": "The Guardian",
+      "title": "double quotation mark Should JD Vance run for president? I say go for it, habibi!",
+      "status": "pending",
+      "firstSeenAt": 1794939429.726713,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
+      "provider": "ABC News Australia",
+      "title": "Trump praises Albanese as Quad unveils defence and minerals deals",
+      "status": "pending",
+      "firstSeenAt": 1794939430.3074183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042",
+      "provider": "ABC News Australia",
+      "title": "Jensen Huang says he'd be 'honoured' to come back to Nvidia",
+      "status": "pending",
+      "firstSeenAt": 1794939430.3074698,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/us-loses-measles-free-status-after-26-years/107397030",
+      "provider": "ABC News Australia",
+      "title": "US loses measles-free status after 26 years",
+      "status": "pending",
+      "firstSeenAt": 1794939430.307504,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/ukraine-damages-crimean-bridge-in-major-strike/107396824",
+      "provider": "ABC News Australia",
+      "title": "Ukraine strikes Putin's Kerch Bridge linking Crimea with Russia",
+      "status": "pending",
+      "firstSeenAt": 1794939430.3075647,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/chalmers-proposes-new-rules-for-super-funds/107396462",
+      "provider": "ABC News Australia",
+      "title": "Chalmers proposes rules to allow super to invest in housing, energy, startups",
+      "status": "pending",
+      "firstSeenAt": 1794939430.3076103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/why-recognition-of-sexual-assault-often-clicks-years-later/107340828",
+      "provider": "ABC News Australia",
+      "title": "Why recognition of sexual assault 'often clicks' years later",
+      "status": "pending",
+      "firstSeenAt": 1794939430.30824,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/senate-paraquat-inquiry-forgoes-public-hearing/107393820",
+      "provider": "ABC News Australia",
+      "title": "Senate paraquat inquiry under fire over vote to skip public hearings",
+      "status": "pending",
+      "firstSeenAt": 1794939430.3082652,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358",
+      "provider": "ABC News Australia",
+      "title": "Bupa GP clinic urged doctors to bill costly Medicare items to lift revenue",
+      "status": "pending",
+      "firstSeenAt": 1794939430.3082905,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
