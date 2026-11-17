@@ -106762,9 +106762,545 @@
       "status": "pending",
       "firstSeenAt": 1794877357.897634,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw772jk4rvmxo",
+      "provider": "BBC",
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+      "status": "pending",
+      "firstSeenAt": 1794906020.389823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c30rk8x5g80qo",
+      "provider": "BBC",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72 Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say. 3 hrs ago BBC Verify",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3898485,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6kgq8d779lro",
+      "provider": "BBC",
+      "title": "How Met failed to stop rape-unit detective who abused women Warren Arter used his position - running a team investigating sexual assaults - to target women. 3 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3898783,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1ewl2zjqgzo",
+      "provider": "BBC",
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip bin The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip. 2 hrs ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3899212,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkgr9m41engo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3901103,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cm0ev1d54n52o",
+      "provider": "BBC",
+      "title": "The Briton scouted as a spectator, now on brink of NFL Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport? 2 hrs ago American Football",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3901446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gn9xnn1ppo",
+      "provider": "BBC",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox 8 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3901618,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crq5vl1l6z2po",
+      "provider": "BBC",
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "status": "pending",
+      "firstSeenAt": 1794906020.390483,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5y1wr1535ko",
+      "provider": "BBC",
+      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3904982,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60evw20qe47o",
+      "provider": "BBC",
+      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3905113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr894xq5yeyko",
+      "provider": "BBC",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3905244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/crgqx1zz94d4o",
+      "provider": "BBC",
+      "title": "What's the story with Pocognoli, is it now time to go? The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3907728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cvgxvg4v981o",
+      "provider": "BBC",
+      "title": "Why always him? The rise and fall of Balotelli",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3907866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/boxing/articles/cv4gnp901zzxo",
+      "provider": "BBC",
+      "title": "Irish boxer Reeves dies aged 31 after three months in coma",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3908098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm792z3yej2ro",
+      "provider": "BBC",
+      "title": "I sang carols to the Ghost of Christmas Present – and Johnny Depp Colin Fraser, from Barton-le-Clay, says it was \"amazing\" to be a singer in the new Ebenezer film.",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3908875,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwjd7n2lk5plo",
+      "provider": "BBC",
+      "title": "Naked calendar raises thousands for cancer charity",
+      "status": "pending",
+      "firstSeenAt": 1794906020.3908997,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv702w933jddo",
+      "provider": "BBC",
+      "title": "Holidaymaker says visa error blocked entry to Italy",
+      "status": "pending",
+      "firstSeenAt": 1794906020.4459825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck1wrqdnqve5o",
+      "provider": "BBC",
+      "title": "Strangers walked into woman's Travelodge room while she was undressed",
+      "status": "pending",
+      "firstSeenAt": 1794906020.4459996,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmkgdx1zql5do",
+      "provider": "BBC",
+      "title": "Design approved for tourism sign at M1 junction",
+      "status": "pending",
+      "firstSeenAt": 1794906020.4460266,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5611231,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5612009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.561216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5612926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5613053,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5613172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5613308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/17/aboriginal-mother-allegedly-kicked-off-bus-crying-baby-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.561343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.561382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5613937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5614054,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5615156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5615907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/waitrose-christmas-ad-launch-keira-knightley",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5616024,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.561614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/invest-international-rail-services-boost-uk-eu-reset-andy-burnham",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.561626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5616808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5617042,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5617836,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/tuesday-briefing-andy-burnhams-government-wants-to-get-young-people-into-work-will-cutting-their-benefits-help",
+      "provider": "The Guardian",
+      "title": "Tuesday briefing: Andy Burnham’s government wants to get young people into work. Will cutting their benefits help?",
+      "status": "pending",
+      "firstSeenAt": 1794906020.56183,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+      "provider": "The Guardian",
+      "title": "California braces for more towering waves as powerful storms approach",
+      "status": "pending",
+      "firstSeenAt": 1794906020.5619495,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474",
+      "provider": "ABC News Australia",
+      "title": "Government backflips on backpacker policy",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8309314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/greens-offer-government-path-to-pass-trusts-cgt/107394802",
+      "provider": "ABC News Australia",
+      "title": "Greens offer government a path to pass trusts and capital gains tax changes",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8309784,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/dead-melbourne-cup-runner-so-you-are-found-in-sydney-skip-bin/107395274",
+      "provider": "ABC News Australia",
+      "title": "Melbourne Cup runner So You Are found in Sydney skip bin",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8310077,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860",
+      "provider": "ABC News Australia",
+      "title": "Bunnings cuts 230 jobs in partial offshoring of tech services",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8310792,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/whistleblower-david-mcbride-gives-first-interview-since-prison/107392058",
+      "provider": "ABC News Australia",
+      "title": "'I'd absolutely do it again': David McBride's first interview since leaving prison",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8311112,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/inquest-twins-death-after-freebirth-could-have-been-avoided/107394820",
+      "provider": "ABC News Australia",
+      "title": "Twins' death after freebirth could have been avoided, inquest hears",
+      "status": "pending",
+      "firstSeenAt": 1794906020.831142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/nvidia-rules-out-jensen-huang-return/107394520",
+      "provider": "ABC News Australia",
+      "title": "Nvidia rules out Jensen Huang comeback despite backing from big names",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8311868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/power-player-josh-sinn-banned-for-six-afl-matches-for-betting/107396008",
+      "provider": "ABC News Australia",
+      "title": "Power player banned for six AFL matches for betting on games",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8312132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/online-banking-delays-us-banks/107395034",
+      "provider": "ABC News Australia",
+      "title": "What to know about the online banking delays affecting major US banks",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8312435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/png-policy-aims-to-limit-families-to-three-children/107385842",
+      "provider": "ABC News Australia",
+      "title": "Pacific country to propose three-child limit to slow surging population",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8312762,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/mandurah-teacher-sentenced-after-having-students-baby/106205970",
+      "provider": "ABC News Australia",
+      "title": "Boy, 13, faces 'nightmare without end' after teacher had his baby",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8313081,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/how-robert-pattinson-went-from-twilight-to-james-bond/107393970",
+      "provider": "ABC News Australia",
+      "title": "Robert Pattinson as James Bond throws out the 007 playbook",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8313377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/celebrating-my-ostomy-bag-even-if-it-grosses-you-out/107238520",
+      "provider": "ABC News Australia",
+      "title": "I'm celebrating my ostomy bag, even if it grosses others out",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8314276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/armed-fugitive-peppimenarti-and-wadeye-unrest/107396456",
+      "provider": "ABC News Australia",
+      "title": "Alleged fugitive fires rifle in fight and crashes stolen car with passengers",
+      "status": "pending",
+      "firstSeenAt": 1794906020.831807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/nine-months-wait-leaves-australia-cricket-world-cup-conundrum/107396258",
+      "provider": "ABC News Australia",
+      "title": "Nine-month wait leaves Australia in a Cricket World Cup conundrum",
+      "status": "pending",
+      "firstSeenAt": 1794906020.831833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/teenage-boy-hit-by-car-in-toowoomba/107396142",
+      "provider": "ABC News Australia",
+      "title": "Teenage boy fighting for life after being hit by car in Toowoomba",
+      "status": "pending",
+      "firstSeenAt": 1794906020.831857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/andrew-young-stuart-douglas-blair-young-granted-bail-toowoomba/107394122",
+      "provider": "ABC News Australia",
+      "title": "Queensland YouTuber brothers granted bail after police drug bust",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8318813,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/bus-routes-to-change-during-story-bridge-closure/107395642",
+      "provider": "ABC News Australia",
+      "title": "Buses rerouted, stops closed during Story Bridge closure",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8319051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/fiona-coulson-cdu-new-vice-chancellor-charles-darwin-university/107394316",
+      "provider": "ABC News Australia",
+      "title": "New vice-chancellor appointed to lead embattled NT university CDU",
+      "status": "pending",
+      "firstSeenAt": 1794906020.831928,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/james-hollands-enjoyed-extremist-content-inquest-told/107395226",
+      "provider": "ABC News Australia",
+      "title": "Teen shot dead after stabbing stranger 'very much enjoyed' extremist content",
+      "status": "pending",
+      "firstSeenAt": 1794906020.832021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/southern-tasmanian-man-charged-with-murder-over-baby-death/107394632",
+      "provider": "ABC News Australia",
+      "title": "Man charged with murder of two-week-old Hobart baby",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8320503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/woman-toddler-drown-in-craigieburn-in-melbournes-north/107395678",
+      "provider": "ABC News Australia",
+      "title": "Bodies of woman and toddler found in Melbourne lake",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8320801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/swim-gp-swimming-australia-learn-to-swim-schools/107394338",
+      "provider": "ABC News Australia",
+      "title": "The longer-term thinking driving Swimming Australia's newest event",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8321216,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/big-build-royal-commission-cfmeu-bikie-text-messages/107395066",
+      "provider": "ABC News Australia",
+      "title": "Bikie admits to inquiry he may have charged Vic taxpayers for shifts not worked",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8321872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/nsw-ndis-plot-richard-kennedy-court/107378712",
+      "provider": "ABC News Australia",
+      "title": "Messages reveal how police unravelled $450k NDIS plot",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8322396,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/melbourne-council-apology-to-macedonian-community-for-flag-ban/107394986",
+      "provider": "ABC News Australia",
+      "title": "Melbourne council apologises to Macedonian community over Moomba flag ban",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8324308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-17/wallabies-in-danger-of-missing-big-three-target/107394674",
+      "provider": "ABC News Australia",
+      "title": "Wallabies in danger of missing 'big three' target",
+      "status": "pending",
+      "firstSeenAt": 1794906020.8330035,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
