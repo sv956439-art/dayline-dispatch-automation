@@ -109274,9 +109274,457 @@
       "status": "pending",
       "firstSeenAt": 1794989813.7006807,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c32l507ev4v4o",
+      "provider": "BBC",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region. 17 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9901934,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6z0kly2lll7o",
+      "provider": "BBC",
+      "title": "Hacks, AI or just overdue updates - why have there been so many outages? There is no evidence these are linked, but the constant series of tech disruptions can be unnerving. 4 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9902256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmd7159vlr85o",
+      "provider": "BBC",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich. 3 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9902637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261111-the-20-best-places-to-travel-in-2027",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9902866,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261117-10-of-the-best-tv-shows-to-watch-this-december",
+      "provider": "BBC",
+      "title": "10 of the best TV shows to watch this December From a new small screen adaptation of the mega-hit Harry Potter novels to Netflix's take on Jane Austen classic Pride and Prejudice – these are the best series to watch and stream.",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9903119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261117-faecal-transplants-what-it-takes-to-be-a-super-pooper",
+      "provider": "BBC",
+      "title": "‘The pinnacle of human health’: The people who donate their poo Poo transplants are on the rise, but less than 3% of us produce a product that is worthy of donation. Even fewer are super poopers. This is the search for the fairest stool of all.",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9903295,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8r75xm8v4po",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022289.990484,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq702k1w8xd3o",
+      "provider": "BBC",
+      "title": "Minister criticises media for 'amplifying' Russell Brand's prison message Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife. 5 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9905276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy49873dn95o",
+      "provider": "BBC",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January. 8 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9905472,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm87987w1qz5o",
+      "provider": "BBC",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager. 8 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1795022289.990565,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d93z0e9gjo",
+      "provider": "BBC",
+      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat. 1 hr ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9905932,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6x284pnn4e2o",
+      "provider": "BBC",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9908488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck9d75x5wwwwo",
+      "provider": "BBC",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "status": "pending",
+      "firstSeenAt": 1795022289.990865,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6lyw490z14jo",
+      "provider": "BBC",
+      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9908776,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4gn9jeqjq7o",
+      "provider": "BBC",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9908912,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckq6eg55n221o",
+      "provider": "BBC",
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9909155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqwy41w3zydgo",
+      "provider": "BBC",
+      "title": "The sandpaper plot - who was there, who said what? As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+      "status": "pending",
+      "firstSeenAt": 1795022289.991134,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cj3vgp36z063o",
+      "provider": "BBC",
+      "title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9911482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cmvg28v20xy0o",
+      "provider": "BBC",
+      "title": "Divide and conquer - now maverick Erasmus plans online watchalong",
+      "status": "pending",
+      "firstSeenAt": 1795022289.991172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/c6vg28end00xo",
+      "provider": "BBC",
+      "title": "Duckett ton & impressive bowlers give England series win",
+      "status": "pending",
+      "firstSeenAt": 1795022289.9911852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj3kelenm0do",
+      "provider": "BBC",
+      "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
+      "status": "pending",
+      "firstSeenAt": 1795022289.991258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm5y1eejk292o",
+      "provider": "BBC",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\". 13 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1795022290.061994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy498kdkx3xo",
+      "provider": "BBC",
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "status": "pending",
+      "firstSeenAt": 1795022290.0622709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6d01e8m15mko",
+      "provider": "BBC",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help? The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "status": "pending",
+      "firstSeenAt": 1795022290.0623062,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw3djdjk5d7ko",
+      "provider": "BBC",
+      "title": "Where are the most jobs for 18-24 year-olds? How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "status": "pending",
+      "firstSeenAt": 1795022290.06233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6p9dzmj514ko",
+      "provider": "BBC",
+      "title": "2 days ago Create more jobs for under-25s by cutting National Insurance, key report urges Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795022290.0624988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3699086,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3700979,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.370109,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3701596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3701696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3701797,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/spanish-court-investigates-julio-iglesias-two-women-allegations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3701897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3701994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3702219,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.370354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3703637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/18/cancer-patients-nhs-trust-unnecessary-chemotherapy-coventry",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.370373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3703823,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/rfk-jr-childrens-health-defense-meta",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3704095,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.370419,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3704283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3704474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms",
+      "provider": "The Guardian",
+      "title": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3705668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
+      "provider": "The Guardian",
+      "title": "‘Worst decision in cinema history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3705795,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
+      "provider": "The Guardian",
+      "title": "‘They want silence’: how the film NAZA is shaking Israel",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3706155,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
+      "provider": "The Guardian",
+      "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3706264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+      "provider": "The Guardian",
+      "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3706377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+      "provider": "The Guardian",
+      "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+      "status": "pending",
+      "firstSeenAt": 1795022290.3706586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/cameron-bancroft-says-australian-players-knew-about-sandpaper/107401286",
+      "provider": "ABC News Australia",
+      "title": "Bancroft says 'whole team' knew about sandpaper in explosive claims",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0226421,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/telstra-outage-drives-surge-in-telco-outage-complaints/107400558",
+      "provider": "ABC News Australia",
+      "title": "Surge in complaints, compensation claims after Telstra outage",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0227497,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/xi-trump-red-carpet-welcome/107401618",
+      "provider": "ABC News Australia",
+      "title": "Xi gives Trump personal welcome ahead of historic trilateral talks with Putin",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0227778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/alaska-senate-race-won-by-mary-peltola-vs-dan-sullivan-democrats/107401002",
+      "provider": "ABC News Australia",
+      "title": "Democrats defeat Republicans to win Alaska Senate race",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0228493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/aria-awards-2026-tame-impala-ecca-vandal-genesis-owusu-ai/107401124",
+      "provider": "ABC News Australia",
+      "title": "Tame Impala makes ARIA Awards history as acts make noise about AI",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0228748,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/harry-styles-billie-eilish-and-cher-to-headline-glastonbury/107401368",
+      "provider": "ABC News Australia",
+      "title": "Harry Styles, Billie Eilish and Cher to headline Glastonbury",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0229614,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-18/what-surprised-siofra-oconnell-about-afl-footy-carlton-aflw/107399210",
+      "provider": "ABC News Australia",
+      "title": "'Why are they selling pies?' What surprised O'Connell about AFL footy",
+      "status": "pending",
+      "firstSeenAt": 1795022291.0239706,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
