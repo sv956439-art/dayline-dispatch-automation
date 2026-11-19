@@ -110338,9 +110338,369 @@
       "status": "pending",
       "firstSeenAt": 1795044316.9655871,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6742m39xgzxo",
+      "provider": "BBC",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut The firm started just five years ago and is now one of the biggest names in artificial intelligence. 2 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1795061929.4517517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9q8j2z3gg8o",
+      "provider": "BBC",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish' The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump. 1 hr ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795061929.4517856,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqd01epyrz1do",
+      "provider": "BBC",
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey. 4 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1795061929.4520307,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62ped2ypy4o",
+      "provider": "BBC",
+      "title": "William and Kate meet PM Modi as they wrap up India tour The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize 8 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1795061929.452059,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5dj1dkwzvzwo",
+      "provider": "BBC",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "status": "pending",
+      "firstSeenAt": 1795061929.4523132,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm879dqn3e1jo",
+      "provider": "BBC",
+      "title": "Crimean Bridge attacked again, Russian official says The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "status": "pending",
+      "firstSeenAt": 1795061929.4523687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq20xg80ly47o",
+      "provider": "BBC",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "status": "pending",
+      "firstSeenAt": 1795061929.4523811,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm62y2e4qd9yo",
+      "provider": "BBC",
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+      "status": "pending",
+      "firstSeenAt": 1795061929.5027966,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.617588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6178153,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6178286,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6178415,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6178656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6178806,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6179104,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.617923,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6179855,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6182315,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6182444,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/ukraine-war-briefing-russia-embassy-netherlands-destinus-missiles-kerch-crimea-bridge-strike",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6183426,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/china-gives-japan-pm-frosty-welcome-apec",
+      "provider": "The Guardian",
+      "title": "China gives Japan PM frosty welcome at Apec amid fanfare for other leaders",
+      "status": "pending",
+      "firstSeenAt": 1795061929.6183705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "provider": "The Guardian",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "status": "pending",
+      "firstSeenAt": 1795061929.618435,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards",
+      "provider": "The Guardian",
+      "title": "Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
+      "status": "pending",
+      "firstSeenAt": 1795061929.618477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
+      "provider": "ABC News Australia",
+      "title": "Analysts surprised as unemployment rate surges to 4.9pc in October",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3646994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/australia-cruise-industry-economic-loss-rising-costs/107402518",
+      "provider": "ABC News Australia",
+      "title": "Cruise lines abandon Australia as industry loses $1.75b",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3648021,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-makes-first-statement-since-sandpaper-article/107403394",
+      "provider": "ABC News Australia",
+      "title": "Bancroft says he is 'freed' as Cummins hits nets with captaincy in question",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3648348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/beau-lamarre-condon-trial-wounded-pride-murder-closing-address/107402764",
+      "provider": "ABC News Australia",
+      "title": "'Wounded pride' drove Lamarre-Condon to murder 'in cold blood', jury told",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3649597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/tammy-shipley-inquest-findings-death-in-custody/107398998",
+      "provider": "ABC News Australia",
+      "title": "Coroner finds 'serious failure' in death in custody of mother of five",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3649926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/aged-care-provider-barton-care-stripped-of-licence-in-victoria/107402794",
+      "provider": "ABC News Australia",
+      "title": "Major aged care staffing agency stripped of licence to operate in Victoria",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3650239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/general-pants-co-administration/107402800",
+      "provider": "ABC News Australia",
+      "title": "General Pants Co collapses into voluntary administration",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3650541,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/one-nation-migrant-welfare-graph-rubbished-by-researcher/107403150",
+      "provider": "ABC News Australia",
+      "title": "One Nation candidate's migrant welfare graph completely wrong, researcher says",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3651412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/fiona-the-hippo-in-treatment-after-swallowing-hat-cincinnati-zoo/107402366",
+      "provider": "ABC News Australia",
+      "title": "Hippo who ate hat under round-the-clock medical watch at US zoo",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3651993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/adelaide-actor-robert-pattinson-the-rover-outback-pub/107399642",
+      "provider": "ABC News Australia",
+      "title": "Adelaide-based body double recalls upstaging new Bond in outback pub",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3652303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/three-works-to-see-at-regional-arts-triennial-western-australia/107365180",
+      "provider": "ABC News Australia",
+      "title": "Hope and connection on display at regional arts exhibition",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3652716,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/pink-panther-pub-for-sale/107403284",
+      "provider": "ABC News Australia",
+      "title": "Northern Territory pub at centre of outback mystery up for sale again",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3656232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/act-elderly-man-likely-spend-life-in-custody-for-killing-wife/107403862",
+      "provider": "ABC News Australia",
+      "title": "Elderly man who fatally stabbed wife likely to spend life in custody",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3656375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/narrogin-triple-fatality-crash-parents-speak/107399488",
+      "provider": "ABC News Australia",
+      "title": "'Big disaster' for WA community as tributes flow for three adored friends",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3656626,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/critics-chevron-gorgon-plumes-expose-greenhouse-gas-monitoring/107390220",
+      "provider": "ABC News Australia",
+      "title": "Observers concerned over alleged gaps in WA emissions monitoring",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3658373,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/afl-draft-2026-everything-you-need-to-know-guide-time-picks/107398510",
+      "provider": "ABC News Australia",
+      "title": "When is the AFL draft and how does it work? Here's what you need to know",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3660774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/four-aussies-chasing-biggest-payday-in-history-of-women-golf/107403068",
+      "provider": "ABC News Australia",
+      "title": "Four Aussies chasing biggest payday in history of women's golf",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3660994,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/tasmania-government-blocks-ai-data-centre-moratorium/107402270",
+      "provider": "ABC News Australia",
+      "title": "Premier refuses to enact data centre halt after motion passes lower house",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3661687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/families-and-surrogates-react-to-proposed-surrogacy-law-change/107080142",
+      "provider": "ABC News Australia",
+      "title": "'Needle in a haystack': Australia weighs proposed surrogacy law changes",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3661964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/tree-protestors-ordered-to-pay-government-legal-fees/107402694",
+      "provider": "ABC News Australia",
+      "title": "Tree protestors ordered to pay $150k for failed bid to halt golf course",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3662653,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/qld-community-organisations-urge-premier-amid-funding-crisis/107402616",
+      "provider": "ABC News Australia",
+      "title": "Queensland community groups urge premier to act amid funding crisis",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3662922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/wallabies-looking-for-response-against-wales/107403808",
+      "provider": "ABC News Australia",
+      "title": "Wallabies looking for attacking spark against Wales",
+      "status": "pending",
+      "firstSeenAt": 1795061930.3669138,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
