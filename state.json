@@ -110698,9 +110698,689 @@
       "status": "pending",
       "firstSeenAt": 1795061930.3669138,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c58j484089ewo",
+      "provider": "BBC",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast Some local media report that at least four bodies have been recovered. 4 hrs ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7618418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261112-why-does-plane-clapping-make-people-so-angry-experts-explain",
+      "provider": "BBC",
+      "title": "Plane clapping - joyful or deeply cringe? Why a few seconds of applause when a plane lands can provoke surprisingly strong reactions – and what psychologists say are behind them.",
+      "status": "pending",
+      "firstSeenAt": 1795094737.761925,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261118-shocking-new-film-josephine-confronts-sexual-violence-through-a-childs-eyes",
+      "provider": "BBC",
+      "title": "Shocking new film Josephine confronts sexual violence through a child's eyes Based on her own experience, director Beth de Araújo's drama tells the story of a child who witnesses a rape. It's being hailed as one of 2026's most harrowing watches.",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7619545,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6174edpp5e8o",
+      "provider": "BBC",
+      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7623413,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm702q0lg50po",
+      "provider": "BBC",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795094737.76237,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6x28e93zv3jo",
+      "provider": "BBC",
+      "title": "How Premier League's big six keep getting richer Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds. 6 hrs ago Premier League",
+      "status": "pending",
+      "firstSeenAt": 1795094737.762399,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgrenln8p29o",
+      "provider": "BBC",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say Move comes after Brand's wife shared a message from him in which he claimed his innocence. 15 mins ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7624285,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260624-why-tech-companies-want-to-take-away-your-screen",
+      "provider": "BBC",
+      "title": "Why this could be the beginning of the end for your screens Some tech leaders have a vision for a world where you spend a lot less time looking at your phone. Is it the solution to screen time, or just a new dystopia?",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7625518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20260203-the-ai-that-quietly-edits-all-of-your-photos",
+      "provider": "BBC",
+      "title": "Is your phone altering your memories? Modern phones edit all our photos with AI, from simple enhancements to hallucinated facial features. Is it changing our view of reality?",
+      "status": "pending",
+      "firstSeenAt": 1795094737.762579,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261116-horseracing-is-haunted-by-sudden-death-but-now-ai-is-helping-unlock-cardiac-mysteries",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7628362,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9q84gp0gr3o",
+      "provider": "BBC",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7629993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623j4ln97x7o",
+      "provider": "BBC",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7630239,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crx20q3qy0vxo",
+      "provider": "BBC",
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7630467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6z74ep2n17zo",
+      "provider": "BBC",
+      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7631724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cw7vpv793n24o",
+      "provider": "BBC",
+      "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy.",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7634935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqly43n4ey6ro",
+      "provider": "BBC",
+      "title": "McCullum plans to use Brook and Banton as bowlers",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7635193,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/ckr5g243jd8qo",
+      "provider": "BBC",
+      "title": "Woods to design new golf course in Northern Ireland",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7635446,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cr8683z1wdp2o",
+      "provider": "BBC",
+      "title": "No trust problem with Ferrari team - Hamilton",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7635689,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmge37e27r40o",
+      "provider": "BBC",
+      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7637482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw1md5m39n35o",
+      "provider": "BBC",
+      "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7637734,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm04wnw4g2y1o",
+      "provider": "BBC",
+      "title": "Town calls on Elton John to back up his 1974 song",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7637987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq4l4y81l2o",
+      "provider": "BBC",
+      "title": "Westside Cowboy named BBC Introducing Artist of the Year 2026",
+      "status": "pending",
+      "firstSeenAt": 1795094737.7638226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq772r2pmym6o",
+      "provider": "BBC",
+      "title": "3 hrs ago Art thief jailed after targeting Edgar Davids Nabila Habiby was given 28 months in jail after stealing her friend's £188,000 art collection. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.8477058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgj3213vjwyo",
+      "provider": "BBC",
+      "title": "7 hrs ago How online mocking of antique gates led to a Harry Potter TV opportunity Joel Paxton says online criticism helped put his antique gates in front of the right audience. 7 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.847758,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4gnzk18dn3o",
+      "provider": "BBC",
+      "title": "7 hrs ago Art students get sneak peek of new city studio The Quayside Studios have facilities for photography shoots and to record music and podcasts. 7 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.847787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck5y1v26l0qqo",
+      "provider": "BBC",
+      "title": "7 hrs ago Town should show uniqueness in culture bid - head judge Sir Phil Redmond visits Sandown as part of a whirlwind tour of the shortlisted towns. 7 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.8478346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm702q8n5qywo",
+      "provider": "BBC",
+      "title": "22 hrs ago 'Exciting' £7.5m museum revamp given green light The council aims to turn Rutland County Museum into a \"first-class visitor attraction\". 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.8478627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdr1y6n1827o",
+      "provider": "BBC",
+      "title": "1 day ago Local legend Reading Elvis dies aged 77 David Allon, a lifelong fan of the King of Rock and Roll, was often spotted in Reading town centre. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.847894,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn507e6rvyro",
+      "provider": "BBC",
+      "title": "1 day ago Peterhead museum secures £4m lottery funding The Arbuthnot House complex will celebrate the heritage of the town and wider Aberdeenshire region. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.847942,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vg26x6px92o",
+      "provider": "BBC",
+      "title": "2 days ago People's Palace in Glasgow secures  £10m funding for 2029 reopening The People's Palace and Winter Gardens on Glasgow Green shut for a revamp in April 2024. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795094737.8480256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9703553,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9706378,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9707694,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9707963,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9708219,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9708428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9708643,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9709337,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9709556,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9710624,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.971176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9711995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9713178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9713833,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9714048,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9714253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9715052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9715269,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/childrens-health-defense-meta-rfk-jr",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.971548,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795094737.97157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/19/end-your-war-end-it-now-anthony-albanese-tells-vladimir-putin-to-put-a-stop-to-ukraine-war",
+      "provider": "The Guardian",
+      "title": "‘End your war, end it now’: Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/19/my-abusive-father-was-enabled-by-his-fame",
+      "provider": "The Guardian",
+      "title": "‘I came close to killing Sally about six times’: how my abusive father was enabled by his fame",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9718492,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/nov/19/bet-they-look-good-on-the-dancefloor-mark-mcnultys-party-people-in-pictures",
+      "provider": "The Guardian",
+      "title": "Bet they look good on the dancefloor: Mark McNulty’s party people – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1795094737.97191,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/19/google-youtube-russell-brand-youtube-prison-message-jess-phillips-new-law",
+      "provider": "The Guardian",
+      "title": "New law ‘may be needed’ after Google rejects call to remove Russell Brand’s YouTube prison message",
+      "status": "pending",
+      "firstSeenAt": 1795094737.9719343,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/nov/19/madonna-into-the-groove-photo-book-ken-regan",
+      "provider": "The Guardian",
+      "title": "‘No publicist or manager in sight’: Madonna in the 80s, unseen and off-duty – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1795094737.971988,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+      "provider": "ABC News Australia",
+      "title": "Trump, Xi and Putin release joint statement after historic trilateral talks",
+      "status": "pending",
+      "firstSeenAt": 1795094738.2995586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/trump-xi-putin-meeting-live-blog-apec-summit/107394202",
+      "provider": "ABC News Australia",
+      "title": "Trump, Xi and Putin release joint statement after historic meeting — as it happened",
+      "status": "pending",
+      "firstSeenAt": 1795094738.299662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/burke-backtracks-on-backpackers-while-albanese-cheered/107394542",
+      "provider": "ABC News Australia",
+      "title": "Burke backtracks on backpacker changes as PM is cheered on world stage",
+      "status": "pending",
+      "firstSeenAt": 1795094738.2997031,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/myanmar-historic-genocide-verdict-at-un-court/107403108",
+      "provider": "ABC News Australia",
+      "title": "Myanmar committed genocide against Rohingyas, UN court says",
+      "status": "pending",
+      "firstSeenAt": 1795094738.2997625,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-sandpaper-breakdown/107403066",
+      "provider": "ABC News Australia",
+      "title": "The context you need to understand Bancroft's version of Sandpapergate",
+      "status": "pending",
+      "firstSeenAt": 1795094738.2998202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/2026-walkley-awards-winners-scoop-of-the-year-bondi/107406420",
+      "provider": "ABC News Australia",
+      "title": "ABC wins scoop of the year at 2026 Walkley Awards",
+      "status": "pending",
+      "firstSeenAt": 1795094738.29993,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/melbourne-cups-caulfield-cup-theft-court/107405116",
+      "provider": "ABC News Australia",
+      "title": "Police reveal fourth Melbourne Cup stolen as two accused appear in court",
+      "status": "pending",
+      "firstSeenAt": 1795094738.2999868,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/federal-politics-former-liberal-mp-sharman-stone-dies-vad/107404320",
+      "provider": "ABC News Australia",
+      "title": "Ex-federal minister Sharman Stone dies after long illness",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3000424,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/australias-jobs-market-looking-like-a-recession/107403620",
+      "provider": "ABC News Australia",
+      "title": "Economists warn Australia is showing the hallmarks of recession",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3000984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/afl-draft-night-one-live-blog-cocrane-drever-walker-butler/107405924",
+      "provider": "ABC News Australia",
+      "title": "Swans complete AFL draft heist as Port take Cochrane with top pick",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3002331,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/sydney-marathon-winner-peres-jepchirchir-three-year-doping-ban/107405856",
+      "provider": "ABC News Australia",
+      "title": "Sydney Marathon winner banned for three years, stripped of title",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3002887,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/royal-commission-construction-big-build-cfmeu-donations/107405926",
+      "provider": "ABC News Australia",
+      "title": "Big Build royal commission refers two witnesses for potential prosecution",
+      "status": "pending",
+      "firstSeenAt": 1795094738.300392,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/jordan-brunoli-bugs-bassist-dies-colorectal-cancer/107404230",
+      "provider": "ABC News Australia",
+      "title": "Bugs bassist Jordan Brunoli dies after battle with cancer",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3004482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/calls-for-government-to-change-terrorism-definition/107405450",
+      "provider": "ABC News Australia",
+      "title": "Government urged to drop references to 'religion' in terrorism definition",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3005033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/nib-literary-award-susan-wyndham-the-woman-in-the-watch-tower/107350650",
+      "provider": "ABC News Australia",
+      "title": "Almost-forgotten Australian author uncovered in biography that just won $40K",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3005505,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/artists-warn-culture-connection-lost-outback-closures/107395710",
+      "provider": "ABC News Australia",
+      "title": "Arts under threat in remote city 'where you can dare to dream'",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3006454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/fifa-president-challenge-candidates-infantino-diallo-tashima/107406458",
+      "provider": "ABC News Australia",
+      "title": "FIFA unveils Diallo and Tashima as challengers to Infantino's presidency",
+      "status": "pending",
+      "firstSeenAt": 1795094738.301251,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/wa-craig-rastus-sentenced-manslaughter-derby/107400406",
+      "provider": "ABC News Australia",
+      "title": "Kimberley man who whipped and beat partner to death jailed for 10 years",
+      "status": "pending",
+      "firstSeenAt": 1795094738.301318,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/expensive-rental-causes-backlash-in-wa-city/107403896",
+      "provider": "ABC News Australia",
+      "title": "'Does it come with a chef?' rental price causes a stir within community",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3013608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/transmission-towers-brought-down-cutting-eyre-peninsula-power/107405826",
+      "provider": "ABC News Australia",
+      "title": "Transmission line to take 'days' to fix, forcing closure of Eyre Peninsula schools",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3014157,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/alex-the-ai-telemarketer-spamming-australians/107404002",
+      "provider": "ABC News Australia",
+      "title": "Meet 'Alex', the AI telemarketer who wants your financial information",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3016279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/qld-logan-drive-by-shooting-men-taken-into-custody/107403362",
+      "provider": "ABC News Australia",
+      "title": "Five teens charged with murder over drive-by shooting",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3017926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/lifestyle-campers-collapses-into-voluntary-liquidation/107404664",
+      "provider": "ABC News Australia",
+      "title": "Customers left in 'disbelief' as caravan company enters voluntary liquidation",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3019423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/teen-charged-with-terrorism-offences-after-afp-investigation/107403454",
+      "provider": "ABC News Australia",
+      "title": "Teen accused of Parliament House hoax threats faces terrorism charges",
+      "status": "pending",
+      "firstSeenAt": 1795094738.302045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/gold-coast-faces-homeless-human-rights-challenge/107405058",
+      "provider": "ABC News Australia",
+      "title": "Gold Coast council faces court after evicting homeless man for picnic",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3021517,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/midwife-sobs-tells-baby-death-inquest-about-homebirth-risks/107404954",
+      "provider": "ABC News Australia",
+      "title": "Mum urged to have twins in hospital before fatal infection, inquest told",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3022268,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/darwin-port-nt-landbridge-albanese-rift-grows/107403174",
+      "provider": "ABC News Australia",
+      "title": "Rift over Darwin Port deepens as Landbridge dispute action looms",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3022811,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/vocal-tasmanian-aboriginal-advocates-miss-kaninna-ruth-langford/107402384",
+      "provider": "ABC News Australia",
+      "title": "Miss Kaninna wins ARIA award, day after mother found guilty over protest",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3023283,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/ash-barty-to-be-inducted-into-international-tennis-hall-of-fame/107404446",
+      "provider": "ABC News Australia",
+      "title": "Humble Ash Barty inducted into hall of fame",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3024032,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-19/springboks-coach-rassie-erasmus-watchalong-party-ireland/107399028",
+      "provider": "ABC News Australia",
+      "title": "Springboks coach banned from match, sets up website for hotel watch-along",
+      "status": "pending",
+      "firstSeenAt": 1795094738.3024583,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
