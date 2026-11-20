@@ -112962,9 +112962,465 @@
       "status": "pending",
       "firstSeenAt": 1795170313.9034138,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
+      "provider": "BBC",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7714076,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6808ym10vzgo",
+      "provider": "BBC",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues Other tech companies have also taken a hit as share markets broadly slump. 1 hr ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7714617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg2e0e9138o",
+      "provider": "BBC",
+      "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives The game's fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\". 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7714946,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck20vl1dd8qzo",
+      "provider": "BBC",
+      "title": "Texas death-row inmate screams as execution takes more than one hour This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug. 6 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7715137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261117-a-stay-in-one-of-bosnia-and-herzegovinas-last-semi-nomadic-villages",
+      "provider": "BBC",
+      "title": "A stay in Bosnia's last semi-nomadic village High in the Balkans, the village of Lukomir offers a rare glimpse into a place with centuries-old stone homes and nomadic tribal traditions.",
+      "status": "pending",
+      "firstSeenAt": 1795200060.771547,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69vwyjp0339o",
+      "provider": "BBC",
+      "title": "Nearly 600 women killed in South Africa within three months Police officials called for \"greater efforts to prevent... violence\" against women and children. 3 hrs ago Africa",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7718058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy4jvprxyrdo",
+      "provider": "BBC",
+      "title": "Calls for English law change after woman drugged and advertised for sex by husband Joanne Young's daughter joins her mother in calling for a change to the law on consent. 58 mins ago Wiltshire",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7718487,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cm20vpq8z6n4o",
+      "provider": "BBC",
+      "title": "The art of protection - inside an F1 helmet factory Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces. 12 hrs ago Formula 1",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7718687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq702ez8d4lwo",
+      "provider": "BBC",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February. 45 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1795200060.771889,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8vgxg2l2wkdo",
+      "provider": "BBC",
+      "title": "What is it like to be Jewish and living in Ireland?",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7722523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwz0k32j9kr9o",
+      "provider": "BBC",
+      "title": "Man Utd fan criticism has gone too far at times - Berrada Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7725368,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
+      "provider": "BBC",
+      "title": "Stacked England aim to pile on style and add to All Black misery",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7725668,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
+      "provider": "BBC",
+      "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7725816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmgj35zvjyp9o",
+      "provider": "BBC",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7726717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy97dyqv480o",
+      "provider": "BBC",
+      "title": "Locals want to buy old theatre after auction fail",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7726874,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckge37rdrp1eo",
+      "provider": "BBC",
+      "title": "Percy Jackson returns as teen stars adapt to life in the limelight",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7727025,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62pe2jdg08o",
+      "provider": "BBC",
+      "title": "Babydoll singer Jamie Miller covers Christmas classic",
+      "status": "pending",
+      "firstSeenAt": 1795200060.7727172,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmqj5dr01e85o",
+      "provider": "BBC",
+      "title": "3 I've only sold five copies of GTA 6, says shop owner",
+      "status": "pending",
+      "firstSeenAt": 1795200060.8508513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq39g0em40e4o",
+      "provider": "BBC",
+      "title": "5 Cancer patient waited two days in chair, son says",
+      "status": "pending",
+      "firstSeenAt": 1795200060.8508801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o",
+      "provider": "BBC",
+      "title": "Alcaraz puts aside injury concerns to take apart Cobolli A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages. 4 hrs ago Tennis",
+      "status": "pending",
+      "firstSeenAt": 1795200060.850973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck62pz5r16pro",
+      "provider": "BBC",
+      "title": "Arteta warns Arsenal players over FPL team news leak Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League. 5 hrs ago Arsenal",
+      "status": "pending",
+      "firstSeenAt": 1795200060.8509917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqdr1xmekmg5o",
+      "provider": "BBC",
+      "title": "Filming training by drones should be illegal - Iraola Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal. 4 hrs ago Liverpool",
+      "status": "pending",
+      "firstSeenAt": 1795200060.8510344,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1187348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1189084,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1189902,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1190033,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1190174,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1190434,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1191697,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.119184,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1192563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1192696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1192832,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1192977,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1193116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1193507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.119364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1193774,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.119393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1194067,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+      "provider": "The Guardian",
+      "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1194751,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
+      "provider": "The Guardian",
+      "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1195066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/20/gen-waheed-kakar-obituary",
+      "provider": "The Guardian",
+      "title": "Gen Waheed Kakar obituary",
+      "status": "pending",
+      "firstSeenAt": 1795200061.119523,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
+      "provider": "The Guardian",
+      "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1196227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid",
+      "provider": "The Guardian",
+      "title": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1196482,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
+      "provider": "The Guardian",
+      "title": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
+      "status": "pending",
+      "firstSeenAt": 1795200061.1196892,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/richard-avedon-hollywood-photographs",
+      "provider": "The Guardian",
+      "title": "Richard Avedon’s rarely seen portraits of Hollywood A-listers – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1795200061.119704,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/20/victor-wembanyama-spurs-nba-mvp-finals-redemption",
+      "provider": "The Guardian",
+      "title": "Victor Wembanyama has turned his NBA finals humiliation into a revenge tour for the ages",
+      "status": "pending",
+      "firstSeenAt": 1795200061.119719,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/key-takeaways-from-uk-eu-summit/107406986",
+      "provider": "ABC News Australia",
+      "title": "Key takeaways from UK-EU summit: Idea of Britain rejoining still on table",
+      "status": "pending",
+      "firstSeenAt": 1795200061.598807,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538",
+      "provider": "ABC News Australia",
+      "title": "Russia pummels Ukraine after Putin vowed revenge, killing eight",
+      "status": "pending",
+      "firstSeenAt": 1795200061.598907,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/james-hollands-mother-addresses-coronial-inquest/107408008",
+      "provider": "ABC News Australia",
+      "title": "Teen shot dead by police was not 'just a terrorist', mother tells inquest",
+      "status": "pending",
+      "firstSeenAt": 1795200061.5991542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/students-protest-in-eu-and-uk/107406996",
+      "provider": "ABC News Australia",
+      "title": "Students rally across Europe over cost of living, war and education cuts",
+      "status": "pending",
+      "firstSeenAt": 1795200061.599682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/abc-5050-quiz/107407994",
+      "provider": "ABC News Australia",
+      "title": "ABC 50/50 quiz: Testing your knowledge of INXS albums, croquet colours and G-O-G-G-O",
+      "status": "pending",
+      "firstSeenAt": 1795200061.59973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/chasing-millions-crime-movie-starring-eccleston-and-madden/107408038",
+      "provider": "ABC News Australia",
+      "title": "This crime caper reveals a brash Australian bank heist by way of Belfast",
+      "status": "pending",
+      "firstSeenAt": 1795200061.599745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/against-convenience-fighting-loneliness-and-building-community/107267134",
+      "provider": "ABC News Australia",
+      "title": "The Interview: Are faster and easier ways of doing things making us lonely?",
+      "status": "pending",
+      "firstSeenAt": 1795200061.5997722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/sandpapergate-ball-tampering-scandal/107404386",
+      "provider": "ABC News Australia",
+      "title": "Trying to get your head around Sandpapergate? We're here to help",
+      "status": "pending",
+      "firstSeenAt": 1795200061.5997987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/labors-migration-plan-based-on-paperwork/107408422",
+      "provider": "ABC News Australia",
+      "title": "'Deciding who comes here' is harder than it sounds",
+      "status": "pending",
+      "firstSeenAt": 1795200061.600562,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
+  "section_index": 1,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
