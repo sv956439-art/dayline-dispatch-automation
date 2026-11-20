@@ -112002,9 +112002,425 @@
       "status": "pending",
       "firstSeenAt": 1795124518.9586337,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx7v2d8q879eo",
+      "provider": "BBC",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege. 2 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1795142187.7994244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
+      "provider": "BBC",
+      "title": "California targets Nvidia in China AI chip probe The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure. 4 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1795142187.7997222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crgj35ldz2zxo",
+      "provider": "BBC",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist. 4 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795142187.7997422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
+      "provider": "BBC",
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers. 2 hrs ago Health",
+      "status": "pending",
+      "firstSeenAt": 1795142187.7997608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvkg58d7z10ro",
+      "provider": "BBC",
+      "title": "Indonesian daycare principal jailed for five years over child abuse case Toddlers were found with their hands and feet tied with rags when police raided the centre in April. 48 mins ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1795142187.7997801,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw1m4ym7ez2eo",
+      "provider": "BBC",
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up. 3 hrs ago India",
+      "status": "pending",
+      "firstSeenAt": 1795142187.7997987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp8g4092zglo",
+      "provider": "BBC",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break What is acceptable to eat at your desk, without annoying your colleagues? 2 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795142187.799827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmlye2334wlyo",
+      "provider": "BBC",
+      "title": "US army warns detonation of unstable explosives will create toxic plume The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8000534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
+      "provider": "BBC",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8000722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx1l0pm7l9jmo",
+      "provider": "BBC",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8000867,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6074k5jjrzko",
+      "provider": "BBC",
+      "title": "More climate money for Africa? Europe says use what's already pledged African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8001256,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+      "provider": "BBC",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8001845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6eq49zyx7p4o",
+      "provider": "BBC",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "status": "pending",
+      "firstSeenAt": 1795142187.800238,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmlye2n7p7d9o",
+      "provider": "BBC",
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8004723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8752w5vz2zqo",
+      "provider": "BBC",
+      "title": "New Hunger Games cast say joining the franchise is 'nerve-racking' The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8005571,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmpdwev0jgp6o",
+      "provider": "BBC",
+      "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8005717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmx278n2genyo",
+      "provider": "BBC",
+      "title": "Airbnb's divisive new house rules come into force",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8497274,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61wrqv7x95do",
+      "provider": "BBC",
+      "title": "18th Century country house hotel set for new life after bookings hit 'negligible level'",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8497448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5g60v3d1do",
+      "provider": "BBC",
+      "title": "How 250 workers keep Wales' little slice of Italy ready for tourists",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8497596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwd01jknvdmeo",
+      "provider": "BBC",
+      "title": "Drone footage to show progress on Scotland's first Center Parcs",
+      "status": "pending",
+      "firstSeenAt": 1795142187.8497732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly7gy80y5go",
+      "provider": "BBC",
+      "title": "Visitors encouraged to 'discover somewhere new'",
+      "status": "pending",
+      "firstSeenAt": 1795142187.849786,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9331837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9332001,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9335017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9335864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9336178,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9336314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9336438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+      "provider": "The Guardian",
+      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+      "status": "pending",
+      "firstSeenAt": 1795142187.933817,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/19/who-killed-jfk-rob-reiner",
+      "provider": "The Guardian",
+      "title": "‘Perhaps we are safer not knowing’: a year after his death, Rob Reiner’s JFK assassination book is revealed",
+      "status": "pending",
+      "firstSeenAt": 1795142187.9338534,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/video/2026/nov/19/critics-accuse-trump-of-falling-asleep-at-international-summit-video",
+      "provider": "The Guardian",
+      "title": "Critics accuse Trump of falling asleep at international summit – video",
+      "status": "pending",
+      "firstSeenAt": 1795142187.933869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/sydney-counter-terror-raids-campbelltown/107407568",
+      "provider": "ABC News Australia",
+      "title": "Man charged with terror offences after raids across Sydney",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1498787,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/burnham-urges-google-to-remove-russell-brand-youtube-statement/107407936",
+      "provider": "ABC News Australia",
+      "title": "British PM tells Google to remove Russell Brand video",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1500227,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/jury-hands-down-verdict-in-raelene-polymiadis-trial/107402282",
+      "provider": "ABC News Australia",
+      "title": "SA woman found guilty of murdering parents with insulin",
+      "status": "pending",
+      "firstSeenAt": 1795142188.150072,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/trump-sanctions-allan-meehan-comanchero-bikie/107407392",
+      "provider": "ABC News Australia",
+      "title": "Bikies face Trump sanctions in 'Australian-first' crackdown",
+      "status": "pending",
+      "firstSeenAt": 1795142188.150094,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/png-rio-tinto-pays-370m-to-fix-panguna-mine-legacy/107403470",
+      "provider": "ABC News Australia",
+      "title": "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1501243,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/daryl-maguire-jailed-over-role-in-fraudulent-visa-scheme/107291680",
+      "provider": "ABC News Australia",
+      "title": "Former MP Daryl Maguire jailed over fraudulent visa scheme",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1502113,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/victorian-election-niddrie-ben-carroll-samantha-byrne/107404570",
+      "provider": "ABC News Australia",
+      "title": "Victoria's premier could be the first to lose his seat in 80 years",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1502438,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/fiona-the-hippo-dies-at-cincinnati-zoo-after-eating-hat/107407952",
+      "provider": "ABC News Australia",
+      "title": "Fiona the hippo dies after eating a hat at Cincinnati Zoo",
+      "status": "pending",
+      "firstSeenAt": 1795142188.150275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/police-search-finds-missing-hunter-nt-national-park-marrakai/107408446",
+      "provider": "ABC News Australia",
+      "title": "Extensive police search locates missing hunter near NT national park",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1507332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/f1-prize-moeny-in-focus-as-las-vegas-grand-prix/107394726",
+      "provider": "ABC News Australia",
+      "title": "F1 is in Las Vegas, and teams are fighting to hit prize money jackpot",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1507597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/hmcs-spitfire-wreck-found-off-far-north-queensland/107408318",
+      "provider": "ABC News Australia",
+      "title": "Wreck of first Australian-built warship found off Far North Queensland coast",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1507852,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/victorian-teacher-pleads-guilty-over-hidden-camera/107408200",
+      "provider": "ABC News Australia",
+      "title": "Melbourne teacher pleads guilty to hidden camera offence",
+      "status": "pending",
+      "firstSeenAt": 1795142188.150819,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/victorian-election-live-campaign-liberal-labor/107407614",
+      "provider": "ABC News Australia",
+      "title": "Victorian election ballots isolated after incident at voting centre",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1508672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/virginia-crash-driver-zubeda-habonimana-sentence/107407924",
+      "provider": "ABC News Australia",
+      "title": "Mother avoids jail for crash that killed 6yo daughter",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1508877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/nsw-former-nsw-opposition-leader-mark-speakman-resigns/107407292",
+      "provider": "ABC News Australia",
+      "title": "One Nation warning as ex-NSW opposition leader quits politics",
+      "status": "pending",
+      "firstSeenAt": 1795142188.150915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/firmus-latrobe-tasmania-council-major-project-request/107406282",
+      "provider": "ABC News Australia",
+      "title": "Firmus talks down 'modest' data centre in bid to avoid major project status",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1510348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/sa-power-outages-continue-after-transmission-line-downed/107407398",
+      "provider": "ABC News Australia",
+      "title": "Power could be restored today as ElectraNet grilled about tower fall",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1511476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/residents-in-north-wa-fear-more-cyclones/107387834",
+      "provider": "ABC News Australia",
+      "title": "Eight months after Cyclone Narelle, north WA locals fear this storm season",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1511683,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/para-ice-hockey-women-world-championships-liesl-tesch/107378472",
+      "provider": "ABC News Australia",
+      "title": "Paralympian local MP playing her third sport for Australia",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1512105,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/nrl-nrlw-release-2027-draw-fixtures/107407382",
+      "provider": "ABC News Australia",
+      "title": "NRL and NRLW 2027 draw released, with lengthy wait for grand final rematch",
+      "status": "pending",
+      "firstSeenAt": 1795142188.151422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-20/australia-defeats-argentina-under-17-world-cup/107407632",
+      "provider": "ABC News Australia",
+      "title": "Young Aussies stun Argentina at under-17 World Cup",
+      "status": "pending",
+      "firstSeenAt": 1795142188.1519728,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 7,
+  "section_index": 8,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
