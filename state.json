@@ -114842,9 +114842,297 @@
       "status": "pending",
       "firstSeenAt": 1795274158.3971856,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj752ddve27ko",
+      "provider": "BBC",
+      "title": "Russia-bound ship attacked in Gulf of Finland Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel. 2 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1795294517.8449314,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxe8944j188yo",
+      "provider": "BBC",
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "status": "pending",
+      "firstSeenAt": 1795294517.8450267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c6gregx71gjro",
+      "provider": "BBC",
+      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+      "status": "pending",
+      "firstSeenAt": 1795294517.8459098,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cqe9k2v4xjeko",
+      "provider": "BBC",
+      "title": "Ireland beat world champions South Africa in thriller",
+      "status": "pending",
+      "firstSeenAt": 1795294517.8459244,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3vg9dqr6zyo",
+      "provider": "BBC",
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85 The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+      "status": "pending",
+      "firstSeenAt": 1795294517.846017,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwvg2mp0de2jo",
+      "provider": "BBC",
+      "title": "Why fibbing about stolen snacks is an important part of childhood Research shows fibs and tricks can start \"surprisingly young\" and that these skills are practised.",
+      "status": "pending",
+      "firstSeenAt": 1795294517.8915226,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.061658,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.061821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.061834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0618465,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0618973,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0621166,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0621305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0621967,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0622087,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0622232,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.062235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0622468,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/nov/21/cctv-shows-unknown-object-crashing-and-exploding-near-poland-ukraine-border-video",
+      "provider": "The Guardian",
+      "title": "CCTV footage shows object crashing and exploding near Poland-Ukraine border – video",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0623538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+      "provider": "The Guardian",
+      "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+      "status": "pending",
+      "firstSeenAt": 1795294518.0624428,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/universal-medicine-soliciting-cancer-victim-estate-bequests/107390886",
+      "provider": "ABC News Australia",
+      "title": "Leaked webinar reveals cult leader harvesting cancer patients' life savings",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3025696,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/albanese-trump-quad-xi-putin-summits-analysis/107410572",
+      "provider": "ABC News Australia",
+      "title": "Inside a room with Trump, there's no mistaking who holds the power",
+      "status": "pending",
+      "firstSeenAt": 1795294518.302617,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/housing-cost-of-living-australian-dream-move-overseas-berlin/107390924",
+      "provider": "ABC News Australia",
+      "title": "They went overseas looking for a better life. Berlin changed their idea of home",
+      "status": "pending",
+      "firstSeenAt": 1795294518.302681,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/dario-amodei-facing-an-oppenheimer-moment-races-ahead/107264748",
+      "provider": "ABC News Australia",
+      "title": "Dario Amodei, facing an Oppenheimer moment, races ahead",
+      "status": "pending",
+      "firstSeenAt": 1795294518.302737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/wallabies-wales-nations-championship-rugby-test-live-blog/107413660",
+      "provider": "ABC News Australia",
+      "title": "Struggling Wallabies face resurgent Wales",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3027685,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/why-this-japanese-village-is-known-as-the-home-of-aliens/107400126",
+      "provider": "ABC News Australia",
+      "title": "As Japan heightens alerts around UFOs, some towns try to cash in",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3027897,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/victorian-election-analysis-one-week-to-go/107412322",
+      "provider": "ABC News Australia",
+      "title": "Victorian Labor MPs conduct a 'pre-mortem' in political death spiral",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3028898,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/gadi-eisenkot-invites-benjamin-netanyahu-israeli-coalition-talks/107413714",
+      "provider": "ABC News Australia",
+      "title": "Eisenkot invites Netanyahu's party to Israeli coalition talks",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3029213,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/fbi-database-hacked-according-to-media-outlets/107413682",
+      "provider": "ABC News Australia",
+      "title": "FBI database reportedly hacked",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3029513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/england-beat-nz-all-blacks-former-skipper-lewis-moody-haka-mnd/107413688",
+      "provider": "ABC News Australia",
+      "title": "England thrash All Blacks after Moody faces haka with team",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3029804,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/tsunami-response-time-reduced-macquarie-island-staff-removal/107404714",
+      "provider": "ABC News Australia",
+      "title": "Tsunami response window shorter after staff pulled from remote island",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3030097,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/pond-album-terrestrials-nick-allbrook-interview-tour-wa-mining/107389570",
+      "provider": "ABC News Australia",
+      "title": "Why Pond ditched psych rock for new 'Goths at the pub' style",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3030627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/abc-wordage-quiz-food/107390738",
+      "provider": "ABC News Australia",
+      "title": "ABC Wordage quiz: It's time to tuck in",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3031023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/jess-wilson-kew-district-sophie-torney-victorian-electorate/107400636",
+      "provider": "ABC News Australia",
+      "title": "Liberal voters expected to 'come home' in Victorian leader's seat of Kew",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3032765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/choice-faber-castell-recall-new-zealand/107412296",
+      "provider": "ABC News Australia",
+      "title": "Concerns around asbestos in kids' garden sets after NZ recall",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3034096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/threat-of-buffel-grass-weed-raised-at-cop-31/107409800",
+      "provider": "ABC News Australia",
+      "title": "As federal decision looms, fight against pasture grass taken to COP31",
+      "status": "pending",
+      "firstSeenAt": 1795294518.3035119,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 4,
+  "section_index": 5,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
