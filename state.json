@@ -114466,9 +114466,385 @@
       "status": "pending",
       "firstSeenAt": 1795244755.580506,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy0qj7w5zqo",
+      "provider": "BBC",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5751488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c85y14zvexz9o",
+      "provider": "BBC",
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC \"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary. 3 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1795274157.575168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly5w40eg07o",
+      "provider": "BBC",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement. 21 mins ago Climate",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5751915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz749ey0r75o",
+      "provider": "BBC",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities. 2 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5752249,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261118-the-tragic-tale-of-sweet-girl-the-whale-death-that-changed-the-law",
+      "provider": "BBC",
+      "title": "The tragic whale photo that made ships slow down Photographer Rachel Moore captured this intimate close-up of a young humpback's eye. Just days later \"Sweet Girl\" was hit by a boat and killed. But her story didn't end there.",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5752382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261120-the-moment-i-realised-gta-6-was-a-masterpiece",
+      "provider": "BBC",
+      "title": "The moment I realised GTA 6 was one of the greatest games ever Grand Theft Auto 6 has been hailed for the awe-inspiring scale and detail of its fictional world. One writer explains how an underwater adventure convinced him it was a masterpiece.",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5752506,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5754194,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cx8dv4327dnpo",
+      "provider": "BBC",
+      "title": "Trafalgar Square Christmas tree felled in Norway The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two. 7 hrs ago London",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5754569,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/crwy873jzxl7o",
+      "provider": "BBC",
+      "title": "Man killed in suspected scrambler hit-and-run",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5757258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cme39qlevnrqo",
+      "provider": "BBC",
+      "title": "Australia's Chaudhary downs England in tetchy first T20",
+      "status": "pending",
+      "firstSeenAt": 1795274157.575978,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ce3r29wdqrno",
+      "provider": "BBC",
+      "title": "The film about fencing set between two cultures Parvinder Shergill talks about creating art that honours both of her cultural backgrounds.",
+      "status": "pending",
+      "firstSeenAt": 1795274157.576046,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261117-the-surreal-ski-resort-near-the-uss-hottest-city",
+      "provider": "BBC",
+      "title": "The surreal ski resort near the US's hottest city The Arizona Snowbowl is set atop a volcano within sight of the Grand Canyon and Route 66 in a scorching state.",
+      "status": "pending",
+      "firstSeenAt": 1795274157.5760922,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjreyvw0elgo",
+      "provider": "BBC",
+      "title": "2 hrs ago Aldi apologises over parking cherry picker at vets Derwent Valley Vets named the cherry picker a \"Specialbuy\" after it was left in the car park. 2 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7401562,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg23q5xq31o",
+      "provider": "BBC",
+      "title": "7 hrs ago London's urgent race to make AI safer The unheralded role that London is playing in the development of artificial intelligence. 7 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7401729,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c623jv015xjno",
+      "provider": "BBC",
+      "title": "8 hrs ago Are digital memories helping us or holding us back? With much of our lives lived online, preserving memories of people who have died is far easier now. 8 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.740187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6j9m2rg42n2o",
+      "provider": "BBC",
+      "title": "9 hrs ago MP opposing data centre joins government committee He admits data centres are needed, but he is opposing plans for one in his constituency. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7402003,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjx2ry0d9913o",
+      "provider": "BBC",
+      "title": "9 hrs ago What is being done to stop disruptive cable theft? The removal of copper cables wipes out telecommunications and costs the UK millions. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7402146,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm0l31e5d3xwo",
+      "provider": "BBC",
+      "title": "22 hrs ago Islanders asked for views on online safety policy The States wants to know if islanders want to be included in the social media ban for under-16s. 22 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.740245,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqvg2we07kzyo",
+      "provider": "BBC",
+      "title": "24 hrs ago Police trialling AI-assisted CCTV in Aberdeen The software uses key words to help officers search thousands of images. 24 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7402577,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn70v1lxzj3o",
+      "provider": "BBC",
+      "title": "1 day ago TikTok star's 'surreal' trip to Downing Street Luke Hamnett says he managed to film himself mimicking the famous dance from film Love Actually. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7402709,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0k6gezp50vo",
+      "provider": "BBC",
+      "title": "1 day ago MP says Grok was designed to make sexualised images Jess Asato is suing Elon Musk's company after sexualised images of her were created with the tool. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7402837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3rrgwg7ry1zo",
+      "provider": "BBC",
+      "title": "1 day ago 'World-beating' study to investigate social media ban Researchers hope it will provide insight into how parents' social media usage influences children. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795274157.7402964,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.872953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8730214,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8731637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8731837,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8733552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8733654,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8733764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8733869,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8733976,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8734264,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.873437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.873447,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.873457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8734667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+      "provider": "The Guardian",
+      "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8735294,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
+      "provider": "The Guardian",
+      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8736176,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer",
+      "provider": "The Guardian",
+      "title": "‘Trust was hard won’: Bell Pond, summer 1983, Worcester, Massachusetts – in pictures",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8736303,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms",
+      "provider": "The Guardian",
+      "title": "This is how badly Trump’s Republican endorsements did in the midterms",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8736422,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
+      "provider": "The Guardian",
+      "title": "double quotation mark Fiona the hippo’s death was tragic. But blaming a ‘bad mom’ is absurd",
+      "status": "pending",
+      "firstSeenAt": 1795274157.8736744,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/cricket-lehmann-responds-bancroft-australia-sandpaper-drama/107412988",
+      "provider": "ABC News Australia",
+      "title": "Lehmann denies knowledge of sandpaper plot despite Bancroft statement",
+      "status": "pending",
+      "firstSeenAt": 1795274158.3963542,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/australian-swimming-star-jon-henricks-dies/107413060",
+      "provider": "ABC News Australia",
+      "title": "World record-breaking Australian swimmer Jon Henricks dies aged 91",
+      "status": "pending",
+      "firstSeenAt": 1795274158.396451,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/princess-catherine-new-documentary-heal-cancer-journey/107413338",
+      "provider": "ABC News Australia",
+      "title": "Princess Catherine reflects on cancer journey in new documentary",
+      "status": "pending",
+      "firstSeenAt": 1795274158.3965027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/drug-lord-chapo-isidro-captured-by-mexican-military/107413284",
+      "provider": "ABC News Australia",
+      "title": "Mexico's military captures drug kingpin on FBI's most wanted list",
+      "status": "pending",
+      "firstSeenAt": 1795274158.3965287,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/australia-win-t20-international-against-england-at-mcg/107413150",
+      "provider": "ABC News Australia",
+      "title": "Australia win thriller to snap England's T20I streak",
+      "status": "pending",
+      "firstSeenAt": 1795274158.3966491,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-21/top-end-nt-shaken-as-major-earthquake-hits-east-timor/107413134",
+      "provider": "ABC News Australia",
+      "title": "Top End shaken as major quake hits East Timor",
+      "status": "pending",
+      "firstSeenAt": 1795274158.3971856,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 3,
+  "section_index": 4,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
