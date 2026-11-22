@@ -115442,9 +115442,321 @@
       "status": "pending",
       "firstSeenAt": 1795308408.4526274,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq7827z2841zo",
+      "provider": "BBC",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "status": "pending",
+      "firstSeenAt": 1795332606.498751,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo",
+      "provider": "BBC",
+      "title": "Dozens missing after fire at Indonesian factory At least three people were killed and four injured in a fire at a confectionary factory over the weekend. 1 hr ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1795332606.498816,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8e39qk5vrpdo",
+      "provider": "BBC",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89 In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "status": "pending",
+      "firstSeenAt": 1795332606.499327,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cqx2ex25pvn9o",
+      "provider": "BBC",
+      "title": "Verstappen wins extraordinary race as Ferraris collide Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4995728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckqx5w58dgv7o",
+      "provider": "BBC",
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4995847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/basketball/articles/c6x20yeqg18vo",
+      "provider": "BBC",
+      "title": "Wembanyama hits 50 points in dominant Spurs win",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4995968,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwnv45818z59o",
+      "provider": "BBC",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "status": "pending",
+      "firstSeenAt": 1795332606.499608,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckq6eyrvv85ro",
+      "provider": "BBC",
+      "title": "Minister open to grant for fourth Bergerac series A Jersey minister gives his \"in principle\" approval for providing funding for a fourth season.",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4996827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrwxnl9v14o",
+      "provider": "BBC",
+      "title": "Du Maurier family photos shared for first time",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4996998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmwy730rwp28o",
+      "provider": "BBC",
+      "title": "Meet the twins turning small-town dreams into a feature film",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4997277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq782xz5nkg4o",
+      "provider": "BBC",
+      "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
+      "status": "pending",
+      "firstSeenAt": 1795332606.4997408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7306235,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7306364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7306926,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7307305,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7307408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7307637,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7307737,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7309496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over",
+      "provider": "The Guardian",
+      "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7311018,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+      "provider": "The Guardian",
+      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "status": "pending",
+      "firstSeenAt": 1795332606.7311847,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/former-wallaby-nathan-charles-mnd-battle-wedding-plans/107404076",
+      "provider": "ABC News Australia",
+      "title": "Neurologist says former Wallaby is the first patient he has seen with dual disease diagnosis",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5047789,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+      "provider": "ABC News Australia",
+      "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5048628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/f1-live-las-vegas-grand-prix-oscar-piastri/106998746",
+      "provider": "ABC News Australia",
+      "title": "Piastri third, snaps at McLaren team, in Vegas GP with 352 overtakes",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5048935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/fire-warning-nandaly-north-west-victoria-emergency-services/107414556",
+      "provider": "ABC News Australia",
+      "title": "Emergency fire warning downgraded in Victoria's north-west",
+      "status": "pending",
+      "firstSeenAt": 1795332607.504931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/camper-found-alive-by-police-helicopter-in-the-grampians/107414312",
+      "provider": "ABC News Australia",
+      "title": "Man, 55, found alive after going missing in Grampians for five days",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5049593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/man-disappears-after-jumping-into-yarra-river-from-bridge/107414220",
+      "provider": "ABC News Australia",
+      "title": "Man disappears after jumping into Yarra River from CBD bridge",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5049872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/spirit-of-tasmania-ferries-unable-to-use-autopilot/107414328",
+      "provider": "ABC News Australia",
+      "title": "Spirit of Tasmania operator told not to use autopilot for entire voyage",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5050116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/strait-of-hormuz-swimmer-highlights-iran-war-impact-on-wildlife/107414066",
+      "provider": "ABC News Australia",
+      "title": "‘We’ve got to stop the war’: Endurance athlete swims in Strait of Hormuz",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5050383,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/victorian-greens-win-court-injunction-liberal-labor-pledges/107414054",
+      "provider": "ABC News Australia",
+      "title": "Greens win court fight against Prahran independent how to-vote-cards",
+      "status": "pending",
+      "firstSeenAt": 1795332607.505068,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/health-minister-mark-butler-orders-peptide-inquiry/107414136",
+      "provider": "ABC News Australia",
+      "title": "Government launches inquiry into peptides amid surge in hospital visits",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5050948,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/eyre-peninsula-blackout-weather-to-be-investigated/107404306",
+      "provider": "ABC News Australia",
+      "title": "'One-in-2,000-year weather' to be investigated post-blackout",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5051208,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/afl-origin-teams-horne-francis-nasiah-recruitment-plan/107414456",
+      "provider": "ABC News Australia",
+      "title": "Horne-Francis planning to recruit Nasiah during AFL Origin camp",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5051467,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/ocean-photographer-of-the-year-awards-gergo-rugli-dolphins/107408432",
+      "provider": "ABC News Australia",
+      "title": "Photographer hopes winning dolphin snap inspires conservation efforts",
+      "status": "pending",
+      "firstSeenAt": 1795332607.505267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/cricket-india-highest-test-score-against-new-zealand/107414256",
+      "provider": "ABC News Australia",
+      "title": "India breaks New Zealand Test record with monster innings in Wellington",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5055656,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/sinking-of-hmas-sydney-85th-anniversary-commemorated-in-wa/107400176",
+      "provider": "ABC News Australia",
+      "title": "Remembering Australia's worst naval disaster 'limited' due to council woes",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5056732,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/new-chapter-for-tiwi-forestry-with-eucalyptus-pellita-plantation/107369820",
+      "provider": "ABC News Australia",
+      "title": "Remote island's 30,000-hectare carbon forestry project begins",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5057726,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/nrl-craig-bellamy-melbourne-storm-coaching-end-2027-season/107414288",
+      "provider": "ABC News Australia",
+      "title": "Bellamy to end Storm coaching stint after 2027 NRL season",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5059433,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/wallabies-australia-wales-rugby-nations-championship-test/107414310",
+      "provider": "ABC News Australia",
+      "title": "Wallabies still have a pulse despite nervous moments in win over Wales",
+      "status": "pending",
+      "firstSeenAt": 1795332607.5059698,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 6,
+  "section_index": 7,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
