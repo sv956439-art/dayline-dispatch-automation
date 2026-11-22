@@ -116130,10 +116130,300 @@
       "status": "pending",
       "firstSeenAt": 1795361667.5217903,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqwy06zrd26lo",
+      "provider": "BBC",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7680821,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglrx764gdxo",
+      "provider": "BBC",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa. 3 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7681196,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
+      "provider": "BBC",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia. 42 mins ago World",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7681391,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6vg29g7dlyno",
+      "provider": "BBC",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats. 44 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795381896.768158,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cq7827p8emmxo",
+      "provider": "BBC",
+      "title": "The red card that changed Liverpool-Man Utd: correct call? Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+      "status": "pending",
+      "firstSeenAt": 1795381896.769096,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/tennis/articles/c60evlendg0jo",
+      "provider": "BBC",
+      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7691133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c933gzxk66yyo",
+      "provider": "BBC",
+      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7691276,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm4gn7npqe8yo",
+      "provider": "BBC",
+      "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7691412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq8e0pzp43w4o",
+      "provider": "BBC",
+      "title": "Russell Brand's wife says she'll honour prison rules after message row The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+      "status": "pending",
+      "firstSeenAt": 1795381896.7692275,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.co.uk/articles/cw8dzd1eey1ro",
+      "provider": "BBC",
+      "title": "What can we do to help protect our oceans?",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8091989,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c804w70npe63o",
+      "provider": "BBC",
+      "title": "Carving a career from rock pooling passion",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8093371,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj62p62q793ro",
+      "provider": "BBC",
+      "title": "3 hrs ago Young red squirrel hit by car set free after care The female, one of seven red squirrels injured in Jersey on one day, escaped with minor injuries. 3 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.809494,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cklyeg2x5xdgo",
+      "provider": "BBC",
+      "title": "9 hrs ago Wildfowl deaths prompt fishing tackle warning Cornwall Council said there were 15 cases of wildfowl injury and 3 deaths linked to discarded items. 9 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.809514,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jrey28gvqxo",
+      "provider": "BBC",
+      "title": "15 hrs ago Record-breaking sightings of rare moth in Essex There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says. 15 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.80953,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c61k9mwxmplxo",
+      "provider": "BBC",
+      "title": "1 day ago How red squirrels made island their home Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\". 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8095496,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq742m00w9gjo",
+      "provider": "BBC",
+      "title": "1 day ago Why starling murmurations thrill birdwatchers Photographers and artists are encouraging people to watch winter starling gatherings. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.809566,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c69w9pq98dnxo",
+      "provider": "BBC",
+      "title": "2 days ago Pigeon strung up like puppet in 'horrific' attack The pigeon was found in Jarrow and is now recovering with an animal rescue charity in Sunderland. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8096058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqgm31l9nezwo",
+      "provider": "BBC",
+      "title": "2 days ago 'World's oldest' giant otter dies at 19 Longleat Safari Park announced the death of Gordito, who leaves more than 100 descendants. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.809622,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq5y10g22e2ro",
+      "provider": "BBC",
+      "title": "2 days ago Bird flu confirmed with other species affected, charity says The cases follow bird flu being confirmed across Berkshire earlier this year. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8096387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8xgdv9e007o",
+      "provider": "BBC",
+      "title": "2 days ago What are heat pumps and how much do they cost? The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8096552,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8900027,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8902493,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.890311,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8905475,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.89056,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8905728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8905878,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8906002,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.890635,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8906474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8906596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8906825,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/nov/22/vehicles-burn-on-mexican-highway-after-capture-of-el-chapo-isidro-video",
+      "provider": "The Guardian",
+      "title": "Vehicles burn on Mexican highway after capture of 'El Chapo Isidro' – video",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8907366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/the-football-superstar-turned-booktuber-who-made-an-obscure-tolstoy-novella-a-belated-bestseller",
+      "provider": "The Guardian",
+      "title": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8907628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/let-refugees-work-and-contribute-to-our-society",
+      "provider": "The Guardian",
+      "title": "double quotation mark Let refugees work and contribute to our society",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8908267,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-gift-ideas-50",
+      "provider": "The Guardian",
+      "title": "The 50 best gifts under $50 in the US that don’t feel like budget picks",
+      "status": "pending",
+      "firstSeenAt": 1795381896.8908927,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
-  "discovery_errors": [],
+  "section_index": 0,
+  "discovery_errors": [
+    "https://www.abc.net.au/news: Blocked: Could not verify robots policy"
+  ],
   "provider_index": 1,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
