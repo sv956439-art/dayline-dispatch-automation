@@ -115130,9 +115130,321 @@
       "status": "pending",
       "firstSeenAt": 1795294518.3035119,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe9k23dpz0do",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795308408.050583,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c893r4923wngo",
+      "provider": "BBC",
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation. 5 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0506563,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/formula1/articles/cj03m124lp3o",
+      "provider": "BBC",
+      "title": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
+      "status": "pending",
+      "firstSeenAt": 1795308408.050715,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmq8lyv8lkjwo",
+      "provider": "BBC",
+      "title": "How a teen gamer and his mother helped rescue a missing girl When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "status": "pending",
+      "firstSeenAt": 1795308408.050891,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck4g174n020eo",
+      "provider": "BBC",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election? Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "status": "pending",
+      "firstSeenAt": 1795308408.050945,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/cwm25ev1z8y8o",
+      "provider": "BBC",
+      "title": "Australia hold on for narrow win against Wales",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0512328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ckx28w9ree9vo",
+      "provider": "BBC",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0512464,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/rugby-union/articles/c820qxx2k7y2o",
+      "provider": "BBC",
+      "title": "Ireland remind themselves that the best are beatable",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0512588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj4gn7x05yygo",
+      "provider": "BBC",
+      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0513477,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3wg6vpvxqgo",
+      "provider": "BBC",
+      "title": "45 mins ago Could Paul Mescal's GAA shorts craze be making its way to the Dior catwalk? A casting call for sportsmen in Dublin has sparked speculation that Northern Irish designer Jonathan Anderson could be bringing an unexpected influence to his first Dior show in Ireland. 45 mins ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.097872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq98x12lzllzo",
+      "provider": "BBC",
+      "title": "13 hrs ago Cuban posters on show after blackouts cause delays Rare posters printed through blackouts and shortages go on show in London. 13 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.097891,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d6w5dj2n5o",
+      "provider": "BBC",
+      "title": "17 hrs ago 'I dislike football but loved photographing Molineux' Ian Hughes' photographs of the stadium feature in an exhibition at Wolverhampton's Central Library. 17 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0979078,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3rgq8e1wg9o",
+      "provider": "BBC",
+      "title": "17 hrs ago 'I walked down the aisle with my rabbit and a Lego bouquet' From rainbow petticoats to Pokémon and Doctor Who: why more couples are putting their own stamp on weddings 17 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0979233,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jeqxk8x859o",
+      "provider": "BBC",
+      "title": "18 hrs ago Book highlights neurodivergent 'unsung heroes' Each chapter features a year of creative projects from members of an art and wellbeing group. 18 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.0979602,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6regwlqj285o",
+      "provider": "BBC",
+      "title": "1 day ago Government blocks export of landmark Welsh painting in bid to save it The \"remarkable\" landscape painting of Llannerch Park in Denbighshire was completed in 1662. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.097995,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c639gv1kgerjo",
+      "provider": "BBC",
+      "title": "1 day ago The Snowman Christmas trail unveiled A trail that includes 12 sculptures from the children's book The Snowman is unveiled in Bath. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795308408.098009,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795308408.1996162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/21/army-navy-football-stadium-prank-cadets-go-army",
+      "provider": "The Guardian",
+      "title": "‘GO NAVY’ becomes ‘GO ARMY’ after overnight prank at Navy football stadium",
+      "status": "pending",
+      "firstSeenAt": 1795308408.2002165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/mp-fred-nile-dead-at-92/107413968",
+      "provider": "ABC News Australia",
+      "title": "Veteran former NSW MP Fred Nile dead at 92",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4510667,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/federal-politics-richard-marles-aukus-submarines-ai-datacentres/107413880",
+      "provider": "ABC News Australia",
+      "title": "'They are wrong': Defence minister denies US report on AUKUS submarines",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4510927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/slacks-creek-murder-change/107413926",
+      "provider": "ABC News Australia",
+      "title": "Man charged with murdering woman in Logan",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4513896,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/melbourne-three-stabbings-one-fatal-victoria-police/107413738",
+      "provider": "ABC News Australia",
+      "title": "Police investigate three Melbourne stabbings, one fatal",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4514215,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/dunwich-benevolent-asylum-workhouse-for-poor-for-80-years/107367958",
+      "provider": "ABC News Australia",
+      "title": "Island workhouse where 21,000 poor, homeless were kept 'out of sight'",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4514513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/from-roommates-to-soul-mates/107389996",
+      "provider": "ABC News Australia",
+      "title": "Sarah advertised for a roommate. The love of her life applied",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4515052,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/st-john-volunteers-fundraising-critical-equipment/107404272",
+      "provider": "ABC News Australia",
+      "title": "Ambulance volunteers left to fundraise $600,000 for new depot",
+      "status": "pending",
+      "firstSeenAt": 1795308408.451864,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/dawn-fraser-to-attend-1956-melbourne-olympics-70th-anniversary/107413872",
+      "provider": "ABC News Australia",
+      "title": "Dawn Fraser fired up for 1956 Melbourne Olympics reunion",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4518886,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/jags-krishnan-focus-last-sitting-week-parliament-/107406342",
+      "provider": "ABC News Australia",
+      "title": "Last sitting week of year turns into one WA government may prefer to forget",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4519258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/russian-cargo-ship-burns-in-baltic-sea-after-drone-strike/107413782",
+      "provider": "ABC News Australia",
+      "title": "Russian cargo ship burns in Baltic Sea after drone strike",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4521332,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/longreach-main-street-evolution/107408812",
+      "provider": "ABC News Australia",
+      "title": "With the rise of online shopping, rural main streets are changing",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4522588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/tasmania-police-officer-shot-flinders-island/107413692",
+      "provider": "ABC News Australia",
+      "title": "Tasmania Police investigate man's death and shooting of officer",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4523423,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/ama-florfenicol-apmva-decision-salmon-farming/107409898",
+      "provider": "ABC News Australia",
+      "title": "Human health should factor in antibiotic decision, AMA says",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4523687,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396",
+      "provider": "ABC News Australia",
+      "title": "One Nation rules out deal with Coalition in NSW",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4523983,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/victoria-youth-crime-intervention-not-jail-state-election/107408732",
+      "provider": "ABC News Australia",
+      "title": "Advocates warn against 'tough love' approach to youth crime in Victoria",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4524279,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/regional-taxis-struggling-to-stay-afloat-amid-rising-costs/107398456",
+      "provider": "ABC News Australia",
+      "title": "Drivers warn shouting for a taxi may become a catchcry of the past",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4524682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/palm-worker-pacific-islanders-find-community-sa-food-bowl/107297904",
+      "provider": "ABC News Australia",
+      "title": "Far from home and family, islanders find community in SA's food bowl",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4524984,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/man-critically-injured-in-burning-car-canberra-act/107413750",
+      "provider": "ABC News Australia",
+      "title": "Bystanders pull male driver from burning car in Canberra",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4525282,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/karumba-barramundi-hatchery-releases-first-fingerlings-fishers/107408146",
+      "provider": "ABC News Australia",
+      "title": "Troubled barramundi hatchery releases first fish in years",
+      "status": "pending",
+      "firstSeenAt": 1795308408.452568,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/upper-murray-hay-bale-art-trail-fire-flood-recovery/107390424",
+      "provider": "ABC News Australia",
+      "title": "Victorian farmers get creative with book-inspired hay bale sculptures",
+      "status": "pending",
+      "firstSeenAt": 1795308408.452598,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-22/behind-the-scenes-scientists-are-working-to-bring-corpse-flowers/107402372",
+      "provider": "ABC News Australia",
+      "title": "Meet the scientists working to save the corpse flower from extinction",
+      "status": "pending",
+      "firstSeenAt": 1795308408.4526274,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 5,
+  "section_index": 6,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
