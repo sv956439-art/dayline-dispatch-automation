@@ -117458,9 +117458,745 @@
       "status": "pending",
       "firstSeenAt": 1795427074.911177,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckr5g8edl94eo",
+      "provider": "BBC",
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire Huang's role at the centre of his company's journey to lynchpin of AI proved crucial. 4 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2400358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm894p88jzxpo",
+      "provider": "BBC",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner. 53 mins ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2400632,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c9gkldn06l87o",
+      "provider": "BBC",
+      "title": "Andrew received £750,000 from Turkish millionaire, court told The former Duke of York is expected to give evidence in the complex court case next month. 2 hrs ago UK",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2400827,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr930y92dyx4o",
+      "provider": "BBC",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks. 4 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2401142,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2l5kgpw5l5o",
+      "provider": "BBC",
+      "title": "California Democrat to resign from Congress after evidence of sexual misconduct Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member. 12 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2401328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/culture/article/20261120-the-scandalous-heiress-who-changed-modern-art",
+      "provider": "BBC",
+      "title": "Heiress Peggy Guggenheim scandalised high society – and transformed modern art She rescued masterworks from Nazi confiscation and championed the most brilliant artists of her era. So why is this remarkable art collector remembered mostly for her romantic life?",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2401521,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/future/article/20261120-how-the-bahamas-built-a-hurricane-proof-energy-grid",
+      "provider": "BBC",
+      "title": "Weather disasters are getting more extreme. The Bahamas is betting smaller power grids will save its future As a super El Niño suppresses the Atlantic hurricane season to extraordinary lows, the Bahamas has been using the respite to race towards energy security and disaster resilience.",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2401707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cky970n83rvjo",
+      "provider": "BBC",
+      "title": "What failure of COP31 reveals about a divided world Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks. 4 hrs ago Climate",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2404366,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqpv9kr7pxmro",
+      "provider": "BBC",
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' 21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager. 8 hrs ago Technology",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2404559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cr2klqzqx1qvo",
+      "provider": "BBC",
+      "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795470111.240473,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c5rmgkv2lk73o",
+      "provider": "BBC",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'. 7 hrs ago Latin America",
+      "status": "pending",
+      "firstSeenAt": 1795470111.240516,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/ck9d7qxxl7w8o",
+      "provider": "BBC",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves? How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+      "status": "pending",
+      "firstSeenAt": 1795470111.240586,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/travel/article/20261118-switzerlands-off-grid-valley-of-ancient-stone-shelters",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.240702,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm3eg502nxw2o",
+      "provider": "BBC",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2408195,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq1j6585l5g6o",
+      "provider": "BBC",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2408342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r4gzzxvxl3o",
+      "provider": "BBC",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2408488,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cj924xvzrr2o",
+      "provider": "BBC",
+      "title": "Welfare cuts: What's been happening with Pip and universal credit? The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2408845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65y1qqw3kjxo",
+      "provider": "BBC",
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2408986,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cxq6e9vlp39jo",
+      "provider": "BBC",
+      "title": "De Bruyne's feelings for Man City will 'never change' Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2411284,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cjx2rqpr7l9lo",
+      "provider": "BBC",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2411437,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c5pv9kkwn3y3o",
+      "provider": "BBC",
+      "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2411597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/cricket/articles/cqlym8r7jvd5o",
+      "provider": "BBC",
+      "title": "England's tearaway quick bowler reinvented as a top-order batter",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2411742,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck3rgp4gv9pxo",
+      "provider": "BBC",
+      "title": "Don Toliver postpones O2 arena show after Manchester evacuation The rapper's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2412755,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4gn7d44pe9o",
+      "provider": "BBC",
+      "title": "Gran eyes festive charity glory with techno track",
+      "status": "pending",
+      "firstSeenAt": 1795470111.2412918,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckz74098jq5po",
+      "provider": "BBC",
+      "title": "Catering giant to switch main share listing to US in further blow to UK A growing number of firms have been leaving the UK to list shares in the US in recent years. 12 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795470111.3000708,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq62pn6j42jko",
+      "provider": "BBC",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%. 18 mins ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795470111.3001344,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2d94le23xyo",
+      "provider": "BBC",
+      "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌ People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant? 2 days ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795470111.3001559,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4g10p2r0g9o",
+      "provider": "BBC",
+      "title": "Poundland is facing collapse - what's gone wrong? Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "status": "pending",
+      "firstSeenAt": 1795470111.3005116,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6jre7gpdw13o",
+      "provider": "BBC",
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "status": "pending",
+      "firstSeenAt": 1795470111.3005393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5389555,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5390408,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5390546,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5391273,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.539217,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5392454,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5392587,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.539271,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5393014,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5393136,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5393257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.53935,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5393782,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5393903,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.539538,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5395641,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5395765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5396347,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5396476,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5396597,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5396717,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
+      "provider": "The Guardian",
+      "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+      "status": "pending",
+      "firstSeenAt": 1795470111.539724,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+      "provider": "The Guardian",
+      "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5397558,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/nov/23/footage-shows-ukrainian-marine-drones-targeting-russian-ships-video",
+      "provider": "The Guardian",
+      "title": "Footage shows Ukrainian marine drones targeting Russian ships – video",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5397956,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
+      "provider": "The Guardian",
+      "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5398114,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+      "provider": "The Guardian",
+      "title": "double quotation mark Nvidia’s humiliated board should resign out of embarrassment",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5398364,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+      "provider": "The Guardian",
+      "title": "How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5398915,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/23/focker-in-law-review-triangle-of-sadness-as-ariana-grande-joins-stiller-and-de-niro-in-the-circle-of-trust",
+      "provider": "The Guardian",
+      "title": "Focker In-Law review – triangle of sadness as Ariana Grande joins Stiller and De Niro in the circle of trust",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5399058,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/23/lech-walesa-nobel-peace-prize-bill-clinton",
+      "provider": "The Guardian",
+      "title": "Lech Walesa calls for Nobel peace prize for US president – no, not that one",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5399199,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+      "provider": "The Guardian",
+      "title": "Nine people shot at central California concert with one in critical condition",
+      "status": "pending",
+      "firstSeenAt": 1795470111.5399418,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
+      "provider": "ABC News Australia",
+      "title": "Trump says he convinced Nvidia to reinstate Jensen Huang",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0977135,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/nvidia-jensen-huang-timeline/107419314",
+      "provider": "ABC News Australia",
+      "title": "Jensen Huang's extraordinary return, and why it isn't the end of the Nvidia saga",
+      "status": "pending",
+      "firstSeenAt": 1795470112.097764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
+      "provider": "ABC News Australia",
+      "title": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0977871,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/ai-bubble-has-not-burst-but-it-has-significantly-deflated/107416578",
+      "provider": "ABC News Australia",
+      "title": "The AI bubble hasn't burst, but it has significantly deflated",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0978093,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/wong-sounds-alarm-over-us-china-rivalry/107418278",
+      "provider": "ABC News Australia",
+      "title": "Wong warns US and China are weakening the rules that keep the peace",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0978427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494",
+      "provider": "ABC News Australia",
+      "title": "Big squeeze on Australian renters deepens, spreads",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0978754,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/the-truth-behind-food-labels/107390344",
+      "provider": "ABC News Australia",
+      "title": "The three things to look for on food packaging — and what to ignore",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0979085,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/king-charles-and-elton-john-molly-meldrum-tribute/107419402",
+      "provider": "ABC News Australia",
+      "title": "King Charles and Elton John pay tribute to Molly Meldrum",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0979407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512",
+      "provider": "ABC News Australia",
+      "title": "Turkish heiress paid former prince Andrew 750k pound 'bribe', UK court told",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0979772,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/federal-politics-live-blog-parliament-nov-24/107417818",
+      "provider": "ABC News Australia",
+      "title": "Albanese to meet with Singaporean counterpart for trade talks",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0980074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/qld-postnatal-depression-rates-rise/107399948",
+      "provider": "ABC News Australia",
+      "title": "Calls for more screening of new parents in risky post-birth period",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0980272,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/cost-of-hobart-macquarie-point-stadium-rises/107417074",
+      "provider": "ABC News Australia",
+      "title": "Hobart's Macquarie Point stadium cost rises to $1.23b",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0980575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/qld-gold-coast-assaults-leave-two-injured-schoolies/107419590",
+      "provider": "ABC News Australia",
+      "title": "Teen boy critical and eight in custody after altercation near Schoolies site",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0980773,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/year-of-tourism-australia-china/107417630",
+      "provider": "ABC News Australia",
+      "title": "China's tourists are coming back to Australia next year",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0981066,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/angela-tiatia-exhibition-muse-newcastle-art-gallery/107390686",
+      "provider": "ABC News Australia",
+      "title": "Model-turned-artist subverts Pasifika stereotypes in major new survey",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0981765,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/the-gift-of-not-giving-this-christmas/107309744",
+      "provider": "ABC News Australia",
+      "title": "My no-gift rule for adults has been a game changer for our family",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0982187,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/abc-quiz-celebrations-around-the-world/107397288",
+      "provider": "ABC News Australia",
+      "title": "How much do you know about celebrations around the world?",
+      "status": "pending",
+      "firstSeenAt": 1795470112.098258,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/victorian-election-unions-abandon-labor/107367014",
+      "provider": "ABC News Australia",
+      "title": "As Victorian Labor fights for survival, several unions have left its side",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0983474,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/nurse-squeezed-18yo-patients-genitals-at-royal-adelaide-hospital/107404166",
+      "provider": "ABC News Australia",
+      "title": "Nurse squeezed 18yo's genitals while taking blood, tribunal finds",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0984955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/great-food-con-supermarket-survival-guide/107395784",
+      "provider": "ABC News Australia",
+      "title": "Your supermarket survival guide, according to dieticians",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0985162,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/victorian-election-parties-pothole-promises/107416310",
+      "provider": "ABC News Australia",
+      "title": "Election promises not enough to fix Victoria's crumbling roads, experts say",
+      "status": "pending",
+      "firstSeenAt": 1795470112.098572,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/bbc-orders-mount-gambier-parade-bluey-float-banned/107415938",
+      "provider": "ABC News Australia",
+      "title": "BBC bans Bluey float from Aussie Christmas parade over copyright",
+      "status": "pending",
+      "firstSeenAt": 1795470112.098604,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/remote-nt-parents-worried-as-arnhem-land-childcare-centres-shut/107417986",
+      "provider": "ABC News Australia",
+      "title": "Remote NT parents 'barely' coping after three childcare centres close",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0986292,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/georgie-and-maddy-prespakis-first-sisters-to-win-w-award/107418936",
+      "provider": "ABC News Australia",
+      "title": "W Award winner Georgie 'not anymore' in older sister Maddy's shadow",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0986872,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/pelicot-nude-photos-used-to-promote-psychoanalyst-book/107419434",
+      "provider": "ABC News Australia",
+      "title": "Pelicot 'once again humiliated' as nude photos used to promote book",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0987425,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/russia-return-to-sport-olympics-ioc-2028-la/107419444",
+      "provider": "ABC News Australia",
+      "title": "Legal battle looms over potential Russian return to international sport",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0987728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/zelensky-says-ukraine-struck-russian-ship-near-libya/107418718",
+      "provider": "ABC News Australia",
+      "title": "Ukraine strikes two Russian vessels off Libyan coast",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0988028,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/australian-made-nuclear-microreactor/107409752",
+      "provider": "ABC News Australia",
+      "title": "Ute-sized nuclear reactor reignites energy debate",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0988328,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/djaara-vote-to-remove-members-dunolly-lee-family/107416134",
+      "provider": "ABC News Australia",
+      "title": "Traditional owner group votes to strip adopted family of membership",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0989406,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/act-government-to-review-indigenous-protocol-within-12-months/107417430",
+      "provider": "ABC News Australia",
+      "title": "ACT government given 12 months to review 'offensive' Indigenous protocol",
+      "status": "pending",
+      "firstSeenAt": 1795470112.098971,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/91000-child-protection-reports-domestic-violence-nsw-in-a-year/107404086",
+      "provider": "ABC News Australia",
+      "title": "Number of child protection reports made 'sickening', youth advocate says",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0990412,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-24/regional-renting-unaffordable-data-shows/107416472",
+      "provider": "ABC News Australia",
+      "title": "Bus driver's 1,000km journey to find affordable home to rent",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0994387,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/geelong-cats-star-georgie-prespakis-wins-aflw-best-and-fairest/107418916",
+      "provider": "ABC News Australia",
+      "title": "Cats star Georgie Prespakis wins AFLW best and fairest",
+      "status": "pending",
+      "firstSeenAt": 1795470112.0996716,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 2,
+  "section_index": 3,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
