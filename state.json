@@ -116418,12 +116418,522 @@
       "status": "pending",
       "firstSeenAt": 1795381896.8908927,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
+      "provider": "BBC",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated. 2 hrs ago Business",
+      "status": "pending",
+      "firstSeenAt": 1795397964.186081,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqdr15l32d3go",
+      "provider": "BBC",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building. 2 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1795397964.1861186,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c3qj57rkd2k1o",
+      "provider": "BBC",
+      "title": "Australian music legend Molly Meldrum dies aged 83 The promoter and broadcaster helped define the music tastes of Australians for decades. 35 mins ago Australia",
+      "status": "pending",
+      "firstSeenAt": 1795397964.1861382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmde1dy82lepo",
+      "provider": "BBC",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\". 3 hrs ago Politics",
+      "status": "pending",
+      "firstSeenAt": 1795397964.1864448,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cwd012903kvgo",
+      "provider": "BBC",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "status": "pending",
+      "firstSeenAt": 1795397964.1870382,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cmn80y5w84qqo",
+      "provider": "BBC",
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "status": "pending",
+      "firstSeenAt": 1795397964.1870544,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cm782j80yypwo",
+      "provider": "BBC",
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "status": "pending",
+      "firstSeenAt": 1795397964.1870718,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cjn5023e6ez4o",
+      "provider": "BBC",
+      "title": "Former UK PMs pile in with advice for Andy Burnham on EU plans, but will he listen? Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise. 20 hrs ago BBC InDepth",
+      "status": "pending",
+      "firstSeenAt": 1795397964.2241707,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8e0p5dexy6o",
+      "provider": "BBC",
+      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place. 21 hrs ago Culture",
+      "status": "pending",
+      "firstSeenAt": 1795397964.2242885,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxm2mjn27m02o",
+      "provider": "BBC",
+      "title": "3 Baker thought Call of Duty cake call was a prank",
+      "status": "pending",
+      "firstSeenAt": 1795397964.2243168,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmn80vqej905o",
+      "provider": "BBC",
+      "title": "5 Rural crime 'out of control', says farmer",
+      "status": "pending",
+      "firstSeenAt": 1795397964.2243369,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cx30g83716lzo",
+      "provider": "BBC",
+      "title": "Fifa to confirm UK as host for 2035 Women's World Cup Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966. 4 hrs ago Women's World Cup",
+      "status": "pending",
+      "firstSeenAt": 1795397964.2244163,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/darts/articles/cklye10j4z1yo",
+      "provider": "BBC",
+      "title": "Price wins Grand Slam to end wait for major title Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final. 5 hrs ago Darts",
+      "status": "pending",
+      "firstSeenAt": 1795397964.2244601,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.3060079,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.3060262,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.3060386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.306051,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.3063931,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.306405,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795397964.3064177,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/23/kindness-of-strangers-stuck-in-a-sea-of-legs-and-feet-a-beautiful-man-offered-his-hand",
+      "provider": "The Guardian",
+      "title": "Kindness of strangers: I was stuck sitting in a sea of legs and feet when a beautiful young man offered me his hand",
+      "status": "pending",
+      "firstSeenAt": 1795397964.3065808,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-countdown-host-music-industry-icon-dies/3735358",
+      "provider": "ABC News Australia",
+      "title": "Molly Meldrum, the 'most important person in pop', dies aged 83",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4508023,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-dies-aged-83/107416596",
+      "provider": "ABC News Australia",
+      "title": "Molly Meldrum's rise from country Victoria to TV legend",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4508672,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/live-updates-molly-meldrum-dead-reactions/101801706",
+      "provider": "ABC News Australia",
+      "title": "Family says Meldrum 'deeply loved' and shaped the sound of Australia",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4508834,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-dead-tributes-aus-music-champion/107415810",
+      "provider": "ABC News Australia",
+      "title": "State funeral for 'life force' of Australian music Molly Meldrum",
+      "status": "pending",
+      "firstSeenAt": 1795397964.450905,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-ultimate-tastemaker/10895990",
+      "provider": "ABC News Australia",
+      "title": "Molly was the original gatekeeper whose taste in music shaped our own",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4509375,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518",
+      "provider": "ABC News Australia",
+      "title": "Climate talks crash a sign of anger with oil lobby, scientist says",
+      "status": "pending",
+      "firstSeenAt": 1795397964.450959,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+      "provider": "ABC News Australia",
+      "title": "Wall Street crashes to correction territory and ASX opens lower",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4509916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/albanese-cheaper-medicines-pbs-script-cost-of-living/107415508",
+      "provider": "ABC News Australia",
+      "title": "PBS medicines to cost no more than $25 until end of decade",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4510128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/qld-sam-wood-domestic-violence-court-mention/107415574",
+      "provider": "ABC News Australia",
+      "title": "Sam Wood's new lawyer says he wants to propose justice mediation",
+      "status": "pending",
+      "firstSeenAt": 1795397964.451045,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/gas-reservation-policy-looms-amid-feud-in-the-gas-lobby/105923994",
+      "provider": "ABC News Australia",
+      "title": "More gas for Australia, but one player is called out for not playing fair",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4510877,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+      "provider": "ABC News Australia",
+      "title": "Albanese offers limited cost-of-living relief to ease pressure on households",
+      "status": "pending",
+      "firstSeenAt": 1795397964.451119,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/victoria-election-live-updates-labor-lib-campaign/107415730",
+      "provider": "ABC News Australia",
+      "title": "Community safety in election focus after violent weekend in Melbourne",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4511416,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
+      "provider": "ABC News Australia",
+      "title": "Recession could hit Australia by next month on one closely-watched indicator",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4511611,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908",
+      "provider": "ABC News Australia",
+      "title": "Drone strikes kill four in Khartoum and damage UN building",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4511917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+      "provider": "ABC News Australia",
+      "title": "Democrats clinch their largest House majority since 1992",
+      "status": "pending",
+      "firstSeenAt": 1795397964.451236,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280",
+      "provider": "ABC News Australia",
+      "title": "Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'",
+      "status": "pending",
+      "firstSeenAt": 1795397964.451257,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/sam-neill-the-fox-dario-russo-olivia-colman-emily-browning/107407386",
+      "provider": "ABC News Australia",
+      "title": "The Fox is an adults-only Round the Twist starring Sam Neill",
+      "status": "pending",
+      "firstSeenAt": 1795397964.451277,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/a-letter-helped-this-single-mum-find-a-home/107299790",
+      "provider": "ABC News Australia",
+      "title": "A heartfelt letter helped this single mum enter the property market",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4513326,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/this-week-in-history-quiz-november-23/107406384",
+      "provider": "ABC News Australia",
+      "title": "Get your weekly blast from the past with the history quiz",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4513628,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/recipe-of-the-year-winner-laura-mclellan-on-top-prize/107397656",
+      "provider": "ABC News Australia",
+      "title": "Recipe of the Year winner proud to have put a spotlight on Laos cuisine",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4513943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/paramedics-ambulance-funding-tasmania/107414326",
+      "provider": "ABC News Australia",
+      "title": "Tasmania to get extra pool of paramedic relief staff after two patient deaths",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4516745,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/aboriginal-children-most-vulnerable-to-mosquito-viruses/107382920",
+      "provider": "ABC News Australia",
+      "title": "Wet season warning of deadly mosquito virus in remote WA",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4517603,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/sa-health-denies-using-blackout-as-smokescreen/107415760",
+      "provider": "ABC News Australia",
+      "title": "SA Health denies using blackout as smokescreen for apology and backflip",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4518137,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/election-victorian-labor-election-defeat-albanese-stays-away/107414442",
+      "provider": "ABC News Australia",
+      "title": "Labor faces potentially catastrophic result in Victoria while PM gives it a wide berth",
+      "status": "pending",
+      "firstSeenAt": 1795397964.451845,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/can-not-pay-your-mortgage-what-to-do/107413984",
+      "provider": "ABC News Australia",
+      "title": "Struggling to afford your mortgage? You are not alone",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4518778,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/sergeant-michael-preshaw-flinders-island-police-shooting/107415264",
+      "provider": "ABC News Australia",
+      "title": "Flinder Island officer was 'ambushed' by man with stolen shotgun, police say",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4519083,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/red-imported-fire-ants-found-western-sydney/107415336",
+      "provider": "ABC News Australia",
+      "title": "'Worrying development' as second fire ant nest discovered in Sydney",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4519386,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/teenagers-charged-fatal-stabbing-in-melbourne-cbd/107415250",
+      "provider": "ABC News Australia",
+      "title": "Teenagers charged after fatal stabbing in Melbourne's CBD",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4519682,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/christine-moe-husband-soe-reh-murder-charge/107415332",
+      "provider": "ABC News Australia",
+      "title": "Logan man accused of wife's stabbing murder set to face court",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4519987,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
+      "provider": "ABC News Australia",
+      "title": "Australia's neighbour 'heading towards disaster' with oil and gas project, experts say",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4520302,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/victorian-election-analysis-liberal-labor-greens-preference/107413848",
+      "provider": "ABC News Australia",
+      "title": "Liberals' how-to-vote card could put Greens out of key inner-Melbourne seat race",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4520705,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/bob-katter-supports-victoria-independents-election-campaign/107404796",
+      "provider": "ABC News Australia",
+      "title": "Bob Katter throws support behind independents ahead of Victorian election",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4521012,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574",
+      "provider": "ABC News Australia",
+      "title": "Concern about data centres go from 'zero to 100' ahead of state election",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4521308,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/victorian-election-promises-industry-nostalgia/107317574",
+      "provider": "ABC News Australia",
+      "title": "Experts say nostalgia for traditional industries resonates with voters",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4521582,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/oscar-piastri-third-f1-las-vegas-grand-prix/106998752",
+      "provider": "ABC News Australia",
+      "title": "In F1's 'most chaotic race ever', Piastri finally able to find his mojo",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4521844,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/koala-rehab-centre-on-stradbroke-island-keeps-them-on-island/107399916",
+      "provider": "ABC News Australia",
+      "title": "Koala joey's fate shows rehab centre a 'game changer' for island",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4522662,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/working-from-home-wfh-arrangements-anz/107376934",
+      "provider": "ABC News Australia",
+      "title": "Work from home breaches raise questions for employees and companies",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4523144,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/public-housing-tenants-derby-maintenance-delays-dhw-apology/107396154",
+      "provider": "ABC News Australia",
+      "title": "Family 'saddened' it took an ABC query to end two-year wait for a safer home",
+      "status": "pending",
+      "firstSeenAt": 1795397964.452346,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/mental-health-politicians-damaged-at-work/107413890",
+      "provider": "ABC News Australia",
+      "title": "Most Australian MPs believe politics has damaged their mental health",
+      "status": "pending",
+      "firstSeenAt": 1795397964.452377,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/hydrogen-company-hysata-cuts-jobs-after-49m-grant/107410440",
+      "provider": "ABC News Australia",
+      "title": "Hydrogen energy company cuts staff two months after $49m federal grant",
+      "status": "pending",
+      "firstSeenAt": 1795397964.452431,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/more-funding-needed-to-equip-nsw-rental-taskforce-says-union/106973144",
+      "provider": "ABC News Australia",
+      "title": "NSW renters' bonds could generate $200m a year to help tenants, union says",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4524593,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/charlie-rowbottom-and-georgie-prespakis-aflw-awards/107402750",
+      "provider": "ABC News Australia",
+      "title": "How Prespakis and Rowbottom are leading new era of AFLW stars",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4529393,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-23/australia-draws-with-denmark-at-fifa-u17-world-cup/107415340",
+      "provider": "ABC News Australia",
+      "title": "Joeys come back to Earth with frustrating World Cup result",
+      "status": "pending",
+      "firstSeenAt": 1795397964.4529612,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 0,
-  "discovery_errors": [
-    "https://www.abc.net.au/news: Blocked: Could not verify robots policy"
-  ],
+  "section_index": 1,
+  "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
   "searchStatus": "local_free_search_budget_reached",
