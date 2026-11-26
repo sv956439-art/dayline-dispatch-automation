@@ -121242,9 +121242,657 @@
       "status": "pending",
       "firstSeenAt": 1795633941.3744648,
       "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqx2wrkyrdn8o",
+      "provider": "BBC",
+      "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168 A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice. 3 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5343409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqy7rn30v314o",
+      "provider": "BBC",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital. 4 hrs ago World",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5343606,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwkgr38l2g9yo",
+      "provider": "BBC",
+      "title": "Macy's postpones Thanksgiving parade due to weather The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms. 2 hrs ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5343764,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckn806qq760po",
+      "provider": "BBC",
+      "title": "California warns of flooding as king tides peak over Thanksgiving Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday. 48 mins ago US & Canada",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5343916,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0md8g14zryo",
+      "provider": "BBC",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5345962,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxj05mv723r2o",
+      "provider": "BBC",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases. 6 hrs ago Middle East",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5346189,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq0l34e4kkr5o",
+      "provider": "BBC",
+      "title": "North Korea expels Swiss diplomat in sanctions row Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing. 4 hrs ago Asia",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5346513,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmvg2989wv74o",
+      "provider": "BBC",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later. 3 hrs ago Europe",
+      "status": "pending",
+      "firstSeenAt": 1795659106.534666,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwe89jyz4012o",
+      "provider": "BBC",
+      "title": "The US pastor who wants to see women's right to vote overturned The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5348575,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ck62y23z58yeo",
+      "provider": "BBC",
+      "title": "As foreign troops withdraw from Somalia, could al-Shabab take over? Somalia relies heavily on foreign funding and military support for its very survival.",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5349069,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c6wy4ejnyvdyo",
+      "provider": "BBC",
+      "title": "Spanish elections: What you need to know and what's at stake",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5349207,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq772vedgepro",
+      "provider": "BBC",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5349321,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwp836l8n1jgo",
+      "provider": "BBC",
+      "title": "US approves SpaceX plan to send a million data satellites to space The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5349634,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqd01l9x8k48o",
+      "provider": "BBC",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5349753,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c6vg24l724l4o",
+      "provider": "BBC",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "status": "pending",
+      "firstSeenAt": 1795659106.53518,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cqm2l0gelkzxo",
+      "provider": "BBC",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5351927,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c65y10z8k59jo",
+      "provider": "BBC",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5352156,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/ckjrel5vdj9zo",
+      "provider": "BBC",
+      "title": "BBC launches partnership with Met Office for weather coverage The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+      "status": "pending",
+      "firstSeenAt": 1795659106.535288,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm8x0vdw7zrvo",
+      "provider": "BBC",
+      "title": "Aboriginal artefacts returned by University of Aberdeen",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5352998,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3vk6vr44po",
+      "provider": "BBC",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5353117,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c0666rn4l5vo",
+      "provider": "BBC",
+      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+      "status": "pending",
+      "firstSeenAt": 1795659106.5353231,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cvze7y3px512o",
+      "provider": "BBC",
+      "title": "Solar farm plan sparks fears of new industrialisation for ex-pit areas",
+      "status": "pending",
+      "firstSeenAt": 1795659106.609298,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cv8e049lzxk5o",
+      "provider": "BBC",
+      "title": "Southern white rhino calf born at Blair Drummond Safari Park",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6093128,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cqpv9kljx79mo",
+      "provider": "BBC",
+      "title": "20 hrs ago Team learning climate change lessons from farmers Five scientists from Harper Adams University are taking part in a European climate change study. 20 hrs ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6094165,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cmy0xj41kl50o",
+      "provider": "BBC",
+      "title": "1 day ago The rising cost of putting food on the table in India India's food inflation is broadening, squeezing household budgets. 1 day ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6094317,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c65y1g1yjpj7o",
+      "provider": "BBC",
+      "title": "2 days ago More than £40k raised for station cat's vet bills George is receiving veterinary care and is due to undergo scans, his social media manager says. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6094458,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cwlymgdp99vjo",
+      "provider": "BBC",
+      "title": "2 days ago Town opposes plan for houses near beauty spot A planning application has been put in to build homes next to the town's cemetery and large mere. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6094596,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4gn2vde8m8o",
+      "provider": "BBC",
+      "title": "2 days ago Goats drafted in to tame Greenwich Park slope Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory. 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6094725,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/c60rkq78g05vo",
+      "provider": "BBC",
+      "title": "2 days ago Fears over pools of treated sewage in dry riverbed Campaigners call for restrictions on sewage treatment plant discharging effluent during drought 2 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6094937,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cm4gn322djjno",
+      "provider": "BBC",
+      "title": "3 days ago Zoo says sad farewell to Doris the armadillo Doris was 19 and had been with Telford Exotic Zoo since it opened 15 years ago. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6095064,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cq4gne51jp3yo",
+      "provider": "BBC",
+      "title": "3 days ago Cockerel dumping rise despite allotment ban U-turn Durham County Council has reversed a cockerel allotment ban but the birds are still being dumped. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.60952,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.bbc.com/news/articles/cxq6e769dngdo",
+      "provider": "BBC",
+      "title": "3 days ago Progress made in 100-year restoration project The wildlife charity is three years in to the rewilding project in Scotland. 3 days ago",
+      "status": "pending",
+      "firstSeenAt": 1795659106.6095421,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0217595,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0218427,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0219955,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0221133,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0222409,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/media/2026/nov/26/social-media-making-it-harder-for-uk-parents-to-raise-families-survey-finds",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0222507,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0222619,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0222723,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0222826,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0223222,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.022333,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.022348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+      "provider": "The Guardian",
+      "title": "",
+      "status": "pending",
+      "firstSeenAt": 1795659107.022358,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/25/new-york-judge-upholds-mamdani-rent-freeze",
+      "provider": "The Guardian",
+      "title": "Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0224917,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/25/vanity-fair-takedown-taylor-swift-expose-hot-air",
+      "provider": "The Guardian",
+      "title": "double quotation mark Is Vanity Fair’s takedown of Taylor Swift illuminating – or just a lot of hot air?",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0225074,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
+      "provider": "The Guardian",
+      "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
+      "status": "pending",
+      "firstSeenAt": 1795659107.02253,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
+      "provider": "The Guardian",
+      "title": "‘I have 100 witnesses’: the 10 wildest moments from Aaron Rodgers’ explosive ESPN interview",
+      "status": "pending",
+      "firstSeenAt": 1795659107.0225503,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/complaints-over-aged-care-cleaner-rules/107424906",
+      "provider": "ABC News Australia",
+      "title": "Taxpayer-funded cleaners not allowed to bend down under aged care rules",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4042015,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/leah-blyth-liberal-one-nation-angus-taylor-/107428224",
+      "provider": "ABC News Australia",
+      "title": "Senator Leah Blyth defects to One Nation saying Liberals can't 'save' Australia",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4042342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/federal-politics-live-blog-november-26/107427220",
+      "provider": "ABC News Australia",
+      "title": "Abbott among growing number of Liberals criticising Leah Blyth's defection",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4042728,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/nt-government-threat-darwin-minister-and-public-areas/107429190",
+      "provider": "ABC News Australia",
+      "title": "NT Police addressing terror threat made against government ministers",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4043167,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
+      "provider": "ABC News Australia",
+      "title": "Anthropic's first data centre in Australia given environmental approval",
+      "status": "pending",
+      "firstSeenAt": 1795659107.404335,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/asx-markets-business-news-live-updates-thursday-26-november/107428134",
+      "provider": "ABC News Australia",
+      "title": "David Jones granted 3-month administration extension",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4043627,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/justin-langer-sandpaper-usman-khawaja-pat-cummins/107428088",
+      "provider": "ABC News Australia",
+      "title": "'All-time' Langer spray shut down ball tampering after Sandpapergate",
+      "status": "pending",
+      "firstSeenAt": 1795659107.404407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/tvsn-shopping-network-channel-liquidation/107428726",
+      "provider": "ABC News Australia",
+      "title": "Australia's only TV shopping network goes into liquidation",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4044342,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/duran-duran-andy-taylor-dies/107428492",
+      "provider": "ABC News Australia",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4044828,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/flinders-island-bushfire-thursday-making-significant-run/107425982",
+      "provider": "ABC News Australia",
+      "title": "Six homes destroyed or damaged as Flinders Island fights '10-metre' flames",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4045348,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/wa-police-officer-takes-in-dog-after-crash-kills-owner/107417162",
+      "provider": "ABC News Australia",
+      "title": "Grinch and Sarge, an unlikely friendship between country cop and dog",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4045727,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/david-warner-accuses-journalists-of-perpetuating-speculation/107429838",
+      "provider": "ABC News Australia",
+      "title": "David Warner takes aim at 'bullying' journalists",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4049246,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/ken-done-exhibition-1980-to-now-mosman-art-gallery/107361266",
+      "provider": "ABC News Australia",
+      "title": "Retrospective returns Ken Done to the harbour that inspired him",
+      "status": "pending",
+      "firstSeenAt": 1795659107.404943,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/australia-emissions-fall-short-2035-climate-target/107418552",
+      "provider": "ABC News Australia",
+      "title": "Emissions fall, but not fast enough to meet climate target",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4049642,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/jenna-bruton-north-melbourne-extra-emotion-big-games/107424726",
+      "provider": "ABC News Australia",
+      "title": "North star's path from family tragedy to a fourth AFLW flag tilt",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4049854,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/census-investigation-regional-wa-recount-york-northam/107414540",
+      "provider": "ABC News Australia",
+      "title": "Calls for census investigation as country towns claim ABS underestimates them",
+      "status": "pending",
+      "firstSeenAt": 1795659107.40502,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/sydney-swans-tom-papley-driving-while-suspended-dismissed/107429248",
+      "provider": "ABC News Australia",
+      "title": "Sydney Swans player has driving charge dismissed by judge",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4050457,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060",
+      "provider": "ABC News Australia",
+      "title": "Commissioner resigns after ambulance delay deaths in Queensland",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4050722,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/virgin-australia-workers-industrial-action/107428072",
+      "provider": "ABC News Australia",
+      "title": "Union warns of passenger delays as Virgin workers strike",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4051225,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/queensland-tom-tate-gold-coast-bowls-club/107421592",
+      "provider": "ABC News Australia",
+      "title": "Tom Tate's lucrative bowls-land deal with major Australian developer revealed",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4051857,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/greyhound-racing-tasmania-phase-out-legislative-protections/107428306",
+      "provider": "ABC News Australia",
+      "title": "'Perverse' vote means Tasmania ends greyhound racing without protections",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4052124,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/geelong-teacher-licence-suspended-amid-police-investigation/107425790",
+      "provider": "ABC News Australia",
+      "title": "Geelong teacher's licence suspended amid police investigation",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4052954,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078",
+      "provider": "ABC News Australia",
+      "title": "New photos reveal stadium-sized crater in asteroid knocked off course by NASA",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4053202,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/musk-spacex-datacentres-fcc/107428024",
+      "provider": "ABC News Australia",
+      "title": "US approves Musk's plan for space-based data centres",
+      "status": "pending",
+      "firstSeenAt": 1795659107.405354,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/egypt-deadly-fuel-tanker-crash-cairo-highway/107428222",
+      "provider": "ABC News Australia",
+      "title": "Fuel tanker crash on major Cairo highway kills at least 30",
+      "status": "pending",
+      "firstSeenAt": 1795659107.405381,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/sharing-light-art-installation-bondi-terror-attack-anniversary/107240280",
+      "provider": "ABC News Australia",
+      "title": "Community art to illuminate Bondi terror attack site on first anniversary",
+      "status": "pending",
+      "firstSeenAt": 1795659107.405407,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/canberra-health-services-slashes-waitlist/107427352",
+      "provider": "ABC News Australia",
+      "title": "Minister defends bumping 96pc of paediatric patients off waitlist",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4054532,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/jack-clayton-draws-on-afl-draft-experience-to-chase-test-debut/107429042",
+      "provider": "ABC News Australia",
+      "title": "Jack Clayton draws on AFL draft experience to chase Test cricket debut",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4054785,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/aflw-premiership-north-melbourne-in-sight/107427680",
+      "provider": "ABC News Australia",
+      "title": "The reason why North Melbourne dominates the AFLW landscape",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4055007,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/nrl-rule-changes-set-restarts-hip-drops/107428162",
+      "provider": "ABC News Australia",
+      "title": "NRL beefs up hip-drop penalties but sticks with set restarts",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4055324,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/nfl-aaron-rodgers-released-after-mike-mccarthy-tirade/107428264",
+      "provider": "ABC News Australia",
+      "title": "Star quarterback Rodgers released after stunning tirade against coach",
+      "status": "pending",
+      "firstSeenAt": 1795659107.4055588,
+      "attemptedAt": 0
+    },
+    {
+      "sourceUrl": "https://www.abc.net.au/news/2026-11-26/wbbl-deandra-dottin-melbourne-renegades-bowled/107428262",
+      "provider": "ABC News Australia",
+      "title": "Renegades WBBL player bowled without facing a ball",
+      "status": "pending",
+      "firstSeenAt": 1795659107.40599,
+      "attemptedAt": 0
     }
   ],
-  "section_index": 8,
+  "section_index": 0,
   "discovery_errors": [],
   "provider_index": 1,
   "researchPolicyVersion": 2,
